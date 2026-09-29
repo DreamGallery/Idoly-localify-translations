@@ -1,0 +1,309 @@
+{
+  "photo_studio-03-000-noon": {
+    "name": "クリスマス撮影"
+  },
+  "photo_studio-03-001-noon": {
+    "name": "クリスマス撮影"
+  },
+  "photo_studio-04-001-noon": {
+    "name": "クリスマス撮影"
+  },
+  "photo_studio-05-000-noon": {
+    "name": "おさかな☆\nHEAVEN"
+  },
+  "photo_studio-06-000-noon": {
+    "name": "ゆめかわ撮影"
+  },
+  "stage-live-dome-00-00": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "下手",
+    "cameraPositions[2].name": "上手",
+    "cameraPositions[3].name": "スタンド",
+    "name": "パークアリーナ武蔵野"
+  },
+  "stage-live-dome-00-01": {
+    "name": "代々木国際アリーナ"
+  },
+  "stage-live-dome-00-02": {
+    "name": "大分スポーツドーム"
+  },
+  "stage-live-dome-00-03": {
+    "name": "幕張WAVE"
+  },
+  "stage-live-dome-00-04": {
+    "name": "ニュードーム東京"
+  },
+  "stage-live-dome-00-05": {
+    "name": "国際ドーム大阪"
+  },
+  "stage-live-dome-01-00": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "下手",
+    "cameraPositions[2].name": "上手",
+    "cameraPositions[3].name": "スタンド",
+    "name": "日本伝統館"
+  },
+  "stage-live-dome-01-01": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "下手",
+    "cameraPositions[2].name": "上手",
+    "cameraPositions[3].name": "スタンド",
+    "name": "大阪国際ホール"
+  },
+  "stage-live-dome-01-02": {
+    "name": "大阪WINGスタジアム"
+  },
+  "stage-live-dome-01-03": {
+    "name": "国立記念競技場"
+  },
+  "stage-live-dome-01-04": {
+    "name": "横浜スカイスタジアム"
+  },
+  "stage-live-dome-01-05": {
+    "name": "新国立記念競技場"
+  },
+  "stage-live-dome-01-06": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "下手",
+    "cameraPositions[2].name": "上手",
+    "cameraPositions[3].name": "スタンド",
+    "name": "日本伝統館"
+  },
+  "stage-live-dome-02-00": {
+    "name": "横浜ガーデンホール"
+  },
+  "stage-live-dome-02-01": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "下手",
+    "cameraPositions[2].name": "上手",
+    "cameraPositions[3].name": "スタンド",
+    "name": "前橋グラスドーム"
+  },
+  "stage-live-dome-02-02": {
+    "name": "名古屋ブルードーム"
+  },
+  "stage-live-dome-02-03": {
+    "name": "調布ビッグスタジアム"
+  },
+  "stage-live-dome-03-00": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "下手",
+    "cameraPositions[2].name": "上手",
+    "cameraPositions[3].name": "スタンド",
+    "name": "パシフィックドーム"
+  },
+  "stage-live-dome-03-01": {
+    "name": "神戸ハーバー競技場"
+  },
+  "stage-live-dome-03-02": {
+    "name": "エポックスタジアム"
+  },
+  "stage-live-dome-03-03": {
+    "name": "シティドーム札幌"
+  },
+  "stage-live-dome-04-00": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "下手",
+    "cameraPositions[2].name": "上手",
+    "cameraPositions[3].name": "スタンド",
+    "name": "パークアリーナ埼玉"
+  },
+  "stage-live-dome-04-01": {
+    "name": "グリーンドーム福岡"
+  },
+  "stage-live-dome-05-00": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "下手",
+    "cameraPositions[2].name": "上手",
+    "cameraPositions[3].name": "スタンド",
+    "name": "パークアリーナ武蔵野"
+  },
+  "stage-live-hall-00-00": {
+    "name": "新宿FLAME"
+  },
+  "stage-live-hall-00-01": {
+    "name": "大手町プラザ"
+  },
+  "stage-live-hall-00-02": {
+    "name": "中野ワンダーランド"
+  },
+  "stage-live-hall-00-03": {
+    "name": "新木場Seaシアター"
+  },
+  "stage-live-hall-01-00": {
+    "name": "有楽町ホール"
+  },
+  "stage-live-hall-01-01": {
+    "name": "ブリッジ赤坂"
+  },
+  "stage-live-hall-01-02": {
+    "name": "シティホール大宮"
+  },
+  "stage-live-hall-01-03": {
+    "name": "上越文化ホール"
+  },
+  "stage-live-hall-02-00": {
+    "name": "PUEBLO川崎"
+  },
+  "stage-live-hall-02-01": {
+    "name": "スターホール品川"
+  },
+  "stage-live-hall-02-03": {
+    "name": "NADホール"
+  },
+  "stage-live-hall-03-00": {
+    "name": "GREENステージ渋谷"
+  },
+  "stage-live-hall-03-01": {
+    "name": "舞浜アリーナ"
+  },
+  "stage-live-hall-03-02": {
+    "name": "東京国際シアター"
+  },
+  "stage-live-hall-03-03": {
+    "name": "横浜セントラルホール"
+  },
+  "stage-live-house-00-00": {
+    "name": "Rapture渋谷"
+  },
+  "stage-live-house-00-00-medium": {
+    "name": "Rapture渋谷"
+  },
+  "stage-live-house-01-00": {
+    "name": "秋葉原フレッシュ劇場"
+  },
+  "stage-live-house-01-00-medium": {
+    "name": "秋葉原フレッシュ劇場"
+  },
+  "stage-live-house-01-01": {
+    "name": "リズムホール神奈川"
+  },
+  "stage-live-house-01-01-medium": {
+    "name": "リズムホール神奈川"
+  },
+  "stage-live-house-02-00": {
+    "name": "TERRACE下北沢"
+  },
+  "stage-live-house-02-00-medium": {
+    "name": "TERRACE下北沢"
+  },
+  "stage-live-house-02-01": {
+    "name": "渋谷CLUB DIEZ"
+  },
+  "stage-live-house-02-01-medium": {
+    "name": "渋谷CLUB DIEZ"
+  },
+  "stage-live-house-03-00": {
+    "name": "星見市高台のステージ"
+  },
+  "stage-live-house-03-00-medium": {
+    "name": "星見市高台のステージ"
+  },
+  "stage-live-house-03-01-medium": {
+    "name": "立川スクエアステージ"
+  },
+  "stage-live-unique-00-00": {
+    "name": "ミライコネクトステージ"
+  },
+  "stage-live-unique-004-00": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "下手",
+    "cameraPositions[2].name": "上手",
+    "cameraPositions[3].name": "スタンド",
+    "cameraPositions[4].name": "後ろ",
+    "name": "ミライサマーステージ"
+  },
+  "stage-live-unique-01-00": {
+    "name": "サンシャイン!!ステージ"
+  },
+  "stage-live-unique-02-00": {
+    "name": "ミライスノーステージ"
+  },
+  "stage-live-unique-03-00": {
+    "name": "プリティーラビットステージ"
+  },
+  "stage-photo-aj-00": {
+    "name": "展示スペース"
+  },
+  "stage-photo-aj-00-2025-april": {
+    "name": "展示スペース"
+  },
+  "stage-photo-aj-01": {
+    "name": "魚魚スペース"
+  },
+  "stage-photo-bedrock-00": {
+    "name": "岩盤浴"
+  },
+  "stage-photo-cafe-00": {
+    "name": "カフェ"
+  },
+  "stage-photo-cafe-00-2025-april": {
+    "name": "カフェ"
+  },
+  "stage-photo-catstreet-00": {
+    "name": "ストリート"
+  },
+  "stage-photo-catstreet-01": {
+    "name": "ストリート"
+  },
+  "stage-photo-cooking-00": {
+    "name": "配信スタジオ"
+  },
+  "stage-photo-expression-pool-00": {
+    "name": "屋外プール"
+  },
+  "stage-photo-garden-02": {
+    "name": "ガーデンテラス"
+  },
+  "stage-photo-garden-02-03": {
+    "name": "ガーデンテラス"
+  },
+  "stage-photo-hillpark-00": {
+    "name": "星見市高台"
+  },
+  "stage-photo-lesson-00": {
+    "name": "レッスン室"
+  },
+  "stage-photo-living-01": {
+    "name": "東京寮リビング"
+  },
+  "stage-photo-ministage-00": {
+    "name": "ミニステージ"
+  },
+  "stage-photo-ministage-01": {
+    "name": "月森の丘"
+  },
+  "stage-photo-pool-00": {
+    "name": "屋外プール"
+  },
+  "stage-photo-quiz-00": {
+    "name": "クイズ番組"
+  },
+  "stage-photo-recording-00": {
+    "name": "収録スタジオ"
+  },
+  "stage-photo-recording-00-2025-april": {
+    "name": "収録スタジオ"
+  },
+  "stage-photo-spa-00": {
+    "name": "温泉"
+  },
+  "stage-photo-square-00": {
+    "name": "駅前広場"
+  },
+  "stage-photo-square-00-2025-april": {
+    "name": "駅前広場"
+  },
+  "stage-photo-studio-00": {
+    "name": "撮影スタジオ"
+  },
+  "stage-photo-studio-01": {
+    "name": "ハウススタジオ"
+  },
+  "stage-photo-studio-02-000-noon": {
+    "name": "文芸部室"
+  },
+  "stage-photo-themepark-00": {
+    "name": "テーマパーク"
+  }
+}

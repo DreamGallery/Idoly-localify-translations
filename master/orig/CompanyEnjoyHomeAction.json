@@ -1,0 +1,182 @@
+{
+  "company-home-action-char-ai-01": {
+    "text": "ありがとうございます！"
+  },
+  "company-home-action-char-ai-02": {
+    "text": "さすがです！"
+  },
+  "company-home-action-char-ai-03": {
+    "text": "うわーい！"
+  },
+  "company-home-action-char-aoi-01": {
+    "text": "ありがと"
+  },
+  "company-home-action-char-aoi-02": {
+    "text": "いいね"
+  },
+  "company-home-action-char-aoi-03": {
+    "text": "おお～"
+  },
+  "company-home-action-char-chs-01": {
+    "text": "ありがとうございます……！"
+  },
+  "company-home-action-char-chs-02": {
+    "text": "素敵です……！"
+  },
+  "company-home-action-char-chs-03": {
+    "text": "嬉しい……！"
+  },
+  "company-home-action-char-hrk-01": {
+    "text": "ありがとう……！"
+  },
+  "company-home-action-char-hrk-02": {
+    "text": "へえ、やるわね"
+  },
+  "company-home-action-char-hrk-03": {
+    "text": "うふふ、嬉しいな！"
+  },
+  "company-home-action-char-kan-01": {
+    "text": "ありがとうございま～す"
+  },
+  "company-home-action-char-kan-02": {
+    "text": "やるじゃん"
+  },
+  "company-home-action-char-kan-03": {
+    "text": "やった！"
+  },
+  "company-home-action-char-kkr-01": {
+    "text": "ありがとうございますー"
+  },
+  "company-home-action-char-kkr-02": {
+    "text": "やったあ！"
+  },
+  "company-home-action-char-kkr-03": {
+    "text": "わー！　完璧！"
+  },
+  "company-home-action-char-kor-01": {
+    "text": "ありがとうございます"
+  },
+  "company-home-action-char-kor-02": {
+    "text": "やれば出来るんですね"
+  },
+  "company-home-action-char-kor-03": {
+    "text": "よし！"
+  },
+  "company-home-action-char-ktn-01": {
+    "text": "ありがとうございます"
+  },
+  "company-home-action-char-ktn-02": {
+    "text": "さすがですね"
+  },
+  "company-home-action-char-ktn-03": {
+    "text": "ふふ、嬉しいです"
+  },
+  "company-home-action-char-mei-01": {
+    "text": "ありがとね！"
+  },
+  "company-home-action-char-mei-02": {
+    "text": "よしよしっ！"
+  },
+  "company-home-action-char-mei-03": {
+    "text": "ハッピー！"
+  },
+  "company-home-action-char-mhk-01": {
+    "text": "ありがとうございます"
+  },
+  "company-home-action-char-mhk-02": {
+    "text": "少し見直しました"
+  },
+  "company-home-action-char-mhk-03": {
+    "text": "良かったです"
+  },
+  "company-home-action-char-ngs-01": {
+    "text": "ありがとうございます！"
+  },
+  "company-home-action-char-ngs-02": {
+    "text": "いいですね！"
+  },
+  "company-home-action-char-ngs-03": {
+    "text": "みんなに見せたいなぁ"
+  },
+  "company-home-action-char-rei-01": {
+    "text": "ありがとうございます"
+  },
+  "company-home-action-char-rei-02": {
+    "text": "さすがね！"
+  },
+  "company-home-action-char-rei-03": {
+    "text": "良かった"
+  },
+  "company-home-action-char-rio-01": {
+    "text": "ありがとう"
+  },
+  "company-home-action-char-rio-02": {
+    "text": "いいわね！"
+  },
+  "company-home-action-char-rio-03": {
+    "text": "いいセンスしてるわ"
+  },
+  "company-home-action-char-rui-01": {
+    "text": "ありがとうございました"
+  },
+  "company-home-action-char-rui-02": {
+    "text": "素晴らしいですね"
+  },
+  "company-home-action-char-rui-03": {
+    "text": "ふふっ"
+  },
+  "company-home-action-char-ski-01": {
+    "text": "ありがとうございます"
+  },
+  "company-home-action-char-ski-02": {
+    "text": "いいですね"
+  },
+  "company-home-action-char-ski-03": {
+    "text": "幸せですっ！"
+  },
+  "company-home-action-char-skr-01": {
+    "text": "ありがとう"
+  },
+  "company-home-action-char-skr-02": {
+    "text": "すごーい！"
+  },
+  "company-home-action-char-skr-03": {
+    "text": "嬉しいな～"
+  },
+  "company-home-action-char-smr-01": {
+    "text": "ありがとうございます！"
+  },
+  "company-home-action-char-smr-02": {
+    "text": "わぁ、嬉しい……！"
+  },
+  "company-home-action-char-smr-03": {
+    "text": "これいいですね～"
+  },
+  "company-home-action-char-suz-01": {
+    "text": "感謝いたしますわ"
+  },
+  "company-home-action-char-suz-02": {
+    "text": "すばらしいですわ！"
+  },
+  "company-home-action-char-suz-03": {
+    "text": "いいセンスですわね！"
+  },
+  "company-home-action-char-szk-01": {
+    "text": "ありがとう……"
+  },
+  "company-home-action-char-szk-02": {
+    "text": "凄い……"
+  },
+  "company-home-action-char-szk-03": {
+    "text": "ブイ……"
+  },
+  "company-home-action-char-yu-01": {
+    "text": "おおきに～"
+  },
+  "company-home-action-char-yu-02": {
+    "text": "嬉しいわぁ～"
+  },
+  "company-home-action-char-yu-03": {
+    "text": "わざわざおおきに～"
+  }
+}

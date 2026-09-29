@@ -1,0 +1,473 @@
+{
+  "music-clb-001": {
+    "composer": "八王子P、kz",
+    "lyricist": "烏屋茶房",
+    "singer": "TRINITYAiLE with 初音未来"
+  },
+  "music-clb-006": {
+    "composer": "光増ハジメ",
+    "description": "你的心灵是否光芒闪耀？",
+    "lyricist": "畑亜貴",
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "music-clb-007": {
+    "arranger": "Q-MHz、ハマダコウキ",
+    "description": "如星般照亮夜晚",
+    "name": "如星般照亮夜晚",
+    "singer": "LizNoir with 初音未来"
+  },
+  "music-clb-009": {
+    "arranger": "大久保 薫",
+    "composer": "大久保 薫",
+    "lyricist": "畑 亜貴",
+    "singer": "成宫铃×兵藤雫×赤崎心×心爱×智乃"
+  },
+  "music-hsm-001": {
+    "arranger": "清竜人",
+    "composer": "清竜人",
+    "lyricist": "清竜人",
+    "singer": "星见Production"
+  },
+  "music-hsm-002": {
+    "arranger": "Q-MHz、伊藤翼",
+    "singer": "星见Production"
+  },
+  "music-hsm-003": {
+    "arranger": "大石昌良、岸田勇気",
+    "composer": "大石昌良",
+    "description": "从告别开始的故事",
+    "lyricist": "大石昌良",
+    "name": "从告别开始的故事",
+    "singer": "星见Production"
+  },
+  "music-hsm-004": {
+    "arranger": "沖井 礼二",
+    "composer": "沖井 礼二",
+    "lyricist": "利根川貴之",
+    "singer": "星见Production"
+  },
+  "music-hsm-005": {
+    "arranger": "北川勝利",
+    "composer": "北川勝利",
+    "lyricist": "利根川貴之",
+    "singer": "星见Production"
+  },
+  "music-hsm-006": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "description": "Shine Purity～闪耀的纯度～",
+    "lyricist": "利根川貴之",
+    "name": "Shine Purity～闪耀的纯度～",
+    "singer": "星见Production"
+  },
+  "music-hsm-007": {
+    "description": "那被世人称为“青春”",
+    "name": "那被世人称为“青春”",
+    "singer": "星见Production"
+  },
+  "music-hsm-008": {
+    "arranger": "大石昌良、岸田勇気",
+    "composer": "大石昌良",
+    "description": "从告别开始的故事",
+    "lyricist": "大石昌良",
+    "name": "从告别开始的故事",
+    "singer": "经纪人 × 三枝信司 × 朝仓恭一"
+  },
+  "music-hsm-009": {
+    "arranger": "清竜人",
+    "composer": "清竜人",
+    "description": "永远是朋友",
+    "lyricist": "清竜人",
+    "name": "永远是朋友",
+    "singer": "星见Production"
+  },
+  "music-hsm-012": {
+    "arranger": "Q-MHz、伊藤翼",
+    "singer": "鱼见Production with 鱼鱼桑"
+  },
+  "music-hsm-013": {
+    "arranger": "岸田勇気",
+    "composer": "大石昌良、岸田勇気",
+    "description": "星色的万花筒",
+    "name": "星色的万花筒",
+    "singer": "星见Production"
+  },
+  "music-hsm-014": {
+    "arranger": "ハヤシベトモノリ",
+    "composer": "北川勝利、沖井礼二",
+    "description": "天堂！",
+    "lyricist": "利根川貴之、北川勝利",
+    "name": "天堂！",
+    "singer": "星见Production"
+  },
+  "music-liz-009": {
+    "description": "最高优美孤独",
+    "name": "最高优美孤独"
+  },
+  "music-liz-009-unit": {
+    "description": "最高优美孤独（琴乃、渚、遥子、怜ver.）",
+    "name": "最高优美孤独",
+    "singer": "长濑琴乃×伊吹渚×一之濑怜×佐伯遥子"
+  },
+  "music-liz-010": {
+    "arranger": "Q-MHz、薮崎太郎"
+  },
+  "music-liz-011": {
+    "arranger": "Q-MHz、大和",
+    "description": "仅凭热情活下去",
+    "name": "仅凭热情活下去"
+  },
+  "music-mna-001": {
+    "arranger": "田中秀和",
+    "composer": "田中秀和"
+  },
+  "music-mna-003": {
+    "arranger": "さかいゆう",
+    "composer": "さかいゆう"
+  },
+  "music-mna-006": {
+    "arranger": "やしきん",
+    "composer": "やしきん",
+    "description": "星之海的记忆（琴乃×莉央ver.）",
+    "lyricist": "やしきん",
+    "name": "星之海的记忆（琴乃×莉央ver.）",
+    "singer": "长濑琴乃 × 神崎莉央"
+  },
+  "music-mna-007": {
+    "arranger": "田中秀和（MONACA）",
+    "composer": "田中秀和（MONACA）"
+  },
+  "music-mna-008": {
+    "arranger": "田中秀和",
+    "composer": "田中秀和",
+    "description": "First Step（樱ver.）",
+    "name": "First Step（樱ver.）"
+  },
+  "music-moon-001": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "description": "月下儚美",
+    "lyricist": "利根川貴之",
+    "name": "月下儚美",
+    "singer": "月光风暴"
+  },
+  "music-moon-002": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "lyricist": "利根川貴之",
+    "singer": "月光风暴"
+  },
+  "music-moon-002-sun": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "description": "Daytime Moon（SUNNY PEACE ver.）",
+    "lyricist": "利根川貴之",
+    "name": "Daytime Moon（SUNNY PEACE ver.）",
+    "singer": "SUNNY PEACE"
+  },
+  "music-moon-004": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "lyricist": "利根川貴之",
+    "singer": "月光风暴"
+  },
+  "music-moon-005": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "description": "恋爱与烟花",
+    "lyricist": "利根川貴之",
+    "name": "恋爱与烟花",
+    "singer": "月光风暴"
+  },
+  "music-moon-006": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "description": "表与里",
+    "lyricist": "利根川貴之",
+    "name": "表与里",
+    "singer": "月光风暴"
+  },
+  "music-moon-007": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "description": "圣诞节与你",
+    "lyricist": "利根川貴之",
+    "name": "圣诞节与你",
+    "singer": "月光风暴"
+  },
+  "music-moon-008": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "lyricist": "利根川貴之",
+    "singer": "月光风暴"
+  },
+  "music-moon-009": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "description": "月之光",
+    "lyricist": "利根川貴之",
+    "name": "月之光",
+    "singer": "月光风暴"
+  },
+  "music-mv-001": {
+    "description": "那被世人称为“青春”",
+    "name": "那被世人称为“青春”",
+    "singer": "星见Production"
+  },
+  "music-mv-004": {
+    "arranger": "やしきん",
+    "composer": "やしきん",
+    "description": "星之海的记忆",
+    "lyricist": "やしきん",
+    "name": "星之海的记忆"
+  },
+  "music-mv-005": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "description": "表与里",
+    "lyricist": "利根川貴之",
+    "name": "表与里",
+    "singer": "月光风暴"
+  },
+  "music-mv-006": {
+    "arranger": "ハヤシベトモノリ",
+    "composer": "ハヤシベトモノリ"
+  },
+  "music-mv-007": {
+    "arranger": "谷口尚久",
+    "composer": "さかいゆう",
+    "singer": "星见Production"
+  },
+  "music-mv-008": {
+    "lyricist": "大森祥子",
+    "singer": "樱高轻音部 [平泽唯・秋山澪・田井中律・琴吹紬(CV:丰崎爱生、日笠阳子、佐藤聪美、寿美菜子)]"
+  },
+  "music-mv-009": {
+    "arranger": "沖井 礼二",
+    "composer": "沖井 礼二",
+    "lyricist": "利根川貴之",
+    "singer": "星见Production"
+  },
+  "music-mv-010": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "lyricist": "利根川貴之",
+    "singer": "月光风暴"
+  },
+  "music-mv-011": {
+    "arranger": "北川勝利",
+    "composer": "北川勝利",
+    "lyricist": "藤村鼓乃美、北川勝利",
+    "singer": "SUNNY PEACE"
+  },
+  "music-mv-013": {
+    "arranger": "さかいゆう",
+    "composer": "さかいゆう"
+  },
+  "music-mv-014": {
+    "arranger": "ハヤシベトモノリ（Plus-Tech Squeeze Box）",
+    "composer": "ハヤシベトモノリ（Plus-Tech Squeeze Box）"
+  },
+  "music-mv-015": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "description": "月下儚美",
+    "lyricist": "利根川貴之",
+    "name": "月下儚美",
+    "singer": "月光风暴"
+  },
+  "music-mv-017": {
+    "arranger": "谷口尚久",
+    "composer": "さかいゆう",
+    "singer": "星见Production"
+  },
+  "music-mv-019": {
+    "singer": "早坂芽衣 × 成宫铃"
+  },
+  "music-mv-020": {
+    "description": "鱼鱼桑音头",
+    "lyricist": "土橋亜希",
+    "name": "鱼鱼桑音头"
+  },
+  "music-mv-021": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "lyricist": "利根川貴之",
+    "singer": "月光风暴"
+  },
+  "music-mv-022": {
+    "lyricist": "稲葉エミ"
+  },
+  "music-mv-023": {
+    "lyricist": "稲葉エミ"
+  },
+  "music-mv-024": {
+    "arranger": "園田健太郎",
+    "composer": "園田健太郎",
+    "lyricist": "園田健太郎",
+    "singer": "成宫铃×兵藤雫×铃村优×长濑琴乃×川咲樱"
+  },
+  "music-mv-025": {
+    "arranger": "Q-MHz,齋藤大陽"
+  },
+  "music-sun-001": {
+    "arranger": "北川勝利",
+    "composer": "北川勝利",
+    "lyricist": "acane_madder、北川勝利",
+    "singer": "SUNNY PEACE"
+  },
+  "music-sun-003": {
+    "arranger": "北川勝利",
+    "composer": "北川勝利",
+    "lyricist": "藤村鼓乃美、北川勝利",
+    "singer": "SUNNY PEACE"
+  },
+  "music-sun-004": {
+    "arranger": "北川勝利",
+    "composer": "北川勝利",
+    "description": "夏日♡假期",
+    "lyricist": "藤村鼓乃美、北川勝利",
+    "name": "夏日♡假期",
+    "singer": "SUNNY PEACE"
+  },
+  "music-sun-005": {
+    "arranger": "北川勝利",
+    "composer": "北川勝利",
+    "description": "全力！绝对！！倒计时！！！",
+    "lyricist": "藤村鼓乃美、北川勝利",
+    "name": "全力！绝对！！倒计时！！！",
+    "singer": "SUNNY PEACE"
+  },
+  "music-sun-005-moon": {
+    "arranger": "北川勝利",
+    "composer": "北川勝利",
+    "description": "全力！绝对！！倒计时！！！（月光风暴ver.）",
+    "lyricist": "藤村鼓乃美、北川勝利",
+    "name": "全力！绝对！！倒计时！！！",
+    "singer": "月光风暴"
+  },
+  "music-sun-006": {
+    "arranger": "北川勝利",
+    "composer": "北川勝利",
+    "lyricist": "藤村鼓乃美、北川勝利",
+    "singer": "SUNNY PEACE"
+  },
+  "music-sun-007": {
+    "arranger": "北川勝利",
+    "composer": "北川勝利",
+    "description": "Let's Go!Let's Go! Peace!Peace!",
+    "lyricist": "藤村鼓乃美、北川勝利",
+    "name": "Let's Go!Let's Go! Peace!Peace!",
+    "singer": "SUNNY PEACE"
+  },
+  "music-sun-008": {
+    "arranger": "北川勝利",
+    "composer": "北川勝利",
+    "description": "可爱♡♡♡♡♡♡",
+    "lyricist": "藤村鼓乃美、北川勝利",
+    "name": "可爱♡♡♡♡♡♡",
+    "singer": "SUNNY PEACE"
+  },
+  "music-sun-009": {
+    "arranger": "土方理久音",
+    "composer": "柴矢俊彦",
+    "description": "鱼之天国（SUNNY PEACE ver.）",
+    "lyricist": "井上輝彦",
+    "name": "鱼之天国（SUNNY PEACE ver.）",
+    "singer": "SUNNY PEACE"
+  },
+  "music-thrx-001": {
+    "arranger": "ハヤシベトモノリ",
+    "composer": "ハヤシベトモノリ"
+  },
+  "music-thrx-001-unit": {
+    "arranger": "ハヤシベトモノリ",
+    "composer": "ハヤシベトモノリ",
+    "description": "Bang Bang（铃、沙季、雫ver.）",
+    "singer": "成宫铃×白石沙季×兵藤雫"
+  },
+  "music-thrx-003": {
+    "arranger": "ハヤシベトモノリ",
+    "composer": "ハヤシベトモノリ"
+  },
+  "music-thrx-004": {
+    "arranger": "ハヤシベトモノリ",
+    "composer": "ハヤシベトモノリ"
+  },
+  "music-thrx-005": {
+    "arranger": "ハヤシベトモノリ",
+    "composer": "ハヤシベトモノリ"
+  },
+  "music-thrx-006": {
+    "arranger": "ハヤシベトモノリ",
+    "composer": "ハヤシベトモノリ"
+  },
+  "music-tri-005": {
+    "arranger": "岸田勇気",
+    "composer": "岸田勇気",
+    "description": "巧克力之吻",
+    "lyricist": "やしきん",
+    "name": "巧克力之吻"
+  },
+  "music-tri-005-unit": {
+    "arranger": "岸田勇気",
+    "composer": "岸田勇気",
+    "description": "巧克力恋爱之吻（樱、芽衣、千纱ver.）",
+    "lyricist": "やしきん",
+    "name": "巧克力之吻",
+    "singer": "川咲樱×早坂芽衣×白石千纱"
+  },
+  "music-tri-006": {
+    "description": "秘事之唇",
+    "lyricist": "やしきん",
+    "name": "秘事之唇"
+  },
+  "music-tri-007": {
+    "lyricist": "稲葉エミ"
+  },
+  "music-unit-001": {
+    "arranger": "坂和也 & Wicky.Recordings",
+    "composer": "利根川貴之、坂和也",
+    "description": "心之距离",
+    "lyricist": "利根川貴之",
+    "name": "心之距离",
+    "singer": "一之濑怜 × 早坂芽衣"
+  },
+  "music-unit-002": {
+    "arranger": "やしきん",
+    "composer": "やしきん",
+    "description": "藏红花的门扉",
+    "lyricist": "やしきん",
+    "name": "藏红花的门扉",
+    "singer": "兵藤雫 × 天动瑠依"
+  },
+  "music-unit-003": {
+    "arranger": "高尾奏之介",
+    "composer": "高尾奏之介",
+    "description": "相连之心Binary",
+    "lyricist": "高尾奏之介",
+    "name": "相连之心Binary",
+    "singer": "白石沙季 × 白石千纱"
+  },
+  "music-unit-004": {
+    "description": "睡衣派对",
+    "name": "睡衣派对",
+    "singer": "睡衣派对"
+  },
+  "music-unit-005": {
+    "singer": "早坂芽衣 × 成宫铃"
+  },
+  "music-unit-008": {
+    "arranger": "岡田ピロー",
+    "composer": "たなかまゆ",
+    "lyricist": "たなかまゆ",
+    "singer": "一之濑怜 × 佐伯遥子"
+  },
+  "music-unit-009": {
+    "composer": "利根川貴之 、坂和也、Dr.Usui",
+    "description": "天使与恶魔",
+    "lyricist": "利根川貴之",
+    "name": "天使与恶魔",
+    "singer": "赤崎心 × kana"
+  }
+}

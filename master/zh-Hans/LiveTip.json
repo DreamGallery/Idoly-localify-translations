@@ -1,0 +1,62 @@
+{
+  "live_tip-audience_shortage-01": {
+    "description": "观众人数似乎较少。通过工作提升偶像的\n粉丝数和核心粉丝率吧。"
+  },
+  "live_tip-audience_shortage-02": {
+    "description": "观众人数似乎较少。观众人数越多，分数\n加成越高，且技能失误的概率越低。"
+  },
+  "live_tip-deck_unbalance-01": {
+    "description": "得分手类型似乎太多了。在SP技能位置以外\n均衡地配置支援者、增益者吧。"
+  },
+  "live_tip-deck_unbalance-02": {
+    "description": "得分手类型似乎太多了。外侧推荐配置支援者\n类型，其他位置推荐配置增益者类型。"
+  },
+  "live_tip-in_cool_time-01": {
+    "description": "在A技能发动较多的位置似乎没能顺利发动。\n配置A技能CT（冷却时间）较短的偶像吧。"
+  },
+  "live_tip-in_cool_time-02": {
+    "description": "在A技能发动较多的位置似乎没能顺利发动。\n如果有拥有2个A技能的偶像就配置试试吧。"
+  },
+  "live_tip-in_cool_time-03": {
+    "description": "A技能未发动会导致连击中断，得分无法提升。\n确认轨道信息和A技能的CT后进行合理配置吧。"
+  },
+  "live_tip-level_shortage-01": {
+    "description": "相对于演唱会难度，偶像的等级似乎不足。\n通过“偶像强化”来提升偶像等级吧。"
+  },
+  "live_tip-low_activating_rate-01": {
+    "description": "技能机会似乎被对手抢走了很多。每条轨道\n上参数较高的偶像将获得技能发动权。"
+  },
+  "live_tip-low_activating_rate-02": {
+    "description": "技能机会似乎被对手抢走了很多。\n为了夺取机会，回复体力有时会有效。"
+  },
+  "live_tip-miss-01": {
+    "description": "似乎出现了技能失误。\n用副饰品或照片来弥补精神吧。"
+  },
+  "live_tip-miss-02": {
+    "description": "似乎出现了技能失误。\n增加观众数、精神来减少技能失误吧。"
+  },
+  "live_tip-not_possessed-01": {
+    "description": "SP技能未能发动。\n在轨道信息的“SP”位置配置得分手吧。"
+  },
+  "live_tip-not_possessed-02": {
+    "description": "SP技能未能发动。在轨道信息的“SP”\n位置配置拥有SP技能的偶像吧。"
+  },
+  "live_tip-other-01": {
+    "description": "轨道颜色代表声乐、舞蹈、视觉。\n配饰和照片也要搭配对应的颜色来编队。"
+  },
+  "live_tip-other-02": {
+    "description": "偶像的等级似乎不足以应对演唱会难度。\n训练碎片不够时去市场购买吧。"
+  },
+  "live_tip-skill_heavy_weight-01": {
+    "description": "这是A技能获得分数有加成的演唱会。\n用「A技能分数提升」来增强A技能效果吧。"
+  },
+  "live_tip-skill_heavy_weight-02": {
+    "description": "这是A技能获得分数有加成的演唱会。\n把强化效果安排在A技能前触发吧。"
+  },
+  "live_tip-stamina_shortage-01": {
+    "description": "体力不足导致技能无法发动。\n用副配饰和照片来补充体力吧。"
+  },
+  "live_tip-stamina_shortage-02": {
+    "description": "体力不足导致技能无法发动。\n编入拥有体力回复技能的偶像吧。"
+  }
+}

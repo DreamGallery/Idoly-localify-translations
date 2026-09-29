@@ -1,0 +1,233 @@
+{
+  "st-eve-2107-tour": {
+    "description": "雨上がりの太陽と共に",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2108-tour": {
+    "description": "月夜に輝く恋の魔法",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2109-backside": {
+    "description": "芽吹く黒ユリの蕾",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2110-marathon": {
+    "description": "煌めく奇跡をもう一度",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2111-backside": {
+    "description": "夢踊るステージに架け橋を",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2112-marathon": {
+    "description": "羽休む聖夜のサプライズ",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2201-contest": {
+    "description": "昇る初陽に咲く笑顔",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2202-marathon": {
+    "description": "心愛溶けるビターチョコレート",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2203-race": {
+    "description": "並び立つ歌姫のフルリール",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2204-contest": {
+    "description": "愛歌う星の継承者",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2205-race": {
+    "description": "心紡ぎ合う輝きの競演",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2206-marathon": {
+    "description": "導きのファンファーレ",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2207-contest": {
+    "name": "イベントストーリー"
+  },
+  "st-eve-2208-backside": {
+    "description": "熱中☆ハプニングサマー",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2209-contest": {
+    "description": "未来とつながるマジカルメロディ",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2210-race": {
+    "description": "運命繋ぐ流星の軌跡",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2211-marathon-raid": {
+    "description": "舌戦開幕！賛美の湯",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2212-race": {
+    "description": "君と願う月灯の祝祭",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2301-contest": {
+    "description": "最高優美＊飛躍のカウントダウン",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2302-marathon-raid": {
+    "description": "守れ！純潔のベーゼ～imposition of love～",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2303-race": {
+    "description": "ぱじゃまパーティー！～夢見る少女と眠り姫～",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2304-marathon-raid": {
+    "description": "音色の輝石が紡ぐ未来",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2305-race": {
+    "description": "きょうえん！HTT＆HMA～放課後ティータイム＆星見アンバサダー～",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2306-contest": {
+    "description": "星々が奇跡と叶える約束の未来",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2307-race": {
+    "description": "灼熱のBEACH ～イライラMAX ⅢX～",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2308-marathon-raid": {
+    "description": "おしごとシークレット",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2309-backside": {
+    "description": "遥か頂に向かう秀麗",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2310-race": {
+    "description": "迷走ピリオド 涼やかな青春",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2311-marathon-raid": {
+    "description": "翔けぬけるVictoire　誓いのplume",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2312-contest": {
+    "description": "君と輝くサンシャイン!!",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2401-race": {
+    "description": "にゃんか不思議なお正月！？",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2402-contest": {
+    "description": "未来を彩るスノーフェスティバル",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2403-race": {
+    "description": "笑顔のSUNNY 繋げるPEACE",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2404-dice": {
+    "description": "不屈のChallenger～Roll the dice～",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2405-race": {
+    "description": "すれ違いのディソナンス",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2406-contest": {
+    "description": "君を照らすムーンライトロード",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2407-dice": {
+    "description": "漕ぎ出せ！アイドル★サバイバーズ",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2408-race": {
+    "description": "偽りのREALISM ～密着 新曲会議！？～",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2409-marathon-raid": {
+    "description": "開演！ぷりてぃー★エンジェル",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2410-dice": {
+    "description": "お待たせしました里帰り～星見凱旋記～",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2411-race": {
+    "description": "欺瞞の最強TWINkle",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2412-contest": {
+    "description": "心跳ねるクリスマスパーティー",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2501-race": {
+    "description": "迎春！翼に込める躍進の一念",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2502-marathon-raid": {
+    "description": "感謝を伝えるLovely Valentine's Day",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2503-dice": {
+    "description": "SOS！星見プロダクションの転送～ただのアイドルには興味ありません！？～",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2504-marathon-raid": {
+    "description": "旗揚げ！劇団★見～二人のアリスとWONDERLAND～",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2507-race": {
+    "description": "星見プロ全国ツアー　Stars Journey",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2509-contest": {
+    "description": "未来へ続く夏祭り",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2510-marathon-raid": {
+    "description": "私達の青春謳歌～DOTABATA SCHOOL FESTIVAL～",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2511-race": {
+    "description": "let's 湯けむり dancing！",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2512-dice": {
+    "description": "ドタバタ！？トラブルクリスマス！",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2601-race": {
+    "description": "新春万福　素顔の晒し合いGAME",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2602-dice": {
+    "description": "ぶつかり愛のCenter Battle！",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2603-race": {
+    "description": "あなたに捧ぐWith your songs",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2604-dice": {
+    "description": "IDOLY MATCH～地下闘技場への挑戦～",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2605-marathon-raid": {
+    "description": "ハロー！アイドル♪ 夢でつながるミラクルステージ",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2606-dice": {
+    "description": "羽ばたけ！恩返しのAile",
+    "name": "イベントストーリー"
+  },
+  "st-eve-2607-marathon-raid": {
+    "description": "PRIDE貫く頂点への道標",
+    "name": "イベントストーリー"
+  }
+}

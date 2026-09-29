@@ -1,0 +1,4915 @@
+{
+  "emb-001": {
+    "description": "最初から所持している称号",
+    "name": "駆け出し"
+  },
+  "emb-002": {
+    "description": "VENUSプログラムBIG4到達"
+  },
+  "emb-003": {
+    "description": "ユニオンの指定条件達成",
+    "name": "ユニオン統括"
+  },
+  "emb-004": {
+    "description": "ファンイベントのランクS+1以上",
+    "name": "神対応"
+  },
+  "emb-005": {
+    "description": "初任給を受け取る",
+    "name": "初任給"
+  },
+  "emb-006": {
+    "description": "過去最高の給料が5000以上",
+    "name": "稼ぎ頭"
+  },
+  "emb-007": {
+    "description": "累計ログイン日数25日以上",
+    "name": "ワーカーホリック"
+  },
+  "emb-008": {
+    "description": "マネージャーLv50",
+    "name": "一人前マネージャー"
+  },
+  "emb-009": {
+    "description": "マネージャーLv100",
+    "name": "チーフマネージャー"
+  },
+  "emb-010": {
+    "description": "メインライブ#7をクリア",
+    "name": "ライブデビュー"
+  },
+  "emb-011": {
+    "description": "メインライブ#15をクリア",
+    "name": "ホールデビュー"
+  },
+  "emb-012": {
+    "description": "メインライブ#25をクリア",
+    "name": "アリーナデビュー"
+  },
+  "emb-014": {
+    "description": "ハイスコアライブ「Fight oh!!」で100位以内獲得"
+  },
+  "emb-015": {
+    "description": "ハイスコアライブ「Fight oh!!」で1位獲得",
+    "name": "攻めちゃうんだミライ"
+  },
+  "emb-018": {
+    "description": "ハイスコアライブ「Shine Purity」で100位以内獲得"
+  },
+  "emb-019": {
+    "description": "ハイスコアライブ「Shine Purity」で1位獲得",
+    "name": "星を見て輝かせて"
+  },
+  "emb-020": {
+    "description": "ハイスコアライブ「月下儚美」で100位以内獲得",
+    "name": "月下儚美"
+  },
+  "emb-021": {
+    "description": "ハイスコアライブ「月下儚美」で1位獲得",
+    "name": "月明かり照らす光"
+  },
+  "emb-024": {
+    "description": "ハイスコアライブ「SUNNY PEACE HARMONY」で100位以内獲得"
+  },
+  "emb-025": {
+    "description": "ハイスコアライブ「SUNNY PEACE HARMONY」で1位獲得",
+    "name": "キラキラと輝いて"
+  },
+  "emb-028": {
+    "description": "ハイスコアライブ「Aile to Yell」で100位以内獲得"
+  },
+  "emb-029": {
+    "description": "ハイスコアライブ「Aile to Yell」で1位獲得",
+    "name": "まっすぐに届けるよ"
+  },
+  "emb-030": {
+    "description": "ハイスコアライブ「Shock out, Dance!!」で100位以内獲得"
+  },
+  "emb-031": {
+    "description": "ハイスコアライブ「Shock out, Dance!!」で1位獲得",
+    "name": "心を闇から取り戻せ"
+  },
+  "emb-032": {
+    "description": "VENUSタワーSTAGE50クリア",
+    "name": "期待の新人"
+  },
+  "emb-033": {
+    "description": "VENUSタワーSTAGE100クリア",
+    "name": "著名アイドル"
+  },
+  "emb-034": {
+    "description": "VENUSタワーSTAGE200クリア",
+    "name": "売れっ子アイドル"
+  },
+  "emb-035": {
+    "description": "VENUSタワーSTAGE300クリア",
+    "name": "時代の寵児"
+  },
+  "emb-036": {
+    "description": "VENUSタワーSTAGE500クリア",
+    "name": "アイドル界の至宝"
+  },
+  "emb-037": {
+    "description": "長瀬琴乃お仕事Lv30",
+    "name": "長瀬琴乃-呪縛"
+  },
+  "emb-038": {
+    "description": "伊吹渚お仕事Lv30",
+    "name": "伊吹渚-献身"
+  },
+  "emb-039": {
+    "description": "早坂芽衣お仕事Lv30",
+    "name": "早坂芽衣-憧憬"
+  },
+  "emb-040": {
+    "description": "成宮すずお仕事Lv30",
+    "name": "成宮すず-一念"
+  },
+  "emb-041": {
+    "description": "白石沙季お仕事Lv30",
+    "name": "白石沙季-熱誠"
+  },
+  "emb-042": {
+    "description": "川咲さくらお仕事Lv30",
+    "name": "川咲さくら-覚醒"
+  },
+  "emb-043": {
+    "description": "白石千紗お仕事Lv30",
+    "name": "白石千紗-昇華"
+  },
+  "emb-044": {
+    "description": "一ノ瀬怜お仕事Lv30",
+    "name": "一ノ瀬怜-不屈"
+  },
+  "emb-045": {
+    "description": "兵藤雫お仕事Lv30",
+    "name": "兵藤雫-開花"
+  },
+  "emb-046": {
+    "description": "佐伯遙子お仕事Lv30",
+    "name": "佐伯遙子-執念"
+  },
+  "emb-047": {
+    "description": "天動瑠依お仕事Lv30",
+    "name": "天動瑠依-堅固"
+  },
+  "emb-048": {
+    "description": "鈴村優お仕事Lv30",
+    "name": "鈴村優-誠忠"
+  },
+  "emb-049": {
+    "description": "奥山すみれお仕事Lv30",
+    "name": "奥山すみれ-再燃"
+  },
+  "emb-050": {
+    "description": "神崎莉央お仕事Lv30",
+    "name": "神崎莉央-気魄"
+  },
+  "emb-051": {
+    "description": "井川葵お仕事Lv30",
+    "name": "井川葵-随意"
+  },
+  "emb-052": {
+    "description": "小美山愛お仕事Lv30",
+    "name": "小美山愛-真剣"
+  },
+  "emb-053": {
+    "description": "赤崎こころお仕事Lv30",
+    "name": "赤崎こころ-打破"
+  },
+  "emb-054": {
+    "description": "「私に怖いイメージがある」読了",
+    "name": "自然な笑顔"
+  },
+  "emb-055": {
+    "description": "「こっそりゆず風呂」読了",
+    "name": "気配り上手"
+  },
+  "emb-056": {
+    "description": "「特殊能力」読了",
+    "name": "型破りなアイドル"
+  },
+  "emb-057": {
+    "description": "「ダベデジダワ～！」読了",
+    "name": "大人の階段"
+  },
+  "emb-058": {
+    "description": "「寮の惨状」読了",
+    "name": "優等生"
+  },
+  "emb-059": {
+    "description": "「なかよし大作戦」読了",
+    "name": "まだスタートライン"
+  },
+  "emb-060": {
+    "description": "「クビの危機」読了",
+    "name": "踏み出した一歩"
+  },
+  "emb-061": {
+    "description": "「アドバイスの工夫」読了",
+    "name": "以心伝心"
+  },
+  "emb-062": {
+    "description": "「アイドルMCあるある」読了",
+    "name": "おしゃべり上手"
+  },
+  "emb-0625-aile": {
+    "description": "「アイプラフェス The AiLE」開催を記念した称号"
+  },
+  "emb-063": {
+    "description": "「オール平均点」読了",
+    "name": "頼れるお姉さん"
+  },
+  "emb-064": {
+    "description": "「夜遊び禁止」読了",
+    "name": "グループの強み"
+  },
+  "emb-065": {
+    "description": "「はんなりとこてこて」読了",
+    "name": "地元愛"
+  },
+  "emb-066": {
+    "description": "「都会の流行」読了",
+    "name": "流行に敏感"
+  },
+  "emb-067": {
+    "description": "「保護者同伴」読了",
+    "name": "意外な特技"
+  },
+  "emb-068": {
+    "description": "「歌のレッスン」読了",
+    "name": "変わらないスタンス"
+  },
+  "emb-069": {
+    "description": "「私強そう事件＠お台場」読了",
+    "name": "程よい筋肉"
+  },
+  "emb-070": {
+    "description": "「ほめ殺しのこころ」読了",
+    "name": "MC上手"
+  },
+  "emb-071": {
+    "description": "ファンイベントを50回行う",
+    "name": "ファン第一！"
+  },
+  "emb-072": {
+    "description": "プロモーションを500時間行う",
+    "name": "引っ張りだこ"
+  },
+  "emb-0725-3X": {
+    "description": "「貫く絶対勝利～The strongest proof～後編」の追加を記念した称号"
+  },
+  "emb-073": {
+    "description": "リフレッシュを50回行う",
+    "name": "息抜き上手"
+  },
+  "emb-074": {
+    "description": "長瀬琴乃ファン100人",
+    "name": "長瀬琴乃担当"
+  },
+  "emb-075": {
+    "description": "長瀬琴乃ファン10万人",
+    "name": "長瀬琴乃専属"
+  },
+  "emb-076": {
+    "description": "伊吹渚ファン100人",
+    "name": "伊吹渚担当"
+  },
+  "emb-077": {
+    "description": "伊吹渚ファン10万人",
+    "name": "伊吹渚専属"
+  },
+  "emb-078": {
+    "description": "早坂芽衣ファン100人",
+    "name": "早坂芽衣担当"
+  },
+  "emb-079": {
+    "description": "早坂芽衣ファン10万人",
+    "name": "早坂芽衣専属"
+  },
+  "emb-080": {
+    "description": "成宮すずファン100人",
+    "name": "成宮すず担当"
+  },
+  "emb-081": {
+    "description": "成宮すずファン10万人",
+    "name": "成宮すず専属"
+  },
+  "emb-082": {
+    "description": "白石沙季ファン100人",
+    "name": "白石沙季担当"
+  },
+  "emb-083": {
+    "description": "白石沙季ファン10万人",
+    "name": "白石沙季専属"
+  },
+  "emb-084": {
+    "description": "川咲さくらファン100人",
+    "name": "川咲さくら担当"
+  },
+  "emb-085": {
+    "description": "川咲さくらファン10万人",
+    "name": "川咲さくら専属"
+  },
+  "emb-086": {
+    "description": "白石千紗ファン100人",
+    "name": "白石千紗担当"
+  },
+  "emb-087": {
+    "description": "白石千紗ファン10万人",
+    "name": "白石千紗専属"
+  },
+  "emb-088": {
+    "description": "一ノ瀬怜ファン100人",
+    "name": "一ノ瀬怜担当"
+  },
+  "emb-089": {
+    "description": "一ノ瀬怜ファン10万人",
+    "name": "一ノ瀬怜専属"
+  },
+  "emb-090": {
+    "description": "兵藤雫ファン100人",
+    "name": "兵藤雫担当"
+  },
+  "emb-091": {
+    "description": "兵藤雫ファン10万人",
+    "name": "兵藤雫専属"
+  },
+  "emb-092": {
+    "description": "佐伯遙子ファン100人",
+    "name": "佐伯遙子担当"
+  },
+  "emb-093": {
+    "description": "佐伯遙子ファン10万人",
+    "name": "佐伯遙子専属"
+  },
+  "emb-094": {
+    "description": "天動瑠依ファン100人",
+    "name": "天動瑠依担当"
+  },
+  "emb-095": {
+    "description": "天動瑠依ファン10万人",
+    "name": "天動瑠依専属"
+  },
+  "emb-096": {
+    "description": "鈴村優ファン100人",
+    "name": "鈴村優担当"
+  },
+  "emb-097": {
+    "description": "鈴村優ファン10万人",
+    "name": "鈴村優専属"
+  },
+  "emb-098": {
+    "description": "奥山すみれファン100人",
+    "name": "奥山すみれ担当"
+  },
+  "emb-099": {
+    "description": "奥山すみれファン10万人",
+    "name": "奥山すみれ専属"
+  },
+  "emb-100": {
+    "description": "神崎莉央ファン100人",
+    "name": "神崎莉央担当"
+  },
+  "emb-101": {
+    "description": "神崎莉央ファン10万人",
+    "name": "神崎莉央専属"
+  },
+  "emb-102": {
+    "description": "井川葵ファン100人",
+    "name": "井川葵担当"
+  },
+  "emb-103": {
+    "description": "井川葵ファン10万人",
+    "name": "井川葵専属"
+  },
+  "emb-104": {
+    "description": "小美山愛ファン100人",
+    "name": "小美山愛担当"
+  },
+  "emb-105": {
+    "description": "小美山愛ファン10万人",
+    "name": "小美山愛専属"
+  },
+  "emb-106": {
+    "description": "赤崎こころファン100人",
+    "name": "赤崎こころ担当"
+  },
+  "emb-107": {
+    "description": "赤崎こころファン10万人",
+    "name": "赤崎こころ専属"
+  },
+  "emb-108": {
+    "description": "星見編4章24話クリア",
+    "name": "月の光を手に"
+  },
+  "emb-109": {
+    "description": "星見編4章24話クリア",
+    "name": "太陽の光と共に"
+  },
+  "emb-112": {
+    "description": "撮影を30回行う",
+    "name": "敏腕カメラマン"
+  },
+  "emb-113": {
+    "description": "スタッフ育成の合計Lv200",
+    "name": "星見組"
+  },
+  "emb-114": {
+    "description": "掲示板に3回書き込む",
+    "name": "名物ライター"
+  },
+  "emb-115": {
+    "description": "掲示板に30回書き込む",
+    "name": "インフルエンサー"
+  },
+  "emb-116": {
+    "description": "長瀬琴乃ハイスコア10000000",
+    "name": "【殿堂入り】長瀬琴乃"
+  },
+  "emb-117": {
+    "description": "伊吹渚ハイスコア10000000",
+    "name": "【殿堂入り】伊吹渚"
+  },
+  "emb-118": {
+    "description": "早坂芽衣ハイスコア10000000",
+    "name": "【殿堂入り】早坂芽衣"
+  },
+  "emb-119": {
+    "description": "成宮すずハイスコア10000000",
+    "name": "【殿堂入り】成宮すず"
+  },
+  "emb-120": {
+    "description": "白石沙季ハイスコア10000000",
+    "name": "【殿堂入り】白石沙季"
+  },
+  "emb-121": {
+    "description": "川咲さくらハイスコア10000000",
+    "name": "【殿堂入り】川咲さくら"
+  },
+  "emb-122": {
+    "description": "白石千紗ハイスコア10000000",
+    "name": "【殿堂入り】白石千紗"
+  },
+  "emb-123": {
+    "description": "一ノ瀬怜ハイスコア10000000",
+    "name": "【殿堂入り】一ノ瀬怜"
+  },
+  "emb-124": {
+    "description": "兵藤雫ハイスコア10000000",
+    "name": "【殿堂入り】兵藤雫"
+  },
+  "emb-125": {
+    "description": "佐伯遙子ハイスコア10000000",
+    "name": "【殿堂入り】佐伯遙子"
+  },
+  "emb-126": {
+    "description": "天動瑠依ハイスコア10000000",
+    "name": "【殿堂入り】天動瑠依"
+  },
+  "emb-127": {
+    "description": "鈴村優ハイスコア10000000",
+    "name": "【殿堂入り】鈴村優"
+  },
+  "emb-128": {
+    "description": "奥山すみれハイスコア10000000",
+    "name": "【殿堂入り】奥山すみれ"
+  },
+  "emb-129": {
+    "description": "神崎莉央ハイスコア10000000",
+    "name": "【殿堂入り】神崎莉央"
+  },
+  "emb-130": {
+    "description": "井川葵ハイスコア10000000",
+    "name": "【殿堂入り】井川葵"
+  },
+  "emb-131": {
+    "description": "小美山愛ハイスコア10000000",
+    "name": "【殿堂入り】小美山愛"
+  },
+  "emb-132": {
+    "description": "赤崎こころハイスコア10000000",
+    "name": "【殿堂入り】赤崎こころ"
+  },
+  "emb-140": {
+    "description": "「私が出来る子ぶった事件」読了",
+    "name": "自分の夢"
+  },
+  "emb-141": {
+    "description": "「星見トピックス」読了",
+    "name": "全力サポート"
+  },
+  "emb-142": {
+    "description": "「過ぎ去る時間」読了",
+    "name": "ムードメーカー"
+  },
+  "emb-143": {
+    "description": "「地球の裏側まで」読了",
+    "name": "逃げない意思"
+  },
+  "emb-144": {
+    "description": "「ロボットダンス感」読了",
+    "name": "自立する姉"
+  },
+  "emb-145": {
+    "description": "「さくらの感覚」読了",
+    "name": "自分の歌"
+  },
+  "emb-146": {
+    "description": "「ヘビに睨まれたカエル」読了",
+    "name": "ここ一番の力"
+  },
+  "emb-147": {
+    "description": "「ダンスの壁」読了",
+    "name": "上昇志向"
+  },
+  "emb-148": {
+    "description": "「兵藤フィッシングクラブ」読了",
+    "name": "不意に見せる笑顔"
+  },
+  "emb-149": {
+    "description": "「キャンプのお仕事」読了",
+    "name": "諦めない心"
+  },
+  "emb-150": {
+    "description": "「眠り姫」読了",
+    "name": "真っ直ぐな瞳"
+  },
+  "emb-151": {
+    "description": "「ほめ殺し」読了",
+    "name": "支える気持ち"
+  },
+  "emb-152": {
+    "description": "「果物PR」読了",
+    "name": "健気な振る舞い"
+  },
+  "emb-153": {
+    "description": "「リズノワのイメージ」読了",
+    "name": "気高い心"
+  },
+  "emb-154": {
+    "description": "「カニカマと犬」読了",
+    "name": "ダンスなら負けない"
+  },
+  "emb-155": {
+    "description": "「板前感」読了",
+    "name": "筋トレ日和"
+  },
+  "emb-156": {
+    "description": "「個性を伸ばそう」読了",
+    "name": "鋭い一言"
+  },
+  "emb-157": {
+    "description": "琴乃の誕生日を迎える",
+    "name": "【誕生日】長瀬琴乃"
+  },
+  "emb-158": {
+    "description": "渚の誕生日を迎える",
+    "name": "【誕生日】伊吹渚"
+  },
+  "emb-159": {
+    "description": "芽衣の誕生日を迎える",
+    "name": "【誕生日】早坂芽衣"
+  },
+  "emb-160": {
+    "description": "すずの誕生日を迎える",
+    "name": "【誕生日】成宮すず"
+  },
+  "emb-161": {
+    "description": "沙季の誕生日を迎える",
+    "name": "【誕生日】白石沙季"
+  },
+  "emb-162": {
+    "description": "さくらの誕生日を迎える",
+    "name": "【誕生日】川咲さくら"
+  },
+  "emb-163": {
+    "description": "千紗の誕生日を迎える",
+    "name": "【誕生日】白石千紗"
+  },
+  "emb-164": {
+    "description": "怜の誕生日を迎える",
+    "name": "【誕生日】一ノ瀬怜"
+  },
+  "emb-165": {
+    "description": "雫の誕生日を迎える",
+    "name": "【誕生日】兵藤雫"
+  },
+  "emb-166": {
+    "description": "遙子の誕生日を迎える",
+    "name": "【誕生日】佐伯遙子"
+  },
+  "emb-167": {
+    "description": "莉央の誕生日を迎える",
+    "name": "【誕生日】神崎莉央"
+  },
+  "emb-168": {
+    "description": "葵の誕生日を迎える",
+    "name": "【誕生日】井川葵"
+  },
+  "emb-169": {
+    "description": "愛の誕生日を迎える",
+    "name": "【誕生日】小美山愛"
+  },
+  "emb-170": {
+    "description": "こころの誕生日を迎える",
+    "name": "【誕生日】赤崎こころ"
+  },
+  "emb-171": {
+    "description": "瑠依の誕生日を迎える",
+    "name": "【誕生日】天動瑠依"
+  },
+  "emb-172": {
+    "description": "優の誕生日を迎える",
+    "name": "【誕生日】鈴村優"
+  },
+  "emb-173": {
+    "description": "すみれの誕生日を迎える",
+    "name": "【誕生日】奥山すみれ"
+  },
+  "emb-174": {
+    "description": "ハイスコアライブ「Pray for you」で100位以内獲得"
+  },
+  "emb-175": {
+    "description": "ハイスコアライブ「Pray for you」で1位獲得",
+    "name": "心はもっと近くなる"
+  },
+  "emb-176": {
+    "description": "ハイスコアライブ「EVERYDAY! SUNNYDAY!」で100位以内獲得"
+  },
+  "emb-177": {
+    "description": "ハイスコアライブ「EVERYDAY! SUNNYDAY!」で1位獲得",
+    "name": "最高のハーモニー"
+  },
+  "emb-178": {
+    "description": "メインライブ#35をクリア",
+    "name": "ドームデビュー"
+  },
+  "emb-179": {
+    "description": "「発想の転換」読了",
+    "name": "スーパーアイドル"
+  },
+  "emb-180": {
+    "description": "長瀬麻奈ハイスコア10000000",
+    "name": "【殿堂入り】長瀬麻奈"
+  },
+  "emb-181": {
+    "description": "「キミの笑顔」読了",
+    "name": "星降る奇跡"
+  },
+  "emb-182": {
+    "description": "番外編長瀬麻奈 1章15話クリア"
+  },
+  "emb-183": {
+    "description": "ハイスコアライブ「The One and Only」で100位以内獲得"
+  },
+  "emb-184": {
+    "description": "ハイスコアライブ「The One and Only」で1位獲得",
+    "name": "一緒に輝こう"
+  },
+  "emb-185": {
+    "description": "ハイスコアライブ「réaliser」で100位以内獲得"
+  },
+  "emb-186": {
+    "description": "ハイスコアライブ「réaliser」で1位獲得",
+    "name": "君となら"
+  },
+  "emb-187": {
+    "description": "アイドル業界の労働環境改善のために戦った",
+    "name": "春闘"
+  },
+  "emb-188": {
+    "description": "ハイスコアライブ「The Last Chance」で100位以内獲得"
+  },
+  "emb-189": {
+    "description": "ハイスコアライブ「The Last Chance」で1位獲得",
+    "name": "焦るな 焦るよ 鼓動が熱い"
+  },
+  "emb-190": {
+    "description": "ハイスコアライブ「Bang Bang」で100位以内獲得"
+  },
+  "emb-191": {
+    "description": "ハイスコアライブ「Bang Bang」で1位獲得"
+  },
+  "emb-192": {
+    "description": "ハイスコアライブ「First step」で100位以内獲得"
+  },
+  "emb-193": {
+    "description": "ハイスコアライブ「First step」で1位獲得",
+    "name": "いま始まるStory"
+  },
+  "emb-194": {
+    "description": "ハイスコアライブ「SUNNY PEACE for You and Me！」で100位以内獲得"
+  },
+  "emb-195": {
+    "description": "ハイスコアライブ「SUNNY PEACE for You and Me！」で1位獲得",
+    "name": "この指とまれ！"
+  },
+  "emb-196": {
+    "description": "貴方はおにぎりを見る度に、彼女達を思い出すだろう。エバーエバーフォーエバーさとみフォーエバー",
+    "name": "握飯"
+  },
+  "emb-200": {
+    "description": "VENUSリーグでL1に到達",
+    "name": "VENUSリーグ L1到達"
+  },
+  "emb-201": {
+    "description": "VENUSリーグでL2に到達",
+    "name": "VENUSリーグ L2到達"
+  },
+  "emb-202": {
+    "description": "VENUSリーグでL3に到達",
+    "name": "VENUSリーグ L3到達"
+  },
+  "emb-203": {
+    "description": "VENUSリーグでL4に到達",
+    "name": "VENUSリーグ L4到達"
+  },
+  "emb-204": {
+    "description": "VENUSリーグでL5に到達",
+    "name": "VENUSリーグ L5到達"
+  },
+  "emb-205": {
+    "description": "バレンタイン特別合宿！",
+    "name": "努力の結晶"
+  },
+  "emb-206": {
+    "description": "バレンタイン特別合宿！",
+    "name": "友チョコガチ勢"
+  },
+  "emb-207": {
+    "description": "バレンタイン特別合宿！",
+    "name": "芽衣ちょこドーナツ"
+  },
+  "emb-208": {
+    "description": "バレンタイン特別合宿！",
+    "name": "産地直送高級カカオ"
+  },
+  "emb-209": {
+    "description": "バレンタイン特別合宿！",
+    "name": "レシピ通りの最高傑作"
+  },
+  "emb-210": {
+    "description": "バレンタイン特別合宿！",
+    "name": "味見し過ぎひとくち"
+  },
+  "emb-211": {
+    "description": "バレンタイン特別合宿！",
+    "name": "VSお姉ちゃん"
+  },
+  "emb-212": {
+    "description": "バレンタイン特別合宿！",
+    "name": "結局購入"
+  },
+  "emb-213": {
+    "description": "バレンタイン特別合宿！",
+    "name": "推しチョコ＋α"
+  },
+  "emb-214": {
+    "description": "バレンタイン特別合宿！",
+    "name": "プロ顔負け"
+  },
+  "emb-215": {
+    "description": "バレンタイン特別合宿！",
+    "name": "溶けない想い"
+  },
+  "emb-216": {
+    "description": "バレンタイン特別合宿！",
+    "name": "ちょこっとあざとい"
+  },
+  "emb-217": {
+    "description": "バレンタイン特別合宿！",
+    "name": "奥山酒造新作ショコラ"
+  },
+  "emb-218": {
+    "description": "バレンタイン特別合宿！",
+    "name": "ギリギリ義理"
+  },
+  "emb-219": {
+    "description": "バレンタイン特別合宿！",
+    "name": "深い意味はないよ"
+  },
+  "emb-220": {
+    "description": "バレンタイン特別合宿！",
+    "name": "精一杯の愛を込めて"
+  },
+  "emb-221": {
+    "description": "バレンタイン特別合宿！",
+    "name": "ダークな苦味（極）"
+  },
+  "emb-222": {
+    "description": "バレンタイン特別合宿！",
+    "name": "倍返し期待"
+  },
+  "emb-223": {
+    "description": "バレンタイン特別合宿！",
+    "name": "逆チョコ開封生配信"
+  },
+  "emb-224": {
+    "description": "バレンタイン特別合宿！",
+    "name": "最低限の礼儀"
+  },
+  "emb-225": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "青春全部かけて、アイドルの最高峰へ"
+  },
+  "emb-226": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "琴乃ちゃんにはもう泣いてほしくない"
+  },
+  "emb-227": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "すずちゃん\n月ストを支えてくれて、ありがとう"
+  },
+  "emb-228": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "だから……あなたを信じて、センターの座を託します"
+  },
+  "emb-229": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "一秒も無駄にしないつもりでステージに立ちましょう"
+  },
+  "emb-230": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "私のチョコ、受け取ってくれる？"
+  },
+  "emb-231": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "ふえ〜……\nド、ドキドキします"
+  },
+  "emb-232": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "私の気持ち、ちゃんと分かった？"
+  },
+  "emb-233": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "この劇団の座長は私…"
+  },
+  "emb-234": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "もしかして私、怪獣と間違われてる！？"
+  },
+  "emb-235": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "しましょう？　……一生の『契約』を"
+  },
+  "emb-236": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "私の顔、正面から見たかった？"
+  },
+  "emb-237": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "エール・ルミエーーーール！！"
+  },
+  "emb-238": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "誰のためでもなく、自分のために舞台に立ちたい。"
+  },
+  "emb-239": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "今の僕なら――LizNoirなら最高のステージをやれる"
+  },
+  "emb-240": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "だって……私達は四人でLizNoirだから"
+  },
+  "emb-241": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "お二人を追いかける旅は、ここで終わりです"
+  },
+  "emb-242": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "ここで呪われたら、一生恨んでやる！！"
+  },
+  "emb-243": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "franちゃん、最っ高のリアクションありがとー！！"
+  },
+  "emb-244": {
+    "description": "もうすぐ4周年記念！特別合宿！",
+    "name": "私の足を踏んだのはどちらか、後で名乗り出なさい"
+  },
+  "emb-300": {
+    "description": "franお仕事Lv30",
+    "name": "fran-狂奔"
+  },
+  "emb-301": {
+    "description": "kanaお仕事Lv30",
+    "name": "kana-孤独"
+  },
+  "emb-302": {
+    "description": "mihoお仕事Lv30",
+    "name": "miho-憂愁"
+  },
+  "emb-303": {
+    "description": "「コスパ悪い」読了",
+    "name": "ファンの声"
+  },
+  "emb-304": {
+    "description": "「テレビに出たい」読了",
+    "name": "目立ちたがり屋"
+  },
+  "emb-305": {
+    "description": "「三枝さんに密告大作戦」読了",
+    "name": "苦労人"
+  },
+  "emb-306": {
+    "description": "franファン100人",
+    "name": "fran担当"
+  },
+  "emb-307": {
+    "description": "kanaファン100人",
+    "name": "kana担当"
+  },
+  "emb-308": {
+    "description": "mihoファン100人",
+    "name": "miho担当"
+  },
+  "emb-309": {
+    "description": "franファン10万人",
+    "name": "fran専属"
+  },
+  "emb-310": {
+    "description": "kanaファン10万人",
+    "name": "kana専属"
+  },
+  "emb-311": {
+    "description": "mihoファン10万人",
+    "name": "miho専属"
+  },
+  "emb-312": {
+    "description": "franハイスコア10000000",
+    "name": "【殿堂入り】fran"
+  },
+  "emb-313": {
+    "description": "kanaハイスコア10000000",
+    "name": "【殿堂入り】kana"
+  },
+  "emb-314": {
+    "description": "mihoハイスコア10000000",
+    "name": "【殿堂入り】miho"
+  },
+  "emb-315": {
+    "description": "「耳を傾ける？」読了",
+    "name": "成功への道"
+  },
+  "emb-316": {
+    "description": "「スリーショット作戦」読了",
+    "name": "存在の証明"
+  },
+  "emb-317": {
+    "description": "「kanaの暴言」読了",
+    "name": "静かな闘志"
+  },
+  "emb-318": {
+    "description": "番外編ストーリーLizNoir読了",
+    "name": "LizNoir：番外編"
+  },
+  "emb-319": {
+    "description": "番外編ストーリーTRINITYAiLE読了",
+    "name": "TRINITYAiLE：番外編"
+  },
+  "emb-320": {
+    "description": "番外編ストーリーⅢX読了",
+    "name": "ⅢX：番外編"
+  },
+  "emb-321": {
+    "description": "初音ミクハイスコア10000000",
+    "name": "【殿堂入り】初音ミク"
+  },
+  "emb-322": {
+    "description": "初音ミク信頼度30到達",
+    "name": "電子の歌姫"
+  },
+  "emb-323": {
+    "description": "高海千歌ハイスコア10000000",
+    "name": "【殿堂入り】高海千歌"
+  },
+  "emb-324": {
+    "description": "桜内梨子ハイスコア10000000",
+    "name": "【殿堂入り】桜内梨子"
+  },
+  "emb-325": {
+    "description": "渡辺曜ハイスコア10000000",
+    "name": "【殿堂入り】渡辺曜"
+  },
+  "emb-326": {
+    "description": "高海千歌信頼度30到達",
+    "name": "普通怪獣ちかちー"
+  },
+  "emb-327": {
+    "description": "桜内梨子信頼度30到達",
+    "name": "梨子ちゃんビーム"
+  },
+  "emb-328": {
+    "description": "渡辺曜信頼度30到達",
+    "name": "全速前進ヨーソロー"
+  },
+  "emb-329": {
+    "description": "雪ミクハイスコア10000000",
+    "name": "【殿堂入り】雪ミク"
+  },
+  "emb-330": {
+    "description": "雪ミク信頼度30到達",
+    "name": "雪原の歌姫"
+  },
+  "emb-331": {
+    "description": "ココアハイスコア10000000",
+    "name": "【殿堂入り】ココア"
+  },
+  "emb-332": {
+    "description": "チノハイスコア10000000",
+    "name": "【殿堂入り】チノ"
+  },
+  "emb-333": {
+    "description": "ココア信頼度30到達",
+    "name": "お姉ちゃんに任せなさい"
+  },
+  "emb-334": {
+    "description": "チノ信頼度30到達",
+    "name": "妹じゃないです"
+  },
+  "emb-400": {
+    "description": "Collection Album [奇跡] 初回生産限定盤特典",
+    "name": "[奇跡]"
+  },
+  "emb-401": {
+    "description": "Collection Album [奇跡] 通常盤特典",
+    "name": "[奇跡]"
+  },
+  "emb-402": {
+    "description": "Collection Album [約束] 初回生産限定盤特典",
+    "name": "[約束]"
+  },
+  "emb-403": {
+    "description": "Collection Album [約束] 通常盤特典",
+    "name": "[約束]"
+  },
+  "emb-404": {
+    "description": "東京編完結記念"
+  },
+  "emb-405": {
+    "description": "それを人は“青春”と呼んだ 初回生産限定盤特典",
+    "name": "それを人は\"青春\"と呼んだ"
+  },
+  "emb-406": {
+    "description": "それを人は“青春”と呼んだ 通常盤特典",
+    "name": "それを人は\"青春\"と呼んだ"
+  },
+  "emb-407": {
+    "description": "フィギュアの購入特典",
+    "name": "天才ちゃんだぞ"
+  },
+  "emb-408": {
+    "description": "Collection Album [未来] 初回生産限定盤特典",
+    "name": "[未来]"
+  },
+  "emb-409": {
+    "description": "Collection Album [未来] 通常盤特典",
+    "name": "[未来]"
+  },
+  "emb-410": {
+    "description": "Gemstones 初回生産限定盤特典"
+  },
+  "emb-411": {
+    "description": "Gemstones 通常盤特典"
+  },
+  "emb-412": {
+    "description": "BIG4編完結記念"
+  },
+  "emb-500": {
+    "description": "VENUSバトルシーズン1で1位獲得",
+    "name": "VENUSシーズン1 No.1"
+  },
+  "emb-501": {
+    "description": "VENUSバトルシーズン1で10位以内獲得",
+    "name": "VENUSシーズン1 TOP10"
+  },
+  "emb-502": {
+    "description": "VENUSバトルシーズン1で100位以内獲得",
+    "name": "VENUSシーズン1 TOP100"
+  },
+  "emb-503": {
+    "description": "VENUSバトルシーズン2で1位獲得",
+    "name": "VENUSシーズン2 No.1"
+  },
+  "emb-504": {
+    "description": "VENUSバトルシーズン2で10位以内獲得",
+    "name": "VENUSシーズン2 TOP10"
+  },
+  "emb-505": {
+    "description": "VENUSバトルシーズン2で100位以内獲得",
+    "name": "VENUSシーズン2 TOP100"
+  },
+  "emb-506": {
+    "description": "VENUSバトルシーズン3で1位獲得",
+    "name": "VENUSシーズン3 No.1"
+  },
+  "emb-507": {
+    "description": "VENUSバトルシーズン3で10位以内獲得",
+    "name": "VENUSシーズン3 TOP10"
+  },
+  "emb-508": {
+    "description": "VENUSバトルシーズン3で100位以内獲得",
+    "name": "VENUSシーズン3 TOP100"
+  },
+  "emb-509": {
+    "description": "VENUSバトルシーズン4で1位獲得",
+    "name": "VENUSシーズン4 No.1"
+  },
+  "emb-510": {
+    "description": "VENUSバトルシーズン4で10位以内獲得",
+    "name": "VENUSシーズン4 TOP10"
+  },
+  "emb-511": {
+    "description": "VENUSバトルシーズン4で100位以内獲得",
+    "name": "VENUSシーズン4 TOP100"
+  },
+  "emb-512": {
+    "description": "VENUSバトルシーズン5で1位獲得",
+    "name": "VENUSシーズン5 No.1"
+  },
+  "emb-513": {
+    "description": "VENUSバトルシーズン5で10位以内獲得",
+    "name": "VENUSシーズン5 TOP10"
+  },
+  "emb-514": {
+    "description": "VENUSバトルシーズン5で100位以内獲得",
+    "name": "VENUSシーズン5 TOP100"
+  },
+  "emb-515": {
+    "description": "VENUSバトルシーズン6で1位獲得",
+    "name": "VENUSシーズン6 No.1"
+  },
+  "emb-516": {
+    "description": "VENUSバトルシーズン6で10位以内獲得",
+    "name": "VENUSシーズン6 TOP10"
+  },
+  "emb-517": {
+    "description": "VENUSバトルシーズン6で100位以内獲得",
+    "name": "VENUSシーズン6 TOP100"
+  },
+  "emb-518": {
+    "description": "VENUSバトルシーズン7で1位獲得",
+    "name": "VENUSシーズン7 No.1"
+  },
+  "emb-519": {
+    "description": "VENUSバトルシーズン7で10位以内獲得",
+    "name": "VENUSシーズン7 TOP10"
+  },
+  "emb-520": {
+    "description": "VENUSバトルシーズン7で100位以内獲得",
+    "name": "VENUSシーズン7 TOP100"
+  },
+  "emb-521": {
+    "description": "VENUSバトルシーズン8で1位獲得",
+    "name": "VENUSシーズン8 No.1"
+  },
+  "emb-522": {
+    "description": "VENUSバトルシーズン8で10位以内獲得",
+    "name": "VENUSシーズン8 TOP10"
+  },
+  "emb-523": {
+    "description": "VENUSバトルシーズン8で100位以内獲得",
+    "name": "VENUSシーズン8 TOP100"
+  },
+  "emb-524": {
+    "description": "VENUSバトルシーズン9で1位獲得",
+    "name": "VENUSシーズン9 No.1"
+  },
+  "emb-525": {
+    "description": "VENUSバトルシーズン9で10位以内獲得",
+    "name": "VENUSシーズン9 TOP10"
+  },
+  "emb-526": {
+    "description": "VENUSバトルシーズン9で100位以内獲得",
+    "name": "VENUSシーズン9 TOP100"
+  },
+  "emb-527": {
+    "description": "VENUSバトルシーズン10で1位獲得",
+    "name": "VENUSシーズン10 No.1"
+  },
+  "emb-528": {
+    "description": "VENUSバトルシーズン10で10位以内獲得",
+    "name": "VENUSシーズン10 TOP10"
+  },
+  "emb-529": {
+    "description": "VENUSバトルシーズン10で100位以内獲得",
+    "name": "VENUSシーズン10 TOP100"
+  },
+  "emb-530": {
+    "description": "VENUSバトルシーズン11で1位獲得",
+    "name": "VENUSシーズン11 No.1"
+  },
+  "emb-531": {
+    "description": "VENUSバトルシーズン11で10位以内獲得",
+    "name": "VENUSシーズン11 TOP10"
+  },
+  "emb-532": {
+    "description": "VENUSバトルシーズン11で100位以内獲得",
+    "name": "VENUSシーズン11 TOP100"
+  },
+  "emb-533": {
+    "description": "VENUSバトルシーズン12で1位獲得",
+    "name": "VENUSシーズン12 No.1"
+  },
+  "emb-534": {
+    "description": "VENUSバトルシーズン12で10位以内獲得",
+    "name": "VENUSシーズン12 TOP10"
+  },
+  "emb-535": {
+    "description": "VENUSバトルシーズン12で100位以内獲得",
+    "name": "VENUSシーズン12 TOP100"
+  },
+  "emb-536": {
+    "description": "VENUSバトルシーズン13で1位獲得",
+    "name": "VENUSシーズン13 No.1"
+  },
+  "emb-537": {
+    "description": "VENUSバトルシーズン13で10位以内獲得",
+    "name": "VENUSシーズン13 TOP10"
+  },
+  "emb-538": {
+    "description": "VENUSバトルシーズン13で100位以内獲得",
+    "name": "VENUSシーズン13 TOP100"
+  },
+  "emb-539": {
+    "description": "VENUSバトルシーズン14で1位獲得",
+    "name": "VENUSシーズン14 No.1"
+  },
+  "emb-540": {
+    "description": "VENUSバトルシーズン14で10位以内獲得",
+    "name": "VENUSシーズン14 TOP10"
+  },
+  "emb-541": {
+    "description": "VENUSバトルシーズン14で100位以内獲得",
+    "name": "VENUSシーズン14 TOP100"
+  },
+  "emb-542": {
+    "description": "VENUSバトルシーズン15で1位獲得",
+    "name": "VENUSシーズン15 No.1"
+  },
+  "emb-543": {
+    "description": "VENUSバトルシーズン15で10位以内獲得",
+    "name": "VENUSシーズン15 TOP10"
+  },
+  "emb-544": {
+    "description": "VENUSバトルシーズン15で100位以内獲得",
+    "name": "VENUSシーズン15 TOP100"
+  },
+  "emb-545": {
+    "description": "VENUSバトルシーズン16で1位獲得",
+    "name": "VENUSシーズン16 No.1"
+  },
+  "emb-546": {
+    "description": "VENUSバトルシーズン16で10位以内獲得",
+    "name": "VENUSシーズン16 TOP10"
+  },
+  "emb-547": {
+    "description": "VENUSバトルシーズン16で100位以内獲得",
+    "name": "VENUSシーズン16 TOP100"
+  },
+  "emb-548": {
+    "description": "VENUSバトルシーズン17で1位獲得",
+    "name": "VENUSシーズン17 No.1"
+  },
+  "emb-549": {
+    "description": "VENUSバトルシーズン17で10位以内獲得",
+    "name": "VENUSシーズン17 TOP10"
+  },
+  "emb-550": {
+    "description": "VENUSバトルシーズン17で100位以内獲得",
+    "name": "VENUSシーズン17 TOP100"
+  },
+  "emb-551": {
+    "description": "VENUSバトルシーズン18で1位獲得",
+    "name": "VENUSシーズン18 No.1"
+  },
+  "emb-552": {
+    "description": "VENUSバトルシーズン18で10位以内獲得",
+    "name": "VENUSシーズン18 TOP10"
+  },
+  "emb-553": {
+    "description": "VENUSバトルシーズン18で100位以内獲得",
+    "name": "VENUSシーズン18 TOP100"
+  },
+  "emb-554": {
+    "description": "VENUSバトルシーズン19で1位獲得",
+    "name": "VENUSシーズン19 No.1"
+  },
+  "emb-555": {
+    "description": "VENUSバトルシーズン19で10位以内獲得",
+    "name": "VENUSシーズン19 TOP10"
+  },
+  "emb-556": {
+    "description": "VENUSバトルシーズン19で100位以内獲得",
+    "name": "VENUSシーズン19 TOP100"
+  },
+  "emb-557": {
+    "description": "VENUSバトルシーズン20で1位獲得",
+    "name": "VENUSシーズン20 No.1"
+  },
+  "emb-558": {
+    "description": "VENUSバトルシーズン20で10位以内獲得",
+    "name": "VENUSシーズン20 TOP10"
+  },
+  "emb-559": {
+    "description": "VENUSバトルシーズン20で100位以内獲得",
+    "name": "VENUSシーズン20 TOP100"
+  },
+  "emb-560": {
+    "description": "VENUSバトルシーズン21で1位獲得",
+    "name": "VENUSシーズン21 No.1"
+  },
+  "emb-561": {
+    "description": "VENUSバトルシーズン21で10位以内獲得",
+    "name": "VENUSシーズン21 TOP10"
+  },
+  "emb-562": {
+    "description": "VENUSバトルシーズン21で100位以内獲得",
+    "name": "VENUSシーズン21 TOP100"
+  },
+  "emb-563": {
+    "description": "VENUSバトルシーズン22で1位獲得",
+    "name": "VENUSシーズン22 No.1"
+  },
+  "emb-564": {
+    "description": "VENUSバトルシーズン22で10位以内獲得",
+    "name": "VENUSシーズン22 TOP10"
+  },
+  "emb-565": {
+    "description": "VENUSバトルシーズン22で100位以内獲得",
+    "name": "VENUSシーズン22 TOP100"
+  },
+  "emb-566": {
+    "description": "VENUSバトルシーズン23で1位獲得",
+    "name": "VENUSシーズン23 No.1"
+  },
+  "emb-567": {
+    "description": "VENUSバトルシーズン23で10位以内獲得",
+    "name": "VENUSシーズン23 TOP10"
+  },
+  "emb-568": {
+    "description": "VENUSバトルシーズン23で100位以内獲得",
+    "name": "VENUSシーズン23 TOP100"
+  },
+  "emb-569": {
+    "description": "VENUSバトルシーズン24で1位獲得",
+    "name": "VENUSシーズン24 No.1"
+  },
+  "emb-570": {
+    "description": "VENUSバトルシーズン24で10位以内獲得",
+    "name": "VENUSシーズン24 TOP10"
+  },
+  "emb-571": {
+    "description": "VENUSバトルシーズン24で100位以内獲得",
+    "name": "VENUSシーズン24 TOP100"
+  },
+  "emb-572": {
+    "description": "VENUSバトルシーズン25で1位獲得",
+    "name": "VENUSシーズン25 No.1"
+  },
+  "emb-573": {
+    "description": "VENUSバトルシーズン25で10位以内獲得",
+    "name": "VENUSシーズン25 TOP10"
+  },
+  "emb-574": {
+    "description": "VENUSバトルシーズン25で100位以内獲得",
+    "name": "VENUSシーズン25 TOP100"
+  },
+  "emb-575": {
+    "description": "VENUSバトルシーズン26で1位獲得",
+    "name": "VENUSシーズン26 No.1"
+  },
+  "emb-576": {
+    "description": "VENUSバトルシーズン26で10位以内獲得",
+    "name": "VENUSシーズン26 TOP10"
+  },
+  "emb-577": {
+    "description": "VENUSバトルシーズン26で100位以内獲得",
+    "name": "VENUSシーズン26 TOP100"
+  },
+  "emb-578": {
+    "description": "VENUSバトルシーズン27で1位獲得",
+    "name": "VENUSシーズン27 No.1"
+  },
+  "emb-579": {
+    "description": "VENUSバトルシーズン27で10位以内獲得",
+    "name": "VENUSシーズン27 TOP10"
+  },
+  "emb-580": {
+    "description": "VENUSバトルシーズン27で100位以内獲得",
+    "name": "VENUSシーズン27 TOP100"
+  },
+  "emb-581": {
+    "description": "VENUSバトルシーズン28で1位獲得",
+    "name": "VENUSシーズン28 No.1"
+  },
+  "emb-582": {
+    "description": "VENUSバトルシーズン28で10位以内獲得",
+    "name": "VENUSシーズン28 TOP10"
+  },
+  "emb-583": {
+    "description": "VENUSバトルシーズン28で100位以内獲得",
+    "name": "VENUSシーズン28 TOP100"
+  },
+  "emb-584": {
+    "description": "VENUSバトルシーズン29で1位獲得",
+    "name": "VENUSシーズン29 No.1"
+  },
+  "emb-585": {
+    "description": "VENUSバトルシーズン29で10位以内獲得",
+    "name": "VENUSシーズン29 TOP10"
+  },
+  "emb-586": {
+    "description": "VENUSバトルシーズン29で100位以内獲得",
+    "name": "VENUSシーズン29 TOP100"
+  },
+  "emb-587": {
+    "description": "VENUSバトルシーズン30で1位獲得",
+    "name": "VENUSシーズン30 No.1"
+  },
+  "emb-588": {
+    "description": "VENUSバトルシーズン30で10位以内獲得",
+    "name": "VENUSシーズン30 TOP10"
+  },
+  "emb-589": {
+    "description": "VENUSバトルシーズン30で100位以内獲得",
+    "name": "VENUSシーズン30 TOP100"
+  },
+  "emb-590": {
+    "description": "VENUSバトルシーズン31で1位獲得",
+    "name": "VENUSシーズン31 No.1"
+  },
+  "emb-591": {
+    "description": "VENUSバトルシーズン31で10位以内獲得",
+    "name": "VENUSシーズン31 TOP10"
+  },
+  "emb-592": {
+    "description": "VENUSバトルシーズン31で100位以内獲得",
+    "name": "VENUSシーズン31 TOP100"
+  },
+  "emb-593": {
+    "description": "VENUSバトルシーズン32で1位獲得",
+    "name": "VENUSシーズン32 No.1"
+  },
+  "emb-594": {
+    "description": "VENUSバトルシーズン32で10位以内獲得",
+    "name": "VENUSシーズン32 TOP10"
+  },
+  "emb-595": {
+    "description": "VENUSバトルシーズン32で100位以内獲得",
+    "name": "VENUSシーズン32 TOP100"
+  },
+  "emb-596": {
+    "description": "VENUSバトルシーズン33で1位獲得",
+    "name": "VENUSシーズン33 No.1"
+  },
+  "emb-597": {
+    "description": "VENUSバトルシーズン33で10位以内獲得",
+    "name": "VENUSシーズン33 TOP10"
+  },
+  "emb-598": {
+    "description": "VENUSバトルシーズン33で100位以内獲得",
+    "name": "VENUSシーズン33 TOP100"
+  },
+  "emb-599": {
+    "description": "VENUSバトルシーズン34で1位獲得",
+    "name": "VENUSシーズン34 No.1"
+  },
+  "emb-600": {
+    "description": "VENUSバトルシーズン34で10位以内獲得",
+    "name": "VENUSシーズン34 TOP10"
+  },
+  "emb-601": {
+    "description": "VENUSバトルシーズン34で100位以内獲得",
+    "name": "VENUSシーズン34 TOP100"
+  },
+  "emb-602": {
+    "description": "VENUSバトルシーズン35で1位獲得",
+    "name": "VENUSシーズン35 No.1"
+  },
+  "emb-603": {
+    "description": "VENUSバトルシーズン35で10位以内獲得",
+    "name": "VENUSシーズン35 TOP10"
+  },
+  "emb-604": {
+    "description": "VENUSバトルシーズン35で100位以内獲得",
+    "name": "VENUSシーズン35 TOP100"
+  },
+  "emb-605": {
+    "description": "VENUSバトルシーズン36で1位獲得",
+    "name": "VENUSシーズン36 No.1"
+  },
+  "emb-606": {
+    "description": "VENUSバトルシーズン36で10位以内獲得",
+    "name": "VENUSシーズン36 TOP10"
+  },
+  "emb-607": {
+    "description": "VENUSバトルシーズン36で100位以内獲得",
+    "name": "VENUSシーズン36 TOP100"
+  },
+  "emb-608": {
+    "description": "VENUSバトルシーズン37で1位獲得",
+    "name": "VENUSシーズン37 No.1"
+  },
+  "emb-609": {
+    "description": "VENUSバトルシーズン37で10位以内獲得",
+    "name": "VENUSシーズン37 TOP10"
+  },
+  "emb-610": {
+    "description": "VENUSバトルシーズン37で100位以内獲得",
+    "name": "VENUSシーズン37 TOP100"
+  },
+  "emb-611": {
+    "description": "VENUSバトルシーズン38で1位獲得",
+    "name": "VENUSシーズン38 No.1"
+  },
+  "emb-612": {
+    "description": "VENUSバトルシーズン38で10位以内獲得",
+    "name": "VENUSシーズン38 TOP10"
+  },
+  "emb-613": {
+    "description": "VENUSバトルシーズン38で100位以内獲得",
+    "name": "VENUSシーズン38 TOP100"
+  },
+  "emb-614": {
+    "description": "VENUSバトルシーズン39で1位獲得",
+    "name": "VENUSシーズン39 No.1"
+  },
+  "emb-615": {
+    "description": "VENUSバトルシーズン39で10位以内獲得",
+    "name": "VENUSシーズン39 TOP10"
+  },
+  "emb-616": {
+    "description": "VENUSバトルシーズン39で100位以内獲得",
+    "name": "VENUSシーズン39 TOP100"
+  },
+  "emb-617": {
+    "description": "VENUSバトルシーズン40で1位獲得",
+    "name": "VENUSシーズン40 No.1"
+  },
+  "emb-618": {
+    "description": "VENUSバトルシーズン40で10位以内獲得",
+    "name": "VENUSシーズン40 TOP10"
+  },
+  "emb-619": {
+    "description": "VENUSバトルシーズン40で100位以内獲得",
+    "name": "VENUSシーズン40 TOP100"
+  },
+  "emb-620": {
+    "description": "VENUSバトルシーズン41で1位獲得",
+    "name": "VENUSシーズン41 No.1"
+  },
+  "emb-621": {
+    "description": "VENUSバトルシーズン41で10位以内獲得",
+    "name": "VENUSシーズン41 TOP10"
+  },
+  "emb-622": {
+    "description": "VENUSバトルシーズン41で100位以内獲得",
+    "name": "VENUSシーズン41 TOP100"
+  },
+  "emb-623": {
+    "description": "VENUSバトルシーズン42で1位獲得",
+    "name": "VENUSシーズン42 No.1"
+  },
+  "emb-624": {
+    "description": "VENUSバトルシーズン42で10位以内獲得",
+    "name": "VENUSシーズン42 TOP10"
+  },
+  "emb-625": {
+    "description": "VENUSバトルシーズン42で100位以内獲得",
+    "name": "VENUSシーズン42 TOP100"
+  },
+  "emb-626": {
+    "description": "VENUSバトルシーズン43で1位獲得",
+    "name": "VENUSシーズン43 No.1"
+  },
+  "emb-627": {
+    "description": "VENUSバトルシーズン43で10位以内獲得",
+    "name": "VENUSシーズン43 TOP10"
+  },
+  "emb-628": {
+    "description": "VENUSバトルシーズン43で100位以内獲得",
+    "name": "VENUSシーズン43 TOP100"
+  },
+  "emb-629": {
+    "description": "VENUSバトルシーズン44で1位獲得",
+    "name": "VENUSシーズン44 No.1"
+  },
+  "emb-630": {
+    "description": "VENUSバトルシーズン44で10位以内獲得",
+    "name": "VENUSシーズン44 TOP10"
+  },
+  "emb-631": {
+    "description": "VENUSバトルシーズン44で100位以内獲得",
+    "name": "VENUSシーズン44 TOP100"
+  },
+  "emb-632": {
+    "description": "VENUSバトルシーズン45で1位獲得",
+    "name": "VENUSシーズン45 No.1"
+  },
+  "emb-633": {
+    "description": "VENUSバトルシーズン45で10位以内獲得",
+    "name": "VENUSシーズン45 TOP10"
+  },
+  "emb-634": {
+    "description": "VENUSバトルシーズン45で100位以内獲得",
+    "name": "VENUSシーズン45 TOP100"
+  },
+  "emb-635": {
+    "description": "VENUSバトルシーズン46で1位獲得",
+    "name": "VENUSシーズン46 No.1"
+  },
+  "emb-636": {
+    "description": "VENUSバトルシーズン46で10位以内獲得",
+    "name": "VENUSシーズン46 TOP10"
+  },
+  "emb-637": {
+    "description": "VENUSバトルシーズン46で100位以内獲得",
+    "name": "VENUSシーズン46 TOP100"
+  },
+  "emb-638": {
+    "description": "VENUSバトルシーズン47で1位獲得",
+    "name": "VENUSシーズン47 No.1"
+  },
+  "emb-639": {
+    "description": "VENUSバトルシーズン47で10位以内獲得",
+    "name": "VENUSシーズン47 TOP10"
+  },
+  "emb-640": {
+    "description": "VENUSバトルシーズン47で100位以内獲得",
+    "name": "VENUSシーズン47 TOP100"
+  },
+  "emb-641": {
+    "description": "VENUSバトルシーズン48で1位獲得",
+    "name": "VENUSシーズン48 No.1"
+  },
+  "emb-642": {
+    "description": "VENUSバトルシーズン48で10位以内獲得",
+    "name": "VENUSシーズン48 TOP10"
+  },
+  "emb-643": {
+    "description": "VENUSバトルシーズン48で100位以内獲得",
+    "name": "VENUSシーズン48 TOP100"
+  },
+  "emb-644": {
+    "description": "VENUSバトルシーズン49で1位獲得",
+    "name": "VENUSシーズン49 No.1"
+  },
+  "emb-645": {
+    "description": "VENUSバトルシーズン49で10位以内獲得",
+    "name": "VENUSシーズン49 TOP10"
+  },
+  "emb-646": {
+    "description": "VENUSバトルシーズン49で100位以内獲得",
+    "name": "VENUSシーズン49 TOP100"
+  },
+  "emb-647": {
+    "description": "VENUSバトルシーズン50で1位獲得",
+    "name": "VENUSシーズン50 No.1"
+  },
+  "emb-648": {
+    "description": "VENUSバトルシーズン50で10位以内獲得",
+    "name": "VENUSシーズン50 TOP10"
+  },
+  "emb-649": {
+    "description": "VENUSバトルシーズン50で100位以内獲得",
+    "name": "VENUSシーズン50 TOP100"
+  },
+  "emb-650": {
+    "description": "VENUSバトルシーズン51で1位獲得",
+    "name": "VENUSシーズン51 No.1"
+  },
+  "emb-651": {
+    "description": "VENUSバトルシーズン51で10位以内獲得",
+    "name": "VENUSシーズン51 TOP10"
+  },
+  "emb-652": {
+    "description": "VENUSバトルシーズン51で100位以内獲得",
+    "name": "VENUSシーズン51 TOP100"
+  },
+  "emb-653": {
+    "description": "VENUSバトルシーズン52で1位獲得",
+    "name": "VENUSシーズン52 No.1"
+  },
+  "emb-654": {
+    "description": "VENUSバトルシーズン52で10位以内獲得",
+    "name": "VENUSシーズン52 TOP10"
+  },
+  "emb-655": {
+    "description": "VENUSバトルシーズン52で100位以内獲得",
+    "name": "VENUSシーズン52 TOP100"
+  },
+  "emb-656": {
+    "description": "VENUSバトルシーズン53で1位獲得",
+    "name": "VENUSシーズン53 No.1"
+  },
+  "emb-657": {
+    "description": "VENUSバトルシーズン53で10位以内獲得",
+    "name": "VENUSシーズン53 TOP10"
+  },
+  "emb-658": {
+    "description": "VENUSバトルシーズン53で100位以内獲得",
+    "name": "VENUSシーズン53 TOP100"
+  },
+  "emb-659": {
+    "description": "VENUSバトルシーズン54で1位獲得",
+    "name": "VENUSシーズン54 No.1"
+  },
+  "emb-660": {
+    "description": "VENUSバトルシーズン54で10位以内獲得",
+    "name": "VENUSシーズン54 TOP10"
+  },
+  "emb-661": {
+    "description": "VENUSバトルシーズン54で100位以内獲得",
+    "name": "VENUSシーズン54 TOP100"
+  },
+  "emb-662": {
+    "description": "VENUSバトルシーズン55で1位獲得",
+    "name": "VENUSシーズン55 No.1"
+  },
+  "emb-663": {
+    "description": "VENUSバトルシーズン55で10位以内獲得",
+    "name": "VENUSシーズン55 TOP10"
+  },
+  "emb-664": {
+    "description": "VENUSバトルシーズン55で100位以内獲得",
+    "name": "VENUSシーズン55 TOP100"
+  },
+  "emb-665": {
+    "description": "VENUSバトルシーズン56で1位獲得",
+    "name": "VENUSシーズン56 No.1"
+  },
+  "emb-666": {
+    "description": "VENUSバトルシーズン56で10位以内獲得",
+    "name": "VENUSシーズン56 TOP10"
+  },
+  "emb-667": {
+    "description": "VENUSバトルシーズン56で100位以内獲得",
+    "name": "VENUSシーズン56 TOP100"
+  },
+  "emb-668": {
+    "description": "VENUSバトルシーズン57で1位獲得",
+    "name": "VENUSシーズン57 No.1"
+  },
+  "emb-669": {
+    "description": "VENUSバトルシーズン57で10位以内獲得",
+    "name": "VENUSシーズン57 TOP10"
+  },
+  "emb-670": {
+    "description": "VENUSバトルシーズン57で100位以内獲得",
+    "name": "VENUSシーズン57 TOP100"
+  },
+  "emb-671": {
+    "description": "VENUSバトルシーズン58で1位獲得",
+    "name": "VENUSシーズン58 No.1"
+  },
+  "emb-672": {
+    "description": "VENUSバトルシーズン58で10位以内獲得",
+    "name": "VENUSシーズン58 TOP10"
+  },
+  "emb-673": {
+    "description": "VENUSバトルシーズン58で100位以内獲得",
+    "name": "VENUSシーズン58 TOP100"
+  },
+  "emb-674": {
+    "description": "VENUSバトルシーズン59で1位獲得",
+    "name": "VENUSシーズン59 No.1"
+  },
+  "emb-675": {
+    "description": "VENUSバトルシーズン59で10位以内獲得",
+    "name": "VENUSシーズン59 TOP10"
+  },
+  "emb-676": {
+    "description": "VENUSバトルシーズン59で100位以内獲得",
+    "name": "VENUSシーズン59 TOP100"
+  },
+  "emb-677": {
+    "description": "VENUSバトルシーズン60で1位獲得",
+    "name": "VENUSシーズン60 No.1"
+  },
+  "emb-678": {
+    "description": "VENUSバトルシーズン60で10位以内獲得",
+    "name": "VENUSシーズン60 TOP10"
+  },
+  "emb-679": {
+    "description": "VENUSバトルシーズン60で100位以内獲得",
+    "name": "VENUSシーズン60 TOP100"
+  },
+  "emb-680": {
+    "description": "VENUSバトルシーズン61で1位獲得",
+    "name": "VENUSシーズン61 No.1"
+  },
+  "emb-681": {
+    "description": "VENUSバトルシーズン61で10位以内獲得",
+    "name": "VENUSシーズン61 TOP10"
+  },
+  "emb-682": {
+    "description": "VENUSバトルシーズン61で100位以内獲得",
+    "name": "VENUSシーズン61 TOP100"
+  },
+  "emb-683": {
+    "description": "VENUSバトルシーズン62で1位獲得",
+    "name": "VENUSシーズン62 No.1"
+  },
+  "emb-684": {
+    "description": "VENUSバトルシーズン62で10位以内獲得",
+    "name": "VENUSシーズン62 TOP10"
+  },
+  "emb-685": {
+    "description": "VENUSバトルシーズン62で100位以内獲得",
+    "name": "VENUSシーズン62 TOP100"
+  },
+  "emb-686": {
+    "description": "VENUSバトルシーズン63で1位獲得",
+    "name": "VENUSシーズン63 No.1"
+  },
+  "emb-687": {
+    "description": "VENUSバトルシーズン63で10位以内獲得",
+    "name": "VENUSシーズン63 TOP10"
+  },
+  "emb-688": {
+    "description": "VENUSバトルシーズン63で100位以内獲得",
+    "name": "VENUSシーズン63 TOP100"
+  },
+  "emb-689": {
+    "description": "VENUSバトルシーズン64で1位獲得",
+    "name": "VENUSシーズン64 No.1"
+  },
+  "emb-690": {
+    "description": "VENUSバトルシーズン64で10位以内獲得",
+    "name": "VENUSシーズン64 TOP10"
+  },
+  "emb-691": {
+    "description": "VENUSバトルシーズン64で100位以内獲得",
+    "name": "VENUSシーズン64 TOP100"
+  },
+  "emb-692": {
+    "description": "VENUSバトルシーズン65で1位獲得",
+    "name": "VENUSシーズン65 No.1"
+  },
+  "emb-693": {
+    "description": "VENUSバトルシーズン65で10位以内獲得",
+    "name": "VENUSシーズン65 TOP10"
+  },
+  "emb-694": {
+    "description": "VENUSバトルシーズン65で100位以内獲得",
+    "name": "VENUSシーズン65 TOP100"
+  },
+  "emb-695": {
+    "description": "VENUSバトルシーズン66で1位獲得",
+    "name": "VENUSシーズン66 No.1"
+  },
+  "emb-696": {
+    "description": "VENUSバトルシーズン66で10位以内獲得",
+    "name": "VENUSシーズン66 TOP10"
+  },
+  "emb-697": {
+    "description": "VENUSバトルシーズン66で100位以内獲得",
+    "name": "VENUSシーズン66 TOP100"
+  },
+  "emb-698": {
+    "description": "VENUSバトルシーズン67で1位獲得",
+    "name": "VENUSシーズン67 No.1"
+  },
+  "emb-699": {
+    "description": "VENUSバトルシーズン67で10位以内獲得",
+    "name": "VENUSシーズン67 TOP10"
+  },
+  "emb-700": {
+    "description": "VENUSバトルシーズン67で100位以内獲得",
+    "name": "VENUSシーズン67 TOP100"
+  },
+  "emb-701": {
+    "description": "琴乃の誕生日を迎える",
+    "name": "【誕生日】長瀬琴乃"
+  },
+  "emb-702": {
+    "description": "芽衣の誕生日を迎える",
+    "name": "【誕生日】早坂芽衣"
+  },
+  "emb-703": {
+    "description": "渚の誕生日を迎える",
+    "name": "【誕生日】伊吹渚"
+  },
+  "emb-704": {
+    "description": "すずの誕生日を迎える",
+    "name": "【誕生日】成宮すず"
+  },
+  "emb-705": {
+    "description": "沙季の誕生日を迎える",
+    "name": "【誕生日】白石沙季"
+  },
+  "emb-706": {
+    "description": "さくらの誕生日を迎える",
+    "name": "【誕生日】川咲さくら"
+  },
+  "emb-707": {
+    "description": "千紗の誕生日を迎える",
+    "name": "【誕生日】白石千紗"
+  },
+  "emb-708": {
+    "description": "怜の誕生日を迎える",
+    "name": "【誕生日】一ノ瀬怜"
+  },
+  "emb-709": {
+    "description": "雫の誕生日を迎える",
+    "name": "【誕生日】兵藤雫"
+  },
+  "emb-710": {
+    "description": "遙子の誕生日を迎える",
+    "name": "【誕生日】佐伯遙子"
+  },
+  "emb-711": {
+    "description": "莉央の誕生日を迎える",
+    "name": "【誕生日】神崎莉央"
+  },
+  "emb-714": {
+    "description": "こころの誕生日を迎える",
+    "name": "【誕生日】赤崎こころ"
+  },
+  "emb-715": {
+    "description": "瑠依の誕生日を迎える",
+    "name": "【誕生日】天動瑠依"
+  },
+  "emb-716": {
+    "description": "優の誕生日を迎える",
+    "name": "【誕生日】鈴村優"
+  },
+  "emb-719": {
+    "description": "kanaの誕生日を迎える",
+    "name": "【誕生日】kana"
+  },
+  "emb-720": {
+    "description": "mihoの誕生日を迎える",
+    "name": "【誕生日】miho"
+  },
+  "emb-733": {
+    "description": "愛の誕生日を迎える",
+    "name": "【誕生日】小美山愛"
+  },
+  "emb-800": {
+    "description": "ツアーライブ「雨上がりの太陽と共に」クリア",
+    "name": "雨上がりの太陽と共に"
+  },
+  "emb-801": {
+    "description": "ツアーライブ「月夜に輝く恋の魔法」クリア",
+    "name": "月夜に輝く恋の魔法"
+  },
+  "emb-802": {
+    "description": "合宿「芽吹く黒ユリの蕾」クリア",
+    "name": "芽吹く黒ユリの蕾"
+  },
+  "emb-803": {
+    "description": "リンクスイベント「煌めく奇跡をもう一度」クリア",
+    "name": "煌めく奇跡をもう一度"
+  },
+  "emb-804": {
+    "description": "合宿イベント「夢踊るステージに架け橋を」クリア",
+    "name": "夢踊るステージに架け橋を"
+  },
+  "emb-805": {
+    "description": "リンクスイベント「羽休む聖夜のサプライズ」クリア",
+    "name": "羽休む聖夜のサプライズ"
+  },
+  "emb-806": {
+    "description": "フォトオーディション「昇る初陽に咲く笑顔」条件達成",
+    "name": "昇る初陽に咲く笑顔"
+  },
+  "emb-807": {
+    "description": "リンクスイベント「心愛溶けるビターチョコレート」クリア",
+    "name": "心愛溶けるビターチョコレート"
+  },
+  "emb-808": {
+    "description": "VENUSレース「並び立つ歌姫のフルリール」クリア",
+    "name": "並び立つ歌姫のフルリール"
+  },
+  "emb-809": {
+    "description": "フォトオーディション「愛歌う星の継承者」条件達成",
+    "name": "愛歌う星の継承者"
+  },
+  "emb-810": {
+    "description": "VENUSレース「心紡ぎ合う輝きの競演」クリア",
+    "name": "心紡ぎ合う輝きの競演"
+  },
+  "emb-811": {
+    "description": "リンクスイベント「導きのファンファーレ」クリア",
+    "name": "導きのファンファーレ"
+  },
+  "emb-812": {
+    "description": "フォトオーディション「Happy Smile Selfie」条件達成"
+  },
+  "emb-813": {
+    "description": "合宿イベント「熱中☆ハプニングサマー」クリア",
+    "name": "熱中☆ハプニングサマー"
+  },
+  "emb-814": {
+    "description": "フォトオーディション「未来とつながるマジカルメロディ」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-815": {
+    "description": "VENUSレース「運命繋ぐ流星の軌跡」クリア",
+    "name": "運命繋ぐ流星の軌跡"
+  },
+  "emb-816": {
+    "description": "マルチリンクス「舌戦開幕！賛美の湯」",
+    "name": "舌戦開幕！賛美の湯"
+  },
+  "emb-817": {
+    "description": "VENUSレース「君と願う月灯の祝祭」クリア",
+    "name": "君と願う月灯の祝祭"
+  },
+  "emb-818": {
+    "description": "フォトオーディション「最高優美＊飛躍のカウントダウン」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-819": {
+    "description": "マルチリンクス「守れ！純潔のベーゼ」",
+    "name": "守れ！純潔のベーゼ～imposition of love～"
+  },
+  "emb-820": {
+    "description": "VENUSレース「ぱじゃまパーティー！～夢見る少女と眠り姫～」クリア",
+    "name": "ぱじゃまパーティー！～夢見る少女と眠り姫～"
+  },
+  "emb-821": {
+    "description": "マルチリンクス「音色の輝石が紡ぐ未来」",
+    "name": "音色の輝石が紡ぐ未来"
+  },
+  "emb-822": {
+    "description": "マルチリンクス「おしごとシークレット」",
+    "name": "おしごとシークレット"
+  },
+  "emb-823": {
+    "description": "合宿イベント「遥か頂に向かう秀麗」クリア",
+    "name": "遥か頂に向かう秀麗"
+  },
+  "emb-824": {
+    "description": "マルチリンクス「翔けぬけるVictoire」",
+    "name": "翔けぬけるVictoire　誓いのplume"
+  },
+  "emb-825": {
+    "description": "LizNoir番外編2章6~10話追加を記念した称号"
+  },
+  "emb-900": {
+    "description": "ユニオンライブシーズン4で1位獲得",
+    "name": "ユニオンシーズン4 No.1"
+  },
+  "emb-901": {
+    "description": "ユニオンライブシーズン4で10位以内獲得",
+    "name": "ユニオンシーズン4 TOP10"
+  },
+  "emb-902": {
+    "description": "ユニオンライブシーズン5で1位獲得",
+    "name": "ユニオンシーズン5 No.1"
+  },
+  "emb-903": {
+    "description": "ユニオンライブシーズン5で10位以内獲得",
+    "name": "ユニオンシーズン5 TOP10"
+  },
+  "emb-904": {
+    "description": "ユニオンライブシーズン6で1位獲得",
+    "name": "ユニオンシーズン6 No.1"
+  },
+  "emb-905": {
+    "description": "ユニオンライブシーズン6で10位以内獲得",
+    "name": "ユニオンシーズン6 TOP10"
+  },
+  "emb-906": {
+    "description": "ユニオンライブシーズン7で1位獲得",
+    "name": "ユニオンシーズン7 No.1"
+  },
+  "emb-907": {
+    "description": "ユニオンライブシーズン7で10位以内獲得",
+    "name": "ユニオンシーズン7 TOP10"
+  },
+  "emb-908": {
+    "description": "ユニオンライブシーズン8で1位獲得",
+    "name": "ユニオンシーズン8 No.1"
+  },
+  "emb-909": {
+    "description": "ユニオンライブシーズン8で10位以内獲得",
+    "name": "ユニオンシーズン8 TOP10"
+  },
+  "emb-910": {
+    "description": "ユニオンライブシーズン9で1位獲得",
+    "name": "ユニオンシーズン9 No.1"
+  },
+  "emb-911": {
+    "description": "ユニオンライブシーズン9で10位以内獲得",
+    "name": "ユニオンシーズン9 TOP10"
+  },
+  "emb-912": {
+    "description": "ユニオンライブシーズン10で1位獲得",
+    "name": "ユニオンシーズン10 No.1"
+  },
+  "emb-913": {
+    "description": "ユニオンライブシーズン10で10位以内獲得",
+    "name": "ユニオンシーズン10 TOP10"
+  },
+  "emb-914": {
+    "description": "ユニオンライブシーズン11で1位獲得",
+    "name": "ユニオンシーズン11 No.1"
+  },
+  "emb-915": {
+    "description": "ユニオンライブシーズン11で10位以内獲得",
+    "name": "ユニオンシーズン11 TOP10"
+  },
+  "emb-916": {
+    "description": "ユニオンライブシーズン12で1位獲得",
+    "name": "ユニオンシーズン12 No.1"
+  },
+  "emb-917": {
+    "description": "ユニオンライブシーズン12で10位以内獲得",
+    "name": "ユニオンシーズン12 TOP10"
+  },
+  "emb-918": {
+    "description": "ユニオンライブシーズン13で1位獲得",
+    "name": "ユニオンシーズン13 No.1"
+  },
+  "emb-919": {
+    "description": "ユニオンライブシーズン13で10位以内獲得",
+    "name": "ユニオンシーズン13 TOP10"
+  },
+  "emb-920": {
+    "description": "ユニオンライブシーズン14で1位獲得",
+    "name": "ユニオンシーズン14 No.1"
+  },
+  "emb-921": {
+    "description": "ユニオンライブシーズン14で10位以内獲得",
+    "name": "ユニオンシーズン14 TOP10"
+  },
+  "emb-922": {
+    "description": "ユニオンライブシーズン15で1位獲得",
+    "name": "ユニオンシーズン15 No.1"
+  },
+  "emb-923": {
+    "description": "ユニオンライブシーズン15で10位以内獲得",
+    "name": "ユニオンシーズン15 TOP10"
+  },
+  "emb-924": {
+    "description": "ユニオンライブシーズン16で1位獲得",
+    "name": "ユニオンシーズン16 No.1"
+  },
+  "emb-925": {
+    "description": "ユニオンライブシーズン16で10位以内獲得",
+    "name": "ユニオンシーズン16 TOP10"
+  },
+  "emb-926": {
+    "description": "ユニオンライブシーズン17で1位獲得",
+    "name": "ユニオンシーズン17 No.1"
+  },
+  "emb-927": {
+    "description": "ユニオンライブシーズン17で10位以内獲得",
+    "name": "ユニオンシーズン17 TOP10"
+  },
+  "emb-928": {
+    "description": "ユニオンライブシーズン18で1位獲得",
+    "name": "ユニオンシーズン18 No.1"
+  },
+  "emb-929": {
+    "description": "ユニオンライブシーズン18で10位以内獲得",
+    "name": "ユニオンシーズン18 TOP10"
+  },
+  "emb-930": {
+    "description": "ユニオンライブシーズン19で1位獲得",
+    "name": "ユニオンシーズン19 No.1"
+  },
+  "emb-931": {
+    "description": "ユニオンライブシーズン19で10位以内獲得",
+    "name": "ユニオンシーズン19 TOP10"
+  },
+  "emb-932": {
+    "description": "ユニオンライブシーズン20で1位獲得",
+    "name": "ユニオンシーズン20 No.1"
+  },
+  "emb-933": {
+    "description": "ユニオンライブシーズン20で10位以内獲得",
+    "name": "ユニオンシーズン20 TOP10"
+  },
+  "emb-april-24-0401": {
+    "description": "魚魚っとさんが新社長就任！キャンペーン",
+    "name": "魚魚"
+  },
+  "emb-april-24-0401-01": {
+    "description": "魚魚っとさんが新社長就任!キャンペーン",
+    "name": "月型わたあめ"
+  },
+  "emb-april-24-0401-02": {
+    "description": "魚魚っとさんが新社長就任!キャンペーン",
+    "name": "金ぴか法被"
+  },
+  "emb-april-24-0401-03": {
+    "description": "魚魚っとさんが新社長就任!キャンペーン",
+    "name": "魚魚っとさんのフードタオル"
+  },
+  "emb-april-24-0401-04": {
+    "description": "魚魚っとさんが新社長就任!キャンペーン",
+    "name": "カチューシャ"
+  },
+  "emb-april-24-0401-05": {
+    "description": "魚魚っとさんが新社長就任!キャンペーン",
+    "name": "タトゥーシール"
+  },
+  "emb-april-25-01": {
+    "description": "星見プロと時空の狭間 ワクワクエスケープ 第1の謎クリア",
+    "name": "プロペラ"
+  },
+  "emb-april-25-02": {
+    "description": "星見プロと時空の狭間 ワクワクエスケープ 第2の謎クリア",
+    "name": "すずと渚のモーター"
+  },
+  "emb-april-25-03": {
+    "description": "星見プロと時空の狭間 ワクワクエスケープ 第3の謎クリア",
+    "name": "満タンのエネルギー"
+  },
+  "emb-april-25-04": {
+    "description": "星見プロと時空の狭間 ワクワクエスケープ 第4の謎クリア",
+    "name": "カセットテープ"
+  },
+  "emb-april-25-0401": {
+    "description": "星見プロと時空の狭間 ワクワクエスケープ",
+    "name": "南蛮"
+  },
+  "emb-april-25-05": {
+    "description": "星見プロと時空の狭間 ワクワクエスケープ 全制覇",
+    "name": "時空の狭間イベント全制覇"
+  },
+  "emb-april-26-0401-01": {
+    "description": "「ブリスケのうろこ10連ガチャ」のおまけ",
+    "name": "鰤"
+  },
+  "emb-april-26-0401-02": {
+    "description": "ぎょぎょ！雫のミラクル魚群伝で一定スコアを突破",
+    "name": "ブリスケ王子"
+  },
+  "emb-april-26-0401-03": {
+    "description": "ぎょぎょ！雫のミラクル魚群伝で一定スコアを突破",
+    "name": "完璧な鰤"
+  },
+  "emb-birthday_ai-03": {
+    "description": "愛の誕生日を迎える",
+    "name": "【誕生日】小美山愛"
+  },
+  "emb-birthday_ai-04": {
+    "description": "愛の誕生日を迎える",
+    "name": "【誕生日】小美山愛"
+  },
+  "emb-birthday_ai-05": {
+    "description": "愛の誕生日を迎える",
+    "name": "【誕生日】小美山愛"
+  },
+  "emb-birthday_aoi-02": {
+    "description": "葵の誕生日を迎える",
+    "name": "【誕生日】井川葵"
+  },
+  "emb-birthday_aoi-03": {
+    "description": "葵の誕生日を迎える",
+    "name": "【誕生日】井川葵"
+  },
+  "emb-birthday_aoi-04": {
+    "description": "葵の誕生日を迎える",
+    "name": "【誕生日】井川葵"
+  },
+  "emb-birthday_aoi-05": {
+    "description": "葵の誕生日を迎える",
+    "name": "【誕生日】井川葵"
+  },
+  "emb-birthday_chn-01": {
+    "description": "チノの誕生日を迎える",
+    "name": "【誕生日】チノ"
+  },
+  "emb-birthday_chs-03": {
+    "description": "千紗の誕生日を迎える",
+    "name": "【誕生日】白石千紗"
+  },
+  "emb-birthday_chs-04": {
+    "description": "千紗の誕生日を迎える",
+    "name": "【誕生日】白石千紗"
+  },
+  "emb-birthday_chs-05": {
+    "description": "千紗の誕生日を迎える",
+    "name": "【誕生日】白石千紗"
+  },
+  "emb-birthday_hrk-03": {
+    "description": "遙子の誕生日を迎える",
+    "name": "【誕生日】佐伯遙子"
+  },
+  "emb-birthday_hrk-04": {
+    "description": "遙子の誕生日を迎える",
+    "name": "【誕生日】佐伯遙子"
+  },
+  "emb-birthday_hrk-05": {
+    "description": "遙子の誕生日を迎える",
+    "name": "【誕生日】佐伯遙子"
+  },
+  "emb-birthday_kan-02": {
+    "description": "kanaの誕生日を迎える",
+    "name": "【誕生日】kana"
+  },
+  "emb-birthday_kan-03": {
+    "description": "kanaの誕生日を迎える",
+    "name": "【誕生日】kana"
+  },
+  "emb-birthday_kan-04": {
+    "description": "kanaの誕生日を迎える",
+    "name": "【誕生日】kana"
+  },
+  "emb-birthday_kkr-03": {
+    "description": "こころの誕生日を迎える",
+    "name": "【誕生日】赤崎こころ"
+  },
+  "emb-birthday_kkr-04": {
+    "description": "こころの誕生日を迎える",
+    "name": "【誕生日】赤崎こころ"
+  },
+  "emb-birthday_kkr-05": {
+    "description": "こころの誕生日を迎える",
+    "name": "【誕生日】赤崎こころ"
+  },
+  "emb-birthday_kor-01": {
+    "description": "franの誕生日を迎える",
+    "name": "【誕生日】fran"
+  },
+  "emb-birthday_kor-02": {
+    "description": "franの誕生日を迎える",
+    "name": "【誕生日】fran"
+  },
+  "emb-birthday_kor-03": {
+    "description": "franの誕生日を迎える",
+    "name": "【誕生日】fran"
+  },
+  "emb-birthday_kor-04": {
+    "description": "franの誕生日を迎える",
+    "name": "【誕生日】fran"
+  },
+  "emb-birthday_ktn-03": {
+    "description": "琴乃の誕生日を迎える",
+    "name": "【誕生日】長瀬琴乃"
+  },
+  "emb-birthday_ktn-04": {
+    "description": "琴乃の誕生日を迎える",
+    "name": "【誕生日】長瀬琴乃"
+  },
+  "emb-birthday_ktn-05": {
+    "description": "琴乃の誕生日を迎える",
+    "name": "【誕生日】長瀬琴乃"
+  },
+  "emb-birthday_mei-03": {
+    "description": "芽衣の誕生日を迎える",
+    "name": "【誕生日】早坂芽衣"
+  },
+  "emb-birthday_mei-04": {
+    "description": "芽衣の誕生日を迎える",
+    "name": "【誕生日】早坂芽衣"
+  },
+  "emb-birthday_mei-05": {
+    "description": "芽衣の誕生日を迎える",
+    "name": "【誕生日】早坂芽衣"
+  },
+  "emb-birthday_mei-06": {
+    "description": "芽衣の誕生日を迎える",
+    "name": "【誕生日】早坂芽衣"
+  },
+  "emb-birthday_mhk-02": {
+    "description": "mihoの誕生日を迎える",
+    "name": "【誕生日】miho"
+  },
+  "emb-birthday_mhk-03": {
+    "description": "mihoの誕生日を迎える",
+    "name": "【誕生日】miho"
+  },
+  "emb-birthday_mhk-04": {
+    "description": "mihoの誕生日を迎える",
+    "name": "【誕生日】miho"
+  },
+  "emb-birthday_mku-18": {
+    "description": "初音ミクの18th Anniversaryを迎える",
+    "name": "【18th Anniversary】初音ミク"
+  },
+  "emb-birthday_mna-04": {
+    "description": "麻奈の誕生日を迎える",
+    "name": "【誕生日】長瀬麻奈"
+  },
+  "emb-birthday_mna-05": {
+    "description": "麻奈の誕生日を迎える",
+    "name": "【誕生日】長瀬麻奈"
+  },
+  "emb-birthday_ngs-03": {
+    "description": "渚の誕生日を迎える",
+    "name": "【誕生日】伊吹渚"
+  },
+  "emb-birthday_ngs-04": {
+    "description": "渚の誕生日を迎える",
+    "name": "【誕生日】伊吹渚"
+  },
+  "emb-birthday_ngs-05": {
+    "description": "渚の誕生日を迎える",
+    "name": "【誕生日】伊吹渚"
+  },
+  "emb-birthday_ngs-06": {
+    "description": "渚の誕生日を迎える",
+    "name": "【誕生日】伊吹渚"
+  },
+  "emb-birthday_rei-03": {
+    "description": "怜の誕生日を迎える",
+    "name": "【誕生日】一ノ瀬怜"
+  },
+  "emb-birthday_rei-04": {
+    "description": "怜の誕生日を迎える",
+    "name": "【誕生日】一ノ瀬怜"
+  },
+  "emb-birthday_rei-05": {
+    "description": "怜の誕生日を迎える",
+    "name": "【誕生日】一ノ瀬怜"
+  },
+  "emb-birthday_rio-03": {
+    "description": "莉央の誕生日を迎える",
+    "name": "【誕生日】神崎莉央"
+  },
+  "emb-birthday_rio-04": {
+    "description": "莉央の誕生日を迎える",
+    "name": "【誕生日】神崎莉央"
+  },
+  "emb-birthday_rio-05": {
+    "description": "莉央の誕生日を迎える",
+    "name": "【誕生日】神崎莉央"
+  },
+  "emb-birthday_rio-06": {
+    "description": "莉央の誕生日を迎える",
+    "name": "【誕生日】神崎莉央"
+  },
+  "emb-birthday_rui-03": {
+    "description": "瑠依の誕生日を迎える",
+    "name": "【誕生日】天動瑠依"
+  },
+  "emb-birthday_rui-04": {
+    "description": "瑠依の誕生日を迎える",
+    "name": "【誕生日】天動瑠依"
+  },
+  "emb-birthday_rui-05": {
+    "description": "瑠依の誕生日を迎える",
+    "name": "【誕生日】天動瑠依"
+  },
+  "emb-birthday_ski-03": {
+    "description": "沙季の誕生日を迎える",
+    "name": "【誕生日】白石沙季"
+  },
+  "emb-birthday_ski-04": {
+    "description": "沙季の誕生日を迎える",
+    "name": "【誕生日】白石沙季"
+  },
+  "emb-birthday_ski-05": {
+    "description": "沙季の誕生日を迎える",
+    "name": "【誕生日】白石沙季"
+  },
+  "emb-birthday_skr-03": {
+    "description": "さくらの誕生日を迎える",
+    "name": "【誕生日】川咲さくら"
+  },
+  "emb-birthday_skr-04": {
+    "description": "さくらの誕生日を迎える",
+    "name": "【誕生日】川咲さくら"
+  },
+  "emb-birthday_skr-05": {
+    "description": "さくらの誕生日を迎える",
+    "name": "【誕生日】川咲さくら"
+  },
+  "emb-birthday_smr-02": {
+    "description": "すみれの誕生日を迎える",
+    "name": "【誕生日】奥山すみれ"
+  },
+  "emb-birthday_smr-03": {
+    "description": "すみれの誕生日を迎える",
+    "name": "【誕生日】奥山すみれ"
+  },
+  "emb-birthday_smr-04": {
+    "description": "すみれの誕生日を迎える",
+    "name": "【誕生日】奥山すみれ"
+  },
+  "emb-birthday_smr-05": {
+    "description": "すみれの誕生日を迎える",
+    "name": "【誕生日】奥山すみれ"
+  },
+  "emb-birthday_suz-03": {
+    "description": "すずの誕生日を迎える",
+    "name": "【誕生日】成宮すず"
+  },
+  "emb-birthday_suz-04": {
+    "description": "すずの誕生日を迎える",
+    "name": "【誕生日】成宮すず"
+  },
+  "emb-birthday_suz-05": {
+    "description": "すずの誕生日を迎える",
+    "name": "【誕生日】成宮すず"
+  },
+  "emb-birthday_suz-06": {
+    "description": "すずの誕生日を迎える",
+    "name": "【誕生日】成宮すず"
+  },
+  "emb-birthday_szk-03": {
+    "description": "雫の誕生日を迎える",
+    "name": "【誕生日】兵藤雫"
+  },
+  "emb-birthday_szk-04": {
+    "description": "雫の誕生日を迎える",
+    "name": "【誕生日】兵藤雫"
+  },
+  "emb-birthday_szk-05": {
+    "description": "雫の誕生日を迎える",
+    "name": "【誕生日】兵藤雫"
+  },
+  "emb-birthday_yu-03": {
+    "description": "優の誕生日を迎える",
+    "name": "【誕生日】鈴村優"
+  },
+  "emb-birthday_yu-04": {
+    "description": "優の誕生日を迎える",
+    "name": "【誕生日】鈴村優"
+  },
+  "emb-birthday_yu-05": {
+    "description": "優の誕生日を迎える",
+    "name": "【誕生日】鈴村優"
+  },
+  "emb-company-enjoy-ai-01": {
+    "description": "小美山愛交流Lv.30",
+    "name": "【絆】小美山愛"
+  },
+  "emb-company-enjoy-aoi-01": {
+    "description": "井川葵交流Lv.30",
+    "name": "【絆】井川葵"
+  },
+  "emb-company-enjoy-chs-01": {
+    "description": "白石千紗交流Lv.30",
+    "name": "【絆】白石千紗"
+  },
+  "emb-company-enjoy-hrk-01": {
+    "description": "佐伯遙子交流Lv.30",
+    "name": "【絆】佐伯遙子"
+  },
+  "emb-company-enjoy-kan-01": {
+    "description": "kana交流Lv.30",
+    "name": "【絆】kana"
+  },
+  "emb-company-enjoy-kkr-01": {
+    "description": "赤崎こころ交流Lv.30",
+    "name": "【絆】赤崎こころ"
+  },
+  "emb-company-enjoy-kor-01": {
+    "description": "fran交流Lv.30",
+    "name": "【絆】fran"
+  },
+  "emb-company-enjoy-ktn-01": {
+    "description": "長瀬琴乃交流Lv.30",
+    "name": "【絆】長瀬琴乃"
+  },
+  "emb-company-enjoy-mei-01": {
+    "description": "早坂芽衣交流Lv.30",
+    "name": "【絆】早坂芽衣"
+  },
+  "emb-company-enjoy-mhk-01": {
+    "description": "miho交流Lv.30",
+    "name": "【絆】miho"
+  },
+  "emb-company-enjoy-ngs-01": {
+    "description": "伊吹渚交流Lv.30",
+    "name": "【絆】伊吹渚"
+  },
+  "emb-company-enjoy-rei-01": {
+    "description": "一ノ瀬怜交流Lv.30",
+    "name": "【絆】一ノ瀬怜"
+  },
+  "emb-company-enjoy-rio-01": {
+    "description": "神崎莉央交流Lv.30",
+    "name": "【絆】神崎莉央"
+  },
+  "emb-company-enjoy-rui-01": {
+    "description": "天動瑠依交流Lv.30",
+    "name": "【絆】天動瑠依"
+  },
+  "emb-company-enjoy-ski-01": {
+    "description": "白石沙季交流Lv.30",
+    "name": "【絆】白石沙季"
+  },
+  "emb-company-enjoy-skr-01": {
+    "description": "川咲さくら交流Lv.30",
+    "name": "【絆】川咲さくら"
+  },
+  "emb-company-enjoy-smr-01": {
+    "description": "奥山すみれ交流Lv.30",
+    "name": "【絆】奥山すみれ"
+  },
+  "emb-company-enjoy-suz-01": {
+    "description": "成宮すず交流Lv.30",
+    "name": "【絆】成宮すず"
+  },
+  "emb-company-enjoy-szk-01": {
+    "description": "兵藤雫交流Lv.30",
+    "name": "【絆】兵藤雫"
+  },
+  "emb-company-enjoy-yu-01": {
+    "description": "鈴村優交流Lv.30",
+    "name": "【絆】鈴村優"
+  },
+  "emb-company-rank-01": {
+    "description": "事務所ランクS到達",
+    "name": "事務所ランクS"
+  },
+  "emb-company-rank-02": {
+    "description": "事務所ランクS+10到達",
+    "name": "事務所ランクS+10"
+  },
+  "emb-company-rank-03": {
+    "description": "事務所ランクS+30到達",
+    "name": "事務所ランクS+30"
+  },
+  "emb-company-rank-04": {
+    "description": "事務所ランクS+50到達",
+    "name": "事務所ランクS+50"
+  },
+  "emb-dream_difficulty_level_100": {
+    "description": "イメージトレーニングで難易度Lv100以上のステージをクリアする",
+    "name": "イメトレの使い手"
+  },
+  "emb-dream_difficulty_level_200": {
+    "description": "イメージトレーニングで難易度Lv200以上のステージをクリアする",
+    "name": "イメトレ専門家"
+  },
+  "emb-dream_difficulty_level_300": {
+    "description": "イメージトレーニングで難易度Lv300以上のステージをクリアする",
+    "name": "イメトレ界の巨匠"
+  },
+  "emb-dream_max-grade-s": {
+    "description": "イメージトレーニングでGRADE S以上のステージを生成する",
+    "name": "認定クリエイター"
+  },
+  "emb-dream_max-grade-s_10": {
+    "description": "イメージトレーニングでGRADE S+10以上のステージを生成する",
+    "name": "エグゼクティブCD"
+  },
+  "emb-eve-23-0626": {
+    "description": "フォトオーディション「星々が奇跡と叶える約束の未来」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-eve-23-1128": {
+    "description": "フォトオーディション「君と輝くサンシャイン!!」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-eve-230428-1": {
+    "description": "VENUSレース「きょうえん！HTT＆HMA～放課後ティータイム＆星見アンバサダー～」クリア",
+    "name": "きょうえん！HTT＆HMA～放課後ティータイム＆星見アンバサダー～"
+  },
+  "emb-eve-230703-1": {
+    "description": "VENUSレース「灼熱のBEACH ～イライラMAX ⅢX～」クリア",
+    "name": "灼熱のBEACH ～イライラMAX ⅢX～"
+  },
+  "emb-eve-231003-1": {
+    "description": "VENUSレース「迷走ピリオド 涼やかな青春」クリア",
+    "name": "迷走ピリオド 涼やかな青春"
+  },
+  "emb-eve-24-0129": {
+    "description": "フォトオーディション「未来を彩るスノーフェスティバル」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-eve-24-0626": {
+    "description": "フォトオーディション「君を照らすムーンライトロード」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-eve-24-1128": {
+    "description": "フォトオーディション「心跳ねるクリスマスパーティー」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-eve-240103-1": {
+    "description": "VENUSレース「にゃんか不思議なお正月！？」クリア",
+    "name": "にゃんか不思議なお正月！？"
+  },
+  "emb-eve-240226-1": {
+    "description": "VENUSレース「笑顔のSUNNY 繋げるPEACE」クリア",
+    "name": "笑顔のSUNNY 繋げるPEACE"
+  },
+  "emb-eve-240404-1": {
+    "description": "すごろく「不屈のChallenger～Roll the dice～」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-eve-240426-1": {
+    "description": "VENUSレース「すれ違いのディソナンス」クリア",
+    "name": "すれ違いのディソナンス"
+  },
+  "emb-eve-240708-1": {
+    "description": "すごろく「漕ぎ出せ！アイドル★サバイバーズ」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-eve-240727-1": {
+    "description": "VENUSレース「偽りのREALISM ～密着 新曲会議！？～」クリア",
+    "name": "偽りのREALISM ～密着 新曲会議！？～"
+  },
+  "emb-eve-240827-1": {
+    "description": "マルチリンクス「開演！ぷりてぃー★エンジェル」",
+    "name": "開演！ぷりてぃー★エンジェル"
+  },
+  "emb-eve-240925-1": {
+    "description": "すごろく「お待たせしました里帰り～星見凱旋記～」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-eve-241028-1": {
+    "description": "VENUSレース「欺瞞の最強TWINkle」クリア",
+    "name": "欺瞞の最強TWINkle"
+  },
+  "emb-eve-25-0826": {
+    "description": "フォトオーディション「未来へ続く夏祭り」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-eve-250104-1": {
+    "description": "VENUSレース「迎春！翼に込める躍進の一念」クリア",
+    "name": "迎春！翼に込める躍進の一念"
+  },
+  "emb-eve-250128-1": {
+    "description": "マルチリンクス「感謝を伝えるLovely Valentine's Day」",
+    "name": "感謝を伝えるLovely Valentine's Day"
+  },
+  "emb-eve-250225-1": {
+    "description": "すごろく「SOS！星見プロダクションの転送～ただのアイドルには興味ありません！？～」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-eve-250326-1": {
+    "description": "マルチリンクス「旗揚げ！劇団★見\n～二人のアリスとWONDERLAND～」",
+    "name": "旗揚げ！劇団★見～二人のアリスとWONDERLAND～"
+  },
+  "emb-eve-250625-1": {
+    "description": "VENUSレース「星見プロ全国ツアー　Stars Journey」クリア",
+    "name": "星見プロ全国ツアー　Stars Journey"
+  },
+  "emb-eve-250927-1": {
+    "description": "マルチリンクス「私達の青春謳歌\n～DOTABATA SCHOOL FESTIVAL～」",
+    "name": "私達の青春謳歌～DOTABATA SCHOOL FESTIVAL～"
+  },
+  "emb-eve-251028-1": {
+    "description": "VENUSレース「let's 湯けむり dancing！」クリア",
+    "name": "let's 湯けむり dancing！"
+  },
+  "emb-eve-251126-1": {
+    "description": "すごろく「ドタバタ！？トラブルクリスマス！」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-eve-260104-1": {
+    "description": "VENUSレース「新春万福　素顔の晒し合いGAME」クリア",
+    "name": "新春万福　素顔の晒し合いGAME"
+  },
+  "emb-eve-260128-1": {
+    "description": "すごろく「ぶつかり愛のCenter Battle！」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-eve-260226-1": {
+    "description": "VENUSレース「あなたに捧ぐWith your songs」クリア",
+    "name": "あなたに捧ぐWith your songs"
+  },
+  "emb-eve-260327-1": {
+    "description": "すごろく「IDOLY MATCH～地下闘技場への挑戦～」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-eve-260427-1": {
+    "description": "マルチリンクス「ハロー！アイドル♪\n夢でつながるミラクルステージ」",
+    "name": "ハロー！アイドル♪ 夢でつながるミラクルステージ"
+  },
+  "emb-eve-260625-1": {
+    "description": "すごろく「羽ばたけ！恩返しのAile」条件達成",
+    "name": "イベント称号"
+  },
+  "emb-eve-260708-1": {
+    "description": "マルチリンクス「PRIDE貫く頂点への道標」",
+    "name": "PRIDE貫く頂点への道標"
+  },
+  "emb-ex-tower-005-sp-24-0428-001": {
+    "description": "GW記念EXタワーをクリア",
+    "name": "GW記念EXタワー"
+  },
+  "emb-ex-tower-005-sp-24-0428-004": {
+    "description": "GW記念EXタワー星見プロからの挑戦状をクリア",
+    "name": "GW記念EXタワー星見プロからの挑戦状"
+  },
+  "emb-ex-tower-005-sp-25-0301-001": {
+    "description": "涼宮ハルヒの憂鬱コラボ開催記念EXタワーをクリア",
+    "name": "涼宮ハルヒの憂鬱コラボ開催記念EXタワー"
+  },
+  "emb-ex-tower-005-sp-25-0901-001": {
+    "description": "初音ミクコラボ開催記念EXタワーをクリア",
+    "name": "初音ミクコラボ開催記念EXタワー"
+  },
+  "emb-ex-tower-005-sp-25-1201-001": {
+    "description": "To LOVEるコラボ開催記念EXタワーをクリア",
+    "name": "To LOVEるコラボ開催記念EXタワー"
+  },
+  "emb-ex-tower-005-sp-26-0502-001": {
+    "description": "GW記念EXタワーをクリア",
+    "name": "GW記念EXタワー"
+  },
+  "emb-ex-tower-005-sp-26-0502-004": {
+    "description": "GW記念EXタワー星見プロからの挑戦状をクリア",
+    "name": "GW記念EXタワー星見プロからの挑戦状"
+  },
+  "emb-ex-tower-005-sp-26-0503-001": {
+    "description": "サンリオキャラコラボ開催記念EXタワーをクリア",
+    "name": "サンリオキャラコラボ開催記念EXタワー"
+  },
+  "emb-gvg-season-021-top001": {
+    "description": "ユニオンライブシーズン21 で1位獲得",
+    "name": "ユニオンシーズン21 No.1"
+  },
+  "emb-gvg-season-021-top010": {
+    "description": "ユニオンライブシーズン21 で10位以内獲得",
+    "name": "ユニオンシーズン21 TOP10"
+  },
+  "emb-gvg-season-022-top001": {
+    "description": "ユニオンライブシーズン22 で1位獲得",
+    "name": "ユニオンシーズン22 No.1"
+  },
+  "emb-gvg-season-022-top010": {
+    "description": "ユニオンライブシーズン22 で10位以内獲得",
+    "name": "ユニオンシーズン22 TOP10"
+  },
+  "emb-gvg-season-023-top001": {
+    "description": "ユニオンライブシーズン23 で1位獲得",
+    "name": "ユニオンシーズン23 No.1"
+  },
+  "emb-gvg-season-023-top010": {
+    "description": "ユニオンライブシーズン23 で10位以内獲得",
+    "name": "ユニオンシーズン23 TOP10"
+  },
+  "emb-gvg-season-024-top001": {
+    "description": "ユニオンライブシーズン24 で1位獲得",
+    "name": "ユニオンシーズン24 No.1"
+  },
+  "emb-gvg-season-024-top010": {
+    "description": "ユニオンライブシーズン24 で10位以内獲得",
+    "name": "ユニオンシーズン24 TOP10"
+  },
+  "emb-gvg-season-025-top001": {
+    "description": "ユニオンライブシーズン25 で1位獲得",
+    "name": "ユニオンシーズン25 No.1"
+  },
+  "emb-gvg-season-025-top010": {
+    "description": "ユニオンライブシーズン25 で10位以内獲得",
+    "name": "ユニオンシーズン25 TOP10"
+  },
+  "emb-gvg-season-026-top001": {
+    "description": "ユニオンライブシーズン26 で1位獲得",
+    "name": "ユニオンシーズン26 No.1"
+  },
+  "emb-gvg-season-026-top010": {
+    "description": "ユニオンライブシーズン26 で10位以内獲得",
+    "name": "ユニオンシーズン26 TOP10"
+  },
+  "emb-gvg-season-027-top001": {
+    "description": "ユニオンライブシーズン27 で1位獲得",
+    "name": "ユニオンシーズン27 No.1"
+  },
+  "emb-gvg-season-027-top010": {
+    "description": "ユニオンライブシーズン27 で10位以内獲得",
+    "name": "ユニオンシーズン27 TOP10"
+  },
+  "emb-gvg-season-028-top001": {
+    "description": "ユニオンライブシーズン28 で1位獲得",
+    "name": "ユニオンシーズン28 No.1"
+  },
+  "emb-gvg-season-028-top010": {
+    "description": "ユニオンライブシーズン28 で10位以内獲得",
+    "name": "ユニオンシーズン28 TOP10"
+  },
+  "emb-gvg-season-029-top001": {
+    "description": "ユニオンライブシーズン29 で1位獲得",
+    "name": "ユニオンシーズン29 No.1"
+  },
+  "emb-gvg-season-029-top010": {
+    "description": "ユニオンライブシーズン29 で10位以内獲得",
+    "name": "ユニオンシーズン29 TOP10"
+  },
+  "emb-gvg-season-030-top001": {
+    "description": "ユニオンライブシーズン30 で1位獲得",
+    "name": "ユニオンシーズン30 No.1"
+  },
+  "emb-gvg-season-030-top010": {
+    "description": "ユニオンライブシーズン30 で10位以内獲得",
+    "name": "ユニオンシーズン30 TOP10"
+  },
+  "emb-gvg-season-031-top001": {
+    "description": "ユニオンライブシーズン31 で1位獲得",
+    "name": "ユニオンシーズン31 No.1"
+  },
+  "emb-gvg-season-031-top010": {
+    "description": "ユニオンライブシーズン31 で10位以内獲得",
+    "name": "ユニオンシーズン31 TOP10"
+  },
+  "emb-gvg-season-032-top001": {
+    "description": "ユニオンライブシーズン32 で1位獲得",
+    "name": "ユニオンシーズン32 No.1"
+  },
+  "emb-gvg-season-032-top010": {
+    "description": "ユニオンライブシーズン32 で10位以内獲得",
+    "name": "ユニオンシーズン32 TOP10"
+  },
+  "emb-gvg-season-033-top001": {
+    "description": "ユニオンライブシーズン33 で1位獲得",
+    "name": "ユニオンシーズン33 No.1"
+  },
+  "emb-gvg-season-033-top010": {
+    "description": "ユニオンライブシーズン33 で10位以内獲得",
+    "name": "ユニオンシーズン33 TOP10"
+  },
+  "emb-gvg-season-034-top001": {
+    "description": "ユニオンライブシーズン34 で1位獲得",
+    "name": "ユニオンシーズン34 No.1"
+  },
+  "emb-gvg-season-034-top010": {
+    "description": "ユニオンライブシーズン34 で10位以内獲得",
+    "name": "ユニオンシーズン34 TOP10"
+  },
+  "emb-gvg-season-035-top001": {
+    "description": "ユニオンライブシーズン35 で1位獲得",
+    "name": "ユニオンシーズン35 No.1"
+  },
+  "emb-gvg-season-035-top010": {
+    "description": "ユニオンライブシーズン35 で10位以内獲得",
+    "name": "ユニオンシーズン35 TOP10"
+  },
+  "emb-gvg-season-036-top001": {
+    "description": "ユニオンライブシーズン36 で1位獲得",
+    "name": "ユニオンシーズン36 No.1"
+  },
+  "emb-gvg-season-036-top010": {
+    "description": "ユニオンライブシーズン36 で10位以内獲得",
+    "name": "ユニオンシーズン36 TOP10"
+  },
+  "emb-gvg-season-037-top001": {
+    "description": "ユニオンライブシーズン37 で1位獲得",
+    "name": "ユニオンシーズン37 No.1"
+  },
+  "emb-gvg-season-037-top010": {
+    "description": "ユニオンライブシーズン37 で10位以内獲得",
+    "name": "ユニオンシーズン37 TOP10"
+  },
+  "emb-gvg-season-038-top001": {
+    "description": "ユニオンライブシーズン38 で1位獲得",
+    "name": "ユニオンシーズン38 No.1"
+  },
+  "emb-gvg-season-038-top010": {
+    "description": "ユニオンライブシーズン38 で10位以内獲得",
+    "name": "ユニオンシーズン38 TOP10"
+  },
+  "emb-gvg-season-039-top001": {
+    "description": "ユニオンライブシーズン39 で1位獲得",
+    "name": "ユニオンシーズン39 No.1"
+  },
+  "emb-gvg-season-039-top010": {
+    "description": "ユニオンライブシーズン39 で10位以内獲得",
+    "name": "ユニオンシーズン39 TOP10"
+  },
+  "emb-gvg-season-040-top001": {
+    "description": "ユニオンライブシーズン40 で1位獲得",
+    "name": "ユニオンシーズン40 No.1"
+  },
+  "emb-gvg-season-040-top010": {
+    "description": "ユニオンライブシーズン40 で10位以内獲得",
+    "name": "ユニオンシーズン40 TOP10"
+  },
+  "emb-gvg-season-041-top001": {
+    "description": "ユニオンライブシーズン41 で1位獲得",
+    "name": "ユニオンシーズン41 No.1"
+  },
+  "emb-gvg-season-041-top010": {
+    "description": "ユニオンライブシーズン41 で10位以内獲得",
+    "name": "ユニオンシーズン41 TOP10"
+  },
+  "emb-gvg-season-042-top001": {
+    "description": "ユニオンライブシーズン42 で1位獲得",
+    "name": "ユニオンシーズン42 No.1"
+  },
+  "emb-gvg-season-042-top010": {
+    "description": "ユニオンライブシーズン42 で10位以内獲得",
+    "name": "ユニオンシーズン42 TOP10"
+  },
+  "emb-gvg-season-043-top001": {
+    "description": "ユニオンライブシーズン43 で1位獲得",
+    "name": "ユニオンシーズン43 No.1"
+  },
+  "emb-gvg-season-043-top010": {
+    "description": "ユニオンライブシーズン43 で10位以内獲得",
+    "name": "ユニオンシーズン43 TOP10"
+  },
+  "emb-gvg-season-044-top001": {
+    "description": "ユニオンライブシーズン44 で1位獲得",
+    "name": "ユニオンシーズン44 No.1"
+  },
+  "emb-gvg-season-044-top010": {
+    "description": "ユニオンライブシーズン44 で10位以内獲得",
+    "name": "ユニオンシーズン44 TOP10"
+  },
+  "emb-gvg-season-045-top001": {
+    "description": "ユニオンライブシーズン45 で1位獲得",
+    "name": "ユニオンシーズン45 No.1"
+  },
+  "emb-gvg-season-045-top010": {
+    "description": "ユニオンライブシーズン45 で10位以内獲得",
+    "name": "ユニオンシーズン45 TOP10"
+  },
+  "emb-gvg-season-046-top001": {
+    "description": "ユニオンライブシーズン46 で1位獲得",
+    "name": "ユニオンシーズン46 No.1"
+  },
+  "emb-gvg-season-046-top010": {
+    "description": "ユニオンライブシーズン46 で10位以内獲得",
+    "name": "ユニオンシーズン46 TOP10"
+  },
+  "emb-gvg-season-047-top001": {
+    "description": "ユニオンライブシーズン47 で1位獲得",
+    "name": "ユニオンシーズン47 No.1"
+  },
+  "emb-gvg-season-047-top010": {
+    "description": "ユニオンライブシーズン47 で10位以内獲得",
+    "name": "ユニオンシーズン47 TOP10"
+  },
+  "emb-gvg-season-048-top001": {
+    "description": "ユニオンライブシーズン48 で1位獲得",
+    "name": "ユニオンシーズン48 No.1"
+  },
+  "emb-gvg-season-048-top010": {
+    "description": "ユニオンライブシーズン48 で10位以内獲得",
+    "name": "ユニオンシーズン48 TOP10"
+  },
+  "emb-gvg-season-049-top001": {
+    "description": "ユニオンライブシーズン49 で1位獲得",
+    "name": "ユニオンシーズン49 No.1"
+  },
+  "emb-gvg-season-049-top010": {
+    "description": "ユニオンライブシーズン49 で10位以内獲得",
+    "name": "ユニオンシーズン49 TOP10"
+  },
+  "emb-gvg-season-050-top001": {
+    "description": "ユニオンライブシーズン50 で1位獲得",
+    "name": "ユニオンシーズン50 No.1"
+  },
+  "emb-gvg-season-050-top010": {
+    "description": "ユニオンライブシーズン50 で10位以内獲得",
+    "name": "ユニオンシーズン50 TOP10"
+  },
+  "emb-gvg-season-051-top001": {
+    "description": "ユニオンライブシーズン51 で1位獲得",
+    "name": "ユニオンシーズン51 No.1"
+  },
+  "emb-gvg-season-051-top010": {
+    "description": "ユニオンライブシーズン51 で10位以内獲得",
+    "name": "ユニオンシーズン51 TOP10"
+  },
+  "emb-gvg-season-052-top001": {
+    "description": "ユニオンライブシーズン52 で1位獲得",
+    "name": "ユニオンシーズン52 No.1"
+  },
+  "emb-gvg-season-052-top010": {
+    "description": "ユニオンライブシーズン52 で10位以内獲得",
+    "name": "ユニオンシーズン52 TOP10"
+  },
+  "emb-gvg-season-053-top001": {
+    "description": "ユニオンライブシーズン53 で1位獲得",
+    "name": "ユニオンシーズン53 No.1"
+  },
+  "emb-gvg-season-053-top010": {
+    "description": "ユニオンライブシーズン53 で10位以内獲得",
+    "name": "ユニオンシーズン53 TOP10"
+  },
+  "emb-gvg-season-054-top001": {
+    "description": "ユニオンライブシーズン54 で1位獲得",
+    "name": "ユニオンシーズン54 No.1"
+  },
+  "emb-gvg-season-054-top010": {
+    "description": "ユニオンライブシーズン54 で10位以内獲得",
+    "name": "ユニオンシーズン54 TOP10"
+  },
+  "emb-gvg-season-055-top001": {
+    "description": "ユニオンライブシーズン55 で1位獲得",
+    "name": "ユニオンシーズン55 No.1"
+  },
+  "emb-gvg-season-055-top010": {
+    "description": "ユニオンライブシーズン55 で10位以内獲得",
+    "name": "ユニオンシーズン55 TOP10"
+  },
+  "emb-gvg-season-056-top001": {
+    "description": "ユニオンライブシーズン56 で1位獲得",
+    "name": "ユニオンシーズン56 No.1"
+  },
+  "emb-gvg-season-056-top010": {
+    "description": "ユニオンライブシーズン56 で10位以内獲得",
+    "name": "ユニオンシーズン56 TOP10"
+  },
+  "emb-gvg-season-057-top001": {
+    "description": "ユニオンライブシーズン57 で1位獲得",
+    "name": "ユニオンシーズン57 No.1"
+  },
+  "emb-gvg-season-057-top010": {
+    "description": "ユニオンライブシーズン57 で10位以内獲得",
+    "name": "ユニオンシーズン57 TOP10"
+  },
+  "emb-gvg-season-058-top001": {
+    "description": "ユニオンライブシーズン58 で1位獲得",
+    "name": "ユニオンシーズン58 No.1"
+  },
+  "emb-gvg-season-058-top010": {
+    "description": "ユニオンライブシーズン58 で10位以内獲得",
+    "name": "ユニオンシーズン58 TOP10"
+  },
+  "emb-gvg-season-059-top001": {
+    "description": "ユニオンライブシーズン59 で1位獲得",
+    "name": "ユニオンシーズン59 No.1"
+  },
+  "emb-gvg-season-059-top010": {
+    "description": "ユニオンライブシーズン59 で10位以内獲得",
+    "name": "ユニオンシーズン59 TOP10"
+  },
+  "emb-gvg-season-060-top001": {
+    "description": "ユニオンライブシーズン60 で1位獲得",
+    "name": "ユニオンシーズン60 No.1"
+  },
+  "emb-gvg-season-060-top010": {
+    "description": "ユニオンライブシーズン60 で10位以内獲得",
+    "name": "ユニオンシーズン60 TOP10"
+  },
+  "emb-gvg-season-061-top001": {
+    "description": "ユニオンライブシーズン61 で1位獲得",
+    "name": "ユニオンシーズン61 No.1"
+  },
+  "emb-gvg-season-061-top010": {
+    "description": "ユニオンライブシーズン61 で10位以内獲得",
+    "name": "ユニオンシーズン61 TOP10"
+  },
+  "emb-gvg-season-062-top001": {
+    "description": "ユニオンライブシーズン62 で1位獲得",
+    "name": "ユニオンシーズン62 No.1"
+  },
+  "emb-gvg-season-062-top010": {
+    "description": "ユニオンライブシーズン62 で10位以内獲得",
+    "name": "ユニオンシーズン62 TOP10"
+  },
+  "emb-gvg-season-063-top001": {
+    "description": "ユニオンライブシーズン63 で1位獲得",
+    "name": "ユニオンシーズン63 No.1"
+  },
+  "emb-gvg-season-063-top010": {
+    "description": "ユニオンライブシーズン63 で10位以内獲得",
+    "name": "ユニオンシーズン63 TOP10"
+  },
+  "emb-highscore-15-0": {
+    "description": "ハイスコアライブ「lumière」で100位以内獲得"
+  },
+  "emb-highscore-15-1": {
+    "description": "ハイスコアライブ「lumière」で1位獲得",
+    "name": "歌声を響かそう"
+  },
+  "emb-highscore-16-0": {
+    "description": "ハイスコアライブ「Darkness sympathizer」で100位以内獲得"
+  },
+  "emb-highscore-16-1": {
+    "description": "ハイスコアライブ「Darkness sympathizer」で1位獲得",
+    "name": "ありふれた言葉なんかいらないよ"
+  },
+  "emb-highscore-17-0": {
+    "description": "ハイスコアライブ「song for you」で100位以内獲得"
+  },
+  "emb-highscore-17-1": {
+    "description": "ハイスコアライブ「song for you」で1位獲得",
+    "name": "prideに変えて"
+  },
+  "emb-highscore-18-0": {
+    "description": "ハイスコアライブ「Top of the Tops」で100位以内獲得"
+  },
+  "emb-highscore-18-1": {
+    "description": "ハイスコアライブ「Top of the Tops」で1位獲得",
+    "name": "ゴール目指し一直線に"
+  },
+  "emb-highscore-eve-2304": {
+    "description": "ハイスコアライブ「Don't say \"lazy\"（HoshiMi Ambassador ver）」でSランククリア",
+    "name": "Don't say \"lazy\" （HoshiMi Ambassador ver） Sランク達成"
+  },
+  "emb-highscore-eve-2312-01": {
+    "description": "「マネージャーおすすめ楽曲メドレー」ライブでSランククリア",
+    "name": "2.5th Aniv メドレーライブ"
+  },
+  "emb-highscore-eve-2312-02": {
+    "description": "「マネージャーおすすめ楽曲メドレー」ライブでS+20ランククリア",
+    "name": "2.5th Aniv メドレーライブ"
+  },
+  "emb-highscore-eve-2312-03": {
+    "description": "「マネージャーおすすめ楽曲メドレー」ライブでS+40ランククリア",
+    "name": "2.5th Aniv メドレーライブ"
+  },
+  "emb-highscore-eve-2312-04": {
+    "description": "「マネージャーおすすめ楽曲メドレー」ライブでS+60ランククリア",
+    "name": "2.5th Aniv メドレーライブ"
+  },
+  "emb-highscore-eve-2312-05": {
+    "description": "「マネージャーおすすめ楽曲メドレー」ライブでS+80ランククリア",
+    "name": "2.5th Aniv メドレーライブ"
+  },
+  "emb-highscore-eve-2406-01": {
+    "description": "「メドレーライブ 3rd ANNIV.」でSランククリア",
+    "name": "メドレーライブ 3rd ANNIV."
+  },
+  "emb-highscore-eve-2406-02": {
+    "description": "「メドレーライブ 3rd ANNIV.」でS+20ランククリア",
+    "name": "メドレーライブ 3rd ANNIV."
+  },
+  "emb-highscore-eve-2406-03": {
+    "description": "「メドレーライブ 3rd ANNIV.」でS+40ランククリア",
+    "name": "メドレーライブ 3rd ANNIV."
+  },
+  "emb-highscore-eve-2406-04": {
+    "description": "「メドレーライブ 3rd ANNIV.」でS+60ランククリア",
+    "name": "メドレーライブ 3rd ANNIV."
+  },
+  "emb-highscore-eve-2406-05": {
+    "description": "「メドレーライブ 3rd ANNIV.」でS+80ランククリア",
+    "name": "メドレーライブ 3rd ANNIV."
+  },
+  "emb-highscore-gw-2505-01": {
+    "description": "GW特別ハイスコアライブ【スコアラー】でSランククリア",
+    "name": "GW特別ハイスコアライブ【スコアラー】"
+  },
+  "emb-highscore-gw-2505-02": {
+    "description": "GW特別ハイスコアライブ【スコアラー】でS+20ランククリア",
+    "name": "GW特別ハイスコアライブ【スコアラー】"
+  },
+  "emb-highscore-gw-2505-03": {
+    "description": "GW特別ハイスコアライブ【スコアラー】でS+40ランククリア",
+    "name": "GW特別ハイスコアライブ【スコアラー】"
+  },
+  "emb-highscore-gw-2505-04": {
+    "description": "GW特別ハイスコアライブ【スコアラー】でS+60ランククリア",
+    "name": "GW特別ハイスコアライブ【スコアラー】"
+  },
+  "emb-highscore-gw-2505-05": {
+    "description": "GW特別ハイスコアライブ【スコアラー】でS+80ランククリア",
+    "name": "GW特別ハイスコアライブ【スコアラー】"
+  },
+  "emb-highscore-gw-2505-06": {
+    "description": "GW特別ハイスコアライブ【バッファー＆サポーター】でSランククリア",
+    "name": "GW特別ハイスコアライブ【バッファー＆サポーター】"
+  },
+  "emb-highscore-gw-2505-07": {
+    "description": "GW特別ハイスコアライブ【バッファー＆サポーター】でS+20ランククリア",
+    "name": "GW特別ハイスコアライブ【バッファー＆サポーター】"
+  },
+  "emb-highscore-gw-2505-08": {
+    "description": "GW特別ハイスコアライブ【バッファー＆サポーター】でS+40ランククリア",
+    "name": "GW特別ハイスコアライブ【バッファー＆サポーター】"
+  },
+  "emb-highscore-gw-2505-09": {
+    "description": "GW特別ハイスコアライブ【バッファー＆サポーター】でS+60ランククリア",
+    "name": "GW特別ハイスコアライブ【バッファー＆サポーター】"
+  },
+  "emb-highscore-gw-2505-10": {
+    "description": "GW特別ハイスコアライブ【バッファー＆サポーター】でS+80ランククリア",
+    "name": "GW特別ハイスコアライブ【バッファー＆サポーター】"
+  },
+  "emb-login-1000": {
+    "description": "累計ログイン日数1000日以上",
+    "name": "仕事一筋"
+  },
+  "emb-login-2000": {
+    "description": "累計ログイン日数2000日以上",
+    "name": "皆勤賞"
+  },
+  "emb-love-23-0514-true": {
+    "description": "「もし恋 ~もしも君と恋をしたら~ 一ノ瀬怜編」TRUEエンドクリア",
+    "name": "「もし恋 ~もしも君と恋をしたら~ 一ノ瀬怜編」"
+  },
+  "emb-love-23-0514-true-sp": {
+    "description": "【限定】「もし恋 ~もしも君と恋をしたら~ 一ノ瀬怜編」TRUEエンドクリア",
+    "name": "【限定】「もし恋 ~もしも君と恋をしたら~ 一ノ瀬怜編」"
+  },
+  "emb-love-23-1114-true": {
+    "description": "「もし恋 ~もしも君と恋をしたら~ 伊吹渚編」TRUEエンドクリア",
+    "name": "「もし恋 ~もしも君と恋をしたら~ 伊吹渚編」"
+  },
+  "emb-love-23-1114-true-sp": {
+    "description": "【限定】「もし恋 ~もしも君と恋をしたら~ 伊吹渚編」TRUEエンドクリア",
+    "name": "【限定】「もし恋 ~もしも君と恋をしたら~ 伊吹渚編」"
+  },
+  "emb-love-24-0517-true": {
+    "description": "「もし恋 ~もしも君と恋をしたら~ 早坂芽衣編」TRUEエンドクリア",
+    "name": "「もし恋 ~もしも君と恋をしたら~ 早坂芽衣編」"
+  },
+  "emb-love-24-0517-true-sp": {
+    "description": "【限定】「もし恋 ~もしも君と恋をしたら~ 早坂芽衣編」TRUEエンドクリア",
+    "name": "【限定】「もし恋 ~もしも君と恋をしたら~ 早坂芽衣編」"
+  },
+  "emb-love-24-1114-true": {
+    "description": "「もし恋 ~もしも君と恋をしたら~ 鈴村優編」TRUEエンドクリア",
+    "name": "「もし恋 ~もしも君と恋をしたら~ 鈴村優編」"
+  },
+  "emb-love-24-1114-true-sp": {
+    "description": "【限定】「もし恋 ~もしも君と恋をしたら~ 鈴村優編」TRUEエンドクリア",
+    "name": "【限定】「もし恋 ~もしも君と恋をしたら~ 鈴村優編」"
+  },
+  "emb-love-25-0426-true-01": {
+    "description": "「サキュ×まほ ~KISS AND MAGIC!~ ルイ」GOODエンドクリア",
+    "name": "「サキュ×まほ ~KISS AND MAGIC!~ ルイ」"
+  },
+  "emb-love-25-0426-true-02": {
+    "description": "「サキュ×まほ ~KISS AND MAGIC!~ チサ」GOODエンドクリア",
+    "name": "「サキュ×まほ ~KISS AND MAGIC!~ チサ」"
+  },
+  "emb-love-25-0426-true-03": {
+    "description": "「サキュ×まほ ~KISS AND MAGIC!~ すみれ」GOODエンドクリア",
+    "name": "「サキュ×まほ ~KISS AND MAGIC!~ すみれ」"
+  },
+  "emb-love-25-0426-true-04": {
+    "description": "「サキュ×まほ ~KISS AND MAGIC!~ 渚」GOODエンドクリア",
+    "name": "「サキュ×まほ ~KISS AND MAGIC!~ 渚」"
+  },
+  "emb-love-25-0426-true-05": {
+    "description": "「サキュ×まほ ~KISS AND MAGIC!~ ハーレム」GOODエンドクリア",
+    "name": "「サキュ×まほ ~KISS AND MAGIC!~ ハーレム」"
+  },
+  "emb-love-26-0313-true": {
+    "description": "「もし恋 ~もしも君と恋をしたら~ 神崎莉央編」TRUEエンドクリア",
+    "name": "「もし恋 ~もしも君と恋をしたら~ 神崎莉央編」"
+  },
+  "emb-love-26-0313-true-sp": {
+    "description": "【限定】「もし恋 ~もしも君と恋をしたら~ 神崎莉央編」TRUEエンドクリア",
+    "name": "【限定】「もし恋 ~もしも君と恋をしたら~ 神崎莉央編」"
+  },
+  "emb-mission-ladder-23-0810": {
+    "description": "「夏の思い出メッセージミッション」",
+    "name": "アイドルたちの夏の思い出"
+  },
+  "emb-mission-mosaic-24-0311": {
+    "description": "「繋ぐ、みんなの想い」ミッション",
+    "name": "繋ぐ、みんなの想い"
+  },
+  "emb-mission-mosaic-24-0417": {
+    "description": "「桜花爛漫はるうらら」ミッション",
+    "name": "桜花爛漫はるうらら"
+  },
+  "emb-mission-mosaic-24-0510": {
+    "description": "「弾ける夏へ！Splash Dive」ミッション",
+    "name": "弾ける夏へ！Splash Dive"
+  },
+  "emb-mission-mosaic-24-0607": {
+    "description": "「蒼の追懐」ミッション",
+    "name": "蒼の追懐"
+  },
+  "emb-mission-mosaic-24-0719": {
+    "description": "「夏の音が、かき消して」ミッション",
+    "name": "夏の音が、かき消して"
+  },
+  "emb-mission-mosaic-24-0808": {
+    "description": "「笑顔咲く夏夜」ミッション",
+    "name": "笑顔咲く夏夜"
+  },
+  "emb-mission-mosaic-24-0909": {
+    "description": "「とろけるスイーツパーティー」ミッション",
+    "name": "とろけるスイーツパーティー"
+  },
+  "emb-mission-mosaic-24-1017": {
+    "description": "「柔らかな光灯すNight time」ミッション",
+    "name": "柔らかな光灯すNight time"
+  },
+  "emb-mission-mosaic-24-1107": {
+    "description": "「恋の湯けむり」ミッション",
+    "name": "恋の湯けむり"
+  },
+  "emb-promotion-24-0129-ymk": {
+    "description": "初音ミク撮ってみたキャンペーン",
+    "name": "冬のフォトグラファー"
+  },
+  "emb-promotion-24-0319-report": {
+    "description": "マネージャー活動報告会",
+    "name": "マネージャー活動の歩み"
+  },
+  "emb-pvp-season-068-top001": {
+    "description": "VENUSバトルシーズン68で1位獲得",
+    "name": "VENUSシーズン68 No.1"
+  },
+  "emb-pvp-season-068-top010": {
+    "description": "VENUSバトルシーズン68で10位以内獲得",
+    "name": "VENUSシーズン68 TOP10"
+  },
+  "emb-pvp-season-068-top100": {
+    "description": "VENUSバトルシーズン68で100位以内獲得",
+    "name": "VENUSシーズン68 TOP100"
+  },
+  "emb-pvp-season-069-top001": {
+    "description": "VENUSバトルシーズン69で1位獲得",
+    "name": "VENUSシーズン69 No.1"
+  },
+  "emb-pvp-season-069-top010": {
+    "description": "VENUSバトルシーズン69で10位以内獲得",
+    "name": "VENUSシーズン69 TOP10"
+  },
+  "emb-pvp-season-069-top100": {
+    "description": "VENUSバトルシーズン69で100位以内獲得",
+    "name": "VENUSシーズン69 TOP100"
+  },
+  "emb-pvp-season-070-top001": {
+    "description": "VENUSバトルシーズン70で1位獲得",
+    "name": "VENUSシーズン70 No.1"
+  },
+  "emb-pvp-season-070-top010": {
+    "description": "VENUSバトルシーズン70で10位以内獲得",
+    "name": "VENUSシーズン70 TOP10"
+  },
+  "emb-pvp-season-070-top100": {
+    "description": "VENUSバトルシーズン70で100位以内獲得",
+    "name": "VENUSシーズン70 TOP100"
+  },
+  "emb-pvp-season-071-top001": {
+    "description": "VENUSバトルシーズン71で1位獲得",
+    "name": "VENUSシーズン71 No.1"
+  },
+  "emb-pvp-season-071-top010": {
+    "description": "VENUSバトルシーズン71で10位以内獲得",
+    "name": "VENUSシーズン71 TOP10"
+  },
+  "emb-pvp-season-071-top100": {
+    "description": "VENUSバトルシーズン71で100位以内獲得",
+    "name": "VENUSシーズン71 TOP100"
+  },
+  "emb-pvp-season-072-top001": {
+    "description": "VENUSバトルシーズン72で1位獲得",
+    "name": "VENUSシーズン72 No.1"
+  },
+  "emb-pvp-season-072-top010": {
+    "description": "VENUSバトルシーズン72で10位以内獲得",
+    "name": "VENUSシーズン72 TOP10"
+  },
+  "emb-pvp-season-072-top100": {
+    "description": "VENUSバトルシーズン72で100位以内獲得",
+    "name": "VENUSシーズン72 TOP100"
+  },
+  "emb-pvp-season-073-top001": {
+    "description": "VENUSバトルシーズン73で1位獲得",
+    "name": "VENUSシーズン73 No.1"
+  },
+  "emb-pvp-season-073-top010": {
+    "description": "VENUSバトルシーズン73で10位以内獲得",
+    "name": "VENUSシーズン73 TOP10"
+  },
+  "emb-pvp-season-073-top100": {
+    "description": "VENUSバトルシーズン73で100位以内獲得",
+    "name": "VENUSシーズン73 TOP100"
+  },
+  "emb-pvp-season-074-top001": {
+    "description": "VENUSバトルシーズン74で1位獲得",
+    "name": "VENUSシーズン74 No.1"
+  },
+  "emb-pvp-season-074-top010": {
+    "description": "VENUSバトルシーズン74で10位以内獲得",
+    "name": "VENUSシーズン74 TOP10"
+  },
+  "emb-pvp-season-074-top100": {
+    "description": "VENUSバトルシーズン74で100位以内獲得",
+    "name": "VENUSシーズン74 TOP100"
+  },
+  "emb-pvp-season-075-top001": {
+    "description": "VENUSバトルシーズン75で1位獲得",
+    "name": "VENUSシーズン75 No.1"
+  },
+  "emb-pvp-season-075-top010": {
+    "description": "VENUSバトルシーズン75で10位以内獲得",
+    "name": "VENUSシーズン75 TOP10"
+  },
+  "emb-pvp-season-075-top100": {
+    "description": "VENUSバトルシーズン75で100位以内獲得",
+    "name": "VENUSシーズン75 TOP100"
+  },
+  "emb-pvp-season-076-top001": {
+    "description": "VENUSバトルシーズン76で1位獲得",
+    "name": "VENUSシーズン76 No.1"
+  },
+  "emb-pvp-season-076-top010": {
+    "description": "VENUSバトルシーズン76で10位以内獲得",
+    "name": "VENUSシーズン76 TOP10"
+  },
+  "emb-pvp-season-076-top100": {
+    "description": "VENUSバトルシーズン76で100位以内獲得",
+    "name": "VENUSシーズン76 TOP100"
+  },
+  "emb-pvp-season-077-top001": {
+    "description": "VENUSバトルシーズン77で1位獲得",
+    "name": "VENUSシーズン77 No.1"
+  },
+  "emb-pvp-season-077-top010": {
+    "description": "VENUSバトルシーズン77で10位以内獲得",
+    "name": "VENUSシーズン77 TOP10"
+  },
+  "emb-pvp-season-077-top100": {
+    "description": "VENUSバトルシーズン77で100位以内獲得",
+    "name": "VENUSシーズン77 TOP100"
+  },
+  "emb-pvp-season-078-top001": {
+    "description": "VENUSバトルシーズン78で1位獲得",
+    "name": "VENUSシーズン78 No.1"
+  },
+  "emb-pvp-season-078-top010": {
+    "description": "VENUSバトルシーズン78で10位以内獲得",
+    "name": "VENUSシーズン78 TOP10"
+  },
+  "emb-pvp-season-078-top100": {
+    "description": "VENUSバトルシーズン78で100位以内獲得",
+    "name": "VENUSシーズン78 TOP100"
+  },
+  "emb-pvp-season-079-top001": {
+    "description": "VENUSバトルシーズン79で1位獲得",
+    "name": "VENUSシーズン79 No.1"
+  },
+  "emb-pvp-season-079-top010": {
+    "description": "VENUSバトルシーズン79で10位以内獲得",
+    "name": "VENUSシーズン79 TOP10"
+  },
+  "emb-pvp-season-079-top100": {
+    "description": "VENUSバトルシーズン79で100位以内獲得",
+    "name": "VENUSシーズン79 TOP100"
+  },
+  "emb-pvp-season-080-top001": {
+    "description": "VENUSバトルシーズン80で1位獲得",
+    "name": "VENUSシーズン80 No.1"
+  },
+  "emb-pvp-season-080-top010": {
+    "description": "VENUSバトルシーズン80で10位以内獲得",
+    "name": "VENUSシーズン80 TOP10"
+  },
+  "emb-pvp-season-080-top100": {
+    "description": "VENUSバトルシーズン80で100位以内獲得",
+    "name": "VENUSシーズン80 TOP100"
+  },
+  "emb-pvp-season-081-top001": {
+    "description": "VENUSバトルシーズン81で1位獲得",
+    "name": "VENUSシーズン81 No.1"
+  },
+  "emb-pvp-season-081-top010": {
+    "description": "VENUSバトルシーズン81で10位以内獲得",
+    "name": "VENUSシーズン81 TOP10"
+  },
+  "emb-pvp-season-081-top100": {
+    "description": "VENUSバトルシーズン81で100位以内獲得",
+    "name": "VENUSシーズン81 TOP100"
+  },
+  "emb-pvp-season-082-top001": {
+    "description": "VENUSバトルシーズン82で1位獲得",
+    "name": "VENUSシーズン82 No.1"
+  },
+  "emb-pvp-season-082-top010": {
+    "description": "VENUSバトルシーズン82で10位以内獲得",
+    "name": "VENUSシーズン82 TOP10"
+  },
+  "emb-pvp-season-082-top100": {
+    "description": "VENUSバトルシーズン82で100位以内獲得",
+    "name": "VENUSシーズン82 TOP100"
+  },
+  "emb-pvp-season-083-top001": {
+    "description": "VENUSバトルシーズン83で1位獲得",
+    "name": "VENUSシーズン83 No.1"
+  },
+  "emb-pvp-season-083-top010": {
+    "description": "VENUSバトルシーズン83で10位以内獲得",
+    "name": "VENUSシーズン83 TOP10"
+  },
+  "emb-pvp-season-083-top100": {
+    "description": "VENUSバトルシーズン83で100位以内獲得",
+    "name": "VENUSシーズン83 TOP100"
+  },
+  "emb-pvp-season-084-top001": {
+    "description": "VENUSバトルシーズン84で1位獲得",
+    "name": "VENUSシーズン84 No.1"
+  },
+  "emb-pvp-season-084-top010": {
+    "description": "VENUSバトルシーズン84で10位以内獲得",
+    "name": "VENUSシーズン84 TOP10"
+  },
+  "emb-pvp-season-084-top100": {
+    "description": "VENUSバトルシーズン84で100位以内獲得",
+    "name": "VENUSシーズン84 TOP100"
+  },
+  "emb-pvp-season-085-top001": {
+    "description": "VENUSバトルシーズン85で1位獲得",
+    "name": "VENUSシーズン85 No.1"
+  },
+  "emb-pvp-season-085-top010": {
+    "description": "VENUSバトルシーズン85で10位以内獲得",
+    "name": "VENUSシーズン85 TOP10"
+  },
+  "emb-pvp-season-085-top100": {
+    "description": "VENUSバトルシーズン85で100位以内獲得",
+    "name": "VENUSシーズン85 TOP100"
+  },
+  "emb-pvp-season-086-top001": {
+    "description": "VENUSバトルシーズン86で1位獲得",
+    "name": "VENUSシーズン86 No.1"
+  },
+  "emb-pvp-season-086-top010": {
+    "description": "VENUSバトルシーズン86で10位以内獲得",
+    "name": "VENUSシーズン86 TOP10"
+  },
+  "emb-pvp-season-086-top100": {
+    "description": "VENUSバトルシーズン86で100位以内獲得",
+    "name": "VENUSシーズン86 TOP100"
+  },
+  "emb-pvp-season-087-top001": {
+    "description": "VENUSバトルシーズン87で1位獲得",
+    "name": "VENUSシーズン87 No.1"
+  },
+  "emb-pvp-season-087-top010": {
+    "description": "VENUSバトルシーズン87で10位以内獲得",
+    "name": "VENUSシーズン87 TOP10"
+  },
+  "emb-pvp-season-087-top100": {
+    "description": "VENUSバトルシーズン87で100位以内獲得",
+    "name": "VENUSシーズン87 TOP100"
+  },
+  "emb-pvp-season-088-top001": {
+    "description": "VENUSバトルシーズン88で1位獲得",
+    "name": "VENUSシーズン88 No.1"
+  },
+  "emb-pvp-season-088-top010": {
+    "description": "VENUSバトルシーズン88で10位以内獲得",
+    "name": "VENUSシーズン88 TOP10"
+  },
+  "emb-pvp-season-088-top100": {
+    "description": "VENUSバトルシーズン88で100位以内獲得",
+    "name": "VENUSシーズン88 TOP100"
+  },
+  "emb-pvp-season-089-top001": {
+    "description": "VENUSバトルシーズン89で1位獲得",
+    "name": "VENUSシーズン89 No.1"
+  },
+  "emb-pvp-season-089-top010": {
+    "description": "VENUSバトルシーズン89で10位以内獲得",
+    "name": "VENUSシーズン89 TOP10"
+  },
+  "emb-pvp-season-089-top100": {
+    "description": "VENUSバトルシーズン89で100位以内獲得",
+    "name": "VENUSシーズン89 TOP100"
+  },
+  "emb-pvp-season-090-top001": {
+    "description": "VENUSバトルシーズン90で1位獲得",
+    "name": "VENUSシーズン90 No.1"
+  },
+  "emb-pvp-season-090-top010": {
+    "description": "VENUSバトルシーズン90で10位以内獲得",
+    "name": "VENUSシーズン90 TOP10"
+  },
+  "emb-pvp-season-090-top100": {
+    "description": "VENUSバトルシーズン90で100位以内獲得",
+    "name": "VENUSシーズン90 TOP100"
+  },
+  "emb-pvp-season-091-top001": {
+    "description": "VENUSバトルシーズン91で1位獲得",
+    "name": "VENUSシーズン91 No.1"
+  },
+  "emb-pvp-season-091-top010": {
+    "description": "VENUSバトルシーズン91で10位以内獲得",
+    "name": "VENUSシーズン91 TOP10"
+  },
+  "emb-pvp-season-091-top100": {
+    "description": "VENUSバトルシーズン91で100位以内獲得",
+    "name": "VENUSシーズン91 TOP100"
+  },
+  "emb-pvp-season-092-top001": {
+    "description": "VENUSバトルシーズン92で1位獲得",
+    "name": "VENUSシーズン92 No.1"
+  },
+  "emb-pvp-season-092-top010": {
+    "description": "VENUSバトルシーズン92で10位以内獲得",
+    "name": "VENUSシーズン92 TOP10"
+  },
+  "emb-pvp-season-092-top100": {
+    "description": "VENUSバトルシーズン92で100位以内獲得",
+    "name": "VENUSシーズン92 TOP100"
+  },
+  "emb-pvp-season-093-top001": {
+    "description": "VENUSバトルシーズン93で1位獲得",
+    "name": "VENUSシーズン93 No.1"
+  },
+  "emb-pvp-season-093-top010": {
+    "description": "VENUSバトルシーズン93で10位以内獲得",
+    "name": "VENUSシーズン93 TOP10"
+  },
+  "emb-pvp-season-093-top100": {
+    "description": "VENUSバトルシーズン93で100位以内獲得",
+    "name": "VENUSシーズン93 TOP100"
+  },
+  "emb-pvp-season-094-top001": {
+    "description": "VENUSバトルシーズン94で1位獲得",
+    "name": "VENUSシーズン94 No.1"
+  },
+  "emb-pvp-season-094-top010": {
+    "description": "VENUSバトルシーズン94で10位以内獲得",
+    "name": "VENUSシーズン94 TOP10"
+  },
+  "emb-pvp-season-094-top100": {
+    "description": "VENUSバトルシーズン94で100位以内獲得",
+    "name": "VENUSシーズン94 TOP100"
+  },
+  "emb-pvp-season-095-top001": {
+    "description": "VENUSバトルシーズン95で1位獲得",
+    "name": "VENUSシーズン95 No.1"
+  },
+  "emb-pvp-season-095-top010": {
+    "description": "VENUSバトルシーズン95で10位以内獲得",
+    "name": "VENUSシーズン95 TOP10"
+  },
+  "emb-pvp-season-095-top100": {
+    "description": "VENUSバトルシーズン95で100位以内獲得",
+    "name": "VENUSシーズン95 TOP100"
+  },
+  "emb-pvp-season-096-top001": {
+    "description": "VENUSバトルシーズン96で1位獲得",
+    "name": "VENUSシーズン96 No.1"
+  },
+  "emb-pvp-season-096-top010": {
+    "description": "VENUSバトルシーズン96で10位以内獲得",
+    "name": "VENUSシーズン96 TOP10"
+  },
+  "emb-pvp-season-096-top100": {
+    "description": "VENUSバトルシーズン96で100位以内獲得",
+    "name": "VENUSシーズン96 TOP100"
+  },
+  "emb-pvp-season-097-top001": {
+    "description": "VENUSバトルシーズン97で1位獲得",
+    "name": "VENUSシーズン97 No.1"
+  },
+  "emb-pvp-season-097-top010": {
+    "description": "VENUSバトルシーズン97で10位以内獲得",
+    "name": "VENUSシーズン97 TOP10"
+  },
+  "emb-pvp-season-097-top100": {
+    "description": "VENUSバトルシーズン97で100位以内獲得",
+    "name": "VENUSシーズン97 TOP100"
+  },
+  "emb-pvp-season-098-top001": {
+    "description": "VENUSバトルシーズン98で1位獲得",
+    "name": "VENUSシーズン98 No.1"
+  },
+  "emb-pvp-season-098-top010": {
+    "description": "VENUSバトルシーズン98で10位以内獲得",
+    "name": "VENUSシーズン98 TOP10"
+  },
+  "emb-pvp-season-098-top100": {
+    "description": "VENUSバトルシーズン98で100位以内獲得",
+    "name": "VENUSシーズン98 TOP100"
+  },
+  "emb-pvp-season-099-top001": {
+    "description": "VENUSバトルシーズン99で1位獲得",
+    "name": "VENUSシーズン99 No.1"
+  },
+  "emb-pvp-season-099-top010": {
+    "description": "VENUSバトルシーズン99で10位以内獲得",
+    "name": "VENUSシーズン99 TOP10"
+  },
+  "emb-pvp-season-099-top100": {
+    "description": "VENUSバトルシーズン99で100位以内獲得",
+    "name": "VENUSシーズン99 TOP100"
+  },
+  "emb-pvp-season-100-24-0522": {
+    "description": "VENUSバトルシーズン100記念「特別ミッション」でバトルに24回挑戦",
+    "name": "VENUSバトルシーズン100記念"
+  },
+  "emb-pvp-season-100-top001": {
+    "description": "VENUSバトルシーズン100で1位獲得",
+    "name": "VENUSシーズン100 No.1"
+  },
+  "emb-pvp-season-100-top010": {
+    "description": "VENUSバトルシーズン100で10位以内獲得",
+    "name": "VENUSシーズン100 TOP10"
+  },
+  "emb-pvp-season-100-top100": {
+    "description": "VENUSバトルシーズン100で100位以内獲得",
+    "name": "VENUSシーズン100 TOP100"
+  },
+  "emb-pvp-season-101-top001": {
+    "description": "VENUSバトルシーズン101で1位獲得",
+    "name": "VENUSシーズン101 No.1"
+  },
+  "emb-pvp-season-101-top010": {
+    "description": "VENUSバトルシーズン101で10位以内獲得",
+    "name": "VENUSシーズン101 TOP10"
+  },
+  "emb-pvp-season-101-top100": {
+    "description": "VENUSバトルシーズン101で100位以内獲得",
+    "name": "VENUSシーズン101 TOP100"
+  },
+  "emb-pvp-season-102-top001": {
+    "description": "VENUSバトルシーズン102で1位獲得",
+    "name": "VENUSシーズン102 No.1"
+  },
+  "emb-pvp-season-102-top010": {
+    "description": "VENUSバトルシーズン102で10位以内獲得",
+    "name": "VENUSシーズン102 TOP10"
+  },
+  "emb-pvp-season-102-top100": {
+    "description": "VENUSバトルシーズン102で100位以内獲得",
+    "name": "VENUSシーズン102 TOP100"
+  },
+  "emb-pvp-season-103-top001": {
+    "description": "VENUSバトルシーズン103で1位獲得",
+    "name": "VENUSシーズン103 No.1"
+  },
+  "emb-pvp-season-103-top010": {
+    "description": "VENUSバトルシーズン103で10位以内獲得",
+    "name": "VENUSシーズン103 TOP10"
+  },
+  "emb-pvp-season-103-top100": {
+    "description": "VENUSバトルシーズン103で100位以内獲得",
+    "name": "VENUSシーズン103 TOP100"
+  },
+  "emb-pvp-season-104-top001": {
+    "description": "VENUSバトルシーズン104で1位獲得",
+    "name": "VENUSシーズン104 No.1"
+  },
+  "emb-pvp-season-104-top010": {
+    "description": "VENUSバトルシーズン104で10位以内獲得",
+    "name": "VENUSシーズン104 TOP10"
+  },
+  "emb-pvp-season-104-top100": {
+    "description": "VENUSバトルシーズン104で100位以内獲得",
+    "name": "VENUSシーズン104 TOP100"
+  },
+  "emb-pvp-season-105-top001": {
+    "description": "VENUSバトルシーズン105で1位獲得",
+    "name": "VENUSシーズン105 No.1"
+  },
+  "emb-pvp-season-105-top010": {
+    "description": "VENUSバトルシーズン105で10位以内獲得",
+    "name": "VENUSシーズン105 TOP10"
+  },
+  "emb-pvp-season-105-top100": {
+    "description": "VENUSバトルシーズン105で100位以内獲得",
+    "name": "VENUSシーズン105 TOP100"
+  },
+  "emb-pvp-season-106-top001": {
+    "description": "VENUSバトルシーズン106で1位獲得",
+    "name": "VENUSシーズン106 No.1"
+  },
+  "emb-pvp-season-106-top010": {
+    "description": "VENUSバトルシーズン106で10位以内獲得",
+    "name": "VENUSシーズン106 TOP10"
+  },
+  "emb-pvp-season-106-top100": {
+    "description": "VENUSバトルシーズン106で100位以内獲得",
+    "name": "VENUSシーズン106 TOP100"
+  },
+  "emb-pvp-season-107-top001": {
+    "description": "VENUSバトルシーズン107で1位獲得",
+    "name": "VENUSシーズン107 No.1"
+  },
+  "emb-pvp-season-107-top010": {
+    "description": "VENUSバトルシーズン107で10位以内獲得",
+    "name": "VENUSシーズン107 TOP10"
+  },
+  "emb-pvp-season-107-top100": {
+    "description": "VENUSバトルシーズン107で100位以内獲得",
+    "name": "VENUSシーズン107 TOP100"
+  },
+  "emb-pvp-season-108-top001": {
+    "description": "VENUSバトルシーズン108で1位獲得",
+    "name": "VENUSシーズン108 No.1"
+  },
+  "emb-pvp-season-108-top010": {
+    "description": "VENUSバトルシーズン108で10位以内獲得",
+    "name": "VENUSシーズン108 TOP10"
+  },
+  "emb-pvp-season-108-top100": {
+    "description": "VENUSバトルシーズン108で100位以内獲得",
+    "name": "VENUSシーズン108 TOP100"
+  },
+  "emb-pvp-season-109-top001": {
+    "description": "VENUSバトルシーズン109で1位獲得",
+    "name": "VENUSシーズン109 No.1"
+  },
+  "emb-pvp-season-109-top010": {
+    "description": "VENUSバトルシーズン109で10位以内獲得",
+    "name": "VENUSシーズン109 TOP10"
+  },
+  "emb-pvp-season-109-top100": {
+    "description": "VENUSバトルシーズン109で100位以内獲得",
+    "name": "VENUSシーズン109 TOP100"
+  },
+  "emb-pvp-season-110-top001": {
+    "description": "VENUSバトルシーズン110で1位獲得",
+    "name": "VENUSシーズン110 No.1"
+  },
+  "emb-pvp-season-110-top010": {
+    "description": "VENUSバトルシーズン110で10位以内獲得",
+    "name": "VENUSシーズン110 TOP10"
+  },
+  "emb-pvp-season-110-top100": {
+    "description": "VENUSバトルシーズン110で100位以内獲得",
+    "name": "VENUSシーズン110 TOP100"
+  },
+  "emb-pvp-season-111-top001": {
+    "description": "VENUSバトルシーズン111で1位獲得",
+    "name": "VENUSシーズン111 No.1"
+  },
+  "emb-pvp-season-111-top010": {
+    "description": "VENUSバトルシーズン111で10位以内獲得",
+    "name": "VENUSシーズン111 TOP10"
+  },
+  "emb-pvp-season-111-top100": {
+    "description": "VENUSバトルシーズン111で100位以内獲得",
+    "name": "VENUSシーズン111 TOP100"
+  },
+  "emb-pvp-season-112-top001": {
+    "description": "VENUSバトルシーズン112で1位獲得",
+    "name": "VENUSシーズン112 No.1"
+  },
+  "emb-pvp-season-112-top010": {
+    "description": "VENUSバトルシーズン112で10位以内獲得",
+    "name": "VENUSシーズン112 TOP10"
+  },
+  "emb-pvp-season-112-top100": {
+    "description": "VENUSバトルシーズン112で100位以内獲得",
+    "name": "VENUSシーズン112 TOP100"
+  },
+  "emb-pvp-season-113-top001": {
+    "description": "VENUSバトルシーズン113で1位獲得",
+    "name": "VENUSシーズン113 No.1"
+  },
+  "emb-pvp-season-113-top010": {
+    "description": "VENUSバトルシーズン113で10位以内獲得",
+    "name": "VENUSシーズン113 TOP10"
+  },
+  "emb-pvp-season-113-top100": {
+    "description": "VENUSバトルシーズン113で100位以内獲得",
+    "name": "VENUSシーズン113 TOP100"
+  },
+  "emb-pvp-season-114-top001": {
+    "description": "VENUSバトルシーズン114で1位獲得",
+    "name": "VENUSシーズン114 No.1"
+  },
+  "emb-pvp-season-114-top010": {
+    "description": "VENUSバトルシーズン114で10位以内獲得",
+    "name": "VENUSシーズン114 TOP10"
+  },
+  "emb-pvp-season-114-top100": {
+    "description": "VENUSバトルシーズン114で100位以内獲得",
+    "name": "VENUSシーズン114 TOP100"
+  },
+  "emb-pvp-season-115-top001": {
+    "description": "VENUSバトルシーズン115で1位獲得",
+    "name": "VENUSシーズン115 No.1"
+  },
+  "emb-pvp-season-115-top010": {
+    "description": "VENUSバトルシーズン115で10位以内獲得",
+    "name": "VENUSシーズン115 TOP10"
+  },
+  "emb-pvp-season-115-top100": {
+    "description": "VENUSバトルシーズン115で100位以内獲得",
+    "name": "VENUSシーズン115 TOP100"
+  },
+  "emb-pvp-season-116-top001": {
+    "description": "VENUSバトルシーズン116で1位獲得",
+    "name": "VENUSシーズン116 No.1"
+  },
+  "emb-pvp-season-116-top010": {
+    "description": "VENUSバトルシーズン116で10位以内獲得",
+    "name": "VENUSシーズン116 TOP10"
+  },
+  "emb-pvp-season-116-top100": {
+    "description": "VENUSバトルシーズン116で100位以内獲得",
+    "name": "VENUSシーズン116 TOP100"
+  },
+  "emb-pvp-season-117-top001": {
+    "description": "VENUSバトルシーズン117で1位獲得",
+    "name": "VENUSシーズン117 No.1"
+  },
+  "emb-pvp-season-117-top010": {
+    "description": "VENUSバトルシーズン117で10位以内獲得",
+    "name": "VENUSシーズン117 TOP10"
+  },
+  "emb-pvp-season-117-top100": {
+    "description": "VENUSバトルシーズン117で100位以内獲得",
+    "name": "VENUSシーズン117 TOP100"
+  },
+  "emb-pvp-season-118-top001": {
+    "description": "VENUSバトルシーズン118で1位獲得",
+    "name": "VENUSシーズン118 No.1"
+  },
+  "emb-pvp-season-118-top010": {
+    "description": "VENUSバトルシーズン118で10位以内獲得",
+    "name": "VENUSシーズン118 TOP10"
+  },
+  "emb-pvp-season-118-top100": {
+    "description": "VENUSバトルシーズン118で100位以内獲得",
+    "name": "VENUSシーズン118 TOP100"
+  },
+  "emb-pvp-season-119-top001": {
+    "description": "VENUSバトルシーズン119で1位獲得",
+    "name": "VENUSシーズン119 No.1"
+  },
+  "emb-pvp-season-119-top010": {
+    "description": "VENUSバトルシーズン119で10位以内獲得",
+    "name": "VENUSシーズン119 TOP10"
+  },
+  "emb-pvp-season-119-top100": {
+    "description": "VENUSバトルシーズン119で100位以内獲得",
+    "name": "VENUSシーズン119 TOP100"
+  },
+  "emb-pvp-season-120-top001": {
+    "description": "VENUSバトルシーズン120で1位獲得",
+    "name": "VENUSシーズン120 No.1"
+  },
+  "emb-pvp-season-120-top010": {
+    "description": "VENUSバトルシーズン120で10位以内獲得",
+    "name": "VENUSシーズン120 TOP10"
+  },
+  "emb-pvp-season-120-top100": {
+    "description": "VENUSバトルシーズン120で100位以内獲得",
+    "name": "VENUSシーズン120 TOP100"
+  },
+  "emb-pvp-season-121-top001": {
+    "description": "VENUSバトルシーズン121で1位獲得",
+    "name": "VENUSシーズン121 No.1"
+  },
+  "emb-pvp-season-121-top010": {
+    "description": "VENUSバトルシーズン121で10位以内獲得",
+    "name": "VENUSシーズン121 TOP10"
+  },
+  "emb-pvp-season-121-top100": {
+    "description": "VENUSバトルシーズン121で100位以内獲得",
+    "name": "VENUSシーズン121 TOP100"
+  },
+  "emb-pvp-season-122-top001": {
+    "description": "VENUSバトルシーズン122で1位獲得",
+    "name": "VENUSシーズン122 No.1"
+  },
+  "emb-pvp-season-122-top010": {
+    "description": "VENUSバトルシーズン122で10位以内獲得",
+    "name": "VENUSシーズン122 TOP10"
+  },
+  "emb-pvp-season-122-top100": {
+    "description": "VENUSバトルシーズン122で100位以内獲得",
+    "name": "VENUSシーズン122 TOP100"
+  },
+  "emb-pvp-season-123-top001": {
+    "description": "VENUSバトルシーズン123で1位獲得",
+    "name": "VENUSシーズン123 No.1"
+  },
+  "emb-pvp-season-123-top010": {
+    "description": "VENUSバトルシーズン123で10位以内獲得",
+    "name": "VENUSシーズン123 TOP10"
+  },
+  "emb-pvp-season-123-top100": {
+    "description": "VENUSバトルシーズン123で100位以内獲得",
+    "name": "VENUSシーズン123 TOP100"
+  },
+  "emb-pvp-season-124-top001": {
+    "description": "VENUSバトルシーズン124で1位獲得",
+    "name": "VENUSシーズン124 No.1"
+  },
+  "emb-pvp-season-124-top010": {
+    "description": "VENUSバトルシーズン124で10位以内獲得",
+    "name": "VENUSシーズン124 TOP10"
+  },
+  "emb-pvp-season-124-top100": {
+    "description": "VENUSバトルシーズン124で100位以内獲得",
+    "name": "VENUSシーズン124 TOP100"
+  },
+  "emb-pvp-season-125-top001": {
+    "description": "VENUSバトルシーズン125で1位獲得",
+    "name": "VENUSシーズン125 No.1"
+  },
+  "emb-pvp-season-125-top010": {
+    "description": "VENUSバトルシーズン125で10位以内獲得",
+    "name": "VENUSシーズン125 TOP10"
+  },
+  "emb-pvp-season-125-top100": {
+    "description": "VENUSバトルシーズン125で100位以内獲得",
+    "name": "VENUSシーズン125 TOP100"
+  },
+  "emb-pvp-season-126-top001": {
+    "description": "VENUSバトルシーズン126で1位獲得",
+    "name": "VENUSシーズン126 No.1"
+  },
+  "emb-pvp-season-126-top010": {
+    "description": "VENUSバトルシーズン126で10位以内獲得",
+    "name": "VENUSシーズン126 TOP10"
+  },
+  "emb-pvp-season-126-top100": {
+    "description": "VENUSバトルシーズン126で100位以内獲得",
+    "name": "VENUSシーズン126 TOP100"
+  },
+  "emb-pvp-season-127-top001": {
+    "description": "VENUSバトルシーズン127で1位獲得",
+    "name": "VENUSシーズン127 No.1"
+  },
+  "emb-pvp-season-127-top010": {
+    "description": "VENUSバトルシーズン127で10位以内獲得",
+    "name": "VENUSシーズン127 TOP10"
+  },
+  "emb-pvp-season-127-top100": {
+    "description": "VENUSバトルシーズン127で100位以内獲得",
+    "name": "VENUSシーズン127 TOP100"
+  },
+  "emb-pvp-season-128-top001": {
+    "description": "VENUSバトルシーズン128で1位獲得",
+    "name": "VENUSシーズン128 No.1"
+  },
+  "emb-pvp-season-128-top010": {
+    "description": "VENUSバトルシーズン128で10位以内獲得",
+    "name": "VENUSシーズン128 TOP10"
+  },
+  "emb-pvp-season-128-top100": {
+    "description": "VENUSバトルシーズン128で100位以内獲得",
+    "name": "VENUSシーズン128 TOP100"
+  },
+  "emb-pvp-season-129-top001": {
+    "description": "VENUSバトルシーズン129で1位獲得",
+    "name": "VENUSシーズン129 No.1"
+  },
+  "emb-pvp-season-129-top010": {
+    "description": "VENUSバトルシーズン129で10位以内獲得",
+    "name": "VENUSシーズン129 TOP10"
+  },
+  "emb-pvp-season-129-top100": {
+    "description": "VENUSバトルシーズン129で100位以内獲得",
+    "name": "VENUSシーズン129 TOP100"
+  },
+  "emb-pvp-season-130-top001": {
+    "description": "VENUSバトルシーズン130で1位獲得",
+    "name": "VENUSシーズン130 No.1"
+  },
+  "emb-pvp-season-130-top010": {
+    "description": "VENUSバトルシーズン130で10位以内獲得",
+    "name": "VENUSシーズン130 TOP10"
+  },
+  "emb-pvp-season-130-top100": {
+    "description": "VENUSバトルシーズン130で100位以内獲得",
+    "name": "VENUSシーズン130 TOP100"
+  },
+  "emb-pvp-season-131-top001": {
+    "description": "VENUSバトルシーズン131で1位獲得",
+    "name": "VENUSシーズン131 No.1"
+  },
+  "emb-pvp-season-131-top010": {
+    "description": "VENUSバトルシーズン131で10位以内獲得",
+    "name": "VENUSシーズン131 TOP10"
+  },
+  "emb-pvp-season-131-top100": {
+    "description": "VENUSバトルシーズン131で100位以内獲得",
+    "name": "VENUSシーズン131 TOP100"
+  },
+  "emb-pvp-season-132-top001": {
+    "description": "VENUSバトルシーズン132で1位獲得",
+    "name": "VENUSシーズン132 No.1"
+  },
+  "emb-pvp-season-132-top010": {
+    "description": "VENUSバトルシーズン132で10位以内獲得",
+    "name": "VENUSシーズン132 TOP10"
+  },
+  "emb-pvp-season-132-top100": {
+    "description": "VENUSバトルシーズン132で100位以内獲得",
+    "name": "VENUSシーズン132 TOP100"
+  },
+  "emb-pvp-season-133-top001": {
+    "description": "VENUSバトルシーズン133で1位獲得",
+    "name": "VENUSシーズン133 No.1"
+  },
+  "emb-pvp-season-133-top010": {
+    "description": "VENUSバトルシーズン133で10位以内獲得",
+    "name": "VENUSシーズン133 TOP10"
+  },
+  "emb-pvp-season-133-top100": {
+    "description": "VENUSバトルシーズン133で100位以内獲得",
+    "name": "VENUSシーズン133 TOP100"
+  },
+  "emb-pvp-season-134-top001": {
+    "description": "VENUSバトルシーズン134で1位獲得",
+    "name": "VENUSシーズン134 No.1"
+  },
+  "emb-pvp-season-134-top010": {
+    "description": "VENUSバトルシーズン134で10位以内獲得",
+    "name": "VENUSシーズン134 TOP10"
+  },
+  "emb-pvp-season-134-top100": {
+    "description": "VENUSバトルシーズン134で100位以内獲得",
+    "name": "VENUSシーズン134 TOP100"
+  },
+  "emb-pvp-season-135-top001": {
+    "description": "VENUSバトルシーズン135で1位獲得",
+    "name": "VENUSシーズン135 No.1"
+  },
+  "emb-pvp-season-135-top010": {
+    "description": "VENUSバトルシーズン135で10位以内獲得",
+    "name": "VENUSシーズン135 TOP10"
+  },
+  "emb-pvp-season-135-top100": {
+    "description": "VENUSバトルシーズン135で100位以内獲得",
+    "name": "VENUSシーズン135 TOP100"
+  },
+  "emb-pvp-season-136-top001": {
+    "description": "VENUSバトルシーズン136で1位獲得",
+    "name": "VENUSシーズン136 No.1"
+  },
+  "emb-pvp-season-136-top010": {
+    "description": "VENUSバトルシーズン136で10位以内獲得",
+    "name": "VENUSシーズン136 TOP10"
+  },
+  "emb-pvp-season-136-top100": {
+    "description": "VENUSバトルシーズン136で100位以内獲得",
+    "name": "VENUSシーズン136 TOP100"
+  },
+  "emb-pvp-season-137-top001": {
+    "description": "VENUSバトルシーズン137で1位獲得",
+    "name": "VENUSシーズン137 No.1"
+  },
+  "emb-pvp-season-137-top010": {
+    "description": "VENUSバトルシーズン137で10位以内獲得",
+    "name": "VENUSシーズン137 TOP10"
+  },
+  "emb-pvp-season-137-top100": {
+    "description": "VENUSバトルシーズン137で100位以内獲得",
+    "name": "VENUSシーズン137 TOP100"
+  },
+  "emb-pvp-season-138-top001": {
+    "description": "VENUSバトルシーズン138で1位獲得",
+    "name": "VENUSシーズン138 No.1"
+  },
+  "emb-pvp-season-138-top010": {
+    "description": "VENUSバトルシーズン138で10位以内獲得",
+    "name": "VENUSシーズン138 TOP10"
+  },
+  "emb-pvp-season-138-top100": {
+    "description": "VENUSバトルシーズン138で100位以内獲得",
+    "name": "VENUSシーズン138 TOP100"
+  },
+  "emb-pvp-season-139-top001": {
+    "description": "VENUSバトルシーズン139で1位獲得",
+    "name": "VENUSシーズン139 No.1"
+  },
+  "emb-pvp-season-139-top010": {
+    "description": "VENUSバトルシーズン139で10位以内獲得",
+    "name": "VENUSシーズン139 TOP10"
+  },
+  "emb-pvp-season-139-top100": {
+    "description": "VENUSバトルシーズン139で100位以内獲得",
+    "name": "VENUSシーズン139 TOP100"
+  },
+  "emb-pvp-season-140-top001": {
+    "description": "VENUSバトルシーズン140で1位獲得",
+    "name": "VENUSシーズン140 No.1"
+  },
+  "emb-pvp-season-140-top010": {
+    "description": "VENUSバトルシーズン140で10位以内獲得",
+    "name": "VENUSシーズン140 TOP10"
+  },
+  "emb-pvp-season-140-top100": {
+    "description": "VENUSバトルシーズン140で100位以内獲得",
+    "name": "VENUSシーズン140 TOP100"
+  },
+  "emb-pvp-season-141-top001": {
+    "description": "VENUSバトルシーズン141で1位獲得",
+    "name": "VENUSシーズン141 No.1"
+  },
+  "emb-pvp-season-141-top010": {
+    "description": "VENUSバトルシーズン141で10位以内獲得",
+    "name": "VENUSシーズン141 TOP10"
+  },
+  "emb-pvp-season-141-top100": {
+    "description": "VENUSバトルシーズン141で100位以内獲得",
+    "name": "VENUSシーズン141 TOP100"
+  },
+  "emb-pvp-season-142-top001": {
+    "description": "VENUSバトルシーズン142で1位獲得",
+    "name": "VENUSシーズン142 No.1"
+  },
+  "emb-pvp-season-142-top010": {
+    "description": "VENUSバトルシーズン142で10位以内獲得",
+    "name": "VENUSシーズン142 TOP10"
+  },
+  "emb-pvp-season-142-top100": {
+    "description": "VENUSバトルシーズン142で100位以内獲得",
+    "name": "VENUSシーズン142 TOP100"
+  },
+  "emb-pvp-season-143-top001": {
+    "description": "VENUSバトルシーズン143で1位獲得",
+    "name": "VENUSシーズン143 No.1"
+  },
+  "emb-pvp-season-143-top010": {
+    "description": "VENUSバトルシーズン143で10位以内獲得",
+    "name": "VENUSシーズン143 TOP10"
+  },
+  "emb-pvp-season-143-top100": {
+    "description": "VENUSバトルシーズン143で100位以内獲得",
+    "name": "VENUSシーズン143 TOP100"
+  },
+  "emb-pvp-season-144-top001": {
+    "description": "VENUSバトルシーズン144で1位獲得",
+    "name": "VENUSシーズン144 No.1"
+  },
+  "emb-pvp-season-144-top010": {
+    "description": "VENUSバトルシーズン144で10位以内獲得",
+    "name": "VENUSシーズン144 TOP10"
+  },
+  "emb-pvp-season-144-top100": {
+    "description": "VENUSバトルシーズン144で100位以内獲得",
+    "name": "VENUSシーズン144 TOP100"
+  },
+  "emb-pvp-season-145-top001": {
+    "description": "VENUSバトルシーズン145で1位獲得",
+    "name": "VENUSシーズン145 No.1"
+  },
+  "emb-pvp-season-145-top010": {
+    "description": "VENUSバトルシーズン145で10位以内獲得",
+    "name": "VENUSシーズン145 TOP10"
+  },
+  "emb-pvp-season-145-top100": {
+    "description": "VENUSバトルシーズン145で100位以内獲得",
+    "name": "VENUSシーズン145 TOP100"
+  },
+  "emb-pvp-season-146-top001": {
+    "description": "VENUSバトルシーズン146で1位獲得",
+    "name": "VENUSシーズン146 No.1"
+  },
+  "emb-pvp-season-146-top010": {
+    "description": "VENUSバトルシーズン146で10位以内獲得",
+    "name": "VENUSシーズン146 TOP10"
+  },
+  "emb-pvp-season-146-top100": {
+    "description": "VENUSバトルシーズン146で100位以内獲得",
+    "name": "VENUSシーズン146 TOP100"
+  },
+  "emb-pvp-season-147-top001": {
+    "description": "VENUSバトルシーズン147で1位獲得",
+    "name": "VENUSシーズン147 No.1"
+  },
+  "emb-pvp-season-147-top010": {
+    "description": "VENUSバトルシーズン147で10位以内獲得",
+    "name": "VENUSシーズン147 TOP10"
+  },
+  "emb-pvp-season-147-top100": {
+    "description": "VENUSバトルシーズン147で100位以内獲得",
+    "name": "VENUSシーズン147 TOP100"
+  },
+  "emb-pvp-season-148-top001": {
+    "description": "VENUSバトルシーズン148で1位獲得",
+    "name": "VENUSシーズン148 No.1"
+  },
+  "emb-pvp-season-148-top010": {
+    "description": "VENUSバトルシーズン148で10位以内獲得",
+    "name": "VENUSシーズン148 TOP10"
+  },
+  "emb-pvp-season-148-top100": {
+    "description": "VENUSバトルシーズン148で100位以内獲得",
+    "name": "VENUSシーズン148 TOP100"
+  },
+  "emb-pvp-season-149-top001": {
+    "description": "VENUSバトルシーズン149で1位獲得",
+    "name": "VENUSシーズン149 No.1"
+  },
+  "emb-pvp-season-149-top010": {
+    "description": "VENUSバトルシーズン149で10位以内獲得",
+    "name": "VENUSシーズン149 TOP10"
+  },
+  "emb-pvp-season-149-top100": {
+    "description": "VENUSバトルシーズン149で100位以内獲得",
+    "name": "VENUSシーズン149 TOP100"
+  },
+  "emb-pvp-season-150-top001": {
+    "description": "VENUSバトルシーズン150で1位獲得",
+    "name": "VENUSシーズン150 No.1"
+  },
+  "emb-pvp-season-150-top010": {
+    "description": "VENUSバトルシーズン150で10位以内獲得",
+    "name": "VENUSシーズン150 TOP10"
+  },
+  "emb-pvp-season-150-top100": {
+    "description": "VENUSバトルシーズン150で100位以内獲得",
+    "name": "VENUSシーズン150 TOP100"
+  },
+  "emb-pvp-season-151-top001": {
+    "description": "VENUSバトルシーズン151で1位獲得",
+    "name": "VENUSシーズン151 No.1"
+  },
+  "emb-pvp-season-151-top010": {
+    "description": "VENUSバトルシーズン151で10位以内獲得",
+    "name": "VENUSシーズン151 TOP10"
+  },
+  "emb-pvp-season-151-top100": {
+    "description": "VENUSバトルシーズン151で100位以内獲得",
+    "name": "VENUSシーズン151 TOP100"
+  },
+  "emb-pvp-season-152-top001": {
+    "description": "VENUSバトルシーズン152で1位獲得",
+    "name": "VENUSシーズン152 No.1"
+  },
+  "emb-pvp-season-152-top010": {
+    "description": "VENUSバトルシーズン152で10位以内獲得",
+    "name": "VENUSシーズン152 TOP10"
+  },
+  "emb-pvp-season-152-top100": {
+    "description": "VENUSバトルシーズン152で100位以内獲得",
+    "name": "VENUSシーズン152 TOP100"
+  },
+  "emb-pvp-season-153-top001": {
+    "description": "VENUSバトルシーズン153で1位獲得",
+    "name": "VENUSシーズン153 No.1"
+  },
+  "emb-pvp-season-153-top010": {
+    "description": "VENUSバトルシーズン153で10位以内獲得",
+    "name": "VENUSシーズン153 TOP10"
+  },
+  "emb-pvp-season-153-top100": {
+    "description": "VENUSバトルシーズン153で100位以内獲得",
+    "name": "VENUSシーズン153 TOP100"
+  },
+  "emb-pvp-season-154-top001": {
+    "description": "VENUSバトルシーズン154で1位獲得",
+    "name": "VENUSシーズン154 No.1"
+  },
+  "emb-pvp-season-154-top010": {
+    "description": "VENUSバトルシーズン154で10位以内獲得",
+    "name": "VENUSシーズン154 TOP10"
+  },
+  "emb-pvp-season-154-top100": {
+    "description": "VENUSバトルシーズン154で100位以内獲得",
+    "name": "VENUSシーズン154 TOP100"
+  },
+  "emb-pvp-season-155-top001": {
+    "description": "VENUSバトルシーズン155で1位獲得",
+    "name": "VENUSシーズン155 No.1"
+  },
+  "emb-pvp-season-155-top010": {
+    "description": "VENUSバトルシーズン155で10位以内獲得",
+    "name": "VENUSシーズン155 TOP10"
+  },
+  "emb-pvp-season-155-top100": {
+    "description": "VENUSバトルシーズン155で100位以内獲得",
+    "name": "VENUSシーズン155 TOP100"
+  },
+  "emb-pvp-season-156-top001": {
+    "description": "VENUSバトルシーズン156で1位獲得",
+    "name": "VENUSシーズン156 No.1"
+  },
+  "emb-pvp-season-156-top010": {
+    "description": "VENUSバトルシーズン156で10位以内獲得",
+    "name": "VENUSシーズン156 TOP10"
+  },
+  "emb-pvp-season-156-top100": {
+    "description": "VENUSバトルシーズン156で100位以内獲得",
+    "name": "VENUSシーズン156 TOP100"
+  },
+  "emb-pvp-season-157-top001": {
+    "description": "VENUSバトルシーズン157で1位獲得",
+    "name": "VENUSシーズン157 No.1"
+  },
+  "emb-pvp-season-157-top010": {
+    "description": "VENUSバトルシーズン157で10位以内獲得",
+    "name": "VENUSシーズン157 TOP10"
+  },
+  "emb-pvp-season-157-top100": {
+    "description": "VENUSバトルシーズン157で100位以内獲得",
+    "name": "VENUSシーズン157 TOP100"
+  },
+  "emb-pvp-season-158-top001": {
+    "description": "VENUSバトルシーズン158で1位獲得",
+    "name": "VENUSシーズン158 No.1"
+  },
+  "emb-pvp-season-158-top010": {
+    "description": "VENUSバトルシーズン158で10位以内獲得",
+    "name": "VENUSシーズン158 TOP10"
+  },
+  "emb-pvp-season-158-top100": {
+    "description": "VENUSバトルシーズン158で100位以内獲得",
+    "name": "VENUSシーズン158 TOP100"
+  },
+  "emb-pvp-season-159-top001": {
+    "description": "VENUSバトルシーズン159で1位獲得",
+    "name": "VENUSシーズン159 No.1"
+  },
+  "emb-pvp-season-159-top010": {
+    "description": "VENUSバトルシーズン159で10位以内獲得",
+    "name": "VENUSシーズン159 TOP10"
+  },
+  "emb-pvp-season-159-top100": {
+    "description": "VENUSバトルシーズン159で100位以内獲得",
+    "name": "VENUSシーズン159 TOP100"
+  },
+  "emb-pvp-season-160-top001": {
+    "description": "VENUSバトルシーズン160で1位獲得",
+    "name": "VENUSシーズン160 No.1"
+  },
+  "emb-pvp-season-160-top010": {
+    "description": "VENUSバトルシーズン160で10位以内獲得",
+    "name": "VENUSシーズン160 TOP10"
+  },
+  "emb-pvp-season-160-top100": {
+    "description": "VENUSバトルシーズン160で100位以内獲得",
+    "name": "VENUSシーズン160 TOP100"
+  },
+  "emb-pvp-season-161-top001": {
+    "description": "VENUSバトルシーズン161で1位獲得",
+    "name": "VENUSシーズン161 No.1"
+  },
+  "emb-pvp-season-161-top010": {
+    "description": "VENUSバトルシーズン161で10位以内獲得",
+    "name": "VENUSシーズン161 TOP10"
+  },
+  "emb-pvp-season-161-top100": {
+    "description": "VENUSバトルシーズン161で100位以内獲得",
+    "name": "VENUSシーズン161 TOP100"
+  },
+  "emb-pvp-season-162-top001": {
+    "description": "VENUSバトルシーズン162で1位獲得",
+    "name": "VENUSシーズン162 No.1"
+  },
+  "emb-pvp-season-162-top010": {
+    "description": "VENUSバトルシーズン162で10位以内獲得",
+    "name": "VENUSシーズン162 TOP10"
+  },
+  "emb-pvp-season-162-top100": {
+    "description": "VENUSバトルシーズン162で100位以内獲得",
+    "name": "VENUSシーズン162 TOP100"
+  },
+  "emb-pvp-season-163-top001": {
+    "description": "VENUSバトルシーズン163で1位獲得",
+    "name": "VENUSシーズン163 No.1"
+  },
+  "emb-pvp-season-163-top010": {
+    "description": "VENUSバトルシーズン163で10位以内獲得",
+    "name": "VENUSシーズン163 TOP10"
+  },
+  "emb-pvp-season-163-top100": {
+    "description": "VENUSバトルシーズン163で100位以内獲得",
+    "name": "VENUSシーズン163 TOP100"
+  },
+  "emb-pvp-season-164-top001": {
+    "description": "VENUSバトルシーズン164で1位獲得",
+    "name": "VENUSシーズン164 No.1"
+  },
+  "emb-pvp-season-164-top010": {
+    "description": "VENUSバトルシーズン164で10位以内獲得",
+    "name": "VENUSシーズン164 TOP10"
+  },
+  "emb-pvp-season-164-top100": {
+    "description": "VENUSバトルシーズン164で100位以内獲得",
+    "name": "VENUSシーズン164 TOP100"
+  },
+  "emb-pvp-season-165-top001": {
+    "description": "VENUSバトルシーズン165で1位獲得",
+    "name": "VENUSシーズン165 No.1"
+  },
+  "emb-pvp-season-165-top010": {
+    "description": "VENUSバトルシーズン165で10位以内獲得",
+    "name": "VENUSシーズン165 TOP10"
+  },
+  "emb-pvp-season-165-top100": {
+    "description": "VENUSバトルシーズン165で100位以内獲得",
+    "name": "VENUSシーズン165 TOP100"
+  },
+  "emb-pvp-season-166-top001": {
+    "description": "VENUSバトルシーズン166で1位獲得",
+    "name": "VENUSシーズン166 No.1"
+  },
+  "emb-pvp-season-166-top010": {
+    "description": "VENUSバトルシーズン166で10位以内獲得",
+    "name": "VENUSシーズン166 TOP10"
+  },
+  "emb-pvp-season-166-top100": {
+    "description": "VENUSバトルシーズン166で100位以内獲得",
+    "name": "VENUSシーズン166 TOP100"
+  },
+  "emb-pvp-season-167-top001": {
+    "description": "VENUSバトルシーズン167で1位獲得",
+    "name": "VENUSシーズン167 No.1"
+  },
+  "emb-pvp-season-167-top010": {
+    "description": "VENUSバトルシーズン167で10位以内獲得",
+    "name": "VENUSシーズン167 TOP10"
+  },
+  "emb-pvp-season-167-top100": {
+    "description": "VENUSバトルシーズン167で100位以内獲得",
+    "name": "VENUSシーズン167 TOP100"
+  },
+  "emb-pvp-season-168-top001": {
+    "description": "VENUSバトルシーズン168で1位獲得",
+    "name": "VENUSシーズン168 No.1"
+  },
+  "emb-pvp-season-168-top010": {
+    "description": "VENUSバトルシーズン168で10位以内獲得",
+    "name": "VENUSシーズン168 TOP10"
+  },
+  "emb-pvp-season-168-top100": {
+    "description": "VENUSバトルシーズン168で100位以内獲得",
+    "name": "VENUSシーズン168 TOP100"
+  },
+  "emb-pvp-season-169-top001": {
+    "description": "VENUSバトルシーズン169で1位獲得",
+    "name": "VENUSシーズン169 No.1"
+  },
+  "emb-pvp-season-169-top010": {
+    "description": "VENUSバトルシーズン169で10位以内獲得",
+    "name": "VENUSシーズン169 TOP10"
+  },
+  "emb-pvp-season-169-top100": {
+    "description": "VENUSバトルシーズン169で100位以内獲得",
+    "name": "VENUSシーズン169 TOP100"
+  },
+  "emb-pvp-season-170-top001": {
+    "description": "VENUSバトルシーズン170で1位獲得",
+    "name": "VENUSシーズン170 No.1"
+  },
+  "emb-pvp-season-170-top010": {
+    "description": "VENUSバトルシーズン170で10位以内獲得",
+    "name": "VENUSシーズン170 TOP10"
+  },
+  "emb-pvp-season-170-top100": {
+    "description": "VENUSバトルシーズン170で100位以内獲得",
+    "name": "VENUSシーズン170 TOP100"
+  },
+  "emb-pvp-season-171-top001": {
+    "description": "VENUSバトルシーズン171で1位獲得",
+    "name": "VENUSシーズン171 No.1"
+  },
+  "emb-pvp-season-171-top010": {
+    "description": "VENUSバトルシーズン171で10位以内獲得",
+    "name": "VENUSシーズン171 TOP10"
+  },
+  "emb-pvp-season-171-top100": {
+    "description": "VENUSバトルシーズン171で100位以内獲得",
+    "name": "VENUSシーズン171 TOP100"
+  },
+  "emb-pvp-season-172-top001": {
+    "description": "VENUSバトルシーズン172で1位獲得",
+    "name": "VENUSシーズン172 No.1"
+  },
+  "emb-pvp-season-172-top010": {
+    "description": "VENUSバトルシーズン172で10位以内獲得",
+    "name": "VENUSシーズン172 TOP10"
+  },
+  "emb-pvp-season-172-top100": {
+    "description": "VENUSバトルシーズン172で100位以内獲得",
+    "name": "VENUSシーズン172 TOP100"
+  },
+  "emb-pvp-season-173-top001": {
+    "description": "VENUSバトルシーズン173で1位獲得",
+    "name": "VENUSシーズン173 No.1"
+  },
+  "emb-pvp-season-173-top010": {
+    "description": "VENUSバトルシーズン173で10位以内獲得",
+    "name": "VENUSシーズン173 TOP10"
+  },
+  "emb-pvp-season-173-top100": {
+    "description": "VENUSバトルシーズン173で100位以内獲得",
+    "name": "VENUSシーズン173 TOP100"
+  },
+  "emb-pvp-season-174-top001": {
+    "description": "VENUSバトルシーズン174で1位獲得",
+    "name": "VENUSシーズン174 No.1"
+  },
+  "emb-pvp-season-174-top010": {
+    "description": "VENUSバトルシーズン174で10位以内獲得",
+    "name": "VENUSシーズン174 TOP10"
+  },
+  "emb-pvp-season-174-top100": {
+    "description": "VENUSバトルシーズン174で100位以内獲得",
+    "name": "VENUSシーズン174 TOP100"
+  },
+  "emb-pvp-season-175-top001": {
+    "description": "VENUSバトルシーズン175で1位獲得",
+    "name": "VENUSシーズン175 No.1"
+  },
+  "emb-pvp-season-175-top010": {
+    "description": "VENUSバトルシーズン175で10位以内獲得",
+    "name": "VENUSシーズン175 TOP10"
+  },
+  "emb-pvp-season-175-top100": {
+    "description": "VENUSバトルシーズン175で100位以内獲得",
+    "name": "VENUSシーズン175 TOP100"
+  },
+  "emb-pvp-season-176-top001": {
+    "description": "VENUSバトルシーズン176で1位獲得",
+    "name": "VENUSシーズン176 No.1"
+  },
+  "emb-pvp-season-176-top010": {
+    "description": "VENUSバトルシーズン176で10位以内獲得",
+    "name": "VENUSシーズン176 TOP10"
+  },
+  "emb-pvp-season-176-top100": {
+    "description": "VENUSバトルシーズン176で100位以内獲得",
+    "name": "VENUSシーズン176 TOP100"
+  },
+  "emb-pvp-season-177-top001": {
+    "description": "VENUSバトルシーズン177で1位獲得",
+    "name": "VENUSシーズン177 No.1"
+  },
+  "emb-pvp-season-177-top010": {
+    "description": "VENUSバトルシーズン177で10位以内獲得",
+    "name": "VENUSシーズン177 TOP10"
+  },
+  "emb-pvp-season-177-top100": {
+    "description": "VENUSバトルシーズン177で100位以内獲得",
+    "name": "VENUSシーズン177 TOP100"
+  },
+  "emb-pvp-season-178-top001": {
+    "description": "VENUSバトルシーズン178で1位獲得",
+    "name": "VENUSシーズン178 No.1"
+  },
+  "emb-pvp-season-178-top010": {
+    "description": "VENUSバトルシーズン178で10位以内獲得",
+    "name": "VENUSシーズン178 TOP10"
+  },
+  "emb-pvp-season-178-top100": {
+    "description": "VENUSバトルシーズン178で100位以内獲得",
+    "name": "VENUSシーズン178 TOP100"
+  },
+  "emb-pvp-season-179-top001": {
+    "description": "VENUSバトルシーズン179で1位獲得",
+    "name": "VENUSシーズン179 No.1"
+  },
+  "emb-pvp-season-179-top010": {
+    "description": "VENUSバトルシーズン179で10位以内獲得",
+    "name": "VENUSシーズン179 TOP10"
+  },
+  "emb-pvp-season-179-top100": {
+    "description": "VENUSバトルシーズン179で100位以内獲得",
+    "name": "VENUSシーズン179 TOP100"
+  },
+  "emb-pvp-season-180-top001": {
+    "description": "VENUSバトルシーズン180で1位獲得",
+    "name": "VENUSシーズン180 No.1"
+  },
+  "emb-pvp-season-180-top010": {
+    "description": "VENUSバトルシーズン180で10位以内獲得",
+    "name": "VENUSシーズン180 TOP10"
+  },
+  "emb-pvp-season-180-top100": {
+    "description": "VENUSバトルシーズン180で100位以内獲得",
+    "name": "VENUSシーズン180 TOP100"
+  },
+  "emb-pvp-season-181-top001": {
+    "description": "VENUSバトルシーズン181で1位獲得",
+    "name": "VENUSシーズン181 No.1"
+  },
+  "emb-pvp-season-181-top010": {
+    "description": "VENUSバトルシーズン181で10位以内獲得",
+    "name": "VENUSシーズン181 TOP10"
+  },
+  "emb-pvp-season-181-top100": {
+    "description": "VENUSバトルシーズン181で100位以内獲得",
+    "name": "VENUSシーズン181 TOP100"
+  },
+  "emb-serial_cd-23-1206-moon-limited": {
+    "description": "Question 初回生産限定盤特典"
+  },
+  "emb-serial_cd-23-1206-moon-normal": {
+    "description": "Question 通常盤特典"
+  },
+  "emb-serial_cd-23-1206-sun-limited": {
+    "description": "Let's Go! Let's Go! ピース！ピース！ 初回生産限定盤特典",
+    "name": "Let's Go! Let's Go! ピース！ピース！"
+  },
+  "emb-serial_cd-23-1206-sun-normal": {
+    "description": "Let's Go! Let's Go! ピース！ピース！ 通常盤特典",
+    "name": "Let's Go! Let's Go! ピース！ピース！"
+  },
+  "emb-serial_cd-24-0320-limited": {
+    "description": "Collection Album [Chronicle] 初回生産限定盤特典"
+  },
+  "emb-serial_cd-24-0320-normal": {
+    "description": "Collection Album [Chronicle] 通常盤特典"
+  },
+  "emb-serial_cd-24-0710-limited": {
+    "description": "月ノヒカリ 初回生産限定盤特典",
+    "name": "月ノヒカリ"
+  },
+  "emb-serial_cd-24-0710-normal": {
+    "description": "月ノヒカリ 通常盤特典",
+    "name": "月ノヒカリ"
+  },
+  "emb-serial_cd-25-0121-limited": {
+    "description": "ラブリー♡♡♡♡♡♡ 初回生産限定盤特典",
+    "name": "ラブリー♡♡♡♡♡♡"
+  },
+  "emb-serial_cd-25-0121-normal": {
+    "description": "ラブリー♡♡♡♡♡♡ 通常盤特典",
+    "name": "ラブリー♡♡♡♡♡♡"
+  },
+  "emb-serial_cd-25-0319-limited": {
+    "description": "Collection Album[Resonance] 初回生産限定盤特典"
+  },
+  "emb-serial_cd-25-0319-normal": {
+    "description": "Collection Album[Resonance] 通常盤特典"
+  },
+  "emb-serial_cd-26-0311-limited": {
+    "description": "Collection Album[Season] 初回生産限定盤特典"
+  },
+  "emb-serial_cd-26-0311-normal": {
+    "description": "Collection Album[Season] 通常盤特典"
+  },
+  "emb-sp-pvp-season-001-top001": {
+    "description": "スペシャルVENUSバトルシーズン1で1位獲得"
+  },
+  "emb-sp-pvp-season-001-top010": {
+    "description": "スペシャルVENUSバトルシーズン1で10位以内獲得"
+  },
+  "emb-sp-pvp-season-001-top100": {
+    "description": "スペシャルVENUSバトルシーズン1で100位以内獲得"
+  },
+  "emb-sp-pvp-season-002-top001": {
+    "description": "スペシャルVENUSバトルシーズン2で1位獲得"
+  },
+  "emb-sp-pvp-season-002-top010": {
+    "description": "スペシャルVENUSバトルシーズン2で10位以内獲得"
+  },
+  "emb-sp-pvp-season-002-top100": {
+    "description": "スペシャルVENUSバトルシーズン2で100位以内獲得"
+  },
+  "emb-sp-pvp-season-003-top001": {
+    "description": "スペシャルVENUSバトルシーズン3で1位獲得"
+  },
+  "emb-sp-pvp-season-003-top010": {
+    "description": "スペシャルVENUSバトルシーズン3で10位以内獲得"
+  },
+  "emb-sp-pvp-season-003-top100": {
+    "description": "スペシャルVENUSバトルシーズン3で100位以内獲得"
+  },
+  "emb-sp-pvp-season-004-top001": {
+    "description": "スペシャルVENUSバトルシーズン4で1位獲得"
+  },
+  "emb-sp-pvp-season-004-top010": {
+    "description": "スペシャルVENUSバトルシーズン4で10位以内獲得"
+  },
+  "emb-sp-pvp-season-004-top100": {
+    "description": "スペシャルVENUSバトルシーズン4で100位以内獲得"
+  },
+  "emb-sp-pvp-season-005-top001": {
+    "description": "スペシャルVENUSバトルシーズン5で1位獲得"
+  },
+  "emb-sp-pvp-season-005-top010": {
+    "description": "スペシャルVENUSバトルシーズン5で10位以内獲得"
+  },
+  "emb-sp-pvp-season-005-top100": {
+    "description": "スペシャルVENUSバトルシーズン5で100位以内獲得"
+  },
+  "emb-sp-pvp-season-006-top001": {
+    "description": "スペシャルVENUSバトルシーズン6で1位獲得"
+  },
+  "emb-sp-pvp-season-006-top010": {
+    "description": "スペシャルVENUSバトルシーズン6で10位以内獲得"
+  },
+  "emb-sp-pvp-season-006-top100": {
+    "description": "スペシャルVENUSバトルシーズン6で100位以内獲得"
+  },
+  "emb-sp-pvp-season-007-top001": {
+    "description": "スペシャルVENUSバトルシーズン7で1位獲得"
+  },
+  "emb-sp-pvp-season-007-top010": {
+    "description": "スペシャルVENUSバトルシーズン7で10位以内獲得"
+  },
+  "emb-sp-pvp-season-007-top100": {
+    "description": "スペシャルVENUSバトルシーズン7で100位以内獲得"
+  },
+  "emb-sp-pvp-season-008-top001": {
+    "description": "スペシャルVENUSバトルシーズン8で1位獲得"
+  },
+  "emb-sp-pvp-season-008-top010": {
+    "description": "スペシャルVENUSバトルシーズン8で10位以内獲得"
+  },
+  "emb-sp-pvp-season-008-top100": {
+    "description": "スペシャルVENUSバトルシーズン8で100位以内獲得"
+  },
+  "emb-sp-pvp-season-009-top001": {
+    "description": "スペシャルVENUSバトルシーズン9で1位獲得"
+  },
+  "emb-sp-pvp-season-009-top010": {
+    "description": "スペシャルVENUSバトルシーズン9で10位以内獲得"
+  },
+  "emb-sp-pvp-season-009-top100": {
+    "description": "スペシャルVENUSバトルシーズン9で100位以内獲得"
+  },
+  "emb-valentine-25-0214": {
+    "description": "サニーピースバレンタインSNS乗っ取り記念",
+    "name": "ハッピーバレンタイン"
+  },
+  "emb-valentine-26-0214": {
+    "description": "月のテンペストバレンタイン記念",
+    "name": "ハッピーバレンタイン2026"
+  },
+  "emb-zepp-fukuoka-01": {
+    "description": "「全国ツアー開催記念ミッション」",
+    "name": "全国ツアー in Fukuoka"
+  },
+  "emb-zepp-haneda-01": {
+    "description": "「全国ツアー開催記念ミッション」",
+    "name": "全国ツアー in Haneda"
+  },
+  "emb-zepp-nagoya-01": {
+    "description": "「全国ツアー開催記念ミッション」",
+    "name": "全国ツアー in Nagoya"
+  },
+  "emb-zepp-osaka-01": {
+    "description": "「全国ツアー開催記念ミッション」",
+    "name": "全国ツアー in Osaka"
+  },
+  "emb-zepp-sapporo-01": {
+    "description": "「全国ツアー開催記念ミッション」",
+    "name": "全国ツアー in Sapporo"
+  }
+}

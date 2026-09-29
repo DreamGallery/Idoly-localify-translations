@@ -1,0 +1,347 @@
+{
+  "box_gacha-21-0930-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-21-0930-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-21-0930-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-21-0930-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-21-0930-005": {
+    "name": "報酬BOX5"
+  },
+  "box_gacha-21-1130-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-21-1130-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-21-1130-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-21-1130-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-21-1130-005": {
+    "name": "報酬BOX5"
+  },
+  "box_gacha-22-0131-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-22-0131-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-22-0131-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-22-0131-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-22-0131-005": {
+    "name": "報酬BOX5"
+  },
+  "box_gacha-22-0413-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-22-0413-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-22-0413-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-22-0526-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-22-0526-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-22-0526-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-22-0526-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-22-0526-005": {
+    "name": "報酬BOX5"
+  },
+  "box_gacha-22-0712-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-22-0712-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-22-0712-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-22-0928-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-22-0928-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-22-0928-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-22-1028-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-22-1028-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-22-1028-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-22-1028-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-23-0110-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-23-0110-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-23-0110-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-23-0128-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-23-0128-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-23-0128-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-23-0128-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-23-0310-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-23-0310-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-23-0310-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-23-0328-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-23-0328-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-23-0328-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-23-0328-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-23-0528-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-23-0528-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-23-0528-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-23-0528-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-23-0728-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-23-0728-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-23-0728-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-23-0728-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-23-0927-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-23-0927-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-23-0927-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-23-0927-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-23-1027-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-23-1027-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-23-1027-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-23-1027-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-23-1226-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-23-1226-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-23-1226-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-23-1226-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-24-0113-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-24-0113-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-24-0113-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-24-0327-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-24-0327-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-24-0327-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-24-0327-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-24-0528-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-24-0528-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-24-0528-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-24-0528-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-24-0827-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-24-0827-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-24-0827-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-24-0827-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-24-0909-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-24-0909-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-24-0909-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-25-0128-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-25-0128-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-25-0128-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-25-0128-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-25-0207-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-25-0207-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-25-0207-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-25-0326-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-25-0326-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-25-0326-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-25-0326-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-25-0927-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-25-0927-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-25-0927-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-25-0927-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-25-1107-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-25-1107-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-25-1107-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-25-1226-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-25-1226-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-25-1226-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-25-1226-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-26-0427-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-26-0427-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-26-0427-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-26-0427-004": {
+    "name": "報酬BOX4"
+  },
+  "box_gacha-26-0708-001": {
+    "name": "報酬BOX1"
+  },
+  "box_gacha-26-0708-002": {
+    "name": "報酬BOX2"
+  },
+  "box_gacha-26-0708-003": {
+    "name": "報酬BOX3"
+  },
+  "box_gacha-26-0708-004": {
+    "name": "報酬BOX4"
+  }
+}

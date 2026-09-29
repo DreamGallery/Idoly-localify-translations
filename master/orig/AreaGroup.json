@@ -1,0 +1,20 @@
+{
+  "area-main-group-001": {
+    "name": "ルーキー"
+  },
+  "area-main-group-002": {
+    "name": "レギュラー"
+  },
+  "area-main-group-003": {
+    "name": "プロ"
+  },
+  "area-main-group-004": {
+    "name": "マスター"
+  },
+  "area-main-group-005": {
+    "name": "ワールド"
+  },
+  "area-main-group-999": {
+    "name": "チュートリアル"
+  }
+}

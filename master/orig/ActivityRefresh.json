@@ -1,0 +1,16 @@
+{
+  "act-ref-01": {
+    "levels[0].name": "カフェ",
+    "levels[1].name": "ショッピング",
+    "levels[2].name": "岩盤浴",
+    "levels[3].name": "カラオケ",
+    "name": "休息"
+  },
+  "act-ref-02": {
+    "levels[0].name": "寮で過ごす",
+    "levels[1].name": "テーマパーク",
+    "levels[2].name": "温泉",
+    "levels[3].name": "キャンプ",
+    "name": "休暇"
+  }
+}

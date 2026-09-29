@@ -1,0 +1,9 @@
+id,name,text,trans
+3:title:1,,ユーザー誕生日01_miho,用户生日01_miho
+9:text:1,miho,{user}さん\n今よろしいでしょうか,{user}さん\n现在方便吗
+17:text:1,miho,……お誕生日\nおめでとうございます,……生日快乐\n
+21:text:1,miho,一応SNSでもお祝いの言葉\nを贈らせていただきました,我也在SNS上送上了祝贺\n的话语
+26:text:1,miho,mihoだけ祝ってないとか\n外野に騒がれると面倒なので,要是被外人吵着说\n只有miho没祝贺就麻烦了
+34:text:1,miho,それだけです。では\n本日の仕事に移りましょう,仅此而已。那么\n我们进入今天的工作吧
+info,adv_userhbd_01_mhk.txt,a9da7d6ad5666086780b9def07c46439b848aa8319beb3334ae5be1fd84db7d9,
+译者,,,

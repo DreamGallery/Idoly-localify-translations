@@ -1,0 +1,2864 @@
+{
+  "cos-ai-anml-00": {
+    "name": "スイートレディラビット"
+  },
+  "cos-ai-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-ai-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-ai-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-ai-arab-00": {
+    "name": "ジャンピングオールライト"
+  },
+  "cos-ai-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-ai-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-ai-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-ai-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-ai-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-ai-chna-01": {
+    "name": "舞踊闘衣"
+  },
+  "cos-ai-fest-02": {
+    "name": "サウンドオブライフ"
+  },
+  "cos-ai-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-ai-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-ai-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-ai-idol-00": {
+    "name": "ノーブルリリーズ"
+  },
+  "cos-ai-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-ai-idol-03": {
+    "name": "ビートアズワン"
+  },
+  "cos-ai-idol-04": {
+    "name": "情熱だけで生きてみろ"
+  },
+  "cos-ai-idol-05": {
+    "name": "レガリスリリーズ"
+  },
+  "cos-ai-kait-00": {
+    "name": "ザ・ラストチャンス"
+  },
+  "cos-ai-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-ai-link-01": {
+    "name": "リエルフレ"
+  },
+  "cos-ai-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-ai-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-ai-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-ai-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-ai-mizg-01": {
+    "name": "ブルースカイサマー"
+  },
+  "cos-ai-mizg-02": {
+    "name": "ダンスアンドダイブ"
+  },
+  "cos-ai-newy-00": {
+    "name": "最高優美ロンリネス"
+  },
+  "cos-ai-rock-00": {
+    "name": "リリーダンサブル"
+  },
+  "cos-ai-schl-00": {
+    "name": "月出高等学校"
+  },
+  "cos-ai-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-ai-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-ai-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-ai-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-ai-tact-00": {
+    "name": "ミリタリー＆タクティカル"
+  },
+  "cos-ai-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-ai-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-ai-vlnt-00": {
+    "name": "ダークネスシンパサイザー"
+  },
+  "cos-ai-wedd-00": {
+    "name": "パワフル・ブライド"
+  },
+  "cos-ai-yukt-00": {
+    "name": "カルプ"
+  },
+  "cos-aoi-anml-00": {
+    "name": "スイートレディキャット"
+  },
+  "cos-aoi-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-aoi-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-aoi-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-aoi-arab-00": {
+    "name": "ジャンピングオールライト"
+  },
+  "cos-aoi-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-aoi-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-aoi-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-aoi-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-aoi-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-aoi-chna-01": {
+    "name": "舞踊闘衣"
+  },
+  "cos-aoi-circ-00": {
+    "name": "レーシングレゾナンス"
+  },
+  "cos-aoi-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "cos-aoi-fest-02": {
+    "name": "サウンドオブライフ"
+  },
+  "cos-aoi-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-aoi-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-aoi-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-aoi-idol-00": {
+    "name": "ノーブルリリーズ"
+  },
+  "cos-aoi-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-aoi-idol-03": {
+    "name": "ビートアズワン"
+  },
+  "cos-aoi-idol-04": {
+    "name": "情熱だけで生きてみろ"
+  },
+  "cos-aoi-idol-05": {
+    "name": "レガリスリリーズ"
+  },
+  "cos-aoi-kait-00": {
+    "name": "ザ・ラストチャンス"
+  },
+  "cos-aoi-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-aoi-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-aoi-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-aoi-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-aoi-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-aoi-mizg-01": {
+    "name": "ブルースカイサマー"
+  },
+  "cos-aoi-mizg-02": {
+    "name": "ダンスアンドダイブ"
+  },
+  "cos-aoi-newy-00": {
+    "name": "最高優美ロンリネス"
+  },
+  "cos-aoi-past-00": {
+    "name": "クラシカルリリー"
+  },
+  "cos-aoi-schl-00": {
+    "name": "月出高等学校"
+  },
+  "cos-aoi-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-aoi-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-aoi-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-aoi-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-aoi-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-aoi-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-aoi-vlnt-00": {
+    "name": "ダークネスシンパサイザー"
+  },
+  "cos-aoi-wdnc-00": {
+    "name": "コメティックダンサー"
+  },
+  "cos-aoi-wedd-00": {
+    "name": "エレガント・ブライド"
+  },
+  "cos-aoi-yukt-00": {
+    "name": "カルプ"
+  },
+  "cos-cca-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-cca-goch-01": {
+    "name": "ホーリー・ラビット"
+  },
+  "cos-cca-goch-02": {
+    "name": "パジャマ"
+  },
+  "cos-chk-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-chk-sush-01": {
+    "name": "ブリリアントクリスマス"
+  },
+  "cos-chk-sush-02": {
+    "name": "浦の星女学院（冬服）"
+  },
+  "cos-chk-sush-03": {
+    "name": "浦の星女学院（夏服）"
+  },
+  "cos-chn-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-chn-goch-01": {
+    "name": "ホーリー・ラビット"
+  },
+  "cos-chn-goch-02": {
+    "name": "パジャマ"
+  },
+  "cos-chs-alic-00": {
+    "name": "ラヴズアリス"
+  },
+  "cos-chs-anml-00": {
+    "name": "スイートレディラビット"
+  },
+  "cos-chs-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-chs-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-chs-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-chs-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-chs-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-chs-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-chs-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-chs-casl-03": {
+    "name": "ニコイチスタイル"
+  },
+  "cos-chs-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-chs-chia-00": {
+    "name": "レッツゴーピース"
+  },
+  "cos-chs-chsk-00": {
+    "name": "つながる心Binary"
+  },
+  "cos-chs-flow-00": {
+    "name": "エーデルハイドランジア"
+  },
+  "cos-chs-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-chs-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-chs-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-chs-goch-01": {
+    "name": "ホーリー・ラビット"
+  },
+  "cos-chs-hruh-00": {
+    "name": "県立北高"
+  },
+  "cos-chs-idol-00": {
+    "name": "アセンブルハーモニー"
+  },
+  "cos-chs-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "cos-chs-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-chs-idol-03": {
+    "name": "ウィズ・ザ・サンシャイン"
+  },
+  "cos-chs-idol-04": {
+    "name": "サクセスエブリウェア"
+  },
+  "cos-chs-idol-05": {
+    "name": "コネクションズハーモニー"
+  },
+  "cos-chs-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-chs-link-00": {
+    "name": "リエステラ"
+  },
+  "cos-chs-link-01": {
+    "name": "リエルフレ"
+  },
+  "cos-chs-maid-00": {
+    "name": "おもてなしカフェテリア"
+  },
+  "cos-chs-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-chs-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-chs-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-chs-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-chs-mizg-01": {
+    "name": "サマーホリデイ"
+  },
+  "cos-chs-mizg-03": {
+    "name": "サニーアイランド"
+  },
+  "cos-chs-mizg-04": {
+    "name": "サンライトセンセーション"
+  },
+  "cos-chs-newy-00": {
+    "name": "全力振袖・椿"
+  },
+  "cos-chs-pajm-00": {
+    "name": "パジャマパーティー"
+  },
+  "cos-chs-rock-00": {
+    "name": "サニーダンサブル"
+  },
+  "cos-chs-schl-00": {
+    "name": "光ヶ崎高等学校"
+  },
+  "cos-chs-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-chs-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-chs-seik-00": {
+    "name": "エンジェルブレッシング"
+  },
+  "cos-chs-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-chs-sucu-00": {
+    "name": "ミッドナイトサキュバス"
+  },
+  "cos-chs-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-chs-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-chs-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-chs-vlnt-00": {
+    "name": "ラブリーバレンタイン"
+  },
+  "cos-chs-yukt-00": {
+    "name": "ポワソンルージュ"
+  },
+  "cos-cinnamo-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-gyo-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-haruhi-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-hrk-adlt-00": {
+    "name": "サンセットエレガンス"
+  },
+  "cos-hrk-anml-00": {
+    "name": "スイートレディラビット"
+  },
+  "cos-hrk-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-hrk-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-hrk-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-hrk-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-hrk-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-hrk-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-hrk-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-hrk-casl-03": {
+    "name": "ニコイチスタイル"
+  },
+  "cos-hrk-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-hrk-chia-00": {
+    "name": "レッツゴーピース"
+  },
+  "cos-hrk-chna-00": {
+    "name": "艶麗華衣"
+  },
+  "cos-hrk-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-hrk-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-hrk-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-hrk-idol-00": {
+    "name": "アセンブルハーモニー"
+  },
+  "cos-hrk-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "cos-hrk-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-hrk-idol-03": {
+    "name": "ウィズ・ザ・サンシャイン"
+  },
+  "cos-hrk-idol-04": {
+    "name": "サクセスエブリウェア"
+  },
+  "cos-hrk-idol-05": {
+    "name": "コネクションズハーモニー"
+  },
+  "cos-hrk-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-hrk-link-01": {
+    "name": "リエルフレ"
+  },
+  "cos-hrk-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-hrk-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-hrk-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-hrk-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-hrk-mizg-01": {
+    "name": "サマーホリデイ"
+  },
+  "cos-hrk-mizg-03": {
+    "name": "サニーアイランド"
+  },
+  "cos-hrk-mnab-00": {
+    "name": "シングウィズユー"
+  },
+  "cos-hrk-msic-00": {
+    "name": "ウィズユアソングス"
+  },
+  "cos-hrk-newy-00": {
+    "name": "全力振袖・菊"
+  },
+  "cos-hrk-onep-00": {
+    "name": "グレイスフリージア"
+  },
+  "cos-hrk-pair-00": {
+    "name": "リズムデニム"
+  },
+  "cos-hrk-pajm-00": {
+    "name": "ホリデイウェアー"
+  },
+  "cos-hrk-sail-00": {
+    "name": "ひだまりセーラー"
+  },
+  "cos-hrk-schl-00": {
+    "name": "星見高等学校"
+  },
+  "cos-hrk-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-hrk-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-hrk-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-hrk-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-hrk-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-hrk-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-hrk-vlnt-00": {
+    "name": "ラブリーバレンタイン"
+  },
+  "cos-hrk-wedd-00": {
+    "name": "エターナル・ブライド"
+  },
+  "cos-hrk-xmas-00": {
+    "name": "ホワイト・ロマンス"
+  },
+  "cos-itsuki-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-kan-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-kan-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-kan-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-kan-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-kan-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-kan-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-kan-chia-00": {
+    "name": "チアフルウェア"
+  },
+  "cos-kan-chna-00": {
+    "name": "爆笑華衣"
+  },
+  "cos-kan-fest-02": {
+    "name": "ビタースイートエコー"
+  },
+  "cos-kan-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-kan-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-kan-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-kan-idol-00": {
+    "name": "レフォルムアロー"
+  },
+  "cos-kan-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-kan-idol-03": {
+    "name": "レイアヴァンセ"
+  },
+  "cos-kan-idol-05": {
+    "name": "レオーネアロー"
+  },
+  "cos-kan-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-kan-link-00": {
+    "name": "リエステラ"
+  },
+  "cos-kan-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-kan-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-kan-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-kan-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-kan-mizg-01": {
+    "name": "ビクトリービーチ"
+  },
+  "cos-kan-newy-00": {
+    "name": "インサイドアウト"
+  },
+  "cos-kan-pair-00": {
+    "name": "天使と悪魔"
+  },
+  "cos-kan-poli-00": {
+    "name": "ヘブンズジャスティス"
+  },
+  "cos-kan-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-kan-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-kan-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-kan-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-kan-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-kan-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-kan-xmas-00": {
+    "name": "ヴェイユ・ド・ノエル"
+  },
+  "cos-kitty-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-kkr-anml-00": {
+    "name": "スイートレディベア"
+  },
+  "cos-kkr-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-kkr-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-kkr-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-kkr-arab-00": {
+    "name": "ジャンピングオールライト"
+  },
+  "cos-kkr-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-kkr-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-kkr-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-kkr-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-kkr-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-kkr-chna-01": {
+    "name": "舞踊闘衣"
+  },
+  "cos-kkr-fest-02": {
+    "name": "サウンドオブライフ"
+  },
+  "cos-kkr-flow-00": {
+    "name": "エーデルハイドランジア"
+  },
+  "cos-kkr-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-kkr-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-kkr-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-kkr-goch-01": {
+    "name": "ホーリー・ラビット"
+  },
+  "cos-kkr-idol-00": {
+    "name": "ノーブルリリーズ"
+  },
+  "cos-kkr-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-kkr-idol-03": {
+    "name": "ビートアズワン"
+  },
+  "cos-kkr-idol-04": {
+    "name": "情熱だけで生きてみろ"
+  },
+  "cos-kkr-idol-05": {
+    "name": "レガリスリリーズ"
+  },
+  "cos-kkr-kait-00": {
+    "name": "ザ・ラストチャンス"
+  },
+  "cos-kkr-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-kkr-link-00": {
+    "name": "リエステラ"
+  },
+  "cos-kkr-link-01": {
+    "name": "リエルフレ"
+  },
+  "cos-kkr-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-kkr-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-kkr-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-kkr-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-kkr-mizg-01": {
+    "name": "ブルースカイサマー"
+  },
+  "cos-kkr-mizg-02": {
+    "name": "ダンスアンドダイブ"
+  },
+  "cos-kkr-newy-00": {
+    "name": "最高優美ロンリネス"
+  },
+  "cos-kkr-pair-00": {
+    "name": "天使と悪魔"
+  },
+  "cos-kkr-pajm-00": {
+    "name": "パジャマパーティー"
+  },
+  "cos-kkr-schl-00": {
+    "name": "麗葉女学院中等部"
+  },
+  "cos-kkr-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-kkr-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-kkr-seik-00": {
+    "name": "エンジェルブレッシング"
+  },
+  "cos-kkr-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-kkr-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-kkr-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-kkr-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-kkr-vlnt-00": {
+    "name": "ダークネスシンパサイザー"
+  },
+  "cos-kkr-yukt-00": {
+    "name": "カルプ"
+  },
+  "cos-koh-casl-00": {
+    "name": "スーツ"
+  },
+  "cos-konazusa-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-konmio-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-konmugi-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-konritsu-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-konyui-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-kor-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-kor-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-kor-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-kor-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-kor-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-kor-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-kor-fest-02": {
+    "name": "ビタースイートエコー"
+  },
+  "cos-kor-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-kor-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-kor-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-kor-idol-00": {
+    "name": "レフォルムアロー"
+  },
+  "cos-kor-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-kor-idol-03": {
+    "name": "レイアヴァンセ"
+  },
+  "cos-kor-idol-05": {
+    "name": "レオーネアロー"
+  },
+  "cos-kor-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-kor-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-kor-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-kor-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-kor-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-kor-mizg-01": {
+    "name": "ビクトリービーチ"
+  },
+  "cos-kor-newy-00": {
+    "name": "インサイドアウト"
+  },
+  "cos-kor-nurs-00": {
+    "name": "四天王ネクロ"
+  },
+  "cos-kor-poli-00": {
+    "name": "ヘブンズジャスティス"
+  },
+  "cos-kor-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-kor-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-kor-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-kor-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-kor-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-kor-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-kor-xmas-00": {
+    "name": "ヴェイユ・ド・ノエル"
+  },
+  "cos-ktn-anml-00": {
+    "name": "スイートレディキャット"
+  },
+  "cos-ktn-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-ktn-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-ktn-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-ktn-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-ktn-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-ktn-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-ktn-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-ktn-circ-00": {
+    "name": "レーシングレゾナンス"
+  },
+  "cos-ktn-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "cos-ktn-fest-01": {
+    "name": "ジェムストーンズ"
+  },
+  "cos-ktn-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-ktn-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-ktn-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-ktn-idol-00": {
+    "name": "クイーンオブザナイト"
+  },
+  "cos-ktn-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "cos-ktn-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-ktn-idol-03": {
+    "name": "月ノヒカリ"
+  },
+  "cos-ktn-idol-04": {
+    "name": "ルナピエール"
+  },
+  "cos-ktn-idol-05": {
+    "name": "ルージュオブザナイト"
+  },
+  "cos-ktn-kiok-00": {
+    "name": "星の海の記憶"
+  },
+  "cos-ktn-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-ktn-link-00": {
+    "name": "リエステラ"
+  },
+  "cos-ktn-link-01": {
+    "name": "リエルフレ"
+  },
+  "cos-ktn-maid-01": {
+    "name": "にゃんにゃんメイド"
+  },
+  "cos-ktn-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-ktn-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-ktn-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-ktn-miku-06": {
+    "name": "マジカルミライ2020夏"
+  },
+  "cos-ktn-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-ktn-mizg-01": {
+    "name": "ムーンライトラブサマー"
+  },
+  "cos-ktn-mizg-02": {
+    "name": "ソレイユホットサマー"
+  },
+  "cos-ktn-mizg-03": {
+    "name": "フェザーフロート"
+  },
+  "cos-ktn-mnab-00": {
+    "name": "シングウィズユー"
+  },
+  "cos-ktn-msic-00": {
+    "name": "ウィズユアソングス"
+  },
+  "cos-ktn-newy-00": {
+    "name": "絢爛振袖・紅"
+  },
+  "cos-ktn-poli-00": {
+    "name": "ルアディシプリン"
+  },
+  "cos-ktn-schl-00": {
+    "name": "星見高等学校"
+  },
+  "cos-ktn-schl-01": {
+    "name": "星見中学校"
+  },
+  "cos-ktn-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-ktn-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-ktn-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-ktn-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-ktn-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-ktn-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-ktn-vlnt-00": {
+    "name": "ときめきチョコレート"
+  },
+  "cos-ktn-wedd-00": {
+    "name": "パーフェクト・ブライド"
+  },
+  "cos-ktn-xmas-00": {
+    "name": "クリスマスには君と"
+  },
+  "cos-ktn-yukt-00": {
+    "name": "ポワソンルージュ"
+  },
+  "cos-kuromi-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-kyon-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-kyui-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-lala-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-mei-anml-00": {
+    "name": "スイートレディキャット"
+  },
+  "cos-mei-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-mei-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-mei-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-mei-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-mei-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-mei-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-mei-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-mei-casl-02": {
+    "name": "デートスタイル"
+  },
+  "cos-mei-date-00": {
+    "name": "ピュア・ホワイト"
+  },
+  "cos-mei-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "cos-mei-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-mei-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-mei-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-mei-hruh-00": {
+    "name": "県立北高"
+  },
+  "cos-mei-hruh-01": {
+    "name": "戦うウェイトレス"
+  },
+  "cos-mei-idol-00": {
+    "name": "クイーンオブザナイト"
+  },
+  "cos-mei-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "cos-mei-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-mei-idol-03": {
+    "name": "月ノヒカリ"
+  },
+  "cos-mei-idol-04": {
+    "name": "ルナピエール"
+  },
+  "cos-mei-idol-05": {
+    "name": "ルージュオブザナイト"
+  },
+  "cos-mei-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-mei-link-00": {
+    "name": "リエステラ"
+  },
+  "cos-mei-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-mei-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-mei-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-mei-miku-06": {
+    "name": "マジカルミライ2020夏"
+  },
+  "cos-mei-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-mei-mizg-01": {
+    "name": "ムーンライトラブサマー"
+  },
+  "cos-mei-mizg-02": {
+    "name": "ソレイユホットサマー"
+  },
+  "cos-mei-newy-00": {
+    "name": "絢爛振袖・緋"
+  },
+  "cos-mei-pair-00": {
+    "name": "シャイニーシャイニー"
+  },
+  "cos-mei-rock-00": {
+    "name": "ムーンダンサブル"
+  },
+  "cos-mei-schl-00": {
+    "name": "星見高等学校"
+  },
+  "cos-mei-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-mei-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-mei-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-mei-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-mei-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-mei-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-mei-vlnt-00": {
+    "name": "ときめきチョコレート"
+  },
+  "cos-mei-wdnc-00": {
+    "name": "コメティックダンサー"
+  },
+  "cos-mei-wedd-00": {
+    "name": "パーフェクト・ブライド"
+  },
+  "cos-mei-xmas-00": {
+    "name": "クリスマスには君と"
+  },
+  "cos-melody-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-mhk-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-mhk-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-mhk-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-mhk-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-mhk-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-mhk-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-mhk-chna-00": {
+    "name": "残照華衣"
+  },
+  "cos-mhk-circ-00": {
+    "name": "レーシングレゾナンス"
+  },
+  "cos-mhk-fest-02": {
+    "name": "ビタースイートエコー"
+  },
+  "cos-mhk-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-mhk-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-mhk-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-mhk-idol-00": {
+    "name": "レフォルムアロー"
+  },
+  "cos-mhk-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-mhk-idol-03": {
+    "name": "レイアヴァンセ"
+  },
+  "cos-mhk-idol-05": {
+    "name": "レオーネアロー"
+  },
+  "cos-mhk-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-mhk-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-mhk-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-mhk-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-mhk-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-mhk-mizg-01": {
+    "name": "ビクトリービーチ"
+  },
+  "cos-mhk-newy-00": {
+    "name": "インサイドアウト"
+  },
+  "cos-mhk-pajm-00": {
+    "name": "ホリデイウェアー"
+  },
+  "cos-mhk-poli-00": {
+    "name": "ヘブンズジャスティス"
+  },
+  "cos-mhk-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-mhk-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-mhk-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-mhk-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-mhk-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-mhk-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-mhk-wedd-00": {
+    "name": "エレガント・ブライド"
+  },
+  "cos-mhk-xmas-00": {
+    "name": "ヴェイユ・ド・ノエル"
+  },
+  "cos-mikuru-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-mku-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-mku-miku-01": {
+    "name": "マジカルミライ10th"
+  },
+  "cos-mku-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-mku-miku-06": {
+    "name": "マジカルミライ2020夏"
+  },
+  "cos-mna-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-mna-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-mna-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-mna-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-mna-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-mna-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-mna-casl-03": {
+    "name": "ニコイチスタイル"
+  },
+  "cos-mna-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "cos-mna-fest-01": {
+    "name": "恋紅和装"
+  },
+  "cos-mna-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-mna-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-mna-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-mna-idol-00": {
+    "name": "ファーストステップ"
+  },
+  "cos-mna-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-mna-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-mna-link-00": {
+    "name": "リエステラ"
+  },
+  "cos-mna-link-01": {
+    "name": "リエルフレ"
+  },
+  "cos-mna-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-mna-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-mna-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-mna-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-mna-mizg-01": {
+    "name": "フェザーフロート"
+  },
+  "cos-mna-mnab-00": {
+    "name": "シングウィズユー"
+  },
+  "cos-mna-msic-00": {
+    "name": "ウィズユアソングス"
+  },
+  "cos-mna-schl-00": {
+    "name": "星見高等学校"
+  },
+  "cos-mna-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-mna-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-mna-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-mna-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-mna-vlnt-00": {
+    "name": "ファーストバレンタイン"
+  },
+  "cos-mna-wedd-00": {
+    "name": "エターナル・ブライド"
+  },
+  "cos-mng-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-momo-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-ngs-akma-00": {
+    "name": "ハートインデビル"
+  },
+  "cos-ngs-anml-00": {
+    "name": "スイートレディラビット"
+  },
+  "cos-ngs-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-ngs-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-ngs-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-ngs-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-ngs-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-ngs-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-ngs-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-ngs-casl-02": {
+    "name": "デートスタイル"
+  },
+  "cos-ngs-date-00": {
+    "name": "蒼穹花蝶"
+  },
+  "cos-ngs-flow-00": {
+    "name": "イノセントフラワー"
+  },
+  "cos-ngs-frut-00": {
+    "name": "ラブリーピーチ"
+  },
+  "cos-ngs-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-ngs-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-ngs-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-ngs-idol-00": {
+    "name": "クイーンオブザナイト"
+  },
+  "cos-ngs-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "cos-ngs-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-ngs-idol-03": {
+    "name": "月ノヒカリ"
+  },
+  "cos-ngs-idol-04": {
+    "name": "ルナピエール"
+  },
+  "cos-ngs-idol-05": {
+    "name": "ルージュオブザナイト"
+  },
+  "cos-ngs-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-ngs-link-01": {
+    "name": "リエルフレ"
+  },
+  "cos-ngs-maid-01": {
+    "name": "にゃんにゃんメイド"
+  },
+  "cos-ngs-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-ngs-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-ngs-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-ngs-miku-06": {
+    "name": "マジカルミライ2020夏"
+  },
+  "cos-ngs-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-ngs-mizg-01": {
+    "name": "ムーンライトラブサマー"
+  },
+  "cos-ngs-mizg-02": {
+    "name": "ソレイユホットサマー"
+  },
+  "cos-ngs-newy-00": {
+    "name": "絢爛振袖・若葉"
+  },
+  "cos-ngs-pair-00": {
+    "name": "にゃんだふるマジック"
+  },
+  "cos-ngs-schl-00": {
+    "name": "星見高等学校"
+  },
+  "cos-ngs-schl-01": {
+    "name": "星見中学校"
+  },
+  "cos-ngs-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-ngs-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-ngs-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-ngs-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-ngs-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-ngs-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-ngs-vlnt-00": {
+    "name": "ときめきチョコレート"
+  },
+  "cos-ngs-wedd-00": {
+    "name": "セレスタル・ブライド"
+  },
+  "cos-ngs-xmas-00": {
+    "name": "クリスマスには君と"
+  },
+  "cos-ngs-yukt-00": {
+    "name": "ポワソンルージュ"
+  },
+  "cos-rei-anml-00": {
+    "name": "スイートレディキャット"
+  },
+  "cos-rei-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-rei-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-rei-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-rei-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-rei-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-rei-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-rei-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-rei-casl-02": {
+    "name": "デートスタイル"
+  },
+  "cos-rei-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-rei-chia-00": {
+    "name": "レッツゴーピース"
+  },
+  "cos-rei-date-00": {
+    "name": "ウィッシュパレード"
+  },
+  "cos-rei-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "cos-rei-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-rei-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-rei-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-rei-hruh-00": {
+    "name": "県立北高"
+  },
+  "cos-rei-idol-00": {
+    "name": "アセンブルハーモニー"
+  },
+  "cos-rei-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "cos-rei-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-rei-idol-03": {
+    "name": "ウィズ・ザ・サンシャイン"
+  },
+  "cos-rei-idol-04": {
+    "name": "サクセスエブリウェア"
+  },
+  "cos-rei-idol-05": {
+    "name": "コネクションズハーモニー"
+  },
+  "cos-rei-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-rei-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-rei-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-rei-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-rei-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-rei-mizg-01": {
+    "name": "サマーホリデイ"
+  },
+  "cos-rei-mizg-02": {
+    "name": "ソレイユホットサマー"
+  },
+  "cos-rei-mizg-03": {
+    "name": "サニーアイランド"
+  },
+  "cos-rei-newy-00": {
+    "name": "全力振袖・牡丹"
+  },
+  "cos-rei-onep-00": {
+    "name": "フローラルフレグランス"
+  },
+  "cos-rei-pair-00": {
+    "name": "リズムデニム"
+  },
+  "cos-rei-rock-00": {
+    "name": "サニーダンサブル"
+  },
+  "cos-rei-sail-00": {
+    "name": "ひだまりセーラー"
+  },
+  "cos-rei-schl-00": {
+    "name": "麗葉女学院高等部"
+  },
+  "cos-rei-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-rei-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-rei-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-rei-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-rei-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-rei-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-rei-vlnt-00": {
+    "name": "ラブリーバレンタイン"
+  },
+  "cos-rei-wdnc-00": {
+    "name": "コメティックダンサー"
+  },
+  "cos-rei-wedd-00": {
+    "name": "セレスタル・ブライド"
+  },
+  "cos-rik-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-rik-sush-01": {
+    "name": "ブリリアントクリスマス"
+  },
+  "cos-rik-sush-02": {
+    "name": "浦の星女学院（冬服）"
+  },
+  "cos-rik-sush-03": {
+    "name": "浦の星女学院（夏服）"
+  },
+  "cos-rio-anml-00": {
+    "name": "スイートレディキャット"
+  },
+  "cos-rio-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-rio-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-rio-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-rio-arab-00": {
+    "name": "ジャンピングオールライト"
+  },
+  "cos-rio-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-rio-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-rio-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-rio-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-rio-casl-02": {
+    "name": "オフィススタイル"
+  },
+  "cos-rio-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-rio-chna-01": {
+    "name": "舞踊闘衣"
+  },
+  "cos-rio-date-00": {
+    "name": "クレシェンスフルール"
+  },
+  "cos-rio-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "cos-rio-fest-01": {
+    "name": "氷華和装"
+  },
+  "cos-rio-fest-02": {
+    "name": "サウンドオブライフ"
+  },
+  "cos-rio-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-rio-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-rio-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-rio-halw-00": {
+    "name": "ナースオブハデス"
+  },
+  "cos-rio-idol-00": {
+    "name": "ノーブルリリーズ"
+  },
+  "cos-rio-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-rio-idol-03": {
+    "name": "ビートアズワン"
+  },
+  "cos-rio-idol-04": {
+    "name": "情熱だけで生きてみろ"
+  },
+  "cos-rio-idol-05": {
+    "name": "レガリスリリーズ"
+  },
+  "cos-rio-kait-00": {
+    "name": "ザ・ラストチャンス"
+  },
+  "cos-rio-kiok-00": {
+    "name": "星の海の記憶"
+  },
+  "cos-rio-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-rio-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-rio-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-rio-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-rio-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-rio-mizg-01": {
+    "name": "ブルースカイサマー"
+  },
+  "cos-rio-mizg-02": {
+    "name": "ダンスアンドダイブ"
+  },
+  "cos-rio-msic-00": {
+    "name": "ウィズユアソングス"
+  },
+  "cos-rio-newy-00": {
+    "name": "最高優美ロンリネス"
+  },
+  "cos-rio-pajm-00": {
+    "name": "ホリデイウェアー"
+  },
+  "cos-rio-past-00": {
+    "name": "クラシカルリリー"
+  },
+  "cos-rio-schl-00": {
+    "name": "月出高等学校"
+  },
+  "cos-rio-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-rio-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-rio-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-rio-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-rio-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-rio-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-rio-vlnt-00": {
+    "name": "ダークネスシンパサイザー"
+  },
+  "cos-rio-wedd-00": {
+    "name": "エレガント・ブライド"
+  },
+  "cos-rio-yukt-00": {
+    "name": "カルプ"
+  },
+  "cos-rui-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-rui-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-rui-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-rui-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-rui-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-rui-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-rui-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-rui-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-rui-date-00": {
+    "name": "サマースタイル"
+  },
+  "cos-rui-fest-02": {
+    "name": "エスポワール"
+  },
+  "cos-rui-fest-03": {
+    "name": "グラティテュード"
+  },
+  "cos-rui-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-rui-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-rui-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-rui-idol-00": {
+    "name": "シュヴァリエール"
+  },
+  "cos-rui-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-rui-idol-03": {
+    "name": "レ・プリュム"
+  },
+  "cos-rui-idol-04": {
+    "name": "ヴィクトワール"
+  },
+  "cos-rui-idol-05": {
+    "name": "ユニヴェール"
+  },
+  "cos-rui-jwel-00": {
+    "name": "空の宝石"
+  },
+  "cos-rui-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-rui-link-01": {
+    "name": "リエルフレ"
+  },
+  "cos-rui-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-rui-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-rui-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-rui-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-rui-mizg-01": {
+    "name": "トロピカルフルール"
+  },
+  "cos-rui-newy-00": {
+    "name": "ブランニューデイ"
+  },
+  "cos-rui-nurs-00": {
+    "name": "ぷりてぃー★エンジェル"
+  },
+  "cos-rui-schl-00": {
+    "name": "月出高等学校"
+  },
+  "cos-rui-schl-01": {
+    "name": "月出中学校"
+  },
+  "cos-rui-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-rui-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-rui-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-rui-ster-00": {
+    "name": "シャイングレイス"
+  },
+  "cos-rui-sucu-00": {
+    "name": "ミッドナイトサキュバス"
+  },
+  "cos-rui-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-rui-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-rui-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-rui-vlnt-00": {
+    "name": "チョコラブキッス"
+  },
+  "cos-rui-xmas-00": {
+    "name": "ルミエール"
+  },
+  "cos-rui-yukt-00": {
+    "name": "カルプ"
+  },
+  "cos-rui-yuru-00": {
+    "name": "クロッカスの扉"
+  },
+  "cos-ski-anml-00": {
+    "name": "スイートレディラビット"
+  },
+  "cos-ski-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-ski-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-ski-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-ski-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-ski-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-ski-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-ski-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-ski-chsk-00": {
+    "name": "つながる心Binary"
+  },
+  "cos-ski-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-ski-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-ski-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-ski-hruh-00": {
+    "name": "県立北高"
+  },
+  "cos-ski-idol-00": {
+    "name": "クイーンオブザナイト"
+  },
+  "cos-ski-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "cos-ski-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-ski-idol-03": {
+    "name": "月ノヒカリ"
+  },
+  "cos-ski-idol-04": {
+    "name": "ルナピエール"
+  },
+  "cos-ski-idol-05": {
+    "name": "ルージュオブザナイト"
+  },
+  "cos-ski-kifj-00": {
+    "name": "マイフェアレディ"
+  },
+  "cos-ski-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-ski-link-00": {
+    "name": "リエステラ"
+  },
+  "cos-ski-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-ski-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-ski-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-ski-miku-06": {
+    "name": "マジカルミライ2020夏"
+  },
+  "cos-ski-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-ski-mizg-01": {
+    "name": "ムーンライトラブサマー"
+  },
+  "cos-ski-mizg-02": {
+    "name": "ソレイユホットサマー"
+  },
+  "cos-ski-newy-00": {
+    "name": "絢爛振袖・空"
+  },
+  "cos-ski-onep-00": {
+    "name": "フローラルフレグランス"
+  },
+  "cos-ski-poli-00": {
+    "name": "ルアディシプリン"
+  },
+  "cos-ski-schl-00": {
+    "name": "光ヶ崎高等学校"
+  },
+  "cos-ski-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-ski-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-ski-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-ski-ster-00": {
+    "name": "シャイングレイス"
+  },
+  "cos-ski-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-ski-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-ski-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-ski-vlnt-00": {
+    "name": "ときめきチョコレート"
+  },
+  "cos-ski-waso-00": {
+    "name": "ハートオブロック"
+  },
+  "cos-ski-xmas-00": {
+    "name": "クリスマスには君と"
+  },
+  "cos-skr-adlt-00": {
+    "name": "サンセットエレガンス"
+  },
+  "cos-skr-anml-00": {
+    "name": "スイートレディベア"
+  },
+  "cos-skr-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-skr-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-skr-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-skr-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-skr-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-skr-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-skr-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-skr-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-skr-chia-00": {
+    "name": "レッツゴーピース"
+  },
+  "cos-skr-chna-00": {
+    "name": "満福華衣"
+  },
+  "cos-skr-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "cos-skr-fest-01": {
+    "name": "ジェムストーンズ"
+  },
+  "cos-skr-flow-00": {
+    "name": "エーデルハイドランジア"
+  },
+  "cos-skr-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-skr-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-skr-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-skr-idol-00": {
+    "name": "アセンブルハーモニー"
+  },
+  "cos-skr-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "cos-skr-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-skr-idol-03": {
+    "name": "ウィズ・ザ・サンシャイン"
+  },
+  "cos-skr-idol-04": {
+    "name": "サクセスエブリウェア"
+  },
+  "cos-skr-idol-05": {
+    "name": "コネクションズハーモニー"
+  },
+  "cos-skr-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-skr-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-skr-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-skr-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-skr-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-skr-mizg-01": {
+    "name": "サマーホリデイ"
+  },
+  "cos-skr-mizg-03": {
+    "name": "サニーアイランド"
+  },
+  "cos-skr-mizg-04": {
+    "name": "サンライトセンセーション"
+  },
+  "cos-skr-msic-00": {
+    "name": "ウィズユアソングス"
+  },
+  "cos-skr-newy-00": {
+    "name": "全力振袖・桜"
+  },
+  "cos-skr-sail-00": {
+    "name": "ひだまりセーラー"
+  },
+  "cos-skr-schl-00": {
+    "name": "光ヶ崎高等学校"
+  },
+  "cos-skr-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-skr-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-skr-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-skr-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-skr-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-skr-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-skr-vlnt-00": {
+    "name": "ラブリーバレンタイン"
+  },
+  "cos-skr-wedd-00": {
+    "name": "スイート・ブライド"
+  },
+  "cos-smr-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-smr-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-smr-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-smr-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-smr-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-smr-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-smr-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-smr-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-smr-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "cos-smr-fest-02": {
+    "name": "エスポワール"
+  },
+  "cos-smr-fest-03": {
+    "name": "グラティテュード"
+  },
+  "cos-smr-frut-00": {
+    "name": "ラブリーチェリー"
+  },
+  "cos-smr-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-smr-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-smr-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-smr-goch-01": {
+    "name": "ホーリー・ラビット"
+  },
+  "cos-smr-idol-00": {
+    "name": "シュヴァリエール"
+  },
+  "cos-smr-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-smr-idol-03": {
+    "name": "レ・プリュム"
+  },
+  "cos-smr-idol-04": {
+    "name": "ヴィクトワール"
+  },
+  "cos-smr-idol-05": {
+    "name": "ユニヴェール"
+  },
+  "cos-smr-jwel-00": {
+    "name": "空の宝石"
+  },
+  "cos-smr-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-smr-magi-00": {
+    "name": "マジカルエレメント"
+  },
+  "cos-smr-maid-00": {
+    "name": "おもてなしカフェテリア"
+  },
+  "cos-smr-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-smr-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-smr-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-smr-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-smr-mizg-01": {
+    "name": "トロピカルフルール"
+  },
+  "cos-smr-newy-00": {
+    "name": "ブランニューデイ"
+  },
+  "cos-smr-nurs-00": {
+    "name": "ぷりてぃー★エンジェル"
+  },
+  "cos-smr-pajm-00": {
+    "name": "パジャマパーティー"
+  },
+  "cos-smr-schl-00": {
+    "name": "紅花中学校"
+  },
+  "cos-smr-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-smr-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-smr-seik-00": {
+    "name": "エンジェルブレッシング"
+  },
+  "cos-smr-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-smr-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-smr-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-smr-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-smr-vlnt-00": {
+    "name": "チョコラブキッス"
+  },
+  "cos-smr-xmas-00": {
+    "name": "ルミエール"
+  },
+  "cos-stm-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-stm1-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-stm1-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-stm2-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-stm2-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-stm3-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-stm3-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-stm4-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-stm4-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-stm5-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-stm5-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-suz-alic-00": {
+    "name": "ワンダーアリス"
+  },
+  "cos-suz-alic-01": {
+    "name": "ミステリアスキャット"
+  },
+  "cos-suz-angl-00": {
+    "name": "ハートインエンジェル"
+  },
+  "cos-suz-anml-00": {
+    "name": "スイートレディベア"
+  },
+  "cos-suz-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-suz-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-suz-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-suz-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-suz-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-suz-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-suz-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-suz-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-suz-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-suz-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-suz-goch-01": {
+    "name": "ホーリー・ラビット"
+  },
+  "cos-suz-idol-00": {
+    "name": "クイーンオブザナイト"
+  },
+  "cos-suz-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "cos-suz-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-suz-idol-03": {
+    "name": "月ノヒカリ"
+  },
+  "cos-suz-idol-04": {
+    "name": "ルナピエール"
+  },
+  "cos-suz-idol-05": {
+    "name": "ルージュオブザナイト"
+  },
+  "cos-suz-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-suz-link-00": {
+    "name": "リエステラ"
+  },
+  "cos-suz-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-suz-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-suz-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-suz-miku-06": {
+    "name": "マジカルミライ2020夏"
+  },
+  "cos-suz-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-suz-mizg-01": {
+    "name": "ムーンライトラブサマー"
+  },
+  "cos-suz-mizg-02": {
+    "name": "ソレイユホットサマー"
+  },
+  "cos-suz-msic-00": {
+    "name": "ウィズユアソングス"
+  },
+  "cos-suz-newy-00": {
+    "name": "絢爛振袖・桃"
+  },
+  "cos-suz-onep-00": {
+    "name": "プレシャスワン"
+  },
+  "cos-suz-pair-00": {
+    "name": "シャイニーシャイニー"
+  },
+  "cos-suz-pajm-00": {
+    "name": "パジャマパーティー"
+  },
+  "cos-suz-schl-00": {
+    "name": "麗葉女学院中等部"
+  },
+  "cos-suz-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-suz-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-suz-seik-00": {
+    "name": "エンジェルブレッシング"
+  },
+  "cos-suz-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-suz-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-suz-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-suz-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-suz-vlnt-00": {
+    "name": "ときめきチョコレート"
+  },
+  "cos-suz-wedd-00": {
+    "name": "セレブリティ・ブライド"
+  },
+  "cos-suz-xmas-00": {
+    "name": "クリスマスには君と"
+  },
+  "cos-szk-alic-00": {
+    "name": "ワンダーアリス"
+  },
+  "cos-szk-alic-01": {
+    "name": "ミステリアスキャット"
+  },
+  "cos-szk-angl-00": {
+    "name": "ハートインエンジェル"
+  },
+  "cos-szk-anml-00": {
+    "name": "スイートレディキャット"
+  },
+  "cos-szk-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-szk-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-szk-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-szk-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-szk-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-szk-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-szk-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-szk-casl-03": {
+    "name": "ニコイチスタイル"
+  },
+  "cos-szk-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-szk-chia-00": {
+    "name": "レッツゴーピース"
+  },
+  "cos-szk-chna-00": {
+    "name": "獅子舞華衣"
+  },
+  "cos-szk-flow-00": {
+    "name": "エーデルハイドランジア"
+  },
+  "cos-szk-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-szk-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-szk-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-szk-goch-01": {
+    "name": "ホーリー・ラビット"
+  },
+  "cos-szk-idol-00": {
+    "name": "アセンブルハーモニー"
+  },
+  "cos-szk-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "cos-szk-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-szk-idol-03": {
+    "name": "ウィズ・ザ・サンシャイン"
+  },
+  "cos-szk-idol-04": {
+    "name": "サクセスエブリウェア"
+  },
+  "cos-szk-idol-05": {
+    "name": "コネクションズハーモニー"
+  },
+  "cos-szk-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-szk-link-01": {
+    "name": "リエルフレ"
+  },
+  "cos-szk-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-szk-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-szk-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-szk-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-szk-mizg-01": {
+    "name": "サマーホリデイ"
+  },
+  "cos-szk-mizg-03": {
+    "name": "サニーアイランド"
+  },
+  "cos-szk-newy-00": {
+    "name": "全力振袖・梅"
+  },
+  "cos-szk-pajm-00": {
+    "name": "パジャマパーティー"
+  },
+  "cos-szk-rock-00": {
+    "name": "サニーダンサブル"
+  },
+  "cos-szk-sail-00": {
+    "name": "ひだまりセーラー"
+  },
+  "cos-szk-schl-00": {
+    "name": "光ヶ崎高等学校"
+  },
+  "cos-szk-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-szk-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-szk-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-szk-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-szk-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-szk-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-szk-vlnt-00": {
+    "name": "ラブリーバレンタイン"
+  },
+  "cos-szk-yukt-00": {
+    "name": "ポワソンルージュ"
+  },
+  "cos-szk-yuru-00": {
+    "name": "クロッカスの扉"
+  },
+  "cos-vns-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-yami-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-ymk-miku-02": {
+    "name": "雪ミク：オリジナル"
+  },
+  "cos-yo-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-yo-sush-01": {
+    "name": "ブリリアントクリスマス"
+  },
+  "cos-yo-sush-02": {
+    "name": "浦の星女学院（冬服）"
+  },
+  "cos-yo-sush-03": {
+    "name": "浦の星女学院（夏服）"
+  },
+  "cos-yu-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "cos-yu-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-yu-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "cos-yu-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "cos-yu-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "cos-yu-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "cos-yu-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "cos-yu-casl-02": {
+    "name": "デートスタイル"
+  },
+  "cos-yu-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "cos-yu-chna-00": {
+    "name": "極烙華衣"
+  },
+  "cos-yu-date-00": {
+    "name": "ラブリーメイド"
+  },
+  "cos-yu-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "cos-yu-fest-02": {
+    "name": "エスポワール"
+  },
+  "cos-yu-fest-03": {
+    "name": "グラティテュード"
+  },
+  "cos-yu-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "cos-yu-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "cos-yu-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "cos-yu-idol-00": {
+    "name": "シュヴァリエール"
+  },
+  "cos-yu-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "cos-yu-idol-03": {
+    "name": "レ・プリュム"
+  },
+  "cos-yu-idol-04": {
+    "name": "ヴィクトワール"
+  },
+  "cos-yu-idol-05": {
+    "name": "ユニヴェール"
+  },
+  "cos-yu-jwel-00": {
+    "name": "空の宝石"
+  },
+  "cos-yu-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "cos-yu-link-01": {
+    "name": "リエルフレ"
+  },
+  "cos-yu-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "cos-yu-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "cos-yu-miku-05": {
+    "name": "君の残り香"
+  },
+  "cos-yu-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "cos-yu-mizg-01": {
+    "name": "トロピカルフルール"
+  },
+  "cos-yu-newy-00": {
+    "name": "ブランニューデイ"
+  },
+  "cos-yu-nurs-00": {
+    "name": "ぷりてぃー★エンジェル"
+  },
+  "cos-yu-schl-00": {
+    "name": "月出高等学校"
+  },
+  "cos-yu-sdam-00": {
+    "name": "親善大使"
+  },
+  "cos-yu-sdpl-00": {
+    "name": "一日署長"
+  },
+  "cos-yu-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "cos-yu-ster-00": {
+    "name": "シャイングレイス"
+  },
+  "cos-yu-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "cos-yu-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "cos-yu-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "cos-yu-vlnt-00": {
+    "name": "チョコラブキッス"
+  },
+  "cos-yu-wedd-01": {
+    "name": "心恋白無垢"
+  },
+  "cos-yu-xmas-00": {
+    "name": "ルミエール"
+  },
+  "cos-yuki-casl-00": {
+    "name": "ベーシックスタイル"
+  }
+}

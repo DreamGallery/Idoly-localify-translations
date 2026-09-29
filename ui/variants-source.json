@@ -1,0 +1,650 @@
+{
+  "accessory.enhance.setting.button.ExcludeAllDeck": [
+    "標準",
+    "編成中のアクセサリは含まない"
+  ],
+  "accessory.enhance.setting.button.allUserAccessory": [
+    "すべて",
+    "すべてのアクセサリを含む"
+  ],
+  "accessory.enhance.setting.button.excludeLeagueDeck": [
+    "VENUSリーグ以外",
+    "リーグ編成中は含まない"
+  ],
+  "accessory.enhance.setting.sheet.ExcludeAllDeck": [
+    "標準(編成中のアクセサリを含まない)",
+    "編成中のアクセサリは含まない"
+  ],
+  "accessory.enhance.setting.sheet.allUserAccessory": [
+    "すべて(編成中のアクセサリを含む)",
+    "すべてのアクセサリを含む"
+  ],
+  "accessory.enhance.setting.sheet.excludeLeagueDeck": [
+    "VENUSリーグで編成中の\nアクセサリは含まない",
+    "VENUSリーグ以外\n(VENUSリーグ編成中のアクセサリは含まない)"
+  ],
+  "accessory.limitBreak.sheet.description": [
+    "以下の素材を消費して上限突破を行います。",
+    "以下の素材を消費して強化を行います。"
+  ],
+  "accessory.limitBreak.sheet.execute": [
+    "実行する",
+    "強化する"
+  ],
+  "accessory.limitBreak.sheet.title": [
+    "アクセサリ上限突破",
+    "アクセサリ強化"
+  ],
+  "accessory.top.limitBreak": [
+    "上限突破",
+    "強化"
+  ],
+  "accessory.top.limitBreak.done": [
+    "上限突破しました",
+    "強化しました"
+  ],
+  "account.top.group.move.label6": [
+    "移動先グループのユニオンに所属となります。\n現在所属しているユニオンと同名のユニオンに自動で所属します。\nユニオンメダルは切り替え先グループにも持ち越されます。\nスタッフ育成のLvは切り替え先グループにも持ち越されます。\nユニオンライブでの獲得Ptは全てリセットされ、ユニオン内順位は最下位から開始となります。",
+    "移動先グループのユニオンに所属となります。\n現在所属しているユニオンと同名のユニオンに自動で所属します。\nユニオンメダルは切り替え先グループにも持ち越されます。\nスタッフ育成のLvは切り替え先グループにも持ち越されます。\nユニオンライブ開催中はグループ移動ができません。"
+  ],
+  "account.top.group.move.label8": [
+    "以下は移動先のグループのランキングに参加となります。\n・ファンイベント\n・ハイスコアライブ\n・VENUSバトル\nVENUSバトルは移動前の順位とスコアは全てリセットされます。\nプロフィールの過去最高順位は、現在の最高順位を引き継ぎます。",
+    "以下は移動先のグループのランキングに参加となります。\n・ファンイベント\n・ハイスコアライブ\n・VENUSバトル\n・ユニオンライブ\n移動前の順位とスコアは全てリセットされます。\nプロフィールの過去最高順位は、現在の最高順位を引き継ぎます。"
+  ],
+  "activity.campaign.effect.hover.reward": [
+    "・プロモーションのアイテム獲得効率UP",
+    "・プロモーションのアイテム獲得量UP"
+  ],
+  "activity.campaign.effect.reward": [
+    "アイテム UP",
+    "アイテム獲得効率UP"
+  ],
+  "backside.top.mini.smallTitle": [
+    "定例合宿",
+    "特別合宿"
+  ],
+  "card.detail.limitBreak.point.sheet.title": [
+    "開花Pt確認",
+    "開花pt確認"
+  ],
+  "card.preview.maxAlert": [
+    "※レアリティ最大時",
+    "※最大時"
+  ],
+  "chara.detail.team": [
+    "所属　{0}",
+    "所属チーム　{0}"
+  ],
+  "common.hair.description.withCharacterName": [
+    "{0}のヘアスタイル",
+    "{0}の髪型"
+  ],
+  "company.enjoy.hover.memory.still": [
+    "ホームから確認できます",
+    "ホームから視聴後解放"
+  ],
+  "company.toast.enjoy.memory.still": [
+    "ホームから確認できます",
+    "ホームから視聴できます"
+  ],
+  "deck.entrust.undo": [
+    "おまかせが取り消されました",
+    "おまかせ設定が取り消されました"
+  ],
+  "deck.photo.retouched": [
+    "レタッチ済",
+    "装備制限"
+  ],
+  "dice.main.button.daily.tomorrow": [
+    "明日の報酬",
+    "進捗"
+  ],
+  "dice.main.button.rewardExchange.progress": [
+    "獲得累計報酬 {0}/{1}",
+    "累計報酬 {0}/{1}"
+  ],
+  "dice.main.label.totalAreaCount": [
+    "第{0}エリア",
+    "累計{0}シート"
+  ],
+  "dice.main.panel.force.story": [
+    "特別イベント！",
+    "特別ストーリーマス"
+  ],
+  "dice.main.panel.force.story.hover": [
+    "強制イベントマス",
+    "特別なストーリーを見ることができます。"
+  ],
+  "dice.main.panel.goal": [
+    "GOAL!",
+    "ゴールマス"
+  ],
+  "dice.main.panel.goal.justStop": [
+    "ピッタリ到着ボーナス!",
+    "ピッタリ賞ボーナス!"
+  ],
+  "dice.main.panel.live.battle": [
+    "バトルマス",
+    "ライブバトル"
+  ],
+  "dice.main.panel.live.battle.hover": [
+    "バトルライブマス",
+    "ライブバトルをプレイします。"
+  ],
+  "dice.main.panel.live.score": [
+    "ライブ",
+    "ライブマス"
+  ],
+  "dice.main.panel.live.score.hover": [
+    "スコアライブマス",
+    "ライブをプレイします。"
+  ],
+  "dice.main.panel.medal.hover": [
+    "メダルを獲得できます。",
+    "メダル獲得マス"
+  ],
+  "dice.main.panel.money.hover": [
+    "コインを獲得できます。",
+    "マネー獲得マス"
+  ],
+  "dice.main.panel.move.hover": [
+    "+{0}進むマス",
+    "{0}マス進みます。"
+  ],
+  "dice.main.panel.shop": [
+    "ショップ",
+    "ショップマス"
+  ],
+  "dice.main.panel.shop.hover": [
+    "コインでアイテムなどを購入できます。",
+    "ショップマス"
+  ],
+  "dice.main.panel.story": [
+    "イベント",
+    "ストーリーマス"
+  ],
+  "dice.main.panel.story.hover": [
+    "イベントマス",
+    "ストーリーを見ることができます。"
+  ],
+  "dice.main.shop.button": [
+    "メダル交換所",
+    "交換所"
+  ],
+  "dice.sheet.dailyReward.description": [
+    "進んだマス数に応じて翌日のログイン時に獲得できます。",
+    "進んだマス数に応じて翌日付与されます。({0}/{1})"
+  ],
+  "dice.sheet.ranking.description": [
+    "ゴールマスのハイスコア 上位{0}名",
+    "上位{0}名 ({1})"
+  ],
+  "dice.sheet.selectItem.ownedMedal": [
+    "所持コイン",
+    "所持マネー"
+  ],
+  "dice.sheet.shop.Purchase.description": [
+    "コインでアイテムを購入します。",
+    "マネーでアイテムを購入します。"
+  ],
+  "dice.sheet.shop.money": [
+    "コイン",
+    "マネー"
+  ],
+  "dice.shop.description.purchase.max": [
+    "所持枠の上限に達しています。先に売却してください。",
+    "所持枠の上限を超えています。先に売却してください。"
+  ],
+  "dice.story.title": [
+    "イベント",
+    "ストーリー"
+  ],
+  "dice.top.button.sheet.progress": [
+    "-{0}",
+    "{0}マス"
+  ],
+  "dream.generate.materialSelect.sort.rankPoint": [
+    "GRADE",
+    "おすすめ"
+  ],
+  "dream.top.receive.overlay.description": [
+    "本日のイメトレマニュアルを受け取りました。\n※イベント終了後に自動で売却されます。",
+    "本日の生成アイテムを受け取りました。\n※イベント終了後に自動でなくなります。"
+  ],
+  "duty.season.change": [
+    "イベントが終了しました",
+    "シーズンが終了しました"
+  ],
+  "duty.sheet.description": [
+    "Ptを消費してアイドル活動を実行します。",
+    "アイテムを消費してアイドル活動を実行します。"
+  ],
+  "enum.liveCategory.Dice": [
+    "すごろくイベント",
+    "スタンプラリーライブ"
+  ],
+  "enum.photoContestBaseEvaluationType.Position": [
+    "位置",
+    "構図"
+  ],
+  "enum.photoContestBaseEvaluationType.SizeFull": [
+    "サイズ",
+    "大きさ"
+  ],
+  "enum.photoContestBaseEvaluationType.SizeUpper": [
+    "サイズ",
+    "大きさ"
+  ],
+  "exchange.card.confirm.description": [
+    "{0}{1}を消費してアイドルを獲得します。",
+    "{1}を{0}消費してアイドルを獲得します。"
+  ],
+  "exchange.confirm.sheet.description": [
+    "メダルやポイントなどを消費して交換を行います。",
+    "メダルやポイントを消費して交換を行います。"
+  ],
+  "fittingRoom.hair.description.provideOnlyHair": [
+    "髪型のみの提供となります。",
+    "髪型のみの提供となります。アイドル獲得時は付いてきません"
+  ],
+  "friend.search.title": [
+    "フレンド検索",
+    "マネージャー検索"
+  ],
+  "friend.top.invite.share.text": [
+    "コードを入力してダイヤをもらおう\nアイプラ始めるなら今がチャンス！\n▼招待コード\n{0}\n\nhttps://idolypride.page.link/tw_phcp\n\n※メインライブ#1クリアで入力可能\n#アイプラ",
+    "招待コードを入力して\nIDOLYPRIDEを始めよう！\n▼招待コード\n{0}\n\nhttps://idolypride.page.link/tw_phcp"
+  ],
+  "function.maintenance.toast.message": [
+    "ショップメンテナンス中です",
+    "機能メンテナンス中です"
+  ],
+  "gacha.button.appeal.drawableLimitCount": [
+    "1日1回",
+    "残り{0}回"
+  ],
+  "gacha.continuousGacha.share.tweet.template": [
+    "\nダウンロードはこちらから\n▶︎https://idolypride.page.link/230120tw\n\n#引き放題ガチャ",
+    "https://idolypride.page.link/tw_phcp\n#アイプラ引き放題　 #アイプラ1周年"
+  ],
+  "gacha.continuousGacha.share.tweet.template.title": [
+    "1周年記念！引き放題ガチャ開催中！\n★5 3人まで保証！",
+    "＼ #アイプラ 引き放題ガチャ／\n\nいま新規でゲームを始めた全員が対象️！\n★5アイドル3人以上確定\n結果を投稿するとさらに10連ガチャが引ける！"
+  ],
+  "gacha.exchange.notice": [
+    "ガチャPt、交換内容はガチャごとに異なります。\nすでに所持しているアイドルを交換した場合、開花Ptに変換されます。",
+    "ガチャPt、交換内容はガチャごとに異なります。\nすでに所持しているアイドルを交換した場合、開花Ptに変換されます。\n\n「開花Pt付きガチャ」の場合、ピックアップアイドルを交換した際にも開花Ptが付きます。\nピックアップアイドル以外のアイドルには開花Ptは付きません。"
+  ],
+  "gacha.normalGacha.bonusReward": [
+    "{0}連の\nセット\n報酬",
+    "セット\n報酬"
+  ],
+  "gacha.normalGacha.continueCondition": [
+    "初心者引き放題ガチャ",
+    "橋本さとみ登場で継続"
+  ],
+  "gacha.normalGacha.detail.probability.idle": [
+    "※既に所持している場合プレミアムフォトメダル×1に変換",
+    "アイドル：{0}"
+  ],
+  "gacha.normalGacha.shareReward": [
+    "外部投稿で10回ガチャチケ入手",
+    "外部投稿でさらに10連無料！"
+  ],
+  "gacha.normalGacha.stamp.confirm.gift": [
+    "アイテムはギフトに送られます。",
+    "ボーナスはギフトに送られます。"
+  ],
+  "gacha.normalGacha.stamp.effect.gift": [
+    "アイテムはギフトに送られています。",
+    "ボーナスはギフトに送られています。"
+  ],
+  "gacha.normalGacha.stamp.nextLabel": [
+    "次で獲得",
+    "次回スタンプ"
+  ],
+  "gacha.pickupGacha.description": [
+    "アイドルを選択してください。 ({0}/{1})",
+    "選択したアイドルの出現率がアップします。 ({0}/{1})"
+  ],
+  "home.activity.lesson.character.none.toast": [
+    "レッスン室に誰もいないようです",
+    "誰もいないようです"
+  ],
+  "home.activity.lesson.rewardDialog.promote.boostItem": [
+    "スキップアイテムを消費",
+    "ブーストアイテムを消費"
+  ],
+  "ladder.event.point.label": [
+    "イベントPt：",
+    "メッセPt："
+  ],
+  "ladder.panel.disable.toast.pointShortage": [
+    "Ptが足りません",
+    "{0}が足りません"
+  ],
+  "ladder.title": [
+    "メッセージ",
+    "報酬マップ"
+  ],
+  "league.aggregating": [
+    "対戦中",
+    "集計中"
+  ],
+  "league.aggregating.toast": [
+    "対戦中です",
+    "集計中です"
+  ],
+  "live.daily.balloon.limitedLive": [
+    "スペシャル実施中",
+    "期間限定開催中！"
+  ],
+  "live.top.pvp.nextSeason.format": [
+    "次回:M月d日",
+    "次回：M月d日"
+  ],
+  "love.end.unlockSave.description": [
+    "セーブができるようになりました。",
+    "話の初めにセーブができるようになりました。"
+  ],
+  "love.lesson.rewardDialog.reward.noExp": [
+    "{0}LvがMAXになった為{0}EXPは溜まりません。",
+    "もし恋LvがMAXになったため、もし恋EXPは溜まりません。"
+  ],
+  "love.level.information.hover.lv1.description": [
+    "「大事な場面」が分かるようになります。",
+    "ストーリー再生中に表示されます。"
+  ],
+  "love.level.information.hover.lv2.description": [
+    "「大事な選択肢」が分かるようになります。",
+    "ストーリー再生中に表示されます。"
+  ],
+  "love.mission.tab.button.limited": [
+    "デイリー",
+    "限定課題"
+  ],
+  "love.required.exp.label": [
+    "次のLvまで {0:N0}",
+    "次のレベルまで {0:N0}"
+  ],
+  "love.setting.hintLv.lv1.description": [
+    "「大事な場面」が分かります",
+    "好感度を獲得できる可能性のある場合に表示"
+  ],
+  "love.setting.hintLv.lv2.description": [
+    "「大事な選択肢」が分かります",
+    "好感度を獲得できる選択肢を表示"
+  ],
+  "love.setting.hintLv.notice": [
+    "※ヒントLvは{0}Lvによって選択できます。",
+    "※ヒントLvはもし恋Lvによって解放されます。"
+  ],
+  "love.sheet.adv.exit.description": [
+    "ストーリーを中断します。",
+    "現時点でストーリーを終了します"
+  ],
+  "love.sheet.adv.exit.execute": [
+    "中断する",
+    "終了する"
+  ],
+  "love.sheet.adv.exit.title": [
+    "中断しますか？",
+    "終了しますか？"
+  ],
+  "love.sheet.adv.hint.description": [
+    "{0}Lvによってヒントが解放されます",
+    "ストーリー再生中のヒントLvを設定できます。"
+  ],
+  "love.sheet.adv.menu.description": [
+    "{0}メニューです",
+    "もし恋のメニューです。"
+  ],
+  "love.sheet.adv.menu.exit": [
+    "中断する",
+    "終わる"
+  ],
+  "love.sheet.load.description": [
+    "データ{0}をロードします",
+    "データ{0}をロードします。"
+  ],
+  "love.sheet.overwrite.description": [
+    "データ{0}に上書きします",
+    "データ{0}に上書きします。"
+  ],
+  "love.sheet.playing.description": [
+    "一覧へ戻ると、中断データは削除されます。",
+    "前回中断されたところからはじめます"
+  ],
+  "love.sheet.playing.restart": [
+    "話の一覧へ",
+    "話の最初から"
+  ],
+  "love.sheet.resetStory.description": [
+    "ストーリーを1話からやり直します",
+    "ストーリーを1話からやり直します。"
+  ],
+  "love.sheet.resetStory.title": [
+    "最初からにしますか？",
+    "最初からプレイしますか？"
+  ],
+  "love.unknown": [
+    "???",
+    "？？？"
+  ],
+  "marathon.raid.mission.title.sub": [
+    "マルチリンクス",
+    "協力リンクス"
+  ],
+  "marathon.sheet.staminaRecoveryItemSelect.kStamina.description": [
+    "Kスタミナ",
+    "Kスタミナ回復アイテムです"
+  ],
+  "marathon.sheet.staminaRecoveryItemSelect.lStamina.description": [
+    "Lスタミナ",
+    "Lスタミナ回復アイテムです"
+  ],
+  "marathon.top.raid.bigTitle": [
+    "COOPERATION",
+    "MULTI LINKS"
+  ],
+  "marathon.top.raid.update.button.toast": [
+    "更新可能まで あと{0}秒",
+    "更新可能まで 残り{0}秒"
+  ],
+  "marathon.top.smallTitle": [
+    "マルチリンクス",
+    "リンクス"
+  ],
+  "mosaic.title": [
+    "メダル交換",
+    "報酬交換"
+  ],
+  "mosaic.totalConsumption.countLabel": [
+    "消費したポイント",
+    "累計メダル消費数"
+  ],
+  "notification.activity.fanEvent.message": [
+    "ファンイベントが終了しました。\n確認に行きましょう。",
+    "ファンイベントが終了しました。\n確認に行きましょう！"
+  ],
+  "notification.activity.lesson.message": [
+    "自主トレの報酬が上限に達しました。\n確認に行きましょう。",
+    "自主トレの報酬が上限に達しました。\n確認に行きましょう！"
+  ],
+  "notification.activity.promotion.message": [
+    "プロモーションが終了しました。\n確認に行きましょう。",
+    "プロモーションが終了しました。\n確認に行きましょう！"
+  ],
+  "notification.activity.refresh.message": [
+    "リフレッシュが終了しました。\n確認に行きましょう。",
+    "リフレッシュが終了しました。\n確認に行きましょう！"
+  ],
+  "notification.love.lesson.message": [
+    "{0}の報酬が上限に達しました。\n確認に行きましょう。",
+    "{0}の報酬が上限に達しました。\n確認に行きましょう！"
+  ],
+  "notification.noMorningLogin.message": [
+    "おはようございます。\n本日のログインをお忘れなく！",
+    "マネージャー、おはようございます。"
+  ],
+  "notification.race.activity.lesson.message": [
+    "レース特訓の報酬が上限に達しました。\n確認に行きましょう。",
+    "レース特訓の報酬が上限に達しました。\n確認に行きましょう！"
+  ],
+  "photo.sell.bulk.sheet.description": [
+    "指定した条件のフォトを一括で選択します。",
+    "指定した条件のフォトを一括で選択します。(最大300枚)"
+  ],
+  "photoContest.eventFilm": [
+    "イベントフィルム",
+    "イベント撮影パス"
+  ],
+  "photoContest.photography.sheet.confirm.noItem": [
+    "イベントフィルムを所持していません",
+    "イベント撮影パスを所持していません"
+  ],
+  "photoContest.top.overlay.description": [
+    "本日のイベントフィルムを受け取りました。\n※イベント終了後に自動で売却されます。",
+    "本日のイベント撮影パスを受け取りました。\n※イベント終了後に自動で売却されます。"
+  ],
+  "photoContest.top.overlay.title": [
+    "イベントフィルム入手",
+    "イベント撮影パス入手"
+  ],
+  "photography.photo.execute": [
+    "決定する",
+    "現像する"
+  ],
+  "photography.sheet.confirm.close": [
+    "とじる",
+    "やめる"
+  ],
+  "photography.sheet.contest.exit.button.noFilm": [
+    "イベントフィルムを所持していません",
+    "イベント撮影パスを所持していません"
+  ],
+  "photography.sheet.contest.exit.tweet.template": [
+    "よろしくお願い致します。\n\nhttps://is.gd/XQL8xS\n#アイプラ名刺交換 #アイプラ",
+    "＼ 初音ミクコラボ第3弾×アイプラ写真判定 ／\nあなたのスコアはこちら ！\n水着衣装の初音ミクが登場する初回10連無料のコラボガチャ開催！\n今ならコラボ衣装がもらえる！\nhttps://idolypride.page.link/LZqk\n#初音ミク本気フォト"
+  ],
+  "photography.sheet.contest.submission.description": [
+    "イベントフィルムを消費して写真を提出します。",
+    "イベント撮影パスを消費して写真を提出します。"
+  ],
+  "photography.story.episode.empty.description": [
+    "ストーリーは視聴することで表示されます",
+    "解放されたストーリーが表示されます"
+  ],
+  "profile.sheet.birthday.caution": [
+    "※他マネージャーには表示されません。",
+    "※登録後の変更はできません。"
+  ],
+  "profile.sheet.twitter.tweet.template": [
+    "よろしくお願い致します。\n\nhttps://idolypride.page.link/share\n#アイプラ名刺交換 #アイプラ",
+    "よろしくお願い致します。\n\nhttps://is.gd/XQL8xS\n#アイプラ名刺交換 #アイプラ"
+  ],
+  "profile.top.friend.noFriend": [
+    "名刺を所持していません。",
+    "名刺を持っていません。"
+  ],
+  "race.overlay.ranking.description": [
+    "レース進行度（{1}）",
+    "上位{0}名（{1}）"
+  ],
+  "roulette.top.description": [
+    "動画広告を見て最大{0}回プレイできます",
+    "動画広告を見て最大{0}回プレイできます。"
+  ],
+  "sheet.radioButtonSelectItem.title": [
+    "アイテム選択",
+    "使用アイテム選択"
+  ],
+  "shelf.home.tab.album.change.template.sheet.title": [
+    "デザイン変更",
+    "デザイン選択"
+  ],
+  "shelf.home.tab.album.get.button": [
+    "アルバム取得",
+    "アルバム現像"
+  ],
+  "shelf.home.tab.album.slot.episode.free": [
+    "{0}",
+    "{0}全話"
+  ],
+  "shelf.top.bigTitle": [
+    "PHOTO ALBUM",
+    "PHOTO BOOK"
+  ],
+  "shelf.top.smallTitle": [
+    "フォトアルバム",
+    "フォトブック"
+  ],
+  "shop.common.remainingTime": [
+    "{1} 販売中！",
+    "あと{0}限定! お得なパック購入チャンス！"
+  ],
+  "showcase.case.music.sheet.description": [
+    "ケースのBGMを設定できます",
+    "ケースのBGMを設定できます。"
+  ],
+  "showcase.customize.cleanup.confirm.sheet.description": [
+    "配置されているグッズを全て収納します",
+    "配置されているグッズを全て収納します。"
+  ],
+  "showcase.customize.edit.side.floor": [
+    "床",
+    "床面"
+  ],
+  "showcase.customize.edit.side.wall.back": [
+    "壁(正面)",
+    "正面"
+  ],
+  "showcase.customize.edit.side.wall.left": [
+    "壁(左)",
+    "左"
+  ],
+  "showcase.customize.edit.side.wall.right": [
+    "右",
+    "壁(右)"
+  ],
+  "showcase.gallery.preview.cant.move.toast": [
+    "プレビューに遷移できません",
+    "鑑賞に遷移できません"
+  ],
+  "showcase.top.bigTitle": [
+    "GOODS",
+    "GOODS CASE"
+  ],
+  "showcase.top.customize.description": [
+    "グッズを飾りましょう",
+    "グッズを飾ろう"
+  ],
+  "showcase.top.title": [
+    "アイドルグッズ",
+    "グッズケース"
+  ],
+  "showcase.toy.filter.sheet.description": [
+    "グッズの表示を変更します。",
+    "ショップアイテムの表示を変更します。"
+  ],
+  "specialPhotography.top.activity.locked.toast": [
+    "撮影可能なお仕事がありません",
+    "続報をお待ちください"
+  ],
+  "specialPhotography.top.live.locked.toast": [
+    "撮影可能なライブがありません",
+    "解放をお待ちください"
+  ],
+  "story.top.group": [
+    "TRINITYAiLEやLizNoirの物語",
+    "グループやアイドルの過去を描いた物語"
+  ],
+  "theater.episode.disable.toast": [
+    "前のステージを鑑賞していません",
+    "前のステージを鑑賞しましょう"
+  ],
+  "tour.sheet.resume.area": [
+    "{0}から",
+    "最新エリアから"
+  ]
+}

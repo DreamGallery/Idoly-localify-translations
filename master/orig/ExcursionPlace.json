@@ -1,0 +1,14 @@
+{
+  "ex-pool": {
+    "name": "プール"
+  },
+  "ex-seaside": {
+    "name": "海岸"
+  },
+  "ex-shopping": {
+    "name": "ショッピング"
+  },
+  "ex-themepark": {
+    "name": "観覧車"
+  }
+}

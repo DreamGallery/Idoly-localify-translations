@@ -1,0 +1,918 @@
+{
+  "area-contest-001": {
+    "description": "ハイスコアライブ",
+    "name": "ハイスコアライブ"
+  },
+  "area-daily-001": {
+    "dailyRewardName": "コイン",
+    "description": "デイリーライブ",
+    "name": "コイン"
+  },
+  "area-daily-002": {
+    "dailyRewardName": "レッスンピース",
+    "description": "デイリーライブ",
+    "name": "レッスンピース"
+  },
+  "area-daily-003": {
+    "dailyRewardName": "撮影フィルム",
+    "description": "デイリーライブ",
+    "name": "撮影フィルム"
+  },
+  "area-daily-present-25-0427": {
+    "dailyRewardName": "各種プレゼント",
+    "description": "デイリーライブ",
+    "name": "プレゼント"
+  },
+  "area-daily-present-25-0728": {
+    "dailyRewardName": "各種プレゼント",
+    "description": "デイリーライブ",
+    "name": "プレゼント"
+  },
+  "area-daily-present-26-0101": {
+    "dailyRewardName": "各種プレゼント",
+    "description": "デイリーライブ",
+    "name": "プレゼント"
+  },
+  "area-daily-present-26-0429": {
+    "dailyRewardName": "各種プレゼント",
+    "description": "デイリーライブ",
+    "name": "プレゼント"
+  },
+  "area-daily-present-26-0618": {
+    "dailyRewardName": "各種プレゼント",
+    "description": "デイリーライブ",
+    "name": "プレゼント"
+  },
+  "area-daily-sp-22-0526": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-22-0731": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-22-0903": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-22-1028": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-22-1224": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-23-0226": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-23-0328": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-23-0428": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-23-0604": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-23-0624": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-23-0829": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-23-1003": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-23-1128": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-23-1224": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-24-0129": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-24-0327": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-24-0405": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-24-0426": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-24-0528": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-24-0624": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-24-0708": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-24-0827": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-24-0925": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-24-1028": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-24-1128": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-24-1226": {
+    "dailyRewardName": "スキルパウダー、エールパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-25-0128": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-25-0225": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-25-0326": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-25-0426": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-25-0527": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-25-0625": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-25-0728": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-25-0826": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-25-0927": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-25-1028": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-25-1224": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-26-0128": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-26-0226": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-26-0327": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-26-0527": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-26-0624": {
+    "dailyRewardName": "スキルパウダー、エールパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-26-0708": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-26-0731": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-26-0817": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-26-0831": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-daily-sp-26-0918": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
+  "area-ex-tower-001": {
+    "description": "月のテンペスト",
+    "name": "月のテンペスト"
+  },
+  "area-ex-tower-002": {
+    "description": "サニーピース",
+    "name": "サニーピース"
+  },
+  "area-ex-tower-005-sp-23-0625-001": {
+    "description": "2周年記念",
+    "name": "2周年記念"
+  },
+  "area-ex-tower-005-sp-23-0625-002": {
+    "description": "2周年記念",
+    "name": "2周年記念"
+  },
+  "area-ex-tower-005-sp-23-0625-003": {
+    "description": "2周年記念",
+    "name": "2周年記念"
+  },
+  "area-ex-tower-005-sp-23-1222-001": {
+    "description": "全国ツアー開催記念",
+    "name": "全国ツアー開催記念"
+  },
+  "area-ex-tower-005-sp-23-1222-002": {
+    "description": "全国ツアー開催記念",
+    "name": "全国ツアー開催記念"
+  },
+  "area-ex-tower-005-sp-23-1222-003": {
+    "description": "全国ツアー開催記念",
+    "name": "全国ツアー開催記念"
+  },
+  "area-ex-tower-005-sp-24-0428-001": {
+    "description": "GW記念EXタワー",
+    "name": "GW記念EXタワー"
+  },
+  "area-ex-tower-005-sp-24-0428-002": {
+    "description": "GW記念EXタワー",
+    "name": "GW記念EXタワー"
+  },
+  "area-ex-tower-005-sp-24-0428-003": {
+    "description": "GW記念EXタワー",
+    "name": "GW記念EXタワー"
+  },
+  "area-ex-tower-005-sp-24-0428-004": {
+    "description": "GW記念 星見プロからの挑戦状",
+    "name": "GW記念 星見プロからの挑戦状"
+  },
+  "area-ex-tower-005-sp-24-0616-001": {
+    "description": "BIG4編完結記念EXタワー",
+    "name": "BIG4編完結記念EXタワー"
+  },
+  "area-ex-tower-005-sp-24-0616-002": {
+    "description": "BIG4編完結記念EXタワー",
+    "name": "BIG4編完結記念EXタワー"
+  },
+  "area-ex-tower-005-sp-24-0616-003": {
+    "description": "BIG4編完結記念EXタワー",
+    "name": "BIG4編完結記念EXタワー"
+  },
+  "area-ex-tower-005-sp-25-0301-001": {
+    "description": "涼宮ハルヒの憂鬱コラボ開催記念EXタワー",
+    "name": "涼宮ハルヒの憂鬱コラボ開催記念EXタワー"
+  },
+  "area-ex-tower-005-sp-25-0301-002": {
+    "description": "涼宮ハルヒの憂鬱コラボ開催記念EXタワー",
+    "name": "涼宮ハルヒの憂鬱コラボ開催記念EXタワー"
+  },
+  "area-ex-tower-005-sp-25-0301-003": {
+    "description": "涼宮ハルヒの憂鬱コラボ開催記念EXタワー",
+    "name": "涼宮ハルヒの憂鬱コラボ開催記念EXタワー"
+  },
+  "area-ex-tower-005-sp-25-0901-001": {
+    "description": "初音ミクコラボ開催記念EXタワー",
+    "name": "初音ミクコラボ開催記念EXタワー"
+  },
+  "area-ex-tower-005-sp-25-0901-002": {
+    "description": "初音ミクコラボ開催記念EXタワー",
+    "name": "初音ミクコラボ開催記念EXタワー"
+  },
+  "area-ex-tower-005-sp-25-0901-003": {
+    "description": "初音ミクコラボ開催記念EXタワー",
+    "name": "初音ミクコラボ開催記念EXタワー"
+  },
+  "area-ex-tower-005-sp-25-1201-001": {
+    "description": "To LOVEるコラボ開催記念EXタワー",
+    "name": "To LOVEるコラボ開催記念EXタワー"
+  },
+  "area-ex-tower-005-sp-25-1201-002": {
+    "description": "To LOVEるコラボ開催記念EXタワー",
+    "name": "To LOVEるコラボ開催記念EXタワー"
+  },
+  "area-ex-tower-005-sp-25-1201-003": {
+    "description": "To LOVEるコラボ開催記念EXタワー",
+    "name": "To LOVEるコラボ開催記念EXタワー"
+  },
+  "area-ex-tower-005-sp-26-0502-001": {
+    "description": "GW記念EXタワー",
+    "name": "GW記念EXタワー"
+  },
+  "area-ex-tower-005-sp-26-0502-002": {
+    "description": "GW記念EXタワー",
+    "name": "GW記念EXタワー"
+  },
+  "area-ex-tower-005-sp-26-0502-003": {
+    "description": "GW記念EXタワー",
+    "name": "GW記念EXタワー"
+  },
+  "area-ex-tower-005-sp-26-0502-004": {
+    "description": "GW記念 星見プロからの挑戦状",
+    "name": "GW記念 星見プロからの挑戦状"
+  },
+  "area-ex-tower-005-sp-26-0503-001": {
+    "description": "サンリオキャラコラボ開催記念EXタワー",
+    "name": "サンリオキャラコラボ開催記念EXタワー"
+  },
+  "area-ex-tower-005-sp-26-0503-002": {
+    "description": "サンリオキャラコラボ開催記念EXタワー",
+    "name": "サンリオキャラコラボ開催記念EXタワー"
+  },
+  "area-ex-tower-005-sp-26-0503-003": {
+    "description": "サンリオキャラコラボ開催記念EXタワー",
+    "name": "サンリオキャラコラボ開催記念EXタワー"
+  },
+  "area-ex-tower-006": {
+    "description": "育成タワー",
+    "name": "育成タワー"
+  },
+  "area-exercise": {
+    "description": "マネージャー研修プログラム",
+    "name": "マネージャー研修"
+  },
+  "area-main-001": {
+    "description": "ルーキー1",
+    "name": "Rapture渋谷"
+  },
+  "area-main-002": {
+    "description": "ルーキー2"
+  },
+  "area-main-003": {
+    "description": "ルーキー3",
+    "name": "秋葉原フレッシュ劇場"
+  },
+  "area-main-004": {
+    "description": "ルーキー4",
+    "name": "リズムホール神奈川"
+  },
+  "area-main-005": {
+    "description": "ルーキー5",
+    "name": "TERRACE下北沢"
+  },
+  "area-main-006": {
+    "description": "ルーキー6",
+    "name": "星見市高台のステージ"
+  },
+  "area-main-007": {
+    "description": "ルーキー7",
+    "name": "新宿FLAME"
+  },
+  "area-main-008": {
+    "description": "レギュラー1"
+  },
+  "area-main-009": {
+    "description": "レギュラー2",
+    "name": "リズムホール神奈川"
+  },
+  "area-main-010": {
+    "description": "レギュラー3",
+    "name": "星見市高台のステージ"
+  },
+  "area-main-011": {
+    "description": "レギュラー4",
+    "name": "新宿FLAME"
+  },
+  "area-main-012": {
+    "description": "レギュラー5",
+    "name": "PUEBLO川崎"
+  },
+  "area-main-013": {
+    "description": "レギュラー6",
+    "name": "上越文化ホール"
+  },
+  "area-main-014": {
+    "description": "レギュラー7",
+    "name": "NADホール"
+  },
+  "area-main-015": {
+    "description": "レギュラー8",
+    "name": "パークアリーナ武蔵野"
+  },
+  "area-main-016": {
+    "description": "プロ1"
+  },
+  "area-main-017": {
+    "description": "プロ2",
+    "name": "リズムホール神奈川"
+  },
+  "area-main-018": {
+    "description": "プロ3",
+    "name": "星見市高台のステージ"
+  },
+  "area-main-019": {
+    "description": "プロ4",
+    "name": "有楽町ホール"
+  },
+  "area-main-020": {
+    "description": "プロ5",
+    "name": "GREENステージ渋谷"
+  },
+  "area-main-021": {
+    "description": "プロ6",
+    "name": "シティホール大宮"
+  },
+  "area-main-022": {
+    "description": "プロ7",
+    "name": "東京国際シアター"
+  },
+  "area-main-023": {
+    "description": "プロ8",
+    "name": "代々木国際アリーナ"
+  },
+  "area-main-024": {
+    "description": "プロ9",
+    "name": "パシフィックドーム"
+  },
+  "area-main-025": {
+    "description": "プロ10",
+    "name": "パークアリーナ埼玉"
+  },
+  "area-main-026": {
+    "description": "マスター1",
+    "name": "有楽町ホール"
+  },
+  "area-main-027": {
+    "description": "マスター2",
+    "name": "ブリッジ赤坂"
+  },
+  "area-main-028": {
+    "description": "マスター3",
+    "name": "GREENステージ渋谷"
+  },
+  "area-main-029": {
+    "description": "マスター4",
+    "name": "舞浜アリーナ"
+  },
+  "area-main-030": {
+    "description": "マスター5",
+    "name": "シティホール大宮"
+  },
+  "area-main-031": {
+    "description": "マスター6",
+    "name": "上越文化ホール"
+  },
+  "area-main-032": {
+    "description": "マスター7",
+    "name": "東京国際シアター"
+  },
+  "area-main-033": {
+    "description": "マスター8",
+    "name": "横浜セントラルホール"
+  },
+  "area-main-034": {
+    "description": "マスター9",
+    "name": "日本伝統館"
+  },
+  "area-main-035": {
+    "description": "マスター10",
+    "name": "大阪国際ホール"
+  },
+  "area-main-036": {
+    "description": "マスター11",
+    "name": "パシフィックドーム"
+  },
+  "area-main-037": {
+    "description": "マスター12",
+    "name": "神戸ハーバー競技場"
+  },
+  "area-main-038": {
+    "description": "マスター13",
+    "name": "パークアリーナ埼玉"
+  },
+  "area-main-039": {
+    "description": "マスター14",
+    "name": "グリーンドーム福岡"
+  },
+  "area-main-040": {
+    "description": "マスター15",
+    "name": "大分スポーツドーム"
+  },
+  "area-main-041": {
+    "description": "マスター16",
+    "name": "大阪WINGスタジアム"
+  },
+  "area-main-042": {
+    "description": "マスター17",
+    "name": "名古屋ブルードーム"
+  },
+  "area-main-043": {
+    "description": "マスター18",
+    "name": "エポックスタジアム"
+  },
+  "area-main-044": {
+    "description": "マスター19",
+    "name": "代々木国際アリーナ"
+  },
+  "area-main-045": {
+    "description": "マスター20",
+    "name": "横浜ガーデンホール"
+  },
+  "area-main-046": {
+    "description": "マスター21",
+    "name": "神戸ハーバー競技場"
+  },
+  "area-main-047": {
+    "description": "マスター22",
+    "name": "大分スポーツドーム"
+  },
+  "area-main-048": {
+    "description": "マスター23",
+    "name": "国立記念競技場"
+  },
+  "area-main-049": {
+    "description": "マスター24",
+    "name": "シティドーム札幌"
+  },
+  "area-main-050": {
+    "description": "マスター25",
+    "name": "前橋グラスドーム"
+  },
+  "area-main-051": {
+    "description": "マスター26",
+    "name": "パークアリーナ埼玉"
+  },
+  "area-main-052": {
+    "description": "マスター27",
+    "name": "幕張WAVE"
+  },
+  "area-main-053": {
+    "description": "マスター28",
+    "name": "名古屋ブルードーム"
+  },
+  "area-main-054": {
+    "description": "マスター29",
+    "name": "エポックスタジアム"
+  },
+  "area-main-055": {
+    "description": "マスター30",
+    "name": "ニュードーム東京"
+  },
+  "area-main-056": {
+    "description": "マスター31",
+    "name": "大阪国際ホール"
+  },
+  "area-main-057": {
+    "description": "マスター32",
+    "name": "パシフィックドーム"
+  },
+  "area-main-058": {
+    "description": "マスター33",
+    "name": "グリーンドーム福岡"
+  },
+  "area-main-059": {
+    "description": "マスター34",
+    "name": "大阪WINGスタジアム"
+  },
+  "area-main-060": {
+    "description": "マスター35",
+    "name": "調布ビッグスタジアム"
+  },
+  "area-main-061": {
+    "description": "マスター36",
+    "name": "ニュードーム東京"
+  },
+  "area-main-062": {
+    "description": "マスター37",
+    "name": "神戸ハーバー競技場"
+  },
+  "area-main-063": {
+    "description": "マスター38",
+    "name": "大分スポーツドーム"
+  },
+  "area-main-064": {
+    "description": "マスター39",
+    "name": "国立記念競技場"
+  },
+  "area-main-065": {
+    "description": "マスター40",
+    "name": "シティドーム札幌"
+  },
+  "area-main-066": {
+    "description": "マスター41",
+    "name": "国際ドーム大阪"
+  },
+  "area-main-067": {
+    "description": "マスター42",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-main-068": {
+    "description": "マスター43",
+    "name": "パークアリーナ武蔵野"
+  },
+  "area-main-069": {
+    "description": "マスター44",
+    "name": "大阪国際ホール"
+  },
+  "area-main-070": {
+    "description": "マスター45",
+    "name": "神戸ハーバー競技場"
+  },
+  "area-main-071": {
+    "description": "マスター46",
+    "name": "大分スポーツドーム"
+  },
+  "area-main-072": {
+    "description": "マスター47",
+    "name": "大阪WINGスタジアム"
+  },
+  "area-main-073": {
+    "description": "マスター48",
+    "name": "調布ビッグスタジアム"
+  },
+  "area-main-074": {
+    "description": "マスター49",
+    "name": "ニュードーム東京"
+  },
+  "area-main-075": {
+    "description": "マスター50",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-main-076": {
+    "description": "マスター51",
+    "name": "代々木国際アリーナ"
+  },
+  "area-main-077": {
+    "description": "マスター52",
+    "name": "横浜ガーデンホール"
+  },
+  "area-main-078": {
+    "description": "マスター53",
+    "name": "パークアリーナ埼玉"
+  },
+  "area-main-079": {
+    "description": "マスター54",
+    "name": "幕張WAVE"
+  },
+  "area-main-080": {
+    "description": "マスター55",
+    "name": "国立記念競技場"
+  },
+  "area-main-081": {
+    "description": "マスター56",
+    "name": "エポックスタジアム"
+  },
+  "area-main-082": {
+    "description": "マスター57",
+    "name": "国際ドーム大阪"
+  },
+  "area-main-083": {
+    "description": "マスター58",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-main-084": {
+    "description": "ワールド1",
+    "name": "代々木国際アリーナ"
+  },
+  "area-main-085": {
+    "description": "ワールド2",
+    "name": "横浜ガーデンホール"
+  },
+  "area-main-086": {
+    "description": "ワールド3",
+    "name": "幕張WAVE"
+  },
+  "area-main-087": {
+    "description": "ワールド4",
+    "name": "国立記念競技場"
+  },
+  "area-main-088": {
+    "description": "ワールド5",
+    "name": "エポックスタジアム"
+  },
+  "area-main-089": {
+    "description": "ワールド6",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-main-090": {
+    "description": "ワールド7",
+    "name": "代々木国際アリーナ"
+  },
+  "area-main-091": {
+    "description": "ワールド8",
+    "name": "横浜ガーデンホール"
+  },
+  "area-main-092": {
+    "description": "ワールド9",
+    "name": "幕張WAVE"
+  },
+  "area-main-093": {
+    "description": "ワールド10",
+    "name": "国立記念競技場"
+  },
+  "area-main-094": {
+    "description": "ワールド11",
+    "name": "エポックスタジアム"
+  },
+  "area-main-095": {
+    "description": "ワールド12",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-main-096": {
+    "description": "ワールド13",
+    "name": "ニュードーム東京"
+  },
+  "area-main-097": {
+    "description": "ワールド14",
+    "name": "国際ドーム大阪"
+  },
+  "area-main-098": {
+    "description": "ワールド15",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-main-099": {
+    "description": "ワールド16",
+    "name": "ニュードーム東京"
+  },
+  "area-main-100": {
+    "description": "ワールド17",
+    "name": "国際ドーム大阪"
+  },
+  "area-main-101": {
+    "description": "ワールド18",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-main-102": {
+    "description": "ワールド19",
+    "name": "ニュードーム東京"
+  },
+  "area-main-103": {
+    "description": "ワールド20",
+    "name": "国際ドーム大阪"
+  },
+  "area-main-104": {
+    "description": "ワールド21",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-main-105": {
+    "description": "ワールド22",
+    "name": "ニュードーム東京"
+  },
+  "area-main-106": {
+    "description": "ワールド23",
+    "name": "国際ドーム大阪"
+  },
+  "area-main-107": {
+    "description": "ワールド24",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-main-108": {
+    "description": "ワールド25",
+    "name": "ニュードーム東京"
+  },
+  "area-main-109": {
+    "description": "ワールド26",
+    "name": "国際ドーム大阪"
+  },
+  "area-main-110": {
+    "description": "ワールド27",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-main-111": {
+    "description": "ワールド28",
+    "name": "ニュードーム東京"
+  },
+  "area-main-112": {
+    "description": "ワールド29",
+    "name": "国際ドーム大阪"
+  },
+  "area-main-113": {
+    "description": "ワールド30",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-main-114": {
+    "description": "ワールド31",
+    "name": "ニュードーム東京"
+  },
+  "area-main-115": {
+    "description": "ワールド32",
+    "name": "国際ドーム大阪"
+  },
+  "area-main-116": {
+    "description": "ワールド33",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-main-117": {
+    "description": "ワールド34",
+    "name": "ニュードーム東京"
+  },
+  "area-main-118": {
+    "description": "ワールド35",
+    "name": "国際ドーム大阪"
+  },
+  "area-main-119": {
+    "description": "ワールド36",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-main-120": {
+    "description": "ワールド37",
+    "name": "ニュードーム東京"
+  },
+  "area-main-121": {
+    "description": "ワールド38",
+    "name": "国際ドーム大阪"
+  },
+  "area-main-122": {
+    "description": "ワールド39",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-main-123": {
+    "description": "ワールド40",
+    "name": "ニュードーム東京"
+  },
+  "area-main-124": {
+    "description": "ワールド41",
+    "name": "国際ドーム大阪"
+  },
+  "area-main-125": {
+    "description": "ワールド42",
+    "name": "横浜スカイスタジアム"
+  },
+  "area-tower-001": {
+    "description": "VENUSタワー",
+    "name": "VENUSタワー"
+  },
+  "area-tutorial": {
+    "description": "チュートリアル",
+    "name": "Rapture渋谷"
+  }
+}

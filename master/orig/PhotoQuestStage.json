@@ -1,0 +1,53 @@
+{
+  "stage-live-dome-00-00": {
+    "name": "パークアリーナ武蔵野"
+  },
+  "stage-live-dome-01-00": {
+    "name": "日本伝統館"
+  },
+  "stage-live-dome-02-00": {
+    "name": "横浜ガーデンホール"
+  },
+  "stage-live-dome-03-00": {
+    "name": "パシフィックドーム"
+  },
+  "stage-live-dome-04-00": {
+    "name": "パークアリーナ埼玉"
+  },
+  "stage-live-hall-00-00": {
+    "name": "新宿FLAME"
+  },
+  "stage-live-hall-01-00": {
+    "name": "有楽町ホール"
+  },
+  "stage-live-hall-02-00": {
+    "name": "PUEBLO川崎"
+  },
+  "stage-live-hall-03-00": {
+    "name": "GREENステージ渋谷"
+  },
+  "stage-live-house-00-00": {
+    "name": "Rapture渋谷"
+  },
+  "stage-live-house-01-00": {
+    "name": "秋葉原フレッシュ劇場"
+  },
+  "stage-live-house-02-00": {
+    "name": "TERRACE下北沢"
+  },
+  "stage-live-house-03-00": {
+    "name": "星見市高台のステージ"
+  },
+  "stage-live-unique-00-00": {
+    "name": "ミライコネクトステージ"
+  },
+  "stage-live-unique-01-00": {
+    "name": "サンシャイン!!ステージ"
+  },
+  "stage-live-unique-02-00": {
+    "name": "ミライスノーステージ"
+  },
+  "stage-live-unique-03-00": {
+    "name": "プリティーラビットステージ"
+  }
+}

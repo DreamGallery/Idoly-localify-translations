@@ -1,0 +1,53 @@
+{
+  "stage-live-dome-00-00": {
+    "name": "公园竞技场武藏野"
+  },
+  "stage-live-dome-01-00": {
+    "name": "日本传统馆"
+  },
+  "stage-live-dome-02-00": {
+    "name": "横滨花园大厅"
+  },
+  "stage-live-dome-03-00": {
+    "name": "太平洋巨蛋"
+  },
+  "stage-live-dome-04-00": {
+    "name": "埼玉公园竞技场"
+  },
+  "stage-live-hall-00-00": {
+    "name": "新宿FLAME"
+  },
+  "stage-live-hall-01-00": {
+    "name": "有乐町大厅"
+  },
+  "stage-live-hall-02-00": {
+    "name": "PUEBLO川崎"
+  },
+  "stage-live-hall-03-00": {
+    "name": "GREEN舞台涩谷"
+  },
+  "stage-live-house-00-00": {
+    "name": "Rapture涩谷"
+  },
+  "stage-live-house-01-00": {
+    "name": "秋叶原Fresh剧场"
+  },
+  "stage-live-house-02-00": {
+    "name": "TERRACE下北泽"
+  },
+  "stage-live-house-03-00": {
+    "name": "星见市高台舞台"
+  },
+  "stage-live-unique-00-00": {
+    "name": "未来连接舞台"
+  },
+  "stage-live-unique-01-00": {
+    "name": "Sunshine!!舞台"
+  },
+  "stage-live-unique-02-00": {
+    "name": "未来雪舞台"
+  },
+  "stage-live-unique-03-00": {
+    "name": "可爱兔子舞台"
+  }
+}

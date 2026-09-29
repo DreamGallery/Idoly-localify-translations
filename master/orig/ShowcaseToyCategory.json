@@ -1,0 +1,35 @@
+{
+  "toy-category-alphabet": {
+    "name": "文字"
+  },
+  "toy-category-bigbuttonbadge": {
+    "name": "ビッグ缶バッジ"
+  },
+  "toy-category-buttonbadge": {
+    "name": "缶バッジ"
+  },
+  "toy-category-chracrylicbord": {
+    "name": "カードスタンド"
+  },
+  "toy-category-chracrylicsd": {
+    "name": "ミニキャラスタンド"
+  },
+  "toy-category-chracrylicstand": {
+    "name": "アクリルスタンド"
+  },
+  "toy-category-figure": {
+    "name": "フィギュア"
+  },
+  "toy-category-nameplate": {
+    "name": "プレート"
+  },
+  "toy-category-pedestal": {
+    "name": "台座"
+  },
+  "toy-category-pedestal-set": {
+    "name": "台座セット"
+  },
+  "toy-category-tapestry": {
+    "name": "タペストリー"
+  }
+}

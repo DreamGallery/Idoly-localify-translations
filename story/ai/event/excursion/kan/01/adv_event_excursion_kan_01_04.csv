@@ -1,0 +1,5 @@
+id,name,text,trans
+25:text:1,kana,{user}と買い物行ってもなぁ,和{user}一起去买东西的话……
+26:text:1,kana,そうだ！　重い物沢山買っちゃおーっと！,对了！那就多买点重的东西吧—！
+info,adv_event_excursion_kan_01_04.txt,9e3de913cd44557014bf6274190805b5d1f6683d10902d255ea4411aa1befc34,
+译者,,,

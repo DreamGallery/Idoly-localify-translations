@@ -1,0 +1,490 @@
+{
+  "char-ai": {
+    "activityFanEventWords[0].word": "非常感谢\n您！",
+    "activityFanEventWords[1].word": "能见到您\n很开心！",
+    "activityFanEventWords[2].word": "欢迎\n再来！",
+    "age": "16岁",
+    "birthday": "2月9日",
+    "catchphrase": "原来如此！\n只要做1000次\n仰卧起坐就行了吧！",
+    "excursionFirstText": "最近爱好像积攒了不少疲劳\n约她出门，\n让她放松一下吧",
+    "favorite": "让人露出笑容、打扫",
+    "hometown": "私立 月出高中 演艺科",
+    "idiom": "认真",
+    "profile": "最喜欢让人露出笑容的LizNoir气氛制造者。与心从养成所时代起就是好友，经常被捉弄。拥有扎实的技术能力，但关键时刻总会失误，也常因此被莉央训斥。",
+    "shortProfile": "最喜欢让人露出笑容的\nLizNoir的\n气氛制造者",
+    "unfavorite": "阴暗的地方、瞧不起父亲的人",
+    "zodiacSign": "水瓶座"
+  },
+  "char-aoi": {
+    "activityFanEventWords[0].word": "谢谢。",
+    "activityFanEventWords[1].word": "能见到你\n真是太好了。",
+    "activityFanEventWords[2].word": "下次再来哦。",
+    "age": "17岁",
+    "birthday": "6月19日",
+    "catchphrase": "都可以哦。",
+    "excursionFirstText": "最近，\n感觉葵有些无聊\n工作结束后，试着约她去什么地方吧",
+    "favorite": "甜点、料理",
+    "hometown": "私立 月出高中 演艺科",
+    "idiom": "随意",
+    "profile": "情绪起伏很少、始终冷静的LizNoir智囊。与莉央之间信赖关系极为深厚，在被迫停止活动时也拒绝了新成员的提议，一直等待着她。拥有看过一次舞蹈就能立刻复制下来的实力。",
+    "shortProfile": "情绪起伏很少\n总是保持冷静的\nLizNoir的智囊",
+    "unfavorite": "狗",
+    "zodiacSign": "双子座"
+  },
+  "char-cca": {
+    "age": "18岁",
+    "birthday": "4月10日",
+    "catchphrase": "—",
+    "favorite": "—",
+    "hometown": "—",
+    "profile": "寄住在吃茶Rabbit House的女孩。非常喜欢可爱的东西和毛茸茸的东西，像疼爱妹妹一样疼爱智乃。",
+    "shortProfile": "寄住在\n兔子屋咖啡厅的女孩",
+    "unfavorite": "—",
+    "zodiacSign": "白羊座"
+  },
+  "char-chk": {
+    "age": "16岁",
+    "birthday": "8月1日",
+    "catchphrase": "—",
+    "favorite": "橘子",
+    "hometown": "浦之星女学院",
+    "profile": "浦之星女学院的二年级学生，Aqours的发起人。三姐妹中最小的一个，老家经营着旅馆。性格亲近人又不服输。凭借天生的开朗和强势，不断把周围的人卷入其中。",
+    "shortProfile": "浦之星女学院2年级学生，\nAqours的发起人",
+    "unfavorite": "咖啡、盐辛",
+    "zodiacSign": "狮子座"
+  },
+  "char-chn": {
+    "age": "15岁",
+    "birthday": "12月4日",
+    "catchphrase": "—",
+    "favorite": "—",
+    "hometown": "—",
+    "profile": "Rabbit House的独生女。性格冷淡，但并不讨厌心爱…！？是个熟悉咖啡的可靠之人。",
+    "shortProfile": "Rabbit House的独生女",
+    "unfavorite": "—",
+    "zodiacSign": "射手座"
+  },
+  "char-chs": {
+    "activityFanEventWords[0].word": "非常\n感谢！",
+    "activityFanEventWords[1].word": "你能来\n我很开心！",
+    "activityFanEventWords[2].word": "欢迎\n再来哦。",
+    "age": "17岁",
+    "birthday": "11月22日",
+    "catchphrase": "姐姐考上了，\n我却落榜了……。",
+    "excursionFirstText": "最近千纱的日程排得有点满\n工作结束后，\n带她去什么地方放松一下吧",
+    "favorite": "沙季、恐怖片",
+    "hometown": "公立 光崎高中",
+    "idiom": "升华",
+    "loveInfo.description": "瑠依的朋友，笨手笨脚且力量弱小的魅魔。对人类也很温柔，性格充满体贴。",
+    "loveInfos[0].description": "瑠依的朋友，笨手笨脚且力量弱小的魅魔。对人类也很温柔，性格充满体贴。",
+    "profile": "性格内向胆小。为了改变这样的自己而立志成为偶像。起初她只能跟在姐姐身后，但通过偶像活动逐渐建立起自信，并下定决心与姐姐并肩、靠自己的双脚前行。",
+    "shortProfile": "内向又胆小\n为了改变这样的自己\n立志成为偶像",
+    "unfavorite": "白子、牡蛎",
+    "zodiacSign": "天蝎座"
+  },
+  "char-cinnamo": {
+    "shortProfile": "诞生于遥远天空云朵之上的\n白色小狗男孩。"
+  },
+  "char-haruhi": {
+    "shortProfile": "追求「快乐之事」的天下无敌SOS团团长。据团员们说，春日似乎有着连她本人都不知道的重大秘密……。"
+  },
+  "char-hrk": {
+    "activityFanEventWords[0].word": "谢谢！",
+    "activityFanEventWords[1].word": "能见到你\n真开心。",
+    "activityFanEventWords[2].word": "再来\n玩哦。",
+    "age": "20岁",
+    "birthday": "1月3日",
+    "catchphrase": "我果然还是\n又朴素，又普通……\n毫无光彩……",
+    "excursionFirstText": "最近遥子小姐好像积攒了不少疲劳\n约她出门，\n让她放松一下吧",
+    "favorite": "星村、拼图、米",
+    "hometown": "私立 青洋学园大学",
+    "idiom": "执念",
+    "profile": "大家的姐姐，SUNNY PEACE的统筹者。认识生前麻奈的星见Production第一位所属偶像。虽然一度差点放弃梦想，但怀着不想背叛相信自己之人的心情，以强烈的觉悟投入偶像活动。",
+    "shortProfile": "大家的大姐姐\nSUNNY PEACE的统筹者",
+    "unfavorite": "放弃这件事",
+    "zodiacSign": "摩羯座"
+  },
+  "char-itsuki": {
+    "shortProfile": "仅因在高一第一学期转学而来，就被春日以「谜之转校生」为由挖角。标志是暧昧的笑容。"
+  },
+  "char-kan": {
+    "activityFanEventWords[0].word": "谢谢\n光临～！",
+    "activityFanEventWords[1].word": "kana，\n好感动～！",
+    "activityFanEventWords[2].word": "再来哦～！",
+    "age": "20岁",
+    "birthday": "4月10日",
+    "catchphrase": "呀哈！\n当然啦，\n因为我是kana嘛！",
+    "excursionFirstText": "最近kana的行程排得好满啊\n今天工作结束后\n要不要约她去放松一下",
+    "favorite": "SNS点赞、父亲",
+    "hometown": "未公开",
+    "idiom": "孤独",
+    "profile": "表里反差极大，却拥有出类拔萃品味的小恶魔偶像。出身于超人气模特，从小便登上众多杂志封面。认可欲求强烈，社交媒体的粉丝超过200万。",
+    "shortProfile": "表里不一，\n却拥有出类拔萃的品味\n小恶魔偶像",
+    "unfavorite": "祖父",
+    "zodiacSign": "白羊座"
+  },
+  "char-kitty": {
+    "shortProfile": "开朗又温柔的女孩子。\n身高是5个苹果。\n体重是3个苹果。"
+  },
+  "char-kkr": {
+    "activityFanEventWords[0].word": "谢啦！",
+    "activityFanEventWords[1].word": "能见到你\n真开心～",
+    "activityFanEventWords[2].word": "欢迎\n再来哦～！",
+    "age": "14岁",
+    "birthday": "12月6日",
+    "catchphrase": "抓住你的心☆\n赤崎心，\n14岁啦！",
+    "excursionFirstText": "最近心好像没什么精神\n今天工作结束后\n要不要约她出去散散心",
+    "favorite": "书法、别人为难的表情",
+    "hometown": "私立 丽叶女学院中等部",
+    "idiom": "打破",
+    "profile": "亲近人又爱起哄的LizNoir先锋。与爱是互相认可的关系，但总爱灌输些不好的主意。展现出以往LizNoir所没有的亲和与可爱，为组合吹入了一股新风。",
+    "shortProfile": "亲近人又爱起哄的\nLizNoir的先锋队长",
+    "unfavorite": "被排挤",
+    "zodiacSign": "射手座"
+  },
+  "char-konazusa": {
+    "shortProfile": "性格非常认真的1年级学生。\n从小学生开始学的吉他\n相当有水平"
+  },
+  "char-konmio": {
+    "shortProfile": "认真且成绩优秀，\n因为吉他太显眼\n而选择贝斯的害羞者"
+  },
+  "char-konmugi": {
+    "shortProfile": "从小学习钢琴，\n也有获奖经历\n性格文静的大小姐"
+  },
+  "char-konritsu": {
+    "shortProfile": "性格粗枝大叶，\n因为不擅长精细的乐器\n而选择了架子鼓"
+  },
+  "char-konyui": {
+    "shortProfile": "属于靠自学和直觉的类型，\n从完全的新手开始学吉他"
+  },
+  "char-kor": {
+    "activityFanEventWords[0].word": "非常\n感谢！",
+    "activityFanEventWords[1].word": "见到你\n很高兴",
+    "activityFanEventWords[2].word": "请再来\n哦！",
+    "age": "22岁",
+    "birthday": "6月11日",
+    "catchphrase": "我当偶像的\n目的，只是为了\n赚钱。",
+    "excursionFirstText": "fran小姐，总觉得没什么精神啊。\n虽然可能会惹她烦，\n工作结束后试着约她出去吧",
+    "favorite": "时尚、金钱、漫画",
+    "hometown": "未公开",
+    "idiom": "狂奔",
+    "profile": "拥有出众身材、天赋异禀而不懂努力为何物的魅力偶像。IIIX的中心，出身于曾参加巴黎时装周的顶级模特。因某个理由而极度执着于金钱。",
+    "shortProfile": "拥有出众的身材，\n天才型且不知努力为何物\n的魅力领袖",
+    "unfavorite": "赚不到钱的事、派对",
+    "zodiacSign": "双子座"
+  },
+  "char-ktn": {
+    "activityFanEventWords[0].word": "谢谢。",
+    "activityFanEventWords[1].word": "很高兴。",
+    "activityFanEventWords[2].word": "那再见啦。",
+    "age": "17岁",
+    "birthday": "12月25日",
+    "catchphrase": "我，一个人\n就能做到。",
+    "excursionFirstText": "最近，\n琴乃似乎没能好好放松\n工作结束后，试着约她出去吧",
+    "favorite": "姐姐、偶像、棉花糖",
+    "hometown": "私立 星见高中",
+    "idiom": "咒缚",
+    "profile": "继承姐姐长濑麻奈的遗志，立志成为偶像的少女。组合成立之初，她曾回避与人交流而陷入孤立。但在与成员们共渡苦难的过程中不断成长，如今已成为引领大家的存在。",
+    "shortProfile": "继承姐姐长濑麻奈的遗志，\n立志成为偶像的\n少女",
+    "unfavorite": "不了解自己",
+    "zodiacSign": "摩羯座"
+  },
+  "char-kuromi": {
+    "shortProfile": "自称美乐蒂的对手。\n虽然看起来粗暴，其实非常少女心！？"
+  },
+  "char-kyon": {
+    "shortProfile": "春日最大的受害者。不知不觉把「真是的」当成了口头禅的杂务平团员。"
+  },
+  "char-kyui": {
+    "shortProfile": "班里的风纪委员"
+  },
+  "char-lala": {
+    "shortProfile": "统辖银河系的戴比路克星第一王女"
+  },
+  "char-mei": {
+    "activityFanEventWords[0].word": "谢谢～！",
+    "activityFanEventWords[1].word": "开心！",
+    "activityFanEventWords[2].word": "再见啦～！",
+    "age": "16岁",
+    "birthday": "7月7日",
+    "catchphrase": "有什么好害羞的？\n我们可是\n一起在围墙上约会过的关系。",
+    "excursionFirstText": "最近，\n芽衣似乎没能好好放松\n等工作结束后，试着约她出去吧",
+    "favorite": "经纪人，有趣的事",
+    "hometown": "私立 星见高中",
+    "idiom": "憧憬",
+    "loveInfo.description": "住在自然丰富的乡下小镇的高中一年级学生。性格亲和，和谁都能马上成为好朋友。住在主人公祖母家附近。",
+    "loveInfos[0].description": "住在自然丰富的乡下小镇的高中一年级学生。性格亲和，和谁都能马上成为好朋友。住在主人公祖母家附近。",
+    "profile": "遵从直觉生活、无法预测又天真无邪的少女。受到邀请后，以“好像很有趣”这一单纯动机进入事务所。但被麻奈作为偶像的态度所感动，开始真心以成为她那样的偶像为目标。",
+    "shortProfile": "凭直觉生活的\n难以预测又天真无邪的少女",
+    "unfavorite": "腌菜",
+    "zodiacSign": "巨蟹座"
+  },
+  "char-melody": {
+    "shortProfile": "坦率开朗、很为弟弟着想的女孩。\n宝物是奶奶做的可爱兜帽。"
+  },
+  "char-mhk": {
+    "activityFanEventWords[0].word": "谢谢",
+    "activityFanEventWords[1].word": "见到你\n很高兴",
+    "activityFanEventWords[2].word": "下次\n再见吧",
+    "age": "24岁",
+    "birthday": "1月25日",
+    "catchphrase": "要说取得高分的『攻略法』\n那确实是有的。",
+    "excursionFirstText": "最近miho小姐似乎积攒了不少疲劳\n虽然很难开口邀请，\n但还是鼓起勇气让她转换一下心情吧",
+    "favorite": "偶像，叶酱",
+    "hometown": "未公开",
+    "idiom": "忧愁",
+    "profile": "活用丰富经验与知识投入活动的理论派。过去曾是即将跻身BIG4却突然解散的人气双人偶像组合成员。是组合中的智囊，基本上性格温和，但也有记仇的一面。",
+    "shortProfile": "运用丰富的经验与知识\n努力投入活动的\n理论派",
+    "zodiacSign": "水瓶座"
+  },
+  "char-mikuru": {
+    "shortProfile": "因童颜萌系角色而受到好评，被强行拉进SOS团的唯一高年级生。性格纯洁无瑕，是团里的治愈担当。"
+  },
+  "char-mku": {
+    "age": "16岁",
+    "birthday": "8月31日",
+    "catchphrase": "—",
+    "favorite": "—",
+    "hometown": "—",
+    "profile": "跨越世代备受喜爱的流行可爱虚拟歌手。活跃在与VENUS计划无缘的舞台上，那明亮优美的歌声迷倒了全世界的人们。",
+    "shortProfile": "跨越世代备受喜爱的流行可爱虚拟歌手",
+    "unfavorite": "—",
+    "zodiacSign": "处女座"
+  },
+  "char-mna": {
+    "age": "19岁",
+    "birthday": "10月9日",
+    "catchphrase": "来吧，迈向偶像的巅峰！",
+    "favorite": "妹妹、偶像、咖喱",
+    "hometown": "私立 星见高中",
+    "idiom": "奇迹",
+    "profile": "被称为“星降奇迹”的传说偶像。出道仅一年半便离开了人世。但在那短暂的活动期间创下了无数传说与纪录，死后仍对众多偶像产生着影响。",
+    "shortProfile": "被称为\n『星降奇迹』\n的传说偶像",
+    "unfavorite": "让粉丝失望",
+    "zodiacSign": "天秤座"
+  },
+  "char-mng": {
+    "age": "19岁",
+    "birthday": "10月9日",
+    "catchphrase": "来吧，迈向偶像的巅峰！",
+    "favorite": "妹妹、偶像、咖喱",
+    "hometown": "私立 星见高中",
+    "idiom": "奇迹",
+    "profile": "被称为“星降奇迹”的传说偶像。出道仅一年半便离开了人世。但在那短暂的活动期间创下了无数传说与纪录，死后仍对众多偶像产生着影响。",
+    "shortProfile": "被称为\n『星降奇迹』\n的传说偶像",
+    "unfavorite": "让粉丝失望",
+    "zodiacSign": "天秤座"
+  },
+  "char-momo": {
+    "shortProfile": "统领银河系的戴比路克星第三王女"
+  },
+  "char-ngs": {
+    "activityFanEventWords[0].word": "谢谢。",
+    "activityFanEventWords[1].word": "见到你\n很高兴！",
+    "activityFanEventWords[2].word": "再来哦～",
+    "age": "17岁",
+    "birthday": "8月3日",
+    "catchphrase": "既然琴乃都这么说了\n我不反对哦。",
+    "excursionFirstText": "最近渚好像积攒了不少疲劳\n约她出门，\n让她放松一下吧",
+    "favorite": "琴乃、桃、写日记",
+    "hometown": "私立 星见高中",
+    "idiom": "献身",
+    "loveInfo.description": "喜欢恋爱小说的女高中生。很会照顾人，在班上很受欢迎。和主人公是青梅竹马，住在隔壁。",
+    "loveInfos[0].description": "喜欢恋爱小说的女高中生。很会照顾人，在班上很受欢迎。和主人公是青梅竹马，住在隔壁。",
+    "loveInfos[1].description": "主人公养的猫，也是堇的使魔。因为是猫，所以对人类文化不太了解，但会用自己的力量支持堇。",
+    "profile": "为了支持挚友琴乃而成为偶像的少女。想象力丰富，也有在意外之处展现好奇心的一面。虽然曾因没有作为偶像的长处而失去自信，但她以支持琴乃为力量，每天都在奋斗。",
+    "shortProfile": "为了支持挚友琴乃\n而成为偶像的少女",
+    "unfavorite": "伤害琴乃的东西、苦瓜",
+    "zodiacSign": "狮子座"
+  },
+  "char-rei": {
+    "activityFanEventWords[0].word": "谢谢\n您。",
+    "activityFanEventWords[1].word": "能见到您\n我很开心。",
+    "activityFanEventWords[2].word": "欢迎\n再来。",
+    "age": "18岁",
+    "birthday": "3月8日",
+    "catchphrase": "因为这是我自己\n决定要全部\n这么做的。",
+    "excursionFirstText": "最近怜的行程排得很满啊\n今天下班后\n让她放松一下吧",
+    "favorite": "哥哥、舞蹈、马卡龙",
+    "hometown": "私立 丽叶女学院高等部",
+    "idiom": "不屈",
+    "loveInfo.description": "非常喜欢跳舞的高中三年级学生。是主人公打工处的前辈，也是同班同学。性格冷酷，不太愿意和周围的人打交道。",
+    "loveInfos[0].description": "非常喜欢跳舞的高中三年级学生。是主人公打工处的前辈，也是同班同学。性格冷酷，不太愿意和周围的人打交道。",
+    "profile": "曾在舞蹈大赛中夺冠的实力者。为了让父母认可舞蹈作为职业，立志成为偶像。加入之初，也曾因对成员要求过高而产生冲突，但她找到了用自己的技术带领大家的道路。",
+    "shortProfile": "为了让父母认可\n自己以舞蹈为职业\n而立志成为偶像",
+    "unfavorite": "父母、内脏、早晨",
+    "zodiacSign": "双鱼座"
+  },
+  "char-rik": {
+    "age": "16岁",
+    "birthday": "9月19日",
+    "catchphrase": "—",
+    "favorite": "水煮蛋、三明治",
+    "hometown": "浦之星女学院",
+    "profile": "从东京秋叶原转学到千歌班上的二年级学生。看起来成熟稳重，其实是个冒失鬼，有时会操之过急或产生误会。",
+    "shortProfile": "从东京秋叶原\n转入千歌班级的\n二年级学生",
+    "unfavorite": "青椒",
+    "zodiacSign": "处女座"
+  },
+  "char-rio": {
+    "activityFanEventWords[0].word": "谢谢。",
+    "activityFanEventWords[1].word": "我很开心。",
+    "activityFanEventWords[2].word": "再来哦。",
+    "age": "22岁",
+    "birthday": "8月28日",
+    "catchphrase": "初次品尝的挫折，\n就由我们来让你体会吧。",
+    "excursionFirstText": "最近莉央小姐好像有点累\n今天下班后\n约她出去放松一下吧",
+    "favorite": "偶像、料理",
+    "hometown": "私立 月出高中 演艺科",
+    "idiom": "气魄",
+    "loveInfo.description": "星见商事的员工。工作能力很强，但因为冷酷的外表和严格的指导，在公司内被称为“鬼”。是负责教育新员工主人公的人。",
+    "loveInfos[0].description": "星见商事的员工。工作能力很强，但因为冷酷的外表和严格的指导，在公司内被称为“鬼”。是负责教育新员工主人公的人。",
+    "profile": "对胜利充满贪欲的LizNoir不动如山的中心。原本预定在大奖赛决赛中交手的麻奈先行离世，她因失去目标而产生的失落感，不得不停止活动。成员增加之后心境也发生了变化，实现了成长。",
+    "shortProfile": "对胜利贪得无厌的\nLizNoir不动C位",
+    "zodiacSign": "处女座"
+  },
+  "char-rui": {
+    "activityFanEventWords[0].word": "非常\n感谢！",
+    "activityFanEventWords[1].word": "您能来\n我很开心。",
+    "activityFanEventWords[2].word": "请再来\n见我。",
+    "age": "17岁",
+    "birthday": "11月11日",
+    "catchphrase": "毕竟我们三人\n是最棒的团队。",
+    "excursionFirstText": "瑠依的表情看起来有些疲惫\n看来工作结束后，\n还是让她放松一下比较好",
+    "favorite": "偶像、胜利、软糖",
+    "hometown": "私立 月出高中 演艺科",
+    "idiom": "坚固",
+    "loveInfos[1].description": "从魔界来的、拥有强大力量的魅魔。虽然看起来傲慢、瞧不起人类，但也有认真、重视朋友的一面。",
+    "profile": "TRINITYAiLE的绝对中心。虽被誉为天才，但其实力背后是压倒性的努力。凛然的姿态常让人以为她完美无缺，却也有突然睡着、偏食的一面。",
+    "shortProfile": "TRINITYAiLE的\n绝对C位",
+    "unfavorite": "败北、牛肉",
+    "zodiacSign": "天蝎座"
+  },
+  "char-ski": {
+    "activityFanEventWords[0].word": "谢谢\n您。",
+    "activityFanEventWords[1].word": "我也\n很高兴。",
+    "activityFanEventWords[2].word": "欢迎\n再来哦。",
+    "age": "18岁",
+    "birthday": "9月26日",
+    "catchphrase": "因为我是…\n姐姐啊。",
+    "excursionFirstText": "最近，沙季的日程排得有点满\n工作结束后，\n带她去什么地方放松一下吧",
+    "favorite": "千纱、偶像、臭鱼干",
+    "hometown": "公立 光崎高中",
+    "idiom": "热诚",
+    "profile": "在学校也担任学生会会长的典型优等生，是月光风暴的统筹者。出道之初，也曾因对妹妹千纱过度保护而苦恼，但现在彼此互相信赖，各自走在自己的道路上。",
+    "shortProfile": "如同画中走出的优等生\n月光风暴的统筹者",
+    "unfavorite": "伤害千纱的东西",
+    "zodiacSign": "天秤座"
+  },
+  "char-skr": {
+    "activityFanEventWords[0].word": "谢谢～！",
+    "activityFanEventWords[1].word": "好开心～",
+    "activityFanEventWords[2].word": "下次再来哦！",
+    "age": "17岁",
+    "birthday": "4月3日",
+    "catchphrase": "现在，我的胸口，跳得\n好厉害。",
+    "excursionFirstText": "看来樱有点累了。\n工作结束后，\n带她去什么地方放松一下吧",
+    "favorite": "麻奈、偶像、炸猪排",
+    "hometown": "公立 光崎高中",
+    "idiom": "觉醒",
+    "profile": "珍惜平凡日常的天真烂漫偶像。凭借与麻奈如出一辙的歌声博得人气，但逐渐对以麻奈的声音站上舞台产生疑问。跨越苦恼后选择与麻奈的声音诀别之路，迈向未来。",
+    "shortProfile": "珍惜平凡日常的\n天真烂漫偶像",
+    "unfavorite": "坏话",
+    "zodiacSign": "白羊座"
+  },
+  "char-smr": {
+    "activityFanEventWords[0].word": "非常\n感谢！",
+    "activityFanEventWords[1].word": "能见到您\n很开心！",
+    "activityFanEventWords[2].word": "欢迎\n再来！",
+    "age": "15岁",
+    "birthday": "5月5日",
+    "catchphrase": "前童星？\n诶嘿嘿，谁知道呢～",
+    "excursionFirstText": "最近，\n堇似乎没能好好放松\n工作结束后，带她去什么地方走走吧",
+    "favorite": "哥哥、故乡、樱桃",
+    "hometown": "公立 红花中学",
+    "idiom": "重燃",
+    "loveInfos[1].description": "主人公的妹妹，为保护人类界免受魅魔侵扰的正义魔法少女。凭借其魔法，将众多魅魔送回了魔界。",
+    "profile": "为了家人而立志成为偶像的原天才童星。成熟得不像中学生，拥有见过一次就能记住对方长相和名字的特技。但在能交心的伙伴之间，也会流露出与年龄相符的天真。",
+    "shortProfile": "心系家人\n立志成为偶像\n原天才童星",
+    "unfavorite": "无",
+    "zodiacSign": "金牛座"
+  },
+  "char-suz": {
+    "activityFanEventWords[0].word": "感激不尽。",
+    "activityFanEventWords[1].word": "能见到您\n真高兴。",
+    "activityFanEventWords[2].word": "您\n贵安。",
+    "age": "15岁",
+    "birthday": "9月13日",
+    "catchphrase": "希望各位\n不要拖我的后腿，\n拜托了。",
+    "excursionFirstText": "最近工作排得太满，铃看起来有点累啊\n今天工作结束后\n要不要约她出去放松一下",
+    "favorite": "麻奈、金钱、茶",
+    "hometown": "私立 丽叶女学院中等部",
+    "idiom": "一念",
+    "profile": "崇拜麻奈、笨手笨脚又容易被人捉弄的大小姐。被父母逼迫留学，半是逃避地来到了事务所。此后，她克服了自己爱逃避的毛病，并得到父母正式认可开展活动，为星见Production增添活力。",
+    "shortProfile": "崇拜长濑麻奈\n冒失又容易被人捉弄的\n大小姐",
+    "unfavorite": "咖啡、留学",
+    "zodiacSign": "处女座"
+  },
+  "char-szk": {
+    "activityFanEventWords[0].word": "你能来\n我很高兴…",
+    "activityFanEventWords[1].word": "能见到你\n太好了…",
+    "activityFanEventWords[2].word": "下次再来哦…",
+    "age": "16岁",
+    "birthday": "10月15日",
+    "catchphrase": "聊天，我……\n会努力，\n加油的。",
+    "excursionFirstText": "最近，雫似乎没能好好放松\n今天下班后，\n约她去什么地方走走吧",
+    "favorite": "偶像、表姐、馒头",
+    "hometown": "公立 光崎高中",
+    "idiom": "开花",
+    "profile": "不太擅长露出笑容、沉默寡言的偶像宅。加入之初，曾因谈话能力和匮乏的情感表达而感到不安，失去了作为偶像的自信。但后来与怀有同样烦恼的千纱意气相投，在互相扶持中不断成长。",
+    "shortProfile": "不太擅长露出笑容、沉默寡言的\n偶像宅",
+    "unfavorite": "家人以外的人、芥末",
+    "zodiacSign": "天秤座"
+  },
+  "char-yami": {
+    "shortProfile": "被全宇宙视为最危险的杀手"
+  },
+  "char-ymk": {
+    "age": "16岁",
+    "birthday": "8月31日",
+    "catchphrase": "—",
+    "favorite": "—",
+    "hometown": "—",
+    "profile": "跨越世代备受喜爱的流行可爱虚拟歌手。担任振兴北海道的各项活动大使，将应援的舞台拓展到多个领域。",
+    "shortProfile": "为北海道增添活力的流行可爱虚拟歌手",
+    "unfavorite": "—",
+    "zodiacSign": "处女座"
+  },
+  "char-yo": {
+    "age": "16岁",
+    "birthday": "4月17日",
+    "catchphrase": "—",
+    "favorite": "汉堡肉、橘子",
+    "hometown": "浦之星女学院",
+    "profile": "浦之星女学院的二年级学生，千歌的同班同学。是一名高台跳水选手，实力达到国家队级别。属于先行动后思考的类型。父亲是渡轮船长，自己也希望将来能成为船长。",
+    "shortProfile": "浦之星女学院的二年级学生，\n千歌的同班同学",
+    "unfavorite": "生鱼片、干巴巴的食物",
+    "zodiacSign": "白羊座"
+  },
+  "char-yu": {
+    "activityFanEventWords[0].word": "特意过来\n多谢啦～",
+    "activityFanEventWords[1].word": "能见到你\n好开心呀～",
+    "activityFanEventWords[2].word": "下次再来啊～",
+    "age": "16岁",
+    "birthday": "2月27日",
+    "catchphrase": "只要瑠依酱能成为\n第一名\n就好啦。",
+    "excursionFirstText": "最近优的日程排得好满啊\n今天工作结束后\n要不要约她出去放松一下",
+    "favorite": "瑠依、可颂",
+    "hometown": "私立 月出高中 演艺科",
+    "idiom": "诚忠",
+    "loveInfo.description": "转学到主人公就读高中的高一年级学姐。喜欢动画和漫画，和主人公同属文艺部。有些S属性，总是捉弄主人公玩。",
+    "loveInfos[0].description": "转学到主人公就读高中的高一年级学姐。喜欢动画和漫画，和主人公同属文艺部。有些S属性，总是捉弄主人公玩。",
+    "profile": "出身京都，始终冷静的TRINITYAiLE的统筹者。父亲是大企业的社长，母亲是著名女演员。被瑠依深深吸引，凡事以她为先。这也是粉丝们熟知的事实，许多粉丝被优的奉献姿态所吸引。",
+    "shortProfile": "总是冷静的\nTRINITYAiLE的\n统筹者",
+    "unfavorite": "批评瑠依的人、荞麦面",
+    "zodiacSign": "双鱼座"
+  },
+  "char-yuki": {
+    "shortProfile": "原本是文艺部的社员，但社办被阳春占据，半推半就地加入了社团。沉默寡言且面无表情，总是在看书。"
+  }
+}

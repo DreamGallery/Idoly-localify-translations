@@ -1,0 +1,637 @@
+{
+  "info-news-login-25-0827-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "初音ミクコラボ\n記念特別"
+  },
+  "info-news-login-25-1127-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "To LOVEる\nコラボ特別"
+  },
+  "info-news-login-26-0410-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "スプリング"
+  },
+  "info-news-login-26-0428-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "サンリオキャラ\nコラボ特別"
+  },
+  "info-news-login-26-0509-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "コラボ開催記念"
+  },
+  "info-news-login-26-0528-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もうすぐ\n5周年記念"
+  },
+  "info-news-login-26-0710-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "サマー"
+  },
+  "login_bonus-campaign-21-0624-01": {
+    "description": "3日間の特別なログインボーナス",
+    "name": "スタートダッシュ 第一弾"
+  },
+  "login_bonus-campaign-21-0624-02": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "スタートダッシュ 第二弾"
+  },
+  "login_bonus-campaign-21-0706-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援\nログボ"
+  },
+  "login_bonus-campaign-21-0727-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援\nログボ"
+  },
+  "login_bonus-campaign-21-0813-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援\nログボ"
+  },
+  "login_bonus-campaign-21-0906-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援\nログボ"
+  },
+  "login_bonus-campaign-21-0928-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "麻奈登場記念"
+  },
+  "login_bonus-campaign-21-1015-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援"
+  },
+  "login_bonus-campaign-21-1106-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援"
+  },
+  "login_bonus-campaign-21-1124-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援"
+  },
+  "login_bonus-campaign-21-1206-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "クリスマス"
+  },
+  "login_bonus-campaign-21-1219-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "クリスマス 第二弾"
+  },
+  "login_bonus-campaign-21-1228-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "ハーフ\nアニバーサリー"
+  },
+  "login_bonus-campaign-22-0104-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援"
+  },
+  "login_bonus-campaign-22-0124-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援"
+  },
+  "login_bonus-campaign-22-0207-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援"
+  },
+  "login_bonus-campaign-22-0212-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "バレンタイン"
+  },
+  "login_bonus-campaign-22-0221-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援"
+  },
+  "login_bonus-campaign-22-0316-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援"
+  },
+  "login_bonus-campaign-22-0328-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "カムバック\nログイン"
+  },
+  "login_bonus-campaign-22-0329-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "感謝祭"
+  },
+  "login_bonus-campaign-22-0406-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "感謝祭\n第2弾"
+  },
+  "login_bonus-campaign-22-0429-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "GW特別\nログボ"
+  },
+  "login_bonus-campaign-22-0528-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もうすぐ\n1周年記念"
+  },
+  "login_bonus-campaign-22-0615-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もうすぐ\n1周年記念第2弾"
+  },
+  "login_bonus-campaign-22-0621-01": {
+    "description": "3日間の特別なログインボーナス",
+    "name": "1周年カウントダウン"
+  },
+  "login_bonus-campaign-22-0625-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "1周年記念"
+  },
+  "login_bonus-campaign-22-0804-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "サマーログイン"
+  },
+  "login_bonus-campaign-22-0821-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援"
+  },
+  "login_bonus-campaign-22-0829-01": {
+    "description": "3日間の特別なログインボーナス",
+    "name": "初音ミクコラボ\nカウントダウン"
+  },
+  "login_bonus-campaign-22-0901-01": {
+    "description": "10日間の特別なログインボーナス",
+    "name": "初音ミクコラボ"
+  },
+  "login_bonus-campaign-22-0923-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援"
+  },
+  "login_bonus-campaign-22-0928-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "フェス開催記念"
+  },
+  "login_bonus-campaign-22-1021-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "MV公開記念"
+  },
+  "login_bonus-campaign-22-1107-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "リリース\n500日記念"
+  },
+  "login_bonus-campaign-22-1121-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援"
+  },
+  "login_bonus-campaign-22-1129-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "クリスマス"
+  },
+  "login_bonus-campaign-22-1214-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "クリスマス 第2弾"
+  },
+  "login_bonus-campaign-22-1225-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "1.5周年記念"
+  },
+  "login_bonus-campaign-23-0104-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "新春"
+  },
+  "login_bonus-campaign-23-0123-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援"
+  },
+  "login_bonus-campaign-23-0131-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "バレンタイン特別"
+  },
+  "login_bonus-campaign-23-0214-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "バレンタイン"
+  },
+  "login_bonus-campaign-23-0228-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "スプリング"
+  },
+  "login_bonus-campaign-23-0317-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援"
+  },
+  "login_bonus-campaign-23-0329-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "感謝祭"
+  },
+  "login_bonus-campaign-23-0409-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "感謝祭第2弾"
+  },
+  "login_bonus-campaign-23-0429-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "けいおん！コラボ"
+  },
+  "login_bonus-campaign-23-0503-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "GW記念育成応援"
+  },
+  "login_bonus-campaign-23-0514-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もし恋"
+  },
+  "login_bonus-campaign-23-0531-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "もうすぐ2周年記念特別"
+  },
+  "login_bonus-campaign-23-0605-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もうすぐ2周年記念"
+  },
+  "login_bonus-campaign-23-0624-01": {
+    "description": "3日間の特別なログインボーナス",
+    "name": "カムバック\nログイン"
+  },
+  "login_bonus-campaign-23-0625-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "2周年記念"
+  },
+  "login_bonus-campaign-23-0707-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "誕生日\nアップデート"
+  },
+  "login_bonus-campaign-23-0716-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "単独ライブ\n開催記念"
+  },
+  "login_bonus-campaign-23-0729-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "サマー"
+  },
+  "login_bonus-campaign-23-0810-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "リリース\n777日記念"
+  },
+  "login_bonus-campaign-23-0830-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "オータム"
+  },
+  "login_bonus-campaign-23-0909-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成応援"
+  },
+  "login_bonus-campaign-23-0924-01": {
+    "description": "3日間の特別なログインボーナス",
+    "name": "アイプラフェス\nカウントダウン"
+  },
+  "login_bonus-campaign-23-0926-01": {
+    "description": "3日間の特別なログインボーナス",
+    "name": "カムバック"
+  },
+  "login_bonus-campaign-23-0928-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "LizNoirフェス\n開催記念特別"
+  },
+  "login_bonus-campaign-23-1004-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "オータム第2弾"
+  },
+  "login_bonus-campaign-23-1019-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "育成"
+  },
+  "login_bonus-campaign-23-1028-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "オータム第3弾"
+  },
+  "login_bonus-campaign-23-1114-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もし恋"
+  },
+  "login_bonus-campaign-23-1125-01": {
+    "description": "3日間の特別なログインボーナス",
+    "name": "カムバック"
+  },
+  "login_bonus-campaign-23-1129-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "コラボ特別"
+  },
+  "login_bonus-campaign-23-1207-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "コラボ開催記念"
+  },
+  "login_bonus-campaign-23-1216-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もうすぐ\n2.5周年記念"
+  },
+  "login_bonus-campaign-23-1227-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "2.5周年記念"
+  },
+  "login_bonus-campaign-24-0104-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "新春"
+  },
+  "login_bonus-campaign-24-0130-01": {
+    "description": "6日間の特別なログインボーナス",
+    "name": "雪ミク特別"
+  },
+  "login_bonus-campaign-24-0207-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "雪ミクコラボ"
+  },
+  "login_bonus-campaign-24-0214-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "バレンタイン"
+  },
+  "login_bonus-campaign-24-0228-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "感謝祭"
+  },
+  "login_bonus-campaign-24-0320-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "リリース\n1000日記念"
+  },
+  "login_bonus-campaign-24-0328-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "TRINITYAiLE\nフェス開催記念"
+  },
+  "login_bonus-campaign-24-0405-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "スプリングバニー"
+  },
+  "login_bonus-campaign-24-0429-01": {
+    "description": "7日間の特別なログインボーナス"
+  },
+  "login_bonus-campaign-24-0517-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もし恋"
+  },
+  "login_bonus-campaign-24-0529-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "もうすぐ3周年\n記念特別"
+  },
+  "login_bonus-campaign-24-0609-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もうすぐ\n3周年記念"
+  },
+  "login_bonus-campaign-24-0617-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "グッズメダル\n先行配布"
+  },
+  "login_bonus-campaign-24-0626-01": {
+    "description": "7日間の特別なログインボーナス"
+  },
+  "login_bonus-campaign-24-0627-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "グッズメダル"
+  },
+  "login_bonus-campaign-24-0701-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "3周年記念特別"
+  },
+  "login_bonus-campaign-24-0709-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "3周年記念"
+  },
+  "login_bonus-campaign-24-0715-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "教えてアイプラ"
+  },
+  "login_bonus-campaign-24-0729-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "サマー"
+  },
+  "login_bonus-campaign-24-0812-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "単独ライブ\n開催記念"
+  },
+  "login_bonus-campaign-24-0831-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "オータム"
+  },
+  "login_bonus-campaign-24-0912-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "オータム第2弾"
+  },
+  "login_bonus-campaign-24-0925-01": {
+    "description": "3日間の特別なログインボーナス",
+    "name": "カムバック"
+  },
+  "login_bonus-campaign-24-0927-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "フェス開催記念"
+  },
+  "login_bonus-campaign-24-1004-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "オータムログインボーナス第3弾"
+  },
+  "login_bonus-campaign-24-1018-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "オータム第4弾"
+  },
+  "login_bonus-campaign-24-1029-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "オータム第5弾"
+  },
+  "login_bonus-campaign-24-1128-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "カムバック"
+  },
+  "login_bonus-campaign-24-1129-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "コラボ特別"
+  },
+  "login_bonus-campaign-25-0117-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "新春ログインボーナス第2弾"
+  },
+  "login_bonus-campaign-25-0215-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "バレンタイン記念特別"
+  },
+  "login_bonus-campaign-25-0225-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "カムバック"
+  },
+  "login_bonus-campaign-25-0327-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "フェス開催記念\n特別"
+  },
+  "login_bonus-campaign-25-0627-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "4周年記念特別"
+  },
+  "login_bonus-campaign-25-0702-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "4周年記念特別\n第2弾"
+  },
+  "login_bonus-campaign-25-0724-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "公開記念特別"
+  },
+  "login_bonus-campaign-25-1126-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "カムバック"
+  },
+  "login_bonus-campaign-25-1219-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "もうすぐ4.5周年\n記念特別"
+  },
+  "login_bonus-campaign-26-0116-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "新春第2弾"
+  },
+  "login_bonus-campaign-26-0215-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "バレンタイン\n第二弾"
+  },
+  "login_bonus-campaign-26-0227-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "感謝祭"
+  },
+  "login_bonus-campaign-26-0319-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もし恋"
+  },
+  "login_bonus-campaign-26-0328-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "フェス開催記念"
+  },
+  "login_bonus-campaign-26-0625-01": {
+    "description": "5日間の特別なログインボーナス",
+    "name": "5周年記念特別"
+  },
+  "login_bonus-campaign02-24-1114-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もし恋"
+  },
+  "login_bonus-campaign02-24-1209-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "コラボ"
+  },
+  "login_bonus-campaign02-24-1216-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もうすぐ3.5周年記念"
+  },
+  "login_bonus-campaign02-24-1229-01": {
+    "description": "7日間の特別なログインボーナス"
+  },
+  "login_bonus-campaign02-25-0104-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "新春"
+  },
+  "login_bonus-campaign02-25-0130-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "バレンタイン"
+  },
+  "login_bonus-campaign02-25-0213-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "絆シリーズ\n登場記念"
+  },
+  "login_bonus-campaign02-25-0226-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "コラボ"
+  },
+  "login_bonus-campaign02-25-0319-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "感謝祭"
+  },
+  "login_bonus-campaign02-25-0406-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "スプリング"
+  },
+  "login_bonus-campaign02-25-0416-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "絆シリーズ\n開催記念"
+  },
+  "login_bonus-campaign02-25-0430-01": {
+    "description": "7日間の特別なログインボーナス"
+  },
+  "login_bonus-campaign02-25-0516-01": {
+    "description": "9日間の特別なログインボーナス",
+    "name": "コラボ開催記念"
+  },
+  "login_bonus-campaign02-25-0530-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もうすぐ\n4周年記念"
+  },
+  "login_bonus-campaign02-25-0607-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もうすぐ\n4周年記念 第2弾"
+  },
+  "login_bonus-campaign02-25-0710-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "サマー"
+  },
+  "login_bonus-campaign02-25-0801-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "リリース\n1500日記念"
+  },
+  "login_bonus-campaign02-25-0809-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "絆シリーズ\n開催記念"
+  },
+  "login_bonus-campaign02-25-0906-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "初音ミクコラボ"
+  },
+  "login_bonus-campaign02-25-0928-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "フェス開催記念"
+  },
+  "login_bonus-campaign02-25-1021-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "オータム"
+  },
+  "login_bonus-campaign02-25-1021-02": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "オータム\n第2弾"
+  },
+  "login_bonus-campaign02-25-1101-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "オータム\n第3弾"
+  },
+  "login_bonus-campaign02-25-1108-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "絆シリーズ\n開催記念"
+  },
+  "login_bonus-campaign02-25-1208-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "コラボ\n開催記念"
+  },
+  "login_bonus-campaign02-25-1225-01": {
+    "description": "9日間の特別なログインボーナス",
+    "name": "4.5周年記念"
+  },
+  "login_bonus-campaign02-26-0105-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "新春"
+  },
+  "login_bonus-campaign02-26-0129-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "バレンタイン"
+  },
+  "login_bonus-campaign02-26-0213-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "絆シリーズ\n開催記念"
+  },
+  "login_bonus-campaign02-26-0430-01": {
+    "description": "7日間の特別なログインボーナス"
+  },
+  "login_bonus-campaign02-26-0613-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "絆シリーズ\n開催記念"
+  },
+  "login_bonus-campaign02-26-0613-02": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "もうすぐ\n5周年記念 第2弾"
+  },
+  "login_bonus-campaign02-26-0802-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "おでかけ"
+  },
+  "login_bonus-campaign02-26-0820-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "おでかけ"
+  },
+  "login_bonus-campaign02-26-0903-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "おでかけ"
+  },
+  "login_bonus-campaign02-26-0920-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "おでかけ"
+  },
+  "login_bonus-normal-01": {
+    "description": "毎日もらえるログインボーナス",
+    "name": "デイリー"
+  }
+}

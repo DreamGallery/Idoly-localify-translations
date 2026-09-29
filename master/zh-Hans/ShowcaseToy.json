@@ -1,0 +1,3838 @@
+{
+  "toy-goods-alphabet_alphabet-00-000": {
+    "description": "文字部件「A」。",
+    "name": "文字部件「A」"
+  },
+  "toy-goods-alphabet_alphabet-00-001": {
+    "description": "文字部件「B」。",
+    "name": "文字部件「B」"
+  },
+  "toy-goods-alphabet_alphabet-00-002": {
+    "description": "文字部件「C」。",
+    "name": "文字部件「C」"
+  },
+  "toy-goods-alphabet_alphabet-00-003": {
+    "description": "文字部件「D」。",
+    "name": "文字部件「D」"
+  },
+  "toy-goods-alphabet_alphabet-00-004": {
+    "description": "文字部件「E」。",
+    "name": "文字部件「E」"
+  },
+  "toy-goods-alphabet_alphabet-00-005": {
+    "description": "文字部件「F」。",
+    "name": "文字部件「F」"
+  },
+  "toy-goods-alphabet_alphabet-00-006": {
+    "description": "文字部件「G」。",
+    "name": "文字部件「G」"
+  },
+  "toy-goods-alphabet_alphabet-00-007": {
+    "description": "文字部件「H」。",
+    "name": "文字部件「H」"
+  },
+  "toy-goods-alphabet_alphabet-00-008": {
+    "description": "文字部件「I」。",
+    "name": "文字部件「I」"
+  },
+  "toy-goods-alphabet_alphabet-00-009": {
+    "description": "文字部件「J」。",
+    "name": "文字部件「J」"
+  },
+  "toy-goods-alphabet_alphabet-00-010": {
+    "description": "文字部件「K」。",
+    "name": "文字部件「K」"
+  },
+  "toy-goods-alphabet_alphabet-00-011": {
+    "description": "文字部件「L」。",
+    "name": "文字部件「L」"
+  },
+  "toy-goods-alphabet_alphabet-00-012": {
+    "description": "文字部件「M」。",
+    "name": "文字部件「M」"
+  },
+  "toy-goods-alphabet_alphabet-00-013": {
+    "description": "文字部件「N」。",
+    "name": "文字部件「N」"
+  },
+  "toy-goods-alphabet_alphabet-00-014": {
+    "description": "文字部件「O」。",
+    "name": "文字部件「O」"
+  },
+  "toy-goods-alphabet_alphabet-00-015": {
+    "description": "文字部件「P」。",
+    "name": "文字部件「P」"
+  },
+  "toy-goods-alphabet_alphabet-00-016": {
+    "description": "文字部件「Q」。",
+    "name": "文字部件「Q」"
+  },
+  "toy-goods-alphabet_alphabet-00-017": {
+    "description": "文字部件「R」。",
+    "name": "文字部件「R」"
+  },
+  "toy-goods-alphabet_alphabet-00-018": {
+    "description": "文字部件「S」。",
+    "name": "文字部件「S」"
+  },
+  "toy-goods-alphabet_alphabet-00-019": {
+    "description": "文字部件「T」。",
+    "name": "文字部件「T」"
+  },
+  "toy-goods-alphabet_alphabet-00-020": {
+    "description": "文字部件「U」。",
+    "name": "文字部件「U」"
+  },
+  "toy-goods-alphabet_alphabet-00-021": {
+    "description": "文字部件「V」。",
+    "name": "文字部件「V」"
+  },
+  "toy-goods-alphabet_alphabet-00-022": {
+    "description": "文字部件「W」。",
+    "name": "文字部件「W」"
+  },
+  "toy-goods-alphabet_alphabet-00-023": {
+    "description": "文字部件「X」。",
+    "name": "文字部件「X」"
+  },
+  "toy-goods-alphabet_alphabet-00-024": {
+    "description": "文字部件「Y」。",
+    "name": "文字部件「Y」"
+  },
+  "toy-goods-alphabet_alphabet-00-025": {
+    "description": "文字部件「Z」。",
+    "name": "文字部件「Z」"
+  },
+  "toy-goods-alphabet_alphabet-00-026": {
+    "description": "文字部件「！」。",
+    "name": "文字部件「！」"
+  },
+  "toy-goods-alphabet_alphabet-00-027": {
+    "description": "文字部件「？」。",
+    "name": "文字部件「？」"
+  },
+  "toy-goods-alphabet_alphabet-00-028": {
+    "description": "文字部件「♥」。",
+    "name": "文字部件「♥」"
+  },
+  "toy-goods-alphabet_alphabet-00-029": {
+    "description": "文字配件「×」。",
+    "name": "文字配件「×」"
+  },
+  "toy-goods-bigbuttonbadge_char-ai-birthday-2025": {
+    "description": "小美山爱的特大徽章。",
+    "name": "特大徽章 小美山爱"
+  },
+  "toy-goods-bigbuttonbadge_char-ai-birthday-2026": {
+    "description": "小美山爱的特大徽章。",
+    "name": "特大徽章 小美山爱"
+  },
+  "toy-goods-bigbuttonbadge_char-aoi-birthday-2025": {
+    "description": "井川葵的特大徽章。",
+    "name": "特大徽章 井川葵"
+  },
+  "toy-goods-bigbuttonbadge_char-aoi-birthday-2026": {
+    "description": "井川葵的特大徽章。",
+    "name": "特大徽章 井川葵"
+  },
+  "toy-goods-bigbuttonbadge_char-chs-birthday-2024": {
+    "description": "白石千纱的特大徽章。",
+    "name": "特大徽章 白石千纱"
+  },
+  "toy-goods-bigbuttonbadge_char-chs-birthday-2025": {
+    "description": "白石千纱的特大徽章。",
+    "name": "特大徽章 白石千纱"
+  },
+  "toy-goods-bigbuttonbadge_char-hrk-birthday-2025": {
+    "description": "佐伯遥子的特大徽章。",
+    "name": "特大徽章 佐伯遥子"
+  },
+  "toy-goods-bigbuttonbadge_char-hrk-birthday-2026": {
+    "description": "佐伯遥子的特大徽章。",
+    "name": "特大徽章 佐伯遥子"
+  },
+  "toy-goods-bigbuttonbadge_char-kan-birthday-2025": {
+    "description": "kana的特大徽章。",
+    "name": "特大徽章 kana"
+  },
+  "toy-goods-bigbuttonbadge_char-kan-birthday-2026": {
+    "description": "kana的特大徽章。",
+    "name": "特大徽章 kana"
+  },
+  "toy-goods-bigbuttonbadge_char-kkr-birthday-2024": {
+    "description": "赤崎心的超大徽章。",
+    "name": "超大徽章 赤崎心"
+  },
+  "toy-goods-bigbuttonbadge_char-kkr-birthday-2025": {
+    "description": "赤崎心的超大徽章。",
+    "name": "超大徽章 赤崎心"
+  },
+  "toy-goods-bigbuttonbadge_char-kor-birthday-2025": {
+    "description": "fran的超大徽章。",
+    "name": "超大徽章 fran"
+  },
+  "toy-goods-bigbuttonbadge_char-kor-birthday-2026": {
+    "description": "fran的超大徽章。",
+    "name": "超大徽章 fran"
+  },
+  "toy-goods-bigbuttonbadge_char-ktn-birthday-2024": {
+    "description": "长濑琴乃的超大徽章。",
+    "name": "超大徽章 长濑琴乃"
+  },
+  "toy-goods-bigbuttonbadge_char-ktn-birthday-2025": {
+    "description": "长濑琴乃的超大徽章。",
+    "name": "超大徽章 长濑琴乃"
+  },
+  "toy-goods-bigbuttonbadge_char-mei-birthday-2024": {
+    "description": "早坂芽衣的超大徽章。",
+    "name": "超大徽章 早坂芽衣"
+  },
+  "toy-goods-bigbuttonbadge_char-mei-birthday-2025": {
+    "description": "早坂芽衣的超大徽章。",
+    "name": "超大徽章 早坂芽衣"
+  },
+  "toy-goods-bigbuttonbadge_char-mei-birthday-2026": {
+    "description": "早坂芽衣的超大徽章。",
+    "name": "超大徽章 早坂芽衣"
+  },
+  "toy-goods-bigbuttonbadge_char-mhk-birthday-2025": {
+    "description": "miho的超大徽章。",
+    "name": "超大徽章 miho"
+  },
+  "toy-goods-bigbuttonbadge_char-mhk-birthday-2026": {
+    "description": "miho的超大徽章。",
+    "name": "超大徽章 miho"
+  },
+  "toy-goods-bigbuttonbadge_char-mna-birthday-2024": {
+    "description": "长濑麻奈的超大徽章。",
+    "name": "超大徽章 长濑麻奈"
+  },
+  "toy-goods-bigbuttonbadge_char-mna-birthday-2025": {
+    "description": "长濑麻奈的超大徽章。",
+    "name": "超大徽章 长濑麻奈"
+  },
+  "toy-goods-bigbuttonbadge_char-ngs-birthday-2024": {
+    "description": "伊吹渚的大徽章。",
+    "name": "大徽章 伊吹渚"
+  },
+  "toy-goods-bigbuttonbadge_char-ngs-birthday-2025": {
+    "description": "伊吹渚的大徽章。",
+    "name": "大徽章 伊吹渚"
+  },
+  "toy-goods-bigbuttonbadge_char-ngs-birthday-2026": {
+    "description": "伊吹渚的大徽章。",
+    "name": "大徽章 伊吹渚"
+  },
+  "toy-goods-bigbuttonbadge_char-rei-birthday-2025": {
+    "description": "一之濑怜的大徽章。",
+    "name": "大徽章 一之濑怜"
+  },
+  "toy-goods-bigbuttonbadge_char-rei-birthday-2026": {
+    "description": "一之濑怜的大徽章。",
+    "name": "大徽章 一之濑怜"
+  },
+  "toy-goods-bigbuttonbadge_char-rio-birthday-2024": {
+    "description": "神崎莉央的大徽章。",
+    "name": "大徽章 神崎莉央"
+  },
+  "toy-goods-bigbuttonbadge_char-rio-birthday-2025": {
+    "description": "神崎莉央的大徽章。",
+    "name": "大徽章 神崎莉央"
+  },
+  "toy-goods-bigbuttonbadge_char-rio-birthday-2026": {
+    "description": "神崎莉央的大徽章。",
+    "name": "大徽章 神崎莉央"
+  },
+  "toy-goods-bigbuttonbadge_char-rui-birthday-2024": {
+    "description": "天动瑠依的大徽章。",
+    "name": "大徽章 天动瑠依"
+  },
+  "toy-goods-bigbuttonbadge_char-rui-birthday-2025": {
+    "description": "天动瑠依的大徽章。",
+    "name": "大徽章 天动瑠依"
+  },
+  "toy-goods-bigbuttonbadge_char-ski-birthday-2024": {
+    "description": "白石沙季的大徽章。",
+    "name": "大徽章 白石沙季"
+  },
+  "toy-goods-bigbuttonbadge_char-ski-birthday-2025": {
+    "description": "白石沙季的大徽章。",
+    "name": "大徽章 白石沙季"
+  },
+  "toy-goods-bigbuttonbadge_char-skr-birthday-2025": {
+    "description": "川咲樱的大徽章。",
+    "name": "大徽章 川咲樱"
+  },
+  "toy-goods-bigbuttonbadge_char-skr-birthday-2026": {
+    "description": "川咲樱的大徽章。",
+    "name": "大徽章 川咲樱"
+  },
+  "toy-goods-bigbuttonbadge_char-smr-birthday-2025": {
+    "description": "奥山堇的大徽章。",
+    "name": "大徽章 奥山堇"
+  },
+  "toy-goods-bigbuttonbadge_char-smr-birthday-2026": {
+    "description": "奥山堇的大徽章。",
+    "name": "大徽章 奥山堇"
+  },
+  "toy-goods-bigbuttonbadge_char-suz-birthday-2024": {
+    "description": "成宫铃的大徽章。",
+    "name": "大徽章 成宫铃"
+  },
+  "toy-goods-bigbuttonbadge_char-suz-birthday-2025": {
+    "description": "成宫铃的大徽章。",
+    "name": "大徽章 成宫铃"
+  },
+  "toy-goods-bigbuttonbadge_char-suz-birthday-2026": {
+    "description": "成宫铃的大徽章。",
+    "name": "大徽章 成宫铃"
+  },
+  "toy-goods-bigbuttonbadge_char-szk-birthday-2024": {
+    "description": "兵藤雫的大徽章。",
+    "name": "大徽章 兵藤雫"
+  },
+  "toy-goods-bigbuttonbadge_char-szk-birthday-2025": {
+    "description": "兵藤雫的大徽章。",
+    "name": "大徽章 兵藤雫"
+  },
+  "toy-goods-bigbuttonbadge_char-yu-birthday-2025": {
+    "description": "铃村优的大徽章。",
+    "name": "大徽章 铃村优"
+  },
+  "toy-goods-bigbuttonbadge_char-yu-birthday-2026": {
+    "description": "铃村优的大徽章。",
+    "name": "大徽章 铃村优"
+  },
+  "toy-goods-buttonbadge_card-ai-05-arab-00": {
+    "description": "小美山爱的徽章。",
+    "name": "徽章 小美山爱「温泉绿洲」"
+  },
+  "toy-goods-buttonbadge_card-ai-05-birt-01": {
+    "description": "小美山爱的徽章。",
+    "name": "徽章 小美山爱「生日旅行・爱」"
+  },
+  "toy-goods-buttonbadge_card-ai-05-birt-02": {
+    "description": "小美山爱的徽章。",
+    "name": "徽章 小美山爱「wonderful day for 爱」"
+  },
+  "toy-goods-buttonbadge_card-ai-05-casl-04": {
+    "description": "小美山爱的徽章。",
+    "name": "徽章 小美山爱「充满笑容的大自然假日」"
+  },
+  "toy-goods-buttonbadge_card-ai-05-fest-03": {
+    "description": "小美山爱的徽章。",
+    "name": "徽章 小美山爱「打破极限的努力之拳」"
+  },
+  "toy-goods-buttonbadge_card-ai-05-wedd-00": {
+    "description": "小美山爱的徽章。",
+    "name": "徽章 小美山爱「击碎困难的爱的誓言」"
+  },
+  "toy-goods-buttonbadge_card-aoi-05-arab-00": {
+    "description": "井川葵的徽章。",
+    "name": "徽章 井川葵「水舞祝祭」"
+  },
+  "toy-goods-buttonbadge_card-aoi-05-birt-01": {
+    "description": "井川葵的徽章。",
+    "name": "徽章 井川葵「生日旅行・葵」"
+  },
+  "toy-goods-buttonbadge_card-aoi-05-birt-02": {
+    "description": "井川葵的徽章。",
+    "name": "徽章 井川葵「wonderful day for 葵」"
+  },
+  "toy-goods-buttonbadge_card-aoi-05-casl-04": {
+    "description": "井川葵的徽章。",
+    "name": "徽章 井川葵「与你溜出去的秘密假日」"
+  },
+  "toy-goods-buttonbadge_card-aoi-05-fest-03": {
+    "description": "井川葵的徽章。",
+    "name": "徽章 井川葵「傲然绽放的高贵之刃」"
+  },
+  "toy-goods-buttonbadge_card-aoi-05-past-00": {
+    "description": "井川葵的徽章。",
+    "name": "徽章 井川葵「secret my Lily」"
+  },
+  "toy-goods-buttonbadge_card-aoi-05-wdnc-00": {
+    "description": "井川葵的徽章。",
+    "name": "徽章 井川葵「Break Out, Midnight!」"
+  },
+  "toy-goods-buttonbadge_card-cca-05-goch-00": {
+    "description": "心爱的徽章。",
+    "name": "徽章 心爱「两人的睡衣派对」"
+  },
+  "toy-goods-buttonbadge_card-chn-05-goch-00": {
+    "description": "智乃的徽章。",
+    "name": "徽章 智乃「欢迎来到Rabbit House」"
+  },
+  "toy-goods-buttonbadge_card-chs-05-birt-01": {
+    "description": "白石千纱的徽章。",
+    "name": "徽章 白石千纱「生日旅行・千纱」"
+  },
+  "toy-goods-buttonbadge_card-chs-05-birt-02": {
+    "description": "白石千纱的徽章。",
+    "name": "徽章 白石千纱「wonderful day for 千纱」"
+  },
+  "toy-goods-buttonbadge_card-chs-05-casl-04": {
+    "description": "白石千纱的徽章。",
+    "name": "徽章 白石千纱「想特别美丽的假日」"
+  },
+  "toy-goods-buttonbadge_card-chs-05-fest-00": {
+    "description": "白石千纱的徽章。",
+    "name": "徽章 白石千纱「与故乡的浪花交融」"
+  },
+  "toy-goods-buttonbadge_card-chs-05-fest-03": {
+    "description": "白石千纱的徽章。",
+    "name": "徽章 白石千纱「交织彼此的憧憬时光」"
+  },
+  "toy-goods-buttonbadge_card-chs-05-hruh-00": {
+    "description": "白石千纱的徽章。",
+    "name": "徽章 白石千纱「神秘之眼」"
+  },
+  "toy-goods-buttonbadge_card-chs-05-mizg-04": {
+    "description": "白石千纱的徽章。",
+    "name": "徽章 白石千纱「常夏水光束」"
+  },
+  "toy-goods-buttonbadge_card-hrk-05-adlt-00": {
+    "description": "佐伯遥子的徽章。",
+    "name": "徽章 佐伯遥子「beyond the goal」"
+  },
+  "toy-goods-buttonbadge_card-hrk-05-birt-01": {
+    "description": "佐伯遥子的徽章。",
+    "name": "徽章 佐伯遥子「生日旅行・遥子」"
+  },
+  "toy-goods-buttonbadge_card-hrk-05-birt-02": {
+    "description": "佐伯遥子的徽章。",
+    "name": "徽章 佐伯遥子「wonderful day for 遥子」"
+  },
+  "toy-goods-buttonbadge_card-hrk-05-casl-04": {
+    "description": "佐伯遥子的徽章。",
+    "name": "徽章 佐伯遥子「隔着玻璃杯畅谈的假日」"
+  },
+  "toy-goods-buttonbadge_card-hrk-05-link-00": {
+    "description": "佐伯遥子的徽章。",
+    "name": "徽章 佐伯遥子「羁绊指引的泪之航路」"
+  },
+  "toy-goods-buttonbadge_card-hrk-05-link-01": {
+    "description": "佐伯遥子的徽章。",
+    "name": "徽章 佐伯遥子「羁绊指引的泪之航路」"
+  },
+  "toy-goods-buttonbadge_card-hrk-05-mnab-00": {
+    "description": "佐伯遥子的徽章。",
+    "name": "徽章 佐伯遥子「在光之海中献上祝福」"
+  },
+  "toy-goods-buttonbadge_card-hrk-05-vlnt-00": {
+    "description": "佐伯遥子的徽章。",
+    "name": "徽章 佐伯遥子「一点点爱的礼物」"
+  },
+  "toy-goods-buttonbadge_card-hrk-05-wedd-00": {
+    "description": "佐伯遥子的徽章。",
+    "name": "徽章 佐伯遥子「藏在温暖中的真心话」"
+  },
+  "toy-goods-buttonbadge_card-kan-05-birt-01": {
+    "description": "kana的徽章。",
+    "name": "徽章 kana「生日旅行・kana」"
+  },
+  "toy-goods-buttonbadge_card-kan-05-birt-02": {
+    "description": "kana的徽章。",
+    "name": "徽章 kana「wonderful day for kana」"
+  },
+  "toy-goods-buttonbadge_card-kan-05-casl-04": {
+    "description": "kana的徽章。",
+    "name": "徽章 kana「摘下镜片的素颜假日」"
+  },
+  "toy-goods-buttonbadge_card-kan-05-fest-02": {
+    "description": "kana的徽章。",
+    "name": "徽章 kana「a new dawn」"
+  },
+  "toy-goods-buttonbadge_card-kan-05-link-00": {
+    "description": "kana的徽章。",
+    "name": "徽章 kana「孕育羁绊的天使与恶魔」"
+  },
+  "toy-goods-buttonbadge_card-kan-05-link-01": {
+    "description": "kana的徽章。",
+    "name": "徽章 kana「孕育羁绊的天使与恶魔」"
+  },
+  "toy-goods-buttonbadge_card-kan-05-mizg-02": {
+    "description": "kana的徽章。",
+    "name": "徽章 kana「泡泡映出的七彩的你」"
+  },
+  "toy-goods-buttonbadge_card-kan-05-pair-00": {
+    "description": "kana的徽章。",
+    "name": "徽章 kana「实现欲望的天使嬉戏」"
+  },
+  "toy-goods-buttonbadge_card-kan-05-snro-00": {
+    "description": "kana的徽章。",
+    "name": "徽章 kana「实现愿望的少女的一步」"
+  },
+  "toy-goods-buttonbadge_card-kkr-05-birt-01": {
+    "description": "赤崎心的徽章。",
+    "name": "徽章 赤崎心「生日旅行・心」"
+  },
+  "toy-goods-buttonbadge_card-kkr-05-birt-02": {
+    "description": "赤崎心的徽章。",
+    "name": "徽章 赤崎心「wonderful day for 心」"
+  },
+  "toy-goods-buttonbadge_card-kkr-05-casl-04": {
+    "description": "赤崎心的徽章。",
+    "name": "徽章 赤崎心「重要的伞与雨后的假日」"
+  },
+  "toy-goods-buttonbadge_card-kkr-05-fest-03": {
+    "description": "赤崎心的徽章。",
+    "name": "徽章 赤崎心「击穿心灵的无敌笑容」"
+  },
+  "toy-goods-buttonbadge_card-kkr-05-link-00": {
+    "description": "赤崎心的徽章。",
+    "name": "徽章 赤崎心「羁绊绽放的盛夏黑百合」"
+  },
+  "toy-goods-buttonbadge_card-kkr-05-link-01": {
+    "description": "赤崎心的徽章。",
+    "name": "徽章 赤崎心「羁绊绽放的盛夏黑百合」"
+  },
+  "toy-goods-buttonbadge_card-kkr-05-pair-00": {
+    "description": "赤崎心的徽章。",
+    "name": "徽章 赤崎心「掩饰伤心的恶魔虚张声势」"
+  },
+  "toy-goods-buttonbadge_card-kkr-05-snro-00": {
+    "description": "赤崎心的徽章。",
+    "name": "徽章 赤崎心「响彻心扉的美妙旋律」"
+  },
+  "toy-goods-buttonbadge_card-kkr-05-trbl-00": {
+    "description": "赤崎心的徽章。",
+    "name": "徽章 赤崎心「爱恶作剧的圣诞老人」"
+  },
+  "toy-goods-buttonbadge_card-kkr-05-trbl-00-01": {
+    "description": "桃桃的徽章。",
+    "name": "徽章 桃桃「爱恶作剧的圣诞老人」"
+  },
+  "toy-goods-buttonbadge_card-kor-05-birt-01": {
+    "description": "fran的徽章。",
+    "name": "徽章 fran「生日旅行・fran」"
+  },
+  "toy-goods-buttonbadge_card-kor-05-birt-02": {
+    "description": "fran的徽章。",
+    "name": "徽章 fran「wonderful day for fran」"
+  },
+  "toy-goods-buttonbadge_card-kor-05-casl-04": {
+    "description": "fran的徽章。",
+    "name": "徽章 fran「一流打造的巴黎假日」"
+  },
+  "toy-goods-buttonbadge_card-kor-05-fest-02": {
+    "description": "fran的徽章。",
+    "name": "徽章 fran「the brand is me」"
+  },
+  "toy-goods-buttonbadge_card-kor-05-mizg-02": {
+    "description": "fran的徽章。",
+    "name": "徽章 fran「闷闷不乐的夜间维纳斯」"
+  },
+  "toy-goods-buttonbadge_card-kor-05-newy-00": {
+    "description": "fran的徽章。",
+    "name": "徽章 fran「夜樱马斯肯瓦尔」"
+  },
+  "toy-goods-buttonbadge_card-ktn-05-birt-01": {
+    "description": "长濑琴乃的徽章。",
+    "name": "徽章 长濑琴乃「生日旅行・琴乃」"
+  },
+  "toy-goods-buttonbadge_card-ktn-05-birt-02": {
+    "description": "长濑琴乃的徽章。",
+    "name": "徽章 长濑琴乃「wonderful day for 琴乃」"
+  },
+  "toy-goods-buttonbadge_card-ktn-05-fest-02": {
+    "description": "长濑琴乃的徽章。",
+    "name": "徽章 长濑琴乃「我们的未来」"
+  },
+  "toy-goods-buttonbadge_card-ktn-05-mizg-03": {
+    "description": "长濑琴乃的徽章。",
+    "name": "徽章 长濑琴乃「摘星的指尖」"
+  },
+  "toy-goods-buttonbadge_card-ktn-05-mnab-00": {
+    "description": "长濑琴乃的徽章。",
+    "name": "徽章 长濑琴乃「present for my sister」"
+  },
+  "toy-goods-buttonbadge_card-ktn-05-msic-00": {
+    "description": "长濑琴乃的徽章。",
+    "name": "徽章 长濑琴乃「my best answer」"
+  },
+  "toy-goods-buttonbadge_card-mei-05-birt-01": {
+    "description": "早坂芽衣的徽章。",
+    "name": "徽章 早坂芽衣「生日旅行・芽衣」"
+  },
+  "toy-goods-buttonbadge_card-mei-05-birt-02": {
+    "description": "早坂芽衣的徽章。",
+    "name": "徽章 早坂芽衣「wonderful day for 芽衣」"
+  },
+  "toy-goods-buttonbadge_card-mei-05-birt-03": {
+    "description": "早坂芽衣的徽章。",
+    "name": "徽章 早坂芽衣「dear precious 芽衣」"
+  },
+  "toy-goods-buttonbadge_card-mei-05-fest-02": {
+    "description": "早坂芽衣的徽章。",
+    "name": "徽章 早坂芽衣「闪耀光芒的全新誓言」"
+  },
+  "toy-goods-buttonbadge_card-mei-05-hruh-00": {
+    "description": "早坂芽衣的徽章。",
+    "name": "徽章 早坂芽衣「早坂芽衣的分裂」"
+  },
+  "toy-goods-buttonbadge_card-mei-05-miku-05": {
+    "description": "早坂芽衣的徽章。",
+    "name": "徽章 早坂芽衣「常夏的强力月亮」"
+  },
+  "toy-goods-buttonbadge_card-mei-05-vlnt-00": {
+    "description": "早坂芽衣的徽章。",
+    "name": "徽章 早坂芽衣「本命meet up」"
+  },
+  "toy-goods-buttonbadge_card-mei-05-wdnc-00": {
+    "description": "早坂芽衣的徽章。",
+    "name": "徽章 早坂芽衣「Underground Queen」"
+  },
+  "toy-goods-buttonbadge_card-mhk-05-birt-01": {
+    "description": "miho的徽章。",
+    "name": "徽章 miho「生日旅行・miho」"
+  },
+  "toy-goods-buttonbadge_card-mhk-05-birt-02": {
+    "description": "miho的徽章。",
+    "name": "徽章 miho「wonderful day for miho」"
+  },
+  "toy-goods-buttonbadge_card-mhk-05-casl-04": {
+    "description": "miho的徽章。",
+    "name": "徽章 miho「最美好的异国假日」"
+  },
+  "toy-goods-buttonbadge_card-mhk-05-fest-02": {
+    "description": "miho的徽章。",
+    "name": "徽章 miho「road with friends」"
+  },
+  "toy-goods-buttonbadge_card-mhk-05-newy-00": {
+    "description": "miho的徽章。",
+    "name": "徽章 miho「映在杯中的雪景」"
+  },
+  "toy-goods-buttonbadge_card-mku-05-miku-05": {
+    "description": "初音未来的徽章。",
+    "name": "徽章 初音未来「未来爽快暑假」"
+  },
+  "toy-goods-buttonbadge_card-mku-05-miku-06": {
+    "description": "初音未来的徽章。",
+    "name": "徽章 初音未来「响彻夜空的未来之音」"
+  },
+  "toy-goods-buttonbadge_card-mna-05-birt-01": {
+    "description": "长濑麻奈的徽章。",
+    "name": "徽章 长濑麻奈「光辉相连的生日」"
+  },
+  "toy-goods-buttonbadge_card-mna-05-birt-02": {
+    "description": "长濑麻奈的徽章。",
+    "name": "徽章 长濑麻奈「昔日幸福的生日」"
+  },
+  "toy-goods-buttonbadge_card-mna-05-link-00": {
+    "description": "长濑麻奈的徽章。",
+    "name": "徽章 长濑麻奈「羁绊相连的姐妹奇迹」"
+  },
+  "toy-goods-buttonbadge_card-mna-05-link-01": {
+    "description": "长濑麻奈的徽章。",
+    "name": "徽章 长濑麻奈「羁绊相连的姐妹奇迹」"
+  },
+  "toy-goods-buttonbadge_card-mna-05-mizg-01": {
+    "description": "长濑麻奈的徽章。",
+    "name": "徽章 长濑麻奈「回首的夏日色彩」"
+  },
+  "toy-goods-buttonbadge_card-mna-05-snro-00": {
+    "description": "长濑麻奈的徽章。",
+    "name": "徽章 长濑麻奈「手牵手的奇迹共演」"
+  },
+  "toy-goods-buttonbadge_card-ngs-05-birt-01": {
+    "description": "伊吹渚的徽章。",
+    "name": "徽章 伊吹渚「生日旅行・渚」"
+  },
+  "toy-goods-buttonbadge_card-ngs-05-birt-02": {
+    "description": "伊吹渚的徽章。",
+    "name": "徽章 伊吹渚「wonderful day for 渚」"
+  },
+  "toy-goods-buttonbadge_card-ngs-05-birt-03": {
+    "description": "伊吹渚的徽章。",
+    "name": "徽章 伊吹渚「dear precious 渚」"
+  },
+  "toy-goods-buttonbadge_card-ngs-05-fest-02": {
+    "description": "伊吹渚的徽章。",
+    "name": "徽章 伊吹渚「照亮友人的光」"
+  },
+  "toy-goods-buttonbadge_card-ngs-05-link-00": {
+    "description": "伊吹渚的徽章。",
+    "name": "徽章 伊吹渚「两人的羁绊照亮的此刻」"
+  },
+  "toy-goods-buttonbadge_card-ngs-05-link-01": {
+    "description": "伊吹渚的徽章。",
+    "name": "徽章 伊吹渚「两人的羁绊照亮的此刻」"
+  },
+  "toy-goods-buttonbadge_card-ngs-05-maid-01": {
+    "description": "伊吹渚的徽章。",
+    "name": "徽章 伊吹渚「两人的萌萌啾！」"
+  },
+  "toy-goods-buttonbadge_card-ngs-05-vlnt-00": {
+    "description": "伊吹渚的徽章。",
+    "name": "徽章 伊吹渚「引领气息的甜蜜瞬间」"
+  },
+  "toy-goods-buttonbadge_card-ngs-05-wedd-00": {
+    "description": "伊吹渚的徽章。",
+    "name": "徽章 伊吹渚「响彻天空的祝福之钟」"
+  },
+  "toy-goods-buttonbadge_card-rei-05-birt-01": {
+    "description": "这是一之濑怜的徽章。",
+    "name": "徽章 一之濑怜「生日旅行・怜」"
+  },
+  "toy-goods-buttonbadge_card-rei-05-birt-02": {
+    "description": "这是一之濑怜的徽章。",
+    "name": "徽章 一之濑怜「wonderful day for 怜」"
+  },
+  "toy-goods-buttonbadge_card-rei-05-casl-04": {
+    "description": "这是一之濑怜的徽章。",
+    "name": "徽章 一之濑怜「在身旁闪耀的特等席假日」"
+  },
+  "toy-goods-buttonbadge_card-rei-05-fest-01": {
+    "description": "这是一之濑怜的徽章。",
+    "name": "徽章 一之濑怜「在故乡的海边绽放」"
+  },
+  "toy-goods-buttonbadge_card-rei-05-hruh-00": {
+    "description": "这是一之濑怜的徽章。",
+    "name": "徽章 一之濑怜「三花猫狂想曲」"
+  },
+  "toy-goods-buttonbadge_card-rei-05-mizg-03": {
+    "description": "这是一之濑怜的徽章。",
+    "name": "徽章 一之濑怜「时光静止的常夏」"
+  },
+  "toy-goods-buttonbadge_card-rei-05-trbl-00": {
+    "description": "这是一之濑怜的徽章。",
+    "name": "徽章 一之濑怜「丝带什么的太不知羞耻了！」"
+  },
+  "toy-goods-buttonbadge_card-rei-05-trbl-00-01": {
+    "description": "这是古手川唯的徽章。",
+    "name": "徽章 古手川唯「丝带什么的太不知羞耻了！」"
+  },
+  "toy-goods-buttonbadge_card-rei-05-wdnc-00": {
+    "description": "这是一之濑怜的徽章。",
+    "name": "徽章 一之濑怜「Calling My NAME!」"
+  },
+  "toy-goods-buttonbadge_card-rei-05-wedd-00": {
+    "description": "这是一之濑怜的徽章。",
+    "name": "徽章 一之濑怜「花香萦绕两人的未来」"
+  },
+  "toy-goods-buttonbadge_card-rio-05-birt-01": {
+    "description": "神崎莉央的徽章。",
+    "name": "徽章 神崎莉央「生日旅行・莉央」"
+  },
+  "toy-goods-buttonbadge_card-rio-05-birt-02": {
+    "description": "神崎莉央的徽章。",
+    "name": "徽章 神崎莉央「wonderful day for 莉央」"
+  },
+  "toy-goods-buttonbadge_card-rio-05-birt-03": {
+    "description": "神崎莉央的徽章。",
+    "name": "徽章 神崎莉央「dear precious 莉央」"
+  },
+  "toy-goods-buttonbadge_card-rio-05-casl-04": {
+    "description": "神崎莉央的徽章。",
+    "name": "徽章 神崎莉央「梦想未来的甜蜜假日」"
+  },
+  "toy-goods-buttonbadge_card-rio-05-fest-03": {
+    "description": "神崎莉央的徽章。",
+    "name": "徽章 神崎莉央「高举的热情之旗」"
+  },
+  "toy-goods-buttonbadge_card-rio-05-past-00": {
+    "description": "神崎莉央的徽章。",
+    "name": "徽章 神崎莉央「open two hearts」"
+  },
+  "toy-goods-buttonbadge_card-rio-05-trbl-00": {
+    "description": "神崎莉央的徽章。",
+    "name": "徽章 神崎莉央「圣夜的女王与公主」"
+  },
+  "toy-goods-buttonbadge_card-rio-05-trbl-00-01": {
+    "description": "拉拉的徽章。",
+    "name": "徽章 拉拉「圣夜的女王与公主」"
+  },
+  "toy-goods-buttonbadge_card-rui-05-birt-01": {
+    "description": "天动瑠依的徽章。",
+    "name": "徽章 天动瑠依「生日旅行・瑠依」"
+  },
+  "toy-goods-buttonbadge_card-rui-05-birt-02": {
+    "description": "天动瑠依的徽章。",
+    "name": "徽章 天动瑠依「wonderful day for 瑠依」"
+  },
+  "toy-goods-buttonbadge_card-rui-05-casl-04": {
+    "description": "天动瑠依的徽章。",
+    "name": "徽章 天动瑠依「实现憧憬的水之假日」"
+  },
+  "toy-goods-buttonbadge_card-rui-05-fest-03": {
+    "description": "天动瑠依的徽章。",
+    "name": "徽章 天动瑠依「跨越天际的感谢之情」"
+  },
+  "toy-goods-buttonbadge_card-rui-05-fest-04": {
+    "description": "天动瑠依的徽章。",
+    "name": "徽章 天动瑠依「真实的报恩」"
+  },
+  "toy-goods-buttonbadge_card-rui-05-newy-00": {
+    "description": "天动瑠依的徽章。",
+    "name": "徽章 天动瑠依「在阳光下起舞的春日狐狸」"
+  },
+  "toy-goods-buttonbadge_card-rui-05-sucu-00": {
+    "description": "天动瑠依的徽章。",
+    "name": "徽章 天动瑠依「夺心Midnight」"
+  },
+  "toy-goods-buttonbadge_card-rui-05-trbl-01": {
+    "description": "天动瑠依的徽章。",
+    "name": "徽章 天动瑠依「为了守护你与这座城市」"
+  },
+  "toy-goods-buttonbadge_card-rui-05-trbl-01-01": {
+    "description": "金色暗影的徽章。",
+    "name": "徽章 金色暗影「为了守护你与这座城市」"
+  },
+  "toy-goods-buttonbadge_card-ski-05-birt-01": {
+    "description": "白石沙季的徽章。",
+    "name": "徽章 白石沙季「生日旅行・沙季」"
+  },
+  "toy-goods-buttonbadge_card-ski-05-birt-02": {
+    "description": "白石沙季的徽章。",
+    "name": "徽章 白石沙季「wonderful day for 沙季」"
+  },
+  "toy-goods-buttonbadge_card-ski-05-fest-02": {
+    "description": "白石沙季的徽章。",
+    "name": "徽章 白石沙季「照亮道路的睿智之光」"
+  },
+  "toy-goods-buttonbadge_card-ski-05-link-00": {
+    "description": "白石沙季的徽章。",
+    "name": "徽章 白石沙季「春风传递的羁绊和声」"
+  },
+  "toy-goods-buttonbadge_card-ski-05-link-01": {
+    "description": "白石沙季的徽章。",
+    "name": "徽章 白石沙季「春风传递的羁绊和声」"
+  },
+  "toy-goods-buttonbadge_card-ski-05-miku-05": {
+    "description": "白石沙季的徽章。",
+    "name": "徽章 白石沙季「笑容绽放的白昼」"
+  },
+  "toy-goods-buttonbadge_card-skr-05-adlt-00": {
+    "description": "川咲樱的徽章。",
+    "name": "徽章 川咲樱「友人守望的成长之路」"
+  },
+  "toy-goods-buttonbadge_card-skr-05-birt-01": {
+    "description": "川咲樱的徽章。",
+    "name": "徽章 川咲樱「生日旅行・樱」"
+  },
+  "toy-goods-buttonbadge_card-skr-05-birt-02": {
+    "description": "川咲樱的徽章。",
+    "name": "徽章 川咲樱「wonderful day for 樱」"
+  },
+  "toy-goods-buttonbadge_card-skr-05-casl-04": {
+    "description": "川咲樱的徽章。",
+    "name": "徽章 川咲樱「实现梦想的笑容假日」"
+  },
+  "toy-goods-buttonbadge_card-skr-05-fest-03": {
+    "description": "川咲樱的徽章。",
+    "name": "徽章 川咲樱「心跳高鸣的Sunshine」"
+  },
+  "toy-goods-buttonbadge_card-skr-05-mizg-04": {
+    "description": "川咲樱的徽章。",
+    "name": "徽章 川咲樱「鱼鱼！夏日排球」"
+  },
+  "toy-goods-buttonbadge_card-skr-05-vlnt-00": {
+    "description": "川咲樱的徽章。",
+    "name": "徽章 川咲樱「摇曳于甜蜜悸动中的花」"
+  },
+  "toy-goods-buttonbadge_card-smr-05-birt-01": {
+    "description": "奥山堇的徽章。",
+    "name": "徽章 奥山堇「生日旅行・堇」"
+  },
+  "toy-goods-buttonbadge_card-smr-05-birt-02": {
+    "description": "奥山堇的徽章。",
+    "name": "徽章 奥山堇「wonderful day for 堇」"
+  },
+  "toy-goods-buttonbadge_card-smr-05-casl-04": {
+    "description": "奥山堇的徽章。",
+    "name": "徽章 奥山堇「回忆绽放的故乡假日」"
+  },
+  "toy-goods-buttonbadge_card-smr-05-fest-03": {
+    "description": "奥山堇的徽章。",
+    "name": "徽章 奥山堇「点缀银河的快乐微笑」"
+  },
+  "toy-goods-buttonbadge_card-smr-05-fest-04": {
+    "description": "奥山堇的徽章。",
+    "name": "徽章 奥山堇「比谁都闪耀的女主角」"
+  },
+  "toy-goods-buttonbadge_card-smr-05-jwel-00": {
+    "description": "奥山堇的徽章。",
+    "name": "徽章 奥山堇「挑战的祖母绿」"
+  },
+  "toy-goods-buttonbadge_card-smr-05-magi-00": {
+    "description": "奥山堇的徽章。",
+    "name": "徽章 奥山堇「心愿振翅高飞的魔法声援」"
+  },
+  "toy-goods-buttonbadge_card-smr-05-newy-00": {
+    "description": "奥山堇的徽章。",
+    "name": "徽章 奥山堇「小狐狸的倔强毅力」"
+  },
+  "toy-goods-buttonbadge_card-smr-05-nurs-00": {
+    "description": "奥山堇的徽章。",
+    "name": "徽章 奥山堇「床边天使」"
+  },
+  "toy-goods-buttonbadge_card-suz-05-alic-00": {
+    "description": "成宫铃的徽章。",
+    "name": "徽章 成宫铃「兔子引领的仙境」"
+  },
+  "toy-goods-buttonbadge_card-suz-05-birt-01": {
+    "description": "成宫铃的徽章。",
+    "name": "徽章 成宫铃「生日旅行・铃」"
+  },
+  "toy-goods-buttonbadge_card-suz-05-birt-02": {
+    "description": "成宫铃的徽章。",
+    "name": "徽章 成宫铃「wonderful day for 铃」"
+  },
+  "toy-goods-buttonbadge_card-suz-05-birt-03": {
+    "description": "成宫铃的徽章。",
+    "name": "徽章 成宫铃「dear precious 铃」"
+  },
+  "toy-goods-buttonbadge_card-suz-05-fest-02": {
+    "description": "成宫铃的徽章。",
+    "name": "徽章 成宫铃「我们的骄傲」"
+  },
+  "toy-goods-buttonbadge_card-suz-05-goch-00": {
+    "description": "成宫铃的徽章。",
+    "name": "徽章 成宫铃「摇响铃音的雪兔」"
+  },
+  "toy-goods-buttonbadge_card-suz-05-link-00": {
+    "description": "成宫铃的徽章。",
+    "name": "徽章 成宫铃「加深羁绊的欢乐时光」"
+  },
+  "toy-goods-buttonbadge_card-suz-05-link-01": {
+    "description": "成宫铃的徽章。",
+    "name": "徽章 成宫铃「加深羁绊的欢乐时光」"
+  },
+  "toy-goods-buttonbadge_card-suz-05-msic-00": {
+    "description": "成宫铃的徽章。",
+    "name": "徽章 成宫铃「星降之夜许下的梦」"
+  },
+  "toy-goods-buttonbadge_card-szk-05-alic-00": {
+    "description": "兵藤雫的徽章。",
+    "name": "徽章 兵藤雫「在大树上滚来滚去喵」"
+  },
+  "toy-goods-buttonbadge_card-szk-05-birt-01": {
+    "description": "兵藤雫的徽章。",
+    "name": "徽章 兵藤雫「生日旅行・雫」"
+  },
+  "toy-goods-buttonbadge_card-szk-05-birt-02": {
+    "description": "兵藤雫的徽章。",
+    "name": "徽章 兵藤雫「wonderful day for 雫」"
+  },
+  "toy-goods-buttonbadge_card-szk-05-casl-04": {
+    "description": "兵藤雫的徽章。",
+    "name": "徽章 兵藤雫「海风与回忆的假日」"
+  },
+  "toy-goods-buttonbadge_card-szk-05-goch-00": {
+    "description": "兵藤雫的徽章。",
+    "name": "徽章 兵藤雫「圣夜的毛茸茸派对」"
+  },
+  "toy-goods-buttonbadge_card-szk-05-link-00": {
+    "description": "兵藤雫的徽章。",
+    "name": "徽章 兵藤雫「两人的羁绊是宝物」"
+  },
+  "toy-goods-buttonbadge_card-szk-05-link-01": {
+    "description": "兵藤雫的徽章。",
+    "name": "徽章 兵藤雫「两人的羁绊是宝物」"
+  },
+  "toy-goods-buttonbadge_card-szk-05-mizg-03": {
+    "description": "兵藤雫的徽章。",
+    "name": "徽章 兵藤雫「摇摇晃晃的假期」"
+  },
+  "toy-goods-buttonbadge_card-szk-05-snro-00": {
+    "description": "兵藤雫的徽章。",
+    "name": "徽章 兵藤雫「杯中盛满幸福」"
+  },
+  "toy-goods-buttonbadge_card-yu-05-birt-01": {
+    "description": "铃村优的徽章。",
+    "name": "徽章 铃村优「生日旅行・优」"
+  },
+  "toy-goods-buttonbadge_card-yu-05-birt-02": {
+    "description": "铃村优的徽章。",
+    "name": "徽章 铃村优「wonderful day for 优」"
+  },
+  "toy-goods-buttonbadge_card-yu-05-casl-04": {
+    "description": "铃村优的徽章。",
+    "name": "徽章 铃村优「充满喜爱的圣地假日」"
+  },
+  "toy-goods-buttonbadge_card-yu-05-fest-04": {
+    "description": "铃村优的徽章。",
+    "name": "徽章 铃村优「飞向奇迹的纯白之翼」"
+  },
+  "toy-goods-buttonbadge_card-yu-05-jwel-00": {
+    "description": "铃村优的徽章。",
+    "name": "徽章 铃村优「笑容闪耀的紫水晶」"
+  },
+  "toy-goods-buttonbadge_card-yu-05-link-00": {
+    "description": "铃村优的徽章。",
+    "name": "徽章 铃村优「羁绊相连的两人未来」"
+  },
+  "toy-goods-buttonbadge_card-yu-05-link-01": {
+    "description": "铃村优的徽章。",
+    "name": "徽章 铃村优「羁绊相连的两人未来」"
+  },
+  "toy-goods-buttonbadge_card-yu-05-nurs-00": {
+    "description": "铃村优的徽章。",
+    "name": "徽章 铃村优「恶作剧天使」"
+  },
+  "toy-goods-buttonbadge_card-yu-05-ster-00": {
+    "description": "铃村优的徽章。",
+    "name": "徽章 铃村优「誓约的温暖」"
+  },
+  "toy-goods-buttonbadge_char-ai-01": {
+    "description": "小美山爱的徽章。",
+    "name": "徽章 小美山爱"
+  },
+  "toy-goods-buttonbadge_char-ai-02": {
+    "description": "小美山爱(Paradise)的徽章。",
+    "name": "徽章 小美山爱(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-ai-03": {
+    "description": "小美山爱(谢谢 to You)的徽章。",
+    "name": "徽章 小美山爱(谢谢 to You)"
+  },
+  "toy-goods-buttonbadge_char-ai-04": {
+    "description": "小美山爱(Happy Stars Forever!)的徽章。",
+    "name": "徽章 小美山爱(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-aoi-01": {
+    "description": "井川葵的徽章。",
+    "name": "徽章 井川葵"
+  },
+  "toy-goods-buttonbadge_char-aoi-02": {
+    "description": "井川葵(Paradise)的徽章。",
+    "name": "徽章 井川葵(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-aoi-03": {
+    "description": "井川葵(ありがとう to You)的徽章。",
+    "name": "徽章 井川葵(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-aoi-04": {
+    "description": "井川葵(Happy Stars Forever!)的徽章。",
+    "name": "徽章 井川葵(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-chs-01": {
+    "description": "白石千纱的徽章。",
+    "name": "徽章 白石千纱"
+  },
+  "toy-goods-buttonbadge_char-chs-02": {
+    "description": "白石千纱(Paradise)的徽章。",
+    "name": "徽章 白石千纱(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-chs-03": {
+    "description": "白石千纱(ありがとう to You)的徽章。",
+    "name": "徽章 白石千纱(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-chs-04": {
+    "description": "白石千纱(Happy Stars Forever!)的徽章。",
+    "name": "徽章 白石千纱(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-hrk-01": {
+    "description": "佐伯遥子的徽章。",
+    "name": "徽章 佐伯遥子"
+  },
+  "toy-goods-buttonbadge_char-hrk-02": {
+    "description": "佐伯遥子(Paradise)的徽章。",
+    "name": "徽章 佐伯遥子(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-hrk-03": {
+    "description": "佐伯遥子(ありがとう to You)的徽章。",
+    "name": "徽章 佐伯遥子(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-hrk-04": {
+    "description": "佐伯遥子(Happy Stars Forever!)的徽章。",
+    "name": "徽章 佐伯遥子(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-kan-01": {
+    "description": "kana的徽章。",
+    "name": "徽章 kana"
+  },
+  "toy-goods-buttonbadge_char-kan-02": {
+    "description": "kana(Paradise)的徽章。",
+    "name": "徽章 kana(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-kan-03": {
+    "description": "kana(ありがとう to You)的徽章。",
+    "name": "徽章 kana(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-kan-04": {
+    "description": "kana(Happy Stars Forever!)的徽章。",
+    "name": "徽章 kana(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-kkr-01": {
+    "description": "赤崎心的徽章。",
+    "name": "徽章 赤崎心"
+  },
+  "toy-goods-buttonbadge_char-kkr-02": {
+    "description": "赤崎心(Paradise)的徽章。",
+    "name": "徽章 赤崎心(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-kkr-03": {
+    "description": "赤崎心(ありがとう to You)的徽章。",
+    "name": "徽章 赤崎心(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-kkr-04": {
+    "description": "赤崎心(Happy Stars Forever!)的徽章。",
+    "name": "徽章 赤崎心(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-kor-01": {
+    "description": "fran的徽章。",
+    "name": "徽章 fran"
+  },
+  "toy-goods-buttonbadge_char-kor-02": {
+    "description": "fran(Paradise)的徽章。",
+    "name": "徽章 fran(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-kor-03": {
+    "description": "fran(ありがとう to You)的徽章。",
+    "name": "徽章 fran(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-kor-04": {
+    "description": "fran(Happy Stars Forever!)的徽章。",
+    "name": "徽章 fran(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-ktn-01": {
+    "description": "长濑琴乃的徽章。",
+    "name": "徽章 长濑琴乃"
+  },
+  "toy-goods-buttonbadge_char-ktn-02": {
+    "description": "长濑琴乃(Paradise)的徽章。",
+    "name": "徽章 长濑琴乃(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-ktn-03": {
+    "description": "长濑琴乃(ありがとう to You)的徽章。",
+    "name": "徽章 长濑琴乃(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-ktn-04": {
+    "description": "长濑琴乃(Happy Stars Forever!)的徽章。",
+    "name": "徽章 长濑琴乃(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-mei-01": {
+    "description": "早坂芽衣的徽章。",
+    "name": "徽章 早坂芽衣"
+  },
+  "toy-goods-buttonbadge_char-mei-02": {
+    "description": "早坂芽衣(Paradise)的徽章。",
+    "name": "徽章 早坂芽衣(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-mei-03": {
+    "description": "早坂芽衣(ありがとう to You)的徽章。",
+    "name": "徽章 早坂芽衣(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-mei-04": {
+    "description": "早坂芽衣(Happy Stars Forever!)的徽章。",
+    "name": "徽章 早坂芽衣(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-mhk-01": {
+    "description": "miho的徽章。",
+    "name": "徽章 miho"
+  },
+  "toy-goods-buttonbadge_char-mhk-02": {
+    "description": "miho(Paradise)的徽章。",
+    "name": "徽章 miho(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-mhk-03": {
+    "description": "miho(ありがとう to You)的徽章。",
+    "name": "徽章 miho(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-mhk-04": {
+    "description": "miho(Happy Stars Forever!)的徽章。",
+    "name": "徽章 miho(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-mna-01": {
+    "description": "长濑麻奈的徽章。",
+    "name": "徽章 长濑麻奈"
+  },
+  "toy-goods-buttonbadge_char-mna-02": {
+    "description": "长濑麻奈(Paradise)的徽章。",
+    "name": "徽章 长濑麻奈(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-mna-03": {
+    "description": "长濑麻奈(ありがとう to You)的徽章。",
+    "name": "徽章 长濑麻奈(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-mna-04": {
+    "description": "长濑麻奈(Happy Stars Forever!)的徽章。",
+    "name": "徽章 长濑麻奈(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-ngs-01": {
+    "description": "伊吹渚的徽章。",
+    "name": "徽章 伊吹渚"
+  },
+  "toy-goods-buttonbadge_char-ngs-02": {
+    "description": "伊吹渚(Paradise)的徽章。",
+    "name": "徽章 伊吹渚(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-ngs-03": {
+    "description": "伊吹渚(ありがとう to You)的徽章。",
+    "name": "徽章 伊吹渚(谢谢 to You)"
+  },
+  "toy-goods-buttonbadge_char-ngs-04": {
+    "description": "伊吹渚(Happy Stars Forever!)的徽章。",
+    "name": "徽章 伊吹渚(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-rei-01": {
+    "description": "这是一之濑怜的徽章。",
+    "name": "徽章 一之濑怜"
+  },
+  "toy-goods-buttonbadge_char-rei-02": {
+    "description": "一之濑怜(Paradise)的徽章。",
+    "name": "徽章 一之濑怜(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-rei-03": {
+    "description": "一之濑怜(谢谢 to You)的徽章。",
+    "name": "徽章 一之濑怜(谢谢 to You)"
+  },
+  "toy-goods-buttonbadge_char-rei-04": {
+    "description": "一之濑怜(Happy Stars Forever!)的徽章。",
+    "name": "徽章 一之濑怜(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-rio-01": {
+    "description": "神崎莉央的徽章。",
+    "name": "徽章 神崎莉央"
+  },
+  "toy-goods-buttonbadge_char-rio-02": {
+    "description": "神崎莉央(Paradise)的徽章。",
+    "name": "徽章 神崎莉央(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-rio-03": {
+    "description": "神崎莉央(ありがとう to You)的徽章。",
+    "name": "徽章 神崎莉央(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-rio-04": {
+    "description": "神崎莉央(Happy Stars Forever!)的徽章。",
+    "name": "徽章 神崎莉央(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-rui-01": {
+    "description": "天动瑠依的徽章。",
+    "name": "徽章 天动瑠依"
+  },
+  "toy-goods-buttonbadge_char-rui-02": {
+    "description": "天动瑠依(Paradise)的徽章。",
+    "name": "徽章 天动瑠依(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-rui-03": {
+    "description": "天动瑠依(ありがとう to You)的徽章。",
+    "name": "徽章 天动瑠依(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-rui-04": {
+    "description": "天动瑠依(Happy Stars Forever!)的徽章。",
+    "name": "徽章 天动瑠依(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-ski-01": {
+    "description": "白石沙季的徽章。",
+    "name": "徽章 白石沙季"
+  },
+  "toy-goods-buttonbadge_char-ski-02": {
+    "description": "白石沙季(Paradise)的徽章。",
+    "name": "徽章 白石沙季(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-ski-03": {
+    "description": "白石沙季(ありがとう to You)的徽章。",
+    "name": "徽章 白石沙季(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-ski-04": {
+    "description": "白石沙季(Happy Stars Forever!)的徽章。",
+    "name": "徽章 白石沙季(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-skr-01": {
+    "description": "川咲樱的徽章。",
+    "name": "徽章 川咲樱"
+  },
+  "toy-goods-buttonbadge_char-skr-02": {
+    "description": "川咲樱(Paradise)的徽章。",
+    "name": "徽章 川咲樱(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-skr-03": {
+    "description": "川咲樱(ありがとう to You)的徽章。",
+    "name": "徽章 川咲樱(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-skr-04": {
+    "description": "川咲樱(Happy Stars Forever!)的徽章。",
+    "name": "徽章 川咲樱(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-smr-01": {
+    "description": "奥山堇的徽章。",
+    "name": "徽章 奥山堇"
+  },
+  "toy-goods-buttonbadge_char-smr-02": {
+    "description": "奥山堇(Paradise)的徽章。",
+    "name": "徽章 奥山堇(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-smr-03": {
+    "description": "奥山堇(ありがとう to You)的徽章。",
+    "name": "徽章 奥山堇(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-smr-04": {
+    "description": "奥山堇(Happy Stars Forever!)的徽章。",
+    "name": "徽章 奥山堇(Happy Stars Forever!)"
+  },
+  "toy-goods-buttonbadge_char-suz-01": {
+    "description": "成宫铃的徽章。",
+    "name": "徽章 成宫铃"
+  },
+  "toy-goods-buttonbadge_char-suz-02": {
+    "description": "成宫铃(Paradise)的徽章。",
+    "name": "徽章 成宫铃(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-suz-03": {
+    "description": "成宫铃（ありがとう to You）的徽章。",
+    "name": "徽章 成宫铃（ありがとう to You）"
+  },
+  "toy-goods-buttonbadge_char-suz-04": {
+    "description": "成宫铃（Happy Stars Forever!）的徽章。",
+    "name": "徽章 成宫铃（Happy Stars Forever!）"
+  },
+  "toy-goods-buttonbadge_char-szk-01": {
+    "description": "兵藤雫的徽章。",
+    "name": "徽章 兵藤雫"
+  },
+  "toy-goods-buttonbadge_char-szk-02": {
+    "description": "兵藤雫（Paradise）的徽章。",
+    "name": "徽章 兵藤雫（Paradise）"
+  },
+  "toy-goods-buttonbadge_char-szk-03": {
+    "description": "兵藤雫（ありがとう to You）的徽章。",
+    "name": "徽章 兵藤雫（ありがとう to You）"
+  },
+  "toy-goods-buttonbadge_char-szk-04": {
+    "description": "兵藤雫（Happy Stars Forever!）的徽章。",
+    "name": "徽章 兵藤雫（Happy Stars Forever!）"
+  },
+  "toy-goods-buttonbadge_char-yu-01": {
+    "description": "铃村优的徽章。",
+    "name": "徽章 铃村优"
+  },
+  "toy-goods-buttonbadge_char-yu-02": {
+    "description": "铃村优(Paradise)的徽章。",
+    "name": "徽章 铃村优(Paradise)"
+  },
+  "toy-goods-buttonbadge_char-yu-03": {
+    "description": "铃村优(ありがとう to You)的徽章。",
+    "name": "徽章 铃村优(ありがとう to You)"
+  },
+  "toy-goods-buttonbadge_char-yu-04": {
+    "description": "铃村优(Happy Stars Forever!)的徽章。",
+    "name": "徽章 铃村优(Happy Stars Forever!)"
+  },
+  "toy-goods-chracrylicbord_card-ai-02-eve-02": {
+    "description": "小美山爱的卡牌立牌。",
+    "name": "卡牌立牌 小美山爱「大家一起巡回全国巡演！」"
+  },
+  "toy-goods-chracrylicbord_card-ai-05-arab-00": {
+    "description": "小美山爱的卡牌立牌。",
+    "name": "卡牌立牌 小美山爱「温泉绿洲」"
+  },
+  "toy-goods-chracrylicbord_card-ai-05-birt-01": {
+    "description": "小美山爱的卡牌立牌。",
+    "name": "卡牌立牌 小美山爱「生日旅行・爱」"
+  },
+  "toy-goods-chracrylicbord_card-ai-05-birt-02": {
+    "description": "小美山爱的卡牌立牌。",
+    "name": "卡牌立牌 小美山爱「wonderful day for 爱」"
+  },
+  "toy-goods-chracrylicbord_card-ai-05-casl-04": {
+    "description": "小美山爱的卡牌立牌。",
+    "name": "卡牌立牌 小美山爱「充满笑容的大自然假日」"
+  },
+  "toy-goods-chracrylicbord_card-ai-05-chna-01": {
+    "description": "小美山爱的卡牌立牌。",
+    "name": "卡牌立牌 小美山爱「桃园大决战」"
+  },
+  "toy-goods-chracrylicbord_card-ai-05-fest-03": {
+    "description": "小美山爱的卡牌立牌。",
+    "name": "卡牌立牌 小美山爱「打破极限的努力之拳」"
+  },
+  "toy-goods-chracrylicbord_card-ai-05-wedd-00": {
+    "description": "小美山爱的卡牌立牌。",
+    "name": "卡牌立牌 小美山爱「击碎困难的爱的誓言」"
+  },
+  "toy-goods-chracrylicbord_card-ai-05-yukt-00": {
+    "description": "小美山爱的卡牌立牌。",
+    "name": "卡牌立牌 小美山爱「夜空中绽放的夏之花」"
+  },
+  "toy-goods-chracrylicbord_card-aoi-05-arab-00": {
+    "description": "井川葵的卡牌立牌。",
+    "name": "卡牌立牌 井川葵「水舞祝祭」"
+  },
+  "toy-goods-chracrylicbord_card-aoi-05-birt-01": {
+    "description": "井川葵的卡牌立牌。",
+    "name": "卡牌立牌 井川葵「生日旅行・葵」"
+  },
+  "toy-goods-chracrylicbord_card-aoi-05-birt-02": {
+    "description": "井川葵的卡牌立牌。",
+    "name": "卡牌立牌 井川葵「wonderful day for 葵」"
+  },
+  "toy-goods-chracrylicbord_card-aoi-05-casl-04": {
+    "description": "井川葵的卡牌立牌。",
+    "name": "卡牌立牌 井川葵「与你溜出去的秘密假日」"
+  },
+  "toy-goods-chracrylicbord_card-aoi-05-fest-03": {
+    "description": "井川葵的卡牌立牌。",
+    "name": "卡牌立牌 井川葵「傲然绽放的高贵之刃」"
+  },
+  "toy-goods-chracrylicbord_card-aoi-05-past-00": {
+    "description": "井川葵的卡牌立牌。",
+    "name": "卡牌立牌 井川葵「secret my Lily」"
+  },
+  "toy-goods-chracrylicbord_card-aoi-05-wdnc-00": {
+    "description": "井川葵的卡牌立牌。",
+    "name": "卡牌立牌 井川葵「Break Out, Midnight!」"
+  },
+  "toy-goods-chracrylicbord_card-aoi-05-yukt-00": {
+    "description": "井川葵的卡牌立牌。",
+    "name": "卡牌立牌 井川葵「与你一同感受的蝉鸣」"
+  },
+  "toy-goods-chracrylicbord_card-cca-05-goch-00": {
+    "description": "心爱的卡牌立牌。",
+    "name": "卡牌立牌 心爱「两人的睡衣派对」"
+  },
+  "toy-goods-chracrylicbord_card-chn-05-goch-00": {
+    "description": "智乃的卡牌立牌。",
+    "name": "卡牌立牌 智乃「欢迎来到Rabbit House」"
+  },
+  "toy-goods-chracrylicbord_card-chs-02-eve-02": {
+    "description": "白石千纱的卡牌立牌。",
+    "name": "卡牌立牌 白石千纱「SUNNY PEACE的生存挑战！」"
+  },
+  "toy-goods-chracrylicbord_card-chs-05-alic-00": {
+    "description": "白石千纱的卡牌立牌。",
+    "name": "卡牌立牌 白石千纱「Alice in Monochrome」"
+  },
+  "toy-goods-chracrylicbord_card-chs-05-birt-01": {
+    "description": "白石千纱的卡牌立牌。",
+    "name": "卡牌立牌 白石千纱「生日旅行・千纱」"
+  },
+  "toy-goods-chracrylicbord_card-chs-05-birt-02": {
+    "description": "白石千纱的卡牌立牌。",
+    "name": "卡牌立牌 白石千纱「wonderful day for 千纱」"
+  },
+  "toy-goods-chracrylicbord_card-chs-05-casl-04": {
+    "description": "白石千纱的卡牌立牌。",
+    "name": "卡牌立牌 白石千纱「想特别美丽的假日」"
+  },
+  "toy-goods-chracrylicbord_card-chs-05-fest-00": {
+    "description": "白石千纱的卡牌立牌。",
+    "name": "卡牌立牌 白石千纱「与故乡的浪花交融」"
+  },
+  "toy-goods-chracrylicbord_card-chs-05-fest-03": {
+    "description": "白石千纱的卡牌立牌。",
+    "name": "卡牌立牌 白石千纱「交织彼此的憧憬时光」"
+  },
+  "toy-goods-chracrylicbord_card-chs-05-hruh-00": {
+    "description": "白石千纱的卡牌立牌。",
+    "name": "卡牌立牌 白石千纱「神秘之眼」"
+  },
+  "toy-goods-chracrylicbord_card-chs-05-maid-00": {
+    "description": "白石千纱的卡牌立牌。",
+    "name": "卡牌立牌 白石千纱「破壳而出的挑战者」"
+  },
+  "toy-goods-chracrylicbord_card-chs-05-mizg-04": {
+    "description": "白石千纱的卡牌立牌。",
+    "name": "卡牌立牌 白石千纱「常夏水光束」"
+  },
+  "toy-goods-chracrylicbord_card-hrk-05-adlt-00": {
+    "description": "佐伯遥子的卡牌立牌。",
+    "name": "卡牌立牌 佐伯遥子「beyond the goal」"
+  },
+  "toy-goods-chracrylicbord_card-hrk-05-birt-01": {
+    "description": "佐伯遥子的卡牌立牌。",
+    "name": "卡牌立牌 佐伯遥子「生日旅行・遥子」"
+  },
+  "toy-goods-chracrylicbord_card-hrk-05-birt-02": {
+    "description": "佐伯遥子的卡牌立牌。",
+    "name": "卡牌立牌 佐伯遥子「wonderful day for 遥子」"
+  },
+  "toy-goods-chracrylicbord_card-hrk-05-casl-04": {
+    "description": "佐伯遥子的卡牌立牌。",
+    "name": "卡牌立牌 佐伯遥子「隔着玻璃杯畅谈的假日」"
+  },
+  "toy-goods-chracrylicbord_card-hrk-05-link-00": {
+    "description": "佐伯遥子的卡牌立牌。",
+    "name": "卡牌立牌 佐伯遥子「羁绊指引的泪之航路」"
+  },
+  "toy-goods-chracrylicbord_card-hrk-05-link-01": {
+    "description": "佐伯遥子的卡牌立牌。",
+    "name": "卡牌立牌 佐伯遥子「羁绊指引的泪之航路」"
+  },
+  "toy-goods-chracrylicbord_card-hrk-05-mnab-00": {
+    "description": "佐伯遥子的卡牌立牌。",
+    "name": "卡牌立牌 佐伯遥子「在光之海中献上祝福」"
+  },
+  "toy-goods-chracrylicbord_card-hrk-05-vlnt-00": {
+    "description": "佐伯遥子的卡牌立牌。",
+    "name": "卡牌立牌 佐伯遥子「一点点爱的礼物」"
+  },
+  "toy-goods-chracrylicbord_card-hrk-05-wedd-00": {
+    "description": "佐伯遥子的卡牌立牌。",
+    "name": "卡牌立牌 佐伯遥子「藏在温暖中的真心话」"
+  },
+  "toy-goods-chracrylicbord_card-kan-02-eve-02": {
+    "description": "kana的卡牌立牌。",
+    "name": "卡牌立牌 kana「好想见你啊父亲」"
+  },
+  "toy-goods-chracrylicbord_card-kan-02-eve-03": {
+    "description": "kana的卡牌立牌。",
+    "name": "卡牌立牌 kana「隐藏在面具下的素颜」"
+  },
+  "toy-goods-chracrylicbord_card-kan-05-birt-01": {
+    "description": "kana的卡牌立牌。",
+    "name": "卡牌立牌 kana「生日旅行・kana」"
+  },
+  "toy-goods-chracrylicbord_card-kan-05-birt-02": {
+    "description": "kana的卡牌立牌。",
+    "name": "卡牌立牌 kana「wonderful day for kana」"
+  },
+  "toy-goods-chracrylicbord_card-kan-05-casl-04": {
+    "description": "kana的卡牌立牌。",
+    "name": "卡牌立牌 kana「摘下镜片的素颜假日」"
+  },
+  "toy-goods-chracrylicbord_card-kan-05-chia-00": {
+    "description": "kana的卡牌立牌。",
+    "name": "卡牌立牌 kana「sniping smash!!!!」"
+  },
+  "toy-goods-chracrylicbord_card-kan-05-fest-02": {
+    "description": "kana的卡牌立牌。",
+    "name": "卡牌立牌 kana「a new dawn」"
+  },
+  "toy-goods-chracrylicbord_card-kan-05-link-00": {
+    "description": "kana的卡牌立牌。",
+    "name": "卡牌立牌 kana「孕育羁绊的天使与恶魔」"
+  },
+  "toy-goods-chracrylicbord_card-kan-05-link-01": {
+    "description": "kana的卡牌立牌。",
+    "name": "卡牌立牌 kana「孕育羁绊的天使与恶魔」"
+  },
+  "toy-goods-chracrylicbord_card-kan-05-mizg-02": {
+    "description": "kana的卡牌立牌。",
+    "name": "卡牌立牌 kana「泡泡映出的七彩的你」"
+  },
+  "toy-goods-chracrylicbord_card-kan-05-pair-00": {
+    "description": "kana的卡牌立牌。",
+    "name": "卡牌立牌 kana「实现欲望的天使嬉戏」"
+  },
+  "toy-goods-chracrylicbord_card-kan-05-snro-00": {
+    "description": "kana的卡牌立牌。",
+    "name": "卡牌立牌 kana「实现愿望的少女的一步」"
+  },
+  "toy-goods-chracrylicbord_card-kkr-02-eve-01": {
+    "description": "赤崎心的卡牌立牌。",
+    "name": "卡牌立牌 赤崎心「抓住心的海外巡演」"
+  },
+  "toy-goods-chracrylicbord_card-kkr-02-goch-00": {
+    "description": "赤崎心的卡牌立牌。",
+    "name": "卡牌立牌 赤崎心「招牌女孩是心吗？」"
+  },
+  "toy-goods-chracrylicbord_card-kkr-05-birt-01": {
+    "description": "赤崎心的卡牌立牌。",
+    "name": "卡牌立牌 赤崎心「生日旅行・心」"
+  },
+  "toy-goods-chracrylicbord_card-kkr-05-birt-02": {
+    "description": "赤崎心的卡牌立牌。",
+    "name": "卡牌立牌 赤崎心「wonderful day for 心」"
+  },
+  "toy-goods-chracrylicbord_card-kkr-05-casl-04": {
+    "description": "赤崎心的卡牌立牌。",
+    "name": "卡牌立牌 赤崎心「重要的伞与雨后的假日」"
+  },
+  "toy-goods-chracrylicbord_card-kkr-05-fest-03": {
+    "description": "赤崎心的卡牌立牌。",
+    "name": "卡牌立牌 赤崎心「击穿心灵的无敌笑容」"
+  },
+  "toy-goods-chracrylicbord_card-kkr-05-flow-00": {
+    "description": "赤崎心的卡牌立牌。",
+    "name": "卡牌立牌 赤崎心「lonely rainy day」"
+  },
+  "toy-goods-chracrylicbord_card-kkr-05-link-00": {
+    "description": "赤崎心的卡牌立牌。",
+    "name": "卡牌立牌 赤崎心「羁绊绽放的盛夏黑百合」"
+  },
+  "toy-goods-chracrylicbord_card-kkr-05-link-01": {
+    "description": "赤崎心的卡牌立牌。",
+    "name": "卡牌立牌 赤崎心「羁绊绽放的盛夏黑百合」"
+  },
+  "toy-goods-chracrylicbord_card-kkr-05-pair-00": {
+    "description": "赤崎心的卡牌立牌。",
+    "name": "卡牌立牌 赤崎心「掩饰伤心的恶魔虚张声势」"
+  },
+  "toy-goods-chracrylicbord_card-kkr-05-snro-00": {
+    "description": "赤崎心的卡牌立牌。",
+    "name": "卡牌立牌 赤崎心「响彻心扉的美妙旋律」"
+  },
+  "toy-goods-chracrylicbord_card-kkr-05-trbl-00": {
+    "description": "赤崎心的卡牌立牌。",
+    "name": "卡牌立牌 赤崎心「爱恶作剧的圣诞老人」"
+  },
+  "toy-goods-chracrylicbord_card-kor-02-eve-00": {
+    "description": "fran的卡牌立牌。",
+    "name": "卡牌立牌 fran「梦幻乐园」"
+  },
+  "toy-goods-chracrylicbord_card-kor-02-eve-01": {
+    "description": "fran的卡牌立牌。",
+    "name": "卡牌立牌 fran「为未来全押」"
+  },
+  "toy-goods-chracrylicbord_card-kor-05-birt-01": {
+    "description": "fran的卡牌立牌。",
+    "name": "卡牌立牌 fran「生日旅行・fran」"
+  },
+  "toy-goods-chracrylicbord_card-kor-05-birt-02": {
+    "description": "fran的卡牌立牌。",
+    "name": "卡牌立牌 fran「wonderful day for fran」"
+  },
+  "toy-goods-chracrylicbord_card-kor-05-casl-04": {
+    "description": "fran的卡牌立牌。",
+    "name": "卡牌立牌 fran「一流打造的巴黎假日」"
+  },
+  "toy-goods-chracrylicbord_card-kor-05-fest-02": {
+    "description": "fran的卡牌立牌。",
+    "name": "卡牌立牌 fran「the brand is me」"
+  },
+  "toy-goods-chracrylicbord_card-kor-05-mizg-02": {
+    "description": "fran的卡牌立牌。",
+    "name": "卡牌立牌 fran「闷闷不乐的夜间维纳斯」"
+  },
+  "toy-goods-chracrylicbord_card-kor-05-newy-00": {
+    "description": "fran的卡牌立牌。",
+    "name": "卡牌立牌 fran「夜樱马斯肯瓦尔」"
+  },
+  "toy-goods-chracrylicbord_card-kor-05-nurs-00": {
+    "description": "fran的卡牌立牌。",
+    "name": "卡牌立牌 fran「怪演暗黑天使」"
+  },
+  "toy-goods-chracrylicbord_card-ktn-02-eve-03": {
+    "description": "长濑琴乃的卡牌立牌。",
+    "name": "卡牌立牌 长濑琴乃「月与太阳」"
+  },
+  "toy-goods-chracrylicbord_card-ktn-02-miku-05": {
+    "description": "长濑琴乃的卡牌立牌。",
+    "name": "卡牌立牌 长濑琴乃「六个人的话哪里都能去！」"
+  },
+  "toy-goods-chracrylicbord_card-ktn-05-birt-01": {
+    "description": "长濑琴乃的卡牌立牌。",
+    "name": "卡牌立牌 长濑琴乃「生日旅行・琴乃」"
+  },
+  "toy-goods-chracrylicbord_card-ktn-05-birt-02": {
+    "description": "长濑琴乃的卡牌立牌。",
+    "name": "卡牌立牌 长濑琴乃「wonderful day for 琴乃」"
+  },
+  "toy-goods-chracrylicbord_card-ktn-05-fest-02": {
+    "description": "长濑琴乃的卡牌立牌。",
+    "name": "卡牌立牌 长濑琴乃「我们的未来」"
+  },
+  "toy-goods-chracrylicbord_card-ktn-05-mizg-03": {
+    "description": "长濑琴乃的卡牌立牌。",
+    "name": "卡牌立牌 长濑琴乃「摘星的指尖」"
+  },
+  "toy-goods-chracrylicbord_card-ktn-05-mnab-00": {
+    "description": "长濑琴乃的卡牌立牌。",
+    "name": "卡牌立牌 长濑琴乃「present for my sister」"
+  },
+  "toy-goods-chracrylicbord_card-ktn-05-msic-00": {
+    "description": "长濑琴乃的卡牌立牌。",
+    "name": "卡牌立牌 长濑琴乃「my best answer」"
+  },
+  "toy-goods-chracrylicbord_card-ktn-05-poli-00": {
+    "description": "长濑琴乃的卡牌立牌。",
+    "name": "卡牌立牌 长濑琴乃「不灭的正义之焰」"
+  },
+  "toy-goods-chracrylicbord_card-ktn-05-yukt-00": {
+    "description": "长濑琴乃的卡牌立牌。",
+    "name": "卡牌立牌 长濑琴乃「夏日晴空与甜蜜奖励」"
+  },
+  "toy-goods-chracrylicbord_card-mei-02-eve-02": {
+    "description": "早坂芽衣的卡牌立牌。",
+    "name": "卡牌立牌 早坂芽衣「形影不离Twins！」"
+  },
+  "toy-goods-chracrylicbord_card-mei-05-birt-01": {
+    "description": "早坂芽衣的卡牌立牌。",
+    "name": "卡牌立牌 早坂芽衣「生日旅行・芽衣」"
+  },
+  "toy-goods-chracrylicbord_card-mei-05-birt-02": {
+    "description": "早坂芽衣的卡牌立牌。",
+    "name": "卡牌立牌 早坂芽衣「wonderful day for 芽衣」"
+  },
+  "toy-goods-chracrylicbord_card-mei-05-birt-03": {
+    "description": "早坂芽衣的卡牌立牌。",
+    "name": "卡牌立牌 早坂芽衣「dear precious 芽衣」"
+  },
+  "toy-goods-chracrylicbord_card-mei-05-fest-02": {
+    "description": "早坂芽衣的卡牌立牌。",
+    "name": "卡牌立牌 早坂芽衣「闪耀光芒的全新誓言」"
+  },
+  "toy-goods-chracrylicbord_card-mei-05-hruh-00": {
+    "description": "早坂芽衣的卡牌立牌。",
+    "name": "卡牌立牌 早坂芽衣「早坂芽衣的分裂」"
+  },
+  "toy-goods-chracrylicbord_card-mei-05-miku-05": {
+    "description": "早坂芽衣的卡牌立牌。",
+    "name": "卡牌立牌 早坂芽衣「常夏的强力月亮」"
+  },
+  "toy-goods-chracrylicbord_card-mei-05-vlnt-00": {
+    "description": "早坂芽衣的卡牌立牌。",
+    "name": "卡牌立牌 早坂芽衣「本命meet up」"
+  },
+  "toy-goods-chracrylicbord_card-mei-05-wdnc-00": {
+    "description": "早坂芽衣的卡牌立牌。",
+    "name": "卡牌立牌 早坂芽衣「Underground Queen」"
+  },
+  "toy-goods-chracrylicbord_card-mhk-05-birt-01": {
+    "description": "miho的卡牌立牌。",
+    "name": "卡牌立牌 miho「生日旅行・miho」"
+  },
+  "toy-goods-chracrylicbord_card-mhk-05-birt-02": {
+    "description": "miho的卡牌立牌。",
+    "name": "卡牌立牌 miho「wonderful day for miho」"
+  },
+  "toy-goods-chracrylicbord_card-mhk-05-casl-04": {
+    "description": "miho的卡牌立牌。",
+    "name": "卡牌立牌 miho「最美好的异国假日」"
+  },
+  "toy-goods-chracrylicbord_card-mhk-05-chna-00": {
+    "description": "miho的卡牌立牌。",
+    "name": "卡牌立牌 miho「紫扇飞舞之夜」"
+  },
+  "toy-goods-chracrylicbord_card-mhk-05-circ-00": {
+    "description": "miho的卡牌立牌。",
+    "name": "卡牌立牌 miho「马赫之轮」"
+  },
+  "toy-goods-chracrylicbord_card-mhk-05-fest-02": {
+    "description": "miho的卡牌立牌。",
+    "name": "卡牌立牌 miho「road with friends」"
+  },
+  "toy-goods-chracrylicbord_card-mhk-05-newy-00": {
+    "description": "miho的卡牌立牌。",
+    "name": "卡牌立牌 miho「映在杯中的雪景」"
+  },
+  "toy-goods-chracrylicbord_card-mhk-05-pajm-00": {
+    "description": "miho的卡牌立牌。",
+    "name": "卡牌立牌 miho「回忆总是留在黑发中」"
+  },
+  "toy-goods-chracrylicbord_card-mku-05-miku-05": {
+    "description": "初音未来的卡牌立牌。",
+    "name": "卡牌立牌 初音未来「未来爽快暑假」"
+  },
+  "toy-goods-chracrylicbord_card-mku-05-miku-06": {
+    "description": "初音未来的卡牌立牌。",
+    "name": "卡牌立牌 初音未来「响彻夜空的未来之音」"
+  },
+  "toy-goods-chracrylicbord_card-mna-02-eve-02": {
+    "description": "长濑麻奈的卡牌立牌。",
+    "name": "卡牌立牌 长濑麻奈「与你共度的海洋乐园」"
+  },
+  "toy-goods-chracrylicbord_card-mna-02-eve-03": {
+    "description": "长濑麻奈的卡牌立牌。",
+    "name": "卡牌立牌 长濑麻奈「成对的回忆」"
+  },
+  "toy-goods-chracrylicbord_card-mna-05-birt-01": {
+    "description": "长濑麻奈的卡牌立牌。",
+    "name": "卡牌立牌 长濑麻奈「光辉相连的生日」"
+  },
+  "toy-goods-chracrylicbord_card-mna-05-birt-02": {
+    "description": "长濑麻奈的卡牌立牌。",
+    "name": "卡牌立牌 长濑麻奈「昔日幸福的生日」"
+  },
+  "toy-goods-chracrylicbord_card-mna-05-link-00": {
+    "description": "长濑麻奈的卡牌立牌。",
+    "name": "卡牌立牌 长濑麻奈「羁绊相连的姐妹奇迹」"
+  },
+  "toy-goods-chracrylicbord_card-mna-05-link-01": {
+    "description": "长濑麻奈的卡牌立牌。",
+    "name": "卡牌立牌 长濑麻奈「羁绊相连的姐妹奇迹」"
+  },
+  "toy-goods-chracrylicbord_card-mna-05-mizg-01": {
+    "description": "长濑麻奈的卡牌立牌。",
+    "name": "卡牌立牌 长濑麻奈「回首的夏日色彩」"
+  },
+  "toy-goods-chracrylicbord_card-mna-05-msic-00": {
+    "description": "长濑麻奈的卡牌立牌。",
+    "name": "卡牌立牌 长濑麻奈「通往未来的五线谱」"
+  },
+  "toy-goods-chracrylicbord_card-mna-05-snro-00": {
+    "description": "长濑麻奈的卡牌立牌。",
+    "name": "卡牌立牌 长濑麻奈「手牵手的奇迹共演」"
+  },
+  "toy-goods-chracrylicbord_card-ngs-02-eve-02": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡牌立牌 伊吹渚「夹缝中摇摆的恋心」"
+  },
+  "toy-goods-chracrylicbord_card-ngs-02-eve-03": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡牌立牌 伊吹渚「为了能坚强而温柔地照亮他人」"
+  },
+  "toy-goods-chracrylicbord_card-ngs-05-birt-01": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡牌立牌 伊吹渚「生日旅行・渚」"
+  },
+  "toy-goods-chracrylicbord_card-ngs-05-birt-02": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡牌立牌 伊吹渚「wonderful day for 渚」"
+  },
+  "toy-goods-chracrylicbord_card-ngs-05-birt-03": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡牌立牌 伊吹渚「dear precious 渚」"
+  },
+  "toy-goods-chracrylicbord_card-ngs-05-fest-02": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡牌立牌 伊吹渚「照亮友人的光」"
+  },
+  "toy-goods-chracrylicbord_card-ngs-05-frut-00": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡牌立牌 伊吹渚「桃色庆典」"
+  },
+  "toy-goods-chracrylicbord_card-ngs-05-link-00": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡牌立牌 伊吹渚「两人的羁绊照亮的此刻」"
+  },
+  "toy-goods-chracrylicbord_card-ngs-05-link-01": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡牌立牌 伊吹渚「两人的羁绊照亮的此刻」"
+  },
+  "toy-goods-chracrylicbord_card-ngs-05-maid-01": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡牌立牌 伊吹渚「两人的萌萌啾！」"
+  },
+  "toy-goods-chracrylicbord_card-ngs-05-vlnt-00": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡牌立牌 伊吹渚「引领气息的甜蜜瞬间」"
+  },
+  "toy-goods-chracrylicbord_card-ngs-05-wedd-00": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡牌立牌 伊吹渚「响彻天空的祝福之钟」"
+  },
+  "toy-goods-chracrylicbord_card-rei-02-eve-02": {
+    "description": "这是一之濑怜的卡牌立牌。",
+    "name": "卡牌立牌 一之濑怜「透过镜头传递的心意」"
+  },
+  "toy-goods-chracrylicbord_card-rei-05-birt-01": {
+    "description": "这是一之濑怜的卡牌立牌。",
+    "name": "卡牌立牌 一之濑怜「生日旅行・怜」"
+  },
+  "toy-goods-chracrylicbord_card-rei-05-birt-02": {
+    "description": "这是一之濑怜的卡牌立牌。",
+    "name": "卡牌立牌 一之濑怜「wonderful day for 怜」"
+  },
+  "toy-goods-chracrylicbord_card-rei-05-casl-04": {
+    "description": "这是一之濑怜的卡牌立牌。",
+    "name": "卡牌立牌 一之濑怜「在身旁闪耀的特等席假日」"
+  },
+  "toy-goods-chracrylicbord_card-rei-05-fest-01": {
+    "description": "这是一之濑怜的卡牌立牌。",
+    "name": "卡牌立牌 一之濑怜「在故乡的海边绽放」"
+  },
+  "toy-goods-chracrylicbord_card-rei-05-hruh-00": {
+    "description": "这是一之濑怜的卡牌立牌。",
+    "name": "卡牌立牌 一之濑怜「三花猫狂想曲」"
+  },
+  "toy-goods-chracrylicbord_card-rei-05-mizg-03": {
+    "description": "这是一之濑怜的卡牌立牌。",
+    "name": "卡牌立牌 一之濑怜「时光静止的常夏」"
+  },
+  "toy-goods-chracrylicbord_card-rei-05-sail-00": {
+    "description": "这是一之濑怜的卡牌立牌。",
+    "name": "卡牌立牌 一之濑怜「阳光照耀下你的发色」"
+  },
+  "toy-goods-chracrylicbord_card-rei-05-trbl-00": {
+    "description": "这是一之濑怜的卡牌立牌。",
+    "name": "卡牌立牌 一之濑怜「丝带什么的太不知羞耻了！」"
+  },
+  "toy-goods-chracrylicbord_card-rei-05-wdnc-00": {
+    "description": "这是一之濑怜的卡牌立牌。",
+    "name": "卡牌立牌 一之濑怜「Calling My NAME!」"
+  },
+  "toy-goods-chracrylicbord_card-rei-05-wedd-00": {
+    "description": "这是一之濑怜的卡牌立牌。",
+    "name": "卡牌立牌 一之濑怜「花香萦绕两人的未来」"
+  },
+  "toy-goods-chracrylicbord_card-rio-05-birt-01": {
+    "description": "神崎莉央的卡牌立牌。",
+    "name": "卡牌立牌 神崎莉央「生日旅行・莉央」"
+  },
+  "toy-goods-chracrylicbord_card-rio-05-birt-02": {
+    "description": "神崎莉央的卡牌立牌。",
+    "name": "卡牌立牌 神崎莉央「wonderful day for 莉央」"
+  },
+  "toy-goods-chracrylicbord_card-rio-05-birt-03": {
+    "description": "神崎莉央的卡牌立牌。",
+    "name": "卡牌立牌 神崎莉央「dear precious 莉央」"
+  },
+  "toy-goods-chracrylicbord_card-rio-05-casl-02": {
+    "description": "神崎莉央的卡牌立牌。",
+    "name": "卡牌立牌 神崎莉央「如果在职场上谈恋爱的话」"
+  },
+  "toy-goods-chracrylicbord_card-rio-05-casl-04": {
+    "description": "神崎莉央的卡牌立牌。",
+    "name": "卡牌立牌 神崎莉央「梦想未来的甜蜜假日」"
+  },
+  "toy-goods-chracrylicbord_card-rio-05-fest-03": {
+    "description": "神崎莉央的卡牌立牌。",
+    "name": "卡牌立牌 神崎莉央「高举的热情之旗」"
+  },
+  "toy-goods-chracrylicbord_card-rio-05-pajm-00": {
+    "description": "神崎莉央的卡牌立牌。",
+    "name": "卡牌立牌 神崎莉央「将心动心情凝于指尖」"
+  },
+  "toy-goods-chracrylicbord_card-rio-05-past-00": {
+    "description": "神崎莉央的卡牌立牌。",
+    "name": "卡牌立牌 神崎莉央「open two hearts」"
+  },
+  "toy-goods-chracrylicbord_card-rio-05-trbl-00": {
+    "description": "神崎莉央的卡牌立牌。",
+    "name": "卡牌立牌 神崎莉央「圣夜的女王与公主」"
+  },
+  "toy-goods-chracrylicbord_card-rui-02-eve-03": {
+    "description": "天动瑠依的卡牌立牌。",
+    "name": "卡牌立牌 天动瑠依「天使们的晴舞台」"
+  },
+  "toy-goods-chracrylicbord_card-rui-02-eve-04": {
+    "description": "天动瑠依的卡牌立牌。",
+    "name": "卡牌立牌 天动瑠依「在学园祭上演音乐剧！」"
+  },
+  "toy-goods-chracrylicbord_card-rui-02-eve-05": {
+    "description": "天动瑠依的卡牌立牌。",
+    "name": "卡牌立牌 天动瑠依「友好共演时间！」"
+  },
+  "toy-goods-chracrylicbord_card-rui-05-birt-01": {
+    "description": "天动瑠依的卡牌立牌。",
+    "name": "卡牌立牌 天动瑠依「生日旅行・瑠依」"
+  },
+  "toy-goods-chracrylicbord_card-rui-05-birt-02": {
+    "description": "天动瑠依的卡牌立牌。",
+    "name": "卡牌立牌 天动瑠依「wonderful day for 瑠依」"
+  },
+  "toy-goods-chracrylicbord_card-rui-05-casl-04": {
+    "description": "天动瑠依的卡牌立牌。",
+    "name": "卡牌立牌 天动瑠依「实现憧憬的水之假日」"
+  },
+  "toy-goods-chracrylicbord_card-rui-05-fest-03": {
+    "description": "天动瑠依的卡牌立牌。",
+    "name": "卡牌立牌 天动瑠依「跨越天际的感谢之情」"
+  },
+  "toy-goods-chracrylicbord_card-rui-05-fest-04": {
+    "description": "天动瑠依的卡牌立牌。",
+    "name": "卡牌立牌 天动瑠依「真实的报恩」"
+  },
+  "toy-goods-chracrylicbord_card-rui-05-newy-00": {
+    "description": "天动瑠依的卡牌立牌。",
+    "name": "卡牌立牌 天动瑠依「在阳光下起舞的春日狐狸」"
+  },
+  "toy-goods-chracrylicbord_card-rui-05-sucu-00": {
+    "description": "天动瑠依的卡牌立牌。",
+    "name": "卡牌立牌 天动瑠依「夺心Midnight」"
+  },
+  "toy-goods-chracrylicbord_card-rui-05-trbl-01": {
+    "description": "天动瑠依的卡牌立牌。",
+    "name": "卡牌立牌 天动瑠依「为了守护你与这座城市」"
+  },
+  "toy-goods-chracrylicbord_card-rui-05-yukt-00": {
+    "description": "天动瑠依的卡牌立牌。",
+    "name": "卡牌立牌 天动瑠依「藏起热情的清凉音色」"
+  },
+  "toy-goods-chracrylicbord_card-ski-02-eve-01": {
+    "description": "白石沙季的卡牌立牌。",
+    "name": "卡牌立牌 白石沙季「与偶像共演的Live」"
+  },
+  "toy-goods-chracrylicbord_card-ski-02-eve-02": {
+    "description": "白石沙季的卡牌立牌。",
+    "name": "卡牌立牌 白石沙季「潜入！偶像地下竞技场」"
+  },
+  "toy-goods-chracrylicbord_card-ski-05-birt-01": {
+    "description": "白石沙季的卡牌立牌。",
+    "name": "卡牌立牌 白石沙季「生日旅行・沙季」"
+  },
+  "toy-goods-chracrylicbord_card-ski-05-birt-02": {
+    "description": "白石沙季的卡牌立牌。",
+    "name": "卡牌立牌 白石沙季「wonderful day for 沙季」"
+  },
+  "toy-goods-chracrylicbord_card-ski-05-fest-02": {
+    "description": "白石沙季的卡牌立牌。",
+    "name": "卡牌立牌 白石沙季「照亮道路的睿智之光」"
+  },
+  "toy-goods-chracrylicbord_card-ski-05-link-00": {
+    "description": "白石沙季的卡牌立牌。",
+    "name": "卡牌立牌 白石沙季「春风传递的羁绊和声」"
+  },
+  "toy-goods-chracrylicbord_card-ski-05-link-01": {
+    "description": "白石沙季的卡牌立牌。",
+    "name": "卡牌立牌 白石沙季「春风传递的羁绊和声」"
+  },
+  "toy-goods-chracrylicbord_card-ski-05-miku-05": {
+    "description": "白石沙季的卡牌立牌。",
+    "name": "卡牌立牌 白石沙季「笑容绽放的白昼」"
+  },
+  "toy-goods-chracrylicbord_card-ski-05-onep-00": {
+    "description": "白石沙季的卡牌立牌。",
+    "name": "卡牌立牌 白石沙季「染上唐红的双颊」"
+  },
+  "toy-goods-chracrylicbord_card-ski-05-ster-00": {
+    "description": "白石沙季的卡牌立牌。",
+    "name": "卡牌立牌 白石沙季「静寂的祈祷者」"
+  },
+  "toy-goods-chracrylicbord_card-skr-02-eve-03": {
+    "description": "这是川咲樱的卡牌立牌。",
+    "name": "卡牌立牌 川咲樱「“剧团★见”首次公演！」"
+  },
+  "toy-goods-chracrylicbord_card-skr-05-adlt-00": {
+    "description": "这是川咲樱的卡牌立牌。",
+    "name": "卡牌立牌 川咲樱「友人守望的成长之路」"
+  },
+  "toy-goods-chracrylicbord_card-skr-05-anml-00": {
+    "description": "这是川咲樱的卡牌立牌。",
+    "name": "卡牌立牌 川咲樱「大口吃甜点熊」"
+  },
+  "toy-goods-chracrylicbord_card-skr-05-birt-01": {
+    "description": "这是川咲樱的卡牌立牌。",
+    "name": "卡牌立牌 川咲樱「生日旅行・樱」"
+  },
+  "toy-goods-chracrylicbord_card-skr-05-birt-02": {
+    "description": "这是川咲樱的卡牌立牌。",
+    "name": "卡牌立牌 川咲樱「wonderful day for 樱」"
+  },
+  "toy-goods-chracrylicbord_card-skr-05-casl-04": {
+    "description": "这是川咲樱的卡牌立牌。",
+    "name": "卡牌立牌 川咲樱「实现梦想的笑容假日」"
+  },
+  "toy-goods-chracrylicbord_card-skr-05-fest-03": {
+    "description": "这是川咲樱的卡牌立牌。",
+    "name": "卡牌立牌 川咲樱「心跳高鸣的Sunshine」"
+  },
+  "toy-goods-chracrylicbord_card-skr-05-mizg-04": {
+    "description": "这是川咲樱的卡牌立牌。",
+    "name": "卡牌立牌 川咲樱「鱼鱼！夏日排球」"
+  },
+  "toy-goods-chracrylicbord_card-skr-05-vlnt-00": {
+    "description": "这是川咲樱的卡牌立牌。",
+    "name": "卡牌立牌 川咲樱「摇曳于甜蜜悸动中的花」"
+  },
+  "toy-goods-chracrylicbord_card-smr-02-trbl-00": {
+    "description": "奥山堇的卡牌立牌。",
+    "name": "卡牌立牌 奥山堇「宇宙第一的圣诞演唱会」"
+  },
+  "toy-goods-chracrylicbord_card-smr-05-birt-01": {
+    "description": "奥山堇的卡牌立牌。",
+    "name": "卡牌立牌 奥山堇「生日旅行・堇」"
+  },
+  "toy-goods-chracrylicbord_card-smr-05-birt-02": {
+    "description": "奥山堇的卡牌立牌。",
+    "name": "卡牌立牌 奥山堇「wonderful day for 堇」"
+  },
+  "toy-goods-chracrylicbord_card-smr-05-casl-04": {
+    "description": "奥山堇的卡牌立牌。",
+    "name": "卡牌立牌 奥山堇「回忆绽放的故乡假日」"
+  },
+  "toy-goods-chracrylicbord_card-smr-05-fest-03": {
+    "description": "奥山堇的卡牌立牌。",
+    "name": "卡牌立牌 奥山堇「点缀银河的快乐微笑」"
+  },
+  "toy-goods-chracrylicbord_card-smr-05-fest-04": {
+    "description": "奥山堇的卡牌立牌。",
+    "name": "卡牌立牌 奥山堇「比谁都闪耀的女主角」"
+  },
+  "toy-goods-chracrylicbord_card-smr-05-jwel-00": {
+    "description": "奥山堇的卡牌立牌。",
+    "name": "卡牌立牌 奥山堇「挑战的祖母绿」"
+  },
+  "toy-goods-chracrylicbord_card-smr-05-magi-00": {
+    "description": "奥山堇的卡牌立牌。",
+    "name": "卡牌立牌 奥山堇「心愿振翅高飞的魔法声援」"
+  },
+  "toy-goods-chracrylicbord_card-smr-05-newy-00": {
+    "description": "奥山堇的卡牌立牌。",
+    "name": "卡牌立牌 奥山堇「小狐狸的倔强毅力」"
+  },
+  "toy-goods-chracrylicbord_card-smr-05-nurs-00": {
+    "description": "奥山堇的卡牌立牌。",
+    "name": "卡牌立牌 奥山堇「床边天使」"
+  },
+  "toy-goods-chracrylicbord_card-smr-05-seik-00": {
+    "description": "奥山堇的卡牌立牌。",
+    "name": "卡牌立牌 奥山堇「keys of memory」"
+  },
+  "toy-goods-chracrylicbord_card-suz-05-alic-00": {
+    "description": "成宫铃的卡牌立架。",
+    "name": "卡牌立架 成宫铃「兔子引领的仙境」"
+  },
+  "toy-goods-chracrylicbord_card-suz-05-birt-01": {
+    "description": "成宫铃的卡牌立架。",
+    "name": "卡牌立架 成宫铃「生日旅行・铃」"
+  },
+  "toy-goods-chracrylicbord_card-suz-05-birt-02": {
+    "description": "成宫铃的卡牌立架。",
+    "name": "卡牌立架 成宫铃「wonderful day for 铃」"
+  },
+  "toy-goods-chracrylicbord_card-suz-05-birt-03": {
+    "description": "成宫铃的卡牌立架。",
+    "name": "卡牌立架 成宫铃「dear precious 铃」"
+  },
+  "toy-goods-chracrylicbord_card-suz-05-fest-02": {
+    "description": "成宫铃的卡牌立架。",
+    "name": "卡牌立架 成宫铃「我们的骄傲」"
+  },
+  "toy-goods-chracrylicbord_card-suz-05-goch-00": {
+    "description": "成宫铃的卡牌立架。",
+    "name": "卡牌立架 成宫铃「摇响铃音的雪兔」"
+  },
+  "toy-goods-chracrylicbord_card-suz-05-link-00": {
+    "description": "成宫铃的卡牌立架。",
+    "name": "卡牌立架 成宫铃「加深羁绊的欢乐时光」"
+  },
+  "toy-goods-chracrylicbord_card-suz-05-link-01": {
+    "description": "成宫铃的卡牌立架。",
+    "name": "卡牌立架 成宫铃「加深羁绊的欢乐时光」"
+  },
+  "toy-goods-chracrylicbord_card-suz-05-msic-00": {
+    "description": "成宫铃的卡牌立架。",
+    "name": "卡牌立架 成宫铃「星降之夜许下的梦」"
+  },
+  "toy-goods-chracrylicbord_card-suz-05-wedd-00": {
+    "description": "成宫铃的卡牌立架。",
+    "name": "卡牌立架 成宫铃「踮脚起誓的婚礼」"
+  },
+  "toy-goods-chracrylicbord_card-szk-02-eve-04": {
+    "description": "兵藤雫的卡牌立架。",
+    "name": "卡牌立架 兵藤雫「水边的问答大师」"
+  },
+  "toy-goods-chracrylicbord_card-szk-05-alic-00": {
+    "description": "兵藤雫的卡牌立架。",
+    "name": "卡牌立牌 兵藤雫「在大树上滚来滚去喵」"
+  },
+  "toy-goods-chracrylicbord_card-szk-05-angl-00": {
+    "description": "兵藤雫的卡牌立架。",
+    "name": "卡牌立牌 兵藤雫「shiny drop」"
+  },
+  "toy-goods-chracrylicbord_card-szk-05-birt-01": {
+    "description": "兵藤雫的卡牌立架。",
+    "name": "卡牌立牌 兵藤雫「生日旅行・雫」"
+  },
+  "toy-goods-chracrylicbord_card-szk-05-birt-02": {
+    "description": "兵藤雫的卡牌立架。",
+    "name": "卡牌立牌 兵藤雫「wonderful day for 雫」"
+  },
+  "toy-goods-chracrylicbord_card-szk-05-casl-04": {
+    "description": "兵藤雫的卡牌立架。",
+    "name": "卡牌立牌 兵藤雫「海风与回忆的假日」"
+  },
+  "toy-goods-chracrylicbord_card-szk-05-goch-00": {
+    "description": "兵藤雫的卡牌立架。",
+    "name": "卡牌立牌 兵藤雫「圣夜的毛茸茸派对」"
+  },
+  "toy-goods-chracrylicbord_card-szk-05-link-00": {
+    "description": "兵藤雫的卡牌立架。",
+    "name": "卡牌立牌 兵藤雫「两人的羁绊是宝物」"
+  },
+  "toy-goods-chracrylicbord_card-szk-05-link-01": {
+    "description": "兵藤雫的卡牌立架。",
+    "name": "卡牌立牌 兵藤雫「两人的羁绊是宝物」"
+  },
+  "toy-goods-chracrylicbord_card-szk-05-mizg-03": {
+    "description": "兵藤雫的卡牌立架。",
+    "name": "卡牌立牌 兵藤雫「摇摇晃晃的假期」"
+  },
+  "toy-goods-chracrylicbord_card-szk-05-snro-00": {
+    "description": "兵藤雫的卡牌立架。",
+    "name": "卡牌立牌 兵藤雫「杯中盛满幸福」"
+  },
+  "toy-goods-chracrylicbord_card-yu-02-eve-02": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优「京狐的迎接」"
+  },
+  "toy-goods-chracrylicbord_card-yu-02-eve-03": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优「报恩无论多少次」"
+  },
+  "toy-goods-chracrylicbord_card-yu-05-birt-01": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优「生日旅行・优」"
+  },
+  "toy-goods-chracrylicbord_card-yu-05-birt-02": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优「wonderful day for 优」"
+  },
+  "toy-goods-chracrylicbord_card-yu-05-casl-02": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优「如果和艺人谈恋爱的话」"
+  },
+  "toy-goods-chracrylicbord_card-yu-05-casl-04": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优「充满喜爱的圣地假日」"
+  },
+  "toy-goods-chracrylicbord_card-yu-05-chna-00": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优「映在水面的花影」"
+  },
+  "toy-goods-chracrylicbord_card-yu-05-fest-04": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优「飞向奇迹的纯白之翼」"
+  },
+  "toy-goods-chracrylicbord_card-yu-05-jwel-00": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优「笑容闪耀的紫水晶」"
+  },
+  "toy-goods-chracrylicbord_card-yu-05-link-00": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优「羁绊相连的两人未来」"
+  },
+  "toy-goods-chracrylicbord_card-yu-05-link-01": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优「羁绊相连的两人未来」"
+  },
+  "toy-goods-chracrylicbord_card-yu-05-nurs-00": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优「恶作剧天使」"
+  },
+  "toy-goods-chracrylicbord_card-yu-05-ster-00": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优「誓约的温暖」"
+  },
+  "toy-goods-chracrylicbord_char-ai-01": {
+    "description": "小美山爱的卡牌立牌。",
+    "name": "卡牌立牌 小美山爱"
+  },
+  "toy-goods-chracrylicbord_char-ai-birthday-2025": {
+    "description": "小美山爱的卡牌立牌。",
+    "name": "卡牌立牌 小美山爱"
+  },
+  "toy-goods-chracrylicbord_char-aoi-01": {
+    "description": "井川葵的卡牌立牌。",
+    "name": "卡牌立牌 井川葵"
+  },
+  "toy-goods-chracrylicbord_char-aoi-birthday-2025": {
+    "description": "井川葵的卡牌立牌。",
+    "name": "卡牌立牌 井川葵"
+  },
+  "toy-goods-chracrylicbord_char-chs-01": {
+    "description": "白石千纱的卡牌立牌。",
+    "name": "卡牌立架 白石千纱"
+  },
+  "toy-goods-chracrylicbord_char-chs-birthday-2024": {
+    "description": "白石千纱的卡牌立牌。",
+    "name": "卡牌立架 白石千纱"
+  },
+  "toy-goods-chracrylicbord_char-hrk-01": {
+    "description": "佐伯遥子的卡牌立牌。",
+    "name": "卡牌立架 佐伯遥子"
+  },
+  "toy-goods-chracrylicbord_char-hrk-birthday-2025": {
+    "description": "佐伯遥子的卡牌立牌。",
+    "name": "卡牌立架 佐伯遥子"
+  },
+  "toy-goods-chracrylicbord_char-kan-01": {
+    "description": "kana的卡牌立牌。",
+    "name": "卡牌立架 kana"
+  },
+  "toy-goods-chracrylicbord_char-kan-birthday-2025": {
+    "description": "kana的卡牌立牌。",
+    "name": "卡牌立架 kana"
+  },
+  "toy-goods-chracrylicbord_char-kkr-01": {
+    "description": "赤崎心的卡牌立牌。",
+    "name": "卡牌立架 赤崎心"
+  },
+  "toy-goods-chracrylicbord_char-kkr-birthday-2024": {
+    "description": "赤崎心的卡牌立牌。",
+    "name": "卡牌立架 赤崎心"
+  },
+  "toy-goods-chracrylicbord_char-kor-01": {
+    "description": "fran的卡牌立牌。",
+    "name": "卡牌立架 fran"
+  },
+  "toy-goods-chracrylicbord_char-kor-birthday-2025": {
+    "description": "fran的卡牌立牌。",
+    "name": "卡牌立架 fran"
+  },
+  "toy-goods-chracrylicbord_char-ktn-01": {
+    "description": "长濑琴乃的卡牌立牌。",
+    "name": "卡牌立架 长濑琴乃"
+  },
+  "toy-goods-chracrylicbord_char-ktn-birthday-2024": {
+    "description": "长濑琴乃的卡牌立牌。",
+    "name": "卡牌立架 长濑琴乃"
+  },
+  "toy-goods-chracrylicbord_char-mei-01": {
+    "description": "早坂芽衣的卡牌立牌。",
+    "name": "卡牌立架 早坂芽衣"
+  },
+  "toy-goods-chracrylicbord_char-mei-birthday-2024": {
+    "description": "早坂芽衣的卡牌立牌。",
+    "name": "卡牌立架 早坂芽衣"
+  },
+  "toy-goods-chracrylicbord_char-mhk-01": {
+    "description": "miho的卡牌立牌。",
+    "name": "卡牌立架 miho"
+  },
+  "toy-goods-chracrylicbord_char-mhk-birthday-2025": {
+    "description": "miho的卡牌立牌。",
+    "name": "卡牌立架 miho"
+  },
+  "toy-goods-chracrylicbord_char-mna-01": {
+    "description": "长濑麻奈的卡牌立牌。",
+    "name": "卡牌立架 长濑麻奈"
+  },
+  "toy-goods-chracrylicbord_char-mna-birthday-2024": {
+    "description": "长濑麻奈的卡牌立牌。",
+    "name": "卡牌立架 长濑麻奈"
+  },
+  "toy-goods-chracrylicbord_char-ngs-01": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡牌立架 伊吹渚"
+  },
+  "toy-goods-chracrylicbord_char-ngs-birthday-2024": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡牌立架 伊吹渚"
+  },
+  "toy-goods-chracrylicbord_char-rei-01": {
+    "description": "这是一之濑怜的卡牌立牌。",
+    "name": "卡牌立架 一之濑怜"
+  },
+  "toy-goods-chracrylicbord_char-rei-birthday-2025": {
+    "description": "这是一之濑怜的卡牌立牌。",
+    "name": "卡牌立架 一之濑怜"
+  },
+  "toy-goods-chracrylicbord_char-rio-01": {
+    "description": "神崎莉央的卡牌立牌。",
+    "name": "卡牌立架 神崎莉央"
+  },
+  "toy-goods-chracrylicbord_char-rio-birthday-2024": {
+    "description": "神崎莉央的卡牌立牌。",
+    "name": "卡牌立架 神崎莉央"
+  },
+  "toy-goods-chracrylicbord_char-rui-01": {
+    "description": "天动瑠依的卡牌立牌。",
+    "name": "卡牌立牌 天动瑠依"
+  },
+  "toy-goods-chracrylicbord_char-rui-birthday-2024": {
+    "description": "天动瑠依的卡牌立牌。",
+    "name": "卡牌立牌 天动瑠依"
+  },
+  "toy-goods-chracrylicbord_char-ski-01": {
+    "description": "白石沙季的卡牌立牌。",
+    "name": "卡牌立牌 白石沙季"
+  },
+  "toy-goods-chracrylicbord_char-ski-birthday-2024": {
+    "description": "白石沙季的卡牌立牌。",
+    "name": "卡牌立牌 白石沙季"
+  },
+  "toy-goods-chracrylicbord_char-skr-01": {
+    "description": "这是川咲樱的卡牌立牌。",
+    "name": "卡牌立牌 川咲樱"
+  },
+  "toy-goods-chracrylicbord_char-skr-birthday-2025": {
+    "description": "这是川咲樱的卡牌立牌。",
+    "name": "卡牌立牌 川咲樱"
+  },
+  "toy-goods-chracrylicbord_char-smr-01": {
+    "description": "奥山堇的卡牌立牌。",
+    "name": "卡牌立牌 奥山堇"
+  },
+  "toy-goods-chracrylicbord_char-smr-birthday-2025": {
+    "description": "奥山堇的卡牌立牌。",
+    "name": "卡牌立牌 奥山堇"
+  },
+  "toy-goods-chracrylicbord_char-suz-01": {
+    "description": "成宫铃的卡牌立架。",
+    "name": "卡牌立牌 成宫铃"
+  },
+  "toy-goods-chracrylicbord_char-suz-birthday-2024": {
+    "description": "成宫铃的卡牌立架。",
+    "name": "卡牌立牌 成宫铃"
+  },
+  "toy-goods-chracrylicbord_char-szk-01": {
+    "description": "兵藤雫的卡牌立架。",
+    "name": "卡牌立牌 兵藤雫"
+  },
+  "toy-goods-chracrylicbord_char-szk-birthday-2024": {
+    "description": "兵藤雫的卡牌立架。",
+    "name": "卡牌立牌 兵藤雫"
+  },
+  "toy-goods-chracrylicbord_char-yu-01": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优"
+  },
+  "toy-goods-chracrylicbord_char-yu-birthday-2025": {
+    "description": "铃村优的卡牌立牌。",
+    "name": "卡牌立牌 铃村优"
+  },
+  "toy-goods-chracrylicsd_card-ai-05-arab-00": {
+    "description": "小美山爱的迷你角色立牌。",
+    "name": "迷你角色立牌 小美山爱「温泉绿洲」"
+  },
+  "toy-goods-chracrylicsd_card-ai-05-birt-01": {
+    "description": "小美山爱的迷你角色立牌。",
+    "name": "迷你角色立牌 小美山爱「生日旅行・爱」"
+  },
+  "toy-goods-chracrylicsd_card-ai-05-birt-02": {
+    "description": "小美山爱的迷你角色立牌。",
+    "name": "迷你角色立牌 小美山爱「wonderful day for 爱」"
+  },
+  "toy-goods-chracrylicsd_card-ai-05-casl-04": {
+    "description": "小美山爱的迷你角色立牌。",
+    "name": "迷你角色立牌 小美山爱「充满笑容的大自然假日」"
+  },
+  "toy-goods-chracrylicsd_card-ai-05-chna-01": {
+    "description": "小美山爱的迷你角色立牌。",
+    "name": "迷你角色立牌 小美山爱「桃园大决战」"
+  },
+  "toy-goods-chracrylicsd_card-ai-05-fest-03": {
+    "description": "小美山爱的迷你角色立牌。",
+    "name": "迷你角色立牌 小美山爱「打破极限的努力之拳」"
+  },
+  "toy-goods-chracrylicsd_card-ai-05-wedd-00": {
+    "description": "小美山爱的迷你角色立牌。",
+    "name": "迷你角色立牌 小美山爱「击碎困难的爱的誓言」"
+  },
+  "toy-goods-chracrylicsd_card-ai-05-yukt-00": {
+    "description": "小美山爱的迷你角色立牌。",
+    "name": "迷你角色立牌 小美山爱「夜空中绽放的夏之花」"
+  },
+  "toy-goods-chracrylicsd_card-aoi-05-arab-00": {
+    "description": "井川葵的迷你角色立牌。",
+    "name": "迷你角色立牌 井川葵「水舞祝祭」"
+  },
+  "toy-goods-chracrylicsd_card-aoi-05-birt-01": {
+    "description": "井川葵的迷你角色立牌。",
+    "name": "迷你角色立牌 井川葵「生日旅行・葵」"
+  },
+  "toy-goods-chracrylicsd_card-aoi-05-birt-02": {
+    "description": "井川葵的迷你角色立牌。",
+    "name": "迷你角色立牌 井川葵「wonderful day for 葵」"
+  },
+  "toy-goods-chracrylicsd_card-aoi-05-casl-04": {
+    "description": "井川葵的迷你角色立牌。",
+    "name": "迷你角色立牌 井川葵「与你溜出去的秘密假日」"
+  },
+  "toy-goods-chracrylicsd_card-aoi-05-fest-03": {
+    "description": "井川葵的迷你角色立牌。",
+    "name": "迷你角色立牌 井川葵「傲然绽放的高贵之刃」"
+  },
+  "toy-goods-chracrylicsd_card-aoi-05-past-00": {
+    "description": "井川葵的迷你角色立牌。",
+    "name": "迷你角色立牌 井川葵「secret my Lily」"
+  },
+  "toy-goods-chracrylicsd_card-aoi-05-wdnc-00": {
+    "description": "井川葵的迷你角色立牌。",
+    "name": "迷你角色立牌 井川葵「Break Out, Midnight!」"
+  },
+  "toy-goods-chracrylicsd_card-aoi-05-yukt-00": {
+    "description": "井川葵的迷你角色立牌。",
+    "name": "迷你角色立牌 井川葵「与你一同感受的蝉鸣」"
+  },
+  "toy-goods-chracrylicsd_card-cca-05-goch-00": {
+    "description": "心爱的迷你角色立牌。",
+    "name": "迷你角色立牌 心爱「两人的睡衣派对」"
+  },
+  "toy-goods-chracrylicsd_card-chn-05-goch-00": {
+    "description": "智乃的迷你角色立牌。",
+    "name": "迷你角色立牌 智乃「欢迎来到Rabbit House」"
+  },
+  "toy-goods-chracrylicsd_card-chs-05-alic-00": {
+    "description": "白石千纱的迷你角色立牌。",
+    "name": "迷你角色立牌 白石千纱「Alice in Monochrome」"
+  },
+  "toy-goods-chracrylicsd_card-chs-05-birt-01": {
+    "description": "白石千纱的迷你角色立牌。",
+    "name": "迷你角色立牌 白石千纱「生日旅行・千纱」"
+  },
+  "toy-goods-chracrylicsd_card-chs-05-birt-02": {
+    "description": "白石千纱的迷你角色立牌。",
+    "name": "迷你角色立牌 白石千纱「wonderful day for 千纱」"
+  },
+  "toy-goods-chracrylicsd_card-chs-05-casl-04": {
+    "description": "白石千纱的迷你角色立牌。",
+    "name": "迷你角色立牌 白石千纱「想特别美丽的假日」"
+  },
+  "toy-goods-chracrylicsd_card-chs-05-fest-00": {
+    "description": "白石千纱的迷你角色立牌。",
+    "name": "迷你角色立牌 白石千纱「与故乡的浪花交融」"
+  },
+  "toy-goods-chracrylicsd_card-chs-05-fest-03": {
+    "description": "白石千纱的迷你角色立牌。",
+    "name": "迷你角色立牌 白石千纱「交织彼此的憧憬时光」"
+  },
+  "toy-goods-chracrylicsd_card-chs-05-hruh-00": {
+    "description": "白石千纱的迷你角色立牌。",
+    "name": "迷你角色立牌 白石千纱「神秘之眼」"
+  },
+  "toy-goods-chracrylicsd_card-chs-05-maid-00": {
+    "description": "白石千纱的迷你角色立牌。",
+    "name": "迷你角色立牌 白石千纱「破壳而出的挑战者」"
+  },
+  "toy-goods-chracrylicsd_card-chs-05-mizg-04": {
+    "description": "白石千纱的迷你角色立牌。",
+    "name": "迷你角色立牌 白石千纱「常夏水光束」"
+  },
+  "toy-goods-chracrylicsd_card-hrk-05-adlt-00": {
+    "description": "佐伯遥子的迷你角色立牌。",
+    "name": "迷你角色立牌 佐伯遥子「beyond the goal」"
+  },
+  "toy-goods-chracrylicsd_card-hrk-05-birt-01": {
+    "description": "佐伯遥子的迷你角色立牌。",
+    "name": "迷你角色立牌 佐伯遥子「生日旅行・遥子」"
+  },
+  "toy-goods-chracrylicsd_card-hrk-05-birt-02": {
+    "description": "佐伯遥子的迷你角色立牌。",
+    "name": "迷你角色立牌 佐伯遥子「wonderful day for 遥子」"
+  },
+  "toy-goods-chracrylicsd_card-hrk-05-casl-04": {
+    "description": "佐伯遥子的迷你角色立牌。",
+    "name": "迷你角色立牌 佐伯遥子「隔着玻璃杯畅谈的假日」"
+  },
+  "toy-goods-chracrylicsd_card-hrk-05-link-00": {
+    "description": "佐伯遥子的迷你角色立牌。",
+    "name": "迷你角色立牌 佐伯遥子「羁绊指引的泪之航路」"
+  },
+  "toy-goods-chracrylicsd_card-hrk-05-link-01": {
+    "description": "佐伯遥子的迷你角色立牌。",
+    "name": "迷你角色立牌 佐伯遥子「羁绊指引的泪之航路」"
+  },
+  "toy-goods-chracrylicsd_card-hrk-05-link-02": {
+    "description": "长濑麻奈的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑麻奈 羁绊系列"
+  },
+  "toy-goods-chracrylicsd_card-hrk-05-link-03": {
+    "description": "长濑麻奈的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑麻奈 羁绊系列"
+  },
+  "toy-goods-chracrylicsd_card-hrk-05-mnab-00": {
+    "description": "佐伯遥子的迷你角色立牌。",
+    "name": "迷你角色立牌 佐伯遥子「在光之海中献上祝福」"
+  },
+  "toy-goods-chracrylicsd_card-hrk-05-vlnt-00": {
+    "description": "佐伯遥子的迷你角色立牌。",
+    "name": "迷你角色立牌 佐伯遥子「一点点爱的礼物」"
+  },
+  "toy-goods-chracrylicsd_card-hrk-05-wedd-00": {
+    "description": "佐伯遥子的迷你角色立牌。",
+    "name": "迷你角色立牌 佐伯遥子「藏在温暖中的真心话」"
+  },
+  "toy-goods-chracrylicsd_card-kan-05-birt-01": {
+    "description": "kana的迷你角色立牌。",
+    "name": "迷你角色立牌 kana「生日旅行・kana」"
+  },
+  "toy-goods-chracrylicsd_card-kan-05-birt-02": {
+    "description": "kana的迷你角色立牌。",
+    "name": "迷你角色立牌 kana「wonderful day for kana」"
+  },
+  "toy-goods-chracrylicsd_card-kan-05-casl-04": {
+    "description": "kana的迷你角色立牌。",
+    "name": "迷你角色立牌 kana「摘下镜片的素颜假日」"
+  },
+  "toy-goods-chracrylicsd_card-kan-05-chia-00": {
+    "description": "kana的迷你角色立牌。",
+    "name": "迷你角色立牌 kana「sniping smash!!!!」"
+  },
+  "toy-goods-chracrylicsd_card-kan-05-fest-02": {
+    "description": "kana的迷你角色立牌。",
+    "name": "迷你角色立牌 kana「a new dawn」"
+  },
+  "toy-goods-chracrylicsd_card-kan-05-link-00": {
+    "description": "kana的迷你角色立牌。",
+    "name": "迷你角色立牌 kana「孕育羁绊的天使与恶魔」"
+  },
+  "toy-goods-chracrylicsd_card-kan-05-link-01": {
+    "description": "赤崎心的迷你角色立牌。",
+    "name": "迷你角色立牌 赤崎心 羁绊系列"
+  },
+  "toy-goods-chracrylicsd_card-kan-05-mizg-02": {
+    "description": "kana的迷你角色立牌。",
+    "name": "迷你角色立牌 kana「泡泡映出的七彩的你」"
+  },
+  "toy-goods-chracrylicsd_card-kan-05-pair-00": {
+    "description": "kana的迷你角色立牌。",
+    "name": "迷你角色立牌 kana「实现欲望的天使嬉戏」"
+  },
+  "toy-goods-chracrylicsd_card-kan-05-snro-00": {
+    "description": "kana的迷你角色立牌。",
+    "name": "迷你角色立牌 kana「实现愿望的少女的一步」"
+  },
+  "toy-goods-chracrylicsd_card-kkr-05-birt-01": {
+    "description": "赤崎心的迷你角色立牌。",
+    "name": "迷你角色立牌 赤崎心「生日旅行・心」"
+  },
+  "toy-goods-chracrylicsd_card-kkr-05-birt-02": {
+    "description": "赤崎心的迷你角色立牌。",
+    "name": "迷你角色立牌 赤崎心「wonderful day for 心」"
+  },
+  "toy-goods-chracrylicsd_card-kkr-05-casl-04": {
+    "description": "赤崎心的迷你角色立牌。",
+    "name": "迷你角色立牌 赤崎心「重要的伞与雨后的假日」"
+  },
+  "toy-goods-chracrylicsd_card-kkr-05-fest-03": {
+    "description": "赤崎心的迷你角色立牌。",
+    "name": "迷你角色立牌 赤崎心「击穿心灵的无敌笑容」"
+  },
+  "toy-goods-chracrylicsd_card-kkr-05-flow-00": {
+    "description": "赤崎心的迷你角色立牌。",
+    "name": "迷你角色立牌 赤崎心「lonely rainy day」"
+  },
+  "toy-goods-chracrylicsd_card-kkr-05-link-00": {
+    "description": "赤崎心的迷你角色立牌。",
+    "name": "迷你角色立牌 赤崎心「羁绊绽放的盛夏黑百合」"
+  },
+  "toy-goods-chracrylicsd_card-kkr-05-link-01": {
+    "description": "小美山爱的迷你角色立牌。",
+    "name": "迷你角色立牌 小美山爱 羁绊系列"
+  },
+  "toy-goods-chracrylicsd_card-kkr-05-pair-00": {
+    "description": "赤崎心的迷你角色立牌。",
+    "name": "迷你角色立牌 赤崎心「掩饰伤心的恶魔虚张声势」"
+  },
+  "toy-goods-chracrylicsd_card-kkr-05-snro-00": {
+    "description": "赤崎心的迷你角色立牌。",
+    "name": "迷你角色立牌 赤崎心「响彻心扉的美妙旋律」"
+  },
+  "toy-goods-chracrylicsd_card-kkr-05-trbl-00": {
+    "description": "赤崎心的迷你角色立牌。",
+    "name": "迷你角色立牌 赤崎心「爱恶作剧的圣诞老人」"
+  },
+  "toy-goods-chracrylicsd_card-kor-05-birt-01": {
+    "description": "fran的迷你角色立牌。",
+    "name": "迷你角色立牌 fran「生日旅行・fran」"
+  },
+  "toy-goods-chracrylicsd_card-kor-05-birt-02": {
+    "description": "fran的迷你角色立牌。",
+    "name": "迷你角色立牌 fran「wonderful day for fran」"
+  },
+  "toy-goods-chracrylicsd_card-kor-05-casl-04": {
+    "description": "fran的迷你角色立牌。",
+    "name": "迷你角色立牌 fran「一流打造的巴黎假日」"
+  },
+  "toy-goods-chracrylicsd_card-kor-05-fest-02": {
+    "description": "fran的迷你角色立牌。",
+    "name": "迷你角色立牌 fran「the brand is me」"
+  },
+  "toy-goods-chracrylicsd_card-kor-05-mizg-02": {
+    "description": "fran的迷你角色立牌。",
+    "name": "迷你角色立牌 fran「闷闷不乐的夜间维纳斯」"
+  },
+  "toy-goods-chracrylicsd_card-kor-05-newy-00": {
+    "description": "fran的迷你角色立牌。",
+    "name": "迷你角色立牌 fran「夜樱马斯肯瓦尔」"
+  },
+  "toy-goods-chracrylicsd_card-kor-05-nurs-00": {
+    "description": "fran的迷你角色立牌。",
+    "name": "迷你角色立牌 fran「怪演暗黑天使」"
+  },
+  "toy-goods-chracrylicsd_card-ktn-05-birt-01": {
+    "description": "长濑琴乃的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑琴乃「生日旅行・琴乃」"
+  },
+  "toy-goods-chracrylicsd_card-ktn-05-birt-02": {
+    "description": "长濑琴乃的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑琴乃「wonderful day for 琴乃」"
+  },
+  "toy-goods-chracrylicsd_card-ktn-05-fest-02": {
+    "description": "长濑琴乃的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑琴乃「我们的未来」"
+  },
+  "toy-goods-chracrylicsd_card-ktn-05-mizg-03": {
+    "description": "长濑琴乃的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑琴乃「摘星的指尖」"
+  },
+  "toy-goods-chracrylicsd_card-ktn-05-mnab-00": {
+    "description": "长濑琴乃的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑琴乃「present for my sister」"
+  },
+  "toy-goods-chracrylicsd_card-ktn-05-msic-00": {
+    "description": "长濑琴乃的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑琴乃「my best answer」"
+  },
+  "toy-goods-chracrylicsd_card-ktn-05-poli-00": {
+    "description": "长濑琴乃的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑琴乃「不灭的正义之焰」"
+  },
+  "toy-goods-chracrylicsd_card-ktn-05-yukt-00": {
+    "description": "长濑琴乃的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑琴乃「夏日晴空与甜蜜奖励」"
+  },
+  "toy-goods-chracrylicsd_card-mei-05-birt-01": {
+    "description": "早坂芽衣的迷你角色立牌。",
+    "name": "迷你角色立牌 早坂芽衣「生日旅行・芽衣」"
+  },
+  "toy-goods-chracrylicsd_card-mei-05-birt-02": {
+    "description": "早坂芽衣的迷你角色立牌。",
+    "name": "迷你角色立牌 早坂芽衣「wonderful day for 芽衣」"
+  },
+  "toy-goods-chracrylicsd_card-mei-05-birt-03": {
+    "description": "早坂芽衣的迷你角色立牌。",
+    "name": "迷你角色立牌 早坂芽衣「dear precious 芽衣」"
+  },
+  "toy-goods-chracrylicsd_card-mei-05-fest-02": {
+    "description": "早坂芽衣的迷你角色立牌。",
+    "name": "迷你角色立牌 早坂芽衣「闪耀光芒的全新誓言」"
+  },
+  "toy-goods-chracrylicsd_card-mei-05-hruh-00": {
+    "description": "早坂芽衣的迷你角色立牌。",
+    "name": "迷你角色立牌 早坂芽衣「早坂芽衣的分裂」"
+  },
+  "toy-goods-chracrylicsd_card-mei-05-miku-05": {
+    "description": "早坂芽衣的迷你角色立牌。",
+    "name": "迷你角色立牌 早坂芽衣「常夏的强力月亮」"
+  },
+  "toy-goods-chracrylicsd_card-mei-05-vlnt-00": {
+    "description": "早坂芽衣的迷你角色立牌。",
+    "name": "迷你角色立牌 早坂芽衣「本命meet up」"
+  },
+  "toy-goods-chracrylicsd_card-mei-05-wdnc-00": {
+    "description": "早坂芽衣的迷你角色立牌。",
+    "name": "迷你角色立牌 早坂芽衣「Underground Queen」"
+  },
+  "toy-goods-chracrylicsd_card-mhk-05-birt-01": {
+    "description": "miho的迷你角色立牌。",
+    "name": "迷你角色立牌 miho「生日旅行・miho」"
+  },
+  "toy-goods-chracrylicsd_card-mhk-05-birt-02": {
+    "description": "miho的迷你角色立牌。",
+    "name": "迷你角色立牌 miho「wonderful day for miho」"
+  },
+  "toy-goods-chracrylicsd_card-mhk-05-casl-04": {
+    "description": "miho的迷你角色立牌。",
+    "name": "迷你角色立牌 miho「最美好的异国假日」"
+  },
+  "toy-goods-chracrylicsd_card-mhk-05-chna-00": {
+    "description": "miho的迷你角色立牌。",
+    "name": "迷你角色立牌 miho「紫扇飞舞之夜」"
+  },
+  "toy-goods-chracrylicsd_card-mhk-05-circ-00": {
+    "description": "miho的迷你角色立牌。",
+    "name": "迷你角色立牌 miho「马赫之轮」"
+  },
+  "toy-goods-chracrylicsd_card-mhk-05-fest-02": {
+    "description": "miho的迷你角色立牌。",
+    "name": "迷你角色立牌 miho「road with friends」"
+  },
+  "toy-goods-chracrylicsd_card-mhk-05-newy-00": {
+    "description": "miho的迷你角色立牌。",
+    "name": "迷你角色立牌 miho「映在杯中的雪景」"
+  },
+  "toy-goods-chracrylicsd_card-mhk-05-pajm-00": {
+    "description": "miho的迷你角色立牌。",
+    "name": "迷你角色立牌 miho「回忆总是留在黑发中」"
+  },
+  "toy-goods-chracrylicsd_card-mku-05-miku-05": {
+    "description": "初音未来的迷你角色立牌。",
+    "name": "迷你角色立牌 初音未来「未来爽快暑假」"
+  },
+  "toy-goods-chracrylicsd_card-mku-05-miku-06": {
+    "description": "初音未来的迷你角色立牌。",
+    "name": "迷你角色立牌 初音未来「响彻夜空的未来之音」"
+  },
+  "toy-goods-chracrylicsd_card-mna-05-birt-01": {
+    "description": "长濑麻奈的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑麻奈「光辉相连的生日」"
+  },
+  "toy-goods-chracrylicsd_card-mna-05-birt-02": {
+    "description": "长濑麻奈的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑麻奈「昔日幸福的生日」"
+  },
+  "toy-goods-chracrylicsd_card-mna-05-link-00": {
+    "description": "长濑麻奈的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑麻奈「羁绊相连的姐妹奇迹」"
+  },
+  "toy-goods-chracrylicsd_card-mna-05-link-01": {
+    "description": "长濑琴乃的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑琴乃 羁绊系列"
+  },
+  "toy-goods-chracrylicsd_card-mna-05-mizg-01": {
+    "description": "长濑麻奈的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑麻奈「回首的夏日色彩」"
+  },
+  "toy-goods-chracrylicsd_card-mna-05-msic-00": {
+    "description": "长濑麻奈的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑麻奈「通往未来的五线谱」"
+  },
+  "toy-goods-chracrylicsd_card-mna-05-snro-00": {
+    "description": "长濑麻奈的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑麻奈「手牵手的奇迹共演」"
+  },
+  "toy-goods-chracrylicsd_card-ngs-05-birt-01": {
+    "description": "伊吹渚的迷你角色立牌。",
+    "name": "迷你角色立牌 伊吹渚「生日旅行・渚」"
+  },
+  "toy-goods-chracrylicsd_card-ngs-05-birt-02": {
+    "description": "伊吹渚的迷你角色立牌。",
+    "name": "迷你角色立牌 伊吹渚「wonderful day for 渚」"
+  },
+  "toy-goods-chracrylicsd_card-ngs-05-birt-03": {
+    "description": "伊吹渚的迷你角色立牌。",
+    "name": "迷你角色立牌 伊吹渚「dear precious 渚」"
+  },
+  "toy-goods-chracrylicsd_card-ngs-05-fest-02": {
+    "description": "伊吹渚的迷你角色立牌。",
+    "name": "迷你角色立牌 伊吹渚「照亮友人的光」"
+  },
+  "toy-goods-chracrylicsd_card-ngs-05-frut-00": {
+    "description": "伊吹渚的迷你角色立牌。",
+    "name": "迷你角色立牌 伊吹渚「桃色庆典」"
+  },
+  "toy-goods-chracrylicsd_card-ngs-05-link-00": {
+    "description": "伊吹渚的迷你角色立牌。",
+    "name": "迷你角色立牌 伊吹渚「两人的羁绊照亮的此刻」"
+  },
+  "toy-goods-chracrylicsd_card-ngs-05-link-01": {
+    "description": "长濑琴乃的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑琴乃 羁绊系列"
+  },
+  "toy-goods-chracrylicsd_card-ngs-05-maid-01": {
+    "description": "伊吹渚的迷你角色立牌。",
+    "name": "迷你角色立牌 伊吹渚「两人的萌萌啾！」"
+  },
+  "toy-goods-chracrylicsd_card-ngs-05-vlnt-00": {
+    "description": "伊吹渚的迷你角色立牌。",
+    "name": "迷你角色立牌 伊吹渚「引领气息的甜蜜瞬间」"
+  },
+  "toy-goods-chracrylicsd_card-ngs-05-wedd-00": {
+    "description": "伊吹渚的迷你角色立牌。",
+    "name": "迷你角色立牌 伊吹渚「响彻天空的祝福之钟」"
+  },
+  "toy-goods-chracrylicsd_card-rei-05-birt-01": {
+    "description": "一之濑怜的迷你角色立牌。",
+    "name": "迷你角色立牌 一之濑怜「生日旅行・怜」"
+  },
+  "toy-goods-chracrylicsd_card-rei-05-birt-02": {
+    "description": "一之濑怜的迷你角色立牌。",
+    "name": "迷你角色立牌 一之濑怜「wonderful day for 怜」"
+  },
+  "toy-goods-chracrylicsd_card-rei-05-casl-04": {
+    "description": "一之濑怜的迷你角色立牌。",
+    "name": "迷你角色立牌 一之濑怜「在身旁闪耀的特等席假日」"
+  },
+  "toy-goods-chracrylicsd_card-rei-05-fest-01": {
+    "description": "一之濑怜的迷你角色立牌。",
+    "name": "迷你角色立牌 一之濑怜「在故乡的海边绽放」"
+  },
+  "toy-goods-chracrylicsd_card-rei-05-hruh-00": {
+    "description": "一之濑怜的迷你角色立牌。",
+    "name": "迷你角色立牌 一之濑怜「三花猫狂想曲」"
+  },
+  "toy-goods-chracrylicsd_card-rei-05-mizg-03": {
+    "description": "一之濑怜的迷你角色立牌。",
+    "name": "迷你角色立牌 一之濑怜「时光静止的常夏」"
+  },
+  "toy-goods-chracrylicsd_card-rei-05-sail-00": {
+    "description": "一之濑怜的迷你角色立牌。",
+    "name": "迷你角色立牌 一之濑怜「阳光照耀下你的发色」"
+  },
+  "toy-goods-chracrylicsd_card-rei-05-trbl-00": {
+    "description": "一之濑怜的迷你角色立牌。",
+    "name": "迷你角色立牌 一之濑怜「丝带什么的太不知羞耻了！」"
+  },
+  "toy-goods-chracrylicsd_card-rei-05-wdnc-00": {
+    "description": "一之濑怜的迷你角色立牌。",
+    "name": "迷你角色立牌 一之濑怜「Calling My NAME!」"
+  },
+  "toy-goods-chracrylicsd_card-rei-05-wedd-00": {
+    "description": "一之濑怜的迷你角色立牌。",
+    "name": "迷你角色立牌 一之濑怜「花香萦绕两人的未来」"
+  },
+  "toy-goods-chracrylicsd_card-rio-05-birt-01": {
+    "description": "神崎莉央的迷你角色立牌。",
+    "name": "迷你角色立牌 神崎莉央「生日旅行・莉央」"
+  },
+  "toy-goods-chracrylicsd_card-rio-05-birt-02": {
+    "description": "神崎莉央的迷你角色立牌。",
+    "name": "迷你角色立牌 神崎莉央「wonderful day for 莉央」"
+  },
+  "toy-goods-chracrylicsd_card-rio-05-birt-03": {
+    "description": "神崎莉央的迷你角色立牌。",
+    "name": "迷你角色立牌 神崎莉央「dear precious 莉央」"
+  },
+  "toy-goods-chracrylicsd_card-rio-05-casl-02": {
+    "description": "神崎莉央的迷你角色立牌。",
+    "name": "迷你角色立牌 神崎莉央「如果在职场上谈恋爱的话」"
+  },
+  "toy-goods-chracrylicsd_card-rio-05-casl-04": {
+    "description": "神崎莉央的迷你角色立牌。",
+    "name": "迷你角色立牌 神崎莉央「梦想未来的甜蜜假日」"
+  },
+  "toy-goods-chracrylicsd_card-rio-05-fest-03": {
+    "description": "神崎莉央的迷你角色立牌。",
+    "name": "迷你角色立牌 神崎莉央「高举的热情之旗」"
+  },
+  "toy-goods-chracrylicsd_card-rio-05-pajm-00": {
+    "description": "神崎莉央的迷你角色立牌。",
+    "name": "迷你角色立牌 神崎莉央「将心动心情凝于指尖」"
+  },
+  "toy-goods-chracrylicsd_card-rio-05-past-00": {
+    "description": "神崎莉央的迷你角色立牌。",
+    "name": "迷你角色立牌 神崎莉央「open two hearts」"
+  },
+  "toy-goods-chracrylicsd_card-rio-05-trbl-00": {
+    "description": "神崎莉央的迷你角色立牌。",
+    "name": "迷你角色立牌 神崎莉央「圣夜的女王与公主」"
+  },
+  "toy-goods-chracrylicsd_card-rui-05-birt-01": {
+    "description": "天动瑠依的迷你角色立牌。",
+    "name": "迷你角色立牌 天动瑠依「生日旅行・瑠依」"
+  },
+  "toy-goods-chracrylicsd_card-rui-05-birt-02": {
+    "description": "天动瑠依的迷你角色立牌。",
+    "name": "迷你角色立牌 天动瑠依「wonderful day for 瑠依」"
+  },
+  "toy-goods-chracrylicsd_card-rui-05-casl-04": {
+    "description": "天动瑠依的迷你角色立牌。",
+    "name": "迷你角色立牌 天动瑠依「实现憧憬的水之假日」"
+  },
+  "toy-goods-chracrylicsd_card-rui-05-fest-03": {
+    "description": "天动瑠依的迷你角色立牌。",
+    "name": "迷你角色立牌 天动瑠依「跨越天际的感谢之情」"
+  },
+  "toy-goods-chracrylicsd_card-rui-05-fest-04": {
+    "description": "天动瑠依的迷你角色立牌。",
+    "name": "迷你角色立牌 天动瑠依「真实的报恩」"
+  },
+  "toy-goods-chracrylicsd_card-rui-05-newy-00": {
+    "description": "天动瑠依的迷你角色立牌。",
+    "name": "迷你角色立牌 天动瑠依「在阳光下起舞的春日狐狸」"
+  },
+  "toy-goods-chracrylicsd_card-rui-05-sucu-00": {
+    "description": "天动瑠依的迷你角色立牌。",
+    "name": "迷你角色立牌 天动瑠依「夺心Midnight」"
+  },
+  "toy-goods-chracrylicsd_card-rui-05-trbl-01": {
+    "description": "天动瑠依的迷你角色立牌。",
+    "name": "迷你角色立牌 天动瑠依「为了守护你与这座城市」"
+  },
+  "toy-goods-chracrylicsd_card-rui-05-yukt-00": {
+    "description": "天动瑠依的迷你角色立牌。",
+    "name": "迷你角色立牌 天动瑠依「藏起热情的清凉音色」"
+  },
+  "toy-goods-chracrylicsd_card-ski-05-birt-01": {
+    "description": "白石沙季的迷你角色立牌。",
+    "name": "迷你角色立牌 白石沙季「生日旅行・沙季」"
+  },
+  "toy-goods-chracrylicsd_card-ski-05-birt-02": {
+    "description": "白石沙季的迷你角色立牌。",
+    "name": "迷你角色立牌 白石沙季「wonderful day for 沙季」"
+  },
+  "toy-goods-chracrylicsd_card-ski-05-fest-02": {
+    "description": "白石沙季的迷你角色立牌。",
+    "name": "迷你角色立牌 白石沙季「照亮道路的睿智之光」"
+  },
+  "toy-goods-chracrylicsd_card-ski-05-link-00": {
+    "description": "白石沙季的迷你角色立牌。",
+    "name": "迷你角色立牌 白石沙季「春风传递的羁绊和声」"
+  },
+  "toy-goods-chracrylicsd_card-ski-05-link-01": {
+    "description": "白石千纱的迷你角色立牌。",
+    "name": "迷你角色立牌 白石千纱 羁绊系列"
+  },
+  "toy-goods-chracrylicsd_card-ski-05-miku-05": {
+    "description": "白石沙季的迷你角色立牌。",
+    "name": "迷你角色立牌 白石沙季「笑容绽放的白昼」"
+  },
+  "toy-goods-chracrylicsd_card-ski-05-onep-00": {
+    "description": "白石沙季的迷你角色立牌。",
+    "name": "迷你角色立牌 白石沙季「染上唐红的双颊」"
+  },
+  "toy-goods-chracrylicsd_card-ski-05-ster-00": {
+    "description": "白石沙季的迷你角色立牌。",
+    "name": "迷你角色立牌 白石沙季「静寂的祈祷者」"
+  },
+  "toy-goods-chracrylicsd_card-skr-05-adlt-00": {
+    "description": "川咲樱的迷你角色立牌。",
+    "name": "迷你角色立牌 川咲樱「友人守望的成长之路」"
+  },
+  "toy-goods-chracrylicsd_card-skr-05-anml-00": {
+    "description": "川咲樱的迷你角色立牌。",
+    "name": "迷你角色立牌 川咲樱「大口吃甜点熊」"
+  },
+  "toy-goods-chracrylicsd_card-skr-05-birt-01": {
+    "description": "川咲樱的迷你角色立牌。",
+    "name": "迷你角色立牌 川咲樱「生日旅行・樱」"
+  },
+  "toy-goods-chracrylicsd_card-skr-05-birt-02": {
+    "description": "川咲樱的迷你角色立牌。",
+    "name": "迷你角色立牌 川咲樱「wonderful day for 樱」"
+  },
+  "toy-goods-chracrylicsd_card-skr-05-casl-04": {
+    "description": "川咲樱的迷你角色立牌。",
+    "name": "迷你角色立牌 川咲樱「实现梦想的笑容假日」"
+  },
+  "toy-goods-chracrylicsd_card-skr-05-fest-03": {
+    "description": "川咲樱的迷你角色立牌。",
+    "name": "迷你角色立牌 川咲樱「心跳高鸣的Sunshine」"
+  },
+  "toy-goods-chracrylicsd_card-skr-05-mizg-04": {
+    "description": "川咲樱的迷你角色立牌。",
+    "name": "迷你角色立牌 川咲樱「鱼鱼！夏日排球」"
+  },
+  "toy-goods-chracrylicsd_card-skr-05-vlnt-00": {
+    "description": "川咲樱的迷你角色立牌。",
+    "name": "迷你角色立牌 川咲樱「摇曳于甜蜜悸动中的花」"
+  },
+  "toy-goods-chracrylicsd_card-smr-05-birt-01": {
+    "description": "奥山堇的迷你角色立牌。",
+    "name": "迷你角色立牌 奥山堇「生日旅行・堇」"
+  },
+  "toy-goods-chracrylicsd_card-smr-05-birt-02": {
+    "description": "奥山堇的迷你角色立牌。",
+    "name": "迷你角色立牌 奥山堇「wonderful day for 堇」"
+  },
+  "toy-goods-chracrylicsd_card-smr-05-casl-04": {
+    "description": "奥山堇的迷你角色立牌。",
+    "name": "迷你角色立牌 奥山堇「回忆绽放的故乡假日」"
+  },
+  "toy-goods-chracrylicsd_card-smr-05-fest-03": {
+    "description": "奥山堇的迷你角色立牌。",
+    "name": "迷你角色立牌 奥山堇「点缀银河的快乐微笑」"
+  },
+  "toy-goods-chracrylicsd_card-smr-05-fest-04": {
+    "description": "奥山堇的迷你角色立牌。",
+    "name": "迷你角色立牌 奥山堇「比谁都闪耀的女主角」"
+  },
+  "toy-goods-chracrylicsd_card-smr-05-jwel-00": {
+    "description": "奥山堇的迷你角色立牌。",
+    "name": "迷你角色立牌 奥山堇「挑战的祖母绿」"
+  },
+  "toy-goods-chracrylicsd_card-smr-05-magi-00": {
+    "description": "奥山堇的迷你角色立牌。",
+    "name": "迷你角色立牌 奥山堇「心愿振翅高飞的魔法声援」"
+  },
+  "toy-goods-chracrylicsd_card-smr-05-newy-00": {
+    "description": "奥山堇的迷你角色立牌。",
+    "name": "迷你角色立牌 奥山堇「小狐狸的倔强毅力」"
+  },
+  "toy-goods-chracrylicsd_card-smr-05-nurs-00": {
+    "description": "奥山堇的迷你角色立牌。",
+    "name": "迷你角色立牌 奥山堇「床边天使」"
+  },
+  "toy-goods-chracrylicsd_card-smr-05-seik-00": {
+    "description": "奥山堇的迷你角色立牌。",
+    "name": "迷你角色立牌 奥山堇「keys of memory」"
+  },
+  "toy-goods-chracrylicsd_card-suz-05-alic-00": {
+    "description": "成宫铃的迷你角色立牌。",
+    "name": "迷你角色立牌 成宫铃「兔子引领的仙境」"
+  },
+  "toy-goods-chracrylicsd_card-suz-05-birt-01": {
+    "description": "成宫铃的迷你角色立牌。",
+    "name": "迷你角色立牌 成宫铃「生日旅行・铃」"
+  },
+  "toy-goods-chracrylicsd_card-suz-05-birt-02": {
+    "description": "成宫铃的迷你角色立牌。",
+    "name": "迷你角色立牌 成宫铃「wonderful day for 铃」"
+  },
+  "toy-goods-chracrylicsd_card-suz-05-birt-03": {
+    "description": "成宫铃的迷你角色立牌。",
+    "name": "迷你角色立牌 成宫铃「dear precious 铃」"
+  },
+  "toy-goods-chracrylicsd_card-suz-05-fest-02": {
+    "description": "成宫铃的迷你角色立牌。",
+    "name": "迷你角色立牌 成宫铃「我们的骄傲」"
+  },
+  "toy-goods-chracrylicsd_card-suz-05-goch-00": {
+    "description": "成宫铃的迷你角色立牌。",
+    "name": "迷你角色立牌 成宫铃「摇响铃音的雪兔」"
+  },
+  "toy-goods-chracrylicsd_card-suz-05-link-00": {
+    "description": "成宫铃的迷你角色立牌。",
+    "name": "迷你角色立牌 成宫铃「加深羁绊的欢乐时光」"
+  },
+  "toy-goods-chracrylicsd_card-suz-05-link-01": {
+    "description": "早坂芽衣的迷你角色立牌。",
+    "name": "迷你角色立牌 早坂芽衣 羁绊系列"
+  },
+  "toy-goods-chracrylicsd_card-suz-05-msic-00": {
+    "description": "成宫铃的迷你角色立牌。",
+    "name": "迷你角色立牌 成宫铃「星降之夜许下的梦」"
+  },
+  "toy-goods-chracrylicsd_card-suz-05-wedd-00": {
+    "description": "成宫铃的迷你角色立牌。",
+    "name": "迷你角色立牌 成宫铃「踮脚起誓的婚礼」"
+  },
+  "toy-goods-chracrylicsd_card-szk-05-alic-00": {
+    "description": "兵藤雫的迷你角色立牌。",
+    "name": "迷你角色立牌 兵藤雫「在大树上滚来滚去喵」"
+  },
+  "toy-goods-chracrylicsd_card-szk-05-angl-00": {
+    "description": "兵藤雫的迷你角色立牌。",
+    "name": "迷你角色立牌 兵藤雫「shiny drop」"
+  },
+  "toy-goods-chracrylicsd_card-szk-05-birt-01": {
+    "description": "兵藤雫的迷你角色立牌。",
+    "name": "迷你角色立牌 兵藤雫「生日旅行・雫」"
+  },
+  "toy-goods-chracrylicsd_card-szk-05-birt-02": {
+    "description": "兵藤雫的迷你角色立牌。",
+    "name": "迷你角色立牌 兵藤雫「wonderful day for 雫」"
+  },
+  "toy-goods-chracrylicsd_card-szk-05-casl-04": {
+    "description": "兵藤雫的迷你角色立牌。",
+    "name": "迷你角色立牌 兵藤雫「海风与回忆的假日」"
+  },
+  "toy-goods-chracrylicsd_card-szk-05-goch-00": {
+    "description": "兵藤雫的迷你角色立牌。",
+    "name": "迷你角色立牌 兵藤雫「圣夜的毛茸茸派对」"
+  },
+  "toy-goods-chracrylicsd_card-szk-05-link-00": {
+    "description": "兵藤雫的迷你角色立牌。",
+    "name": "迷你角色立牌 兵藤雫「两人的羁绊是宝物」"
+  },
+  "toy-goods-chracrylicsd_card-szk-05-link-01": {
+    "description": "兵藤雫的迷你角色立牌。",
+    "name": "迷你角色立牌 兵藤雫「两人的羁绊是宝物」"
+  },
+  "toy-goods-chracrylicsd_card-szk-05-link-02": {
+    "description": "白石千纱的迷你角色立牌。",
+    "name": "迷你角色立牌 白石千纱 羁绊系列"
+  },
+  "toy-goods-chracrylicsd_card-szk-05-link-03": {
+    "description": "白石千纱的迷你角色立牌。",
+    "name": "迷你角色立牌 白石千纱 羁绊系列"
+  },
+  "toy-goods-chracrylicsd_card-szk-05-mizg-03": {
+    "description": "兵藤雫的迷你角色立牌。",
+    "name": "迷你角色立牌 兵藤雫「摇摇晃晃的假期」"
+  },
+  "toy-goods-chracrylicsd_card-szk-05-snro-00": {
+    "description": "兵藤雫的迷你角色立牌。",
+    "name": "迷你角色立牌 兵藤雫「杯中盛满幸福」"
+  },
+  "toy-goods-chracrylicsd_card-yu-05-birt-01": {
+    "description": "铃村优的迷你角色立牌。",
+    "name": "迷你角色立牌 铃村优「生日旅行・优」"
+  },
+  "toy-goods-chracrylicsd_card-yu-05-birt-02": {
+    "description": "铃村优的迷你角色立牌。",
+    "name": "迷你角色立牌 铃村优「wonderful day for 优」"
+  },
+  "toy-goods-chracrylicsd_card-yu-05-casl-02": {
+    "description": "铃村优的迷你角色立牌。",
+    "name": "迷你角色立牌 铃村优「如果和艺人谈恋爱的话」"
+  },
+  "toy-goods-chracrylicsd_card-yu-05-casl-04": {
+    "description": "铃村优的迷你角色立牌。",
+    "name": "迷你角色立牌 铃村优「充满喜爱的圣地假日」"
+  },
+  "toy-goods-chracrylicsd_card-yu-05-chna-00": {
+    "description": "铃村优的迷你角色立牌。",
+    "name": "迷你角色立牌 铃村优「映在水面的花影」"
+  },
+  "toy-goods-chracrylicsd_card-yu-05-fest-04": {
+    "description": "铃村优的迷你角色立牌。",
+    "name": "迷你角色立牌 铃村优「飞向奇迹的纯白之翼」"
+  },
+  "toy-goods-chracrylicsd_card-yu-05-jwel-00": {
+    "description": "铃村优的迷你角色立牌。",
+    "name": "迷你角色立牌 铃村优「笑容闪耀的紫水晶」"
+  },
+  "toy-goods-chracrylicsd_card-yu-05-link-00": {
+    "description": "铃村优的迷你角色立牌。",
+    "name": "迷你角色立牌 铃村优「羁绊相连的两人未来」"
+  },
+  "toy-goods-chracrylicsd_card-yu-05-link-01": {
+    "description": "天动瑠依的迷你角色立牌。",
+    "name": "迷你角色立牌 天动瑠依 羁绊系列"
+  },
+  "toy-goods-chracrylicsd_card-yu-05-nurs-00": {
+    "description": "铃村优的迷你角色立牌。",
+    "name": "迷你角色立牌 铃村优「恶作剧天使」"
+  },
+  "toy-goods-chracrylicsd_card-yu-05-ster-00": {
+    "description": "铃村优的迷你角色立牌。",
+    "name": "迷你角色立牌 铃村优「誓约的温暖」"
+  },
+  "toy-goods-chracrylicsd_char-rio-rio-05-date-00": {
+    "description": "神崎莉央的迷你角色立牌。",
+    "name": "迷你角色立牌 神崎莉央「新月之花」"
+  },
+  "toy-goods-chracrylicsd_char-yu-yu-05-maid-02": {
+    "description": "铃村优的迷你角色立牌。",
+    "name": "迷你角色立牌 铃村优「可爱女仆」"
+  },
+  "toy-goods-chracrylicstand_char-ai-01": {
+    "description": "小美山爱的亚克力立牌。",
+    "name": "亚克力立牌 小美山爱"
+  },
+  "toy-goods-chracrylicstand_char-aoi-01": {
+    "description": "井川葵的亚克力立牌。",
+    "name": "亚克力立牌 井川葵"
+  },
+  "toy-goods-chracrylicstand_char-chs-01": {
+    "description": "白石千纱的亚克力立牌。",
+    "name": "亚克力立牌 白石千纱"
+  },
+  "toy-goods-chracrylicstand_char-hrk-01": {
+    "description": "佐伯遥子的亚克力立牌。",
+    "name": "亚克力立牌 佐伯遥子"
+  },
+  "toy-goods-chracrylicstand_char-kan-01": {
+    "description": "kana的亚克力立牌。",
+    "name": "亚克力立牌 kana"
+  },
+  "toy-goods-chracrylicstand_char-kkr-01": {
+    "description": "赤崎心的亚克力立牌。",
+    "name": "亚克力立牌 赤崎心"
+  },
+  "toy-goods-chracrylicstand_char-kor-01": {
+    "description": "fran的亚克力立牌。",
+    "name": "亚克力立牌 fran"
+  },
+  "toy-goods-chracrylicstand_char-ktn-01": {
+    "description": "长濑琴乃的亚克力立牌。",
+    "name": "亚克力立牌 长濑琴乃"
+  },
+  "toy-goods-chracrylicstand_char-mei-01": {
+    "description": "早坂芽衣的亚克力立牌。",
+    "name": "亚克力立牌 早坂芽衣"
+  },
+  "toy-goods-chracrylicstand_char-mhk-01": {
+    "description": "miho的亚克力立牌。",
+    "name": "亚克力立牌 miho"
+  },
+  "toy-goods-chracrylicstand_char-mna-01": {
+    "description": "长濑麻奈的亚克力立牌。",
+    "name": "亚克力立牌 长濑麻奈"
+  },
+  "toy-goods-chracrylicstand_char-ngs-01": {
+    "description": "伊吹渚的亚克力立牌。",
+    "name": "亚克力立牌 伊吹渚"
+  },
+  "toy-goods-chracrylicstand_char-rei-01": {
+    "description": "一之濑怜的亚克力立牌。",
+    "name": "亚克力立牌 一之濑怜"
+  },
+  "toy-goods-chracrylicstand_char-rio-01": {
+    "description": "神崎莉央的亚克力立牌。",
+    "name": "亚克力立牌 神崎莉央"
+  },
+  "toy-goods-chracrylicstand_char-rui-01": {
+    "description": "天动瑠依的亚克力立牌。",
+    "name": "亚克力立牌 天动瑠依"
+  },
+  "toy-goods-chracrylicstand_char-ski-01": {
+    "description": "白石沙季的亚克力立牌。",
+    "name": "亚克力立牌 白石沙季"
+  },
+  "toy-goods-chracrylicstand_char-skr-01": {
+    "description": "川咲樱的亚克力立牌。",
+    "name": "亚克力立牌 川咲樱"
+  },
+  "toy-goods-chracrylicstand_char-smr-01": {
+    "description": "奥山堇的亚克力立牌。",
+    "name": "亚克力立牌 奥山堇"
+  },
+  "toy-goods-chracrylicstand_char-suz-01": {
+    "description": "成宫铃的亚克力立牌。",
+    "name": "亚克力立牌 成宫铃"
+  },
+  "toy-goods-chracrylicstand_char-szk-01": {
+    "description": "兵藤雫的亚克力立牌。",
+    "name": "亚克力立牌 兵藤雫"
+  },
+  "toy-goods-chracrylicstand_char-yu-01": {
+    "description": "铃村优的亚克力立牌。",
+    "name": "亚克力立牌 铃村优"
+  },
+  "toy-goods-figure_char-ai-01": {
+    "description": "小美山爱的手办。",
+    "name": "手办 小美山爱"
+  },
+  "toy-goods-figure_char-aoi-01": {
+    "description": "井川葵的手办。",
+    "name": "手办 井川葵"
+  },
+  "toy-goods-figure_char-chs-01": {
+    "description": "白石千纱的手办。",
+    "name": "手办 白石千纱"
+  },
+  "toy-goods-figure_char-hrk-01": {
+    "description": "佐伯遥子的手办。",
+    "name": "手办 佐伯遥子"
+  },
+  "toy-goods-figure_char-kan-01": {
+    "description": "kana的手办。",
+    "name": "手办 kana"
+  },
+  "toy-goods-figure_char-kkr-01": {
+    "description": "赤崎心的手办。",
+    "name": "手办 赤崎心"
+  },
+  "toy-goods-figure_char-kor-01": {
+    "description": "fran的手办。",
+    "name": "手办 fran"
+  },
+  "toy-goods-figure_char-ktn-01": {
+    "description": "长濑琴乃的手办。",
+    "name": "手办 长濑琴乃"
+  },
+  "toy-goods-figure_char-mei-01": {
+    "description": "早坂芽衣的手办。",
+    "name": "手办 早坂芽衣"
+  },
+  "toy-goods-figure_char-mhk-01": {
+    "description": "miho的手办。",
+    "name": "手办 miho"
+  },
+  "toy-goods-figure_char-mna-01": {
+    "description": "长濑麻奈的手办。",
+    "name": "手办 长濑麻奈"
+  },
+  "toy-goods-figure_char-ngs-01": {
+    "description": "伊吹渚的手办。",
+    "name": "手办 伊吹渚"
+  },
+  "toy-goods-figure_char-rei-01": {
+    "description": "一之濑怜的手办。",
+    "name": "手办 一之濑怜"
+  },
+  "toy-goods-figure_char-rio-01": {
+    "description": "神崎莉央的手办。",
+    "name": "手办 神崎莉央"
+  },
+  "toy-goods-figure_char-rui-01": {
+    "description": "天动瑠依的手办。",
+    "name": "手办 天动瑠依"
+  },
+  "toy-goods-figure_char-ski-01": {
+    "description": "白石沙季的手办。",
+    "name": "手办 白石沙季"
+  },
+  "toy-goods-figure_char-skr-01": {
+    "description": "川咲樱的手办。",
+    "name": "手办 川咲樱"
+  },
+  "toy-goods-figure_char-smr-01": {
+    "description": "奥山堇的手办。",
+    "name": "手办 奥山堇"
+  },
+  "toy-goods-figure_char-suz-01": {
+    "description": "成宫铃的手办。",
+    "name": "手办 成宫铃"
+  },
+  "toy-goods-figure_char-szk-01": {
+    "description": "兵藤雫的手办。",
+    "name": "手办 兵藤雫"
+  },
+  "toy-goods-figure_char-yu-01": {
+    "description": "铃村优的手办。",
+    "name": "手办 铃村优"
+  },
+  "toy-goods-nameplate_char-ai-01": {
+    "description": "小美山爱的展示牌。",
+    "name": "展示牌 小美山爱"
+  },
+  "toy-goods-nameplate_char-ai-birthday-2025": {
+    "description": "小美山爱的展示牌。",
+    "name": "生日展示牌 小美山爱"
+  },
+  "toy-goods-nameplate_char-ai-birthday-2026": {
+    "description": "小美山爱的展示牌。",
+    "name": "生日展示牌 小美山爱"
+  },
+  "toy-goods-nameplate_char-aoi-01": {
+    "description": "井川葵的展示牌。",
+    "name": "展示牌 井川葵"
+  },
+  "toy-goods-nameplate_char-aoi-birthday-2025": {
+    "description": "井川葵的展示牌。",
+    "name": "生日餐盘 井川葵"
+  },
+  "toy-goods-nameplate_char-aoi-birthday-2026": {
+    "description": "井川葵的展示牌。",
+    "name": "生日餐盘 井川葵"
+  },
+  "toy-goods-nameplate_char-chs-01": {
+    "description": "白石千纱的餐盘。",
+    "name": "餐盘 白石千纱"
+  },
+  "toy-goods-nameplate_char-chs-birthday-2024": {
+    "description": "白石千纱的餐盘。",
+    "name": "生日餐盘 白石千纱"
+  },
+  "toy-goods-nameplate_char-chs-birthday-2025": {
+    "description": "白石千纱的餐盘。",
+    "name": "生日餐盘 白石千纱"
+  },
+  "toy-goods-nameplate_char-hrk-01": {
+    "description": "佐伯遥子的餐盘。",
+    "name": "餐盘 佐伯遥子"
+  },
+  "toy-goods-nameplate_char-hrk-birthday-2025": {
+    "description": "佐伯遥子的餐盘。",
+    "name": "生日餐盘 佐伯遥子"
+  },
+  "toy-goods-nameplate_char-hrk-birthday-2026": {
+    "description": "佐伯遥子的餐盘。",
+    "name": "生日餐盘 佐伯遥子"
+  },
+  "toy-goods-nameplate_char-kan-01": {
+    "description": "kana的餐盘。",
+    "name": "餐盘 kana"
+  },
+  "toy-goods-nameplate_char-kan-birthday-2025": {
+    "description": "kana的餐盘。",
+    "name": "生日餐盘 kana"
+  },
+  "toy-goods-nameplate_char-kan-birthday-2026": {
+    "description": "kana的餐盘。",
+    "name": "生日餐盘 kana"
+  },
+  "toy-goods-nameplate_char-kkr-01": {
+    "description": "赤崎心的餐盘。",
+    "name": "餐盘 赤崎心"
+  },
+  "toy-goods-nameplate_char-kkr-birthday-2024": {
+    "description": "赤崎心的餐盘。",
+    "name": "生日餐盘 赤崎心"
+  },
+  "toy-goods-nameplate_char-kkr-birthday-2025": {
+    "description": "赤崎心的餐盘。",
+    "name": "生日餐盘 赤崎心"
+  },
+  "toy-goods-nameplate_char-kor-01": {
+    "description": "fran的餐盘。",
+    "name": "餐盘 fran"
+  },
+  "toy-goods-nameplate_char-kor-birthday-2025": {
+    "description": "fran的餐盘。",
+    "name": "生日餐盘 fran"
+  },
+  "toy-goods-nameplate_char-kor-birthday-2026": {
+    "description": "fran的餐盘。",
+    "name": "生日餐盘 fran"
+  },
+  "toy-goods-nameplate_char-ktn-01": {
+    "description": "长濑琴乃的餐盘。",
+    "name": "餐盘 长濑琴乃"
+  },
+  "toy-goods-nameplate_char-ktn-birthday-2024": {
+    "description": "长濑琴乃的餐盘。",
+    "name": "生日餐盘 长濑琴乃"
+  },
+  "toy-goods-nameplate_char-ktn-birthday-2025": {
+    "description": "长濑琴乃的餐盘。",
+    "name": "生日餐盘 长濑琴乃"
+  },
+  "toy-goods-nameplate_char-mei-01": {
+    "description": "早坂芽衣的餐盘。",
+    "name": "餐盘 早坂芽衣"
+  },
+  "toy-goods-nameplate_char-mei-birthday-2024": {
+    "description": "早坂芽衣的餐盘。",
+    "name": "生日餐盘 早坂芽衣"
+  },
+  "toy-goods-nameplate_char-mei-birthday-2025": {
+    "description": "早坂芽衣的餐盘。",
+    "name": "生日餐盘 早坂芽衣"
+  },
+  "toy-goods-nameplate_char-mei-birthday-2026": {
+    "description": "早坂芽衣的餐盘。",
+    "name": "生日餐盘 早坂芽衣"
+  },
+  "toy-goods-nameplate_char-mhk-01": {
+    "description": "miho的餐盘。",
+    "name": "餐盘 miho"
+  },
+  "toy-goods-nameplate_char-mhk-birthday-2025": {
+    "description": "miho的餐盘。",
+    "name": "生日餐盘 miho"
+  },
+  "toy-goods-nameplate_char-mhk-birthday-2026": {
+    "description": "miho的餐盘。",
+    "name": "生日餐盘 miho"
+  },
+  "toy-goods-nameplate_char-mna-01": {
+    "description": "长濑麻奈的餐盘。",
+    "name": "餐盘 长濑麻奈"
+  },
+  "toy-goods-nameplate_char-mna-birthday-2024": {
+    "description": "长濑麻奈的餐盘。",
+    "name": "生日餐盘 长濑麻奈"
+  },
+  "toy-goods-nameplate_char-mna-birthday-2025": {
+    "description": "长濑麻奈的餐盘。",
+    "name": "生日餐盘 长濑麻奈"
+  },
+  "toy-goods-nameplate_char-ngs-01": {
+    "description": "伊吹渚的餐盘。",
+    "name": "餐盘 伊吹渚"
+  },
+  "toy-goods-nameplate_char-ngs-birthday-2024": {
+    "description": "伊吹渚的餐盘。",
+    "name": "生日餐盘 伊吹渚"
+  },
+  "toy-goods-nameplate_char-ngs-birthday-2025": {
+    "description": "伊吹渚的餐盘。",
+    "name": "生日餐盘 伊吹渚"
+  },
+  "toy-goods-nameplate_char-ngs-birthday-2026": {
+    "description": "伊吹渚的餐盘。",
+    "name": "生日餐盘 伊吹渚"
+  },
+  "toy-goods-nameplate_char-rei-01": {
+    "description": "一之濑怜的餐盘。",
+    "name": "餐盘 一之濑怜"
+  },
+  "toy-goods-nameplate_char-rei-birthday-2025": {
+    "description": "一之濑怜的餐盘。",
+    "name": "生日餐盘 一之濑怜"
+  },
+  "toy-goods-nameplate_char-rei-birthday-2026": {
+    "description": "一之濑怜的餐盘。",
+    "name": "生日餐盘 一之濑怜"
+  },
+  "toy-goods-nameplate_char-rio-01": {
+    "description": "神崎莉央的餐盘。",
+    "name": "餐盘 神崎莉央"
+  },
+  "toy-goods-nameplate_char-rio-birthday-2024": {
+    "description": "神崎莉央的餐盘。",
+    "name": "生日盘子 神崎莉央"
+  },
+  "toy-goods-nameplate_char-rio-birthday-2025": {
+    "description": "神崎莉央的餐盘。",
+    "name": "生日盘子 神崎莉央"
+  },
+  "toy-goods-nameplate_char-rio-birthday-2026": {
+    "description": "神崎莉央的餐盘。",
+    "name": "生日盘子 神崎莉央"
+  },
+  "toy-goods-nameplate_char-rui-01": {
+    "description": "天动瑠依的盘子。",
+    "name": "盘子 天动瑠依"
+  },
+  "toy-goods-nameplate_char-rui-birthday-2024": {
+    "description": "天动瑠依的盘子。",
+    "name": "生日盘子 天动瑠依"
+  },
+  "toy-goods-nameplate_char-rui-birthday-2025": {
+    "description": "天动瑠依的盘子。",
+    "name": "生日盘子 天动瑠依"
+  },
+  "toy-goods-nameplate_char-ski-01": {
+    "description": "白石沙季的盘子。",
+    "name": "盘子 白石沙季"
+  },
+  "toy-goods-nameplate_char-ski-birthday-2024": {
+    "description": "白石沙季的盘子。",
+    "name": "生日盘子 白石沙季"
+  },
+  "toy-goods-nameplate_char-ski-birthday-2025": {
+    "description": "白石沙季的盘子。",
+    "name": "生日盘子 白石沙季"
+  },
+  "toy-goods-nameplate_char-skr-01": {
+    "description": "川咲樱的盘子。",
+    "name": "盘子 川咲樱"
+  },
+  "toy-goods-nameplate_char-skr-birthday-2025": {
+    "description": "川咲樱的盘子。",
+    "name": "生日盘子 川咲樱"
+  },
+  "toy-goods-nameplate_char-skr-birthday-2026": {
+    "description": "川咲樱的盘子。",
+    "name": "生日盘子 川咲樱"
+  },
+  "toy-goods-nameplate_char-smr-01": {
+    "description": "奥山堇的盘子。",
+    "name": "盘子 奥山堇"
+  },
+  "toy-goods-nameplate_char-smr-birthday-2025": {
+    "description": "奥山堇的盘子。",
+    "name": "生日铭牌 奥山堇"
+  },
+  "toy-goods-nameplate_char-smr-birthday-2026": {
+    "description": "奥山堇的盘子。",
+    "name": "生日铭牌 奥山堇"
+  },
+  "toy-goods-nameplate_char-suz-01": {
+    "description": "成宫铃的铭牌。",
+    "name": "铭牌 成宫铃"
+  },
+  "toy-goods-nameplate_char-suz-birthday-2024": {
+    "description": "成宫铃的铭牌。",
+    "name": "生日铭牌 成宫铃"
+  },
+  "toy-goods-nameplate_char-suz-birthday-2025": {
+    "description": "成宫铃的铭牌。",
+    "name": "生日铭牌 成宫铃"
+  },
+  "toy-goods-nameplate_char-suz-birthday-2026": {
+    "description": "成宫铃的铭牌。",
+    "name": "生日铭牌 成宫铃"
+  },
+  "toy-goods-nameplate_char-szk-01": {
+    "description": "兵藤雫的铭牌。",
+    "name": "铭牌 兵藤雫"
+  },
+  "toy-goods-nameplate_char-szk-birthday-2024": {
+    "description": "兵藤雫的铭牌。",
+    "name": "生日铭牌 兵藤雫"
+  },
+  "toy-goods-nameplate_char-szk-birthday-2025": {
+    "description": "兵藤雫的铭牌。",
+    "name": "生日铭牌 兵藤雫"
+  },
+  "toy-goods-nameplate_char-yu-01": {
+    "description": "铃村优的铭牌。",
+    "name": "铭牌 铃村优"
+  },
+  "toy-goods-nameplate_char-yu-birthday-2025": {
+    "description": "铃村优的铭牌。",
+    "name": "生日铭牌 铃村优"
+  },
+  "toy-goods-nameplate_char-yu-birthday-2026": {
+    "description": "铃村优的铭牌。",
+    "name": "生日铭牌 铃村优"
+  },
+  "toy-goods-pedestallivenormal_pedestallivenormal-00-000": {
+    "description": "可以放置在地板上的部件。",
+    "name": "地板部件（演唱会舞台）"
+  },
+  "toy-goods-pedestallivenormal_pedestallivenormal-01-000": {
+    "description": "可以放置在地板上的部件。",
+    "name": "墙壁部件（演唱会舞台）"
+  },
+  "toy-goods-pedestallivenormal_pedestallivenormal-02-000": {
+    "description": "可以放置在地板上的部件。",
+    "name": "板件部件（演唱会舞台）"
+  },
+  "toy-goods-pedestalmvidolypride_pedestalmvidolypride-00-000": {
+    "description": "可以放置在地板上的部件。",
+    "name": "地板部件（IDOLY PRIDE）"
+  },
+  "toy-goods-pedestalmvidolypride_pedestalmvidolypride-01-000": {
+    "description": "可以放置在地板上的部件。",
+    "name": "墙壁部件（IDOLY PRIDE）"
+  },
+  "toy-goods-pedestalmvidolypride_pedestalmvidolypride-02-000": {
+    "description": "可以放置在地板上的部件。",
+    "name": "板件（IDOLY PRIDE）"
+  },
+  "toy-goods-pedestalrectangle_pedestalrectangle-00-000": {
+    "description": "尺寸：30×10×5",
+    "name": "底座（宽）30×10×5"
+  },
+  "toy-goods-pedestalsquare_pedestalsquare-00-000": {
+    "description": "尺寸：10×10×5",
+    "name": "底座（小）10×10×5"
+  },
+  "toy-goods-pedestalsquare_pedestalsquare-01-000": {
+    "description": "尺寸：30×30×5",
+    "name": "底座（大）30×30×5"
+  },
+  "toy-goods-pedestalsquare_pedestalsquare-02-000": {
+    "description": "尺寸：15×15×5",
+    "name": "底座(中) 15×15×5"
+  },
+  "toy-goods-pedestalsquare_rotatingpedestal-00-000": {
+    "description": "尺寸：10×10×5",
+    "name": "旋转底座(小) 10×10×5"
+  },
+  "toy-goods-pedestalsquare_rotatingpedestal-01-000": {
+    "description": "尺寸：7×7×5",
+    "name": "旋转底座(极小) 7×7×5"
+  },
+  "toy-goods-pedestalsquare_rotatingpedestal-02-000": {
+    "description": "尺寸：15×15×5",
+    "name": "旋转底座(中) 15×15×5"
+  },
+  "toy-goods-pedestalsquare_rotatingpedestal-03-000": {
+    "description": "尺寸：25×25×5",
+    "name": "旋转底座(大) 25×25×5"
+  },
+  "toy-goods-tapestry_char-ai-birthday-2026": {
+    "description": "小美山爱的挂毯。",
+    "name": "挂毯 小美山爱"
+  },
+  "toy-goods-tapestry_char-aoi-birthday-2026": {
+    "description": "井川葵的挂毯。",
+    "name": "挂毯 井川葵"
+  },
+  "toy-goods-tapestry_char-chs-birthday-2025": {
+    "description": "白石千纱的挂毯。",
+    "name": "挂毯 白石千纱"
+  },
+  "toy-goods-tapestry_char-hrk-birthday-2026": {
+    "description": "佐伯遥子的挂毯。",
+    "name": "挂毯 佐伯遥子"
+  },
+  "toy-goods-tapestry_char-kan-birthday-2026": {
+    "description": "kana的挂毯。",
+    "name": "挂毯 kana"
+  },
+  "toy-goods-tapestry_char-kkr-birthday-2025": {
+    "description": "赤崎心的挂毯。",
+    "name": "挂毯 赤崎心"
+  },
+  "toy-goods-tapestry_char-kor-birthday-2026": {
+    "description": "fran的挂毯。",
+    "name": "挂毯 fran"
+  },
+  "toy-goods-tapestry_char-ktn-birthday-2025": {
+    "description": "长濑琴乃的挂毯。",
+    "name": "挂毯 长濑琴乃"
+  },
+  "toy-goods-tapestry_char-mei-birthday-2025": {
+    "description": "早坂芽衣的挂毯。",
+    "name": "挂毯 早坂芽衣"
+  },
+  "toy-goods-tapestry_char-mei-birthday-2026": {
+    "description": "早坂芽衣的挂毯。",
+    "name": "挂毯 早坂芽衣"
+  },
+  "toy-goods-tapestry_char-mhk-birthday-2026": {
+    "description": "miho的挂毯。",
+    "name": "挂毯 miho"
+  },
+  "toy-goods-tapestry_char-mna-birthday-2025": {
+    "description": "长濑麻奈的挂毯。",
+    "name": "挂毯 长濑麻奈"
+  },
+  "toy-goods-tapestry_char-ngs-birthday-2025": {
+    "description": "伊吹渚的挂毯。",
+    "name": "挂毯 伊吹渚"
+  },
+  "toy-goods-tapestry_char-ngs-birthday-2026": {
+    "description": "伊吹渚的挂毯。",
+    "name": "挂毯 伊吹渚"
+  },
+  "toy-goods-tapestry_char-rei-birthday-2026": {
+    "description": "一之濑怜的挂毯。",
+    "name": "挂毯 一之濑怜"
+  },
+  "toy-goods-tapestry_char-rio-birthday-2025": {
+    "description": "神崎莉央的挂毯。",
+    "name": "挂毯 神崎莉央"
+  },
+  "toy-goods-tapestry_char-rio-birthday-2026": {
+    "description": "神崎莉央的挂毯。",
+    "name": "挂毯 神崎莉央"
+  },
+  "toy-goods-tapestry_char-rui-birthday-2025": {
+    "description": "天动瑠依的挂毯。",
+    "name": "挂毯 天动瑠依"
+  },
+  "toy-goods-tapestry_char-ski-birthday-2025": {
+    "description": "白石沙季的挂毯。",
+    "name": "挂毯 白石沙季"
+  },
+  "toy-goods-tapestry_char-skr-birthday-2026": {
+    "description": "川咲樱的挂毯。",
+    "name": "挂毯 川咲樱"
+  },
+  "toy-goods-tapestry_char-smr-birthday-2026": {
+    "description": "奥山堇的挂毯。",
+    "name": "挂毯 奥山堇"
+  },
+  "toy-goods-tapestry_char-suz-birthday-2025": {
+    "description": "成宫铃的挂毯。",
+    "name": "挂毯 成宫铃"
+  },
+  "toy-goods-tapestry_char-suz-birthday-2026": {
+    "description": "成宫铃的挂毯。",
+    "name": "挂毯 成宫铃"
+  },
+  "toy-goods-tapestry_char-szk-birthday-2025": {
+    "description": "兵藤雫的挂毯。",
+    "name": "挂毯 兵藤雫"
+  },
+  "toy-goods-tapestry_char-yu-birthday-2026": {
+    "description": "铃村优的挂毯。",
+    "name": "挂毯 铃村优"
+  },
+  "toy-goods-tapestry_tapestry-00-004": {
+    "description": "长濑琴乃的挂毯。",
+    "name": "挂毯 长濑琴乃"
+  },
+  "toy-goods-tapestry_tapestry-01-004": {
+    "description": "伊吹渚的挂毯。",
+    "name": "挂毯 伊吹渚"
+  },
+  "toy-goods-tapestry_tapestry-02-004": {
+    "description": "早坂芽衣的挂毯。",
+    "name": "挂毯 早坂芽衣"
+  },
+  "toy-goods-tapestry_tapestry-03-004": {
+    "description": "成宫铃的挂毯。",
+    "name": "挂毯 成宫铃"
+  },
+  "toy-goods-tapestry_tapestry-04-004": {
+    "description": "白石沙季的挂毯。",
+    "name": "挂毯 白石沙季"
+  },
+  "toy-goods-tapestry_tapestry-05-004": {
+    "description": "川咲樱的挂毯。",
+    "name": "挂毯 川咲樱"
+  },
+  "toy-goods-tapestry_tapestry-06-004": {
+    "description": "白石千纱的挂毯。",
+    "name": "挂毯 白石千纱"
+  },
+  "toy-goods-tapestry_tapestry-07-004": {
+    "description": "一之濑怜的挂毯。",
+    "name": "挂毯 一之濑怜"
+  },
+  "toy-goods-tapestry_tapestry-08-004": {
+    "description": "兵藤雫的挂毯。",
+    "name": "挂毯 兵藤雫"
+  },
+  "toy-goods-tapestry_tapestry-09-004": {
+    "description": "佐伯遥子的挂毯。",
+    "name": "挂毯 佐伯遥子"
+  },
+  "toy-goods-tapestry_tapestry-10-004": {
+    "description": "神崎莉央的挂毯。",
+    "name": "挂毯 神崎莉央"
+  },
+  "toy-goods-tapestry_tapestry-11-004": {
+    "description": "井川葵的挂毯。",
+    "name": "挂毯 井川葵"
+  },
+  "toy-goods-tapestry_tapestry-12-004": {
+    "description": "小美山爱的挂毯。",
+    "name": "挂毯 小美山爱"
+  },
+  "toy-goods-tapestry_tapestry-13-004": {
+    "description": "赤崎心的挂毯。",
+    "name": "挂毯 赤崎心"
+  },
+  "toy-goods-tapestry_tapestry-14-004": {
+    "description": "天动瑠依的挂毯。",
+    "name": "挂毯 天动瑠依"
+  },
+  "toy-goods-tapestry_tapestry-15-004": {
+    "description": "铃村优的挂毯。",
+    "name": "挂毯 铃村优"
+  },
+  "toy-goods-tapestry_tapestry-16-004": {
+    "description": "奥山堇的挂毯。",
+    "name": "挂毯 奥山堇"
+  },
+  "toy-goods-tapestry_tapestry-17-004": {
+    "description": "长濑麻奈的挂毯。",
+    "name": "挂毯 长濑麻奈"
+  },
+  "toy-goods-tapestry_tapestry-18-004": {
+    "description": "fran的挂毯。",
+    "name": "挂毯 fran"
+  },
+  "toy-goods-tapestry_tapestry-19-004": {
+    "description": "kana的挂毯。",
+    "name": "挂毯 kana"
+  },
+  "toy-goods-tapestry_tapestry-20-004": {
+    "description": "miho的挂毯。",
+    "name": "挂毯 miho"
+  },
+  "toy-goods-tapestry_tapestry-50-001": {
+    "description": "月光风暴的挂毯",
+    "name": "挂毯 月光风暴"
+  },
+  "toy-goods-tapestry_tapestry-51-001": {
+    "description": "SUNNY PEACE的挂毯",
+    "name": "挂毯 SUNNY PEACE"
+  },
+  "toy-goods-tapestry_tapestry-52-001": {
+    "description": "TRINITYAiLE的挂毯",
+    "name": "挂毯 TRINITYAiLE"
+  },
+  "toy-goods-tapestry_tapestry-53-001": {
+    "description": "LizNoir的挂毯",
+    "name": "挂毯 LizNoir"
+  },
+  "toy-goods-tapestry_tapestry-54-001": {
+    "description": "IIIX的挂毯",
+    "name": "挂毯 IIIX"
+  },
+  "toy-goods-tapestry_tapestry-55-001": {
+    "description": "长濑麻奈的挂毯",
+    "name": "挂毯 长濑麻奈"
+  }
+}

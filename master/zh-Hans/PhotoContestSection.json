@@ -1,0 +1,167 @@
+{
+  "contest_section_a-21-1228": {
+    "description": "请将努力拼搏的偶像们拍进照片。希望能拍出一张讲究服装和场景的照片！",
+    "name": "光音出版",
+    "theme": "星见Production彻底剖析"
+  },
+  "contest_section_a-22-0328": {
+    "description": "请将演唱会场景拍进照片。我们将特辑身穿精美服装、在大舞台上闪耀的偶像身姿。",
+    "name": "光音出版",
+    "theme": "超级演唱会特辑"
+  },
+  "contest_section_a-22-0628": {
+    "description": "我们想再次特辑那个成为话题的锦标赛“I-UNITY”。请拍摄能让人联想到I-UNITY的照片。",
+    "name": "光音出版",
+    "theme": "I-UNITY特辑"
+  },
+  "contest_section_a-22-0831": {
+    "description": "我们将特辑Magical Mirai 10th Anniversary in VENUS STAGE。请将只有在这里才能看到的偶像们的身姿拍进照片。",
+    "name": "MK出版",
+    "theme": "初音未来特辑"
+  },
+  "contest_section_a-22-1227": {
+    "description": "请拍摄演唱会场景。特辑将聚焦演唱各组合歌曲的偶像身姿。",
+    "name": "光音出版",
+    "theme": "超级演唱会特辑！"
+  },
+  "contest_section_a-23-0626": {
+    "description": "特辑将聚焦2023年上半年热门偶像歌曲。请拍摄一张能象征该歌曲的照片。",
+    "name": "光音出版",
+    "theme": "2023年上半年特辑！"
+  },
+  "contest_section_a-23-1128": {
+    "description": "特辑将聚焦Aqours与SUNNY PEACE的合作。请拍下仅在此处才能见到的偶像身姿。",
+    "name": "光音出版",
+    "theme": "LoveLive！特辑！"
+  },
+  "contest_section_a-24-0129": {
+    "description": "特辑将聚焦雪未来与LizNoir的合作。请拍下仅在此处才能见到的偶像身姿。",
+    "name": "MK出版",
+    "theme": "雪未来特辑！"
+  },
+  "contest_section_a-24-0626": {
+    "description": "请拍摄演唱会场景。特辑将聚焦演唱各组合歌曲的偶像身姿。",
+    "name": "光音出版",
+    "theme": "星见Production ANNIV."
+  },
+  "contest_section_a-24-1128": {
+    "description": "特辑将聚焦心爱、智乃与睡衣派对的合作。请拍下仅在此处才能见到的偶像身姿。",
+    "name": "光音出版",
+    "theme": "请问您今天要来点兔子吗？特辑！"
+  },
+  "contest_section_a-25-0826": {
+    "description": "为您特辑初音未来与月光风暴的合作。请拍下只有在才能见到的偶像们的身影。",
+    "name": "光音出版",
+    "theme": "初音未来与月光风暴特辑！"
+  },
+  "contest_section_b-21-1228": {
+    "description": "为您特辑偶像的假日。\n请拍摄偶像们自然状态下的样子以及平时无法看到的特别照片。",
+    "name": "曲荣社",
+    "theme": "偶像的寒假"
+  },
+  "contest_section_b-22-0328": {
+    "description": "这次为您特辑偶像进行演唱会以外工作时的样子。请用相机拍下偶像们日常工作的模样。",
+    "name": "曲荣社",
+    "theme": "偶像的工作"
+  },
+  "contest_section_b-22-0628": {
+    "description": "请让我们特辑偶像们是如何度过休息日的。希望能拍到有私人感的照片。",
+    "name": "曲荣社",
+    "theme": "贴身跟拍！偶像的休息日"
+  },
+  "contest_section_b-22-0831": {
+    "description": "为您特辑收录现场。请拍摄偶像们平时工作的照片。",
+    "name": "曲荣社",
+    "theme": "偶像的现场大公开！"
+  },
+  "contest_section_b-22-1227": {
+    "description": "为您特辑活跃的高中生偶像的日常。请尽量拍摄氛围自然的照片。",
+    "name": "曲荣社",
+    "theme": "高中生偶像的日常！"
+  },
+  "contest_section_b-23-0626": {
+    "description": "我们将贴身采访平时忙碌的偶像们的休息日。请提供能尽情享受假期的珍藏照片。",
+    "name": "曲荣社",
+    "theme": "贴身采访！奢华的一天！"
+  },
+  "contest_section_b-23-1128": {
+    "description": "为您特辑活跃的高中生偶像的日常。请尽量拍摄氛围自然的照片。",
+    "name": "曲荣社",
+    "theme": "贴身采访偶像的放学后！"
+  },
+  "contest_section_b-24-0129": {
+    "description": "请特辑偶像们品尝美食或下厨的样子。请提供带有私人生活感的照片。",
+    "name": "DSK舍",
+    "theme": "美食特辑！"
+  },
+  "contest_section_b-24-0626": {
+    "description": "我们将特辑活跃偶像的日常。请提供为备战演唱会对决而练习或休养的照片。",
+    "name": "曲荣社",
+    "theme": "为决战做准备的偶像们！"
+  },
+  "contest_section_b-24-1128": {
+    "description": "我们将特辑偶像演唱会以外的工作与日常。请尽量提供氛围自然的照片。",
+    "name": "曲荣社",
+    "theme": "贴身采访偶像！"
+  },
+  "contest_section_b-25-0826": {
+    "description": "请让我们特辑偶像们如何度过暑假。请提供享受暑假的照片。",
+    "name": "曲荣社",
+    "theme": "偶像的暑假"
+  },
+  "contest_section_c-21-1228": {
+    "description": "新年首场LIVE特辑。\n请拍摄充满活力的偶像演唱会场景。",
+    "name": "SMT舍",
+    "theme": "新春LIVE特辑"
+  },
+  "contest_section_c-22-0328": {
+    "description": "请拍摄演唱会前彩排时的样子。我们想向粉丝展示她们努力准备的模样。",
+    "name": "SMT舍",
+    "theme": "彩排的一幕"
+  },
+  "contest_section_c-22-0628": {
+    "description": "夏日偶像特辑。请拍摄一张能向读者传递最棒夏天的照片。",
+    "name": "SMT舍",
+    "theme": "那是夏天的错2022"
+  },
+  "contest_section_c-22-0831": {
+    "description": "关于星见Production的特辑。请拍摄一张能展现各组合团队合作的照片。",
+    "name": "SMT舍",
+    "theme": "如今备受瞩目的星见Production是何方神圣！？"
+  },
+  "contest_section_c-22-1227": {
+    "description": "请拍下正月举办的演唱会场景。",
+    "name": "SMT舍",
+    "theme": "享受「正月」"
+  },
+  "contest_section_c-23-0626": {
+    "description": "盛夏正式来临。特辑介绍充满夏日气息的偶像身姿。",
+    "name": "SMT舍",
+    "theme": "都是夏天的错2023"
+  },
+  "contest_section_c-23-1128": {
+    "description": "圣诞节即将到来。特辑介绍充满圣诞气息的偶像身姿。",
+    "name": "SMT舍",
+    "theme": "快乐圣诞2023"
+  },
+  "contest_section_c-24-0129": {
+    "description": "介绍星见Production各组合的最新曲。请拍下演唱会的情景。",
+    "name": "雪花局",
+    "theme": "介绍星见Production的最新曲！"
+  },
+  "contest_section_c-24-0626": {
+    "description": "请拍下在争夺BIG4之位的演唱会对决中表演的歌曲的演唱会情景。",
+    "name": "SMT舍",
+    "theme": "BIG4演唱会对决特辑！"
+  },
+  "contest_section_c-24-1128": {
+    "description": "圣诞节即将到来。特辑介绍充满圣诞气息的偶像身姿。",
+    "name": "SMT舍",
+    "theme": "快乐圣诞2024"
+  },
+  "contest_section_c-25-0826": {
+    "description": "盛夏正式来临。特辑介绍充满夏日气息的偶像身姿。",
+    "name": "SMT舍",
+    "theme": "夏日工作"
+  }
+}

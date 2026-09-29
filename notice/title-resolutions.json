@@ -1,0 +1,1188 @@
+{
+  "resolutions": {
+    "10日間連続！無料10連ガチャ開催！": {
+      "candidates": {
+        "/notice/1bf44669fa38b84beb80a6973c96d22076ec04c5860d0b5ef5bcebc6de32b26d/index.html": "连续10天！免费10连抽卡开启！",
+        "/notice/4bc9d70d388af5f9530c43211532a43fd64c2a140342a24563091be9e0284e25/index.html": "连续10天！免费10连扭蛋开启！",
+        "/notice/762c5c9796294483d293788acd145b8116f4d622344e0664488bc5061c07d95c/index.html": "连续10天！免费10连扭蛋开启！",
+        "/notice/7a4502e6233d5dc56d97a0aa6b5dbcd7018ee013844a42c0b06b3384be6476ca/index.html": "连续10天！免费10连抽卡开启！",
+        "/notice/ade8504dcba2e690c069322898d09e5464372a22e40c841dae87071bbcbb90fd/index.html": "连续10天！免费10连扭蛋开启！",
+        "/notice/b105fc9e3bc35fbf1ddd5406c0b95dbc949975f8d6ce9959e376069b4988a38b/index.html": "连续10天！免费10连扭蛋开启！"
+      },
+      "reason": "保留10天与10连两项信息；ガチャ沿用MasterDB扭蛋用语。",
+      "review_method": "assistant",
+      "translation": "连续10天！免费10连扭蛋开启！"
+    },
+    "1人★5確定2STEPガチャ 月のテンペスト ver.開催！": {
+      "candidates": {
+        "/notice/a8ef86316373c16ad7330a4be3353e8b20e0af85315b62edfc2e53f7c7f7e8c3/index.html": "1人★5确定2STEP扭蛋 月光风暴 ver.开启！",
+        "/notice/eba2a316f06eecca9ed45f1eef2d948bda03d74533973a49022679a64afd3e2e/index.html": "1人★5确定2STEP扭蛋 月光风暴 ver. 开启！"
+      },
+      "reason": "保留保底人数、星级和STEP顺序；组合名按词典月光风暴，去掉多余句内空格。",
+      "review_method": "assistant",
+      "translation": "1人★5确定2STEP扭蛋 月光风暴 ver.开启！"
+    },
+    "1人★5確定ロックオンガチャ TRINITYAiLE ver.開催！": {
+      "candidates": {
+        "/notice/8120aecb51098f96e5ad6f33c817ab8efbccceea60c020d57f235a3789ba5ce3/index.html": "1人★5确定锁定抽卡 TRINITYAiLE ver.开启！",
+        "/notice/b03d0dba43347ea31f9421f702c0cfa54edfe513732dcc7c86e1aea8a92c861f/index.html": "1人★5确定锁定狙击扭蛋 TRINITYAiLE ver.开启！"
+      },
+      "reason": "ロックオン取锁定，不添加来源没有的狙击；保留组合官方拼写。",
+      "review_method": "assistant",
+      "translation": "1人★5确定锁定抽卡 TRINITYAiLE ver.开启！"
+    },
+    "1人★5確定ロックオンガチャ開催！": {
+      "candidates": {
+        "/notice/1be5f90ed8c3891f4d15bf02ad8d5adb83d182904a2ed01bb02afa7b016f2e87/index.html": "1人★5确定锁定抽卡开启！",
+        "/notice/358269b19534fe08246e3ddd09dd66fbf86ca0cbca57b19b49a5aff270c151a6/index.html": "1人★5确定锁定扭蛋开启！",
+        "/notice/3a324328430476f1567910fb121221fef03cedbbfcaa33be9d4fa5ed2b1cd00a/index.html": "1人★5确定锁定扭蛋开启！",
+        "/notice/3a6938e4911796290d3f0d977ea299f4497c1935a60eb409623552931724b31c/index.html": "1人★5确定锁定抽卡开启！",
+        "/notice/3d94b86077bb9867262ecb8f80ea16e22e95c3ca9d2fef3e6b07f334b3862950/index.html": "1人★5确定锁定扭蛋开启！",
+        "/notice/5c1a45ad89d33615d00a6429ed4b9726ed536766a7c0cd0f8331419c37140f27/index.html": "1人★5确定锁定扭蛋开启！",
+        "/notice/60ad3267ae7ff7288812b7692bf1a89e9406e7bfb0b33538d67393e8d112ea2c/index.html": "1人★5确定锁定扭蛋开启！",
+        "/notice/6864a2d74a703f6714f627b0f5c62ff912f0cdb874be81acceda40fcba25d45c/index.html": "1人★5确定锁定扭蛋开启！",
+        "/notice/6dacc64745dfcdc01a9df67806056aeb34d472b9778115fd555fc621c8e6145e/index.html": "1人★5确定锁定抽卡开启！",
+        "/notice/73956d05a080f9b8f747dffdfc9a4fccd740cc77d4c1656b5f8a77507457e617/index.html": "1人★5确定锁定抽卡开启！",
+        "/notice/7675a069cb587b12805952703d1c9e9bc81127eb1f150c8b6826eb1a1b3e0ca2/index.html": "1人★5确定锁定抽卡开启！",
+        "/notice/8aaa65fc27cfc2fc5e08669f555b0ee81ebe570f07740f5a481d917b47a68cce/index.html": "1人★5确定锁定抽卡开启！",
+        "/notice/a05bd1bc2cb60ec8daafb4022f3afd41f3b6e7228f212470960fcbe2aa47552c/index.html": "1人★5确定锁定扭蛋开启！",
+        "/notice/a9fda698bc349785c001cb5a0ef3d663b13164c325f48e5dd5f110e6b0d9df8e/index.html": "1人★5确定锁定抽卡开启！",
+        "/notice/b30402b6ed223d8b0335c10f57633444e78ddbc70ca9935ae88b53dc2cdd1a37/index.html": "1人★5确定锁定抽卡开启！",
+        "/notice/ba9935a8445d4558c9ec32d2dd173dcd33277b3609a4d1f4278aa59572a309aa/index.html": "1人★5确定锁定抽卡开启！",
+        "/notice/c0cdd8449af752d26e7cceb6b3e8c767da24d1cd905c3b99f645260b2f9ef30b/index.html": "1人★5确定锁定抽卡开启！",
+        "/notice/d00dfe3b8199d47b3400fe9d0e4c1bf213095c9f38ecfd7f4ceef1a008fb5b68/index.html": "1人★5确定锁定扭蛋开启！",
+        "/notice/d6d06dd0d01d9059e4c75eb0755f6766fa7f45e39ab0fcabde565d778bb8b340/index.html": "1人★5确定锁定抽卡开启！",
+        "/notice/e58afba4d4567247d10beca3b7c67c59b953ad568559e2c47b211c7abf8fc78c/index.html": "1人★5确定锁定扭蛋开启！",
+        "/notice/e650264f6b0926e78e9ba978e681b4b8c12c43b95a2461e700253021769fd531/index.html": "1人★5确定锁定抽卡开启！",
+        "/notice/ec68958cb2ac4b315c660d1a9ea4ec9b7e464da0cb10c95ee7e8b0b2c90f736a/index.html": "1人★5确定锁定扭蛋开启！",
+        "/notice/f042725736a34f974527f95f2d16ef390cb924fbde7295886f4d9382273f1a34/index.html": "1人★5确定锁定抽卡开启！",
+        "/notice/f776d9200ac6a9289adfdd2beed0d9b8a3f78354f9797ddd435c9186c949633d/index.html": "1人★5确定锁定扭蛋开启！",
+        "/notice/fdabc1f43761b8a371201fe25fabd7d83bd1d2a0e01392f43680a0c5f63ae33b/index.html": "1人★5确定锁定扭蛋开启！"
+      },
+      "reason": "保留确定人数和星级，锁定扭蛋与同类MasterDB称呼对应。",
+      "review_method": "assistant",
+      "translation": "1人★5确定锁定扭蛋开启！"
+    },
+    "1日1回無料ガチャ開催！": {
+      "candidates": {
+        "/notice/0f73e99caebda74fff3cef7c7c248309384791202e36cfe197fb32fd8a4b641f/index.html": "1日1次免费扭蛋开启！",
+        "/notice/1d84270827a919a46e3afc16b2c50712a5a99f3b36f991818ffc1af915289301/index.html": "1日1次免费扭蛋开启！",
+        "/notice/39a848452045783d243bb54b462b59b7af150dc20a4b1f717c4d6eaed19b3a5a/index.html": "1日1次免费抽卡开启！",
+        "/notice/3dcfc4ef93ee22b852acfe898c696865a6e5528f930e524739673fe9ef9d3071/index.html": "1日1次免费扭蛋开启！",
+        "/notice/42631f895253691e1ba5a8148e34bd1672a018f5b25ce61664cc440005d604aa/index.html": "1日1次免费扭蛋开启！",
+        "/notice/4bc6add3a5f5c249bf5bcb6cba5dc8958304b23215242c75537263b2c8fd66b3/index.html": "1日1次免费扭蛋开启！",
+        "/notice/6326538990094ed0e1a76db900e897f9e91efc9b37a7dee1873534a4626be6c5/index.html": "1日1次免费扭蛋开启！",
+        "/notice/68459cb6374594370742ce6ef1675980eae64c391ea1a13725e898316a69e61b/index.html": "1日1次免费扭蛋开启！",
+        "/notice/7f220ba9ff16331ee028954b3b298c996c3f9773c536ca0735b04f0a542f9bbc/index.html": "1日1次免费扭蛋开启！",
+        "/notice/a3a170e95bfb6b7d646fd9c566ec50dd6f124fa6210378fcc5db60658fbcf534/index.html": "1日1次免费扭蛋开启！",
+        "/notice/b5e64a40e6e5a0fbf0a43c255b95cf1a3a92ee25e1a8d0e966e7dac133bc8e5b/index.html": "1天1次免费抽卡活动开启！",
+        "/notice/bae344602fda73b7cad85bc089d9eb73294c95107891229fd09237e4cc4837ca/index.html": "1日1次免费扭蛋开启！",
+        "/notice/c0c2f8ab360aca7474ac93d3218cc5615a24ac2df7a3d650095e312000f1283f/index.html": "1日1次免费扭蛋开启！",
+        "/notice/f8407f75497839217ad3d52a11f9baa3f9d405e5fc14e0844c0d49a8ce6420cd/index.html": "1日1次免费扭蛋开启！"
+      },
+      "reason": "分别保留1日和1次限制；ガチャ采用扭蛋。",
+      "review_method": "assistant",
+      "translation": "1日1次免费扭蛋开启！"
+    },
+    "3日間連続！無料10連ガチャ開催！": {
+      "candidates": {
+        "/notice/17f2d910014a6df598e3808161ae145ecfedcaabc9ff25c872351b831a64af44/index.html": "连续3天！免费10连扭蛋开启！",
+        "/notice/217b5d1df779d22467a9d5946b3922cb0b1d089744f675b5028e8ec329202a33/index.html": "连续3天！免费10连扭蛋开启！",
+        "/notice/2c273a31f680baf94b562b38ba6bf15118bc99db0b1905f59efd49e943fe3597/index.html": "连续3天！免费10连抽卡开启！",
+        "/notice/45692d6eb322d7ab38433b6109b1203dbe7b59bd1fd96bd148d9c231a9d2790c/index.html": "连续3天！免费10连扭蛋开启！",
+        "/notice/53a2fffdfb8298538343c62a5a7a865d2f5ed1bf647019c0c96c78237fdb4b79/index.html": "连续3天！免费10连扭蛋开启！",
+        "/notice/714d918cdb285ed063dac6ff402ece5471c23ea99433a3ac0e1297f66e576596/index.html": "连续3天！免费10连扭蛋开启！",
+        "/notice/a48446bcc93c81374ed1bfbf5075b611db16f17afca5467d82fe3ec35ff97c07/index.html": "连续3天！免费10连抽卡开启！",
+        "/notice/e9e99daa7db69cd72b48f23a1d890b61e530010e732c3b9d89bcdf8f8a6cd15b/index.html": "连续3天！免费10连扭蛋开启！",
+        "/notice/eea14cc286aa2b6a2af0e303a1bd30fd7df6b019db52c5f58783c0b9f25c67b4/index.html": "连续3天！免费10连扭蛋开启！"
+      },
+      "reason": "保留3天及10连数量，采用同类免费扭蛋入口措辞。",
+      "review_method": "assistant",
+      "translation": "连续3天！免费10连扭蛋开启！"
+    },
+    "<p class=\"sub-title\">【復刻】もし恋イベント</p><p class=\"title\">もし恋 ~もしも君と恋をしたら~  鈴村優編<span></span</p>": {
+      "candidates": {
+        "/notice/1384e1c3da529de293c867047fec5f0a13b1c51758f1b2306789e6a0afb1b253/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你坠入爱河~  铃村优篇<span></span</p>",
+        "/notice/21f87e97e16400ae1e81f12353db4e3ecc9f4542bf786eb780eb8bd734dfee93/index.html": "<p class=\"sub-title\">【复刻】如果恋活动</p><p class=\"title\">如果恋 ~如果与你坠入爱河~  铃村优篇<span></span</p>"
+      },
+      "reason": "缩写もし恋采用HelpCategory的如果恋；姓名按词典，保留原HTML及双空格。",
+      "review_method": "assistant",
+      "translation": "<p class=\"sub-title\">【复刻】如果恋活动</p><p class=\"title\">如果恋 ~如果与你坠入爱河~  铃村优篇<span></span</p>"
+    },
+    "<p class=\"sub-title\">【復刻】もし恋イベント</p><p class=\"title\">もし恋 ~もしも君と恋をしたら~ 一ノ瀬怜編<span></span</p>": {
+      "candidates": {
+        "/notice/0683051359864faeb04fb9accb182c85a05b4bdaf24d335c2378f57ce9b53a77/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你恋爱的话~ 一之濑怜篇<span></span</p>",
+        "/notice/13504b55009507ee508fc6391cfc802e4089fe81e632f66bb77c5e1b4646202a/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你坠入爱河~ 一之濑怜篇<span></span</p>",
+        "/notice/7785edeb9d7970af7f6e142600bb57424efc80667d11774061651842f8b12234/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你恋爱的话~ 一之濑怜篇<span></span</p>"
+      },
+      "reason": "两候选均用如果恋爱；选择更自然且与同系列候选一致的副标题，保留姓名与原HTML。",
+      "review_method": "assistant",
+      "translation": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你坠入爱河~ 一之濑怜篇<span></span</p>"
+    },
+    "<p class=\"sub-title\">【復刻】もし恋イベント</p><p class=\"title\">もし恋 ~もしも君と恋をしたら~ 伊吹渚編<span></span</p>": {
+      "candidates": {
+        "/notice/95b14732ecea2974ff88443aa6a96dd60ce84698bab677d1791ce67f08eb6c04/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你恋爱的话~ 伊吹渚篇<span></span</p>",
+        "/notice/e61b10c612829a4cd748bfbec2153f970bec9617705c2e16b2bb26b85b962f96/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你坠入爱河~ 伊吹渚篇<span></span</p>",
+        "/notice/ed1bf246756bf78ca89a763ae83f0c3d5345351b880294001aed69c1d7423aa3/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你恋爱的话~ 伊吹渚篇<span></span</p>"
+      },
+      "reason": "选择与同系列既有候选一致的副标题，保留伊吹渚姓名及HTML。",
+      "review_method": "assistant",
+      "translation": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你坠入爱河~ 伊吹渚篇<span></span</p>"
+    },
+    "<p class=\"sub-title\">【復刻】もし恋イベント</p><p class=\"title\">もし恋 ~もしも君と恋をしたら~ 早坂芽衣編<span></span</p>": {
+      "candidates": {
+        "/notice/420b1dc8b090387f644d2d0014e08a3a5a1b699aad3378d3be0ea4c3bf245497/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你恋爱的话~ 早坂芽衣篇<span></span</p>",
+        "/notice/d97118ec14be5b11c542ac285dd4d5075e1b1bd270c572952c1efe915b168ec2/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你坠入爱河~ 早坂芽衣篇<span></span</p>",
+        "/notice/fad819e3d06f69544f04bdb24326c51daebfd9197d340ddae4f9769cac8546ba/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你恋爱的话~ 早坂芽衣篇<span></span</p>"
+      },
+      "reason": "选择与同系列既有候选一致的副标题，保留早坂芽衣姓名及HTML。",
+      "review_method": "assistant",
+      "translation": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你坠入爱河~ 早坂芽衣篇<span></span</p>"
+    },
+    "IDOLY PRIDE マネージャーポータル 移行のお知らせ": {
+      "candidates": {
+        "/notice/8c584b775a4061e73a7a9c1b76136602c20f6eec6719fbe3a9ad9aa12bb57e62/index.html": "关于IDOLY PRIDE经纪人门户迁移的通知",
+        "/notice/d4473b1fa86bfb0d8b2b29e1ef1e9c8cec48830333b2e888b65c35220b94b393/index.html": "IDOLY PRIDE 经纪人门户网站迁移公告"
+      },
+      "reason": "マネージャー按词典译经纪人，门户网站说明对象，迁移公告准确表达通知性质。",
+      "review_method": "assistant",
+      "translation": "IDOLY PRIDE 经纪人门户网站迁移公告"
+    },
+    "LizNoirの限定メッセが登場！": {
+      "candidates": {
+        "/notice/16237c26c76a5b4f2ba2dc59bb626353f0ddc2b3702864ed247d5a293ad56da7/index.html": "LizNoir限定消息登场！",
+        "/notice/215dbc03ede4fb4e1cc3f7d5a840604189b76e9bc03edf594dbe5aea15ac2fdb/index.html": "LizNoir的限定消息登场！"
+      },
+      "reason": "メッセ采用现有消息用语；省略不必要的的，保留组合拼写。",
+      "review_method": "assistant",
+      "translation": "LizNoir限定消息登场！"
+    },
+    "VENUSバトル開催！": {
+      "candidates": {
+        "/notice/04d87ec0b0aa390857120333bc190a49fc0be0cf49a669d34000fa26ca0b0af2/index.html": "VENUS战斗开启！",
+        "/notice/059063b929dcbb59a7d2004fcf3dce85723776640eca6f8ced2ab2019e1f8246/index.html": "VENUS战斗开启！",
+        "/notice/05f6b530160f1e8f633a6643435686fb683a0f4efb18d7c23954ed548d69d75f/index.html": "VENUS战斗开启！",
+        "/notice/08926318c625ec6db2b9ee08841a3383c27fe639fd5e495785e993c30e441c80/index.html": "VENUS战斗开启！",
+        "/notice/08aeeafa7c3dd9534536da6c166d31f07262536255dcb27594f91b93c8350914/index.html": "VENUS战斗开启！",
+        "/notice/0a96b0045b8053dbc6ff4be2e9924aed4cf3992a87770ed8c6b0d3756dc5f2b4/index.html": "VENUS战斗开启！",
+        "/notice/0af223c68a00d1fde300530c2a2308d7bc41bd6828b4aa6053ba1f57f5d95256/index.html": "VENUS战斗开启！",
+        "/notice/0eef91d4d37ffcae4130f782f71155e92cfbedf44b770d9ba73efe0272676229/index.html": "VENUS战斗开启！",
+        "/notice/1007304b58c9466128bbc1f10b21280393d78bf940080a7d4dcfbb9845a3f01d/index.html": "VENUS战斗开启！",
+        "/notice/10ae92aa7a8dbd28ae3e78d77349a1aca4ef9f71a05a5ef97d5d8fdcd5125094/index.html": "VENUS战斗开启！",
+        "/notice/117f42574919d131aa4cbb099e0dfc5270eba4254d524f905f711b3469d1fc24/index.html": "VENUS战斗开启！",
+        "/notice/126914500c46f3a8e9b2dd616826b4841725f89184193cf134e239d523537eb1/index.html": "VENUS战斗开启！",
+        "/notice/132dbf148608d8155225bd5ba59d50c76038e295d75b7a8b33a268ca49942ed2/index.html": "VENUS战斗开启！",
+        "/notice/13d24a72ba70e7e783b01d81ea952de841f369d1c0a0f1fe58ff9fdbd2132d19/index.html": "VENUS战斗开启！",
+        "/notice/151793350e9fc7f7808f5067b0238c9d5cb91ed567a6dbfd225415ec0035c736/index.html": "VENUS战斗开启！",
+        "/notice/182786505c17abd0174083eda98f319ffad66507612b84b7ede97e15e9c0bfd7/index.html": "VENUS战斗开启！",
+        "/notice/19d01e6f6f40302eddafe04a08d8a2ad668750dd90bf504f84fdc999167126bd/index.html": "VENUS战斗开启！",
+        "/notice/19d7ca59dd1400d836adc30c2928622897fab946dfba612512a2cd9cb0a11014/index.html": "VENUS战斗开启！",
+        "/notice/1f95d2f7bc59ea9b621967c4dbf9a6051ebeb4c6f26aa10e0c48bef9d47171c2/index.html": "VENUS战斗开启！",
+        "/notice/204f4366c154b4f7de74f8c6d60be52bcf8ce19ff76362d2a8cc063c4658fa05/index.html": "VENUS战斗开启！",
+        "/notice/21609a4fb3c038a436cd05b9fd1ecd6f933b49cf9af701223897fe153b9a6cfc/index.html": "VENUS战斗开启！",
+        "/notice/218038db1c17e04cc90de9db8c9d140cf1023f989c55a68d50050caab023ca65/index.html": "VENUS战斗开启！",
+        "/notice/2568a7af192fc5ea47eb6f61efc22c32557de649097230eb0266791289f10a74/index.html": "VENUS战斗开启！",
+        "/notice/2718f8fa347ac47d5733eb7ac5af27786e1c52f251bda7f00614ba40bbca4b36/index.html": "VENUS战斗开启！",
+        "/notice/276085500b5289c5d1b0ce309497a11fcc11d89a9d3f425dbaf97fe36e77b1b6/index.html": "VENUS战斗开启！",
+        "/notice/279473459b9807391bca9a95d30752427a542696d2d7a34bd6309126d0cd6348/index.html": "VENUS战斗开启！",
+        "/notice/2810b1f550527ffe629a91cf65b059c161ae5e941c6ee247b9d1d849c8de8107/index.html": "VENUS战斗开启！",
+        "/notice/2831fde639fe100b9637db565223b45c4c67be9a193fc8743ed1a84cdd290733/index.html": "VENUS战斗开启！",
+        "/notice/2864e464e8c285db055c32b73b7ae62cffa6f6af4d422f0008c17274ebbffe82/index.html": "VENUS战斗开启！",
+        "/notice/2a44245b667888703a5adc352f02524a6ec44a32fdb08e6d8dfb518e81fbdf3a/index.html": "VENUS战斗开启！",
+        "/notice/2ab8022295c0978eaa8569eba64e3471ef1f9fde62fdbd492565d499783e7456/index.html": "VENUS战斗开启！",
+        "/notice/2b9fedbbd9c57ea9dd1327b2a790a3dbc1bf969391a7b35b2a54cea42215bb19/index.html": "VENUS战斗开启！",
+        "/notice/2fa58d186551b6e7b3454c41411efbd782a2d39140c86d2a1e03478ea67fa798/index.html": "VENUS战斗开启！",
+        "/notice/2fb6a2fc7805e1c3ee67f7b8f8690031e855d7d37822ac9919ef763165c76b12/index.html": "VENUS战斗开启！",
+        "/notice/3021772d1cd001c88871e6927556102b42fc36dd7dbab43e770e9093ee59de72/index.html": "VENUS战斗开启！",
+        "/notice/3268710ea5f8326e0ccd4f7abc391f71ca46ea28f1b4ab167186915b0fbac358/index.html": "VENUS战斗开启！",
+        "/notice/3387331a32b06f325efe4a5010161106b3b6b9367cc7add389bf7004bfc02880/index.html": "VENUS战斗开启！",
+        "/notice/33cb51029787c41ef9bfb42cfbfb9cec4aade30211a15b1b7357b28d5a2418ed/index.html": "VENUS战斗开启！",
+        "/notice/350283fec95057673d10b14e3938679c87a8d9766c51383755d3e4288b1c5d30/index.html": "VENUS战斗开启！",
+        "/notice/36d05ff9085fa9153145d011e6bcbc4f1238aec0b09907f8280d8948d4ed3d3d/index.html": "VENUS战斗开启！",
+        "/notice/37088dcacd92eafd40fb2c30722165b57560f65de1561714b9b6893e567370b9/index.html": "VENUS战斗开启！",
+        "/notice/37572aaad7c707ba6cb6ca5375c2ff6347110b09619c4977816df6207dcea4d1/index.html": "VENUS战斗开启！",
+        "/notice/384cc2661117dde11d089c80757e7c24aac1982188fc3c2fa949c157dff80b24/index.html": "VENUS战斗开启！",
+        "/notice/38519fb297b83ba915d8e6fca5daeac00d631bc996a0588277067201a1aa070e/index.html": "VENUS战斗开启！",
+        "/notice/3907430b10c2fab7d91fcc892c433cb1c2dc28378d05aea77ad355230b792e0c/index.html": "VENUS战斗开启！",
+        "/notice/3941bc7d6e6325a230b2a94993ca12d9a7e7b834261a2f705bd25285804f0b93/index.html": "VENUS战斗开启！",
+        "/notice/3a4c67b5a2c99154ec6e2bd0bfc2a31b879dbea024f1889a7ec40b9dff347364/index.html": "VENUS战斗开启！",
+        "/notice/3abd78fbc7038209772a3b9b161582d95d815ecada722fea58790acea22844e5/index.html": "VENUS战斗开启！",
+        "/notice/3afa821cd07812d3cf6392e82ec22c1ae30f6ee8bb62897b1075ee7de35f1108/index.html": "VENUS战斗开启！",
+        "/notice/3cec8a3ea441e06e15e1ed55a93ebd5b644595d6cf6787baa6cb5806fee8b637/index.html": "VENUS战斗开启！",
+        "/notice/3da6082d4a06d7e074741b904a06c1c96d36d582b2ba7370e26541cf03764268/index.html": "VENUS战斗开启！",
+        "/notice/3f5ef82c50d16df56178c6db8f963313595aab07e3880de4e4512417fc274c13/index.html": "VENUS战斗开启！",
+        "/notice/42436ebeee9a01b7662393353efcf2c8b0db8e7f9210a0f4d719d997d67dbd20/index.html": "VENUS战斗开启！",
+        "/notice/42eb5097ee8a2aba68307a7c111f86c6f59a5d0d9bcd3692f81ea92c579994ce/index.html": "VENUS战斗开启！",
+        "/notice/46a45b4796ee6ac4ce8412b0220dbb3a76b435c52fe19311d2e7c62d7781dcd3/index.html": "VENUS战斗开启！",
+        "/notice/4782f6452dfa78fac18e04f3177d9918343b3e1fef7d522df72b0f61da4ca5e9/index.html": "VENUS战斗开启！",
+        "/notice/489a2cf475408a8790f5bc7df8ae155b4e8e9f9675be438f7069327b07a0176c/index.html": "VENUS战斗开启！",
+        "/notice/4b3049ea3830e6e2cd2b9ec256b32d31ee1de4ab3c545c487ad81b04eb182cc2/index.html": "VENUS战斗开启！",
+        "/notice/4c7c11871a5801c6d598f000bf65a5cb131161f220dd6abbdd9e1b91d87ed1f8/index.html": "VENUS战斗开启！",
+        "/notice/4cead19d29b4df0b2c43c83fd54ae7ff9b716fa64e4f4348ecd5fae66f40d0a3/index.html": "VENUS战斗开启！",
+        "/notice/4d6879830e943dc38140eb38021de5c4e4c1ad49dfbeb3363804ab7de4be93e5/index.html": "VENUS战斗开启！",
+        "/notice/529036c2d34bf39eb76f1db6145d09ac78514b0aa1db0b5a059ab36ddab1df10/index.html": "VENUS战斗开启！",
+        "/notice/558781a76795893014f816d124447d5e0ff126de8df7c60e670a72bb96e1c18d/index.html": "VENUS战斗开启！",
+        "/notice/57750c84ec083b1e2bdc2c9fad96d798b59799bbd37989e94fee8a330a713253/index.html": "VENUS战斗开启！",
+        "/notice/58cfe9988cf1d9db87016debe254939ff3e974e81ebf8b5368a7d010bb057e8c/index.html": "VENUS战斗开启！",
+        "/notice/5d2091f5d688963d1c741319638344a6f423108bbb14d0237a149407048dae20/index.html": "VENUS战斗开启！",
+        "/notice/5d9fdde3031af81f223534d0d91ed1fdd7d13cb9aaec3d0710fe4a04419d3e65/index.html": "VENUS战斗开启！",
+        "/notice/5dfe43b8fad4c3741317b8f8a6c4c745a9dccc32da25889f50afe266d80316d6/index.html": "VENUS战斗开启！",
+        "/notice/5f040a55ba08e3301900fcb036531d307e6479a9cf0bdc376f78cf686af19f67/index.html": "VENUS战斗开启！",
+        "/notice/5f6c13da4da316caf043f42748149160a74361011a778de034239904d705d30f/index.html": "VENUS战斗开启！",
+        "/notice/602d69704dcc33c3f24765a9857d91bc372924d6ec78b4340ae2d2162424bcc7/index.html": "VENUS战斗开启！",
+        "/notice/6049dbeff356793ae598c9bdcee28affdac7236eb104fef501cf9ccd9c0595a9/index.html": "VENUS战斗开启！",
+        "/notice/61aa2263556f76d5a2347ea4c6461f989d961329cfb8a177c5e77a9f02f4c79e/index.html": "VENUS战斗开启！",
+        "/notice/626ce4aaf2d37fea7c77e489ef430219bdc9c7911e3e9930d1eab1d958e9332e/index.html": "VENUS战斗开启！",
+        "/notice/62af9af22893b1c674295b7c4a66a5c62d52ccdd1b8b9faee6b2f16976026b22/index.html": "VENUS战斗开启！",
+        "/notice/63c45e6724259902d3cd12758669f0cddb7f0d45a74c4b8297888f3b6c6f9941/index.html": "VENUS战斗开启！",
+        "/notice/647a43c7611af7bb097a009d75d526f6e7fb0f6c1791b86f3c3c35744971927a/index.html": "VENUS战斗开启！",
+        "/notice/64980e3b2d64477e1ea95aedb639dcfb65dd2d9bde29b353d4486c6a188f30e4/index.html": "VENUS战斗开启！",
+        "/notice/673b3045ff91c9c37aff94ea31cc4751b9734c9f049a18121abebe7fb51bfab6/index.html": "VENUS战斗开启！",
+        "/notice/67c68d6ee6cb952fba5aa7e9f346c5e5440e4bd16c627594ede1eb43d2245dba/index.html": "VENUS战斗开启！",
+        "/notice/6993173b48cf8182b96f3a64779da8bbf68ef0292f362b91735e69f5cfa18f56/index.html": "VENUS战斗开启！",
+        "/notice/6a62d7c73924d68f3fe3c4ef85e0e3b12cc807ad19a2737ef36c72e598c4c3a3/index.html": "VENUS战斗开启！",
+        "/notice/6a66aed2794b157b30bd0d315504e274f024cad2b66f2fc7e398390c1f8c87b4/index.html": "VENUS战斗开启！",
+        "/notice/6a6876cd7b2557d55baefd4833d2044d184f8ebef7451e60f66a2addb45d5d54/index.html": "VENUS战斗开启！",
+        "/notice/6c9d435c7272277e80806fe54c73b475abb04a18d2db6c6f36d95502f9edb11f/index.html": "VENUS战斗开启！",
+        "/notice/6d0c4b96f3828ef930cf2c80fb9a361fffa2a50bfcdac217e0bbe134a4f4ec11/index.html": "VENUS战斗开启！",
+        "/notice/6d4836ab2c96208d5bb4b2a65bbe1a3b0a318b823f925fb6c341ae22bdbebfaa/index.html": "VENUS战斗开启！",
+        "/notice/6e482651131a11ed0492da74aa32b7b2a00ec7a9590014462be4ba192fbf6c36/index.html": "VENUS战斗开启！",
+        "/notice/6eaf05f9216edc0a0d80caceb4684a77f2f3e9b61f092ad28ae178811c726137/index.html": "VENUS战斗开启！",
+        "/notice/6fd84db4331b49ed0da68fec2dc33751d1b942e5cc986745da1ad1a59fd1ca71/index.html": "VENUS战斗开启！",
+        "/notice/71966e7ce98d6bb51c3d60ad620eaa909cee301b3a4d65af6854d35cdb6083d6/index.html": "VENUS战斗开启！",
+        "/notice/72010c2c3a1a6f7d8b3b42f43ac759a7a7f93095033ae73050a487a2b3301b21/index.html": "VENUS战斗开启！",
+        "/notice/721fb4fc3756e6a5c8516b142f8aa160ad44322f48a16104721c5b5ddbf0a376/index.html": "VENUS战斗开启！",
+        "/notice/753193addc4ccb10749eac46deedc4866477ed818b8add7a9b8759238c23f6b2/index.html": "VENUS战斗开启！",
+        "/notice/782936d168e5645ddc389886b9d57e7ec41cb5286c6ffcc0c2f8e8fa408cce12/index.html": "VENUS战斗开启！",
+        "/notice/794588eed12e4caab1f7523974006cb8a43d59aadf0def61d4cdce198aac4d81/index.html": "VENUS战斗开启！",
+        "/notice/7a34cbb87ad1259c8bfb0688b31c4456adb71ba55e4a2e673205167c901a2ce3/index.html": "VENUS战斗开启！",
+        "/notice/7ece44da6ab9e882210aadc12582d993cac74ef0ef1d15787494ec3a8d6a1fef/index.html": "VENUS战斗开启！",
+        "/notice/7f11d148ef0cb96e98e4d90833fbcabc0b53a642094025644cc008c4f2586255/index.html": "VENUS战斗开启！",
+        "/notice/80dad4aa5d2210c2a710b59418b7f26a1b0292138efab52500995fbd41251964/index.html": "VENUS战斗开启！",
+        "/notice/82f4b4cf39520b191ab424f66aa75517de62500c78a35ec6c3916fea828e1016/index.html": "VENUS战斗开启！",
+        "/notice/87956b2f4fa5c068c6a4d49ec157573ec9fdc00a446a0d63d989d08757a1eccc/index.html": "VENUS战斗开启！",
+        "/notice/8c1a8100a20f631e47b557f02359489d3b0978c5a8075c53eca314df54dd7d83/index.html": "VENUS战斗开启！",
+        "/notice/8c2171db9c5b5a5c5f8582078145b60b5b4a24c68ef9aa8a43ea6e8e189e41d1/index.html": "VENUS战斗开启！",
+        "/notice/900a8fcb4bfdd2717aaa4def31690d470ec81ea4d3bf7c35443643e512f09a2a/index.html": "VENUS战斗开启！",
+        "/notice/92c0defd8799dbcd28bc30d7ead5ed55b248b679aa49cc7019301830269c74aa/index.html": "VENUS战斗开启！",
+        "/notice/943e90b0680bfc085f98d4e8bd3fa79b3fa10753ed9655e722fe5c4e0497e62c/index.html": "VENUS战斗开启！",
+        "/notice/94c605e774293476e64e90bb57d91042b38a036403869724b3436e164e5a97d3/index.html": "VENUS战斗开启！",
+        "/notice/9775bd4d3607275525189f6bbc5885f9f4db252ad149332448d499280e6263a7/index.html": "VENUS战斗开启！",
+        "/notice/997e397ee95f506078c698df4570ada1821e44c9401c0b7fe6cb196a73dd35e2/index.html": "VENUS战斗开启！",
+        "/notice/9d9da957cca7fe3c2bbf9ecfd3837e8a1cdcef6bd9d0ac8d472e635b74644b83/index.html": "VENUS战斗开启！",
+        "/notice/9d9ebf90472e20e42fb020753ad69220eaffeb07ac31a094a39127f79d36487f/index.html": "VENUS战斗开启！",
+        "/notice/a18db6f75fbc9b3dcbd481b184898ceb503604741d81d232f5f6d5204e468cb3/index.html": "VENUS战斗开启！",
+        "/notice/a1ad09ad66a400dc22d93d18281646503a8a985220021df9fdf3203805a82296/index.html": "VENUS战斗开启！",
+        "/notice/a50437470754c8033a22f3b6a6121208022d6f5ae29e3abcf691f03d73f65e8a/index.html": "VENUS战斗开启！",
+        "/notice/a51bfc135488ef13a266d9fde65ad6092f6e65703a1da42d88bceb7ac5266a22/index.html": "VENUS战斗开启！",
+        "/notice/aca40a0c8f6469d1540d7cc704c3065b7cfc9d23e1387a3ebd750ce4d3b12bb1/index.html": "VENUS战斗开启！",
+        "/notice/ad117032824e23dd57dc2d80f486bc0d344d456a27df32beb426002ab796d8e9/index.html": "VENUS战斗开启！",
+        "/notice/ad1389b5b1ee7aed3f0e327632c784767156d41c7143d2b8bcb55c26b9bb1e5a/index.html": "VENUS战斗开启！",
+        "/notice/ad8ffa2d6c13c3b6758388aee02d97a7fe1568038665e6b288a023836b0b3e8d/index.html": "VENUS战斗开启！",
+        "/notice/ae808cc6abae90eb26911595c6f84f5e16850702065e3feac2a57bb7b681b509/index.html": "VENUS战斗开启！",
+        "/notice/b07dbcea47ea9b2af4022db2772da7471740f173fec920269b2e76dfe7135b18/index.html": "VENUS战斗开启！",
+        "/notice/b091abcd3f0f80df9d16cb5dc75bc4a9a916091784fe799105de488076f3f37a/index.html": "VENUS战斗开启！",
+        "/notice/b0fac77e6e49a248131d2578617081909dc1cabde6a4eac7da32e19f2ae41808/index.html": "VENUS战斗开启！",
+        "/notice/b258475c4803ab8b796cc61085213899d88f56c25fe606c94cc89263d0d3d5ea/index.html": "VENUS战斗开启！",
+        "/notice/b281ee41c50413b6f0f551e3e3aedea86b078be8c3006a4569af34f761578f22/index.html": "VENUS战斗开启！",
+        "/notice/b2ab9ea7ffcb829e76213e0cc90739c051beb9a5153edd554737eff36df8c2d0/index.html": "VENUS战斗开启！",
+        "/notice/b4fe2a65248a8f17338b914cd882092051949e3ba265362a5012280e151cf226/index.html": "VENUS战斗开启！",
+        "/notice/b5195be96000fc3219c8caf9c4fd6461362864895651710bc3be2016bdb3df04/index.html": "VENUS战斗开启！",
+        "/notice/b5abfd7a12cbdb08a881e49151a6e58e6ef224bcd882dba30de69508e640dd3c/index.html": "VENUS战斗开启！",
+        "/notice/b6e66779f3ed6ee52d376a2f760f2134a917438cdc3c4329919e7c77c4183da1/index.html": "VENUS战斗开启！",
+        "/notice/bd94d2b25ff07e041e98ac0e26115bf049df344a58c700ad0a6488ca4b16817b/index.html": "VENUS战斗开启！",
+        "/notice/c039782f34ab9f1d6844e2cf189524666131500b9411c76b87e0c1006fd9a2e5/index.html": "VENUS战斗开启！",
+        "/notice/c1239e0f2eb446d4e6f74741189179327265bfe41a118a043942f1d2f6913ddd/index.html": "VENUS战斗开启！",
+        "/notice/c2b08790fa2dc829a7632b81428284cf8acd4a2560660feda1e1ad5c065e67f3/index.html": "VENUS战斗开启！",
+        "/notice/c4dc365dc1f59154c6b0fee779db2f6591d413be74e5232f86386076ecc65685/index.html": "VENUS战斗开启！",
+        "/notice/c8647032657dd4c14a60e2c18c52a3e6817b15a32a15691455478f2fc23af6cc/index.html": "VENUS战斗开启！",
+        "/notice/c8a78fc9e090fc8de4747a104ec5e1f479642036a386426cd41a63f597866eab/index.html": "VENUS战斗开启！",
+        "/notice/c938f5699f59ecc81ae2df4206cbc8356c11cebd975ce0a0765c6c7a433efa7b/index.html": "VENUS战斗开启！",
+        "/notice/c94123e5b0e4cecd20c00ef81f8a1240215a32669243134caf7a3bb19baf69bd/index.html": "VENUS战斗开启！",
+        "/notice/ca43d54366137df87c5a0cf40eb87fb98277af01a5b3a90c390d8b0d2b0058b6/index.html": "VENUS战斗开启！",
+        "/notice/cbc9fe206919b28eb7284d9dc2ae0fc80f5a671f60375353654f1dcfb7aef8bd/index.html": "VENUS战斗开启！",
+        "/notice/cc8bcccfc8bc46f5be557181833e265fd159e9f8749112c23170156145b81a19/index.html": "VENUS战斗开启！",
+        "/notice/cfef49c05da579870d53c07d303a2c2d83967b23363859f8d42fcaed05ec2656/index.html": "VENUS战斗开启！",
+        "/notice/d02c245a1298af6e7c559119ad51657435f697e6b3e1128d6880d162b4d3f470/index.html": "VENUS战斗开启！",
+        "/notice/d05179baf202c323c2e7f6fb5e2c8b411e87b9cbe04ebb8f89f51774dc54b1c1/index.html": "VENUS战斗开启！",
+        "/notice/d3254f2799cf14cdcbc96c9bd4123d93d73bed887d5cc7e617757bbac36afe08/index.html": "VENUS战斗开启！",
+        "/notice/d3771f794a7fc26b815532557863241b10a39b6601e27affe864454ae1da301e/index.html": "VENUS战斗开启！",
+        "/notice/d3f229d994d2a7843c08ec833f3c1ff8f984fa3047270664108515d47d9a65c0/index.html": "VENUS战斗开启！",
+        "/notice/d7d45189eb25dd4a87d08bb8321a86ae7fe0b96abe3133c854bea9c1b5993550/index.html": "VENUS战斗开启！",
+        "/notice/d8b48e450b0a141d46674c7a7a5cdae69551496682dd2a970d83b1dc49273730/index.html": "VENUS战斗开启！",
+        "/notice/dad62b3455592ac9cda6f41d3f930fe051cc9a4b0e6c5541fe865a97e703fda8/index.html": "VENUS战斗开启！",
+        "/notice/db78c0b30454c23a23cb1df46b1acd21b1489b9526ffc2d6b11894956b7648c7/index.html": "VENUS战斗开启！",
+        "/notice/dce3530dc4fe1c4831c75dc338cb90e344109fbb2fcf60cd2fcb93c6fb0a4801/index.html": "VENUS战斗开启！",
+        "/notice/dd9a265218d4f38fc6d22dce4ddfe5843455210ceba4265e73e77a623f1296b7/index.html": "VENUS战斗开启！",
+        "/notice/de16d71c03e254d3967dc02a1545e6c3583ee83f36826431234c6c5e85a7b52a/index.html": "VENUS战斗开启！",
+        "/notice/df474b86c648bde1c293d217100f6c6f4600c21c9f73e49d0cb3add9ad6ac798/index.html": "VENUS战斗开启！",
+        "/notice/e1773599a884e2798cc0637062340bab99918d5499535526ff46fe369f47df3a/index.html": "VENUS战斗开启！",
+        "/notice/e299a7b1dec73ea6c75897c3724f30217d9c60fbd0cf1c07e4e3418eabf637dc/index.html": "VENUS战斗举办！",
+        "/notice/e374ea0339ef427f8fe62d055031010847ad5372894f9fd5940136e7f02c201f/index.html": "VENUS战斗开启！",
+        "/notice/e6ad74f861653015f180040861ac8c6d58c0839e8f306bcfa4ec3e186815bb7e/index.html": "VENUS战斗开启！",
+        "/notice/e6d822e6c4957f4325404a3a568dc123ad9ad0090b007ccaa5da0fbf6b873abb/index.html": "VENUS战斗开启！",
+        "/notice/e6d90b54bff7222cab9e5dcc0a36bb96c14af6158acedbf15c87dbbc48337cfa/index.html": "VENUS战斗开启！",
+        "/notice/e84400f112522069f53e0b3e5e34b1a371a7653dcc1e61a98d26bd679e288860/index.html": "VENUS战斗开启！",
+        "/notice/ea8ef46dc5c6f671b5649d95fd065120d769f59a84c8d9beb1c1e309a5a9f23b/index.html": "VENUS战斗开启！",
+        "/notice/eb21e3e1d7b5453a51d6485e2cc8809c99647adfedcfde791a219af7736481e6/index.html": "VENUS战斗开启！",
+        "/notice/ecf0cb9277ef93788666b3635c49ff6a6ef35cf8f5206b4b9019998cc6193412/index.html": "VENUS战斗开启！",
+        "/notice/ee66617af23a45e67059dcb157cf08e6839ab8155fd955ec3f586bc09853548b/index.html": "VENUS战斗开启！",
+        "/notice/eefec7d8761adbb6d0550ed7ce03eb5342467976b7f4e153b7c3901f7f4627cd/index.html": "VENUS战斗开启！",
+        "/notice/ef5c321e1e7990d83720c28572cfa92b92e326ccdf8247c27291445f7b18989a/index.html": "VENUS战斗开启！",
+        "/notice/f28919a14a5304160a38c68b146f9aec91f80e90972b0a5ce542b6dd09d223a0/index.html": "VENUS战斗开启！",
+        "/notice/f45abf9331f6ec84f232cf9c0b88a615920dd012b338f1de7732bb99a918dc4f/index.html": "VENUS战斗开启！",
+        "/notice/f7c013113a12a366eaa98284aecf274f223c9aa55c65e9c38e7e9e78728df1a1/index.html": "VENUS战斗开启！",
+        "/notice/f9d0a0ae808c3ffcf3a0c2e4c5dfa3f9d7def4385e5123476cf464c405585c99/index.html": "VENUS战斗开启！",
+        "/notice/fa2d8e3ae9b5f8037c81716b1509257a3bc64cf37cdfd72b1a18fde07c6b2877/index.html": "VENUS战斗开启！",
+        "/notice/fcea7f2b3156c929bcf7800a379310821b3012a33bfd712c5b58d70e7474a3c1/index.html": "VENUS战斗开启！",
+        "/notice/fea776a07e311a473e7e2d196a770824b8edf7e4390777de319e9e447cf432e4/index.html": "VENUS战斗开启！",
+        "/notice/ff0d9e03545c572e2110c47992fd89a30c8dcab4897533875babcdfc2645687c/index.html": "VENUS战斗开启！"
+      },
+      "reason": "活动开场采用开启，保留VENUS模式名。",
+      "review_method": "assistant",
+      "translation": "VENUS战斗开启！"
+    },
+    "VENUSリーグで次シーズンの編成ができない": {
+      "candidates": {
+        "/notice/08511489f1d15c9e7349b83123166de208ea17997eb0b3b53d7c94312ae73c0a/index.html": "在VENUS联赛中无法编成下一赛季的队伍",
+        "/notice/441c32d31fa7debfbd8a38d62408b6ecc8aa9b797524bbc1ef900a2013132069/index.html": "在VENUS联赛中无法编成下一赛季的队伍",
+        "/notice/4b5545f58a926031b168ab37ffce90ddc3c6f8912274a5e6402237b23b440ec2/index.html": "VENUS联赛中无法编成下一赛季的队伍",
+        "/notice/c97c6f1c7b5114d7c1d46ff3c33d2a50608f18a3b4ffb1b885e0f2968ed98c55/index.html": "VENUS联赛中无法编成下一赛季的阵容"
+      },
+      "reason": "編成明确为阵容设置故障；保留下一赛季时间范围。",
+      "review_method": "assistant",
+      "translation": "VENUS联赛中无法编成下一赛季的阵容"
+    },
+    "ⅢXの限定メッセが登場！": {
+      "candidates": {
+        "/notice/2d04d033faff34d0a5b43d117d36e4e5affa64e5cfb442dcb8572a04d2ccd46f/index.html": "ⅢX的限定消息登场！",
+        "/notice/c76c354d4c6652ea767821839b9a94e2df4305d15bacef94bab9e43b97d2f8e5/index.html": "ⅢX的限定消息登场！",
+        "/notice/e488f14caf8b35b210d97052ddc52521b5151262d9244f4cb620503dcea3a479/index.html": "IIIX的限定消息登场！"
+      },
+      "reason": "组合ⅢX按正式terms词典规范为IIIX。",
+      "review_method": "assistant",
+      "translation": "IIIX的限定消息登场！"
+    },
+    "「おでかけシリーズ開催記念ショップ」登場！": {
+      "candidates": {
+        "/notice/008cedbc7b1a35b939ebc72e6e1bf0e3fd210cc0598c3abedc8a066c649a2ca8/index.html": "“外出系列举办纪念商店”登场！",
+        "/notice/3a1b0163e304a4913fff737e2da54e32b66a4e53353e7d84b931330a61759be4/index.html": "「外出系列举办纪念商店」登场！",
+        "/notice/459369292a76c9a1dbcf42734c79ef75d70e4aeebb19f85a0f06ac983ad7d9fc/index.html": "「外出系列举办纪念商店」登场！",
+        "/notice/91095ed8491dbe63a5cde0b6b299e44e1f78f7a8702a4911df50d627fea00940/index.html": "「外出系列举办纪念商店」登场！"
+      },
+      "reason": "保留原标题商店名的括号，与其他商店入口样式一致。",
+      "review_method": "assistant",
+      "translation": "「外出系列举办纪念商店」登场！"
+    },
+    "「おでかけシリーズ開催記念特別ショップ」登場！": {
+      "candidates": {
+        "/notice/22b8ad75c41315b17def8ad29f2e477f185a817521a4e81a80374e444e3cb930/index.html": "「外出系列举办纪念特别商店」登场！",
+        "/notice/a81fb49cc209a9b8f8c65b23e4d3e7868dca5d6768a0d5d573b9994f41fb483f/index.html": "“外出系列举办纪念特别商店”登场！",
+        "/notice/b99bf54c9c7abb749529fa7ca1ed80429d6520a81448453c45f4343ae2e3fd7d/index.html": "「外出系列举办纪念特别商店」登场！",
+        "/notice/ee0b4086b7f8d857a6e76bade3c4ccd2e5ed49e15959c7acbd0ca0f7b9f1bc7a/index.html": "「外出系列举办纪念特别商店」登场！"
+      },
+      "reason": "保留特别商店与普通商店区别，延续商店入口括号样式。",
+      "review_method": "assistant",
+      "translation": "「外出系列举办纪念特别商店」登场！"
+    },
+    "「もし恋 ~もしも君と恋をしたら~ 」とは": {
+      "candidates": {
+        "/notice/0683051359864faeb04fb9accb182c85a05b4bdaf24d335c2378f57ce9b53a77/index.html": "什么是「如果恋 ~如果与你恋爱的话~」",
+        "/notice/13504b55009507ee508fc6391cfc802e4089fe81e632f66bb77c5e1b4646202a/index.html": "什么是「如果恋 ~如果与你坠入爱河~」",
+        "/notice/1384e1c3da529de293c867047fec5f0a13b1c51758f1b2306789e6a0afb1b253/index.html": "什么是「如果恋 ~如果与你坠入爱河~」",
+        "/notice/21f87e97e16400ae1e81f12353db4e3ecc9f4542bf786eb780eb8bd734dfee93/index.html": "什么是「如果恋 ~如果与你坠入爱河~」",
+        "/notice/3028c394c78b36f15f5f713bd13ef4ab3a3f8bd6d45bd4d66b5be2adc38d96ad/index.html": "什么是「如果恋爱 ~如果与你坠入爱河~」",
+        "/notice/420b1dc8b090387f644d2d0014e08a3a5a1b699aad3378d3be0ea4c3bf245497/index.html": "什么是「如果恋爱 ~如果与你恋爱的话~」",
+        "/notice/4240d36c299b3e6e27b3c3551f971e57ff04aa21317f69c2bceaa765f64bf1ce/index.html": "什么是「如果恋 ~如果与你坠入爱河~」",
+        "/notice/7785edeb9d7970af7f6e142600bb57424efc80667d11774061651842f8b12234/index.html": "什么是「如果恋 ~如果与你恋爱的话~」",
+        "/notice/95b14732ecea2974ff88443aa6a96dd60ce84698bab677d1791ce67f08eb6c04/index.html": "什么是「如果恋 ~如果与你坠入爱河~」",
+        "/notice/bcfa9657c6d24af1ba7788913c9f29599f2db6f6f77e1a7b66066c881d744cb8/index.html": "什么是「如果恋爱 ~如果与你恋爱的话~」",
+        "/notice/d97118ec14be5b11c542ac285dd4d5075e1b1bd270c572952c1efe915b168ec2/index.html": "什么是「如果恋 ~如果与你坠入爱河~」",
+        "/notice/e61b10c612829a4cd748bfbec2153f970bec9617705c2e16b2bb26b85b962f96/index.html": "什么是「如果恋 ~如果与你坠入爱河~」",
+        "/notice/ed1bf246756bf78ca89a763ae83f0c3d5345351b880294001aed69c1d7423aa3/index.html": "什么是「如果恋 ~如果与你恋爱的话~」",
+        "/notice/fad819e3d06f69544f04bdb24326c51daebfd9197d340ddae4f9769cac8546ba/index.html": "什么是「如果恋 ~如果与你恋爱的话~」"
+      },
+      "reason": "もし恋缩写对齐HelpCategory的如果恋；とは为功能介绍，不误写活动开启。",
+      "review_method": "assistant",
+      "translation": "什么是「如果恋 ~如果与你坠入爱河~」"
+    },
+    "「もし恋開催記念ショップ」登場！": {
+      "candidates": {
+        "/notice/8e0a075aa3df4f9604331439024d2aa1a7a3ce8911e98ea36e9dc61335e83cc9/index.html": "「如果恋爱举办纪念商店」登场！",
+        "/notice/8e8bb44168011ea0cea76b74bc6f7204f8d0946edabc7e8073ec71ea8056c906/index.html": "「如果恋举办纪念商店」登场！",
+        "/notice/ca083f227967f4ad0028310fdeb1863e4b3a058b7d0f2646dff69d87cf1e694b/index.html": "「如果恋举办纪念商店」登场！"
+      },
+      "reason": "もし恋采用已有功能名如果恋，保持普通商店类别。",
+      "review_method": "assistant",
+      "translation": "「如果恋举办纪念商店」登场！"
+    },
+    "「もし恋開催記念特別ショップ」登場！": {
+      "candidates": {
+        "/notice/030f01ab2208b5fceffc4149b14da3ed9617d93289e87eb531944f41461c667d/index.html": "「如果恋举办纪念特别商店」登场！",
+        "/notice/6d064443cfb242d69dfe4d31a8a88fb5b4071698c3380be4a830c2ef69079997/index.html": "「如果恋举办纪念特别商店」登场！",
+        "/notice/8b16a2ee72ae88f49fff3619c3987598f74da01e6abc9399a42d1075582313e5/index.html": "「如果恋爱举办纪念特别商店」登场！",
+        "/notice/ad2bbe89e10d5c3332ac0beb818ae47cca0603d66aa8cebbf1875dd1718c96f7/index.html": "「如果恋举办纪念特别商店」登场！"
+      },
+      "reason": "もし恋采用已有功能名如果恋，并保留特别商店限定。",
+      "review_method": "assistant",
+      "translation": "「如果恋举办纪念特别商店」登场！"
+    },
+    "「アイプラフェス1人★5確定10連ガチャチケショップ」登場！": {
+      "candidates": {
+        "/notice/11d25c3f1fee8a6fe8c629bdbcf5fcb64f445342dfff7bb679a9cd16e70dffe2/index.html": "「IDOLY PRIDE Fes 1人★5确定10连扭蛋券商店」登场！",
+        "/notice/368a4ca0837d185018557040fd3e13507fc4b8f8b89614577ad9d828d62c3355/index.html": "「IDOLY PRIDE Fes 1人★5确定10连扭蛋券商店」登场！",
+        "/notice/3cc879662854b4e90b02957ee8da44f8388b3a8a9c05406fe1022cd1f40ab083/index.html": "「偶像荣耀祭1人★5确定10连扭蛋券商店」登场！",
+        "/notice/3dbea328c9322126170f50109144f89c90c51503cdd66be6d5b04f4944462661/index.html": "「IDOLY PRIDE Fes 1人★5确定10连扭蛋券商店」登场！",
+        "/notice/9b8b080e4e97531db2956e40295999c6ba652d1f2967be54f6dbe5260d3dde5d/index.html": "「IDOLY PRIDE Fes 1人★5确定10连扭蛋券商店」登场！"
+      },
+      "reason": "保留Fes专名、保证人数、星级和10连券；避免祭与既有庆典用语混淆。",
+      "review_method": "assistant",
+      "translation": "「IDOLY PRIDE Fes 1人★5确定10连扭蛋券商店」登场！"
+    },
+    "「アイプラフェス開催記念特別ショップ」登場！": {
+      "candidates": {
+        "/notice/1da872f432b2831cbc14a9122b7dbf5c0ce1a34ff53008aac972c2333bb32b90/index.html": "「IDOLY PRIDE FES举办纪念特别商店」登场！",
+        "/notice/332e5adbc03f8067aae3927006665cb90449906eb1a8d3e0f76050f20ad97f20/index.html": "「IDOLY PRIDE FES举办纪念特别商店」登场！",
+        "/notice/4ba0eb0f045bc6a515324c373daf382dd2c685b84a78d5adbf2589d2c08d7b97/index.html": "「IDOLY PRIDE Fes举办纪念特别商店」登场！"
+      },
+      "reason": "沿用相邻Fes商店入口大小写，保留特别商店性质。",
+      "review_method": "assistant",
+      "translation": "「IDOLY PRIDE Fes举办纪念特别商店」登场！"
+    },
+    "「カバー楽曲ショップ」登場！": {
+      "candidates": {
+        "/notice/01a99bac4ee43db4cf1624c481b6b16ccf93e1fa03d457230479a47f233e2318/index.html": "「翻唱歌曲商店」登场！",
+        "/notice/2a347b4cc5052c993513d1f6cfb0c6aebf496fa07ba172800c0f3e19d3ce440e/index.html": "「翻唱乐曲商店」登场！",
+        "/notice/2c81136aadad65fb57da7507c310a83ccf29f664f971241ddd88c7b10ccae498/index.html": "「翻唱乐曲商店」登场！",
+        "/notice/d147d195dc641faeb344c7ede894b798c77e78aeab7b1c4d8fff577bcba4606c/index.html": "「翻唱乐曲商店」登场！",
+        "/notice/ff2d4778fb9b84e265507834736e422eb704e4c6187fc8f810737c8db9b1dcb2/index.html": "「翻唱歌曲商店」登场！"
+      },
+      "reason": "カバー为翻唱，歌曲商店较乐曲商店自然且不改变商品性质。",
+      "review_method": "assistant",
+      "translation": "「翻唱歌曲商店」登场！"
+    },
+    "「スイートレディ」衣装ショップ登場！": {
+      "candidates": {
+        "/notice/4234bfc1a730f58dbcd84f7c1d2ef82fc7666e90a38d2f786e477b207970f67e/index.html": "「Sweet Lady」服装商店登场！",
+        "/notice/8851b8ce59049b502db9313c7bf633c8e0ad39283b941abff23125fc250b32c7/index.html": "「Sweet Lady」服装商店登场！",
+        "/notice/9ef8d226914baf20abefb4d200c744474421e8097c3443e1fe9de07d7063c81f/index.html": "「甜蜜淑女」服装商店登场！"
+      },
+      "reason": "以现有中文候选表达Sweet Lady服装系列，与MasterDB中文淑女系列相近。",
+      "review_method": "assistant",
+      "translation": "「甜蜜淑女」服装商店登场！"
+    },
+    "「感謝祭ショップ」登場！": {
+      "candidates": {
+        "/notice/33118a28250301386733fcde4461123e9e57485a74e776dd1e5753539debf69f/index.html": "「感恩祭商店」登场！",
+        "/notice/3de9f06dc4bd498af26053af3ebec1a26126261cbbd2ade0adba6b1774d7bdf9/index.html": "「感谢祭商店」登场！",
+        "/notice/60c1fc0c4298072db569f39bab28b42fd5457f450ee6d131f32297afd47fa0f9/index.html": "「感谢祭商店」登场！",
+        "/notice/67409bcda9f76b36d94c2d0799794e58fd76b281ca850718b7b736ed03e5dea2/index.html": "「感谢祭商店」登场！"
+      },
+      "reason": "感謝祭与项目已有感谢祭活动名对应，不改成另一个节日名。",
+      "review_method": "assistant",
+      "translation": "「感谢祭商店」登场！"
+    },
+    "「感謝祭特別ショップ」登場！": {
+      "candidates": {
+        "/notice/105efd937f0fa47e7e9c11660af957115829871bd9400a46bd126573025305c1/index.html": "「感谢祭特别商店」登场！",
+        "/notice/3ce10665e75004081fa7544f7f76762cd273e36d0099dfde4fb6e6ca04f38714/index.html": "「感谢祭特别商店」登场！",
+        "/notice/41595e21ba2e581d96be2b1f3b46cd00297e8c56742fbc53a4b9e2e395100195/index.html": "「感恩祭特别商店」登场！",
+        "/notice/5a4e010d5d79c8c93beee6791702d7900728ce0efebed8a71f4cb1556dafe1db/index.html": "「感谢祭特别商店」登场！"
+      },
+      "reason": "感謝祭采用感谢祭，保留特别商店与普通商店区别。",
+      "review_method": "assistant",
+      "translation": "「感谢祭特别商店」登场！"
+    },
+    "【予告】データ更新に伴うDLの発生について": {
+      "candidates": {
+        "/notice/31000279ce3bc104dc1629edcd79ecc45d8618317bd2f4ad0acdd824c6493e62/index.html": "【预告】伴随数据更新的下载通知",
+        "/notice/9c56baf5096c774f2473c98f2f904259f136966003b9c1defa6556bf1b125770/index.html": "【预告】关于伴随数据更新产生的下载",
+        "/notice/f8465bc37145c4a8898e2798d1f73f2826d33706c45d8838995f67a0b1fa060a/index.html": "【预告】关于伴随数据更新产生的下载"
+      },
+      "reason": "明确是数据更新导致下载的预告，保留预告标记供短标题派生。",
+      "review_method": "assistant",
+      "translation": "【预告】关于伴随数据更新产生的下载"
+    },
+    "【復刻】もし恋~一ノ瀬怜編~スタンプガチャ開催！": {
+      "candidates": {
+        "/notice/0600cac140a524cb23fedbb47fc06fe3541c5ea18e50f190f16b20f75c4cf84c/index.html": "【复刻】如果恋爱～一之濑怜篇～贴纸扭蛋开启！",
+        "/notice/eb4e1c423a52be68dd4a2bd2530405bf8f8865fe18d110c87438859459eb441a/index.html": "【复刻】如果恋爱～一之濑怜篇～印章扭蛋开启！"
+      },
+      "reason": "スタンプガチャ对齐Gacha.description现有贴纸扭蛋；姓名按词典。",
+      "review_method": "assistant",
+      "translation": "【复刻】如果恋爱～一之濑怜篇～贴纸扭蛋开启！"
+    },
+    "【復刻】もし恋~伊吹渚編~スタンプガチャ開催！": {
+      "candidates": {
+        "/notice/63ee80bbd2b62c1d93e47cd28aa9e3440e0799ffcd9f73be7865a73315c0a276/index.html": "【复刻】如果恋爱～伊吹渚篇～贴纸扭蛋开启！",
+        "/notice/b68ff6e13775cd2af4aaa6f2d9e95d4811b1a9c74e48f7c59f2eeca3df0919db/index.html": "【复刻】如果恋～伊吹渚篇～贴纸扭蛋开启！"
+      },
+      "reason": "もし恋对齐Gacha正式名称如果恋，保留贴纸扭蛋和角色章节。",
+      "review_method": "assistant",
+      "translation": "【复刻】如果恋～伊吹渚篇～贴纸扭蛋开启！"
+    },
+    "【復刻】もし恋~鈴村優編~スタンプガチャ開催！": {
+      "candidates": {
+        "/notice/0b2696ce86a5fedcf690d90b44ee123cb2f604441bc0e3328de5d3057d194e91/index.html": "【复刻】如果恋爱～铃村优篇～贴纸扭蛋开启！",
+        "/notice/d1cdaa1c42a6a65afe846fa8ba09681b2c9b894894991daace9221700bb44c75/index.html": "【复刻】如果恋爱～铃村优篇～印章扭蛋开启！"
+      },
+      "reason": "采用Gacha.description的贴纸扭蛋，保留铃村优角色篇信息。",
+      "review_method": "assistant",
+      "translation": "【复刻】如果恋爱～铃村优篇～贴纸扭蛋开启！"
+    },
+    "【復刻】もし恋イベント「もし恋 ~もしも君と恋をしたら~ 一ノ瀬怜編」": {
+      "candidates": {
+        "/notice/0683051359864faeb04fb9accb182c85a05b4bdaf24d335c2378f57ce9b53a77/index.html": "【复刻】如果恋爱活动「如果恋爱 ~如果与你恋爱的话~ 一之濑怜篇」",
+        "/notice/13504b55009507ee508fc6391cfc802e4089fe81e632f66bb77c5e1b4646202a/index.html": "【复刻】如果恋爱活动「如果恋爱 ~如果与你坠入爱河~ 一之濑怜篇」",
+        "/notice/7785edeb9d7970af7f6e142600bb57424efc80667d11774061651842f8b12234/index.html": "【复刻】如果恋爱活动「如果恋爱 ~如果与你恋爱的话~ 一之濑怜篇」"
+      },
+      "reason": "副标题与同系列已选HTML标题一致；一之濑怜姓名不变。",
+      "review_method": "assistant",
+      "translation": "【复刻】如果恋爱活动「如果恋爱 ~如果与你坠入爱河~ 一之濑怜篇」"
+    },
+    "【復刻】もし恋イベント「もし恋 ~もしも君と恋をしたら~ 鈴村優編」": {
+      "candidates": {
+        "/notice/1384e1c3da529de293c867047fec5f0a13b1c51758f1b2306789e6a0afb1b253/index.html": "【复刻】如果恋爱活动「如果恋爱 ~如果与你坠入爱河~ 铃村优篇」",
+        "/notice/21f87e97e16400ae1e81f12353db4e3ecc9f4542bf786eb780eb8bd734dfee93/index.html": "【复刻】如果恋活动「如果恋 ~如果与你坠入爱河~ 铃村优篇」"
+      },
+      "reason": "缩写采用已有如果恋功能名，完整标题与铃村优HTML标题一致。",
+      "review_method": "assistant",
+      "translation": "【复刻】如果恋活动「如果恋 ~如果与你坠入爱河~ 铃村优篇」"
+    },
+    "【復刻】ラブサインはさりげなくガチャ開催！": {
+      "candidates": {
+        "/notice/0f612d38373c016eff88eb5011f4839b984225de19b49886a0dd577d32246366/index.html": "【复刻】爱情信号若无其事 扭蛋举办！",
+        "/notice/2caf8cf452934956a977cdefa3bae2ee83b477189065b0f74408c788a462b4dd/index.html": "【复刻】Love Sign是不经意的扭蛋举办！"
+      },
+      "reason": "将ラブサイン完整译为爱情信号；若无其事对应さりげなく，避免Love Sign是不经意的混合句式。",
+      "review_method": "assistant",
+      "translation": "【复刻】爱情信号若无其事 扭蛋举办！"
+    },
+    "【復刻】ラブサインはさりげなくピックアップガチャ開催！": {
+      "candidates": {
+        "/notice/0f612d38373c016eff88eb5011f4839b984225de19b49886a0dd577d32246366/index.html": "【复刻】恋爱信号若无其事 精选扭蛋开启！",
+        "/notice/2caf8cf452934956a977cdefa3bae2ee83b477189065b0f74408c788a462b4dd/index.html": "【复刻】爱意信号若无其事 精选扭蛋开启！"
+      },
+      "reason": "爱意信号若无其事与Gacha.name一致，保留精选卡池限定。",
+      "review_method": "assistant",
+      "translation": "【复刻】爱意信号若无其事 精选扭蛋开启！"
+    },
+    "おでかけシリーズ開催記念キャンペーン開催！": {
+      "candidates": {
+        "/notice/24a91334c285e8faa5c2a999dbc3a8598c56f76a4a6d7718d8d6ba29a066926b/index.html": "外出系列举办纪念活动开启！",
+        "/notice/ba0e898cf0d42f458cb95ac87cd206e3f705268f6549d7e4bc25d394e244c273/index.html": "外出系列纪念活动开启！"
+      },
+      "reason": "沿用已显式审阅UI词典中的同原文译名，纪念活动已表达举办纪念含义，避免入口再产生异译。",
+      "review_method": "assistant",
+      "translation": "外出系列纪念活动开启！"
+    },
+    "もし恋カウントダウンギフト開催！": {
+      "candidates": {
+        "/notice/10c1e55bd54e5a684bdb5f1fcc3620fc5e700915790c484fea159b9c799a367b/index.html": "如果恋爱倒计时礼物活动开启！",
+        "/notice/b12775df38f356d43e8f720f4adf3b22b224c1aab3d6435c4e9c82349ab51a78/index.html": "如果恋爱倒计时礼物活动开启！",
+        "/notice/bc91c813342180a2507a681a405e56d807e6c9104a805234ea0012780033f9c4/index.html": "如果恋倒计时礼物活动开启！"
+      },
+      "reason": "もし恋采用已有功能名如果恋，保留倒计时礼物活动性质。",
+      "review_method": "assistant",
+      "translation": "如果恋倒计时礼物活动开启！"
+    },
+    "もし恋ログインボーナス開催！": {
+      "candidates": {
+        "/notice/1cc428ae7d12a011e4df4ca811de2e1c98cfb48105647f761bf5d0df38d37a35/index.html": "如果恋登录奖励活动开启！",
+        "/notice/2128759113f2dd43c2f2e0ddb1b0943c038a6c635a6858cff0e7936c538321cf/index.html": "如果恋登录奖励活动举办！",
+        "/notice/67dd41b051c98b6ac0de36c8a71d1ecb40110f475e013cf4b642541da2b726f5/index.html": "如果恋登录奖励活动开启！",
+        "/notice/e87351ba60130baa2dedc482a2cb4b4e72a52d4823d3bec372a8476dbd90bcd5/index.html": "如果恋登录奖励开启！",
+        "/notice/eb596e582bce3cea9204448099fc7499cae8c14d12989e4ce41fc4518c26c3a5/index.html": "如果恋登录奖励开启！"
+      },
+      "reason": "登录奖励用语与现有功能一致，标题不额外增加活动名词。",
+      "review_method": "assistant",
+      "translation": "如果恋登录奖励开启！"
+    },
+    "アイドル育成ミッション開催！": {
+      "candidates": {
+        "/notice/0f6e3eae428c0ad6ed23fc8e350d0ca8421b27690f0c77ef68909abfc967f29b/index.html": "偶像养成任务开启！",
+        "/notice/1086798ef737cdd8b16fb8efa7edb5cb4ed066690e531de33e3ae2ab0bccd050/index.html": "偶像养成任务开启！",
+        "/notice/13765a6feb3ac1c8be57311436c6e72644db32dcab69ce679a7f6678cc165287/index.html": "偶像培育任务开启！",
+        "/notice/3180e125bf2e76c0dbe3ade059616751dfe3dab018a1124af038ec72e9109096/index.html": "偶像养成任务开启！",
+        "/notice/31b4b95d168f16e701f33baee83b553cac4188e831c44d65e73cf705b3df41d0/index.html": "偶像养成任务开启！",
+        "/notice/429c17d2c0bab6f77f58af6067c6356a9e9a8951ef9b7b714d6a1fcbc811bf85/index.html": "偶像培养任务开启！",
+        "/notice/47c9cec3a70f28d2ed41f0296a0f191b56f0b260c26fc6faf11050a9c1684b84/index.html": "偶像培育任务开启！",
+        "/notice/5a506b66b01da613a56f8f8282b5cae3fd611b159e99425f2cba1307b1f49500/index.html": "偶像培育任务开启！",
+        "/notice/965ea3752b6ee25d55b704643374e726aa5b9a6cf08dc16181523671d89b21a9/index.html": "偶像养成任务开启！",
+        "/notice/ac6478017175edf1065095daa30ae45afe0981bb7c4a83dd7efe708e73dd884c/index.html": "偶像养成任务开启！",
+        "/notice/bd23aecf7a3389db3871d0860a904244c63fc7b97b9fd27be662756e59576a87/index.html": "偶像养成任务开启！",
+        "/notice/c569a15707218c896f123a655d7db05751756e5dffec19130d8dfa114c9ced79/index.html": "偶像养成任务开启！",
+        "/notice/c7f6902c1171d4d78edff04fea390fb9221870619307bb41879e871110a0e185/index.html": "偶像养成任务开启！",
+        "/notice/d98f2634333b7516374336fa805b5577ce25e9240b4bd22a77f798dec47a54f3/index.html": "偶像养成任务开启！",
+        "/notice/dad2e0e85eb905c496c345c92378db5485792d84d6d93eb30d8c2b2ed8b0b210/index.html": "偶像培养任务开启！",
+        "/notice/db7145d0ff2a08d6334de5585bcd4ecf6e644232efb2583e6a2ad15455e9d79b/index.html": "偶像培育任务开启！",
+        "/notice/dbeaefb01ba613e5357b058703d1d84bd883dcdd95db4a4cb53a4846a166cdb4/index.html": "偶像养成任务开启！",
+        "/notice/e4f0a7f7649a1fa17b81b312f4e4692a67a14f47a3dfc6cf1206fb0d63d31362/index.html": "偶像养成任务开启！",
+        "/notice/f06c9cd4a20f7479ab0c4a3fecb62161c27a0a5a27a4ca6525dac3ef4d59b8d2/index.html": "偶像培育任务开启！",
+        "/notice/f7a92ddbdf21f4649269e25deda46c09d649fac107af16fd66f43a5ddea072d9/index.html": "偶像养成任务开启！",
+        "/notice/ff59e382957563062031380ba1b3cfe2a5bb32c53428be1ce6ce0e98e2f9ee09/index.html": "偶像养成任务开启！"
+      },
+      "reason": "采用养成这一常用游戏功能词，并与同系列含尾空格标题统一。",
+      "review_method": "assistant",
+      "translation": "偶像养成任务开启！"
+    },
+    "アイドル育成ミッション開催！ ": {
+      "candidates": {
+        "/notice/31b4b95d168f16e701f33baee83b553cac4188e831c44d65e73cf705b3df41d0/index.html": "偶像养成任务举办！ ",
+        "/notice/dad2e0e85eb905c496c345c92378db5485792d84d6d93eb30d8c2b2ed8b0b210/index.html": "偶像培育任务举办！ ",
+        "/notice/f7a92ddbdf21f4649269e25deda46c09d649fac107af16fd66f43a5ddea072d9/index.html": "偶像培育任务开启！ "
+      },
+      "reason": "保留原文末尾空格以维持精确键；养成与同名不含空格标题一致。",
+      "review_method": "assistant",
+      "translation": "偶像养成任务举办！ "
+    },
+    "アイプラフェスガチャ開催！": {
+      "candidates": {
+        "/notice/003e86b2f77f346bc7b33db02295056b2e537b46ab95f47f42b68855136d0495/index.html": "IDOLY PRIDE Fes 扭蛋开启！",
+        "/notice/05aa6c09b5dba8719ff1376e7a4c051d2787b523bf7f6e99ddb67a4ffc632ad9/index.html": "IDOLY PRIDE Fes 扭蛋开启！",
+        "/notice/18b1d6ed7ebdd5374990d29b2a05e315c4d30b6bda585541a46eb96931729cd9/index.html": "IDOLY PRIDE庆典扭蛋开启！",
+        "/notice/286a0eaf061fb36f79712f713cf785bc886422f09345df63789b93e709746a64/index.html": "IDOLY PRIDE祭典扭蛋开启！",
+        "/notice/74bb7a988e2fca5578dd8941780f2f7d4ef58bfb5792c6fb126fea018217d5cd/index.html": "IDOLY PRIDE FES扭蛋开启！",
+        "/notice/b2a042561fac1f8a6f03582c6bdd92c3afbd8b171935c209a8bcf9682000cc05/index.html": "IDOLY PRIDE Fes扭蛋开启！",
+        "/notice/c33ea493f518f17a12b762e55d225b0bdb176574f404454a432623f63f6ac42e/index.html": "IDOLY PRIDE庆典扭蛋开启！",
+        "/notice/d3ffd0e6f07d9fa485cb491b8073761f87d5fe704b5c98698e6ebe564d44f434/index.html": "IDOLY PRIDE Fes 扭蛋开启！",
+        "/notice/d6f9e190f3117578fd80d1254a2c495597f33a4e3d75f232b147ee4146210732/index.html": "IDOLY PRIDE FES扭蛋开启！",
+        "/notice/da668800373c1e4df1a55d6e405fe6efc6aab8605796c483d8125ce59246d67e/index.html": "IDOLY PRIDE FES扭蛋开启！",
+        "/notice/dff4209ed7612622b40ad5be18e2e0373ff061b1c5a77a39049f3f84239888d7/index.html": "IDOLY PRIDE FES扭蛋开启！"
+      },
+      "reason": "アイプラフェス对齐Gacha.name既有IDOLY PRIDE庆典用语。",
+      "review_method": "assistant",
+      "translation": "IDOLY PRIDE庆典扭蛋开启！"
+    },
+    "アイプラフェスピックアップ1ガチャ開催！": {
+      "candidates": {
+        "/notice/7098b145e4a281c1d6aeedb70feeb653e2ba987e679d689efadb0e47d454eadb/index.html": "IDOLY PRIDE Fes精选1扭蛋开启！",
+        "/notice/b7fdfaed588983d7e56250535b5127e35af9a9827cf6253d0b168f46005b7aad/index.html": "IDOLY PRIDE Fes Pick Up 1 扭蛋开启！"
+      },
+      "reason": "把Pick Up译为精选但保留第1卡池编号及Fes专名。",
+      "review_method": "assistant",
+      "translation": "IDOLY PRIDE Fes精选1扭蛋开启！"
+    },
+    "アイプラフェス開催記念お仕事キャンペーン開催！": {
+      "candidates": {
+        "/notice/781c38b0304af70c9f69c3cece9816037492a1b371b683239f0089f5f69ab08c/index.html": "IDOLY PRIDE FES举办纪念工作活动开启！",
+        "/notice/929accfcf11f213f79d8fc73d47e70baf32def9a3da01194cebd284c08cb22b6/index.html": "IDOLY PRIDE Fes举办纪念工作活动开启！",
+        "/notice/a72a8accddb70edde88a5e409c25a0ec7f4f39cecba0ee203a6574878863879e/index.html": "偶像荣耀庆典举办纪念工作活动开启！",
+        "/notice/c0e4d42b1e01c1d9fa6574be32d6e1bd079bd57de152777a7bd702cb173b0952/index.html": "IDOLY PRIDE FES举办纪念工作活动开启！"
+      },
+      "reason": "お仕事明确为工作功能，アイプラ使用中文游戏名与庆典称呼。",
+      "review_method": "assistant",
+      "translation": "偶像荣耀庆典举办纪念工作活动开启！"
+    },
+    "アイプラフェス開催記念ドリームギフトガチャ開催！": {
+      "candidates": {
+        "/notice/97cd7c901f4001b55234c8b42a6d8d2f1ad98022234447b24a8c3263df2369ab/index.html": "偶像荣耀庆典举办纪念梦想礼物扭蛋开启！",
+        "/notice/d58f4c69c11aa55a079d3c7e6d9a5b958a6bb6d0f7d905a11818d0052062069f/index.html": "偶像荣耀庆典举办纪念梦想赠礼扭蛋开启！"
+      },
+      "reason": "ドリームギフト对齐现有梦想赠礼用语，不把奖励机制改成普通礼包。",
+      "review_method": "assistant",
+      "translation": "偶像荣耀庆典举办纪念梦想赠礼扭蛋开启！"
+    },
+    "アイプラ名刺デコ1コマ撮影キャンペーンが開催！": {
+      "candidates": {
+        "/notice/5d51b0ee0e9af1b1dbc7e7725c6fe7957eba9a7532ef79710609471322c1f33b/index.html": "《IDOLY PRIDE》名片装饰1格拍摄活动举办！",
+        "/notice/c4a3f26a672472052a0f3708f3a0f226d3de2ba10303a1cd986c311eaf60e576/index.html": "偶像荣耀名片装饰1格拍摄活动举办！",
+        "/notice/f49a1bdd3b65a49209b5b3bdbe369ed87db6814c0f989469b284337134cfd187/index.html": "《IDOLY PRIDE》名片装饰1格拍照活动举办！"
+      },
+      "reason": "沿用正式公告 c4a3f26a 页已有的中文游戏名与标题表述；仅统一公告入口，其他页面正文保持各自原译文。",
+      "review_method": "assistant",
+      "translation": "偶像荣耀名片装饰1格拍摄活动举办！"
+    },
+    "アイプラ感謝祭ログインボーナス第2弾開催！": {
+      "candidates": {
+        "/notice/2723950694b2da3db6dd505f3a7e2cd01b6a304a8603db19eafa6ec2275e4c0e/index.html": "偶像荣耀感谢祭登录奖励第2弹开启！",
+        "/notice/860a86f6cc883a925aab13cfc85d7117ef4e7f6d106efaa2466bae6ae22dc56a/index.html": "IDOLY PRIDE感谢祭登录奖励第2弹开启！"
+      },
+      "reason": "保持感谢祭与第2弹信息，アイプラ沿用中文游戏名。",
+      "review_method": "assistant",
+      "translation": "偶像荣耀感谢祭登录奖励第2弹开启！"
+    },
+    "イメージトレーニング開催！": {
+      "candidates": {
+        "/notice/04419a7da6225420353f25a74618e3a5a42ac87f8c76b9d5e18c995fd164b6a7/index.html": "形象训练开启！",
+        "/notice/0579e538d19aa02b0221e71ba543c1e5c06524dca54a3de8520e015714bd2e55/index.html": "形象训练开启！",
+        "/notice/05b93e73c41abd9beb897322e2a31159efe315a698454c09423eecb05d09bf9b/index.html": "形象训练开启！",
+        "/notice/08813cd11009ac5574cc6c859f4890ace8010648c781069230783087150a8179/index.html": "形象训练开启！",
+        "/notice/0e28acb83f6c50c19d34e24d92d574d3df5a320c6e850a5904a6bca070c0a80d/index.html": "想象训练举办！",
+        "/notice/16d02f93f9a023f3200f2a66b46523ca2d9b75677a0ed7704c2334d7c4727bd7/index.html": "想象训练开启！",
+        "/notice/1c436cba4072e24b3ca1cb39653f83f648e3eab2cbf5e47996b664102b7bf785/index.html": "意象训练举办！",
+        "/notice/34cb461c64a6cc3b7b39eb4246a98a5ee62d9fe568d039340e49daeca502020b/index.html": "形象训练举办！",
+        "/notice/4eb965a05b4e340c3f6aa901b6e2a61b6aed25b397484c71ff3ef0671be53866/index.html": "形象训练举办！",
+        "/notice/50ac2232d19062bb750d62b2d1b7dcae07c3b94f9ab1f2b5ab2ff58af6ae4c8c/index.html": "形象训练开启！",
+        "/notice/5169c95756c55304b0a7fb78d9eea30e6d5d30df709c597a636d0b67d7861d4d/index.html": "形象训练开启！",
+        "/notice/643065b45b31215870bc8b6dad3e82b98927c8d7817464fbe94aea523eb3de2d/index.html": "形象训练开启！",
+        "/notice/66e163741b256ab926611e71584b16ae17cd0fd8626226e159d2d42fbc300339/index.html": "形象训练开启！",
+        "/notice/6bb29a081ba1977fc90cb2ee09d4517803645343736ce251b7526a16fb895aa0/index.html": "形象训练举办！",
+        "/notice/6e0fecf9cccfba1a59c983cbab1d5231a4992f216a2e897ffa8e9975f7e7c5b7/index.html": "形象训练开启！",
+        "/notice/72bf190e4c4a0806380a35d96b5c31a460f7b79ea5a851dd7eb15ed9d99166a9/index.html": "形象训练开启！",
+        "/notice/7503af91c7c5de90f7ced81d1ce189916f9b1510b229b4b41ce23fb262aa72a3/index.html": "形象训练举办！",
+        "/notice/77dff67de8aee1f92e36e879bfde70a0cf2ed77bd2f2a2e790bc6123bbdd2182/index.html": "形象训练开启！",
+        "/notice/7f3d356f146cd31423a98af4645256e989233504fb0170f70c062dd0bc152c80/index.html": "形象训练举办！",
+        "/notice/802d921f8657c777b70c8be1b2959f88c76452cbaf9a292f6c3c68eedf085eff/index.html": "形象训练举办！",
+        "/notice/867b8d43d703d257a04ee9a5e7f43a497e3aed221d04984f9783ae8c14a5ca3a/index.html": "形象训练开启！",
+        "/notice/8d56fc67fe808ef721eceefe9c71392156b01eea1d232f580fefc68d3afe0c8a/index.html": "形象训练举办！",
+        "/notice/980f04632a1c3beaf7a3feed2aa5938670833496a293a3b7d7670dc025231ab6/index.html": "形象训练举办！",
+        "/notice/9c9ca7a27ff95e98ddb776c7d7e7dad02fd388c4e631f28983c740932b4f7c47/index.html": "形象训练举办！",
+        "/notice/bfa529da29c2980e09908ff8e995f587ef13d688ddede30eb07f0f3efc15ecad/index.html": "形象训练举办！",
+        "/notice/c1b944d92894894ca5ec0ec3bd3319d06a26c0eb10733cf792310e5295682b04/index.html": "形象训练开启！",
+        "/notice/cc9d702b6495263eace7fa50797eacbe80af19cc69d13dbde60690fd09c930ea/index.html": "形象训练举办！",
+        "/notice/d34d756de9cdaa84fd267dedb332a0b946b33dc55137e2fd235dcdf90acd8ac6/index.html": "形象训练举办！",
+        "/notice/d47bfb4a8967a09e35df531a642370aa263fbf0438a2a29b3ab5b82f2c0de86a/index.html": "意象训练举办！",
+        "/notice/e05199b73fa8ac0ca5e1d4290651ed90abf97111b87ee8363adf11625b93706c/index.html": "形象训练举办！",
+        "/notice/e20ffabe3ff2fba84ddae130b4c724ed65d6af38e99d9e7b265798a00cee9215/index.html": "形象训练举办！",
+        "/notice/e96de40fab791ff2f550d946f00099124b7daf37edec075b0b43836612e83347/index.html": "形象训练举办！",
+        "/notice/ee5c8dd5f3b88de0fc93f41bbc7c0006df2eb94fd0382691beab850ba52e4ebd/index.html": "形象训练开启！",
+        "/notice/f541fbeddbadfe1e9c7bfc675d8af6991ca00a81f6167b40c26feb4c581056c4/index.html": "形象训练举办！",
+        "/notice/f8198c1501ee19da3571ffba7ec7c887749881513eb10ca454857f32df69f3d2/index.html": "形象训练举办！",
+        "/notice/ff4499cc69813840aa0763f0a03f0cdd2c29220a4bc11849183ee23b97be73e8/index.html": "意象训练举办！"
+      },
+      "reason": "イメージトレーニング对应HelpCategory功能名意象训练，避免误解为外表形象训练。",
+      "review_method": "assistant",
+      "translation": "意象训练举办！"
+    },
+    "クリスマスミッション開催！": {
+      "candidates": {
+        "/notice/978def040f3754768683fc011736a8715a2360f65090b13a86250df0dcf759cc/index.html": "圣诞任务开启！",
+        "/notice/b26ab6a77a5c7b21eb9b976446ded2073e2892eac25853f8f7a33a51fa919188/index.html": "圣诞节任务开启！"
+      },
+      "reason": "明确节日名称为圣诞节，开启与其他任务公告语气一致。",
+      "review_method": "assistant",
+      "translation": "圣诞节任务开启！"
+    },
+    "グッズケースに新グッズが登場！": {
+      "candidates": {
+        "/notice/0505a2f52494a9ff27ef49785daacc67cfc862551f787eb1b8743c6b352fa70e/index.html": "周边收纳盒中上新周边！",
+        "/notice/a84743624593c21fdb8136e35a8081311490137efa11bc15d5a28ac07a0ece9d/index.html": "周边展示盒中上新周边！",
+        "/notice/ec113760b7fcb1ecfd4d118d474d1ce1e9d8c9dd11f29ee2d742c313ab298f21/index.html": "周边展示盒中新增周边！"
+      },
+      "reason": "新增准确对应新グッズが登場；展示比收纳更贴近HelpCategory中的展示柜功能。",
+      "review_method": "assistant",
+      "translation": "周边展示盒中新增周边！"
+    },
+    "コラボメダル交換所登場！": {
+      "candidates": {
+        "/notice/0733532029367f72e9a1560cc6be73af7d7ed730102f18a4d1fa1f59cfdb8407/index.html": "合作奖牌兑换所登场！",
+        "/notice/8ead78018c7a6beefd2c446d55c64f90ff87ccb36a5d619497767bf330b83953/index.html": "联动奖牌兑换所登场！"
+      },
+      "reason": "コラボ为联动活动，采用奖牌交换所既有用语。",
+      "review_method": "assistant",
+      "translation": "联动奖牌兑换所登场！"
+    },
+    "コラボ衣装メダル交換所登場！": {
+      "candidates": {
+        "/notice/5cc955a12dd2be95e5d6ac01eee3355599c59776599c65f2684a7a5f84fdff96/index.html": "联动服装奖牌兑换所登场！",
+        "/notice/e82022546a2bfc0d0c6b4c1c0295a976645647c6d5aa3e29871737713cd529fb/index.html": "联动服装徽章兑换所登场！"
+      },
+      "reason": "メダル沿用奖牌，保留服装用途并与联动奖牌入口一致。",
+      "review_method": "assistant",
+      "translation": "联动服装奖牌兑换所登场！"
+    },
+    "ストーリーの一部字幕が誤っている": {
+      "candidates": {
+        "/notice/12cb0ed8bab70530c114968b9b8a801f2edaced51eee26e8f4072d825fdb2a21/index.html": "部分剧情字幕有误",
+        "/notice/aa9d29f4e73188bdf03648f8c36b8eb0b829b46d34201ef573c4efb2e41a59c8/index.html": "剧情部分字幕有误"
+      },
+      "reason": "简洁保留字幕错误影响范围，不误指全部剧情。",
+      "review_method": "assistant",
+      "translation": "部分剧情字幕有误"
+    },
+    "スペシャルデイリーライブ開催！": {
+      "candidates": {
+        "/notice/31605f262b1170f835534086ed3622d6bb42b13bd84bf5ba69867dd03289e24e/index.html": "特别每日演唱会开启！",
+        "/notice/fdd5c981eb567fad97ce492ef69abd28446b49c3bfe13bd945316e1cff798e8a/index.html": "特别每日演唱会举办！"
+      },
+      "reason": "保持デイリーライブ的每日演唱会功能名及特别活动限定。",
+      "review_method": "assistant",
+      "translation": "特别每日演唱会开启！"
+    },
+    "バレンタインミッション開催！": {
+      "candidates": {
+        "/notice/3ce4a10e09ea4213d31ec8b53f6fd9e0c393e59cc9ea7355969dc522292f58e0/index.html": "情人节任务开启！",
+        "/notice/45105b84945381d2684c3c091826b0dd6802b6aa4407c86d3cc5942af43c996b/index.html": "情人节任务举办！",
+        "/notice/7b20ca5978bcd9d9cfc3b6be733f13aa2cb44dd5044a17f2bcb60a3a0aa3c5b4/index.html": "情人节任务开启！",
+        "/notice/823de21aeebcd7cebf28a5e99bfbc18ea52f925fe6a948a973a58b4c9502a863/index.html": "情人节任务开启！",
+        "/notice/dd93d85ffec4184e35dbd39a90e5a4b34b97306df804fd5c00c94a01e9372b31/index.html": "情人节任务开启！"
+      },
+      "reason": "任务活动开场采用开启，与其他节日任务一致。",
+      "review_method": "assistant",
+      "translation": "情人节任务开启！"
+    },
+    "バレンタインログインボーナス開催！": {
+      "candidates": {
+        "/notice/0887ca16b8954b1fa6bdd7f55b395fff2cbcc0bc4aee47ff4df2bda45ad54584/index.html": "情人节登录奖励开启！",
+        "/notice/175bfe71ca31093b1574748d82c76ef465dcdca1267f01b7f1be76dc9bba96ec/index.html": "情人节登录奖励开启！",
+        "/notice/41bea2dd6955cee90b253b03f86c31eb2b2306e43855e69b59d693c289e6f915/index.html": "情人节登录奖励举办！",
+        "/notice/bd2916857ef0d03fda6df36d4be2ea57ddf3aed85289f02cfcdb4ea32d3f8b65/index.html": "情人节登录奖励开启！",
+        "/notice/beac93ae6c7fc9ff6be4423279562c6443bc601c7c2275bacf6277b14d4939cc/index.html": "情人节登录奖励开启！"
+      },
+      "reason": "保留登录奖励功能名，活动开始采用开启。",
+      "review_method": "assistant",
+      "translation": "情人节登录奖励开启！"
+    },
+    "プレミアムガチャ更新！ヘアスタイルが新登場！": {
+      "candidates": {
+        "/notice/05ca8e3cbd3952b6d747b8f8d1e0e69c59c897e7ac6100837e0d5feba7a1c021/index.html": "高级扭蛋更新！发型全新登场！",
+        "/notice/16528b572acbea8c7c64d7ae6f99b0c86f0243054459cea84581b2587aa766db/index.html": "高级扭蛋更新！发型全新登场！",
+        "/notice/4cf05de1cbc36effeedb7b3cb1d46308f667fd2c6d85b05196cbf549bb1dbfb4/index.html": "高级扭蛋更新！发型全新登场！",
+        "/notice/85785971f3fc97025cb40201b944e2d85c21d759004dc4553f5992d92abdb615/index.html": "高级扭蛋更新！发型全新登场！",
+        "/notice/8f4c88e7c2bdf9b46c20f5de645d080e1fd10b59ff59fda8148eaf138c160f04/index.html": "高级扭蛋更新！发型全新登场！",
+        "/notice/94738148cdd6da53b1d12114b10b59f76f6b649a85eb941d1f7f3c0661097fab/index.html": "高级扭蛋更新！发型全新登场！",
+        "/notice/b101ccffb0c2377aa26d20129b5c00b92af2269dde513b67a9bb4176d4d6624f/index.html": "高级扭蛋更新！新发型登场！",
+        "/notice/ed4c264cfc6102631305fcd805352965dd3ff8ab44d5d009de38f068c28e2311/index.html": "高级扭蛋更新！新发型登场！"
+      },
+      "reason": "プレミアム对齐高级扭蛋；新发型直接表达本次新增内容。",
+      "review_method": "assistant",
+      "translation": "高级扭蛋更新！新发型登场！"
+    },
+    "メンテナンスのお知らせ": {
+      "candidates": {
+        "/notice/15c54b570e373120015ac562f398d20ab354db47d83dd3bee880ea09b435f1f5/index.html": "维护公告",
+        "/notice/254ccf8f6208790ee816c6289e47eaf3ed5b946b6dd6c2622b6986e35f960110/index.html": "维护通知",
+        "/notice/3921201190a836902bf9d8b84cb3b34a59e7e89f006109ff9024f77a7925a717/index.html": "维护公告",
+        "/notice/58873a5b84393f3a0569ca67369a01ef49ffe1ad16a0e32059a8840bb481d6c4/index.html": "维护公告",
+        "/notice/5c4dc31b972fa11297b878f2242acb64692a1b041b47772fa05da43f77f7b461/index.html": "维护公告",
+        "/notice/ca3c0a756f10800cb341ea3eed5676cda2f8d6e6940d0640c185080994c14a0e/index.html": "维护通知",
+        "/notice/ca59e69d95e4fa17b4c15c9b3176cf7fc079e22994af5219e647afa65e7a5463/index.html": "维护通知",
+        "/notice/cf2e372112542f27c02493e34e75befb86d3b51a1b341c7cc50d2ca28c304474/index.html": "维护通知"
+      },
+      "reason": "标准公告类别用语，简明对应メンテナンスのお知らせ。",
+      "review_method": "assistant",
+      "translation": "维护公告"
+    },
+    "ユニオンライブ開催！": {
+      "candidates": {
+        "/notice/072a1f27ba556fc682079edb94913d21e916bba27ebe027f607de8e754ea67a1/index.html": "Union Live 举办！",
+        "/notice/0b6c3c41b5967f15f0a593a6c311f09b306d42a72933f1b8e7ef5d67ff2a7b18/index.html": "联盟演唱会举办！",
+        "/notice/0deaee8824fc9d746b1b0de56195f4b6e784bb98a20bfad909ef8d1fcc773e09/index.html": "Union Live 举办！",
+        "/notice/11c057b94d1cde6b62832fe78b7be9c9802cb28f1e45706f22ed843b81b64b1c/index.html": "Union Live 举办！",
+        "/notice/2579e8b494c50c3db7e5067138fee8fa336639bead31121e27390a063441192c/index.html": "Union Live 举办！",
+        "/notice/25bf53902133c9520599bba90fb820467c50c795d74fa9bcf6cbe99bbfb2ede4/index.html": "Union Live 举办！",
+        "/notice/268ab6c2bef103395c66c3aff7b73ed098a234d738ef7dd17c071ad1424a91ec/index.html": "Union Live 举办！",
+        "/notice/28efa07c7a90bb8acd963c1e9a644436a6bea9ac55fd101f9fb0ce1e15161e88/index.html": "Union Live 举办！",
+        "/notice/2e6839e14133eef6b8ba1c06c96e3a31a2c6949daf60400e5ddd4366c0882a12/index.html": "Union Live 举办！",
+        "/notice/30345c93327b2218ba35cc233be87eec2382f8905f9d938b9db434dad20706ff/index.html": "Union Live 举办！",
+        "/notice/3609abf28a2ceec703b22e151237f251f77993dd4c508b098a88d7e90c72bb4b/index.html": "联盟演唱会举办！",
+        "/notice/381126e6fb2eeddc9fcd4b74d5f954d437197b7d5103012fdc7fe44048297daa/index.html": "Union Live 举办！",
+        "/notice/3c2456fbb2727d9e82b82548c72cb22aa381dd56fd6a08390f4d2128e8bd836b/index.html": "Union Live 开催！",
+        "/notice/4de6778cab607db124354060ddfb2679cd160056caef7615c6b43400625bfecf/index.html": "Union Live 举办！",
+        "/notice/4ec3b12118930e1051e7a65516d5ba7d4350b283552091fd8849b0006bd5a1e9/index.html": "Union Live 举办！",
+        "/notice/50ba6ecab1e235842c7b5fb87b98392c6ad89a2c58fbef6cbd4655e7f41b3237/index.html": "Union Live 举办！",
+        "/notice/517c4d18fbd5d3ad58ffd9ecd39a3817166aef29b01c32f72daff11cf382b5ea/index.html": "Union Live 举办！",
+        "/notice/534473bcc1eb35efd540e93c908b3caee33b428217d0b9a0806a0dc9e43f6d5f/index.html": "Union Live 举办！",
+        "/notice/5570cdf1b048b9d485ec99f539c42debfa2694ebf56e04bc8b04fb1dfa6aef7e/index.html": "Union Live 开催！",
+        "/notice/581f10465b09d6cd4d45c32a65375af88b7ed5e3f1efe7d9bdbef861d52308ab/index.html": "Union Live 举办！",
+        "/notice/5d74d691f3b10b9d7cc23b0adae637407b198109471c2d94533c3c523c4c9359/index.html": "Union Live 举办！",
+        "/notice/653591f7b7115f248b1bcd73671bf5d3cfe1eb04d72557a1d05d3e57ecb22871/index.html": "联盟演唱会举办！",
+        "/notice/69c6242cd6d51722ec32ee7197811f52724623deda24e1c29d308ecb03f2a0f7/index.html": "Union Live 举办！",
+        "/notice/75bb001ad26b17cc912a74cffdfe502701635e7edd3aa3da5481ff1b7caf9110/index.html": "Union Live 举办！",
+        "/notice/7a4d62aa82c322b09de1d02406ed97ac7a8269a275a6b7f38db59aac6834b6e8/index.html": "Union Live 举办！",
+        "/notice/7bbde15764c3f27fa3f1248b1a38018f19920d5a8926bb1346d695dc71ec43ac/index.html": "Union Live 举办！",
+        "/notice/7f739f4e0eb31543130bc9be246bc1cd41f9934b9c810ad1e0c6ba3dedfb2f47/index.html": "Union Live 举办！",
+        "/notice/81c806738f5159ec75662f2e4cee9598bfd1fc69d2bc264644d26ec5845b03dc/index.html": "Union Live 举办！",
+        "/notice/8642331a504f767d0a6f51411e73462e80983ae211d253e468b98ef94b0c7d52/index.html": "Union Live 开演！",
+        "/notice/89221d6a6614e95fe973b5213f4a4996024483459b0ebabb5d5330d390ade8ce/index.html": "Union Live 举办！",
+        "/notice/8d26ac853c62d09ddf593cc9960472eb95463f94ee194a61d79584037a0d0842/index.html": "Union Live 举办！",
+        "/notice/8ea250723c574a29fe1bf11683a18a4424be9c310ff3af8ab0e97e6754043a14/index.html": "Union Live 举办！",
+        "/notice/9398c8757425df314813e563166a337a969231e0a54290c07c334f1090d92a90/index.html": "Union Live 举办！",
+        "/notice/94c7cb8abd8fa8cc40f58e87d991a17e5fe54087bd122b614b8344d89ad304f6/index.html": "Union Live 举办！",
+        "/notice/a137f1d7c20d77a548840d60b2f4549e36ffcce2b86d3b44398191c0b4a6660e/index.html": "联盟演唱会举办！",
+        "/notice/a4b0a2e20b0b5f9a7d88411a69c1c7f9307df72c2a71cb36b8b952f141459db6/index.html": "Union Live 开催！",
+        "/notice/a55b6c9c940d2aabe0e04d3fd8d72d98947204f85c52767392e2b276628eecb8/index.html": "Union Live 举办！",
+        "/notice/a61773e028ac7c6578df4e076f3b0d752452bcf078891cd6ec8a96d811ba5998/index.html": "Union Live 举办！",
+        "/notice/aac023dcfea0e419d74ddccedc51d1b11e3c7ff4d8da735d2d10136c49120de5/index.html": "Union Live 举办！",
+        "/notice/acae0544f08299bba1ae9a80bdc83f39f5be9b2ea6017a200486aa887e20eb52/index.html": "Union Live 举办！",
+        "/notice/b031b2dc819590531b61bdcc8062a9e46a0c1d676c0c7a09f502f03edf00464d/index.html": "Union Live 举办！",
+        "/notice/b81ef8a580048040b1fa1aa54d50c689f31b6ba161dfc8fc80e5d8af6dd24a92/index.html": "Union Live 开演！",
+        "/notice/bcddeb4bd18c16d3e8e627c9988cad0cea306fab78a20d7c51533cda85819555/index.html": "Union Live 举办！",
+        "/notice/bdf654c7b32c7d06425899749b8aea09cb4b1c4020a60d6867e72a6e8d060f79/index.html": "Union Live 举办！",
+        "/notice/c1d9322cfaee25e09978c7d9930ea816aacfca252805138b44c488bfd9c927ed/index.html": "Union Live 举办！",
+        "/notice/cf89bb72667b628f36c3ab2073a0f97444506cf385e746be916e965141641de8/index.html": "Union Live 举办！",
+        "/notice/d437fb5a08b429530d8b4d86351a8c89479d5751f2c54b21e0ab241edfbe108c/index.html": "Union Live 举办！",
+        "/notice/d55fe7cb8ac6904d8656d8f84dff4bd3586f60bf0dfabbe8de23944e07f1ee5f/index.html": "Union Live 举办！",
+        "/notice/d7393554c3b13b8ec1ad788a9f43cbe3e14079a5c2a6ba4fbdfde02eb8ccbac9/index.html": "Union Live 举办！",
+        "/notice/d7849cf9cc0b9c5f7d48355de6d6ccc4222d59f725a6164cb5bdc0a824af80da/index.html": "Union Live 举办！",
+        "/notice/d7f089c82c73de9588cee9af7d88f8c4389c229a22dbe52519cb89b3e8c73ba2/index.html": "Union Live 举办！",
+        "/notice/dcb9a66ef8bbeb35684f10fbe748e0f9d78f382b4b95634750037bff53ad68a9/index.html": "Union Live 举办！",
+        "/notice/e351cdfd787923639ebf13d2c4f6833a4d95e832cf024e99ea1c5fb8f3f4927a/index.html": "Union Live 举办！",
+        "/notice/e5956f1a118c56c113a6641dd375fa6da3c74d0e06caf16b2a6847fce394715a/index.html": "联盟演唱会举办！",
+        "/notice/e97ad404737b61f9e4c02dc25c4a95ec67c776942158b99888b5e1ddbe40d65f/index.html": "Union Live 举办！",
+        "/notice/e9a9a4d9ea928cbfc778a58ce0a2ec5aeb10f8b5572cc87c0de3682b64fdc706/index.html": "Union Live 举办！",
+        "/notice/f3577e115cfe5119a1c5a3942c5c517081b0c12e5b0b2cd0da16c9ce5e249042/index.html": "Union Live 举办！",
+        "/notice/f7914698fcef10929ca38c3d3643250e40856b4491ef5dc6ca391ac800b37af0/index.html": "Union Live 举办！",
+        "/notice/f9be6020d352b412291182f18643b49c0a03d86362c68ea6928034c43355d207/index.html": "联盟演唱会举办！",
+        "/notice/fa779fe15ad2089ce11b592c046c4c9505bb50c9aa19247b0f7ce0650c52c0cb/index.html": "Union Live 举办！",
+        "/notice/fe12a56085a2b0764c5bc58ac5c0633b1b1d581edf95b2ccddc0d4d77afd1e77/index.html": "联盟演唱会举办！"
+      },
+      "reason": "与Emblem等MasterDB的ユニオンライブ译名联盟演唱会一致，避免残留日文开催。",
+      "review_method": "assistant",
+      "translation": "联盟演唱会举办！"
+    },
+    "ユーザーアンケートご協力のお礼": {
+      "candidates": {
+        "/notice/acb3b91e7752d57031ac998756ca0aa8d2fbdb60822ec8f6d91f06d7ef5c5c60/index.html": "关于用户问卷调查协助的感谢",
+        "/notice/e7d9a4c8ce91aa13fc7801f4c3d585307a2e29c29db4eeeb085ed1c34a484f54/index.html": "关于协助填写用户问卷的感谢"
+      },
+      "reason": "明确感谢对象为参与填写问卷的用户，避免用户问卷调查协助的生硬结构。",
+      "review_method": "assistant",
+      "translation": "关于协助填写用户问卷的感谢"
+    },
+    "リンクスイベントにて一部のストーリーが再生できない": {
+      "candidates": {
+        "/notice/2e4390514b2db6d9d852a982846598b45b32c1627a6313604f50d50a1511f799/index.html": "在链接活动中部分剧情无法播放",
+        "/notice/404553609c871e7ca2ad843f9707129f153d790a456dba625215fe20a2c1a438/index.html": "在Linkus活动中部分剧情无法播放"
+      },
+      "reason": "リンクスイベント采用HelpCategory的链接活动名称，不使用未经词典支持的Linkus拼写。",
+      "review_method": "assistant",
+      "translation": "在链接活动中部分剧情无法播放"
+    },
+    "一部ホーム画面の会話セリフに誤りがある": {
+      "candidates": {
+        "/notice/0c6d6b07073b3a749e2f70fa3f265f1a79d0c4a41d72f5f776b69f3c9268b825/index.html": "部分主页画面的对话台词有误",
+        "/notice/1bb9e84e578d403febf0ae2157bd45258589f9e1af60935d5b6e4399a5b5f843/index.html": "部分首页画面的对话台词存在错误",
+        "/notice/de2251f64efcf9b109e357de4fb8207329e10224b28fa1c69def58847bb6a5a5/index.html": "部分首页画面的对话台词存在错误"
+      },
+      "reason": "首页与用户实际入口称呼一致，保留部分会话的范围。",
+      "review_method": "assistant",
+      "translation": "部分首页画面的对话台词存在错误"
+    },
+    "一部メッセージ内容に誤りがある": {
+      "candidates": {
+        "/notice/e618173d9ab78fae6cf27f81d45beb829c3fa1f5fc688f5008436c5409a15a93/index.html": "部分消息内容有误",
+        "/notice/e953faf6bf1a5b8296ec7117365733870f83fa98720253b856caf048b1ba38c6/index.html": "部分消息内容有误",
+        "/notice/fb636772461caf845c2b30a3fa1d30c1512508ddd2aa17f1ce0beb58e3656b8a/index.html": "部分消息内容存在错误"
+      },
+      "reason": "简洁保留消息功能和部分内容范围。",
+      "review_method": "assistant",
+      "translation": "部分消息内容有误"
+    },
+    "初音ミクコラボミッション開催！": {
+      "candidates": {
+        "/notice/2ea1429aa2910ea93357b3d52fa15c4341586692e4cc305562e424773ceaa231/index.html": "初音未来联动任务开启！",
+        "/notice/a337a6db0d19e808fa099d588fe35378a7d380416c22e5cea0ac829bb276b7d6/index.html": "初音未来联动任务举办！"
+      },
+      "reason": "初音ミク采用已有译名初音未来，コラボ为联动，任务活动采用开启。",
+      "review_method": "assistant",
+      "translation": "初音未来联动任务开启！"
+    },
+    "単独ライブ開催記念選べる★5アイドルガチャ開催！": {
+      "candidates": {
+        "/notice/0e35d88e743d0037f40d8ddfeabb8bacde004563a1d015957296c78bb4a49a03/index.html": "单独演唱会举办纪念 可选★5偶像扭蛋开启！",
+        "/notice/5bcbab7620f24b4680e42ec057a2d7a29746c732bf97aad4f668118f8662b3b7/index.html": "单人演唱会举办纪念 可选★5偶像扭蛋开启！",
+        "/notice/a94b4a364e85412d27bd6116101c78d35e4622ee43b7e489d0efe77df2aaddc7/index.html": "单独演唱会举办纪念 可选★5偶像扭蛋开启！",
+        "/notice/d5b65b5d9a761fde45254d34bef06e5954764ea0dc2ca4d945db21452279b8f5/index.html": "单独演唱会举办纪念可选★5偶像扭蛋开启！",
+        "/notice/f7e7499c84327d9d1b4bbdb6c319a9b2d76a4726e3c9ab890bf1cf571c87bb5e/index.html": "单独演唱会举办纪念 可选★5偶像扭蛋开启！"
+      },
+      "reason": "単独ライブ与MasterDB单独演唱会一致，不误写成只有一名表演者的单人演唱会。",
+      "review_method": "assistant",
+      "translation": "单独演唱会举办纪念可选★5偶像扭蛋开启！"
+    },
+    "年末年始1人★5確定ロックオンガチャ開催！": {
+      "candidates": {
+        "/notice/b27df46a7e8e83b3cc023204e0768e95563a89be91d2e34c98caf38bfff4a60e/index.html": "年末年初1人★5确定锁定抽卡开启！",
+        "/notice/dd0ab71c9eeaa934ce88cd7326b928faaa0769f1a379138a0bb0675f402223ee/index.html": "年末年初1人★5确定锁定扭蛋开启！"
+      },
+      "reason": "保留年末年初范围、确定人数与星级，同类ロックオン采用锁定扭蛋。",
+      "review_method": "assistant",
+      "translation": "年末年初1人★5确定锁定扭蛋开启！"
+    },
+    "復刻おそろい衣装交換所登場！": {
+      "candidates": {
+        "/notice/1c2458f741650689e4d0fd0256c4158716c4d9762fe7c127656582c8a9e4ef23/index.html": "复刻情侣装兑换所登场！",
+        "/notice/6043e3d3569c045cc3f98403bc028209b052bfbf10cadc3094e50380e5877757/index.html": "复刻配套服装兑换所登场！",
+        "/notice/8d9a26f072edbb62815d48fb841989cb1f363d9d7e71a3cd3dfe7dd71e714097/index.html": "复刻配对服装兑换所登场！",
+        "/notice/cbb450959346889a615a767e86e4d11fe22ba7259d95c87012b9e756cef69b09/index.html": "复刻同款服装兑换所登场！",
+        "/notice/ef6a9616df30ef0f07fafec9ab8b9f98d0515be3dd53ad1dd27da14fe52437d6/index.html": "复刻同款服装兑换所登场！"
+      },
+      "reason": "おそろい表示同款配套，不推断为情侣装，避免额外角色关系含义。",
+      "review_method": "assistant",
+      "translation": "复刻同款服装兑换所登场！"
+    },
+    "感謝祭ミッション開催！": {
+      "candidates": {
+        "/notice/b93b3fa496328db095075a42719ce99158dd72801a03742543ddb718a3592cfb/index.html": "感谢祭任务举办！",
+        "/notice/c95615b5f35c05025745441c4a6d16768d0cf2398930e1c4d10d1fa5b4285d35/index.html": "感谢祭任务开启！",
+        "/notice/d10ec4de65eedd7cb6229154d8dfc9046f5a72bd8c1166011d779911fe2c6732/index.html": "感谢祭任务开启！",
+        "/notice/d6592a704242a5fabd3a74d1f88f746f2d2569cd55772a251f0a18d11f1e28e4/index.html": "感谢祭任务举办！"
+      },
+      "reason": "活动名沿用感谢祭，与相关商店及登录奖励公告统一。",
+      "review_method": "assistant",
+      "translation": "感谢祭任务开启！"
+    },
+    "新たな★5確定ガチャチケが登場！": {
+      "candidates": {
+        "/notice/352c58e9aafa3692a2c3730500003e6ae344b39f61011aa53778e8ba6d42dd8e/index.html": "全新的★5确定扭蛋券登场！",
+        "/notice/776a48dc346034269a0f908021a9678a98ba317b36bc7550ad9ac01326a436b0/index.html": "全新的★5确定扭蛋券登场！",
+        "/notice/8ec0e59916a5ba7e65d0f0d89c0cba9ee3a9a251f35f2cffb7ffedb5a1542842/index.html": "全新★5确定扭蛋券登场！",
+        "/notice/ef85da0984c98c24fcd027c650cf171cfa9c0d448452510263c73b31672a66fb/index.html": "全新★5确定扭蛋券登场！",
+        "/notice/f5aec13a08807adc8ee11d00a8dbe7c612282454b356a518b54aadd691bc6197/index.html": "全新★5确定扭蛋券登场！"
+      },
+      "reason": "保留★5确定券这一商品属性，简化不必要的的。",
+      "review_method": "assistant",
+      "translation": "全新★5确定扭蛋券登场！"
+    },
+    "温泉オールスタードリームギフトガチャ開催！": {
+      "candidates": {
+        "/notice/9aea1f9ebc3e403630ca6880ef8cce8ac435c70ba450640b7e4bcdbc571f0bd2/index.html": "温泉全明星梦幻礼包扭蛋开启！",
+        "/notice/d899b661087a19446ef1e8a9704792f97609479a815f2e8beef1a249078ad12c/index.html": "温泉全明星梦想礼包扭蛋开启！"
+      },
+      "reason": "保留温泉全明星系列和Dream的梦想含义，优先与已有梦想赠礼词根一致的候选。",
+      "review_method": "assistant",
+      "translation": "温泉全明星梦想礼包扭蛋开启！"
+    },
+    "番外編「TRINITYAiLE」を期間限定で無料公開！": {
+      "candidates": {
+        "/notice/0c9779333a92c2806d6610ed1bedb2ddbf5bd5062557a5305fd795a44178a123/index.html": "番外篇「TRINITYAiLE」期间限定免费公开！",
+        "/notice/f6cf50144c0dffb125085c48c198dbc361a14d7b4751a9f0bb4e8e8abb468b46/index.html": "番外篇「TRINITYAiLE」限期免费公开！"
+      },
+      "reason": "自然表达期間限定的期限，保持组合官方拼写和免费公开属性。",
+      "review_method": "assistant",
+      "translation": "番外篇「TRINITYAiLE」限期免费公开！"
+    },
+    "番外編「長瀬麻奈」を期間限定で無料公開！": {
+      "candidates": {
+        "/notice/16e62bfc8f42baa5ba6525b9e27556cebb622172ea041e6163667e7b26d8de3b/index.html": "番外篇「长濑麻奈」期间限定免费公开！",
+        "/notice/70d84fde044611bb535a91bb86ae50974aee13b7e2a34d2f59e04a222f9190fc/index.html": "番外篇「长濑麻奈」限时免费公开！",
+        "/notice/977e18fa3ad6930c9200989788c13b1064a2bb907069b850db9330c1a4c4031d/index.html": "番外篇「长濑麻奈」期间限定免费公开！",
+        "/notice/a039c595122e9ed4a00591021d215f3c12571b79578771aaf0778530cc17b96c/index.html": "番外篇「长濑麻奈」限时免费公开！",
+        "/notice/bd67fe0444e1c55f42720fe003a4ce392c1e38392d9de7c37a04dbbe11d2a530/index.html": "番外篇「长濑麻奈」期间限定免费公开！"
+      },
+      "reason": "姓名按词典，明确期间限定免费而非永久免费。",
+      "review_method": "assistant",
+      "translation": "番外篇「长濑麻奈」限时免费公开！"
+    },
+    "番外編ストーリー 長瀬麻奈 追加！": {
+      "candidates": {
+        "/notice/7ae61b6f9bd7d4ccde190736a41dbce8244617c6c1bb02f885b0f15536c9038e/index.html": "番外篇剧情 长濑麻奈 追加！",
+        "/notice/9a19fcd8e3b4054b5384b10a9b70a0074b7f90e569692b891332e05349aec214/index.html": "番外篇故事 长濑麻奈 追加！",
+        "/notice/e01c81b5244d3f9f05a2955a82cef3a26e5cb54bf5758b4a0225def9de4bb6f7/index.html": "番外篇故事 长濑麻奈 追加！"
+      },
+      "reason": "ストーリー按项目剧情功能命名，保留姓名及原有标题分隔。",
+      "review_method": "assistant",
+      "translation": "番外篇剧情 长濑麻奈 追加！"
+    },
+    "福引券ガチャ登場！": {
+      "candidates": {
+        "/notice/1ebd1a29634c7c4f0300eaea3de1de17c88ade00bdee20ace7de6f42d8a8a544/index.html": "抽奖券扭蛋登场！",
+        "/notice/22b6fe181dbe1c5c4b15d28c6a2f330f9de931ba167c2a6388758bbccddd2171/index.html": "抽签券扭蛋登场！",
+        "/notice/2d7768f5c310dc1bd463cee781fcd2c0b5edc5e2c8dc2c2ea0799a508310fb88/index.html": "福引券扭蛋登场！",
+        "/notice/5f0774d838e99c7d808459047147e4d72008b6b67e0e91aafcb0c654bcaa38da/index.html": "福引券扭蛋登场！",
+        "/notice/6b8d0f5c473073ef27114c7b3517e2a915970a9fd618abcd6394ee79f0e15e99/index.html": "福引券扭蛋登场！",
+        "/notice/938236675a15c0134c4f9636268b6323d51cb83d7ec48ffc684ea5f4f5a37f16/index.html": "抽奖券扭蛋登场！",
+        "/notice/955bac8e7c3a92d8e2014deaae0a181d9d7ba134baaff0a90a3939f831793919/index.html": "福引券扭蛋登场！",
+        "/notice/dc9aa42e0a578e015563c8602204d837465b1948a829f1933c494d06b2434ae0/index.html": "福引券扭蛋登场！"
+      },
+      "reason": "福引券对齐Item.name和Gacha.name的抽奖券，不译为抽签券或保留日文。",
+      "review_method": "assistant",
+      "translation": "抽奖券扭蛋登场！"
+    },
+    "育成タワーにSTAGE追加！": {
+      "candidates": {
+        "/notice/2fad6f1f213944be1b0ee944925f3732150b94052cd7e068eb8a18f935d6bde3/index.html": "养成塔追加STAGE！",
+        "/notice/fa9a40488c577e3cca9fdce59874b659002cad10f5824a341fa225b3eeac70a9/index.html": "育成塔追加STAGE！"
+      },
+      "reason": "育成タワー与Area.name养成塔一致，保留STAGE标题样式。",
+      "review_method": "assistant",
+      "translation": "养成塔追加STAGE！"
+    },
+    "育成タワーにSTAGE追加！        ": {
+      "candidates": {
+        "/notice/2fad6f1f213944be1b0ee944925f3732150b94052cd7e068eb8a18f935d6bde3/index.html": "养成塔追加STAGE！        ",
+        "/notice/fa9a40488c577e3cca9fdce59874b659002cad10f5824a341fa225b3eeac70a9/index.html": "育成之塔追加STAGE！        "
+      },
+      "reason": "同一功能沿用Area.name养成塔；完整保留原文末尾空格。",
+      "review_method": "assistant",
+      "translation": "养成塔追加STAGE！        "
+    },
+    "育成応援ログインボーナス開催！": {
+      "candidates": {
+        "/notice/01e7af19ca3846827166ec7103105039d927d9802f51db6b48ec22e201469175/index.html": "养成应援登录奖励开启！",
+        "/notice/0759f43bec97aa824a88f003412928254925f282b8c2b48664db92efb0c0d2f7/index.html": "养成应援登录奖励开启！",
+        "/notice/1226309ccfd862efba008ae59f9137ca65bf9fac3a0c6442364a19b26baa64ee/index.html": "养成应援登录奖励开启！",
+        "/notice/1e6e275a1698935d55dad735df21fe9bdfa9c91c16eecce80359db294caf9ba8/index.html": "养成应援登录奖励开启！",
+        "/notice/21cb75e0ac8172dca8585eb15e9311eaec7fac6e4e658cc52d054e98f3070a0a/index.html": "养成应援登录奖励开启！",
+        "/notice/352351ed92bd3524bf85e2ef06145949bbef658881767601cd1544125f364cb3/index.html": "育成应援登录奖励开启！",
+        "/notice/3b0fa81a8de2200ef9099953ce67f937c187c625579507745b59a130b59196e5/index.html": "养成应援登录奖励开启！",
+        "/notice/3f6f62627e50a2f219174a70c826e1e55e7a704ba12b4cf0468b6998c41d8002/index.html": "养成应援登录奖励开启！",
+        "/notice/461f3ccb4eb3e77544f1e27be9499981d05067116ae81876e9345b7fa2dc1e94/index.html": "养成应援登录奖励开启！",
+        "/notice/4c65d350158d6c30ed6327eb9588c4e85d243d92bfbd40b4d6b5e595c8a57c27/index.html": "育成应援登录奖励开启！",
+        "/notice/4f026b41845c97087e5a73f27267053ecc819184c30d2607d0f6ea42c2184e02/index.html": "养成应援登录奖励开启！",
+        "/notice/7b8e853e7f7580a4825bceb7bd2038ccbd8ce89bcf655e07f9034fafaf6d0373/index.html": "养成应援登录奖励开启！",
+        "/notice/7f73b7442b95baea810820e712439344663644612e2a12b112eaed97a3262487/index.html": "养成应援登录奖励开启！",
+        "/notice/92941b3af5abfeafba57bfef004c4c70463d9e5f9591ed6f078105ed679f5e6f/index.html": "养成应援登录奖励开启！",
+        "/notice/b11cb3879d0465a4e0413da9277f306e1d673f78fa8784dd9f63ed913363c7be/index.html": "养成应援登录奖励开启！",
+        "/notice/bd31f1a31996995998d8dadbd583bbb141350894e969524f228dd331a69b0167/index.html": "养成应援登录奖励开启！",
+        "/notice/fbaded5810bd4b3b0f1c995e21e521a22bccbff464caffaa332652c3e19454b9/index.html": "育成应援登录奖励开启！",
+        "/notice/ff4dd9cd9ffd915517d6d88e457499787c1470d2eb86b9a21033b718168f4837/index.html": "养成应援登录奖励开启！"
+      },
+      "reason": "育成沿用同系列养成用语，保留应援活动及登录奖励性质。",
+      "review_method": "assistant",
+      "translation": "养成应援登录奖励开启！"
+    },
+    "選べる★5アイドルガチャ TRINITYAiLE ver.開催！": {
+      "candidates": {
+        "/notice/30bd79361359365225889f83ff1b4ac4db08c48e9e72b4b09f780860d38fb923/index.html": "可选★5偶像扭蛋 TRINITYAiLE ver.开启！",
+        "/notice/55dd80d039cfbb3ac098a6dfd1da3809efa8443f811b164a707a332f2497a60a/index.html": "可选★5偶像扭蛋 TRINITYAiLE ver. 开启！",
+        "/notice/5ab1d4e26a0dc43b117758f98ec212bdc02b8171508bf86fb0aa00fb1a76b187/index.html": "可选★5偶像扭蛋 TRINITYAiLE ver.开启！",
+        "/notice/993ded64f74ce61e016add8582b9951f5d9ba20f0538c4773dcd32f3bc72c0c9/index.html": "可选★5偶像扭蛋 TRINITYAiLE ver.开启！"
+      },
+      "reason": "组合名按词典，保留可选★5属性并去掉多余句内空格。",
+      "review_method": "assistant",
+      "translation": "可选★5偶像扭蛋 TRINITYAiLE ver.开启！"
+    },
+    "選べる★5アイドルガチャ サニーピース ver.開催！": {
+      "candidates": {
+        "/notice/aafb62bcca4391e1767f63f915775c35519aabf2215677e37be554859e79b923/index.html": "可选★5偶像扭蛋 SUNNY PEACE ver.开启！",
+        "/notice/b553ac71f92b5d7e25be2a6a170378fdea318e658e93396402eb2b8adac46e6b/index.html": "可选★5偶像扭蛋 SUNNY PEACE ver.开启！",
+        "/notice/b6d0ad971b42ee5e57a5c0160680b27d06d010161e56bc49e6ef1102ff476bb3/index.html": "可选★5偶像扭蛋 SUNNY PEACE ver.举办！"
+      },
+      "reason": "サニーピース按词典SUNNY PEACE，开启与同类可选扭蛋公告一致。",
+      "review_method": "assistant",
+      "translation": "可选★5偶像扭蛋 SUNNY PEACE ver.开启！"
+    },
+    "選べる★5バッファーガチャ開催！": {
+      "candidates": {
+        "/notice/1ede48ede1b38cd7fe82eb730cfca0237c8facccb3a783e8e5555d85c4c8ae1f/index.html": "可选★5增益角色扭蛋开启！",
+        "/notice/8d3e7fa8b14a46008a2648df1ebf6303b9f9262ee44d4178e6eeb5fc69eabfcf/index.html": "可选★5增益角色扭蛋开启！",
+        "/notice/8fe142b9aff636c3d1859241409e177c79080282a18124b3ab6ed96aa3075771/index.html": "可选★5增益角色扭蛋开启！",
+        "/notice/b38768508a1e31120f4d3cc164e3e6a2adcc9e6634f41e34cf38d645b15619f8/index.html": "可选★5增益角色扭蛋开启！",
+        "/notice/c260da58b004444819ca04ecffac4b8575d4e281cfa0fc0c0b71ed690464375c/index.html": "可选★5增益角色扭蛋开启！",
+        "/notice/cec3af27a1395fcf6cefbc30e5bf62bd529c512a9226d4e4158d08f445b9240f/index.html": "可选★5增益角色扭蛋开启！",
+        "/notice/db45ebe19358e7ac61028ddcac471b8a3898d143efcf96be3fe0e305f3d05f54/index.html": "可选★5增益型扭蛋开启！",
+        "/notice/de6e2496c9306ef2fb0255bdcb78483c3413e4e564d04f90ae7a032e87c2b121/index.html": "可选★5增益者扭蛋开启！"
+      },
+      "reason": "バッファー说明可选角色定位，增益角色比增益者更清晰，保留★5限制。",
+      "review_method": "assistant",
+      "translation": "可选★5增益角色扭蛋开启！"
+    },
+    "選べるアイプラフェスガチャ開催！": {
+      "candidates": {
+        "/notice/02921e32d5c15957d2f55f90ca5953d5acc8c820a9cabc1416d014e801a6b46b/index.html": "可选偶像荣耀庆典扭蛋开启！",
+        "/notice/091d19c228bb246ab660117e313ec82e6bf4cd08a8332ba6963ad49619498bd4/index.html": "可选偶像荣耀祭典扭蛋开启！",
+        "/notice/231add91704feeda2a406453f1d587ff0f7f772f5a320d33cee82cb22ef7d0fe/index.html": "可选偶像荣耀祭典扭蛋开启！",
+        "/notice/385b9c9ace049de41b94b36bfcdc367b6e5bc8bc6705c7fdd803b0c0a737d7f1/index.html": "可选偶像荣耀庆典扭蛋开启！",
+        "/notice/401971ab82471ce69a0a6407d9c0d41ef62145703da6720024d8e0bac134d7e5/index.html": "可选偶像荣耀祭典扭蛋开启！",
+        "/notice/62a9a0300d81d3739e920ed3e425912aff20bb61a8bf5846cc6390af7f8ae167/index.html": "可选偶像荣耀庆典扭蛋开启！",
+        "/notice/719e4aef2bb3d80b4ccfcd006a8748fa1b1a01ab3220884098230102c814e585/index.html": "可选偶像荣耀庆典扭蛋开启！",
+        "/notice/89abfdb6d31a4b531cfe50bac4c5874b00c87a657f3fbf6539b5d9deb17bfd4c/index.html": "可选偶像荣耀庆典扭蛋开启！",
+        "/notice/908b51c285fea575ff1b5a337c9eb8493da39be2bbec6acbc5f259cd724ff0d5/index.html": "可选偶像荣耀庆典扭蛋开启！",
+        "/notice/a9b8128ac91fc90f8f148743112c71831e2dc344f5178338974e1ff507c275ec/index.html": "可选偶像荣耀祭典扭蛋开启！",
+        "/notice/ab63ed9de8ba9705653decae3480cb5a9ceac0dea0fdd972642e75bba3aa83a4/index.html": "可选偶像荣耀祭典扭蛋开启！",
+        "/notice/d25d206f588fa86c82f213d2dcb5fbcc4cc2fa87750caaff11974af313890326/index.html": "可选偶像荣耀庆典扭蛋开启！",
+        "/notice/d890df6558dcf99013275f7a94dd151da20bfb0d22c1c87256b54688c82e7c99/index.html": "可选偶像荣耀祭典扭蛋开启！",
+        "/notice/e07d843dc615f8fc09646d899fe399b66e09747e9411b5bc4ed739ef2ac9b0ea/index.html": "可选偶像荣耀庆典扭蛋开启！",
+        "/notice/ef840ea75f206e6ebead58e64e0e605be788aa3bdce841eb3ae63469d3e5b6bf/index.html": "可选偶像荣耀庆典扭蛋开启！",
+        "/notice/f5583a1a0e4573be232d142fed7e208b28dc97b264cbb4f9bfb426a94f0360e7/index.html": "可选偶像荣耀庆典扭蛋开启！",
+        "/notice/fd8b09c160c87def3ca04b51b4c671d68310dd7c2699ce13173356a242be841c/index.html": "可选偶像荣耀祭典扭蛋开启！"
+      },
+      "reason": "アイプラフェス与已有Gacha及Item的偶像荣耀庆典译名一致。",
+      "review_method": "assistant",
+      "translation": "可选偶像荣耀庆典扭蛋开启！"
+    }
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,309 @@
+{
+  "photo_studio-03-000-noon": {
+    "name": "圣诞摄影"
+  },
+  "photo_studio-03-001-noon": {
+    "name": "圣诞摄影"
+  },
+  "photo_studio-04-001-noon": {
+    "name": "圣诞摄影"
+  },
+  "photo_studio-05-000-noon": {
+    "name": "鱼鱼☆\nHEAVEN"
+  },
+  "photo_studio-06-000-noon": {
+    "name": "梦幻可爱拍摄"
+  },
+  "stage-live-dome-00-00": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "左侧",
+    "cameraPositions[2].name": "右侧",
+    "cameraPositions[3].name": "看台",
+    "name": "公园竞技场武藏野"
+  },
+  "stage-live-dome-00-01": {
+    "name": "代代木国际竞技场"
+  },
+  "stage-live-dome-00-02": {
+    "name": "大分体育巨蛋"
+  },
+  "stage-live-dome-00-03": {
+    "name": "幕张WAVE"
+  },
+  "stage-live-dome-00-04": {
+    "name": "新东京巨蛋"
+  },
+  "stage-live-dome-00-05": {
+    "name": "国际巨蛋大阪"
+  },
+  "stage-live-dome-01-00": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "左侧",
+    "cameraPositions[2].name": "右侧",
+    "cameraPositions[3].name": "看台",
+    "name": "日本传统馆"
+  },
+  "stage-live-dome-01-01": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "左侧",
+    "cameraPositions[2].name": "右侧",
+    "cameraPositions[3].name": "看台",
+    "name": "大阪国际大厅"
+  },
+  "stage-live-dome-01-02": {
+    "name": "大阪WING体育场"
+  },
+  "stage-live-dome-01-03": {
+    "name": "国立纪念竞技场"
+  },
+  "stage-live-dome-01-04": {
+    "name": "横滨天空体育场"
+  },
+  "stage-live-dome-01-05": {
+    "name": "新国立纪念竞技场"
+  },
+  "stage-live-dome-01-06": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "左侧",
+    "cameraPositions[2].name": "右侧",
+    "cameraPositions[3].name": "看台",
+    "name": "日本传统馆"
+  },
+  "stage-live-dome-02-00": {
+    "name": "横滨花园大厅"
+  },
+  "stage-live-dome-02-01": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "左侧",
+    "cameraPositions[2].name": "右侧",
+    "cameraPositions[3].name": "看台",
+    "name": "前桥玻璃巨蛋"
+  },
+  "stage-live-dome-02-02": {
+    "name": "名古屋蓝色巨蛋"
+  },
+  "stage-live-dome-02-03": {
+    "name": "调布大体育场"
+  },
+  "stage-live-dome-03-00": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "左侧",
+    "cameraPositions[2].name": "右侧",
+    "cameraPositions[3].name": "看台",
+    "name": "太平洋巨蛋"
+  },
+  "stage-live-dome-03-01": {
+    "name": "神户港湾竞技场"
+  },
+  "stage-live-dome-03-02": {
+    "name": "纪元体育场"
+  },
+  "stage-live-dome-03-03": {
+    "name": "札幌城市巨蛋"
+  },
+  "stage-live-dome-04-00": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "左侧",
+    "cameraPositions[2].name": "右侧",
+    "cameraPositions[3].name": "看台",
+    "name": "埼玉公园竞技场"
+  },
+  "stage-live-dome-04-01": {
+    "name": "福冈绿色巨蛋"
+  },
+  "stage-live-dome-05-00": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "左侧",
+    "cameraPositions[2].name": "右侧",
+    "cameraPositions[3].name": "看台",
+    "name": "公园竞技场武藏野"
+  },
+  "stage-live-hall-00-00": {
+    "name": "新宿FLAME"
+  },
+  "stage-live-hall-00-01": {
+    "name": "大手町广场"
+  },
+  "stage-live-hall-00-02": {
+    "name": "中野Wonderland"
+  },
+  "stage-live-hall-00-03": {
+    "name": "新木场Sea剧场"
+  },
+  "stage-live-hall-01-00": {
+    "name": "有乐町大厅"
+  },
+  "stage-live-hall-01-01": {
+    "name": "赤坂桥"
+  },
+  "stage-live-hall-01-02": {
+    "name": "市民大厅大宫"
+  },
+  "stage-live-hall-01-03": {
+    "name": "上越文化会馆"
+  },
+  "stage-live-hall-02-00": {
+    "name": "PUEBLO川崎"
+  },
+  "stage-live-hall-02-01": {
+    "name": "品川星光大厅"
+  },
+  "stage-live-hall-02-03": {
+    "name": "NAD会馆"
+  },
+  "stage-live-hall-03-00": {
+    "name": "GREEN舞台涩谷"
+  },
+  "stage-live-hall-03-01": {
+    "name": "舞滨竞技场"
+  },
+  "stage-live-hall-03-02": {
+    "name": "东京国际剧场"
+  },
+  "stage-live-hall-03-03": {
+    "name": "横滨中央大厅"
+  },
+  "stage-live-house-00-00": {
+    "name": "Rapture涩谷"
+  },
+  "stage-live-house-00-00-medium": {
+    "name": "Rapture涩谷"
+  },
+  "stage-live-house-01-00": {
+    "name": "秋叶原Fresh剧场"
+  },
+  "stage-live-house-01-00-medium": {
+    "name": "秋叶原Fresh剧场"
+  },
+  "stage-live-house-01-01": {
+    "name": "节奏大厅神奈川"
+  },
+  "stage-live-house-01-01-medium": {
+    "name": "节奏大厅神奈川"
+  },
+  "stage-live-house-02-00": {
+    "name": "TERRACE下北泽"
+  },
+  "stage-live-house-02-00-medium": {
+    "name": "TERRACE下北泽"
+  },
+  "stage-live-house-02-01": {
+    "name": "涩谷CLUB DIEZ"
+  },
+  "stage-live-house-02-01-medium": {
+    "name": "涩谷CLUB DIEZ"
+  },
+  "stage-live-house-03-00": {
+    "name": "星见市高台舞台"
+  },
+  "stage-live-house-03-00-medium": {
+    "name": "星见市高台舞台"
+  },
+  "stage-live-house-03-01-medium": {
+    "name": "立川广场舞台"
+  },
+  "stage-live-unique-00-00": {
+    "name": "未来连接舞台"
+  },
+  "stage-live-unique-004-00": {
+    "cameraPositions[0].name": "中央",
+    "cameraPositions[1].name": "左侧",
+    "cameraPositions[2].name": "右侧",
+    "cameraPositions[3].name": "看台",
+    "cameraPositions[4].name": "后方",
+    "name": "未来夏日舞台"
+  },
+  "stage-live-unique-01-00": {
+    "name": "Sunshine!!舞台"
+  },
+  "stage-live-unique-02-00": {
+    "name": "未来雪舞台"
+  },
+  "stage-live-unique-03-00": {
+    "name": "可爱兔子舞台"
+  },
+  "stage-photo-aj-00": {
+    "name": "展示空间"
+  },
+  "stage-photo-aj-00-2025-april": {
+    "name": "展示空间"
+  },
+  "stage-photo-aj-01": {
+    "name": "鱼鱼空间"
+  },
+  "stage-photo-bedrock-00": {
+    "name": "岩盘浴"
+  },
+  "stage-photo-cafe-00": {
+    "name": "咖啡厅"
+  },
+  "stage-photo-cafe-00-2025-april": {
+    "name": "咖啡厅"
+  },
+  "stage-photo-catstreet-00": {
+    "name": "街头"
+  },
+  "stage-photo-catstreet-01": {
+    "name": "街头"
+  },
+  "stage-photo-cooking-00": {
+    "name": "直播工作室"
+  },
+  "stage-photo-expression-pool-00": {
+    "name": "室外泳池"
+  },
+  "stage-photo-garden-02": {
+    "name": "花园露台"
+  },
+  "stage-photo-garden-02-03": {
+    "name": "花园露台"
+  },
+  "stage-photo-hillpark-00": {
+    "name": "星见市高台"
+  },
+  "stage-photo-lesson-00": {
+    "name": "练习室"
+  },
+  "stage-photo-living-01": {
+    "name": "东京宿舍客厅"
+  },
+  "stage-photo-ministage-00": {
+    "name": "小型舞台"
+  },
+  "stage-photo-ministage-01": {
+    "name": "月森之丘"
+  },
+  "stage-photo-pool-00": {
+    "name": "室外泳池"
+  },
+  "stage-photo-quiz-00": {
+    "name": "猜谜节目"
+  },
+  "stage-photo-recording-00": {
+    "name": "录制工作室"
+  },
+  "stage-photo-recording-00-2025-april": {
+    "name": "录制工作室"
+  },
+  "stage-photo-spa-00": {
+    "name": "温泉"
+  },
+  "stage-photo-square-00": {
+    "name": "站前广场"
+  },
+  "stage-photo-square-00-2025-april": {
+    "name": "站前广场"
+  },
+  "stage-photo-studio-00": {
+    "name": "摄影棚"
+  },
+  "stage-photo-studio-01": {
+    "name": "室内摄影棚"
+  },
+  "stage-photo-studio-02-000-noon": {
+    "name": "文艺部室"
+  },
+  "stage-photo-themepark-00": {
+    "name": "主题公园"
+  }
+}

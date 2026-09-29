@@ -1,0 +1,933 @@
+[
+  {
+    "file": "adv_card_ai_08_01_short.csv",
+    "id": "3:title:1",
+    "source": "小美山愛 1話 そーっと、そーっと",
+    "before": "小美山爱 第1话 悄悄地、悄悄地",
+    "after": "小美山爱 第1话 悄悄地，悄悄地"
+  },
+  {
+    "file": "adv_card_ai_15_01_short.csv",
+    "id": "4:title:1",
+    "source": "小美山愛 1話 お出掛けしましょうよ～",
+    "before": "小美山爱 第1话 我们出去走走吧～",
+    "after": "小美山爱 第1话 我们出去逛逛吧～"
+  },
+  {
+    "file": "adv_card_ai_52_01.csv",
+    "id": "4:title:1",
+    "source": "小美山愛 1話 慰安旅行in山梨",
+    "before": "小美山爱 第1话 慰安旅行in山梨",
+    "after": "小美山爱 第1话 慰劳旅行in山梨"
+  },
+  {
+    "file": "adv_card_ai_52_01_short.csv",
+    "id": "4:title:1",
+    "source": "小美山愛 1話 慰安旅行in山梨",
+    "before": "小美山爱 第1话 慰安旅行in山梨",
+    "after": "小美山爱 第1话 慰劳旅行in山梨"
+  },
+  {
+    "file": "adv_card_ai_53_01_short.csv",
+    "id": "3:title:1",
+    "source": "小美山愛 1話 熊さーーーーーーん",
+    "before": "小美山爱 第1话 熊——————",
+    "after": "小美山爱 第1话 熊啊——————"
+  },
+  {
+    "file": "adv_card_aoi_06_01.csv",
+    "id": "4:title:1",
+    "source": "井川葵 1話 ドラマの中のことなのに",
+    "before": "井川葵 第1话 明明是剧中的事情",
+    "after": "井川葵 第1话 明明是电视剧里的情节"
+  },
+  {
+    "file": "adv_card_aoi_10_01.csv",
+    "id": "13:text:1",
+    "source": "葵、『情熱だけで生きてみろ』の",
+    "before": "葵，『情熱だけで生きてみろ』的",
+    "after": "葵，『仅凭热情活下去』的"
+  },
+  {
+    "file": "adv_card_aoi_52_01.csv",
+    "id": "3:title:1",
+    "source": "井川葵 1話 慰安旅行in沖縄",
+    "before": "井川葵 第1话 慰安旅行in冲绳",
+    "after": "井川葵 第1话 慰劳旅行in冲绳"
+  },
+  {
+    "file": "adv_card_aoi_52_01_short.csv",
+    "id": "3:title:1",
+    "source": "井川葵 1話 慰安旅行in沖縄",
+    "before": "井川葵 第1话 慰安旅行in冲绳",
+    "after": "井川葵 第1话 慰劳旅行in冲绳"
+  },
+  {
+    "file": "adv_card_chs_06_01.csv",
+    "id": "4:title:1",
+    "source": "白石千紗 1話 目指せスリクスさん",
+    "before": "白石千纱 第1话 目标是丝克丝小姐",
+    "after": "白石千纱 第1话 目标是IIIX小姐"
+  },
+  {
+    "file": "adv_card_chs_07_01_short.csv",
+    "id": "3:title:1",
+    "source": "白石千紗 1話 思い出の夏祭り",
+    "before": "白石千纱 第1话 回忆的夏日祭",
+    "after": "白石千纱 第1话 回忆中的夏日祭"
+  },
+  {
+    "file": "adv_card_chs_52_01_short.csv",
+    "id": "4:title:1",
+    "source": "白石千紗 1話 慰安旅行in京都",
+    "before": "白石千纱 第1话 慰安旅行in京都",
+    "after": "白石千纱 第1话 慰劳旅行in京都"
+  },
+  {
+    "file": "adv_card_hrk_12_01_short.csv",
+    "id": "4:title:1",
+    "source": "佐伯遙子 1話 ちょっと意識していた人",
+    "before": "佐伯遥子 第1话 曾经在意的人",
+    "after": "佐伯遥子 第1话 有点在意的人"
+  },
+  {
+    "file": "adv_card_hrk_13_01.csv",
+    "id": "3:title:1",
+    "source": "佐伯遙子 1話 養成所の先生",
+    "before": "佐伯遥子 第1话 培训学校的老师",
+    "after": "佐伯遥子 第1话 养成所的老师"
+  },
+  {
+    "file": "adv_card_hrk_13_01_short.csv",
+    "id": "3:title:1",
+    "source": "佐伯遙子 1話 養成所の先生",
+    "before": "佐伯遥子 第1话 养成所的教师",
+    "after": "佐伯遥子 第1话 养成所的老师"
+  },
+  {
+    "file": "adv_card_hrk_16_01.csv",
+    "id": "3:title:1",
+    "source": "佐伯遙子 1話 久しぶりにデートしましょう",
+    "before": "佐伯遥子 第1话 好久不见，我们去约会吧",
+    "after": "佐伯遥子 第1话 久违地一起约会吧"
+  },
+  {
+    "file": "adv_card_hrk_16_01_short.csv",
+    "id": "3:title:1",
+    "source": "佐伯遙子 1話 久しぶりにデートしましょう",
+    "before": "佐伯遥子 第1话 好久没约会了",
+    "after": "佐伯遥子 第1话 久违地一起约会吧"
+  },
+  {
+    "file": "adv_card_hrk_52_01.csv",
+    "id": "4:title:1",
+    "source": "佐伯遙子 1話 慰安旅行in山梨",
+    "before": "佐伯遥子 第1话 慰安旅行in山梨",
+    "after": "佐伯遥子 第1话 慰劳旅行in山梨"
+  },
+  {
+    "file": "adv_card_hrk_52_01_short.csv",
+    "id": "4:title:1",
+    "source": "佐伯遙子 1話 慰安旅行in山梨",
+    "before": "佐伯遥子 第1话 慰安旅行in山梨",
+    "after": "佐伯遥子 第1话 慰劳旅行in山梨"
+  },
+  {
+    "file": "adv_card_hrk_53_01.csv",
+    "id": "3:title:1",
+    "source": "佐伯遙子 1話 工具セットどうするのよ",
+    "before": "佐伯遥子 第1话 工具套装是怎么回事啊",
+    "after": "佐伯遥子 第1话 工具套装怎么办啊"
+  },
+  {
+    "file": "adv_card_kan_08_01.csv",
+    "id": "3:title:1",
+    "source": "kana 1話 クソ記事をぶっ潰してやんのよ",
+    "before": "kana 第1话 把那篇烂报道砸个稀巴烂",
+    "after": "kana 第1话 把那篇烂报道干掉"
+  },
+  {
+    "file": "adv_card_kan_12_01.csv",
+    "id": "5:title:1",
+    "source": "kana 1話 楽しませなさいよ",
+    "before": "kana 第1话 让我开心一下啊",
+    "after": "kana 第1话 让我开心一下吧"
+  },
+  {
+    "file": "adv_card_kan_52_01.csv",
+    "id": "4:title:1",
+    "source": "kana 1話  慰安旅行in北海道",
+    "before": "kana 第1话  慰安旅行in北海道",
+    "after": "kana 第1话 慰劳旅行in北海道"
+  },
+  {
+    "file": "adv_card_kan_52_01_short.csv",
+    "id": "4:title:1",
+    "source": "kana 1話  慰安旅行in北海道",
+    "before": "kana 第1话 慰安旅行in北海道",
+    "after": "kana 第1话 慰劳旅行in北海道"
+  },
+  {
+    "file": "adv_card_kkr_04_01_short.csv",
+    "id": "3:title:1",
+    "source": "赤崎こころ 1話 こっそりストーキング",
+    "before": "赤崎心 第1话 悄悄地跟踪",
+    "after": "赤崎心 第1话 偷偷跟踪"
+  },
+  {
+    "file": "adv_card_kkr_09_01_short.csv",
+    "id": "4:title:1",
+    "source": "赤崎こころ 1話 いざ出陣じゃー！",
+    "before": "赤崎心 第1话 出击啦～！",
+    "after": "赤崎心 第1话 出征啦～！"
+  },
+  {
+    "file": "adv_card_kkr_14_01_short.csv",
+    "id": "3:title:1",
+    "source": "赤崎こころ 1話 邪な視線を察知っ！",
+    "before": "赤崎心 第1话 察觉到了邪恶的视线！",
+    "after": "赤崎心 第1话 察觉到邪恶的视线！"
+  },
+  {
+    "file": "adv_card_kkr_52_01.csv",
+    "id": "4:title:1",
+    "source": "赤崎こころ 1話 慰安旅行in山梨",
+    "before": "赤崎心 第1话 慰安旅行in山梨",
+    "after": "赤崎心 第1话 慰劳旅行in山梨"
+  },
+  {
+    "file": "adv_card_kkr_52_01_short.csv",
+    "id": "4:title:1",
+    "source": "赤崎こころ 1話 慰安旅行in山梨",
+    "before": "赤崎心 第1话 慰安旅行in山梨",
+    "after": "赤崎心 第1话 慰劳旅行in山梨"
+  },
+  {
+    "file": "adv_card_kkr_53_01.csv",
+    "id": "3:title:1",
+    "source": "赤崎こころ 1話 祝いたまへー",
+    "before": "赤崎心 第1话 祝いたまへー",
+    "after": "赤崎心 第1话 庆祝吧——！"
+  },
+  {
+    "file": "adv_card_kkr_53_01_short.csv",
+    "id": "3:title:1",
+    "source": "赤崎こころ 1話 祝いたまへー",
+    "before": "赤崎心 第1话 庆祝吧",
+    "after": "赤崎心 第1话 庆祝吧——！"
+  },
+  {
+    "file": "adv_card_kor_52_01.csv",
+    "id": "4:title:1",
+    "source": "fran 1話 慰安旅行in沖縄",
+    "before": "fran 第1话 慰安旅行in冲绳",
+    "after": "fran 第1话 慰劳旅行in冲绳"
+  },
+  {
+    "file": "adv_card_kor_52_01_short.csv",
+    "id": "4:title:1",
+    "source": "fran 1話 慰安旅行in沖縄",
+    "before": "fran 第1话 慰安旅行in冲绳",
+    "after": "fran 第1话 慰劳旅行in冲绳"
+  },
+  {
+    "file": "adv_card_ktn_04_01.csv",
+    "id": "3:title:1",
+    "source": "長瀬琴乃 1話 気付いてほしい",
+    "before": "长濑琴乃 第1话 希望你注意到",
+    "after": "长濑琴乃 第1话 希望你能注意到"
+  },
+  {
+    "file": "adv_card_ktn_05_01.csv",
+    "id": "206:text:1",
+    "source": "いや、すずと芽衣がちゃんとしてない訳ではないんだが",
+    "before": "不，我不是说すず和芽衣不靠谱",
+    "after": "不，我不是说铃和芽衣不靠谱"
+  },
+  {
+    "file": "adv_card_ktn_06_01.csv",
+    "id": "3:title:1",
+    "source": "長瀬琴乃 1話 どんな想いも燃料に",
+    "before": "长濑琴乃 第1话 无论怎样的心意都能化作燃料",
+    "after": "长濑琴乃 第1话 无论何种心意都能化作燃料"
+  },
+  {
+    "file": "adv_card_ktn_06_02.csv",
+    "id": "39:text:1",
+    "source": "さっき、みんなといる時に……月ストを思いきり",
+    "before": "刚才，和大家在一起的时候……我看到了一个狠狠抨击",
+    "after": "刚才，和大家在一起时……我不小心看到了"
+  },
+  {
+    "file": "adv_card_ktn_06_02.csv",
+    "id": "40:text:1",
+    "source": "バッシングしてる動画を観ちゃったんです",
+    "before": "月スト的视频",
+    "after": "一个猛烈抨击月光风暴的视频。"
+  },
+  {
+    "file": "adv_card_ktn_10_03.csv",
+    "id": "143:text:1",
+    "source": "ならライブ当日は、月ストのみんながどれだけ凄いか",
+    "before": "那演唱会当天，就抱着向麻奈炫耀",
+    "after": "那演唱会当天，就把月光风暴的厉害之处"
+  },
+  {
+    "file": "adv_card_ktn_10_03.csv",
+    "id": "144:text:1",
+    "source": "麻奈に自慢するつもりで歌えばいいさ",
+    "before": "月スト的大家有多厉害的心情去唱就好了",
+    "after": "唱给麻奈听，好好向她炫耀吧。"
+  },
+  {
+    "file": "adv_card_ktn_52_01_short.csv",
+    "id": "4:title:1",
+    "source": "長瀬琴乃 1話 慰安旅行in山梨",
+    "before": "长濑琴乃 第1话 慰安旅行in山梨",
+    "after": "长濑琴乃 第1话 慰劳旅行in山梨"
+  },
+  {
+    "file": "adv_card_mei_03_01.csv",
+    "id": "3:title:1",
+    "source": "早坂芽衣 1話 楽しく踊ってる方がいい",
+    "before": "早坂芽衣 第1话 还是开心地跳舞更好",
+    "after": "早坂芽衣 第1话 开心地跳舞更好"
+  },
+  {
+    "file": "adv_card_mei_13_01.csv",
+    "id": "3:title:1",
+    "source": "早坂芽衣 1話 面白いよね、『本命チョコ』",
+    "before": "早坂芽衣 第1话 很有趣吧，『本命巧克力』",
+    "after": "早坂芽衣 第1话 很有意思吧，『本命巧克力』"
+  },
+  {
+    "file": "adv_card_mei_52_01.csv",
+    "id": "4:title:1",
+    "source": "早坂芽衣 1話 慰安旅行in沖縄",
+    "before": "早坂芽衣 第1话 慰安旅行in冲绳",
+    "after": "早坂芽衣 第1话 慰劳旅行in冲绳"
+  },
+  {
+    "file": "adv_card_mhk_05_01_short.csv",
+    "id": "3:title:1",
+    "source": "miho 1話 もうすぐクリスマス",
+    "before": "miho 第1话 即将到来的圣诞节",
+    "after": "miho 第1话 马上就要圣诞节了"
+  },
+  {
+    "file": "adv_card_mhk_09_01.csv",
+    "id": "4:title:1",
+    "source": "miho 1話 『Friend Glass』",
+    "before": "miho 第1话《Friend Glass》",
+    "after": "miho 第1话 『Friend Glass』"
+  },
+  {
+    "file": "adv_card_mhk_09_02.csv",
+    "id": "142:text:1",
+    "source": "こころ達が番組の収録でもらってきたらしいんですけど",
+    "before": "好像是こころ她们在节目收录时拿到的",
+    "after": "好像是心她们在节目录制时拿到的"
+  },
+  {
+    "file": "adv_card_mhk_09_02.csv",
+    "id": "145:text:1",
+    "source": "こころが？　……まぁいいでしょう、いただきます",
+    "before": "こころ？……算了，我开动了",
+    "after": "心？……算了，我开动了"
+  },
+  {
+    "file": "adv_card_mhk_52_01.csv",
+    "id": "5:title:1",
+    "source": "miho 1話 慰安旅行in山梨",
+    "before": "miho 第1话 慰安旅行in山梨",
+    "after": "miho 第1话 慰劳旅行in山梨"
+  },
+  {
+    "file": "adv_card_mhk_52_01_short.csv",
+    "id": "4:title:1",
+    "source": "miho 1話 慰安旅行in山梨",
+    "before": "miho 第1话 慰安旅行in山梨",
+    "after": "miho 第1话 慰劳旅行in山梨"
+  },
+  {
+    "file": "adv_card_mhk_53_01.csv",
+    "id": "3:title:1",
+    "source": "miho 1話 それはそれで撮れ高が",
+    "before": "miho 第1话 那倒也是挺有拍摄价值的",
+    "after": "miho 第1话 那倒也很有拍摄价值"
+  },
+  {
+    "file": "adv_card_mna_08_01_short.csv",
+    "id": "3:title:1",
+    "source": "長瀬麻奈 1話 ホテルに缶詰だよ！",
+    "before": "长濑麻奈 第1话 被关在酒店里了！",
+    "after": "长濑麻奈 第1话 被关在酒店里啦！"
+  },
+  {
+    "file": "adv_card_ngs_03_01_short.csv",
+    "id": "5:title:1",
+    "source": "伊吹渚 1話 渚のスケジュール",
+    "before": "伊吹渚 第1话 渚的日程表",
+    "after": "伊吹渚 第1话 渚的日程"
+  },
+  {
+    "file": "adv_card_ngs_12_01.csv",
+    "id": "3:title:1",
+    "source": "伊吹渚 1話 お給仕します！",
+    "before": "伊吹渚 第1话 我来服务您！",
+    "after": "伊吹渚 第1话 我来为您服务！"
+  },
+  {
+    "file": "adv_card_ngs_52_01.csv",
+    "id": "4:title:1",
+    "source": "伊吹渚 1話 慰安旅行in沖縄",
+    "before": "伊吹渚 第1话 慰安旅行in冲绳",
+    "after": "伊吹渚 第1话 慰劳旅行in冲绳"
+  },
+  {
+    "file": "adv_card_ngs_54_01.csv",
+    "id": "160:text:1",
+    "source": "こころだよ",
+    "before": "是こころ哦",
+    "after": "是心哦"
+  },
+  {
+    "file": "adv_card_ngs_54_01.csv",
+    "id": "195:text:1",
+    "source": "それもこころだよ。何？　あんた、喋れば喋るほど",
+    "before": "那也是こころ哦。干嘛？你这家伙，越说越",
+    "after": "那也是心哦。干嘛？你这家伙，越说越"
+  },
+  {
+    "file": "adv_card_ngs_54_01.csv",
+    "id": "196:text:1",
+    "source": "こころを上げてkanaを下げてんだけど、わざと？",
+    "before": "抬高こころ贬低kana，你是故意的？",
+    "after": "抬高心贬低kana，你是故意的？"
+  },
+  {
+    "file": "adv_card_rei_16_01.csv",
+    "id": "3:title:1",
+    "source": "一ノ瀬怜 1話 アングラな名前ですね",
+    "before": "一之濑怜 第1话 真是地下风的名字呢",
+    "after": "一之濑怜 第1话 真是地下风格的名字呢"
+  },
+  {
+    "file": "adv_card_rio_05_01.csv",
+    "id": "3:title:1",
+    "source": "神崎莉央 1話 思い出を巡れば",
+    "before": "神崎莉央 第1话 追忆往事",
+    "after": "神崎莉央 第1话 追忆往昔"
+  },
+  {
+    "file": "adv_card_rio_11_01.csv",
+    "id": "216:text:1",
+    "source": "『情熱だけで生きてみろ』はまだ……",
+    "before": "『情熱だけで生きてみろ』还……",
+    "after": "『仅凭热情活下去』还……"
+  },
+  {
+    "file": "adv_card_rio_52_01.csv",
+    "id": "4:title:1",
+    "source": "神崎莉央 1話 慰安旅行in沖縄",
+    "before": "神崎莉央 第1话 慰安旅行in冲绳",
+    "after": "神崎莉央 第1话 慰劳旅行in冲绳"
+  },
+  {
+    "file": "adv_card_rui_03_01.csv",
+    "id": "3:title:1",
+    "source": "天動瑠依 1話 内緒で相談",
+    "before": "天动瑠依 第1话 私下商量",
+    "after": "天动瑠依 第1话 秘密商量"
+  },
+  {
+    "file": "adv_card_rui_06_01.csv",
+    "id": "3:title:1",
+    "source": "天動瑠依 1話 掴めない感覚",
+    "before": "天动瑠依 第1话 抓不住的感觉",
+    "after": "天动瑠依 第1话 无法捉摸的感觉"
+  },
+  {
+    "file": "adv_card_rui_06_01_short.csv",
+    "id": "3:title:1",
+    "source": "天動瑠依 1話 掴めない感覚",
+    "before": "天动瑠依 第1话 无法抓住的感觉",
+    "after": "天动瑠依 第1话 无法捉摸的感觉"
+  },
+  {
+    "file": "adv_card_rui_12_01_short.csv",
+    "id": "3:title:1",
+    "source": "天動瑠依 1話 わわわ私なんてことを",
+    "before": "天动瑠依 第1话 哇哇哇我做了什么",
+    "after": "天动瑠依 第1话 哇哇哇我都干了什么"
+  },
+  {
+    "file": "adv_card_rui_52_01_short.csv",
+    "id": "3:title:1",
+    "source": "天動瑠依 1話 慰安旅行in京都",
+    "before": "天动瑠依 第1话 慰安旅行in京都",
+    "after": "天动瑠依 第1话 慰劳旅行in京都"
+  },
+  {
+    "file": "adv_card_rui_53_01.csv",
+    "id": "3:title:1",
+    "source": "天動瑠依 1話 黒魔術でもやってんの",
+    "before": "天动瑠依 第1话 你是在搞黑魔术吗",
+    "after": "天动瑠依 第1话 你在搞黑魔术吗"
+  },
+  {
+    "file": "adv_card_ski_07_01.csv",
+    "id": "4:title:1",
+    "source": "白石沙季 1話 目指せスリクス",
+    "before": "白石沙季 第1话 目标，三连休",
+    "after": "白石沙季 第1话 目标IIIX"
+  },
+  {
+    "file": "adv_card_ski_12_01.csv",
+    "id": "3:title:1",
+    "source": "白石沙季 1話 ミクさんと共演っ！？",
+    "before": "白石沙季 第1话 和未来小姐共演！？",
+    "after": "白石沙季 第1话 和初音未来小姐共演！？"
+  },
+  {
+    "file": "adv_card_ski_12_01_short.csv",
+    "id": "3:title:1",
+    "source": "白石沙季 1話 ミクさんと共演っ！？",
+    "before": "白石沙季 第1话 与未来共演！？",
+    "after": "白石沙季 第1话 和初音未来小姐共演！？"
+  },
+  {
+    "file": "adv_card_ski_53_01.csv",
+    "id": "3:title:1",
+    "source": "白石沙季 1話 可愛いお洋服とか良さそうね",
+    "before": "白石沙季 第1话 可爱的衣服之类的也不错呢",
+    "after": "白石沙季 第1话 可爱的衣服之类的好像也不错呢"
+  },
+  {
+    "file": "adv_card_skr_01_01_short.csv",
+    "id": "5:title:1",
+    "source": "川咲さくら 1話 デビューと同じ場所",
+    "before": "川咲樱 第1话 与出道相同的地方",
+    "after": "川咲樱 第1话 与出道时相同的地方"
+  },
+  {
+    "file": "adv_card_skr_03_01_short.csv",
+    "id": "3:title:1",
+    "source": "川咲さくら 1話 羽根つき対決",
+    "before": "川咲樱 第1话 羽毛毽对决",
+    "after": "川咲樱 第1话 板羽球对决"
+  },
+  {
+    "file": "adv_card_skr_11_01.csv",
+    "id": "3:title:1",
+    "source": "川咲さくら 1話 想いよ届け～！",
+    "before": "川咲樱 第1话 传递心意～！",
+    "after": "川咲樱 第1话 把心意传达给你～！"
+  },
+  {
+    "file": "adv_card_skr_15_01_short.csv",
+    "id": "3:title:1",
+    "source": "川咲さくら 1話 北海道を堪能しちゃうぞ",
+    "before": "川咲樱 第1话 尽情享受北海道",
+    "after": "川咲樱 第1话 尽情享受北海道吧"
+  },
+  {
+    "file": "adv_card_smr_02_01_short.csv",
+    "id": "4:title:1",
+    "source": "奥山すみれ 1話 ドキドキさせてみせます",
+    "before": "奥山堇 第1话 我会让你心动不已",
+    "after": "奥山堇 第1话 我会让你心动"
+  },
+  {
+    "file": "adv_card_smr_05_01.csv",
+    "id": "3:title:1",
+    "source": "奥山すみれ 1話 全部忘れてきちゃいました！？",
+    "before": "奥山堇 第1话 我全忘光了！？",
+    "after": "奥山堇 第1话 我全都忘光了！？"
+  },
+  {
+    "file": "adv_card_smr_12_01_short.csv",
+    "id": "3:title:1",
+    "source": "奥山すみれ 1話 最高の作品にしてみせます",
+    "before": "奥山堇 第1话 我会让它成为最棒的作品",
+    "after": "奥山堇 第1话 我会把它做成最棒的作品"
+  },
+  {
+    "file": "adv_card_smr_13_01.csv",
+    "id": "3:title:1",
+    "source": "奥山すみれ 1話 本当は遊びたいですよね",
+    "before": "奥山堇 第1话 其实还想多玩一会儿吧",
+    "after": "奥山堇 第1话 其实是想去玩吧"
+  },
+  {
+    "file": "adv_card_smr_15_01.csv",
+    "id": "3:title:1",
+    "source": "奥山すみれ 1話 私が署長なんですから",
+    "before": "奥山堇 第1话 我可是署长",
+    "after": "奥山堇 第1话 我可是署长啊"
+  },
+  {
+    "file": "adv_card_smr_51_01.csv",
+    "id": "3:title:1",
+    "source": "奥山すみれ 1話 サプライズ過ぎるっちゃ～！",
+    "before": "奥山堇 第1话 太惊喜了吧～！",
+    "after": "奥山堇 第1话 太惊喜了啦～！"
+  },
+  {
+    "file": "adv_card_suz_07_01_short.csv",
+    "id": "3:title:1",
+    "source": "成宮すず 1話 部活動って素敵ですわ",
+    "before": "成宫铃 第1话 社团活动真美好",
+    "after": "成宫铃 第1话 社团活动真美好呢"
+  },
+  {
+    "file": "adv_card_suz_52_01.csv",
+    "id": "4:title:1",
+    "source": "成宮すず 1話 慰安旅行in京都",
+    "before": "成宫铃 第1话 慰安旅行in京都",
+    "after": "成宫铃 第1话 慰劳旅行in京都"
+  },
+  {
+    "file": "adv_card_suz_52_01_short.csv",
+    "id": "4:title:1",
+    "source": "成宮すず 1話 慰安旅行in京都",
+    "before": "成宫铃 第1话 慰安旅行in京都",
+    "after": "成宫铃 第1话 慰劳旅行in京都"
+  },
+  {
+    "file": "adv_card_suz_53_01_short.csv",
+    "id": "3:title:1",
+    "source": "成宮すず 1話 めちゃくちゃですわー",
+    "before": "成宫铃 第1话 真是乱七八糟呢～",
+    "after": "成宫铃 第1话 真是乱七八糟呀～"
+  },
+  {
+    "file": "adv_card_szk_04_01_short.csv",
+    "id": "4:title:1",
+    "source": "兵藤雫 1話 かっこ良くなりたい…！",
+    "before": "兵藤雫 第1话 想变得帅气…！",
+    "after": "兵藤雫 第1话 想变得帅气……！"
+  },
+  {
+    "file": "adv_card_szk_09_01.csv",
+    "id": "4:title:1",
+    "source": "兵藤雫 1話 お友達になったから",
+    "before": "兵藤雫 第1话 因为成为了朋友",
+    "after": "兵藤雫 第1话 因为我们成了朋友"
+  },
+  {
+    "file": "adv_card_szk_10_01.csv",
+    "id": "100:text:1",
+    "source": "あの『ぷりてぃー★エンジェル』の舞台に立った憧れの",
+    "before": "竟然能请到曾站在那部『ぷりてぃー★エンジェル』舞台上的憧憬的",
+    "after": "竟然能请到曾站在那部『Pretty★Angel』舞台上的憧憬的"
+  },
+  {
+    "file": "adv_card_szk_10_01_short.csv",
+    "id": "4:title:1",
+    "source": "兵藤雫 1話 主役のアリスだよ",
+    "before": "兵藤雫 第1话 主角爱丽丝哦",
+    "after": "兵藤雫 第1话 主角是爱丽丝哦"
+  },
+  {
+    "file": "adv_card_szk_52_01.csv",
+    "id": "4:title:1",
+    "source": "兵藤雫 1話 慰安旅行in京都",
+    "before": "兵藤雫 第1话 慰安旅行in京都",
+    "after": "兵藤雫 第1话 慰劳旅行in京都"
+  },
+  {
+    "file": "adv_card_szk_52_01_short.csv",
+    "id": "4:title:1",
+    "source": "兵藤雫 1話 慰安旅行in京都",
+    "before": "兵藤雫 第1话 慰安旅行in京都",
+    "after": "兵藤雫 第1话 慰劳旅行in京都"
+  },
+  {
+    "file": "adv_card_szk_53_01.csv",
+    "id": "3:title:1",
+    "source": "兵藤雫 1話 これは家宝にしなきゃ",
+    "before": "兵藤雫 第1话 这个得当成传家宝",
+    "after": "兵藤雫 第1话 这得当成传家宝才行"
+  },
+  {
+    "file": "adv_card_yu_10_01.csv",
+    "id": "3:title:1",
+    "source": "鈴村優 1話 優が大変お世話になってます",
+    "before": "铃村优 第1话 优承蒙您多方照顾了",
+    "after": "铃村优 第1话 优承蒙您多方照顾"
+  },
+  {
+    "file": "adv_card_yu_12_01_short.csv",
+    "id": "3:title:1",
+    "source": "鈴村優 1話 ぴったり過ぎて恐ろしい",
+    "before": "铃村优 第1话 合适得令人害怕",
+    "after": "铃村优 第1话 太过契合反而可怕"
+  },
+  {
+    "file": "adv_event_2110_01_04.csv",
+    "id": "288:text:1",
+    "source": "（そして……麻奈の死に、どれだけ打ちのめされたか）",
+    "before": "（そして……麻奈的死，让我受到了多大的打击）",
+    "after": "（以及……麻奈的死，给了我多大的打击）"
+  },
+  {
+    "file": "adv_event_2110_01_04.csv",
+    "id": "322:text:1",
+    "source": "そして、NEXT VENUSグランプリ優勝に導いてくれた",
+    "before": "そして、引导我们获得了NEXT VENUS大奖赛的冠军",
+    "after": "又引领我们拿下了NEXT VENUS大奖赛的冠军"
+  },
+  {
+    "file": "adv_event_2403_01_01.csv",
+    "id": "402:text:1",
+    "source": "決まりね。ツアータイトルは『繋ぐ』でいきましょう",
+    "before": "那就定了。巡演标题就用『繋ぐ』吧",
+    "after": "那就定了。巡演标题就用『连结』吧"
+  },
+  {
+    "file": "adv_event_2403_01_01.csv",
+    "id": "543:text:1",
+    "source": "でも、それだとツアータイトルの『繋ぐ』と",
+    "before": "但是那样的话，和巡演标题的『繋ぐ』",
+    "after": "但是那样的话，和巡演标题的『连结』"
+  },
+  {
+    "file": "adv_event_2403_01_01.csv",
+    "id": "561:text:1",
+    "source": "『繋ぐ』に関係ある企画ってなんだろう？",
+    "before": "和『繋ぐ』有关的企划会是什么呢？",
+    "after": "和『连结』有关的企划会是什么呢？"
+  },
+  {
+    "file": "adv_event_2405_01_02.csv",
+    "id": "589:text:1",
+    "source": "ただ、僕らが施設のイメージに合わせるだけじゃ",
+    "before": "不过，如果只是我们去迎合设施的イメージ",
+    "after": "不过，如果只是我们去迎合设施的形象"
+  },
+  {
+    "file": "adv_event_2405_01_02.csv",
+    "id": "614:text:1",
+    "source": "先方とも再度、CMのイメージをすり合わせるわ",
+    "before": "我也会和对方再次核对广告的イメージ",
+    "after": "我也会和对方再次商量广告的整体构想"
+  },
+  {
+    "file": "adv_event_2410_01_01.csv",
+    "id": "523:text:1",
+    "source": "ちなみに私は『月ノヒカリ』が",
+    "before": "顺便说我喜欢的是《月ノヒカリ》",
+    "after": "顺便说我喜欢的是《月之光》"
+  },
+  {
+    "file": "adv_event_2412_01_05_02.csv",
+    "id": "3:title:1",
+    "source": "心跳ねるクリスマスパーティー 5話 君がそばにいるのなら",
+    "before": "心动圣诞派对 第5话 只要你在我身边",
+    "after": "心跳圣诞派对 第5话 只要你在我身边"
+  },
+  {
+    "file": "adv_event_2502_01_05_01.csv",
+    "id": "3:title:1",
+    "source": "感謝を伝えるLovely Valentine's Day 5話 あなたにハッピーバレンタイン",
+    "before": "传递感谢的Lovely Valentine's Day 第5话 给你一个Happy Valentine",
+    "after": "传达感谢的Lovely Valentine's Day 第5话 给你一个Happy Valentine"
+  },
+  {
+    "file": "adv_event_2504_02_06.csv",
+    "id": "653:text:1",
+    "source": "バルゴさん……バルゴさぁぁぁん！！",
+    "before": "巴尔戈先生……巴尔戈先ぁぁぁん！！",
+    "after": "巴尔戈先生……巴尔戈先生——！！"
+  },
+  {
+    "file": "adv_event_2511_01_04.csv",
+    "id": "75:text:1",
+    "source": "イメージすら定まらないのに曲を作る訳には……",
+    "before": "连イメージ都还没定下来，怎么能开始作曲……",
+    "after": "连该怎么跳都还没想好，怎么能开始作曲……"
+  },
+  {
+    "file": "adv_event_2601_01_05_02.csv",
+    "id": "3:title:1",
+    "source": "新春万福　素顔の晒し合いGAME 5話 全世界に生配信！",
+    "before": "新春万福　素颜大暴露GAME 第5话 向全世界直播！",
+    "after": "新春万福 素颜大公开GAME 第5话 向全世界直播！"
+  },
+  {
+    "file": "adv_event_2603_01_05_02.csv",
+    "id": "3:title:1",
+    "source": "あなたに捧ぐWith your songs 5話 大切な人への曲",
+    "before": "献给你的With your songs 第5话 献给重要之人的歌",
+    "after": "献给你的With your songs 第5话 献给重要之人的歌曲"
+  },
+  {
+    "file": "adv_group_liz_03_05.csv",
+    "id": "3:title:1",
+    "source": "LizNoir 1章15話 たまには息抜き",
+    "before": "LizNoir 第1章第15话 偶尔也需要放松",
+    "after": "LizNoir 第1章第15话 偶尔也放松一下"
+  },
+  {
+    "file": "adv_group_thrx_02_04.csv",
+    "id": "266:text:1",
+    "source": "プレタポルテはフォローしてくれなかったの……？",
+    "before": "高级时装品牌没有支持你吗……？",
+    "after": "Prêt-à-Porter没有帮你吗……？"
+  },
+  {
+    "file": "adv_group_thrx_04_04.csv",
+    "id": "690:text:1",
+    "source": "……プレタポルテはもうダメだろうけど",
+    "before": "……虽然成衣品牌已经不行了",
+    "after": "……虽然Prêt-à-Porter大概已经不行了"
+  },
+  {
+    "file": "adv_group_thrx_04_05.csv",
+    "id": "285:text:1",
+    "source": "プレタポルテみたいな好条件ではないでしょうけどね",
+    "before": "虽然不是像高级定制时装那样好的条件呢",
+    "after": "条件恐怕比不上在Prêt-à-Porter的时候就是了"
+  },
+  {
+    "file": "adv_group_tri_06_05.csv",
+    "id": "382:text:1",
+    "source": "……ええ。きっとプレタポルテにとって",
+    "before": "……嗯。她们一定会成为",
+    "after": "……嗯。对Prêt-à-Porter来说，她们"
+  },
+  {
+    "file": "adv_group_tri_06_05.csv",
+    "id": "383:text:1",
+    "source": "優秀な手駒になるでしょう",
+    "before": "PRET-A-PORTER优秀的棋子吧",
+    "after": "一定会是优秀的棋子吧。"
+  },
+  {
+    "file": "adv_main_02_06_02.csv",
+    "id": "13:text:1",
+    "source": "――芸能事務所プレタポルテ・会議室",
+    "before": "――艺能事务所Prettaporte・会议室",
+    "after": "——艺能事务所Prêt-à-Porter，会议室"
+  },
+  {
+    "file": "adv_main_02_06_05.csv",
+    "id": "113:text:1",
+    "source": "プレタポルテはみなさんも知っての通り",
+    "before": "PRET-A-PORTER正如大家所知",
+    "after": "众所周知，Prêt-à-Porter"
+  },
+  {
+    "file": "adv_main_02_07_01.csv",
+    "id": "44:text:1",
+    "source": "プレタポルテへ移籍したみたい……",
+    "before": "转会去了Pret-a-Porter一样……",
+    "after": "好像转去了Prêt-à-Porter……"
+  },
+  {
+    "file": "adv_main_02_10_01.csv",
+    "id": "297:text:1",
+    "source": "だけどTRINITYAiLEは、プレタポルテの",
+    "before": "但是TRINITYAiLE要背负起PRET-A-PORTER",
+    "after": "但TRINITYAiLE要成为Prêt-à-Porter在"
+  },
+  {
+    "file": "adv_main_02_10_01.csv",
+    "id": "298:text:1",
+    "source": "このアイドル業界の看板を背負うにはまだ早過ぎる",
+    "before": "在这个偶像行业的招牌，还太早了",
+    "after": "偶像业界的招牌，现在还为时过早。"
+  },
+  {
+    "file": "adv_main_02_10_05.csv",
+    "id": "197:text:1",
+    "source": "……天動さん達が姫野さんに",
+    "before": "……是因为天动她们",
+    "after": "……因为天动她们违抗了姬野小姐，"
+  },
+  {
+    "file": "adv_main_02_10_05.csv",
+    "id": "198:text:1",
+    "source": "プレタポルテに逆らったからだ",
+    "before": "违抗了姬野的PRET-A-PORTER",
+    "after": "也违抗了Prêt-à-Porter。"
+  },
+  {
+    "file": "adv_main_02_10_05.csv",
+    "id": "317:text:1",
+    "source": "瑠依さん達は星見プロを守るために、プレタポルテに",
+    "before": "瑠依她们为了保护星见制作，才转会到",
+    "after": "瑠依她们为了保护星见Production，才转会到Prêt-à-Porter"
+  },
+  {
+    "file": "adv_main_02_10_05.csv",
+    "id": "320:text:1",
+    "source": "移籍して……本当は星見プロにいたかったのに……",
+    "before": "普雷塔波尔特……明明其实想留在星见制作的……",
+    "after": "……明明她们真正想留在星见Production……"
+  },
+  {
+    "file": "adv_main_02_14_03.csv",
+    "id": "98:text:1",
+    "source": "それにしても、姫野さんは本当に、もう……！",
+    "before": "话说回来，姬野真的是，もう……！",
+    "after": "话说回来，姬野真是的……！"
+  },
+  {
+    "file": "adv_main_03_11_01.csv",
+    "id": "639:text:1",
+    "source": "次はこの曲！　『最愛よ君に届け』！",
+    "before": "下一首是这首歌！『最愛よ君に届け』！",
+    "after": "下一首是这首歌！『愿挚爱传达给你』！"
+  },
+  {
+    "file": "adv_main_03_13_03_01.csv",
+    "id": "3:title:1",
+    "source": "BIG4編1章63話 お願い",
+    "before": "BIG4篇1章63话 请求",
+    "after": "BIG4篇第1章第63话 拜托了"
+  },
+  {
+    "file": "adv_main_04_04_03.csv",
+    "id": "296:text:1",
+    "source": "自分のこと棚に上げて、こころの前でもそれ言ってみ",
+    "before": "你自己都这样还好意思说，有本事在こころ面前也这么说",
+    "after": "你自己都这样还好意思说，有本事在心面前也这么说"
+  },
+  {
+    "file": "adv_main_04_04_03.csv",
+    "id": "358:text:1",
+    "source": "私が作ったのは、さくらちゃんモチーフのトンカツと",
+    "before": "我做的是以さくらちゃん为原型的炸猪排和",
+    "after": "我做的是以樱酱为原型的炸猪排和"
+  },
+  {
+    "file": "adv_main_04_04_03.csv",
+    "id": "359:text:1",
+    "source": "愛ちゃんモチーフのラーメンよ",
+    "before": "以愛ちゃん为原型的拉面",
+    "after": "以爱酱为原型的拉面"
+  },
+  {
+    "file": "adv_main_04_10_01.csv",
+    "id": "139:text:1",
+    "source": "そして、さくらの太陽のような笑顔とカリスマ……",
+    "before": "还有，さくら那如太阳般的笑容与领袖魅力……",
+    "after": "还有，樱那如太阳般的笑容与领袖魅力……"
+  },
+  {
+    "file": "adv_main_04_10_01.csv",
+    "id": "37:text:1",
+    "source": "観に来た観客で埋め尽くされるのね……",
+    "before": "来看リズノワ和サニピ对决的观众挤满……",
+    "after": "来看LizNoir和SUNNY PEACE对决的观众挤满……"
+  },
+  {
+    "file": "adv_main_04_10_03.csv",
+    "id": "227:text:1",
+    "source": "『情熱だけで生きてみろ』を一曲目に変更するわよ",
+    "before": "《情热だけで生きてみろ》改成第一首歌",
+    "after": "《仅凭热情活下去》改成第一首歌"
+  }
+]

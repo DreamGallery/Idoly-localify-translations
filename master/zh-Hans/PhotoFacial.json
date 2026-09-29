@@ -1,0 +1,17 @@
+{
+  "photo-facial-angry": {
+    "name": "生气"
+  },
+  "photo-facial-sad": {
+    "name": "难过地"
+  },
+  "photo-facial-smile": {
+    "name": "微笑"
+  },
+  "photo-facial-surprising": {
+    "name": "惊讶"
+  },
+  "photo-facial-wink": {
+    "name": "眨眼"
+  }
+}

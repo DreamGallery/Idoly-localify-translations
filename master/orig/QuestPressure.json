@@ -1,0 +1,20 @@
+{
+  "quest_pressure-0": {
+    "name": "小"
+  },
+  "quest_pressure-1": {
+    "name": "小"
+  },
+  "quest_pressure-2": {
+    "name": "普通"
+  },
+  "quest_pressure-3": {
+    "name": "中"
+  },
+  "quest_pressure-4": {
+    "name": "大"
+  },
+  "quest_pressure-5": {
+    "name": "特大"
+  }
+}

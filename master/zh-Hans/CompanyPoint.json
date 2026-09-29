@@ -1,0 +1,90 @@
+{
+  "company_grade_point-enjoy-ai": {
+    "description": "可以提升爱的交流等级",
+    "name": "爱的交流Pt"
+  },
+  "company_grade_point-enjoy-aoi": {
+    "description": "可以提升葵的交流等级",
+    "name": "葵的交流Pt"
+  },
+  "company_grade_point-enjoy-chs": {
+    "description": "可以提升千纱的交流等级",
+    "name": "千纱的交流Pt"
+  },
+  "company_grade_point-enjoy-hrk": {
+    "description": "可以提升遥子的交流等级",
+    "name": "遥子的交流Pt"
+  },
+  "company_grade_point-enjoy-kan": {
+    "description": "可以提升kana的交流等级",
+    "name": "kana的交流Pt"
+  },
+  "company_grade_point-enjoy-kkr": {
+    "description": "可以提升心心的交流等级",
+    "name": "心心的交流Pt"
+  },
+  "company_grade_point-enjoy-kor": {
+    "description": "可以提升fran的交流等级",
+    "name": "fran的交流Pt"
+  },
+  "company_grade_point-enjoy-ktn": {
+    "description": "可以提升琴乃的交流等级",
+    "name": "琴乃的交流Pt"
+  },
+  "company_grade_point-enjoy-mei": {
+    "description": "可以提升芽衣的交流等级",
+    "name": "芽衣的交流Pt"
+  },
+  "company_grade_point-enjoy-mhk": {
+    "description": "可以提升miho的交流等级",
+    "name": "miho的交流Pt"
+  },
+  "company_grade_point-enjoy-ngs": {
+    "description": "可以提升渚的交流等级",
+    "name": "渚的交流Pt"
+  },
+  "company_grade_point-enjoy-rei": {
+    "description": "可以提升怜的交流等级",
+    "name": "怜的交流Pt"
+  },
+  "company_grade_point-enjoy-rio": {
+    "description": "可以提升莉央的交流等级",
+    "name": "莉央的交流Pt"
+  },
+  "company_grade_point-enjoy-rui": {
+    "description": "可以提升瑠依的交流等级",
+    "name": "瑠依的交流Pt"
+  },
+  "company_grade_point-enjoy-ski": {
+    "description": "可以提升沙季的交流等级",
+    "name": "沙季的交流Pt"
+  },
+  "company_grade_point-enjoy-skr": {
+    "description": "可以提升樱的交流等级",
+    "name": "樱的交流Pt"
+  },
+  "company_grade_point-enjoy-smr": {
+    "description": "可以提升堇的交流等级",
+    "name": "堇的交流Pt"
+  },
+  "company_grade_point-enjoy-suz": {
+    "description": "可以提升铃的交流等级",
+    "name": "铃的交流Pt"
+  },
+  "company_grade_point-enjoy-szk": {
+    "description": "可以提升雫的交流等级",
+    "name": "雫的交流Pt"
+  },
+  "company_grade_point-enjoy-yu": {
+    "description": "可以提升优的交流等级",
+    "name": "优的交流Pt"
+  },
+  "company_grade_point-salaly": {
+    "description": "可以提升出勤等级",
+    "name": "出勤Pt"
+  },
+  "company_grade_point-trust": {
+    "description": "可以提升实绩等级",
+    "name": "实绩Pt"
+  }
+}

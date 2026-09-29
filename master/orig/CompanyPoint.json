@@ -1,0 +1,90 @@
+{
+  "company_grade_point-enjoy-ai": {
+    "description": "愛の交流レベルを上げることができます",
+    "name": "愛の交流Pt"
+  },
+  "company_grade_point-enjoy-aoi": {
+    "description": "葵の交流レベルを上げることができます",
+    "name": "葵の交流Pt"
+  },
+  "company_grade_point-enjoy-chs": {
+    "description": "千紗の交流レベルを上げることができます",
+    "name": "千紗の交流Pt"
+  },
+  "company_grade_point-enjoy-hrk": {
+    "description": "遙子の交流レベルを上げることができます",
+    "name": "遙子の交流Pt"
+  },
+  "company_grade_point-enjoy-kan": {
+    "description": "kanaの交流レベルを上げることができます",
+    "name": "kanaの交流Pt"
+  },
+  "company_grade_point-enjoy-kkr": {
+    "description": "こころの交流レベルを上げることができます",
+    "name": "こころの交流Pt"
+  },
+  "company_grade_point-enjoy-kor": {
+    "description": "franの交流レベルを上げることができます",
+    "name": "franの交流Pt"
+  },
+  "company_grade_point-enjoy-ktn": {
+    "description": "琴乃の交流レベルを上げることができます",
+    "name": "琴乃の交流Pt"
+  },
+  "company_grade_point-enjoy-mei": {
+    "description": "芽衣の交流レベルを上げることができます",
+    "name": "芽衣の交流Pt"
+  },
+  "company_grade_point-enjoy-mhk": {
+    "description": "mihoの交流レベルを上げることができます",
+    "name": "mihoの交流Pt"
+  },
+  "company_grade_point-enjoy-ngs": {
+    "description": "渚の交流レベルを上げることができます",
+    "name": "渚の交流Pt"
+  },
+  "company_grade_point-enjoy-rei": {
+    "description": "怜の交流レベルを上げることができます",
+    "name": "怜の交流Pt"
+  },
+  "company_grade_point-enjoy-rio": {
+    "description": "莉央の交流レベルを上げることができます",
+    "name": "莉央の交流Pt"
+  },
+  "company_grade_point-enjoy-rui": {
+    "description": "瑠依の交流レベルを上げることができます",
+    "name": "瑠依の交流Pt"
+  },
+  "company_grade_point-enjoy-ski": {
+    "description": "沙季の交流レベルを上げることができます",
+    "name": "沙季の交流Pt"
+  },
+  "company_grade_point-enjoy-skr": {
+    "description": "さくらの交流レベルを上げることができます",
+    "name": "さくらの交流Pt"
+  },
+  "company_grade_point-enjoy-smr": {
+    "description": "すみれの交流レベルを上げることができます",
+    "name": "すみれの交流Pt"
+  },
+  "company_grade_point-enjoy-suz": {
+    "description": "すずの交流レベルを上げることができます",
+    "name": "すずの交流Pt"
+  },
+  "company_grade_point-enjoy-szk": {
+    "description": "雫の交流レベルを上げることができます",
+    "name": "雫の交流Pt"
+  },
+  "company_grade_point-enjoy-yu": {
+    "description": "優の交流レベルを上げることができます",
+    "name": "優の交流Pt"
+  },
+  "company_grade_point-salaly": {
+    "description": "勤怠レベルを上げることができます",
+    "name": "勤怠Pt"
+  },
+  "company_grade_point-trust": {
+    "description": "実績レベルを上げることができます",
+    "name": "実績Pt"
+  }
+}

@@ -1,0 +1,637 @@
+{
+  "info-news-login-25-0827-01": {
+    "description": "7天的特别登录奖励",
+    "name": "初音未来联动\n纪念特别"
+  },
+  "info-news-login-25-1127-01": {
+    "description": "5天的特别登录奖励",
+    "name": "To LOVEる\n联动特别"
+  },
+  "info-news-login-26-0410-01": {
+    "description": "7天的特别登录奖励",
+    "name": "春季"
+  },
+  "info-news-login-26-0428-01": {
+    "description": "7天的特别登录奖励",
+    "name": "三丽鸥角色\n联动特别"
+  },
+  "info-news-login-26-0509-01": {
+    "description": "7天的特别登录奖励",
+    "name": "联动举办纪念"
+  },
+  "info-news-login-26-0528-01": {
+    "description": "7天的特别登录奖励",
+    "name": "即将迎来\n5周年纪念"
+  },
+  "info-news-login-26-0710-01": {
+    "description": "7天的特别登录奖励",
+    "name": "夏季"
+  },
+  "login_bonus-campaign-21-0624-01": {
+    "description": "3天的特别登录奖励",
+    "name": "开局冲刺 第一弹"
+  },
+  "login_bonus-campaign-21-0624-02": {
+    "description": "7天的特别登录奖励",
+    "name": "开局冲刺 第二弹"
+  },
+  "login_bonus-campaign-21-0706-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援\n登录奖励"
+  },
+  "login_bonus-campaign-21-0727-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援\n登录奖励"
+  },
+  "login_bonus-campaign-21-0813-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援\n登录奖励"
+  },
+  "login_bonus-campaign-21-0906-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援\n登录奖励"
+  },
+  "login_bonus-campaign-21-0928-01": {
+    "description": "7天的特别登录奖励",
+    "name": "麻奈登场纪念"
+  },
+  "login_bonus-campaign-21-1015-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援"
+  },
+  "login_bonus-campaign-21-1106-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援"
+  },
+  "login_bonus-campaign-21-1124-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援"
+  },
+  "login_bonus-campaign-21-1206-01": {
+    "description": "7天的特别登录奖励",
+    "name": "圣诞节"
+  },
+  "login_bonus-campaign-21-1219-01": {
+    "description": "7天的特别登录奖励",
+    "name": "圣诞节 第二弹"
+  },
+  "login_bonus-campaign-21-1228-01": {
+    "description": "7天的特别登录奖励",
+    "name": "半周年\n纪念"
+  },
+  "login_bonus-campaign-22-0104-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援"
+  },
+  "login_bonus-campaign-22-0124-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援"
+  },
+  "login_bonus-campaign-22-0207-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援"
+  },
+  "login_bonus-campaign-22-0212-01": {
+    "description": "7天的特别登录奖励",
+    "name": "情人节"
+  },
+  "login_bonus-campaign-22-0221-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援"
+  },
+  "login_bonus-campaign-22-0316-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援"
+  },
+  "login_bonus-campaign-22-0328-01": {
+    "description": "5天的特别登录奖励",
+    "name": "回归\n登录"
+  },
+  "login_bonus-campaign-22-0329-01": {
+    "description": "7天的特别登录奖励",
+    "name": "感恩祭"
+  },
+  "login_bonus-campaign-22-0406-01": {
+    "description": "7天的特别登录奖励",
+    "name": "感恩祭\n第2弹"
+  },
+  "login_bonus-campaign-22-0429-01": {
+    "description": "7天的特别登录奖励",
+    "name": "GW特别\n登录奖励"
+  },
+  "login_bonus-campaign-22-0528-01": {
+    "description": "7天的特别登录奖励",
+    "name": "即将\n1周年纪念"
+  },
+  "login_bonus-campaign-22-0615-01": {
+    "description": "7天的特别登录奖励",
+    "name": "即将\n1周年纪念第2弹"
+  },
+  "login_bonus-campaign-22-0621-01": {
+    "description": "3天的特别登录奖励",
+    "name": "1周年倒计时"
+  },
+  "login_bonus-campaign-22-0625-01": {
+    "description": "7天的特别登录奖励",
+    "name": "1周年纪念"
+  },
+  "login_bonus-campaign-22-0804-01": {
+    "description": "7天的特别登录奖励",
+    "name": "夏日登录"
+  },
+  "login_bonus-campaign-22-0821-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援"
+  },
+  "login_bonus-campaign-22-0829-01": {
+    "description": "3天的特别登录奖励",
+    "name": "初音未来联动\n倒计时"
+  },
+  "login_bonus-campaign-22-0901-01": {
+    "description": "为期10天的特别登录奖励",
+    "name": "初音未来联动"
+  },
+  "login_bonus-campaign-22-0923-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援"
+  },
+  "login_bonus-campaign-22-0928-01": {
+    "description": "7天的特别登录奖励",
+    "name": "庆典举办纪念"
+  },
+  "login_bonus-campaign-22-1021-01": {
+    "description": "7天的特别登录奖励",
+    "name": "MV公开纪念"
+  },
+  "login_bonus-campaign-22-1107-01": {
+    "description": "7天的特别登录奖励",
+    "name": "上线\n500天纪念"
+  },
+  "login_bonus-campaign-22-1121-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援"
+  },
+  "login_bonus-campaign-22-1129-01": {
+    "description": "7天的特别登录奖励",
+    "name": "圣诞节"
+  },
+  "login_bonus-campaign-22-1214-01": {
+    "description": "7天的特别登录奖励",
+    "name": "圣诞节 第2弹"
+  },
+  "login_bonus-campaign-22-1225-01": {
+    "description": "7天的特别登录奖励",
+    "name": "1.5周年纪念"
+  },
+  "login_bonus-campaign-23-0104-01": {
+    "description": "7天的特别登录奖励",
+    "name": "新春"
+  },
+  "login_bonus-campaign-23-0123-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援"
+  },
+  "login_bonus-campaign-23-0131-01": {
+    "description": "5天的特别登录奖励",
+    "name": "情人节特别"
+  },
+  "login_bonus-campaign-23-0214-01": {
+    "description": "7天的特别登录奖励",
+    "name": "情人节"
+  },
+  "login_bonus-campaign-23-0228-01": {
+    "description": "7天的特别登录奖励",
+    "name": "春季"
+  },
+  "login_bonus-campaign-23-0317-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援"
+  },
+  "login_bonus-campaign-23-0329-01": {
+    "description": "7天的特别登录奖励",
+    "name": "感恩祭"
+  },
+  "login_bonus-campaign-23-0409-01": {
+    "description": "7天的特别登录奖励",
+    "name": "感恩祭第2弹"
+  },
+  "login_bonus-campaign-23-0429-01": {
+    "description": "7天的特别登录奖励",
+    "name": "轻音少女！联动"
+  },
+  "login_bonus-campaign-23-0503-01": {
+    "description": "7天的特别登录奖励",
+    "name": "GW纪念养成应援"
+  },
+  "login_bonus-campaign-23-0514-01": {
+    "description": "7天的特别登录奖励",
+    "name": "如果恋"
+  },
+  "login_bonus-campaign-23-0531-01": {
+    "description": "5天的特别登录奖励",
+    "name": "即将2周年纪念特别"
+  },
+  "login_bonus-campaign-23-0605-01": {
+    "description": "7天的特别登录奖励",
+    "name": "即将2周年纪念"
+  },
+  "login_bonus-campaign-23-0624-01": {
+    "description": "3天的特别登录奖励",
+    "name": "回归\n登录"
+  },
+  "login_bonus-campaign-23-0625-01": {
+    "description": "7天的特别登录奖励",
+    "name": "2周年纪念"
+  },
+  "login_bonus-campaign-23-0707-01": {
+    "description": "7天的特别登录奖励",
+    "name": "生日\n更新"
+  },
+  "login_bonus-campaign-23-0716-01": {
+    "description": "7天的特别登录奖励",
+    "name": "单独演唱会\n举办纪念"
+  },
+  "login_bonus-campaign-23-0729-01": {
+    "description": "7天的特别登录奖励",
+    "name": "夏季"
+  },
+  "login_bonus-campaign-23-0810-01": {
+    "description": "7天的特别登录奖励",
+    "name": "上线\n777天纪念"
+  },
+  "login_bonus-campaign-23-0830-01": {
+    "description": "7天的特别登录奖励",
+    "name": "秋季"
+  },
+  "login_bonus-campaign-23-0909-01": {
+    "description": "5天的特别登录奖励",
+    "name": "养成应援"
+  },
+  "login_bonus-campaign-23-0924-01": {
+    "description": "3天的特别登录奖励",
+    "name": "IDOLY PRIDE FES\n倒计时"
+  },
+  "login_bonus-campaign-23-0926-01": {
+    "description": "3天的特别登录奖励",
+    "name": "回归"
+  },
+  "login_bonus-campaign-23-0928-01": {
+    "description": "5天的特别登录奖励",
+    "name": "LizNoir FES\n举办纪念特别"
+  },
+  "login_bonus-campaign-23-1004-01": {
+    "description": "7天的特别登录奖励",
+    "name": "秋季第2弹"
+  },
+  "login_bonus-campaign-23-1019-01": {
+    "description": "5天的特别登录奖励",
+    "name": "培育"
+  },
+  "login_bonus-campaign-23-1028-01": {
+    "description": "7天的特别登录奖励",
+    "name": "秋季第3弹"
+  },
+  "login_bonus-campaign-23-1114-01": {
+    "description": "7天的特别登录奖励",
+    "name": "如果恋"
+  },
+  "login_bonus-campaign-23-1125-01": {
+    "description": "3天的特别登录奖励",
+    "name": "回归"
+  },
+  "login_bonus-campaign-23-1129-01": {
+    "description": "7天的特别登录奖励",
+    "name": "联动特别"
+  },
+  "login_bonus-campaign-23-1207-01": {
+    "description": "7天的特别登录奖励",
+    "name": "联动举办纪念"
+  },
+  "login_bonus-campaign-23-1216-01": {
+    "description": "7天的特别登录奖励",
+    "name": "即将\n2.5周年纪念"
+  },
+  "login_bonus-campaign-23-1227-01": {
+    "description": "7天的特别登录奖励",
+    "name": "2.5周年纪念"
+  },
+  "login_bonus-campaign-24-0104-01": {
+    "description": "7天的特别登录奖励",
+    "name": "新春"
+  },
+  "login_bonus-campaign-24-0130-01": {
+    "description": "为期6天的特别登录奖励",
+    "name": "雪未来特别"
+  },
+  "login_bonus-campaign-24-0207-01": {
+    "description": "7天的特别登录奖励",
+    "name": "雪未来联动"
+  },
+  "login_bonus-campaign-24-0214-01": {
+    "description": "7天的特别登录奖励",
+    "name": "情人节"
+  },
+  "login_bonus-campaign-24-0228-01": {
+    "description": "7天的特别登录奖励",
+    "name": "感恩祭"
+  },
+  "login_bonus-campaign-24-0320-01": {
+    "description": "7天的特别登录奖励",
+    "name": "上线\n1000天纪念"
+  },
+  "login_bonus-campaign-24-0328-01": {
+    "description": "5天的特别登录奖励",
+    "name": "TRINITYAiLE\n庆典举办纪念"
+  },
+  "login_bonus-campaign-24-0405-01": {
+    "description": "7天的特别登录奖励",
+    "name": "春日兔子"
+  },
+  "login_bonus-campaign-24-0429-01": {
+    "description": "7天的特别登录奖励"
+  },
+  "login_bonus-campaign-24-0517-01": {
+    "description": "7天的特别登录奖励",
+    "name": "如果恋"
+  },
+  "login_bonus-campaign-24-0529-01": {
+    "description": "5天的特别登录奖励",
+    "name": "即将3周年\n纪念特别"
+  },
+  "login_bonus-campaign-24-0609-01": {
+    "description": "7天的特别登录奖励",
+    "name": "即将\n3周年纪念"
+  },
+  "login_bonus-campaign-24-0617-01": {
+    "description": "7天的特别登录奖励",
+    "name": "周边徽章\n先行发放"
+  },
+  "login_bonus-campaign-24-0626-01": {
+    "description": "7天的特别登录奖励"
+  },
+  "login_bonus-campaign-24-0627-01": {
+    "description": "7天的特别登录奖励",
+    "name": "周边奖牌"
+  },
+  "login_bonus-campaign-24-0701-01": {
+    "description": "5天的特别登录奖励",
+    "name": "3周年纪念特别"
+  },
+  "login_bonus-campaign-24-0709-01": {
+    "description": "7天的特别登录奖励",
+    "name": "3周年纪念"
+  },
+  "login_bonus-campaign-24-0715-01": {
+    "description": "7天的特别登录奖励",
+    "name": "告诉你IDOLY PRIDE"
+  },
+  "login_bonus-campaign-24-0729-01": {
+    "description": "7天的特别登录奖励",
+    "name": "夏季"
+  },
+  "login_bonus-campaign-24-0812-01": {
+    "description": "7天的特别登录奖励",
+    "name": "单独演唱会\n举办纪念"
+  },
+  "login_bonus-campaign-24-0831-01": {
+    "description": "7天的特别登录奖励",
+    "name": "秋季"
+  },
+  "login_bonus-campaign-24-0912-01": {
+    "description": "7天的特别登录奖励",
+    "name": "秋季第2弹"
+  },
+  "login_bonus-campaign-24-0925-01": {
+    "description": "3天的特别登录奖励",
+    "name": "回归"
+  },
+  "login_bonus-campaign-24-0927-01": {
+    "description": "5天的特别登录奖励",
+    "name": "庆典举办纪念"
+  },
+  "login_bonus-campaign-24-1004-01": {
+    "description": "7天的特别登录奖励",
+    "name": "秋季登录奖励第3弹"
+  },
+  "login_bonus-campaign-24-1018-01": {
+    "description": "7天的特别登录奖励",
+    "name": "秋季第4弹"
+  },
+  "login_bonus-campaign-24-1029-01": {
+    "description": "7天的特别登录奖励",
+    "name": "秋季第5弹"
+  },
+  "login_bonus-campaign-24-1128-01": {
+    "description": "7天的特别登录奖励",
+    "name": "回归"
+  },
+  "login_bonus-campaign-24-1129-01": {
+    "description": "7天的特别登录奖励",
+    "name": "联动特别"
+  },
+  "login_bonus-campaign-25-0117-01": {
+    "description": "7天的特别登录奖励",
+    "name": "新春登录奖励第2弹"
+  },
+  "login_bonus-campaign-25-0215-01": {
+    "description": "5天的特别登录奖励",
+    "name": "情人节纪念特别"
+  },
+  "login_bonus-campaign-25-0225-01": {
+    "description": "7天的特别登录奖励",
+    "name": "回归"
+  },
+  "login_bonus-campaign-25-0327-01": {
+    "description": "5天的特别登录奖励",
+    "name": "庆典举办纪念\n特别"
+  },
+  "login_bonus-campaign-25-0627-01": {
+    "description": "5天的特别登录奖励",
+    "name": "4周年纪念特别"
+  },
+  "login_bonus-campaign-25-0702-01": {
+    "description": "5天的特别登录奖励",
+    "name": "4周年纪念特别\n第2弹"
+  },
+  "login_bonus-campaign-25-0724-01": {
+    "description": "5天的特别登录奖励",
+    "name": "公开纪念特别"
+  },
+  "login_bonus-campaign-25-1126-01": {
+    "description": "7天的特别登录奖励",
+    "name": "回归"
+  },
+  "login_bonus-campaign-25-1219-01": {
+    "description": "5天的特别登录奖励",
+    "name": "即将4.5周年\n纪念特别"
+  },
+  "login_bonus-campaign-26-0116-01": {
+    "description": "7天的特别登录奖励",
+    "name": "新春第2弹"
+  },
+  "login_bonus-campaign-26-0215-01": {
+    "description": "7天的特别登录奖励",
+    "name": "情人节\n第二弹"
+  },
+  "login_bonus-campaign-26-0227-01": {
+    "description": "7天的特别登录奖励",
+    "name": "感恩祭"
+  },
+  "login_bonus-campaign-26-0319-01": {
+    "description": "7天的特别登录奖励",
+    "name": "如果恋"
+  },
+  "login_bonus-campaign-26-0328-01": {
+    "description": "7天的特别登录奖励",
+    "name": "庆典举办纪念"
+  },
+  "login_bonus-campaign-26-0625-01": {
+    "description": "5天的特别登录奖励",
+    "name": "5周年纪念特别"
+  },
+  "login_bonus-campaign02-24-1114-01": {
+    "description": "7天的特别登录奖励",
+    "name": "如果恋"
+  },
+  "login_bonus-campaign02-24-1209-01": {
+    "description": "7天的特别登录奖励",
+    "name": "联动"
+  },
+  "login_bonus-campaign02-24-1216-01": {
+    "description": "7天的特别登录奖励",
+    "name": "即将3.5周年纪念"
+  },
+  "login_bonus-campaign02-24-1229-01": {
+    "description": "7天的特别登录奖励"
+  },
+  "login_bonus-campaign02-25-0104-01": {
+    "description": "7天的特别登录奖励",
+    "name": "新春"
+  },
+  "login_bonus-campaign02-25-0130-01": {
+    "description": "7天的特别登录奖励",
+    "name": "情人节"
+  },
+  "login_bonus-campaign02-25-0213-01": {
+    "description": "7天的特别登录奖励",
+    "name": "羁绊系列\n登场纪念"
+  },
+  "login_bonus-campaign02-25-0226-01": {
+    "description": "7天的特别登录奖励",
+    "name": "联动"
+  },
+  "login_bonus-campaign02-25-0319-01": {
+    "description": "7天的特别登录奖励",
+    "name": "感恩祭"
+  },
+  "login_bonus-campaign02-25-0406-01": {
+    "description": "7天的特别登录奖励",
+    "name": "春季"
+  },
+  "login_bonus-campaign02-25-0416-01": {
+    "description": "7天的特别登录奖励",
+    "name": "羁绊系列\n举办纪念"
+  },
+  "login_bonus-campaign02-25-0430-01": {
+    "description": "7天的特别登录奖励"
+  },
+  "login_bonus-campaign02-25-0516-01": {
+    "description": "为期9天的特别登录奖励",
+    "name": "联动举办纪念"
+  },
+  "login_bonus-campaign02-25-0530-01": {
+    "description": "7天的特别登录奖励",
+    "name": "即将\n4周年纪念"
+  },
+  "login_bonus-campaign02-25-0607-01": {
+    "description": "7天的特别登录奖励",
+    "name": "即将\n4周年纪念 第2弹"
+  },
+  "login_bonus-campaign02-25-0710-01": {
+    "description": "7天的特别登录奖励",
+    "name": "夏季"
+  },
+  "login_bonus-campaign02-25-0801-01": {
+    "description": "7天的特别登录奖励",
+    "name": "上线\n1500天纪念"
+  },
+  "login_bonus-campaign02-25-0809-01": {
+    "description": "7天的特别登录奖励",
+    "name": "羁绊系列\n举办纪念"
+  },
+  "login_bonus-campaign02-25-0906-01": {
+    "description": "7天的特别登录奖励",
+    "name": "初音未来联动"
+  },
+  "login_bonus-campaign02-25-0928-01": {
+    "description": "7天的特别登录奖励",
+    "name": "庆典举办纪念"
+  },
+  "login_bonus-campaign02-25-1021-01": {
+    "description": "7天的特别登录奖励",
+    "name": "秋季"
+  },
+  "login_bonus-campaign02-25-1021-02": {
+    "description": "7天的特别登录奖励",
+    "name": "秋季\n第2弹"
+  },
+  "login_bonus-campaign02-25-1101-01": {
+    "description": "7天的特别登录奖励",
+    "name": "秋季\n第3弹"
+  },
+  "login_bonus-campaign02-25-1108-01": {
+    "description": "7天的特别登录奖励",
+    "name": "羁绊系列\n举办纪念"
+  },
+  "login_bonus-campaign02-25-1208-01": {
+    "description": "7天的特别登录奖励",
+    "name": "联动\n举办纪念"
+  },
+  "login_bonus-campaign02-25-1225-01": {
+    "description": "为期9天的特别登录奖励",
+    "name": "4.5周年纪念"
+  },
+  "login_bonus-campaign02-26-0105-01": {
+    "description": "7天的特别登录奖励",
+    "name": "新春"
+  },
+  "login_bonus-campaign02-26-0129-01": {
+    "description": "7天的特别登录奖励",
+    "name": "情人节"
+  },
+  "login_bonus-campaign02-26-0213-01": {
+    "description": "7天的特别登录奖励",
+    "name": "羁绊系列\n举办纪念"
+  },
+  "login_bonus-campaign02-26-0430-01": {
+    "description": "7天的特别登录奖励"
+  },
+  "login_bonus-campaign02-26-0613-01": {
+    "description": "7天的特别登录奖励",
+    "name": "羁绊系列\n举办纪念"
+  },
+  "login_bonus-campaign02-26-0613-02": {
+    "description": "7天的特别登录奖励",
+    "name": "即将迎来\n5周年纪念 第2弹"
+  },
+  "login_bonus-campaign02-26-0802-01": {
+    "description": "7天的特别登录奖励",
+    "name": "外出"
+  },
+  "login_bonus-campaign02-26-0820-01": {
+    "description": "7天的特别登录奖励",
+    "name": "外出"
+  },
+  "login_bonus-campaign02-26-0903-01": {
+    "description": "7天的特别登录奖励",
+    "name": "外出"
+  },
+  "login_bonus-campaign02-26-0920-01": {
+    "description": "7天的特别登录奖励",
+    "name": "外出"
+  },
+  "login_bonus-normal-01": {
+    "description": "每天可领取的登录奖励",
+    "name": "日常"
+  }
+}

@@ -1,0 +1,1498 @@
+{
+  "pab-active-skill-score-up_add-1": {
+    "description": "Aスキルのスコアが固定値で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-active-skill-score-up_add-2": {
+    "description": "Aスキルのスコアが固定値で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-active-skill-score-up_add-3": {
+    "description": "Aスキルのスコアが固定値で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-active-skill-score-up_add-4": {
+    "description": "Aスキルのスコアが固定値で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-active-skill-score-up_add-5": {
+    "description": "Aスキルのスコアが固定値で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-active-skill-score-up_multiply-1": {
+    "description": "Aスキルのスコアが割合で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-active-skill-score-up_multiply-2": {
+    "description": "Aスキルのスコアが割合で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-active-skill-score-up_multiply-3": {
+    "description": "Aスキルのスコアが割合で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-active-skill-score-up_multiply-4": {
+    "description": "Aスキルのスコアが割合で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-active-skill-score-up_multiply-5": {
+    "description": "Aスキルのスコアが割合で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-active-skill-score-up_multiply_distribution-4": {
+    "description": "Aスキルのスコアが割合で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-active-skill-score-up_multiply_distribution-5": {
+    "description": "Aスキルのスコアが割合で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-active_skill_score_multiply_recipe-3": {
+    "description": "Aスキルのスコアが割合で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-active_skill_score_multiply_recipe-4": {
+    "description": "Aスキルのスコアが割合で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-active_skill_score_multiply_recipe-5": {
+    "description": "Aスキルのスコアが割合で上昇します",
+    "name": "Aスコア"
+  },
+  "pab-affect01_strength_effect_count_increase-skill_dance_boost_recipe_distribution-5": {
+    "description": "付与するダンスブースト効果を{0}延長します",
+    "name": "与・ダンスブースト延長"
+  },
+  "pab-affect01_strength_effect_count_increase-skill_success_rate_up_recipe_distribution-5": {
+    "description": "付与するスキル成功率上昇効果を{0}延長します",
+    "name": "与・成功率延長"
+  },
+  "pab-affect_strength_effect_count_increase-active_score_multiplier_add_recipe_distribution-5": {
+    "description": "付与するAスキルスコア追加効果を{0}延長します",
+    "name": "与・Aスコア追加効果延長"
+  },
+  "pab-affect_strength_effect_count_increase-active_skill_score_up_recipe_distribution-5": {
+    "description": "付与するAスキルスコア上昇効果を{0}延長します",
+    "name": "与・Aスコア延長"
+  },
+  "pab-affect_strength_effect_count_increase-audience_amount_increase_recipe_distribution-5": {
+    "description": "与える集目効果を{0}延長します",
+    "name": "与・集目延長"
+  },
+  "pab-affect_strength_effect_count_increase-beat_score_up_recipe_distribution-5": {
+    "description": "付与するビートスコア上昇効果を{0}延長します",
+    "name": "与・ビートスコア延長"
+  },
+  "pab-affect_strength_effect_count_increase-combo_score_up_recipe_distribution-5": {
+    "description": "付与するコンボスコア上昇効果を{0}延長します",
+    "name": "与・コンボスコアアップ延長"
+  },
+  "pab-affect_strength_effect_count_increase-critical_rate_up-cd-technique": {
+    "description": "<バッファータイプのみ>\n付与するクリティカル率上昇効果を{0}延長します",
+    "name": "与・クリティカル率延長"
+  },
+  "pab-affect_strength_effect_count_increase-critical_rate_up_recipe_distribution-5-cd-technique": {
+    "description": "<バッファータイプのみ> 付与するクリティカル率上昇効果を{0}延長します",
+    "name": "与・クリティカル率延長"
+  },
+  "pab-affect_strength_effect_count_increase-dance_up_recipe-001": {
+    "description": "付与するダンス上昇効果を{0}延長します",
+    "name": "与・Da延長"
+  },
+  "pab-affect_strength_effect_count_increase-dance_up_recipe_distribution-5": {
+    "description": "付与するダンス上昇効果を{0}延長します",
+    "name": "与・Da延長"
+  },
+  "pab-affect_strength_effect_count_increase-score_up_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ> 付与するスコア上昇効果を{0}延長します",
+    "name": "与・スコア延長"
+  },
+  "pab-affect_strength_effect_count_increase-skill_success_rate_up_recipe_distribution-5": {
+    "description": "受けるスキル成功率上昇効果を{0}延長します",
+    "name": "被・成功率延長"
+  },
+  "pab-affect_strength_effect_count_increase-skill_success_rate_up_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ>\n付与するスキル成功率上昇効果を{0}延長します",
+    "name": "与・スキル成功率延長"
+  },
+  "pab-affect_strength_effect_count_increase-stamina_consumption_reduction_recipe_distribution-5": {
+    "description": "付与する消費スタミナ低下効果を{0}延長します",
+    "name": "与・消費スタ減延長"
+  },
+  "pab-affect_strength_effect_count_increase-stamina_continuous_recovery_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ> \n付与するスタミナ継続回復効果を{0}延長します",
+    "name": "与・スタ継続回復延長"
+  },
+  "pab-affect_strength_effect_count_increase-tension_up_recipe_distribution-5": {
+    "description": "付与するテンションUP効果を{0}延長します",
+    "name": "与・テンション延長"
+  },
+  "pab-affect_strength_effect_count_increase-tension_up_recipe_distribution-5-cd-technique": {
+    "description": "<バッファータイプのみ>\n付与するテンションUP効果を{0}延長します",
+    "name": "与・テンション延長"
+  },
+  "pab-affect_strength_effect_count_increase-visual_boost_recipe_distribution-5": {
+    "description": "付与するビジュアルブースト効果を{0}延長します",
+    "name": "与・ビジュアルブースト延長"
+  },
+  "pab-affect_strength_effect_count_increase-visual_up_recipe-001": {
+    "description": "付与するビジュアル上昇効果を{0}延長します",
+    "name": "与・Vi延長"
+  },
+  "pab-affect_strength_effect_count_increase-visual_up_recipe_distribution-5": {
+    "description": "付与するビジュアル上昇効果を{0}延長します",
+    "name": "与・Vi延長"
+  },
+  "pab-affect_strength_effect_count_increase-vocal_boost": {
+    "description": "付与するボーカルブースト効果を{0}延長します",
+    "name": "与・ボーカルブースト延長"
+  },
+  "pab-affect_strength_effect_count_increase-vocal_up_recipe-001": {
+    "description": "付与するボーカル上昇効果を{0}延長します",
+    "name": "与・Vo延長"
+  },
+  "pab-affect_strength_effect_count_increase-vocal_up_recipe_distribution-5": {
+    "description": "付与するボーカル上昇効果を{0}延長します",
+    "name": "与・Vo延長"
+  },
+  "pab-affect_strength_effect_value_increase-beat_score_up_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ>\n付与するビートスコア上昇効果を{0}段階増強します",
+    "name": "与・ビートスコア増強"
+  },
+  "pab-affect_strength_effect_value_increase-critical_bonus_permil_up_recipe_distribution-5": {
+    "description": "付与するクリティカル係数上昇効果を{0}延長します",
+    "name": "与・クリティカル係数延長"
+  },
+  "pab-affect_strength_effect_value_increase-critical_bonus_permil_up_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ>付与するクリティカル係数上昇効果を{0}段階増強します",
+    "name": "与・クリティカル係数増強"
+  },
+  "pab-affect_strength_effect_value_increase-dance_boost_recipe_distribution-5-cd-technique": {
+    "description": "<バッファータイプのみ>\n 付与するダンスブースト効果を{0}段階増強します",
+    "name": "与・ダンスブースト増強"
+  },
+  "pab-affect_strength_effect_value_increase-dance_up_recipe_distribution-5-cd-technique": {
+    "description": "<バッファータイプのみ>\n付与するダンス上昇効果を{0}段階増強します",
+    "name": "与・Da増強"
+  },
+  "pab-affect_strength_effect_value_increase-score_up_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ> \n付与するスコア上昇効果を{0}段階増強します",
+    "name": "与・スコアUP増強"
+  },
+  "pab-affect_strength_effect_value_increase-skill_success_rate_up_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ>\n 付与するスキル成功率上昇効果を{0}段階増強します",
+    "name": "与・スキル成功率増強"
+  },
+  "pab-affect_strength_effect_value_increase-stamina_consumption_reduction_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ>\n付与する消費スタミナ低下効果を{0}段階増強します",
+    "name": "与・消費スタ減増強"
+  },
+  "pab-affect_strength_effect_value_increase-stamina_continuous_recovery_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ>\n付与するスタミナ継続回復効果を{0}段階増強します",
+    "name": "与・スタ継続回復増強"
+  },
+  "pab-affect_strength_effect_value_increase-tension_up_recipe_distribution-5-cd-technique": {
+    "description": "<バッファータイプのみ> 付与するテンションUP効果を{0}段階増強します",
+    "name": "与・テンション増強"
+  },
+  "pab-affect_strength_effect_value_increase-visual_boost_recipe_distribution-5-cd-technique": {
+    "description": "<バッファータイプのみ>\n 付与するビジュアルブースト効果を{0}段階増強します",
+    "name": "与・ビジュアルブースト増強"
+  },
+  "pab-affect_strength_effect_value_increase-vocal_boost_recipe_distribution-5-cd-technique": {
+    "description": "<バッファータイプのみ>\n付与するボーカルブースト効果を{0}段階増強します",
+    "name": "与・ボーカルブースト増強"
+  },
+  "pab-affect_strength_effect_value_increase-vocal_up_recipe_distribution-5-cd-technique": {
+    "description": "<バッファータイプのみ>\n付与するボーカル上昇効果を{0}段階増強します",
+    "name": "与・Vo増強"
+  },
+  "pab-beat-score-up_add-1": {
+    "description": "ビートのスコアが固定値で上昇します",
+    "name": "ビートスコア"
+  },
+  "pab-beat-score-up_add-2": {
+    "description": "ビートのスコアが固定値で上昇します",
+    "name": "ビートスコア"
+  },
+  "pab-beat-score-up_add-3": {
+    "description": "ビートのスコアが固定値で上昇します",
+    "name": "ビートスコア"
+  },
+  "pab-beat-score-up_add-4": {
+    "description": "ビートのスコアが固定値で上昇します",
+    "name": "ビートスコア"
+  },
+  "pab-beat-score-up_add-5": {
+    "description": "ビートのスコアが固定値で上昇します",
+    "name": "ビートスコア"
+  },
+  "pab-beat-score-up_multiply-1": {
+    "description": "ビートのスコアが割合で上昇します",
+    "name": "ビートスコア"
+  },
+  "pab-beat-score-up_multiply-2": {
+    "description": "ビートのスコアが割合で上昇します",
+    "name": "ビートスコア"
+  },
+  "pab-beat-score-up_multiply-3": {
+    "description": "ビートのスコアが割合で上昇します",
+    "name": "ビートスコア"
+  },
+  "pab-beat-score-up_multiply-4": {
+    "description": "ビートのスコアが割合で上昇します",
+    "name": "ビートスコア"
+  },
+  "pab-beat-score-up_multiply-5": {
+    "description": "ビートのスコアが割合で上昇します",
+    "name": "ビートスコア"
+  },
+  "pab-beat-score-up_multiply_distribution-5": {
+    "description": "ビートのスコアが割合で上昇します",
+    "name": "ビートスコア"
+  },
+  "pab-beat_score_multiply_recipe-3": {
+    "description": "ビートのスコアが割合で上昇します",
+    "name": "ビートスコア"
+  },
+  "pab-beat_score_multiply_recipe-4": {
+    "description": "ビートのスコアが割合で上昇します",
+    "name": "ビートスコア"
+  },
+  "pab-beat_score_multiply_recipe-5": {
+    "description": "ビートのスコアが割合で上昇します",
+    "name": "ビートスコア"
+  },
+  "pab-cool_time_reduction_skill_1_recipe-001-cd-support": {
+    "description": "<サポータータイプのみ>\nスキル1のCTを{0}カットします",
+    "name": "CTカット1st"
+  },
+  "pab-cool_time_reduction_skill_2_recipe-001-cd-appeal": {
+    "description": "<スコアラータイプのみ>\nスキル2のCTを{0}カットします",
+    "name": "CTカット2nd"
+  },
+  "pab-cool_time_reduction_skill_3_recipe-001-cd-technique": {
+    "description": "<バッファータイプのみ>\nスキル3のCTを{0}カットします",
+    "name": "CTカット3rd"
+  },
+  "pab-critical-score-up_multiply-1": {
+    "description": "クリティカルのスコアが割合で上昇します",
+    "name": "クリティカルスコア"
+  },
+  "pab-critical-score-up_multiply-2": {
+    "description": "クリティカルのスコアが割合で上昇します",
+    "name": "クリティカルスコア"
+  },
+  "pab-critical-score-up_multiply-3": {
+    "description": "クリティカルのスコアが割合で上昇します",
+    "name": "クリティカルスコア"
+  },
+  "pab-critical-score-up_multiply-4": {
+    "description": "クリティカルのスコアが割合で上昇します",
+    "name": "クリティカルスコア"
+  },
+  "pab-critical-score-up_multiply-5": {
+    "description": "クリティカルのスコアが割合で上昇します",
+    "name": "クリティカルスコア"
+  },
+  "pab-critical-score-up_multiply_distribution-5": {
+    "description": "クリティカルのスコアが割合で上昇します",
+    "name": "クリティカルスコア"
+  },
+  "pab-critical_score_multiply_recipe-3": {
+    "description": "クリティカルのスコアが割合で上昇します",
+    "name": "クリティカルスコア"
+  },
+  "pab-critical_score_multiply_recipe-4": {
+    "description": "クリティカルのスコアが割合で上昇します",
+    "name": "クリティカルスコア"
+  },
+  "pab-critical_score_multiply_recipe-5": {
+    "description": "クリティカルのスコアが割合で上昇します",
+    "name": "クリティカルスコア"
+  },
+  "pab-critical_score_multiply_recipe-5-pa-target-center-cd-support": {
+    "description": "<サポータータイプのみ>\nセンターのクリティカルのスコアが割合で上昇します",
+    "name": "センタークリスコア"
+  },
+  "pab-dance_add-1": {
+    "description": "ダンスが固定値で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_add-2": {
+    "description": "ダンスが固定値で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_add-3": {
+    "description": "ダンスが固定値で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_add-4": {
+    "description": "ダンスが固定値で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_add-5": {
+    "description": "ダンスが固定値で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_add_recipe-3": {
+    "description": "ダンスが固定値で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_add_recipe-4": {
+    "description": "ダンスが固定値で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_add_recipe-5": {
+    "description": "ダンスが固定値で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_add_recipe_distribution-5": {
+    "description": "ダンスが固定値で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_multiply-1": {
+    "description": "ダンスがアイドルパラメータに対して割合で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_multiply-2": {
+    "description": "ダンスがアイドルパラメータに対して割合で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_multiply-3": {
+    "description": "ダンスがアイドルパラメータに対して割合で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_multiply-4": {
+    "description": "ダンスがアイドルパラメータに対して割合で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_multiply-5": {
+    "description": "ダンスがアイドルパラメータに対して割合で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_multiply_distribution-4": {
+    "description": "ダンスがアイドルパラメータに対して割合で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_multiply_distribution-5": {
+    "description": "ダンスがアイドルパラメータに対して割合で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_multiply_recipe-3": {
+    "description": "ダンスがアイドルパラメータに対して割合で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_multiply_recipe-4": {
+    "description": "ダンスがアイドルパラメータに対して割合で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_multiply_recipe-5": {
+    "description": "ダンスがアイドルパラメータに対して割合で上昇します",
+    "name": "ダンス"
+  },
+  "pab-dance_multiply_recipe-5-pa-target-neighbor-cd-technique": {
+    "description": "<バッファータイプのみ>\n隣接アイドルのダンスがアイドルパラメータに対して割合で上昇します",
+    "name": "隣接ダンス"
+  },
+  "pab-mental_add-1": {
+    "description": "メンタルが固定値で上昇します",
+    "name": "メンタル"
+  },
+  "pab-mental_add-2": {
+    "description": "メンタルが固定値で上昇します",
+    "name": "メンタル"
+  },
+  "pab-mental_add-3": {
+    "description": "メンタルが固定値で上昇します",
+    "name": "メンタル"
+  },
+  "pab-mental_add-4": {
+    "description": "メンタルが固定値で上昇します",
+    "name": "メンタル"
+  },
+  "pab-mental_add-5": {
+    "description": "メンタルが固定値で上昇します",
+    "name": "メンタル"
+  },
+  "pab-mental_add_recipe-3": {
+    "description": "メンタルが固定値で上昇します",
+    "name": "メンタル"
+  },
+  "pab-mental_add_recipe-4": {
+    "description": "メンタルが固定値で上昇します",
+    "name": "メンタル"
+  },
+  "pab-mental_add_recipe-5": {
+    "description": "メンタルが固定値で上昇します",
+    "name": "メンタル"
+  },
+  "pab-mental_add_recipe_distribution-5": {
+    "description": "メンタルが固定値で上昇します",
+    "name": "メンタル"
+  },
+  "pab-passive-skill_sk-phot-ai-idol-00": {
+    "description": "ダンス上昇状態の時、自身にAスキルスコア上昇効果",
+    "name": "AスキルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-ai-idol-01": {
+    "description": "誰かがクリティカル率上昇状態の時、対象1人にクリティカル係数上昇効果",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive-skill_sk-phot-ai-idol-02": {
+    "description": "スコアラータイプ1人にスコア上昇効果",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-aoi-idol-00": {
+    "description": "スコアラータイプ2人にスコア上昇効果",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-aoi-idol-01": {
+    "description": "50コンボ以上時、自身にAスキルスコア上昇効果",
+    "name": "AスキルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-aoi-idol-02": {
+    "description": "ダンスが高い1人にビートスコア上昇効果",
+    "name": "ビートUPスキル"
+  },
+  "pab-passive-skill_sk-phot-bd-5-01": {
+    "description": "スタミナ60%以上の時、自身にボーカル上昇効果",
+    "name": "ボーカルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-bd-5-02": {
+    "description": "スタミナ60%以上の時、自身にダンス上昇効果",
+    "name": "ダンスUPスキル"
+  },
+  "pab-passive-skill_sk-phot-bd-5-03": {
+    "description": "スタミナ60%以上の時、自身にビジュアル上昇効果",
+    "name": "ビジュアルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-chs-idol-00": {
+    "description": "誰かが集目状態の時、対象1人にビジュアル上昇効果",
+    "name": "ビジュアルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-chs-idol-01": {
+    "description": "スタミナ50%以下の時、センターにボーカル上昇効果",
+    "name": "ボーカルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-chs-idol-02": {
+    "description": "ビート時、確率でスコアラータイプ2人にビジュアル上昇効果",
+    "name": "ビジュアルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-clb-mission-2304-01": {
+    "description": "Don't say \"lazy\"プレイ時、全員にビジュアル上昇効果",
+    "name": "けいおん！曲限定スキル1"
+  },
+  "pab-passive-skill_sk-phot-clb-mission-2304-02": {
+    "description": "Don't say \"lazy\"プレイ時、全員にダンス上昇効果",
+    "name": "けいおん！曲限定スキル2"
+  },
+  "pab-passive-skill_sk-phot-clb-mission-2304-03": {
+    "description": "Don't say \"lazy\"プレイ時、全員にスキル成功率上昇効果",
+    "name": "けいおん！曲限定スキル3"
+  },
+  "pab-passive-skill_sk-phot-clb-mission-2304-04": {
+    "description": "Don't say \"lazy\"プレイ時、全員にボーカル上昇効果",
+    "name": "けいおん！曲限定スキル4"
+  },
+  "pab-passive-skill_sk-phot-clb-mission-2304-05": {
+    "description": "Don't say \"lazy\"プレイ時、全員にスコア上昇効果",
+    "name": "けいおん！曲限定スキル5"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-01": {
+    "description": "スタミナ60%以上の時、自身にAスキルスコア上昇効果",
+    "name": "AスコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-02": {
+    "description": "100コンボ以上時、自身にスコア上昇効果(1回)",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-03": {
+    "description": "誰かが集目効果時、対象者1人の強化効果延長",
+    "name": "強化効果延長スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-04": {
+    "description": "<スコアラータイプのみ>\n自身にAスキルスコア上昇効果",
+    "name": "AスコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-05": {
+    "description": "誰かがクリティカル率上昇の時、自身にスコア上昇効果(1回)",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-06": {
+    "description": "自身のスタミナが70％以下の時、スタミナ回復(1回)",
+    "name": "スタミナ回復スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-07": {
+    "description": "<スコアラータイプのみ>\n50コンボ以上時\n自身にクリティカル係数上昇効果(1回)",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-08": {
+    "description": "自身のスタミナが60％以下の時、自身にAスキルスコア上昇効果",
+    "name": "AスコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-09": {
+    "description": "自身がAスキルスコア上昇状態の時、自身にスコア上昇効果(1回)",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-10": {
+    "description": "100コンボ以上時、スコア獲得&自身の強化効果増強(1回)",
+    "name": "強化効果増強スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-11": {
+    "description": "100コンボ以上時 自身にクリティカル率上昇効果(1回)",
+    "name": "クリティカル率スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-12": {
+    "description": "誰かがクリティカル係数上昇状態の時、自身の強化効果を延長",
+    "name": "強化効果延長スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-13": {
+    "description": "<サポータータイプのみ>\n50コンボ以上時\nスコアラー１人にクリティカル係数上昇効果(1回)",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-14": {
+    "description": "誰かがクリティカル係数上昇の時、自身にスコア上昇効果(1回)",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-15": {
+    "description": "<バッファータイプのみ>\n100コンボ以上時\nスコア獲得&スコアラータイプ1人の強化効果増強(1回)",
+    "name": "強化効果増強スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-16": {
+    "description": "100コンボ以上時、自身にスコア上昇効果(1回)",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-17": {
+    "description": "<バッファータイプのみ>誰かがスコア上昇状態時、スコアラータイプ1人に強化効果延長",
+    "name": "強化効果延長スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-18": {
+    "description": "スタミナ50%以下の時、自身のスコア上昇効果&スタミナ回復(1回)",
+    "name": "スコアUP+スタミナ回復スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-19": {
+    "description": "<サポータータイプのみ>誰かがクリティカル係数上昇状態の時、スコアラー１人にクリティカル係数上昇効果",
+    "name": "成功率UPスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-20": {
+    "description": "100コンボ以上時、自身にクリティカル係数上昇効果(1回)",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-21": {
+    "description": "クリティカル率上昇状態の時、自身にAスキルスコア上昇効果",
+    "name": "AスコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-22": {
+    "description": "誰かがクリティカル係数アップ時、自身にクリティカル率上昇効果(1回)",
+    "name": "クリティカル率スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-23": {
+    "description": "<サポータータイプのみ>誰かがスキル成功率上昇状態の時、スコアラータイプにクリティカル係数上昇効果(1回)",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-24": {
+    "description": "誰かがクリティカル率アップ状態の時、スコア獲得&自身の強化効果増強(1回)",
+    "name": "強化効果増強スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-24-0524-prem-01": {
+    "description": "<サポータータイプのみ>80コンボ以上時、スコア獲得&隣接するアイドルにクリティカル係数上昇効果(1回)",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-24-0624-prem-01": {
+    "description": "50コンボ以上時、スコア獲得&自身の強化効果増強(1回)",
+    "name": "強化効果増強スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-24-0724-prem-01": {
+    "description": "<サポータータイプのみ> スコアラータイプ1人にスコア上昇効果",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-24-0824-prem-01": {
+    "description": "自身のスコア上昇効果＆スタミナ回復(1回)",
+    "name": "スコアUP+スタミナ回復スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-24-0924-prem-01": {
+    "description": "スコア獲得&自身のスキル成功率上昇効果(1回)",
+    "name": "成功率UPスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-24-1224-prem-01": {
+    "description": "スコア獲得&自身のスキル成功率上昇効果(1回)",
+    "name": "成功率UPスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-25": {
+    "description": "誰かがスキル成功状態の時、自身にAスキルスコア上昇効果",
+    "name": "AスコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-25-0124-prem-01": {
+    "description": "<サポータータイプのみ> 80コンボ以上時 スコアラー１人にクリティカル係数上昇効果(1回)",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-25-0324-prem-01": {
+    "description": "誰かがスキル成功状態の時、対象の強化効果を延長",
+    "name": "強化効果延長スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-25-0624-prem-01": {
+    "description": "誰かが集目状態の時、対象1人にスタミナ回復",
+    "name": "スタミナ回復スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-25-1224-prem-01": {
+    "description": "80コンボ以上時、スコア獲得&自身の強化効果延長",
+    "name": "スコア獲得スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-26-0624-prem-01": {
+    "description": "<サポータータイプのみ> 100コンボ以上時 スコアラー1人のスコア上昇効果&スタミナ回復(1回)",
+    "name": "スコアUP+スタミナ回復スキル"
+  },
+  "pab-passive-skill_sk-phot-exchange-pvp-5-01": {
+    "description": "スコア獲得",
+    "name": "スコア獲得スキル"
+  },
+  "pab-passive-skill_sk-phot-hrk-idol-00": {
+    "description": "自身がボーカル上昇時、スタミナを回復",
+    "name": "スタミナ回復スキル"
+  },
+  "pab-passive-skill_sk-phot-hrk-idol-01": {
+    "description": "誰かがSPスキル発動前、対象1人にクリティカル率上昇効果(2回)",
+    "name": "クリティカル率スキル"
+  },
+  "pab-passive-skill_sk-phot-hrk-idol-02": {
+    "description": "ダンス上昇時、スコア上昇効果",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-kkr-idol-00": {
+    "description": "自身にビジュアル上昇効果",
+    "name": "ビジュアルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-kkr-idol-01": {
+    "description": "スタミナ30%以下の場合、スコア獲得+スタミナ消費量低減",
+    "name": "スコア獲得スキル"
+  },
+  "pab-passive-skill_sk-phot-kkr-idol-02": {
+    "description": "センターにクリティカル係数上昇効果",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive-skill_sk-phot-ktn-idol-00": {
+    "description": "ビート時、確率で自身のクリティカル係数上昇",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive-skill_sk-phot-ktn-idol-01": {
+    "description": "クリティカル率上昇状態の時、自身にビジュアル上昇効果(2回)",
+    "name": "ビジュアルスキル"
+  },
+  "pab-passive-skill_sk-phot-ktn-idol-02": {
+    "description": "集目状態の時、自身にスコア上昇効果(2回)",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-mei-idol-00": {
+    "description": "スコア上昇状態の時、スコア獲得",
+    "name": "スコア獲得スキル"
+  },
+  "pab-passive-skill_sk-phot-mei-idol-01": {
+    "description": "自身のスタミナが70％以下の時、スタミナ回復",
+    "name": "スタミナ回復スキル"
+  },
+  "pab-passive-skill_sk-phot-mei-idol-02": {
+    "description": "50コンボ以上時、スコア獲得 更に自身にビートスコア上昇効果",
+    "name": "スコア獲得スキル"
+  },
+  "pab-passive-skill_sk-phot-ngs-idol-00": {
+    "description": "ビート時、確率でスコア獲得 更に自身にスタミナ消費低減",
+    "name": "スコア獲得スキル"
+  },
+  "pab-passive-skill_sk-phot-ngs-idol-01": {
+    "description": "ビート時、確率でスタミナ回復",
+    "name": "スタミナ回復スキル"
+  },
+  "pab-passive-skill_sk-phot-ngs-idol-02": {
+    "description": "クリティカル発動時、自身にボーカル上昇効果",
+    "name": "ボーカルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-rei-idol-00": {
+    "description": "ビート時、確率で自身にクリティカル率上昇効果(2回)",
+    "name": "クリティカル率スキル"
+  },
+  "pab-passive-skill_sk-phot-rei-idol-01": {
+    "description": "自身がダンス上昇時、スコア上昇効果",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive-skill_sk-phot-rei-idol-02": {
+    "description": "スタミナが低い1人にダンス上昇効果",
+    "name": "ダンスUPスキル"
+  },
+  "pab-passive-skill_sk-phot-release-login-5-01": {
+    "description": "100コンボ到達時、スコア獲得",
+    "name": "スコア獲得スキル"
+  },
+  "pab-passive-skill_sk-phot-rio-idol-00": {
+    "description": "自身のスタミナが60%以上の場合、スコア獲得",
+    "name": "スコア獲得スキル"
+  },
+  "pab-passive-skill_sk-phot-rio-idol-01": {
+    "description": "ダンスが高い3人にクリティカル率上昇効果",
+    "name": "クリティカル率スキル"
+  },
+  "pab-passive-skill_sk-phot-rio-idol-02": {
+    "description": "センターにボーカル上昇効果",
+    "name": "ボーカルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-rui-idol-00": {
+    "description": "センターにクリティカル率上昇効果",
+    "name": "クリティカル率スキル"
+  },
+  "pab-passive-skill_sk-phot-rui-idol-01": {
+    "description": "クリティカル時、確率でスコア獲得、更に集目効果",
+    "name": "スコア獲得スキル"
+  },
+  "pab-passive-skill_sk-phot-rui-idol-02": {
+    "description": "集目状態の時、自身にダンス上昇効果",
+    "name": "ダンスUPスキル"
+  },
+  "pab-passive-skill_sk-phot-shop-5-02": {
+    "description": "スコア獲得",
+    "name": "スコア獲得スキル"
+  },
+  "pab-passive-skill_sk-phot-ski-idol-00": {
+    "description": "誰かがSPスキル発動前、対象1人にダンス上昇効果",
+    "name": "ダンスUPスキル"
+  },
+  "pab-passive-skill_sk-phot-ski-idol-01": {
+    "description": "クリティカル発生時、確率でスタミナ回復",
+    "name": "スタミナ回復スキル"
+  },
+  "pab-passive-skill_sk-phot-ski-idol-02": {
+    "description": "ビート時、確率でスコア獲得",
+    "name": "スコア獲得スキル"
+  },
+  "pab-passive-skill_sk-phot-skr-idol-00": {
+    "description": "ボーカル上昇時、Aスキルスコア上昇効果",
+    "name": "AスキルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-skr-idol-01": {
+    "description": "100コンボ到達時、スコア獲得",
+    "name": "スコア獲得スキル"
+  },
+  "pab-passive-skill_sk-phot-skr-idol-02": {
+    "description": "クリティカル率上昇状態の時、自身にダンス上昇効果",
+    "name": "ダンスUPスキル"
+  },
+  "pab-passive-skill_sk-phot-smr-idol-00": {
+    "description": "スタミナ80%以上の時、Aスキルスコア上昇効果",
+    "name": "AスキルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-smr-idol-01": {
+    "description": "スタミナ30％以下の時に、スタミナ回復",
+    "name": "スタミナ回復スキル"
+  },
+  "pab-passive-skill_sk-phot-smr-idol-02": {
+    "description": "自身にダンス上昇効果",
+    "name": "ダンスUPスキル"
+  },
+  "pab-passive-skill_sk-phot-suz-idol-00": {
+    "description": "50コンボ以上時、自身にクリティカル率上昇効果",
+    "name": "クリティカル率スキル"
+  },
+  "pab-passive-skill_sk-phot-suz-idol-01": {
+    "description": "自身のスタミナが50％以下の時にスコア獲得 更にCT低下",
+    "name": "スコア獲得スキル"
+  },
+  "pab-passive-skill_sk-phot-suz-idol-02": {
+    "description": "ビート時、確率で自身にビジュアル上昇効果",
+    "name": "ビジュアルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-szk-idol-00": {
+    "description": "ステルス状態の時、全員にボーカル上昇効果",
+    "name": "ボーカルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-szk-idol-01": {
+    "description": "クリティカル率上昇時、センターのクリティカル係数上昇効果",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive-skill_sk-phot-szk-idol-02": {
+    "description": "スタミナが高い1人にボーカル上昇効果",
+    "name": "ボーカルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-yu-idol-00": {
+    "description": "誰かが消費スタミナ低下状態の時、対象1人にビジュアル上昇効果",
+    "name": "ビジュアルUPスキル"
+  },
+  "pab-passive-skill_sk-phot-yu-idol-01": {
+    "description": "スタミナ80%以上の時、クリティカル係数上昇効果",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive-skill_sk-phot-yu-idol-02": {
+    "description": "自身にビジュアル上昇効果",
+    "name": "ビジュアルUPスキル"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-001-cd-appeal": {
+    "description": "<スコアラータイプのみ> 自身がボーカルレーンの時 自身にテンションUP効果",
+    "name": "テンションUPスキル"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-002-cd-appeal": {
+    "description": "<スコアラータイプのみ> 自身がダンスレーンの時 自身にクリティカル係数上昇効果",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-003-cd-appeal": {
+    "description": "<スコアラータイプのみ> 自身がビジュアルレーンの時 自身にコンボスコア上昇効果",
+    "name": "コンボスコアUPスキル"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-004-cd-technique": {
+    "description": "<バッファータイプのみ>\nボーカルタイプ1人にボーカルブースト効果",
+    "name": "Voブーストスキル"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-005-cd-technique": {
+    "description": "<バッファータイプのみ>\nダンスタイプ1人にダンスブースト効果",
+    "name": "Daブーストスキル"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-006-cd-technique": {
+    "description": "<バッファータイプのみ>\nビジュアルタイプ1人にビジュアルブースト効果",
+    "name": "Viブーストスキル"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-007-cd-support": {
+    "description": "<サポータータイプのみ>\nボーカルタイプ2人にスコア上昇効果",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-008-cd-support": {
+    "description": "<サポータータイプのみ>\nダンスタイプ3人にAスキルスコア上昇効果",
+    "name": "AスコアUPスキル"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-009-cd-support": {
+    "description": "<サポータータイプのみ>\nビジュアルタイプ5人にビートスコア上昇効果",
+    "name": "ビートスコアUPスキル"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-010": {
+    "description": "スコア獲得、残スタミナが多い程効果上昇",
+    "name": "獲得スキル-スタミナ多"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-011": {
+    "description": "スコア獲得、コンボ数が多い程効果上昇",
+    "name": "獲得スキル-コンボ"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-012": {
+    "description": "スコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
+    "name": "獲得スキル-VoUP"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-013": {
+    "description": "スコア獲得、ダンス上昇状態の段階数が多い程効果上昇",
+    "name": "獲得スキル-DaUP"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-014": {
+    "description": "スコア獲得、ビジュアル上昇状態の段階数が多い程効果上昇",
+    "name": "獲得スキル-ViUP"
+  },
+  "pab-passive_skill-sk-phot_recipe-exchange_photo_contest-22-0831-5-rare-001": {
+    "description": "パッシブスキル",
+    "name": "パッシブスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-10_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ> ボーカルタイプ5人にビートスコア上昇効果",
+    "name": "ビートスコアUPスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-11_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ> 自身がダンスレーンの時、スコア獲得&自身にクリティカル係数上昇効果",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-12_recipe_distribution-5-cd-technique": {
+    "description": "<バッファータイプのみ> 自身がビジュアルレーンの時、ビジュアルタイプ1人の強化効果を増強",
+    "name": "強化効果増強スキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-13_recipe_distribution-5-cd-technique": {
+    "description": "<バッファータイプのみ> 自身がボーカルレーンの時、ボーカルタイプ1人の強化効果を増強",
+    "name": "強化効果増強スキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-14_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ> ダンスタイプ2人にスコア上昇効果",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-15_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ> 自身がビジュアルレーンの時、スコア獲得&自身にクリティカル係数上昇効果",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-16_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ> 自身がボーカルレーンの時、スコア獲得&自身にクリティカル係数上昇効果",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-17_recipe_distribution-5-cd-technique": {
+    "description": "<バッファータイプのみ> 自身がダンスレーンの時、ダンスタイプ1人の強化効果を増強",
+    "name": "強化効果増強スキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-18_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ> ビジュアルタイプ2人にスコア上昇効果",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-33_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ>\nビジュアルタイプ2人にAスキルスコア上昇効果",
+    "name": "AスコアUPスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-34_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ>\nボーカルタイプ2人にスコア上昇効果",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-35_recipe_distribution-5-cd-technique": {
+    "description": "<バッファータイプのみ>\nダンスタイプ1人にダンスブースト効果",
+    "name": "Daブーストスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-37_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ> 自身がボーカルレーンの時 自身にテンションUP効果",
+    "name": "テンションUPスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-44_recipe_distribution-5-cd-technique": {
+    "description": "<バッファータイプのみ>\nダンスタイプ2人のダンス上昇効果",
+    "name": "ダンスUPスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-4_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ> 自身がボーカルレーンの時、スコア獲得&自身にクリティカル係数上昇効果",
+    "name": "クリティカルスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-5_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ> ダンスタイプ5人にビートスコア上昇効果",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-6_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ> ビジュアルタイプ2人にスコア上昇効果",
+    "name": "ビートUPスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-7_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ> 自身がボーカルレーンの時、自身にスコア上昇効果",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-8_recipe_distribution-5-cd-technique": {
+    "description": "<バッファータイプのみ> 自身がダンスレーンの時、ダンスタイプ1人の強化効果を増強",
+    "name": "スコアUPスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-9_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ> ビジュアルタイプ5人にビートスコア上昇効果",
+    "name": "ビートUPスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange_marathon-raid-23-0328-5-rare-001_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ> ボーカルタイプ3人にAスキルスコア上昇効果",
+    "name": "AスコアUPスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange_race-23-0428-5-rare-001_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ> ダンスタイプ3人にAスキルスコア上昇効果",
+    "name": "AスコアUPスキル"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange_race-23-1003-5-rare-001_recipe_distribution-5-cd-support": {
+    "description": "<サポータータイプのみ> ビジュアルタイプ3人にAスキルスコア上昇効果",
+    "name": "AスコアUPスキル"
+  },
+  "pab-received_strength_effect_count_increase-active_skill_score_up_recipe_distribution-5": {
+    "description": "受けるAスキルスコア上昇効果を{0}延長します",
+    "name": "被・Aスコア延長"
+  },
+  "pab-received_strength_effect_count_increase-active_skill_score_up_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ>受けるAスキルスコア上昇効果を{0}延長します",
+    "name": "被・Aスコア延長"
+  },
+  "pab-received_strength_effect_count_increase-beat_score_up_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ>受けるビートスコア上昇効果を{0}延長します",
+    "name": "被・ビートスコア延長"
+  },
+  "pab-received_strength_effect_count_increase-combo_score_up_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ>\n受けるコンボスコア上昇効果を{0}延長します",
+    "name": "被・コンボスコア延長"
+  },
+  "pab-received_strength_effect_count_increase-critical_bonus_permil_up_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ>\n受けるクリティカル係数上昇効果を{0}延長します",
+    "name": "被・クリティカル係数延長"
+  },
+  "pab-received_strength_effect_count_increase-critical_rate_up_recipe_distribution-5": {
+    "description": "受けるクリティカル率上昇効果を{0}延長します",
+    "name": "被・クリティカル率延長"
+  },
+  "pab-received_strength_effect_count_increase-dance_boost_distribution-5": {
+    "description": "受けるダンスブースト効果を{0}延長します",
+    "name": "被・ダンスブースト延長"
+  },
+  "pab-received_strength_effect_count_increase-dance_up_recipe_distribution-5": {
+    "description": "受けるダンス上昇効果を{0}延長します",
+    "name": "被・Da延長"
+  },
+  "pab-received_strength_effect_count_increase-score_up_recipe_distribution-5": {
+    "description": "受けるスコア上昇効果を{0}延長します",
+    "name": "被・スコア延長"
+  },
+  "pab-received_strength_effect_count_increase-stamina_consumption_reduction_recipe_distribution-5": {
+    "description": "受ける消費スタミナ低下効果を{0}延長します",
+    "name": "被・消費スタ減延長"
+  },
+  "pab-received_strength_effect_count_increase-tension_up_recipe_distribution-5": {
+    "description": "受けるテンションUP効果を{0}延長します",
+    "name": "被・テンション延長"
+  },
+  "pab-received_strength_effect_count_increase-visual_boost_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ>\n受けるビジュアルブースト効果を{0}延長します",
+    "name": "被・ビジュアルブースト延長"
+  },
+  "pab-received_strength_effect_count_increase-visual_up_recipe_distribution-5": {
+    "description": "受けるビジュアルアップ効果を{0}延長します",
+    "name": "被・Vi延長"
+  },
+  "pab-received_strength_effect_count_increase-vocal_up_recipe_distribution-5": {
+    "description": "受けるボーカル上昇効果を{0}延長します",
+    "name": "被・Vo延長"
+  },
+  "pab-received_strength_effect_value_increase-active_score_multiplier_add_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ>\n受けるAスキルスコア追加効果を{0}段階増強します",
+    "name": "被・Aスコア追加効果増強"
+  },
+  "pab-received_strength_effect_value_increase-active_skill_score_up_recipe_distribution-5": {
+    "description": "受けるAスキルスコア上昇効果を{0}増強します",
+    "name": "被・Aスコア増強"
+  },
+  "pab-received_strength_effect_value_increase-combo_score_up_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ> \n受けるコンボスコア上昇効果を{0}増強します",
+    "name": "被・コンボスコア増強"
+  },
+  "pab-received_strength_effect_value_increase-critical_bonus_permil_up_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ>受けるクリティカル係数上昇効果を{0}段階増強します",
+    "name": "被・クリティカル係数増強"
+  },
+  "pab-received_strength_effect_value_increase-critical_rate_up_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ>\n受けるクリティカル率上昇効果を{0}段階増強します",
+    "name": "被・クリティカル率増強"
+  },
+  "pab-received_strength_effect_value_increase-dance_boost_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ> \n受けるダンスブースト効果を{0}段階増強します",
+    "name": "被・ダンスブースト増強"
+  },
+  "pab-received_strength_effect_value_increase-dance_up_recipe-001": {
+    "description": "受けるダンス上昇効果を{0}段階増強します",
+    "name": "被・Da増強"
+  },
+  "pab-received_strength_effect_value_increase-dance_up_recipe_distribution-5": {
+    "description": "受けるダンス上昇効果を{0}段階増強します",
+    "name": "被・Da増強"
+  },
+  "pab-received_strength_effect_value_increase-score_up_recipe_distribution-5": {
+    "description": "受けるスコア上昇効果を{0}増強します",
+    "name": "被・スコア増強"
+  },
+  "pab-received_strength_effect_value_increase-special_skill_score_up_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ>\n受けるSPスキルスコア上昇効果を{0}段階増強します",
+    "name": "被・SPスコア増強"
+  },
+  "pab-received_strength_effect_value_increase-tension_up_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ> 受けるテンションUP効果を{0}段階増強します",
+    "name": "被・テンション増強"
+  },
+  "pab-received_strength_effect_value_increase-visual_up_recipe-001": {
+    "description": "受けるビジュアル上昇効果を{0}段階増強します",
+    "name": "被・Vi増強"
+  },
+  "pab-received_strength_effect_value_increase-visual_up_recipe_distribution-5": {
+    "description": "受けるビジュアル上昇効果を{0}段階増強します",
+    "name": "被・Vi増強"
+  },
+  "pab-received_strength_effect_value_increase-vocal_boost_recipe_distribution-5-cd-appeal": {
+    "description": "<スコアラータイプのみ>\n受けるボーカルブースト効果を{0}段階増強します",
+    "name": "被・ボーカルブースト増強"
+  },
+  "pab-received_strength_effect_value_increase-vocal_up_recipe-001": {
+    "description": "受けるボーカル上昇効果を{0}段階増強します",
+    "name": "被・Vo増強"
+  },
+  "pab-received_strength_effect_value_increase-vocal_up_recipe_distribution-5": {
+    "description": "受けるボーカル上昇効果を{0}段階増強します",
+    "name": "被・Vo増強"
+  },
+  "pab-sk-phot-ai-idol-03": {
+    "description": "誰かがビジュアル上昇時、自身のビジュアル上昇効果",
+    "name": "ビジュアルUPスキル"
+  },
+  "pab-sk-phot-aoi-idol-03": {
+    "description": "50コンボ以上時、自身にボーカル上昇効果(1回)",
+    "name": "ボーカルUPスキル"
+  },
+  "pab-sk-phot-cca-idol-00": {
+    "description": "スタミナ80%以上の時、クリティカル係数上昇効果",
+    "name": "クリティカルスキル"
+  },
+  "pab-sk-phot-chk-idol-00": {
+    "description": "100コンボ以上時、自身にスコア上昇効果",
+    "name": "スコアUPスキル"
+  },
+  "pab-sk-phot-chn-idol-00": {
+    "description": "自身のスタミナが70％以下の時、スタミナ回復",
+    "name": "スタミナ回復スキル"
+  },
+  "pab-sk-phot-chs-idol-03": {
+    "description": "消費スタミナ低下状態の時、自身にスキル成功率上昇効果",
+    "name": "成功率UPスキル"
+  },
+  "pab-sk-phot-hrk-idol-03": {
+    "description": "付与するAスキルスコア上昇効果を{0}延長します",
+    "name": "与・Aスコア延長"
+  },
+  "pab-sk-phot-kan-idol-00": {
+    "description": "誰かが集目状態の時、自身にスコア上昇効果",
+    "name": "スコアUPスキル"
+  },
+  "pab-sk-phot-kkr-idol-03": {
+    "description": "自身がボーカル上昇時、スコア獲得&自身の低下効果を回復",
+    "name": "スコア獲得スキル"
+  },
+  "pab-sk-phot-kor-idol-00": {
+    "description": "受けるコンボスコア上昇効果を{0}延長します",
+    "name": "被・コンボスコア延長"
+  },
+  "pab-sk-phot-ktn-idol-03": {
+    "description": "受けるダンス上昇効果を{0}延長します",
+    "name": "被・Da延長"
+  },
+  "pab-sk-phot-mei-idol-03": {
+    "description": "自身がビジュアル上昇時、自身の強化効果を延長",
+    "name": "強化効果延長スキル"
+  },
+  "pab-sk-phot-mhk-idol-00": {
+    "description": "誰かがビートスコア上昇時、自身の強化効果を延長",
+    "name": "強化効果延長スキル"
+  },
+  "pab-sk-phot-mku-idol-00": {
+    "description": "受けるスコア上昇効果を{0}延長します",
+    "name": "被・スコア延長"
+  },
+  "pab-sk-phot-mna-idol-00": {
+    "description": "自身がクリティカル率上昇時、自身のスキル成功率上昇効果",
+    "name": "成功率UPスキル"
+  },
+  "pab-sk-phot-ngs-idol-03": {
+    "description": "自身にAスキルスコア上昇効果(1回)",
+    "name": "AスキルUPスキル"
+  },
+  "pab-sk-phot-rei-idol-03": {
+    "description": "付与するボーカル上昇効果を{0}延長します",
+    "name": "与・Vo延長"
+  },
+  "pab-sk-phot-rik-idol-00": {
+    "description": "付与するAスキルスコア上昇効果を{0}延長します",
+    "name": "与・Aスコア延長"
+  },
+  "pab-sk-phot-rio-idol-03": {
+    "description": "自身のスタミナ回復",
+    "name": "スタミナ回復スキル"
+  },
+  "pab-sk-phot-rui-idol-03": {
+    "description": "自身が集目時、スコア獲得&自身にスタミナ消費低減",
+    "name": "スコア獲得スキル"
+  },
+  "pab-sk-phot-ski-idol-03": {
+    "description": "自身がスコア上昇時、自身のビジュアル上昇効果",
+    "name": "ビジュアルUPスキル"
+  },
+  "pab-sk-phot-skr-idol-03": {
+    "description": "自身がダンス上昇時、自身の強化効果を延長",
+    "name": "強化効果延長スキル"
+  },
+  "pab-sk-phot-smr-idol-03": {
+    "description": "付与するクリティカル率上昇効果を{0}延長します",
+    "name": "与・クリティカル率延長"
+  },
+  "pab-sk-phot-suz-idol-03": {
+    "description": "自身がボーカル上昇時、自身のAスキルスコア上昇効果",
+    "name": "AスキルUPスキル"
+  },
+  "pab-sk-phot-szk-idol-03": {
+    "description": "付与するAスキルスコア上昇効果を{0}延長します",
+    "name": "与・Aスコア延長"
+  },
+  "pab-sk-phot-ymk-idol-00": {
+    "description": "50コンボ以上時、自身にAスキルスコア上昇効果",
+    "name": "AスキルUPスキル"
+  },
+  "pab-sk-phot-yo-idol-00": {
+    "description": "自身がテンションUP時、隣接するアイドルの強化効果延長",
+    "name": "強化効果延長スキル"
+  },
+  "pab-sk-phot-yu-idol-03": {
+    "description": "100コンボ以上時、自身にスコア上昇効果",
+    "name": "スコアUPスキル"
+  },
+  "pab-special-skill-score-up_add-1": {
+    "description": "SPスキルのスコアが固定値で上昇します",
+    "name": "SPスコア"
+  },
+  "pab-special-skill-score-up_add-2": {
+    "description": "SPスキルのスコアが固定値で上昇します",
+    "name": "SPスコア"
+  },
+  "pab-special-skill-score-up_add-3": {
+    "description": "SPスキルのスコアが固定値で上昇します",
+    "name": "SPスコア"
+  },
+  "pab-special-skill-score-up_add-4": {
+    "description": "SPスキルのスコアが固定値で上昇します",
+    "name": "SPスコア"
+  },
+  "pab-special-skill-score-up_add-5": {
+    "description": "SPスキルのスコアが固定値で上昇します",
+    "name": "SPスコア"
+  },
+  "pab-special-skill-score-up_multiply-1": {
+    "description": "SPスキルのスコアが割合で上昇します",
+    "name": "SPスコア"
+  },
+  "pab-special-skill-score-up_multiply-2": {
+    "description": "SPスキルのスコアが割合で上昇します",
+    "name": "SPスコア"
+  },
+  "pab-special-skill-score-up_multiply-3": {
+    "description": "SPスキルのスコアが割合で上昇します",
+    "name": "SPスコア"
+  },
+  "pab-special-skill-score-up_multiply-4": {
+    "description": "SPスキルのスコアが割合で上昇します",
+    "name": "SPスコア"
+  },
+  "pab-special-skill-score-up_multiply-5": {
+    "description": "SPスキルのスコアが割合で上昇します",
+    "name": "SPスコア"
+  },
+  "pab-special-skill-score-up_multiply_distribution-5": {
+    "description": "SPスキルのスコアが割合で上昇します",
+    "name": "SPスコア"
+  },
+  "pab-special_skill_score_multiply_recipe-3": {
+    "description": "SPスキルのスコアが割合で上昇します",
+    "name": "SPスコア"
+  },
+  "pab-special_skill_score_multiply_recipe-4": {
+    "description": "SPスキルのスコアが割合で上昇します",
+    "name": "SPスコア"
+  },
+  "pab-special_skill_score_multiply_recipe-5": {
+    "description": "SPスキルのスコアが割合で上昇します",
+    "name": "SPスコア"
+  },
+  "pab-stamina_multiply-1": {
+    "description": "スタミナがアイドルパラメータに対して割合で上昇します",
+    "name": "スタミナ"
+  },
+  "pab-stamina_multiply-2": {
+    "description": "スタミナがアイドルパラメータに対して割合で上昇します",
+    "name": "スタミナ"
+  },
+  "pab-stamina_multiply-3": {
+    "description": "スタミナがアイドルパラメータに対して割合で上昇します",
+    "name": "スタミナ"
+  },
+  "pab-stamina_multiply-4": {
+    "description": "スタミナがアイドルパラメータに対して割合で上昇します",
+    "name": "スタミナ"
+  },
+  "pab-stamina_multiply-5": {
+    "description": "スタミナがアイドルパラメータに対して割合で上昇します",
+    "name": "スタミナ"
+  },
+  "pab-stamina_multiply_distribution-5": {
+    "description": "スタミナがアイドルパラメータに対して割合で上昇します",
+    "name": "スタミナ"
+  },
+  "pab-stamina_multiply_recipe-3": {
+    "description": "スタミナがアイドルパラメータに対して割合で上昇します",
+    "name": "スタミナ"
+  },
+  "pab-stamina_multiply_recipe-4": {
+    "description": "スタミナがアイドルパラメータに対して割合で上昇します",
+    "name": "スタミナ"
+  },
+  "pab-stamina_multiply_recipe-5": {
+    "description": "スタミナがアイドルパラメータに対して割合で上昇します",
+    "name": "スタミナ"
+  },
+  "pab-technique_add-1": {
+    "description": "クリティカルが固定値で上昇します",
+    "name": "クリティカル"
+  },
+  "pab-technique_add-2": {
+    "description": "クリティカルが固定値で上昇します",
+    "name": "クリティカル"
+  },
+  "pab-technique_add-3": {
+    "description": "クリティカルが固定値で上昇します",
+    "name": "クリティカル"
+  },
+  "pab-technique_add-4": {
+    "description": "クリティカルが固定値で上昇します",
+    "name": "クリティカル"
+  },
+  "pab-technique_add-5": {
+    "description": "クリティカルが固定値で上昇します",
+    "name": "クリティカル"
+  },
+  "pab-technique_add_recipe-3": {
+    "description": "クリティカルが固定値で上昇します",
+    "name": "クリティカル"
+  },
+  "pab-technique_add_recipe-4": {
+    "description": "クリティカルが固定値で上昇します",
+    "name": "クリティカル"
+  },
+  "pab-technique_add_recipe-5": {
+    "description": "クリティカルが固定値で上昇します",
+    "name": "クリティカル"
+  },
+  "pab-technique_add_recipe_distribution-5": {
+    "description": "クリティカルが固定値で上昇します",
+    "name": "クリティカル"
+  },
+  "pab-visual_add-1": {
+    "description": "ビジュアルが固定値で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_add-2": {
+    "description": "ビジュアルが固定値で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_add-3": {
+    "description": "ビジュアルが固定値で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_add-4": {
+    "description": "ビジュアルが固定値で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_add-5": {
+    "description": "ビジュアルが固定値で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_add_recipe-3": {
+    "description": "ビジュアルが固定値で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_add_recipe-4": {
+    "description": "ビジュアルが固定値で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_add_recipe-5": {
+    "description": "ビジュアルが固定値で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_add_recipe_distribution-5": {
+    "description": "ビジュアルが固定値で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_multiply-1": {
+    "description": "ビジュアルがアイドルパラメータに対して割合で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_multiply-2": {
+    "description": "ビジュアルがアイドルパラメータに対して割合で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_multiply-3": {
+    "description": "ビジュアルがアイドルパラメータに対して割合で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_multiply-4": {
+    "description": "ビジュアルがアイドルパラメータに対して割合で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_multiply-5": {
+    "description": "ビジュアルがアイドルパラメータに対して割合で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_multiply_distribution-4": {
+    "description": "ビジュアルがアイドルパラメータに対して割合で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_multiply_distribution-5": {
+    "description": "ビジュアルがアイドルパラメータに対して割合で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_multiply_recipe-3": {
+    "description": "ビジュアルがアイドルパラメータに対して割合で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_multiply_recipe-4": {
+    "description": "ビジュアルがアイドルパラメータに対して割合で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_multiply_recipe-5": {
+    "description": "ビジュアルがアイドルパラメータに対して割合で上昇します",
+    "name": "ビジュアル"
+  },
+  "pab-visual_multiply_recipe-5-pa-target-neighbor-cd-technique": {
+    "description": "<バッファータイプのみ>\n隣接アイドルのビジュアルがアイドルパラメータに対して割合で上昇します",
+    "name": "隣接ビジュアル"
+  },
+  "pab-vocal_add-1": {
+    "description": "ボーカルが固定値で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_add-2": {
+    "description": "ボーカルが固定値で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_add-3": {
+    "description": "ボーカルが固定値で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_add-4": {
+    "description": "ボーカルが固定値で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_add-5": {
+    "description": "ボーカルが固定値で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_add_recipe-3": {
+    "description": "ボーカルが固定値で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_add_recipe-4": {
+    "description": "ボーカルが固定値で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_add_recipe-5": {
+    "description": "ボーカルが固定値で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_add_recipe_distribution-5": {
+    "description": "ボーカルが固定値で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_multiply-1": {
+    "description": "ボーカルがアイドルパラメータに対して割合で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_multiply-2": {
+    "description": "ボーカルがアイドルパラメータに対して割合で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_multiply-3": {
+    "description": "ボーカルがアイドルパラメータに対して割合で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_multiply-4": {
+    "description": "ボーカルがアイドルパラメータに対して割合で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_multiply-5": {
+    "description": "ボーカルがアイドルパラメータに対して割合で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_multiply_distribution-4": {
+    "description": "ボーカルがアイドルパラメータに対して割合で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_multiply_distribution-5": {
+    "description": "ボーカルがアイドルパラメータに対して割合で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_multiply_recipe-3": {
+    "description": "ボーカルがアイドルパラメータに対して割合で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_multiply_recipe-4": {
+    "description": "ボーカルがアイドルパラメータに対して割合で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_multiply_recipe-5": {
+    "description": "ボーカルがアイドルパラメータに対して割合で上昇します",
+    "name": "ボーカル"
+  },
+  "pab-vocal_multiply_recipe-5-pa-target-neighbor-cd-technique": {
+    "description": "<バッファータイプのみ>\n隣接アイドルのボーカルがアイドルパラメータに対して割合で上昇します",
+    "name": "隣接ボーカル"
+  }
+}

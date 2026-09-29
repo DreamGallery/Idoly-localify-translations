@@ -1,0 +1,490 @@
+{
+  "char-ai": {
+    "activityFanEventWords[0].word": "ありがたい\nです！",
+    "activityFanEventWords[1].word": "会えて\n嬉しいです！",
+    "activityFanEventWords[2].word": "また来て\n下さい！",
+    "age": "16歳",
+    "birthday": "2月9日",
+    "catchphrase": "なるほど！\n腹筋1000回\nすればいいんですね！",
+    "excursionFirstText": "最近愛は疲れが溜まっているみたいだ\nお出掛けに誘って、\nリフレッシュしてもらおう",
+    "favorite": "人を笑顔にする事、掃除",
+    "hometown": "私立 月出高校 芸能コース",
+    "idiom": "真剣",
+    "profile": "人を笑顔にすることが大好きな、LizNoirのムードメーカー。こころとは養成所時代からの仲で、よくイジられている。確かな技術力を持っているが、肝心な時にドジをしてしまい莉央から怒られることもしばしば。",
+    "shortProfile": "人を笑顔にすることが\n大好きなLizNoirの\nムードメーカー",
+    "unfavorite": "暗い所、父を馬鹿にする人",
+    "zodiacSign": "みずがめ座"
+  },
+  "char-aoi": {
+    "activityFanEventWords[0].word": "ありがとう。",
+    "activityFanEventWords[1].word": "会えて\nよかったよ。",
+    "activityFanEventWords[2].word": "また来てよ。",
+    "age": "17歳",
+    "birthday": "6月19日",
+    "catchphrase": "なんでもいいよ。",
+    "excursionFirstText": "最近、\n葵が退屈そうにしている気がする\n仕事終わりに、どこかに誘ってみよう",
+    "favorite": "スイーツ、料理",
+    "hometown": "私立 月出高校 芸能コース",
+    "idiom": "随意",
+    "profile": "感情の起伏が少なく、常に冷静なLizNoirのブレーン。莉央との信頼関係は非常に厚く、活動休止に追い込まれた際も、新メンバーの提案を蹴り彼女を待ち続けた。一度見たダンスをすぐにコピーできる実力者。",
+    "shortProfile": "感情の起伏が少なく\n常に冷静な\nLizNoirのブレーン",
+    "unfavorite": "犬",
+    "zodiacSign": "ふたご座"
+  },
+  "char-cca": {
+    "age": "18歳",
+    "birthday": "4月10日",
+    "catchphrase": "ー",
+    "favorite": "ー",
+    "hometown": "ー",
+    "profile": "喫茶ラビットハウスに下宿している女の子。かわいいものやモフモフしたものが大好きで、チノのことを妹のようにかわいがっている。",
+    "shortProfile": "喫茶ラビットハウスに\n下宿している女の子",
+    "unfavorite": "ー",
+    "zodiacSign": "おひつじ座"
+  },
+  "char-chk": {
+    "age": "16歳",
+    "birthday": "8月1日",
+    "catchphrase": "ー",
+    "favorite": "みかん",
+    "hometown": "浦の星女学院",
+    "profile": "浦の星女学院の2年生で、Aqoursの発起人。3人姉妹の末っ子で、実家は旅館をやっている。人懐っこく負けず嫌い。持ち前の明るさと強引さで周囲を次々に巻き込んでいく。",
+    "shortProfile": "浦の星女学院の2年生で、\nAqoursの発起人",
+    "unfavorite": "コーヒー、しおから",
+    "zodiacSign": "しし座"
+  },
+  "char-chn": {
+    "age": "15歳",
+    "birthday": "12月4日",
+    "catchphrase": "ー",
+    "favorite": "ー",
+    "hometown": "ー",
+    "profile": "ラビットハウスの一人娘。クールな性格だがココアのことは嫌いじゃない…!? コーヒーに詳しいしっかり者。",
+    "shortProfile": "ラビットハウスの一人娘",
+    "unfavorite": "ー",
+    "zodiacSign": "いて座"
+  },
+  "char-chs": {
+    "activityFanEventWords[0].word": "ありがとう\nございます！",
+    "activityFanEventWords[1].word": "来てもらえて\n嬉しいです！",
+    "activityFanEventWords[2].word": "また来て\n下さいね。",
+    "age": "17歳",
+    "birthday": "11月22日",
+    "catchphrase": "お姉ちゃんは合格して、\n私は落ちちゃったから……。",
+    "excursionFirstText": "最近、千紗のスケジュールが詰まり気味だ\n仕事終わりに、\nどこかで息抜きしてもらおう",
+    "favorite": "沙季、ホラー",
+    "hometown": "公立 光ヶ崎高校",
+    "idiom": "昇華",
+    "loveInfo.description": "ルイの友達で、ドジで力の弱いサキュバス。人間にも優しく、思いやりに溢れた性格の持ち主。",
+    "loveInfos[0].description": "ルイの友達で、ドジで力の弱いサキュバス。人間にも優しく、思いやりに溢れた性格の持ち主。",
+    "profile": "引っ込み思案で臆病な性格。そんな自分を変えるためアイドルを志した。はじめは姉の後ろをついていくことしかできなかった彼女だが、アイドル活動を通して徐々に自信をつけ、姉と並び自らの足で歩む決意を固めた。",
+    "shortProfile": "引っ込み思案で臆病\nそんな自分を変えるため\nアイドルを志した",
+    "unfavorite": "白子、牡蠣",
+    "zodiacSign": "さそり座"
+  },
+  "char-cinnamo": {
+    "shortProfile": "遠いお空の雲の上で生まれた、\n白いこいぬの男のコ。"
+  },
+  "char-haruhi": {
+    "shortProfile": "「楽しいこと」を追求する天下御免のSOS団の団長。団員の連中曰く、ハルヒには本人が知らない大きな秘密があるらしい......。"
+  },
+  "char-hrk": {
+    "activityFanEventWords[0].word": "ありがとう！",
+    "activityFanEventWords[1].word": "会えて\n嬉しいな。",
+    "activityFanEventWords[2].word": "また遊びに\n来てね。",
+    "age": "20歳",
+    "birthday": "1月3日",
+    "catchphrase": "私ってやっぱり\n地味で、普通で……\n華がなくて……",
+    "excursionFirstText": "最近遙子さんは疲れが溜まっているみたいだ\nお出掛けに誘って、\nリフレッシュしてもらおう",
+    "favorite": "星村、ジグソーパズル、米",
+    "hometown": "私立 青洋学園大学",
+    "idiom": "執念",
+    "profile": "みんなのお姉さんで、サニーピースのまとめ役。生前の麻奈を知る、星見プロダクション最初の所属アイドル。一時は夢を諦めかけていたが、信じてくれる人を裏切りたくない気持ちから、強い覚悟でアイドル活動に励む。",
+    "shortProfile": "みんなのお姉さんで\nサニーピースのまとめ役",
+    "unfavorite": "あきらめる事",
+    "zodiacSign": "やぎ座"
+  },
+  "char-itsuki": {
+    "shortProfile": "高校一年の一学期に転入してきただけの理由で「謎の転校生」としてハルヒにスカウトされた。曖昧な笑顔がトレードマーク。"
+  },
+  "char-kan": {
+    "activityFanEventWords[0].word": "ありがとう\nございま～す！",
+    "activityFanEventWords[1].word": "kana、\n感激～！",
+    "activityFanEventWords[2].word": "また来てね～！",
+    "age": "20歳",
+    "birthday": "4月10日",
+    "catchphrase": "きゃはっ！　\n当然でしょ、\nだってkanaだもんね！",
+    "excursionFirstText": "最近kanaさんのスケジュールが詰まってるな\n今日の仕事終わりに\n息抜きにでも誘ってみるか",
+    "favorite": "SNSのいいね、父",
+    "hometown": "非公表",
+    "idiom": "孤独",
+    "profile": "裏表が激しいが、ずば抜けたセンスを持つ小悪魔アイドル。大人気モデル出身で、小さい頃から数々の雑誌の表紙を飾っている。承認欲求が高く、SNSのフォロワーは200万以上。",
+    "shortProfile": "裏表が激しいが、\nずば抜けたセンスを持つ\n小悪魔アイドル",
+    "unfavorite": "祖父",
+    "zodiacSign": "おひつじ座"
+  },
+  "char-kitty": {
+    "shortProfile": "明るくてやさしい女のコ。\n身長はりんご５個分。\n体重はりんご３個分。"
+  },
+  "char-kkr": {
+    "activityFanEventWords[0].word": "ありがとっ！",
+    "activityFanEventWords[1].word": "会えて\n嬉しいな～",
+    "activityFanEventWords[2].word": "また来て\n下さーい！",
+    "age": "14歳",
+    "birthday": "12月6日",
+    "catchphrase": "アナタの心を鷲掴み☆\n赤崎こころ、\n14歳でーすっ！",
+    "excursionFirstText": "最近こころの元気がないみたいだ\n今日の仕事終わりに\n息抜きにでも誘ってみるか",
+    "favorite": "書道、誰かの困った顔",
+    "hometown": "私立 麗葉女学院中等部",
+    "idiom": "打破",
+    "profile": "人懐っこくお調子者な、LizNoirの切り込み隊長。愛とはお互いを認め合う仲だが、良からぬことを吹き込みがち。今までのLizNoirにはない愛嬌と可愛らしさを見せ、グループに新しい風を吹かせている。",
+    "shortProfile": "人懐っこくお調子者な\nLizNoirの切り込み隊長",
+    "unfavorite": "仲間はずれにされる事",
+    "zodiacSign": "いて座"
+  },
+  "char-konazusa": {
+    "shortProfile": "とても真面目な性格の1年生。\n小学生から始めたギターは\nかなりの腕前"
+  },
+  "char-konmio": {
+    "shortProfile": "真面目で成績優秀だが、\nギターは目立つから\nベースを選ぶ恥ずかしがり屋"
+  },
+  "char-konmugi": {
+    "shortProfile": "幼い頃からピアノを習い、\n入賞経験もある\nおっとりしたお嬢様"
+  },
+  "char-konritsu": {
+    "shortProfile": "大雑把な性格で、\n細かい楽器が苦手という理由\nでドラムを選んだ"
+  },
+  "char-konyui": {
+    "shortProfile": "自己流や直感に頼るタイプで、\n全くの初心者からギターを始めた"
+  },
+  "char-kor": {
+    "activityFanEventWords[0].word": "ありがとう\nございます！",
+    "activityFanEventWords[1].word": "お会いできて\n嬉しいです",
+    "activityFanEventWords[2].word": "また来て\nくださいね！",
+    "age": "22歳",
+    "birthday": "6月11日",
+    "catchphrase": "アイドルをやっている\n目的は、ただお金を\n稼ぐため。",
+    "excursionFirstText": "franさん、なんだか元気がないな。\n嫌がられるかもしれないが、\n仕事後にどこか誘ってみるか",
+    "favorite": "ファッション、お金、漫画",
+    "hometown": "非公表",
+    "idiom": "狂奔",
+    "profile": "抜群のスタイルを持つ、天才肌で努力を知らないカリスマ。ⅢXのセンターで、パリコレへの出場経験もあるトップモデル出身。ある理由から極端にお金に執着している。",
+    "shortProfile": "抜群のスタイルを持つ、\n天才肌で努力を知らない\nカリスマ",
+    "unfavorite": "お金にならないこと、パーティー",
+    "zodiacSign": "ふたご座"
+  },
+  "char-ktn": {
+    "activityFanEventWords[0].word": "ありがとう。",
+    "activityFanEventWords[1].word": "嬉しいです。",
+    "activityFanEventWords[2].word": "じゃあまた。",
+    "age": "17歳",
+    "birthday": "12月25日",
+    "catchphrase": "私、一人で\n出来るので。",
+    "excursionFirstText": "最近、\n琴乃はあまり息抜き出来ていないようだ\n仕事終わりに、どこかに誘ってみよう",
+    "favorite": "姉、アイドル、わたあめ",
+    "hometown": "私立 星見高校",
+    "idiom": "呪縛",
+    "profile": "姉・長瀬麻奈の遺志を受け継ぎアイドルを志した少女。グループ結成当初は、人とのコミュニケーションを避けて孤立することもあった。しかし、メンバーと苦難を乗り越える中で成長し、今ではみんなを引っ張る存在に。",
+    "shortProfile": "姉・長瀬麻奈の遺志を\n受け継ぎアイドルを\n志した少女",
+    "unfavorite": "自分が分からない事",
+    "zodiacSign": "やぎ座"
+  },
+  "char-kuromi": {
+    "shortProfile": "自称マイメロディのライバル。\n乱暴者に見えるけれど、実はとっても乙女チック！？"
+  },
+  "char-kyon": {
+    "shortProfile": "ハルヒの最大の被害者。いつのまにか「やれやれ」が口グセになってしまった雑用係のヒラ団員。"
+  },
+  "char-kyui": {
+    "shortProfile": "クラスの風紀委員"
+  },
+  "char-lala": {
+    "shortProfile": "銀河系を束ねるデビルーク星の第1王女"
+  },
+  "char-mei": {
+    "activityFanEventWords[0].word": "ありがと～！",
+    "activityFanEventWords[1].word": "ハッピー！",
+    "activityFanEventWords[2].word": "まったねー！",
+    "age": "16歳",
+    "birthday": "7月7日",
+    "catchphrase": "何恥ずかしがってるの？\n一緒に塀の上で\nデートした仲なのに。",
+    "excursionFirstText": "最近、\n芽衣はあまり息抜き出来ていないようだ\n仕事が終わったら、どこかに誘ってみよう",
+    "favorite": "マネージャー、面白そうな事",
+    "hometown": "私立 星見高校",
+    "idiom": "憧憬",
+    "loveInfo.description": "自然豊かな田舎町で暮らす高校一年生。人懐っこく誰とでもすぐに仲良くなれる。主人公の祖母の家の近くに住んでいる。",
+    "loveInfos[0].description": "自然豊かな田舎町で暮らす高校一年生。人懐っこく誰とでもすぐに仲良くなれる。主人公の祖母の家の近くに住んでいる。",
+    "profile": "直感に従い生きる、予測不能で無邪気な少女。勧誘を受け「面白そう」という単純な動機で事務所へ入る。しかし、麻奈が持つアイドルとしての姿勢に感銘を受け、彼女のようなアイドルを本気で目指すようになる。",
+    "shortProfile": "直感に従い生きる\n予測不能で無邪気な少女",
+    "unfavorite": "ピクルス",
+    "zodiacSign": "かに座"
+  },
+  "char-melody": {
+    "shortProfile": "すなおで明るい、弟思いの女のコ。\n宝物は、おばあちゃんが作ってくれた、かわいいずきん。"
+  },
+  "char-mhk": {
+    "activityFanEventWords[0].word": "ありがとう",
+    "activityFanEventWords[1].word": "会えて\n嬉しいです",
+    "activityFanEventWords[2].word": "またお会い\nしましょう",
+    "age": "24歳",
+    "birthday": "1月25日",
+    "catchphrase": "高得点を取る『攻略法』\nとでも言うべきものはある。",
+    "excursionFirstText": "最近mihoさんは疲れが溜まっているみたいだ\n誘いにくいが、\n勇気を出して気分転換してもらおう",
+    "favorite": "アイドル、葉ちゃん",
+    "hometown": "非公表",
+    "idiom": "憂愁",
+    "profile": "豊富な経験と知識を活かして活動に励む理論派。BIG4に手が届く寸前で突如解散した、人気二人組アイドルのメンバーだった過去を持つ。グループのブレーン的存在で基本的に温厚だが、執念深い一面も。",
+    "shortProfile": "豊富な経験と知識を活かして\n活動に励む\n理論派",
+    "zodiacSign": "みずがめ座"
+  },
+  "char-mikuru": {
+    "shortProfile": "童顔に萌えキャラを評価されて、強引にハルヒに連れてこられたSOS団唯一の上級生。純粋無垢な性格で団の癒し担当。"
+  },
+  "char-mku": {
+    "age": "16歳",
+    "birthday": "8月31日",
+    "catchphrase": "ー",
+    "favorite": "ー",
+    "hometown": "ー",
+    "profile": "世代を超えて愛される、ポップでキュートなバーチャル・シンガー。VENUSプログラムとは無縁の舞台で活躍しており、その明るく美しい歌声は、世界中の人々を魅了している。",
+    "shortProfile": "世代を超えて愛される、ポップでキュートなバーチャル・シンガー",
+    "unfavorite": "ー",
+    "zodiacSign": "乙女座"
+  },
+  "char-mna": {
+    "age": "19歳",
+    "birthday": "10月9日",
+    "catchphrase": "さあ、アイドルの頂点へ！",
+    "favorite": "妹、アイドル、カレー",
+    "hometown": "私立 星見高校",
+    "idiom": "奇跡",
+    "profile": "『星降る奇跡』と呼ばれる伝説のアイドル。デビューからわずか一年半でこの世を去った。しかし、その短い活動期間で数々の伝説や記録を打ち立て、死後もなお、多くのアイドルに影響を与えている。",
+    "shortProfile": "『星降る奇跡』\nと呼ばれる\n伝説のアイドル",
+    "unfavorite": "ファンをがっかりさせること",
+    "zodiacSign": "てんびん座"
+  },
+  "char-mng": {
+    "age": "19歳",
+    "birthday": "10月9日",
+    "catchphrase": "さあ、アイドルの頂点へ！",
+    "favorite": "妹、アイドル、カレー",
+    "hometown": "私立 星見高校",
+    "idiom": "奇跡",
+    "profile": "『星降る奇跡』と呼ばれる伝説のアイドル。デビューからわずか一年半でこの世を去った。しかし、その短い活動期間で数々の伝説や記録を打ち立て、死後もなお、多くのアイドルに影響を与えている。",
+    "shortProfile": "『星降る奇跡』\nと呼ばれる\n伝説のアイドル",
+    "unfavorite": "ファンをがっかりさせること",
+    "zodiacSign": "てんびん座"
+  },
+  "char-momo": {
+    "shortProfile": "銀河系を束ねるデビルーク星の第3王女"
+  },
+  "char-ngs": {
+    "activityFanEventWords[0].word": "ありがとう。",
+    "activityFanEventWords[1].word": "会えて\n嬉しい！",
+    "activityFanEventWords[2].word": "また来てね～",
+    "age": "17歳",
+    "birthday": "8月3日",
+    "catchphrase": "琴乃ちゃんがそういうなら\n私は反対しないよ。",
+    "excursionFirstText": "最近渚は疲れが溜まっているみたいだ\nお出掛けに誘って、\nリフレッシュしてもらおう",
+    "favorite": "琴乃、桃、日記をつける事",
+    "hometown": "私立 星見高校",
+    "idiom": "献身",
+    "loveInfo.description": "恋愛小説が好きな高校二年生。面倒見がよく、クラスの人気者。主人公とは幼馴染で隣の家に住んでいる。",
+    "loveInfos[0].description": "恋愛小説が好きな高校二年生。面倒見がよく、クラスの人気者。主人公とは幼馴染で隣の家に住んでいる。",
+    "loveInfos[1].description": "主人公の飼い猫にして、すみれの使い魔。猫なこともあり、人間の文化には疎いが、その力ですみれをサポートする。",
+    "profile": "親友・琴乃を支えるためにアイドルとなった少女。想像力が豊かで、思わぬところに好奇心を見せる一面も。アイドルとしての長所がなく自信をなくしたこともあったが、琴乃を支えることを力にして、日々奮闘している。",
+    "shortProfile": "親友・琴乃を支えるために\nアイドルとなった少女",
+    "unfavorite": "琴乃を傷つけるもの、ゴーヤ",
+    "zodiacSign": "しし座"
+  },
+  "char-rei": {
+    "activityFanEventWords[0].word": "ありがとう\nございます。",
+    "activityFanEventWords[1].word": "会えて\n嬉しいです。",
+    "activityFanEventWords[2].word": "また来て\n下さい。",
+    "age": "18歳",
+    "birthday": "3月8日",
+    "catchphrase": "私が全部、\nそうするって決めた\nことだから。",
+    "excursionFirstText": "最近怜のスケジュールが詰まってるな\n今日の仕事帰りにでも\nリフレッシュしてもらおう",
+    "favorite": "兄、ダンス、マカロン",
+    "hometown": "私立 麗葉女学院高等部",
+    "idiom": "不屈",
+    "loveInfo.description": "ダンスが大好きな高校三年生。主人公のバイト先の先輩であり、クラスメイト。クールな性格で、周囲ともあまり関わろうとしない。",
+    "loveInfos[0].description": "ダンスが大好きな高校三年生。主人公のバイト先の先輩であり、クラスメイト。クールな性格で、周囲ともあまり関わろうとしない。",
+    "profile": "ダンス大会で優勝するほどの実力者。両親にダンスを仕事として認めてもらうため、アイドルを志す。加入当初は、メンバーに高いレベルを要求し衝突することもあったが、その技術力でみんなを導いていく道を見つけた。",
+    "shortProfile": "両親にダンスを仕事として\n認めてもらうため\nアイドルを志す",
+    "unfavorite": "両親、ホルモン、朝",
+    "zodiacSign": "うお座"
+  },
+  "char-rik": {
+    "age": "16歳",
+    "birthday": "9月19日",
+    "catchphrase": "ー",
+    "favorite": "ゆでたまご、サンドイッチ",
+    "hometown": "浦の星女学院",
+    "profile": "東京の秋葉原から千歌のクラスへと転校してきた2年生。大人っぽく落ち着いて見えるが実は慌て者で、早とちりや勘違いをしてしまうことも。",
+    "shortProfile": "東京の秋葉原から\n千歌のクラスへと\n転校してきた2年生",
+    "unfavorite": "ピーマン",
+    "zodiacSign": "おとめ座"
+  },
+  "char-rio": {
+    "activityFanEventWords[0].word": "ありがとう。",
+    "activityFanEventWords[1].word": "嬉しいわ。",
+    "activityFanEventWords[2].word": "また来てね。",
+    "age": "22歳",
+    "birthday": "8月28日",
+    "catchphrase": "初めての挫折を、\n私達が味わわせてあげる。",
+    "excursionFirstText": "最近莉央さんが疲れ気味だな\n今日の仕事帰りに\n息抜きでも誘ってみよう",
+    "favorite": "アイドル、料理",
+    "hometown": "私立 月出高校 芸能コース",
+    "idiom": "気魄",
+    "loveInfo.description": "星見商事の社員。仕事はやり手だが、クールな見た目と指導の厳しさから社内では『鬼』と呼ばれている。新入社員である主人公の教育係。",
+    "loveInfos[0].description": "星見商事の社員。仕事はやり手だが、クールな見た目と指導の厳しさから社内では『鬼』と呼ばれている。新入社員である主人公の教育係。",
+    "profile": "勝利に貪欲な、LizNoir不動のセンター。グランプリの決勝で戦う予定だった麻奈が先立ち、目標を失った喪失感から活動休止を余儀なくされた過去を持つ。メンバー増員以降は気持ちも変化し、成長を遂げている。",
+    "shortProfile": "勝利に貪欲な\nLizNoir不動のセンター",
+    "zodiacSign": "おとめ座"
+  },
+  "char-rui": {
+    "activityFanEventWords[0].word": "ありがとう\nございます！",
+    "activityFanEventWords[1].word": "来てくれて\n嬉しいです。",
+    "activityFanEventWords[2].word": "また会いに\n来て下さい。",
+    "age": "17歳",
+    "birthday": "11月11日",
+    "catchphrase": "私たち三人は\n最高のチームですから。",
+    "excursionFirstText": "瑠依の表情に疲れが見えるぞ\nこれは仕事後に、\n息抜きでもさせた方が良さそうだな",
+    "favorite": "アイドル、勝利、グミ",
+    "hometown": "私立 月出高校 芸能コース",
+    "idiom": "堅固",
+    "loveInfos[1].description": "魔界からやってきた、強大な力を持つサキュバス。傲慢で人間を見下しているように見えるが、真面目で友達思いの一面も。",
+    "profile": "TRINITYAiLEの絶対的センター。天才と謳われているが、その実態は圧倒的な努力に裏打ちされたもの。凛とした姿から完全無欠だと思われがちだが、突然寝落ちしたり、偏食な一面なども持ち合わせている。",
+    "shortProfile": "TRINITYAiLEの\n絶対的センター",
+    "unfavorite": "敗北、牛肉",
+    "zodiacSign": "さそり座"
+  },
+  "char-ski": {
+    "activityFanEventWords[0].word": "ありがとう\nございます。",
+    "activityFanEventWords[1].word": "私も\n嬉しいです。",
+    "activityFanEventWords[2].word": "また来て\n下さいね。",
+    "age": "18歳",
+    "birthday": "9月26日",
+    "catchphrase": "だって私が…\nお姉ちゃんなんだから。",
+    "excursionFirstText": "最近、沙季のスケジュールが詰まり気味だ\n仕事終わりに、\nどこかでリフレッシュしてもらおう",
+    "favorite": "千紗、アイドル、くさや",
+    "hometown": "公立 光ヶ崎高校",
+    "idiom": "熱誠",
+    "profile": "学校では生徒会長も務める絵に描いたような優等生で、月のテンペストのまとめ役。デビュー当初は、妹・千紗に対する自身の過保護さに苦悩した過去もあったが、現在はお互い信頼し合いそれぞれの道を歩んでいる。",
+    "shortProfile": "絵に描いたような優等生で\n月のテンペストのまとめ役",
+    "unfavorite": "千紗を傷つけるもの",
+    "zodiacSign": "てんびん座"
+  },
+  "char-skr": {
+    "activityFanEventWords[0].word": "ありがとうー！",
+    "activityFanEventWords[1].word": "嬉しいな～",
+    "activityFanEventWords[2].word": "また来てね！",
+    "age": "17歳",
+    "birthday": "4月3日",
+    "catchphrase": "今、この胸、すっごい\nドキドキしてるから。",
+    "excursionFirstText": "どうやらさくらが疲れ気味みたいだな。\n仕事が終わったら、\nリフレッシュにどこかへ連れて行こう",
+    "favorite": "麻奈、アイドル、トンカツ",
+    "hometown": "公立 光ヶ崎高校",
+    "idiom": "覚醒",
+    "profile": "何気ない日々を大切にする、天真爛漫なアイドル。麻奈そっくりな歌声を持ち人気を博したが、次第に麻奈の声でステージに立つことに疑問を抱く。苦悩を乗り越え麻奈の声から決別する道を選び、未来に進む。",
+    "shortProfile": "何気ない日々を大切にする\n天真爛漫なアイドル",
+    "unfavorite": "陰口",
+    "zodiacSign": "おひつじ座"
+  },
+  "char-smr": {
+    "activityFanEventWords[0].word": "ありがとう\nございます！",
+    "activityFanEventWords[1].word": "会えて\n嬉しいです！",
+    "activityFanEventWords[2].word": "また来て\n下さい！",
+    "age": "15歳",
+    "birthday": "5月5日",
+    "catchphrase": "元子役？\nえへへ、どうでしょうね〜",
+    "excursionFirstText": "最近、\nすみれはあまり息抜き出来ていないようだ\n仕事終わりに、どこかに連れて行ってあげよう",
+    "favorite": "兄、故郷、さくらんぼ",
+    "hometown": "公立 紅花中学校",
+    "idiom": "再燃",
+    "loveInfos[1].description": "主人公の妹で、サキュバスから人間界を守る、正義の魔法少女。その魔法で、多くのサキュバスを魔界に送り返してきた。",
+    "profile": "家族を想いアイドルを志した、元天才子役。中学生とは思えないほどしっかりしており、一度会った人の顔と名前を覚える特技を持つ。しかし、心許せる仲間の間では、年相応の無邪気さを覗かせることも。",
+    "shortProfile": "家族を想い\nアイドルを志した\n元天才子役",
+    "unfavorite": "なし",
+    "zodiacSign": "おうし座"
+  },
+  "char-suz": {
+    "activityFanEventWords[0].word": "感謝ですわ。",
+    "activityFanEventWords[1].word": "会えて嬉しい\nですわ。",
+    "activityFanEventWords[2].word": "ごきげん\nよう。",
+    "age": "15歳",
+    "birthday": "9月13日",
+    "catchphrase": "私の足を引っ張らないよう\n皆様、よろしく\nお願いしますわ。",
+    "excursionFirstText": "最近仕事が詰まっててすずが疲れ気味だな\n今日の仕事終わりに\n息抜きにでも誘ってみるか",
+    "favorite": "麻奈、お金、お茶",
+    "hometown": "私立 麗葉女学院中等部",
+    "idiom": "一念",
+    "profile": "麻奈を崇拝する、ドジでいじられやすいお嬢様。両親から留学を迫られ、半ば逃げるように事務所を訪れた。その後、自身の逃げ癖を克服し両親から正式に活動を認めてもらい、星見プロダクションを盛り上げている。",
+    "shortProfile": "長瀬麻奈を崇拝する\nドジでいじられやすい\nお嬢様",
+    "unfavorite": "コーヒー、留学",
+    "zodiacSign": "おとめ座"
+  },
+  "char-szk": {
+    "activityFanEventWords[0].word": "来てくれて\n嬉しい…",
+    "activityFanEventWords[1].word": "会えて\nよかった…",
+    "activityFanEventWords[2].word": "また来てね…",
+    "age": "16歳",
+    "birthday": "10月15日",
+    "catchphrase": "トーク、は……\nなんとか、\nがんばる。",
+    "excursionFirstText": "最近、雫はあまり息抜き出来ていないようだ\n今日の仕事帰りにでも、\nどこかに誘ってみよう",
+    "favorite": "アイドル、従姉、饅頭",
+    "hometown": "公立 光ヶ崎高校",
+    "idiom": "開花",
+    "profile": "笑顔が少し苦手で寡黙なアイドルオタク。加入当初、トーク力や乏しい感情表現に不安を覚え、アイドルとしての自信をなくしていた。しかし、同じ悩みを抱えていた千紗と意気投合し、支え合いながら日々成長している。",
+    "shortProfile": "笑顔が少し苦手で寡黙な\nアイドルオタク",
+    "unfavorite": "家族以外の人、わさび",
+    "zodiacSign": "てんびん座"
+  },
+  "char-yami": {
+    "shortProfile": "宇宙で最も危険視されている殺し屋"
+  },
+  "char-ymk": {
+    "age": "16歳",
+    "birthday": "8月31日",
+    "catchphrase": "ー",
+    "favorite": "ー",
+    "hometown": "ー",
+    "profile": "世代を超えて愛される、ポップでキュートなバーチャル・シンガー。北海道を盛り上げる各種取り組みのアンバサダーを務め応援の場を多方面に広げている。",
+    "shortProfile": "北海道を盛り上げる、ポップでキュートなバーチャル・シンガー",
+    "unfavorite": "ー",
+    "zodiacSign": "乙女座"
+  },
+  "char-yo": {
+    "age": "16歳",
+    "birthday": "4月17日",
+    "catchphrase": "ー",
+    "favorite": "ハンバーグ、みかん",
+    "hometown": "浦の星女学院",
+    "profile": "浦の星女学院の2年生で、千歌のクラスメイト。高飛び込みの選手で実力はナショナルチーム級。考えるよりも先に体が動くタイプ。フェリーの船長を父に持ち、自身も将来は船長になりたいと思っている。",
+    "shortProfile": "浦の星女学院の2年生で、\n千歌のクラスメイト",
+    "unfavorite": "刺身、パサパサした食べ物",
+    "zodiacSign": "おひつじ座"
+  },
+  "char-yu": {
+    "activityFanEventWords[0].word": "わざわざ\nおおきに～",
+    "activityFanEventWords[1].word": "会えて\n嬉しいわ～",
+    "activityFanEventWords[2].word": "また来てな～",
+    "age": "16歳",
+    "birthday": "2月27日",
+    "catchphrase": "瑠依ちゃんが一番に\nなってくれたら\nええんや。",
+    "excursionFirstText": "最近優のスケジュールが詰まってるな\n今日の仕事終わりに\n息抜きにでも誘ってみるか",
+    "favorite": "瑠依、クロワッサン",
+    "hometown": "私立 月出高校 芸能コース",
+    "idiom": "誠忠",
+    "loveInfo.description": "主人公の通う高校に転校して来た一つ上の先輩。アニメや漫画が好きで主人公と同じ文芸部に所属している。少しSっ気があり、いつも主人公をからかって遊んでいる。",
+    "loveInfos[0].description": "主人公の通う高校に転校して来た一つ上の先輩。アニメや漫画が好きで主人公と同じ文芸部に所属している。少しSっ気があり、いつも主人公をからかって遊んでいる。",
+    "profile": "京都出身で、常に冷静なTRINITYAiLEのまとめ役。大企業の社長の父と有名女優の母を持つ。瑠依に魅了され、彼女を第一に考え行動する。ファンにも周知の事実で、優の献身的な姿に惹かれるファンも多い。",
+    "shortProfile": "常に冷静な\nTRINITYAiLEの\nまとめ役",
+    "unfavorite": "瑠依を批判する人、お蕎麦",
+    "zodiacSign": "うお座"
+  },
+  "char-yuki": {
+    "shortProfile": "元々は文芸部の部員だったが、部室をハルヒに乗っ取られ、なし崩し的に入団させられた。無口かつ無表情、本ばかり読んでいる。"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "casl": {
+    "name": "便服"
+  },
+  "gene": {
+    "name": "便服风偶像服装"
+  },
+  "hruh": {
+    "name": "SOS团"
+  },
+  "idol": {
+    "name": "偶像服装"
+  },
+  "idol-miku": {
+    "name": "偶像服装_未来"
+  },
+  "idol-miku-mizg": {
+    "name": "泳装_未来"
+  },
+  "kion": {
+    "name": "樱丘女子高等学校"
+  },
+  "mizg": {
+    "name": "泳装"
+  },
+  "mizg-all-ng": {
+    "name": "泳装_全NG"
+  },
+  "mizg-water-ng": {
+    "name": "泳装_入水NG"
+  },
+  "pajm": {
+    "name": "睡衣"
+  },
+  "schl": {
+    "name": "制服"
+  },
+  "sd-ambassador": {
+    "name": "亲善大使"
+  },
+  "sd-police": {
+    "name": "一日署长"
+  },
+  "snro": {
+    "name": "三丽鸥角色联动"
+  },
+  "trbl": {
+    "name": "To LOVEる"
+  },
+  "trbl-mizg": {
+    "name": "麻烦圣诞老人"
+  },
+  "trng": {
+    "name": "训练"
+  },
+  "waso": {
+    "name": "和装"
+  }
+}

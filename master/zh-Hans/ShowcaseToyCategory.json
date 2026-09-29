@@ -1,0 +1,35 @@
+{
+  "toy-category-alphabet": {
+    "name": "文字"
+  },
+  "toy-category-bigbuttonbadge": {
+    "name": "大徽章"
+  },
+  "toy-category-buttonbadge": {
+    "name": "徽章"
+  },
+  "toy-category-chracrylicbord": {
+    "name": "卡片立牌"
+  },
+  "toy-category-chracrylicsd": {
+    "name": "迷你角色立牌"
+  },
+  "toy-category-chracrylicstand": {
+    "name": "亚克力立牌"
+  },
+  "toy-category-figure": {
+    "name": "手办"
+  },
+  "toy-category-nameplate": {
+    "name": "铭牌"
+  },
+  "toy-category-pedestal": {
+    "name": "底座"
+  },
+  "toy-category-pedestal-set": {
+    "name": "底座套装"
+  },
+  "toy-category-tapestry": {
+    "name": "挂毯"
+  }
+}

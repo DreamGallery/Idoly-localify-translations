@@ -1,0 +1,918 @@
+{
+  "area-contest-001": {
+    "description": "高分演唱会",
+    "name": "高分演唱会"
+  },
+  "area-daily-001": {
+    "dailyRewardName": "金币",
+    "description": "每日演唱会",
+    "name": "金币"
+  },
+  "area-daily-002": {
+    "dailyRewardName": "课程碎片",
+    "description": "每日演唱会",
+    "name": "课程碎片"
+  },
+  "area-daily-003": {
+    "dailyRewardName": "拍摄胶片",
+    "description": "每日演唱会",
+    "name": "拍摄胶片"
+  },
+  "area-daily-present-25-0427": {
+    "dailyRewardName": "各种礼物",
+    "description": "每日演唱会",
+    "name": "礼物"
+  },
+  "area-daily-present-25-0728": {
+    "dailyRewardName": "各种礼物",
+    "description": "每日演唱会",
+    "name": "礼物"
+  },
+  "area-daily-present-26-0101": {
+    "dailyRewardName": "各种礼物",
+    "description": "每日演唱会",
+    "name": "礼物"
+  },
+  "area-daily-present-26-0429": {
+    "dailyRewardName": "各种礼物",
+    "description": "每日演唱会",
+    "name": "礼物"
+  },
+  "area-daily-present-26-0618": {
+    "dailyRewardName": "各种礼物",
+    "description": "每日演唱会",
+    "name": "礼物"
+  },
+  "area-daily-sp-22-0526": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-22-0731": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-22-0903": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-22-1028": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-22-1224": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-23-0226": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-23-0328": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-23-0428": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-23-0604": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-23-0624": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-23-0829": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-23-1003": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-23-1128": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-23-1224": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-24-0129": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-24-0327": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-24-0405": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-24-0426": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-24-0528": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-24-0624": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-24-0708": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-24-0827": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-24-0925": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-24-1028": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-24-1128": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-24-1226": {
+    "dailyRewardName": "技能粉末、声援粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-25-0128": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-25-0225": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-25-0326": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-25-0426": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-25-0527": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-25-0625": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-25-0728": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-25-0826": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-25-0927": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-25-1028": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-25-1224": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-26-0128": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-26-0226": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-26-0327": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-26-0527": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-26-0624": {
+    "dailyRewardName": "技能粉末、声援粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-26-0708": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-26-0731": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-26-0817": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-26-0831": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-daily-sp-26-0918": {
+    "dailyRewardName": "技能粉末",
+    "description": "每日演唱会",
+    "name": "特别"
+  },
+  "area-ex-tower-001": {
+    "description": "月光风暴",
+    "name": "月光风暴"
+  },
+  "area-ex-tower-002": {
+    "description": "SUNNY PEACE",
+    "name": "SUNNY PEACE"
+  },
+  "area-ex-tower-005-sp-23-0625-001": {
+    "description": "2周年纪念",
+    "name": "2周年纪念"
+  },
+  "area-ex-tower-005-sp-23-0625-002": {
+    "description": "2周年纪念",
+    "name": "2周年纪念"
+  },
+  "area-ex-tower-005-sp-23-0625-003": {
+    "description": "2周年纪念",
+    "name": "2周年纪念"
+  },
+  "area-ex-tower-005-sp-23-1222-001": {
+    "description": "全国巡演举办纪念",
+    "name": "全国巡演举办纪念"
+  },
+  "area-ex-tower-005-sp-23-1222-002": {
+    "description": "全国巡演举办纪念",
+    "name": "全国巡演举办纪念"
+  },
+  "area-ex-tower-005-sp-23-1222-003": {
+    "description": "全国巡演举办纪念",
+    "name": "全国巡演举办纪念"
+  },
+  "area-ex-tower-005-sp-24-0428-001": {
+    "description": "黄金周纪念EX塔",
+    "name": "黄金周纪念EX塔"
+  },
+  "area-ex-tower-005-sp-24-0428-002": {
+    "description": "黄金周纪念EX塔",
+    "name": "黄金周纪念EX塔"
+  },
+  "area-ex-tower-005-sp-24-0428-003": {
+    "description": "黄金周纪念EX塔",
+    "name": "黄金周纪念EX塔"
+  },
+  "area-ex-tower-005-sp-24-0428-004": {
+    "description": "黄金周纪念 星见Production的挑战书",
+    "name": "黄金周纪念 星见Production的挑战书"
+  },
+  "area-ex-tower-005-sp-24-0616-001": {
+    "description": "BIG4篇完结纪念EX塔",
+    "name": "BIG4篇完结纪念EX塔"
+  },
+  "area-ex-tower-005-sp-24-0616-002": {
+    "description": "BIG4篇完结纪念EX塔",
+    "name": "BIG4篇完结纪念EX塔"
+  },
+  "area-ex-tower-005-sp-24-0616-003": {
+    "description": "BIG4篇完结纪念EX塔",
+    "name": "BIG4篇完结纪念EX塔"
+  },
+  "area-ex-tower-005-sp-25-0301-001": {
+    "description": "凉宫春日的忧郁联动举办纪念EX塔",
+    "name": "凉宫春日的忧郁联动举办纪念EX塔"
+  },
+  "area-ex-tower-005-sp-25-0301-002": {
+    "description": "凉宫春日的忧郁联动举办纪念EX塔",
+    "name": "凉宫春日的忧郁联动举办纪念EX塔"
+  },
+  "area-ex-tower-005-sp-25-0301-003": {
+    "description": "凉宫春日的忧郁联动举办纪念EX塔",
+    "name": "凉宫春日的忧郁联动举办纪念EX塔"
+  },
+  "area-ex-tower-005-sp-25-0901-001": {
+    "description": "初音未来联动举办纪念EX塔",
+    "name": "初音未来联动举办纪念EX塔"
+  },
+  "area-ex-tower-005-sp-25-0901-002": {
+    "description": "初音未来联动举办纪念EX塔",
+    "name": "初音未来联动举办纪念EX塔"
+  },
+  "area-ex-tower-005-sp-25-0901-003": {
+    "description": "初音未来联动举办纪念EX塔",
+    "name": "初音未来联动举办纪念EX塔"
+  },
+  "area-ex-tower-005-sp-25-1201-001": {
+    "description": "出包王女联动举办纪念EX塔",
+    "name": "出包王女联动举办纪念EX塔"
+  },
+  "area-ex-tower-005-sp-25-1201-002": {
+    "description": "出包王女联动举办纪念EX塔",
+    "name": "出包王女联动举办纪念EX塔"
+  },
+  "area-ex-tower-005-sp-25-1201-003": {
+    "description": "出包王女联动举办纪念EX塔",
+    "name": "出包王女联动举办纪念EX塔"
+  },
+  "area-ex-tower-005-sp-26-0502-001": {
+    "description": "黄金周纪念EX塔",
+    "name": "黄金周纪念EX塔"
+  },
+  "area-ex-tower-005-sp-26-0502-002": {
+    "description": "黄金周纪念EX塔",
+    "name": "黄金周纪念EX塔"
+  },
+  "area-ex-tower-005-sp-26-0502-003": {
+    "description": "黄金周纪念EX塔",
+    "name": "黄金周纪念EX塔"
+  },
+  "area-ex-tower-005-sp-26-0502-004": {
+    "description": "黄金周纪念 星见Production的挑战书",
+    "name": "黄金周纪念 星见Production的挑战书"
+  },
+  "area-ex-tower-005-sp-26-0503-001": {
+    "description": "三丽鸥角色联动举办纪念EX塔",
+    "name": "三丽鸥角色联动举办纪念EX塔"
+  },
+  "area-ex-tower-005-sp-26-0503-002": {
+    "description": "三丽鸥角色联动举办纪念EX塔",
+    "name": "三丽鸥角色联动举办纪念EX塔"
+  },
+  "area-ex-tower-005-sp-26-0503-003": {
+    "description": "三丽鸥角色联动举办纪念EX塔",
+    "name": "三丽鸥角色联动举办纪念EX塔"
+  },
+  "area-ex-tower-006": {
+    "description": "养成塔",
+    "name": "养成塔"
+  },
+  "area-exercise": {
+    "description": "经纪人培训计划",
+    "name": "经纪人培训"
+  },
+  "area-main-001": {
+    "description": "新人1",
+    "name": "Rapture涩谷"
+  },
+  "area-main-002": {
+    "description": "新人2"
+  },
+  "area-main-003": {
+    "description": "新人3",
+    "name": "秋叶原Fresh剧场"
+  },
+  "area-main-004": {
+    "description": "新人4",
+    "name": "节奏大厅神奈川"
+  },
+  "area-main-005": {
+    "description": "新人5",
+    "name": "TERRACE下北泽"
+  },
+  "area-main-006": {
+    "description": "新人6",
+    "name": "星见市高台舞台"
+  },
+  "area-main-007": {
+    "description": "新人7",
+    "name": "新宿FLAME"
+  },
+  "area-main-008": {
+    "description": "常规1"
+  },
+  "area-main-009": {
+    "description": "常规2",
+    "name": "节奏大厅神奈川"
+  },
+  "area-main-010": {
+    "description": "常规3",
+    "name": "星见市高台舞台"
+  },
+  "area-main-011": {
+    "description": "常规4",
+    "name": "新宿FLAME"
+  },
+  "area-main-012": {
+    "description": "常规5",
+    "name": "PUEBLO川崎"
+  },
+  "area-main-013": {
+    "description": "常规6",
+    "name": "上越文化会馆"
+  },
+  "area-main-014": {
+    "description": "常规7",
+    "name": "NAD会馆"
+  },
+  "area-main-015": {
+    "description": "常规8",
+    "name": "公园竞技场武藏野"
+  },
+  "area-main-016": {
+    "description": "专业1"
+  },
+  "area-main-017": {
+    "description": "专业2",
+    "name": "节奏大厅神奈川"
+  },
+  "area-main-018": {
+    "description": "专业3",
+    "name": "星见市高台舞台"
+  },
+  "area-main-019": {
+    "description": "专业4",
+    "name": "有乐町大厅"
+  },
+  "area-main-020": {
+    "description": "专业5",
+    "name": "GREEN舞台涩谷"
+  },
+  "area-main-021": {
+    "description": "专业6",
+    "name": "市民大厅大宫"
+  },
+  "area-main-022": {
+    "description": "专业7",
+    "name": "东京国际剧场"
+  },
+  "area-main-023": {
+    "description": "专业8",
+    "name": "代代木国际竞技场"
+  },
+  "area-main-024": {
+    "description": "专业9",
+    "name": "太平洋巨蛋"
+  },
+  "area-main-025": {
+    "description": "专业10",
+    "name": "埼玉公园竞技场"
+  },
+  "area-main-026": {
+    "description": "大师1",
+    "name": "有乐町大厅"
+  },
+  "area-main-027": {
+    "description": "大师2",
+    "name": "赤坂桥"
+  },
+  "area-main-028": {
+    "description": "大师3",
+    "name": "GREEN舞台涩谷"
+  },
+  "area-main-029": {
+    "description": "大师4",
+    "name": "舞滨竞技场"
+  },
+  "area-main-030": {
+    "description": "大师5",
+    "name": "市民大厅大宫"
+  },
+  "area-main-031": {
+    "description": "大师6",
+    "name": "上越文化会馆"
+  },
+  "area-main-032": {
+    "description": "大师7",
+    "name": "东京国际剧场"
+  },
+  "area-main-033": {
+    "description": "大师8",
+    "name": "横滨中央大厅"
+  },
+  "area-main-034": {
+    "description": "大师9",
+    "name": "日本传统馆"
+  },
+  "area-main-035": {
+    "description": "大师10",
+    "name": "大阪国际大厅"
+  },
+  "area-main-036": {
+    "description": "大师11",
+    "name": "太平洋巨蛋"
+  },
+  "area-main-037": {
+    "description": "大师12",
+    "name": "神户港湾竞技场"
+  },
+  "area-main-038": {
+    "description": "大师13",
+    "name": "埼玉公园竞技场"
+  },
+  "area-main-039": {
+    "description": "大师14",
+    "name": "福冈绿色巨蛋"
+  },
+  "area-main-040": {
+    "description": "大师15",
+    "name": "大分体育巨蛋"
+  },
+  "area-main-041": {
+    "description": "大师16",
+    "name": "大阪WING体育场"
+  },
+  "area-main-042": {
+    "description": "大师17",
+    "name": "名古屋蓝色巨蛋"
+  },
+  "area-main-043": {
+    "description": "大师18",
+    "name": "纪元体育场"
+  },
+  "area-main-044": {
+    "description": "大师19",
+    "name": "代代木国际竞技场"
+  },
+  "area-main-045": {
+    "description": "大师20",
+    "name": "横滨花园大厅"
+  },
+  "area-main-046": {
+    "description": "大师21",
+    "name": "神户港湾竞技场"
+  },
+  "area-main-047": {
+    "description": "大师22",
+    "name": "大分体育巨蛋"
+  },
+  "area-main-048": {
+    "description": "大师23",
+    "name": "国立纪念竞技场"
+  },
+  "area-main-049": {
+    "description": "大师24",
+    "name": "札幌城市巨蛋"
+  },
+  "area-main-050": {
+    "description": "大师25",
+    "name": "前桥玻璃巨蛋"
+  },
+  "area-main-051": {
+    "description": "大师26",
+    "name": "埼玉公园竞技场"
+  },
+  "area-main-052": {
+    "description": "大师27",
+    "name": "幕张WAVE"
+  },
+  "area-main-053": {
+    "description": "大师28",
+    "name": "名古屋蓝色巨蛋"
+  },
+  "area-main-054": {
+    "description": "大师29",
+    "name": "纪元体育场"
+  },
+  "area-main-055": {
+    "description": "大师30",
+    "name": "新东京巨蛋"
+  },
+  "area-main-056": {
+    "description": "大师31",
+    "name": "大阪国际大厅"
+  },
+  "area-main-057": {
+    "description": "大师32",
+    "name": "太平洋巨蛋"
+  },
+  "area-main-058": {
+    "description": "大师33",
+    "name": "福冈绿色巨蛋"
+  },
+  "area-main-059": {
+    "description": "大师34",
+    "name": "大阪WING体育场"
+  },
+  "area-main-060": {
+    "description": "大师35",
+    "name": "调布大体育场"
+  },
+  "area-main-061": {
+    "description": "大师36",
+    "name": "新东京巨蛋"
+  },
+  "area-main-062": {
+    "description": "大师37",
+    "name": "神户港湾竞技场"
+  },
+  "area-main-063": {
+    "description": "大师38",
+    "name": "大分体育巨蛋"
+  },
+  "area-main-064": {
+    "description": "大师39",
+    "name": "国立纪念竞技场"
+  },
+  "area-main-065": {
+    "description": "大师40",
+    "name": "札幌城市巨蛋"
+  },
+  "area-main-066": {
+    "description": "大师41",
+    "name": "国际巨蛋大阪"
+  },
+  "area-main-067": {
+    "description": "大师42",
+    "name": "横滨天空体育场"
+  },
+  "area-main-068": {
+    "description": "大师43",
+    "name": "公园竞技场武藏野"
+  },
+  "area-main-069": {
+    "description": "大师44",
+    "name": "大阪国际大厅"
+  },
+  "area-main-070": {
+    "description": "大师45",
+    "name": "神户港湾竞技场"
+  },
+  "area-main-071": {
+    "description": "大师46",
+    "name": "大分体育巨蛋"
+  },
+  "area-main-072": {
+    "description": "大师47",
+    "name": "大阪WING体育场"
+  },
+  "area-main-073": {
+    "description": "大师48",
+    "name": "调布大体育场"
+  },
+  "area-main-074": {
+    "description": "大师49",
+    "name": "新东京巨蛋"
+  },
+  "area-main-075": {
+    "description": "大师50",
+    "name": "横滨天空体育场"
+  },
+  "area-main-076": {
+    "description": "大师51",
+    "name": "代代木国际竞技场"
+  },
+  "area-main-077": {
+    "description": "大师52",
+    "name": "横滨花园大厅"
+  },
+  "area-main-078": {
+    "description": "大师53",
+    "name": "埼玉公园竞技场"
+  },
+  "area-main-079": {
+    "description": "大师54",
+    "name": "幕张WAVE"
+  },
+  "area-main-080": {
+    "description": "大师55",
+    "name": "国立纪念竞技场"
+  },
+  "area-main-081": {
+    "description": "大师56",
+    "name": "纪元体育场"
+  },
+  "area-main-082": {
+    "description": "大师57",
+    "name": "国际巨蛋大阪"
+  },
+  "area-main-083": {
+    "description": "大师58",
+    "name": "横滨天空体育场"
+  },
+  "area-main-084": {
+    "description": "世界1",
+    "name": "代代木国际竞技场"
+  },
+  "area-main-085": {
+    "description": "世界2",
+    "name": "横滨花园大厅"
+  },
+  "area-main-086": {
+    "description": "世界3",
+    "name": "幕张WAVE"
+  },
+  "area-main-087": {
+    "description": "世界4",
+    "name": "国立纪念竞技场"
+  },
+  "area-main-088": {
+    "description": "世界5",
+    "name": "纪元体育场"
+  },
+  "area-main-089": {
+    "description": "世界6",
+    "name": "横滨天空体育场"
+  },
+  "area-main-090": {
+    "description": "世界7",
+    "name": "代代木国际竞技场"
+  },
+  "area-main-091": {
+    "description": "世界8",
+    "name": "横滨花园大厅"
+  },
+  "area-main-092": {
+    "description": "世界9",
+    "name": "幕张WAVE"
+  },
+  "area-main-093": {
+    "description": "世界10",
+    "name": "国立纪念竞技场"
+  },
+  "area-main-094": {
+    "description": "世界11",
+    "name": "纪元体育场"
+  },
+  "area-main-095": {
+    "description": "世界12",
+    "name": "横滨天空体育场"
+  },
+  "area-main-096": {
+    "description": "世界13",
+    "name": "新东京巨蛋"
+  },
+  "area-main-097": {
+    "description": "世界14",
+    "name": "国际巨蛋大阪"
+  },
+  "area-main-098": {
+    "description": "世界15",
+    "name": "横滨天空体育场"
+  },
+  "area-main-099": {
+    "description": "世界16",
+    "name": "新东京巨蛋"
+  },
+  "area-main-100": {
+    "description": "世界17",
+    "name": "国际巨蛋大阪"
+  },
+  "area-main-101": {
+    "description": "世界18",
+    "name": "横滨天空体育场"
+  },
+  "area-main-102": {
+    "description": "世界19",
+    "name": "新东京巨蛋"
+  },
+  "area-main-103": {
+    "description": "世界20",
+    "name": "国际巨蛋大阪"
+  },
+  "area-main-104": {
+    "description": "世界21",
+    "name": "横滨天空体育场"
+  },
+  "area-main-105": {
+    "description": "世界22",
+    "name": "新东京巨蛋"
+  },
+  "area-main-106": {
+    "description": "世界23",
+    "name": "国际巨蛋大阪"
+  },
+  "area-main-107": {
+    "description": "世界24",
+    "name": "横滨天空体育场"
+  },
+  "area-main-108": {
+    "description": "世界25",
+    "name": "新东京巨蛋"
+  },
+  "area-main-109": {
+    "description": "世界26",
+    "name": "国际巨蛋大阪"
+  },
+  "area-main-110": {
+    "description": "世界27",
+    "name": "横滨天空体育场"
+  },
+  "area-main-111": {
+    "description": "世界28",
+    "name": "新东京巨蛋"
+  },
+  "area-main-112": {
+    "description": "世界29",
+    "name": "国际巨蛋大阪"
+  },
+  "area-main-113": {
+    "description": "世界30",
+    "name": "横滨天空体育场"
+  },
+  "area-main-114": {
+    "description": "世界31",
+    "name": "新东京巨蛋"
+  },
+  "area-main-115": {
+    "description": "世界32",
+    "name": "国际巨蛋大阪"
+  },
+  "area-main-116": {
+    "description": "世界33",
+    "name": "横滨天空体育场"
+  },
+  "area-main-117": {
+    "description": "世界34",
+    "name": "新东京巨蛋"
+  },
+  "area-main-118": {
+    "description": "世界35",
+    "name": "国际巨蛋大阪"
+  },
+  "area-main-119": {
+    "description": "世界36",
+    "name": "横滨天空体育场"
+  },
+  "area-main-120": {
+    "description": "世界37",
+    "name": "新东京巨蛋"
+  },
+  "area-main-121": {
+    "description": "世界38",
+    "name": "国际巨蛋大阪"
+  },
+  "area-main-122": {
+    "description": "世界39",
+    "name": "横滨天空体育场"
+  },
+  "area-main-123": {
+    "description": "世界40",
+    "name": "新东京巨蛋"
+  },
+  "area-main-124": {
+    "description": "世界41",
+    "name": "国际巨蛋大阪"
+  },
+  "area-main-125": {
+    "description": "世界42",
+    "name": "横滨天空体育场"
+  },
+  "area-tower-001": {
+    "description": "VENUS塔",
+    "name": "VENUS塔"
+  },
+  "area-tutorial": {
+    "description": "教程",
+    "name": "Rapture涩谷"
+  }
+}

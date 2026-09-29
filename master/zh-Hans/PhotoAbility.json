@@ -1,0 +1,1498 @@
+{
+  "pab-active-skill-score-up_add-1": {
+    "description": "A技能分数以固定值上升",
+    "name": "A分数"
+  },
+  "pab-active-skill-score-up_add-2": {
+    "description": "A技能分数以固定值上升",
+    "name": "A分数"
+  },
+  "pab-active-skill-score-up_add-3": {
+    "description": "A技能分数以固定值上升",
+    "name": "A分数"
+  },
+  "pab-active-skill-score-up_add-4": {
+    "description": "A技能分数以固定值上升",
+    "name": "A分数"
+  },
+  "pab-active-skill-score-up_add-5": {
+    "description": "A技能分数以固定值上升",
+    "name": "A分数"
+  },
+  "pab-active-skill-score-up_multiply-1": {
+    "description": "A技能得分按比例上升",
+    "name": "A分数"
+  },
+  "pab-active-skill-score-up_multiply-2": {
+    "description": "A技能得分按比例上升",
+    "name": "A分数"
+  },
+  "pab-active-skill-score-up_multiply-3": {
+    "description": "A技能得分按比例上升",
+    "name": "A分数"
+  },
+  "pab-active-skill-score-up_multiply-4": {
+    "description": "A技能得分按比例上升",
+    "name": "A分数"
+  },
+  "pab-active-skill-score-up_multiply-5": {
+    "description": "A技能得分按比例上升",
+    "name": "A分数"
+  },
+  "pab-active-skill-score-up_multiply_distribution-4": {
+    "description": "A技能得分按比例上升",
+    "name": "A分数"
+  },
+  "pab-active-skill-score-up_multiply_distribution-5": {
+    "description": "A技能得分按比例上升",
+    "name": "A分数"
+  },
+  "pab-active_skill_score_multiply_recipe-3": {
+    "description": "A技能得分按比例上升",
+    "name": "A分数"
+  },
+  "pab-active_skill_score_multiply_recipe-4": {
+    "description": "A技能得分按比例上升",
+    "name": "A分数"
+  },
+  "pab-active_skill_score_multiply_recipe-5": {
+    "description": "A技能得分按比例上升",
+    "name": "A分数"
+  },
+  "pab-affect01_strength_effect_count_increase-skill_dance_boost_recipe_distribution-5": {
+    "description": "赋予的舞蹈提升效果延长{0}",
+    "name": "赋予・舞蹈提升延长"
+  },
+  "pab-affect01_strength_effect_count_increase-skill_success_rate_up_recipe_distribution-5": {
+    "description": "赋予的技能成功率上升效果延长{0}",
+    "name": "赋予・成功率延长"
+  },
+  "pab-affect_strength_effect_count_increase-active_score_multiplier_add_recipe_distribution-5": {
+    "description": "赋予的A技能得分追加效果延长{0}",
+    "name": "赋予・A得分追加效果延长"
+  },
+  "pab-affect_strength_effect_count_increase-active_skill_score_up_recipe_distribution-5": {
+    "description": "赋予的A技能得分上升效果延长{0}",
+    "name": "赋予・A得分延长"
+  },
+  "pab-affect_strength_effect_count_increase-audience_amount_increase_recipe_distribution-5": {
+    "description": "造成的集目效果延长{0}",
+    "name": "赋予・集目延长"
+  },
+  "pab-affect_strength_effect_count_increase-beat_score_up_recipe_distribution-5": {
+    "description": "赋予的节拍得分上升效果延长{0}",
+    "name": "赋予・节拍分数延长"
+  },
+  "pab-affect_strength_effect_count_increase-combo_score_up_recipe_distribution-5": {
+    "description": "将赋予的连击得分提升效果延长{0}",
+    "name": "与・连击分数提升延长"
+  },
+  "pab-affect_strength_effect_count_increase-critical_rate_up-cd-technique": {
+    "description": "<仅限增益手类型>\n赋予的暴击率上升效果延长{0}",
+    "name": "与・暴击率延长"
+  },
+  "pab-affect_strength_effect_count_increase-critical_rate_up_recipe_distribution-5-cd-technique": {
+    "description": "<仅限增益类型> 将赋予的暴击率提升效果延长{0}",
+    "name": "与・暴击率延长"
+  },
+  "pab-affect_strength_effect_count_increase-dance_up_recipe-001": {
+    "description": "赋予的舞蹈上升效果延长{0}",
+    "name": "延长与・Da"
+  },
+  "pab-affect_strength_effect_count_increase-dance_up_recipe_distribution-5": {
+    "description": "赋予的舞蹈上升效果延长{0}",
+    "name": "延长与・Da"
+  },
+  "pab-affect_strength_effect_count_increase-score_up_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助类型> 将赋予的得分提升效果延长{0}",
+    "name": "与・分数延长"
+  },
+  "pab-affect_strength_effect_count_increase-skill_success_rate_up_recipe_distribution-5": {
+    "description": "使受到技能成功率提升效果的持续时间延长{0}",
+    "name": "被・成功率延长"
+  },
+  "pab-affect_strength_effect_count_increase-skill_success_rate_up_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助类型>\n将赋予的技能成功率提升效果延长{0}",
+    "name": "与・技能成功率延长"
+  },
+  "pab-affect_strength_effect_count_increase-stamina_consumption_reduction_recipe_distribution-5": {
+    "description": "将赋予的消耗体力降低效果的持续时间延长{0}",
+    "name": "与・消耗体力降低延长"
+  },
+  "pab-affect_strength_effect_count_increase-stamina_continuous_recovery_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助类型> \n将赋予的体力持续回复效果延长{0}",
+    "name": "与・体力持续回复延长"
+  },
+  "pab-affect_strength_effect_count_increase-tension_up_recipe_distribution-5": {
+    "description": "赋予的Tension UP效果延长{0}",
+    "name": "与・情绪延长"
+  },
+  "pab-affect_strength_effect_count_increase-tension_up_recipe_distribution-5-cd-technique": {
+    "description": "<仅限增益类型>\n将赋予的士气UP效果延长{0}",
+    "name": "与・情绪延长"
+  },
+  "pab-affect_strength_effect_count_increase-visual_boost_recipe_distribution-5": {
+    "description": "延长赋予的视觉提升效果{0}",
+    "name": "赋予・视觉提升延长"
+  },
+  "pab-affect_strength_effect_count_increase-visual_up_recipe-001": {
+    "description": "将赋予的视觉提升效果延长{0}",
+    "name": "赋予・Vi延长"
+  },
+  "pab-affect_strength_effect_count_increase-visual_up_recipe_distribution-5": {
+    "description": "将赋予的视觉提升效果延长{0}",
+    "name": "赋予・Vi延长"
+  },
+  "pab-affect_strength_effect_count_increase-vocal_boost": {
+    "description": "将赋予的歌唱提升效果延长{0}",
+    "name": "赋予・歌唱提升延长"
+  },
+  "pab-affect_strength_effect_count_increase-vocal_up_recipe-001": {
+    "description": "将赋予的歌唱提升效果延长{0}",
+    "name": "与・Vo延长"
+  },
+  "pab-affect_strength_effect_count_increase-vocal_up_recipe_distribution-5": {
+    "description": "将赋予的歌唱提升效果延长{0}",
+    "name": "与・Vo延长"
+  },
+  "pab-affect_strength_effect_value_increase-beat_score_up_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助类型>\n将赋予的节拍得分提升效果增强{0}个阶段",
+    "name": "与・节拍分数增强"
+  },
+  "pab-affect_strength_effect_value_increase-critical_bonus_permil_up_recipe_distribution-5": {
+    "description": "延长赋予的暴击系数上升效果{0}",
+    "name": "与・暴击系数延长"
+  },
+  "pab-affect_strength_effect_value_increase-critical_bonus_permil_up_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助类型>将赋予的暴击系数提升效果增强{0}个阶段",
+    "name": "与・暴击系数增强"
+  },
+  "pab-affect_strength_effect_value_increase-dance_boost_recipe_distribution-5-cd-technique": {
+    "description": "<仅限增益类型>\n 将赋予的舞蹈增益效果增强{0}个阶段",
+    "name": "与・舞蹈增益强化"
+  },
+  "pab-affect_strength_effect_value_increase-dance_up_recipe_distribution-5-cd-technique": {
+    "description": "<仅限增益类型>\n将赋予的舞蹈提升效果增强{0}个阶段",
+    "name": "与・Da增强"
+  },
+  "pab-affect_strength_effect_value_increase-score_up_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助类型> \n将赋予的得分提升效果增强{0}个阶段",
+    "name": "与・分数UP增强"
+  },
+  "pab-affect_strength_effect_value_increase-skill_success_rate_up_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助类型>\n 将赋予的技能成功率提升效果增强{0}个阶段",
+    "name": "与・技能成功率增强"
+  },
+  "pab-affect_strength_effect_value_increase-stamina_consumption_reduction_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助类型>\n将赋予的消耗体力降低效果增强{0}个阶段",
+    "name": "与・消费体力减增强化"
+  },
+  "pab-affect_strength_effect_value_increase-stamina_continuous_recovery_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助类型>\n使赋予的体力持续回复效果增强{0}个阶段",
+    "name": "与・星持续回复增强"
+  },
+  "pab-affect_strength_effect_value_increase-tension_up_recipe_distribution-5-cd-technique": {
+    "description": "<仅限增益类型> 使赋予的干劲UP效果增强{0}个阶段",
+    "name": "情绪・增强"
+  },
+  "pab-affect_strength_effect_value_increase-visual_boost_recipe_distribution-5-cd-technique": {
+    "description": "<仅限增益类型>\n 使赋予的视觉提升效果增强{0}个阶段",
+    "name": "与・视觉加成强化"
+  },
+  "pab-affect_strength_effect_value_increase-vocal_boost_recipe_distribution-5-cd-technique": {
+    "description": "<仅限增益类型>\n使赋予的歌唱提升效果增强{0}个阶段",
+    "name": "与・声乐提升强化"
+  },
+  "pab-affect_strength_effect_value_increase-vocal_up_recipe_distribution-5-cd-technique": {
+    "description": "<仅限增益类型>\n使赋予的歌唱上升效果增强{0}个阶段",
+    "name": "与・Vo增强"
+  },
+  "pab-beat-score-up_add-1": {
+    "description": "节拍分数以固定值上升",
+    "name": "节拍分数"
+  },
+  "pab-beat-score-up_add-2": {
+    "description": "节拍分数以固定值上升",
+    "name": "节拍分数"
+  },
+  "pab-beat-score-up_add-3": {
+    "description": "节拍分数以固定值上升",
+    "name": "节拍分数"
+  },
+  "pab-beat-score-up_add-4": {
+    "description": "节拍分数以固定值上升",
+    "name": "节拍分数"
+  },
+  "pab-beat-score-up_add-5": {
+    "description": "节拍分数以固定值上升",
+    "name": "节拍分数"
+  },
+  "pab-beat-score-up_multiply-1": {
+    "description": "节拍分数按比例上升",
+    "name": "节拍分数"
+  },
+  "pab-beat-score-up_multiply-2": {
+    "description": "节拍分数按比例上升",
+    "name": "节拍分数"
+  },
+  "pab-beat-score-up_multiply-3": {
+    "description": "节拍分数按比例上升",
+    "name": "节拍分数"
+  },
+  "pab-beat-score-up_multiply-4": {
+    "description": "节拍分数按比例上升",
+    "name": "节拍分数"
+  },
+  "pab-beat-score-up_multiply-5": {
+    "description": "节拍分数按比例上升",
+    "name": "节拍分数"
+  },
+  "pab-beat-score-up_multiply_distribution-5": {
+    "description": "节拍分数按比例上升",
+    "name": "节拍分数"
+  },
+  "pab-beat_score_multiply_recipe-3": {
+    "description": "节拍分数按比例上升",
+    "name": "节拍分数"
+  },
+  "pab-beat_score_multiply_recipe-4": {
+    "description": "节拍分数按比例上升",
+    "name": "节拍分数"
+  },
+  "pab-beat_score_multiply_recipe-5": {
+    "description": "节拍分数按比例上升",
+    "name": "节拍分数"
+  },
+  "pab-cool_time_reduction_skill_1_recipe-001-cd-support": {
+    "description": "<仅限辅助类型>\n使技能1的CT缩短{0}",
+    "name": "CT特写1st"
+  },
+  "pab-cool_time_reduction_skill_2_recipe-001-cd-appeal": {
+    "description": "<仅限得分类型>\n使技能2的CT缩短{0}",
+    "name": "CT特写2nd"
+  },
+  "pab-cool_time_reduction_skill_3_recipe-001-cd-technique": {
+    "description": "<仅限增益类型>\n使技能3的CT缩短{0}",
+    "name": "CT特写3rd"
+  },
+  "pab-critical-score-up_multiply-1": {
+    "description": "暴击得分按比例上升",
+    "name": "暴击分数"
+  },
+  "pab-critical-score-up_multiply-2": {
+    "description": "暴击得分按比例上升",
+    "name": "暴击分数"
+  },
+  "pab-critical-score-up_multiply-3": {
+    "description": "暴击得分按比例上升",
+    "name": "暴击分数"
+  },
+  "pab-critical-score-up_multiply-4": {
+    "description": "暴击得分按比例上升",
+    "name": "暴击分数"
+  },
+  "pab-critical-score-up_multiply-5": {
+    "description": "暴击得分按比例上升",
+    "name": "暴击分数"
+  },
+  "pab-critical-score-up_multiply_distribution-5": {
+    "description": "暴击得分按比例上升",
+    "name": "暴击分数"
+  },
+  "pab-critical_score_multiply_recipe-3": {
+    "description": "暴击得分按比例上升",
+    "name": "暴击分数"
+  },
+  "pab-critical_score_multiply_recipe-4": {
+    "description": "暴击得分按比例上升",
+    "name": "暴击分数"
+  },
+  "pab-critical_score_multiply_recipe-5": {
+    "description": "暴击得分按比例上升",
+    "name": "暴击分数"
+  },
+  "pab-critical_score_multiply_recipe-5-pa-target-center-cd-support": {
+    "description": "<仅限辅助类型>\n中心的暴击得分按比例上升",
+    "name": "中心暴击分数"
+  },
+  "pab-dance_add-1": {
+    "description": "舞蹈以固定值上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_add-2": {
+    "description": "舞蹈以固定值上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_add-3": {
+    "description": "舞蹈以固定值上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_add-4": {
+    "description": "舞蹈以固定值上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_add-5": {
+    "description": "舞蹈以固定值上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_add_recipe-3": {
+    "description": "舞蹈以固定值上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_add_recipe-4": {
+    "description": "舞蹈以固定值上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_add_recipe-5": {
+    "description": "舞蹈以固定值上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_add_recipe_distribution-5": {
+    "description": "舞蹈以固定值上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_multiply-1": {
+    "description": "舞蹈相对于偶像参数按比例上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_multiply-2": {
+    "description": "舞蹈相对于偶像参数按比例上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_multiply-3": {
+    "description": "舞蹈相对于偶像参数按比例上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_multiply-4": {
+    "description": "舞蹈相对于偶像参数按比例上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_multiply-5": {
+    "description": "舞蹈相对于偶像参数按比例上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_multiply_distribution-4": {
+    "description": "舞蹈相对于偶像参数按比例上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_multiply_distribution-5": {
+    "description": "舞蹈相对于偶像参数按比例上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_multiply_recipe-3": {
+    "description": "舞蹈相对于偶像参数按比例上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_multiply_recipe-4": {
+    "description": "舞蹈相对于偶像参数按比例上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_multiply_recipe-5": {
+    "description": "舞蹈相对于偶像参数按比例上升",
+    "name": "舞蹈"
+  },
+  "pab-dance_multiply_recipe-5-pa-target-neighbor-cd-technique": {
+    "description": "<仅限增益类型>\n相邻偶像的舞蹈相对于偶像参数按比例上升",
+    "name": "邻接舞蹈"
+  },
+  "pab-mental_add-1": {
+    "description": "精神以固定值上升",
+    "name": "精神"
+  },
+  "pab-mental_add-2": {
+    "description": "精神以固定值上升",
+    "name": "精神"
+  },
+  "pab-mental_add-3": {
+    "description": "精神以固定值上升",
+    "name": "精神"
+  },
+  "pab-mental_add-4": {
+    "description": "精神以固定值上升",
+    "name": "精神"
+  },
+  "pab-mental_add-5": {
+    "description": "精神以固定值上升",
+    "name": "精神"
+  },
+  "pab-mental_add_recipe-3": {
+    "description": "精神以固定值上升",
+    "name": "精神"
+  },
+  "pab-mental_add_recipe-4": {
+    "description": "精神以固定值上升",
+    "name": "精神"
+  },
+  "pab-mental_add_recipe-5": {
+    "description": "精神以固定值上升",
+    "name": "精神"
+  },
+  "pab-mental_add_recipe_distribution-5": {
+    "description": "精神以固定值上升",
+    "name": "精神"
+  },
+  "pab-passive-skill_sk-phot-ai-idol-00": {
+    "description": "处于舞蹈上升状态时，自身获得A技能分数上升效果",
+    "name": "A技能UP技能"
+  },
+  "pab-passive-skill_sk-phot-ai-idol-01": {
+    "description": "当有人处于暴击率上升状态时，对1名对象赋予暴击系数上升效果",
+    "name": "暴击技能"
+  },
+  "pab-passive-skill_sk-phot-ai-idol-02": {
+    "description": "对1名得分手类型赋予分数上升效果",
+    "name": "分数UP技能"
+  },
+  "pab-passive-skill_sk-phot-aoi-idol-00": {
+    "description": "对2名得分手类型赋予分数上升效果",
+    "name": "分数UP技能"
+  },
+  "pab-passive-skill_sk-phot-aoi-idol-01": {
+    "description": "50连击以上时，自身获得A技能分数上升效果",
+    "name": "A技能UP技能"
+  },
+  "pab-passive-skill_sk-phot-aoi-idol-02": {
+    "description": "对舞蹈最高的1人赋予节拍分数上升效果",
+    "name": "节拍UP技能"
+  },
+  "pab-passive-skill_sk-phot-bd-5-01": {
+    "description": "体力60%以上时，自身获得歌唱提升效果",
+    "name": "歌唱UP技能"
+  },
+  "pab-passive-skill_sk-phot-bd-5-02": {
+    "description": "体力60%以上时，自身获得舞蹈提升效果",
+    "name": "舞蹈UP技能"
+  },
+  "pab-passive-skill_sk-phot-bd-5-03": {
+    "description": "体力60%以上时，自身获得视觉提升效果",
+    "name": "视觉UP技能"
+  },
+  "pab-passive-skill_sk-phot-chs-idol-00": {
+    "description": "有人处于集目状态时，对1名目标赋予视觉提升效果",
+    "name": "视觉UP技能"
+  },
+  "pab-passive-skill_sk-phot-chs-idol-01": {
+    "description": "体力50%以下时，对中心赋予歌唱提升效果",
+    "name": "歌唱UP技能"
+  },
+  "pab-passive-skill_sk-phot-chs-idol-02": {
+    "description": "节拍时，有概率对2名得分手类型赋予视觉提升效果",
+    "name": "视觉UP技能"
+  },
+  "pab-passive-skill_sk-phot-clb-mission-2304-01": {
+    "description": "游玩Don't say \"lazy\"时，对全员赋予视觉提升效果",
+    "name": "轻音少女！曲目限定技能1"
+  },
+  "pab-passive-skill_sk-phot-clb-mission-2304-02": {
+    "description": "游玩Don't say \"lazy\"时，对全员赋予舞蹈提升效果",
+    "name": "轻音少女！歌曲限定技能2"
+  },
+  "pab-passive-skill_sk-phot-clb-mission-2304-03": {
+    "description": "游玩Don't say \"lazy\"时，全员技能成功率上升效果",
+    "name": "轻音少女！歌曲限定技能3"
+  },
+  "pab-passive-skill_sk-phot-clb-mission-2304-04": {
+    "description": "游玩Don't say \"lazy\"时，全员歌唱力上升效果",
+    "name": "轻音少女！歌曲限定技能4"
+  },
+  "pab-passive-skill_sk-phot-clb-mission-2304-05": {
+    "description": "游玩Don't say \"lazy\"时，全员得分上升效果",
+    "name": "轻音少女！歌曲限定技能5"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-01": {
+    "description": "体力60%以上时，自身A技能得分上升效果",
+    "name": "A得分UP技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-02": {
+    "description": "100连击以上时，自身得分上升效果（1次）",
+    "name": "分数UP技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-03": {
+    "description": "有人处于集目效果时，延长1名对象的强化效果",
+    "name": "强化效果延长技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-04": {
+    "description": "<仅限得分类型>\n自身获得A技能得分上升效果",
+    "name": "A得分UP技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-05": {
+    "description": "当有人提升暴击率时，自身获得分数提升效果（1次）",
+    "name": "分数UP技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-06": {
+    "description": "自身耐力在70%以下时，恢复耐力（1次）",
+    "name": "耐力恢复技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-07": {
+    "description": "<仅限得分类型>\n50连击以上时\n自身获得暴击系数上升效果(1次)",
+    "name": "暴击技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-08": {
+    "description": "自身耐力在60%以下时，自身获得A技能得分提升效果",
+    "name": "A得分UP技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-09": {
+    "description": "自身处于A技能得分提升状态时，自身获得得分提升效果(1次)",
+    "name": "分数UP技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-10": {
+    "description": "100连击以上时，获得分数&自身强化效果增强(1次)",
+    "name": "强化效果增强技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-11": {
+    "description": "100连击以上时 自身暴击率上升效果(1次)",
+    "name": "暴击率技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-12": {
+    "description": "当某人处于暴击系数上升状态时，延长自身的强化效果",
+    "name": "强化效果延长技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-13": {
+    "description": "<仅限辅助类型>\n50连击以上时\n1名得分手暴击系数上升效果（1次）",
+    "name": "暴击技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-14": {
+    "description": "当某人暴击系数上升时，自身获得分数上升效果（1次）",
+    "name": "分数UP技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-15": {
+    "description": "<仅限增益类型>\n100连击以上时\n得分获取&1名得分手类型强化效果增强（1次）",
+    "name": "强化效果增强技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-16": {
+    "description": "100连击以上时，自身得分上升效果（1次）",
+    "name": "分数UP技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-17": {
+    "description": "<仅限增益类型>当某人处于得分上升状态时，1名得分手类型强化效果延长",
+    "name": "强化效果延长技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-18": {
+    "description": "体力50%以下时，自身的分数提升效果&体力恢复(1次)",
+    "name": "分数UP+体力回复技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-19": {
+    "description": "<仅限辅助类型>当某人处于暴击系数上升状态时，1名得分手暴击系数上升效果",
+    "name": "成功率提升技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-20": {
+    "description": "达到100连击以上时，自身获得暴击系数提升效果（1次）",
+    "name": "暴击技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-21": {
+    "description": "处于暴击率提升状态时，自身获得A技能得分提升效果",
+    "name": "A得分UP技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-22": {
+    "description": "当某人暴击系数提升时，自身获得暴击率提升效果（1次）",
+    "name": "暴击率技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-23": {
+    "description": "<仅限辅助类型>当某人处于技能成功率上升状态时，得分手类型暴击系数上升效果（1次）",
+    "name": "暴击技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-24": {
+    "description": "当某人处于暴击率提升状态时，获得分数&自身强化效果增强(1次)",
+    "name": "强化效果增强技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-24-0524-prem-01": {
+    "description": "<仅限辅助类型>80连击以上时，得分获取&相邻偶像暴击系数上升效果（1次）",
+    "name": "暴击技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-24-0624-prem-01": {
+    "description": "50连击以上时，获得分数&自身强化效果增强(1次)",
+    "name": "强化效果增强技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-24-0724-prem-01": {
+    "description": "<仅限辅助类型> 1名得分手类型得分上升效果",
+    "name": "分数UP技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-24-0824-prem-01": {
+    "description": "自身的分数提升效果＆体力恢复(1次)",
+    "name": "分数UP+体力回复技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-24-0924-prem-01": {
+    "description": "获得分数&自身的技能成功率提升效果(1次)",
+    "name": "成功率提升技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-24-1224-prem-01": {
+    "description": "获得分数&自身的技能成功率提升效果(1次)",
+    "name": "成功率提升技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-25": {
+    "description": "当有人处于技能成功状态时，自身获得A技能分数提升效果",
+    "name": "A得分UP技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-25-0124-prem-01": {
+    "description": "<仅限辅助类型> 80连击以上时 1名得分手暴击系数上升效果（1次）",
+    "name": "暴击技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-25-0324-prem-01": {
+    "description": "当某人处于技能成功状态时，延长对象的强化效果",
+    "name": "强化效果延长技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-25-0624-prem-01": {
+    "description": "当某人处于集目状态时，为对象1人恢复体力",
+    "name": "耐力恢复技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-25-1224-prem-01": {
+    "description": "80连击以上时，获得分数&延长自身的强化效果",
+    "name": "得分获取技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-5-26-0624-prem-01": {
+    "description": "<仅限辅助类型> 100连击以上时 1名得分手得分上升效果&体力回复（1次）",
+    "name": "分数UP+体力回复技能"
+  },
+  "pab-passive-skill_sk-phot-exchange-pvp-5-01": {
+    "description": "得分获得",
+    "name": "得分获取技能"
+  },
+  "pab-passive-skill_sk-phot-hrk-idol-00": {
+    "description": "自身Vocal提升时，恢复体力",
+    "name": "耐力恢复技能"
+  },
+  "pab-passive-skill_sk-phot-hrk-idol-01": {
+    "description": "某人发动SP技能前，使1名对象暴击率提升(2次)",
+    "name": "暴击率技能"
+  },
+  "pab-passive-skill_sk-phot-hrk-idol-02": {
+    "description": "Dance提升时，分数提升效果",
+    "name": "分数UP技能"
+  },
+  "pab-passive-skill_sk-phot-kkr-idol-00": {
+    "description": "自身视觉提升效果",
+    "name": "视觉UP技能"
+  },
+  "pab-passive-skill_sk-phot-kkr-idol-01": {
+    "description": "体力30%以下时，得分获得+体力消耗量降低",
+    "name": "得分获取技能"
+  },
+  "pab-passive-skill_sk-phot-kkr-idol-02": {
+    "description": "给中心角色暴击系数提升效果",
+    "name": "暴击技能"
+  },
+  "pab-passive-skill_sk-phot-ktn-idol-00": {
+    "description": "节拍时，概率提升自身暴击系数",
+    "name": "暴击技能"
+  },
+  "pab-passive-skill_sk-phot-ktn-idol-01": {
+    "description": "处于暴击率提升状态时，自身获得视觉提升效果（2次）",
+    "name": "视觉技能"
+  },
+  "pab-passive-skill_sk-phot-ktn-idol-02": {
+    "description": "集目状态时，自身获得分数上升效果（2次）",
+    "name": "分数UP技能"
+  },
+  "pab-passive-skill_sk-phot-mei-idol-00": {
+    "description": "分数上升状态时，获得分数",
+    "name": "得分获取技能"
+  },
+  "pab-passive-skill_sk-phot-mei-idol-01": {
+    "description": "自身耐力低于70%时，恢复耐力",
+    "name": "耐力恢复技能"
+  },
+  "pab-passive-skill_sk-phot-mei-idol-02": {
+    "description": "50连击以上时，获得分数 并赋予自身节拍分数提升效果",
+    "name": "得分获取技能"
+  },
+  "pab-passive-skill_sk-phot-ngs-idol-00": {
+    "description": "节拍时，有概率获得分数 并赋予自身耐力消耗降低效果",
+    "name": "得分获取技能"
+  },
+  "pab-passive-skill_sk-phot-ngs-idol-01": {
+    "description": "节拍时，有概率恢复耐力",
+    "name": "耐力恢复技能"
+  },
+  "pab-passive-skill_sk-phot-ngs-idol-02": {
+    "description": "暴击发动时，赋予自身声乐提升效果",
+    "name": "歌唱UP技能"
+  },
+  "pab-passive-skill_sk-phot-rei-idol-00": {
+    "description": "节拍时，有概率赋予自身暴击率提升效果（2次）",
+    "name": "暴击率技能"
+  },
+  "pab-passive-skill_sk-phot-rei-idol-01": {
+    "description": "自身处于舞蹈提升状态时，赋予分数提升效果",
+    "name": "分数UP技能"
+  },
+  "pab-passive-skill_sk-phot-rei-idol-02": {
+    "description": "赋予耐力最低的1人舞蹈提升效果",
+    "name": "舞蹈UP技能"
+  },
+  "pab-passive-skill_sk-phot-release-login-5-01": {
+    "description": "达到100连击时，获得分数",
+    "name": "得分获取技能"
+  },
+  "pab-passive-skill_sk-phot-rio-idol-00": {
+    "description": "自身耐力在60%以上时，获得分数",
+    "name": "得分获取技能"
+  },
+  "pab-passive-skill_sk-phot-rio-idol-01": {
+    "description": "赋予舞蹈最高的3人暴击率提升效果",
+    "name": "暴击率技能"
+  },
+  "pab-passive-skill_sk-phot-rio-idol-02": {
+    "description": "赋予中心声乐提升效果",
+    "name": "歌唱UP技能"
+  },
+  "pab-passive-skill_sk-phot-rui-idol-00": {
+    "description": "中心位暴击率提升效果",
+    "name": "暴击率技能"
+  },
+  "pab-passive-skill_sk-phot-rui-idol-01": {
+    "description": "暴击时，有概率获得分数，并附加集目效果",
+    "name": "得分获取技能"
+  },
+  "pab-passive-skill_sk-phot-rui-idol-02": {
+    "description": "处于集目状态时，自身舞蹈提升效果",
+    "name": "舞蹈UP技能"
+  },
+  "pab-passive-skill_sk-phot-shop-5-02": {
+    "description": "得分获得",
+    "name": "得分获取技能"
+  },
+  "pab-passive-skill_sk-phot-ski-idol-00": {
+    "description": "某人发动SP技能前，对1名对象赋予舞蹈提升效果",
+    "name": "舞蹈UP技能"
+  },
+  "pab-passive-skill_sk-phot-ski-idol-01": {
+    "description": "暴击发生时，有概率恢复体力",
+    "name": "耐力恢复技能"
+  },
+  "pab-passive-skill_sk-phot-ski-idol-02": {
+    "description": "节拍时，有概率获得分数",
+    "name": "得分获取技能"
+  },
+  "pab-passive-skill_sk-phot-skr-idol-00": {
+    "description": "歌唱提升时，A技能分数提升效果",
+    "name": "A技能UP技能"
+  },
+  "pab-passive-skill_sk-phot-skr-idol-01": {
+    "description": "达到100连击时，获得分数",
+    "name": "得分获取技能"
+  },
+  "pab-passive-skill_sk-phot-skr-idol-02": {
+    "description": "处于暴击率提升状态时，自身舞蹈提升效果",
+    "name": "舞蹈UP技能"
+  },
+  "pab-passive-skill_sk-phot-smr-idol-00": {
+    "description": "体力80%以上时，A技能分数提升效果",
+    "name": "A技能UP技能"
+  },
+  "pab-passive-skill_sk-phot-smr-idol-01": {
+    "description": "体力30%以下时，恢复体力",
+    "name": "耐力恢复技能"
+  },
+  "pab-passive-skill_sk-phot-smr-idol-02": {
+    "description": "自身舞蹈提升效果",
+    "name": "舞蹈UP技能"
+  },
+  "pab-passive-skill_sk-phot-suz-idol-00": {
+    "description": "50连击以上时，自身暴击率提升效果",
+    "name": "暴击率技能"
+  },
+  "pab-passive-skill_sk-phot-suz-idol-01": {
+    "description": "自身剩余体力50%以下时获得分数，并降低CT",
+    "name": "得分获取技能"
+  },
+  "pab-passive-skill_sk-phot-suz-idol-02": {
+    "description": "节拍时，有概率使自身获得视觉上升效果",
+    "name": "视觉UP技能"
+  },
+  "pab-passive-skill_sk-phot-szk-idol-00": {
+    "description": "隐身状态时，使全员获得声乐上升效果",
+    "name": "歌唱UP技能"
+  },
+  "pab-passive-skill_sk-phot-szk-idol-01": {
+    "description": "暴击率上升时，使中心获得暴击系数上升效果",
+    "name": "暴击技能"
+  },
+  "pab-passive-skill_sk-phot-szk-idol-02": {
+    "description": "使体力最高的1人获得声乐上升效果",
+    "name": "歌唱UP技能"
+  },
+  "pab-passive-skill_sk-phot-yu-idol-00": {
+    "description": "当有人处于消耗体力降低状态时，对1名对象施加视觉提升效果",
+    "name": "视觉UP技能"
+  },
+  "pab-passive-skill_sk-phot-yu-idol-01": {
+    "description": "体力80%以上时，暴击系数提升效果",
+    "name": "暴击技能"
+  },
+  "pab-passive-skill_sk-phot-yu-idol-02": {
+    "description": "自身视觉提升效果",
+    "name": "视觉UP技能"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-001-cd-appeal": {
+    "description": "<仅限得分手类型> 自身处于主唱轨道时 自身获得情绪UP效果",
+    "name": "情绪高涨技能"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-002-cd-appeal": {
+    "description": "<仅限得分手类型> 自身处于舞蹈轨道时 自身获得暴击系数上升效果",
+    "name": "暴击技能"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-003-cd-appeal": {
+    "description": "<仅限得分手类型> 自身处于视觉轨道时 自身获得连击得分上升效果",
+    "name": "连击分数UP技能"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-004-cd-technique": {
+    "description": "<仅限增益类型>\n为1名歌唱类型成员附加歌唱提升效果",
+    "name": "Vo提升技能"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-005-cd-technique": {
+    "description": "<仅限增益类型>\n为1名舞蹈类型成员附加舞蹈提升效果",
+    "name": "Da提升技能"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-006-cd-technique": {
+    "description": "<仅限增益类型>\n为1名视觉类型成员附加视觉提升效果",
+    "name": "Vi提升技能"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-007-cd-support": {
+    "description": "<仅限辅助类型>\n为2名歌唱类型成员附加得分提升效果",
+    "name": "分数UP技能"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-008-cd-support": {
+    "description": "<仅限辅助类型>\n为3名舞蹈类型成员附加A技能得分提升效果",
+    "name": "A得分UP技能"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-009-cd-support": {
+    "description": "<仅限辅助类型>\n为5名视觉类型成员附加节拍得分提升效果",
+    "name": "节拍得分UP技能"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-010": {
+    "description": "获得分数，剩余体力越多效果越高",
+    "name": "获得技能-耐力多"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-011": {
+    "description": "获得分数，连击数越多效果越高",
+    "name": "获得技能-连击"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-012": {
+    "description": "获得分数，声乐提升状态层数越多效果越高",
+    "name": "获得技能-VoUP"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-013": {
+    "description": "获得分数，舞蹈提升状态层数越多效果越高",
+    "name": "获得技能-DaUP"
+  },
+  "pab-passive_skill-sk-phot_recipe-cmn-014": {
+    "description": "获得分数时，视觉提升状态的阶段数越多效果越高",
+    "name": "获得技能-ViUP"
+  },
+  "pab-passive_skill-sk-phot_recipe-exchange_photo_contest-22-0831-5-rare-001": {
+    "description": "被动技能",
+    "name": "被动技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-10_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助类型> 为5名歌唱类型成员附加节拍得分提升效果",
+    "name": "节拍得分UP技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-11_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分类型> 自身处于舞蹈轨道时，获得得分&为自身附加暴击系数提升效果",
+    "name": "暴击技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-12_recipe_distribution-5-cd-technique": {
+    "description": "<仅限增益类型> 自身处于视觉轨道时，增强1名视觉类型成员的强化效果",
+    "name": "强化效果增强技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-13_recipe_distribution-5-cd-technique": {
+    "description": "<仅限增益类型> 自身处于歌唱轨道时，增强1名歌唱类型成员的强化效果",
+    "name": "强化效果增强技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-14_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助类型> 为2名舞蹈类型成员附加得分提升效果",
+    "name": "分数UP技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-15_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分类型> 自身处于视觉轨道时，获得得分&为自身附加暴击系数提升效果",
+    "name": "暴击技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-16_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型> 自身在声乐轨道时，获得分数&自身暴击系数提升效果",
+    "name": "暴击技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-17_recipe_distribution-5-cd-technique": {
+    "description": "<仅限增益者类型> 自身在舞蹈轨道时，增强1名舞蹈类型的强化效果",
+    "name": "强化效果增强技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-18_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助者类型> 2名视觉类型获得分数提升效果",
+    "name": "分数UP技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-33_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助者类型>\n2名视觉类型获得A技能分数提升效果",
+    "name": "A得分UP技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-34_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助类型>\n为2名歌唱类型成员附加得分提升效果",
+    "name": "分数UP技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-35_recipe_distribution-5-cd-technique": {
+    "description": "<仅限增益类型>\n为1名舞蹈类型成员附加舞蹈提升效果",
+    "name": "Da提升技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-37_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型> 自身处于主唱轨道时 自身获得情绪UP效果",
+    "name": "情绪高涨技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-44_recipe_distribution-5-cd-technique": {
+    "description": "<仅限增益者类型>\n2名舞蹈类型的舞蹈提升效果",
+    "name": "舞蹈UP技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-4_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型> 自身在声乐轨道时，获得分数&自身暴击系数提升效果",
+    "name": "暴击技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-5_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助者类型> 5名舞蹈类型获得节拍分数提升效果",
+    "name": "分数UP技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-6_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助者类型> 2名视觉类型获得分数提升效果",
+    "name": "节拍UP技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-7_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型> 自身在声乐轨道时，自身获得分数提升效果",
+    "name": "分数UP技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-8_recipe_distribution-5-cd-technique": {
+    "description": "<仅限增益者类型> 自身在舞蹈轨道时，增强1名舞蹈类型的强化效果",
+    "name": "分数UP技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange-5-9_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助者类型> 5名视觉类型获得节拍分数提升效果",
+    "name": "节拍UP技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange_marathon-raid-23-0328-5-rare-001_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助者类型> 3名声乐类型获得A技能分数提升效果",
+    "name": "A得分UP技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange_race-23-0428-5-rare-001_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助者类型> 3名舞蹈类型获得A技能分数提升效果",
+    "name": "A得分UP技能"
+  },
+  "pab-passive_skill-sk-photo-recipe-exchange_race-23-1003-5-rare-001_recipe_distribution-5-cd-support": {
+    "description": "<仅限辅助者类型> 3名视觉类型获得A技能分数提升效果",
+    "name": "A得分UP技能"
+  },
+  "pab-received_strength_effect_count_increase-active_skill_score_up_recipe_distribution-5": {
+    "description": "使受到的A技能分数提升效果延长{0}",
+    "name": "被・A得分延长"
+  },
+  "pab-received_strength_effect_count_increase-active_skill_score_up_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型>受到的A技能分数提升效果延长{0}",
+    "name": "被・A得分延长"
+  },
+  "pab-received_strength_effect_count_increase-beat_score_up_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型>受到的节拍得分提升效果延长{0}",
+    "name": "被・节拍分数延长"
+  },
+  "pab-received_strength_effect_count_increase-combo_score_up_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型>\n受到的连击得分提升效果延长{0}",
+    "name": "被・连击分数延长"
+  },
+  "pab-received_strength_effect_count_increase-critical_bonus_permil_up_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型>\n受到的暴击系数提升效果延长{0}",
+    "name": "受击・暴击系数延长"
+  },
+  "pab-received_strength_effect_count_increase-critical_rate_up_recipe_distribution-5": {
+    "description": "受到的暴击率提升效果延长{0}",
+    "name": "被・暴击率延长"
+  },
+  "pab-received_strength_effect_count_increase-dance_boost_distribution-5": {
+    "description": "使受到的舞蹈提升效果延长{0}",
+    "name": "被・舞蹈提升延长"
+  },
+  "pab-received_strength_effect_count_increase-dance_up_recipe_distribution-5": {
+    "description": "使受到的舞蹈上升效果延长{0}",
+    "name": "被・Da延长"
+  },
+  "pab-received_strength_effect_count_increase-score_up_recipe_distribution-5": {
+    "description": "使受到的分数上升效果延长{0}",
+    "name": "被・分数延长"
+  },
+  "pab-received_strength_effect_count_increase-stamina_consumption_reduction_recipe_distribution-5": {
+    "description": "受到的消耗体力降低效果延长{0}",
+    "name": "被・耗体减延延长"
+  },
+  "pab-received_strength_effect_count_increase-tension_up_recipe_distribution-5": {
+    "description": "受到的Tension UP效果延长{0}",
+    "name": "被・情绪延长"
+  },
+  "pab-received_strength_effect_count_increase-visual_boost_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型>\n受到的视觉增益效果延长{0}",
+    "name": "被・视觉提升延长"
+  },
+  "pab-received_strength_effect_count_increase-visual_up_recipe_distribution-5": {
+    "description": "受到的视觉提升效果延长{0}",
+    "name": "被・Vi延长"
+  },
+  "pab-received_strength_effect_count_increase-vocal_up_recipe_distribution-5": {
+    "description": "使受到的声乐上升效果延长{0}",
+    "name": "被・Vo延长"
+  },
+  "pab-received_strength_effect_value_increase-active_score_multiplier_add_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型>\n受到的A技能得分追加效果增强{0}个阶段",
+    "name": "被・A分数追加效果增强"
+  },
+  "pab-received_strength_effect_value_increase-active_skill_score_up_recipe_distribution-5": {
+    "description": "使受到的A技能分数上升效果增强{0}",
+    "name": "被・A分数增强"
+  },
+  "pab-received_strength_effect_value_increase-combo_score_up_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型> \n受到的连击得分提升效果增强{0}",
+    "name": "被・连击分数增强"
+  },
+  "pab-received_strength_effect_value_increase-critical_bonus_permil_up_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型>受到的暴击系数提升效果增强{0}个阶段",
+    "name": "被・暴击系数增强"
+  },
+  "pab-received_strength_effect_value_increase-critical_rate_up_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型>\n受到的暴击率提升效果增强{0}个阶段",
+    "name": "被・暴击率增强"
+  },
+  "pab-received_strength_effect_value_increase-dance_boost_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型> \n受到的舞蹈增益效果增强{0}个阶段",
+    "name": "被・舞蹈提升增强"
+  },
+  "pab-received_strength_effect_value_increase-dance_up_recipe-001": {
+    "description": "使受到的舞蹈上升效果增强{0}个阶段",
+    "name": "被・Da增强"
+  },
+  "pab-received_strength_effect_value_increase-dance_up_recipe_distribution-5": {
+    "description": "使受到的舞蹈上升效果增强{0}个阶段",
+    "name": "被・Da增强"
+  },
+  "pab-received_strength_effect_value_increase-score_up_recipe_distribution-5": {
+    "description": "使受到的分值提升效果增强{0}",
+    "name": "被・分值增强"
+  },
+  "pab-received_strength_effect_value_increase-special_skill_score_up_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型>\n受到的SP技能得分提升效果增强{0}个阶段",
+    "name": "被・SP得分增强"
+  },
+  "pab-received_strength_effect_value_increase-tension_up_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型> 受到的士气UP效果增强{0}个阶段",
+    "name": "被・情绪增强"
+  },
+  "pab-received_strength_effect_value_increase-visual_up_recipe-001": {
+    "description": "使受到的视觉提升效果增强{0}个阶段",
+    "name": "被・Vi增强"
+  },
+  "pab-received_strength_effect_value_increase-visual_up_recipe_distribution-5": {
+    "description": "使受到的视觉提升效果增强{0}个阶段",
+    "name": "被・Vi增强"
+  },
+  "pab-received_strength_effect_value_increase-vocal_boost_recipe_distribution-5-cd-appeal": {
+    "description": "<仅限得分手类型>\n受到的歌唱增益效果增强{0}个阶段",
+    "name": "被・声乐提升增强"
+  },
+  "pab-received_strength_effect_value_increase-vocal_up_recipe-001": {
+    "description": "使受到的声乐提升效果增强{0}个阶段",
+    "name": "被・Vo增强"
+  },
+  "pab-received_strength_effect_value_increase-vocal_up_recipe_distribution-5": {
+    "description": "使受到的声乐提升效果增强{0}个阶段",
+    "name": "被・Vo增强"
+  },
+  "pab-sk-phot-ai-idol-03": {
+    "description": "当某人提升表现力时，自身获得表现力提升效果",
+    "name": "视觉UP技能"
+  },
+  "pab-sk-phot-aoi-idol-03": {
+    "description": "50连击以上时，自身获得声乐提升效果（1次）",
+    "name": "歌唱UP技能"
+  },
+  "pab-sk-phot-cca-idol-00": {
+    "description": "体力80%以上时，暴击系数提升效果",
+    "name": "暴击技能"
+  },
+  "pab-sk-phot-chk-idol-00": {
+    "description": "100连击以上时，自身获得分数提升效果",
+    "name": "分数UP技能"
+  },
+  "pab-sk-phot-chn-idol-00": {
+    "description": "自身耐力低于70%时，恢复耐力",
+    "name": "耐力恢复技能"
+  },
+  "pab-sk-phot-chs-idol-03": {
+    "description": "处于消耗体力降低状态时，自身获得技能成功率提升效果",
+    "name": "成功率提升技能"
+  },
+  "pab-sk-phot-hrk-idol-03": {
+    "description": "赋予的A技能得分上升效果延长{0}",
+    "name": "赋予・A得分延长"
+  },
+  "pab-sk-phot-kan-idol-00": {
+    "description": "当某人处于集目状态时，自身获得分数提升效果",
+    "name": "分数UP技能"
+  },
+  "pab-sk-phot-kkr-idol-03": {
+    "description": "自身Vocal提升时，获得分数并恢复自身的下降效果",
+    "name": "得分获取技能"
+  },
+  "pab-sk-phot-kor-idol-00": {
+    "description": "受到的连击分数提升效果延长{0}",
+    "name": "被・连击分数延长"
+  },
+  "pab-sk-phot-ktn-idol-03": {
+    "description": "使受到的舞蹈上升效果延长{0}",
+    "name": "被・Da延长"
+  },
+  "pab-sk-phot-mei-idol-03": {
+    "description": "自身视觉提升时，延长自身的强化效果",
+    "name": "强化效果延长技能"
+  },
+  "pab-sk-phot-mhk-idol-00": {
+    "description": "任意角色节拍分数提升时，延长自身的强化效果",
+    "name": "强化效果延长技能"
+  },
+  "pab-sk-phot-mku-idol-00": {
+    "description": "使受到的分数上升效果延长{0}",
+    "name": "被・分数延长"
+  },
+  "pab-sk-phot-mna-idol-00": {
+    "description": "自身暴击率提升时，提升自身的技能成功率",
+    "name": "成功率提升技能"
+  },
+  "pab-sk-phot-ngs-idol-03": {
+    "description": "赋予自身A技能分数提升效果（1次）",
+    "name": "A技能UP技能"
+  },
+  "pab-sk-phot-rei-idol-03": {
+    "description": "将赋予的歌唱提升效果延长{0}",
+    "name": "与・Vo延长"
+  },
+  "pab-sk-phot-rik-idol-00": {
+    "description": "赋予的A技能得分上升效果延长{0}",
+    "name": "赋予・A得分延长"
+  },
+  "pab-sk-phot-rio-idol-03": {
+    "description": "恢复自身耐力",
+    "name": "耐力恢复技能"
+  },
+  "pab-sk-phot-rui-idol-03": {
+    "description": "自身集目时，获得分数&降低自身耐力消耗",
+    "name": "得分获取技能"
+  },
+  "pab-sk-phot-ski-idol-03": {
+    "description": "自身分数提升时，提升自身的视觉",
+    "name": "视觉UP技能"
+  },
+  "pab-sk-phot-skr-idol-03": {
+    "description": "自身舞蹈提升时，延长自身的强化效果",
+    "name": "强化效果延长技能"
+  },
+  "pab-sk-phot-smr-idol-03": {
+    "description": "将赋予的暴击率提升效果延长{0}",
+    "name": "与・暴击率延长"
+  },
+  "pab-sk-phot-suz-idol-03": {
+    "description": "自身声乐提升时，提升自身的A技能分数",
+    "name": "A技能UP技能"
+  },
+  "pab-sk-phot-szk-idol-03": {
+    "description": "赋予的A技能得分上升效果延长{0}",
+    "name": "赋予・A得分延长"
+  },
+  "pab-sk-phot-ymk-idol-00": {
+    "description": "50连击以上时，自身获得A技能分数上升效果",
+    "name": "A技能UP技能"
+  },
+  "pab-sk-phot-yo-idol-00": {
+    "description": "自身情绪UP时，延长相邻偶像的强化效果",
+    "name": "强化效果延长技能"
+  },
+  "pab-sk-phot-yu-idol-03": {
+    "description": "100连击以上时，自身获得分数提升效果",
+    "name": "分数UP技能"
+  },
+  "pab-special-skill-score-up_add-1": {
+    "description": "SP技能的分数以固定值提升",
+    "name": "SP分数"
+  },
+  "pab-special-skill-score-up_add-2": {
+    "description": "SP技能的分数以固定值提升",
+    "name": "SP分数"
+  },
+  "pab-special-skill-score-up_add-3": {
+    "description": "SP技能的分数以固定值提升",
+    "name": "SP分数"
+  },
+  "pab-special-skill-score-up_add-4": {
+    "description": "SP技能的分数以固定值提升",
+    "name": "SP分数"
+  },
+  "pab-special-skill-score-up_add-5": {
+    "description": "SP技能的分数以固定值提升",
+    "name": "SP分数"
+  },
+  "pab-special-skill-score-up_multiply-1": {
+    "description": "SP技能的分数按比例提升",
+    "name": "SP分数"
+  },
+  "pab-special-skill-score-up_multiply-2": {
+    "description": "SP技能的分数按比例提升",
+    "name": "SP分数"
+  },
+  "pab-special-skill-score-up_multiply-3": {
+    "description": "SP技能的分数按比例提升",
+    "name": "SP分数"
+  },
+  "pab-special-skill-score-up_multiply-4": {
+    "description": "SP技能的分数按比例提升",
+    "name": "SP分数"
+  },
+  "pab-special-skill-score-up_multiply-5": {
+    "description": "SP技能的分数按比例提升",
+    "name": "SP分数"
+  },
+  "pab-special-skill-score-up_multiply_distribution-5": {
+    "description": "SP技能的分数按比例提升",
+    "name": "SP分数"
+  },
+  "pab-special_skill_score_multiply_recipe-3": {
+    "description": "SP技能的分数按比例提升",
+    "name": "SP分数"
+  },
+  "pab-special_skill_score_multiply_recipe-4": {
+    "description": "SP技能的分数按比例提升",
+    "name": "SP分数"
+  },
+  "pab-special_skill_score_multiply_recipe-5": {
+    "description": "SP技能的分数按比例提升",
+    "name": "SP分数"
+  },
+  "pab-stamina_multiply-1": {
+    "description": "体力相对于偶像属性按比例提升",
+    "name": "体力"
+  },
+  "pab-stamina_multiply-2": {
+    "description": "体力相对于偶像属性按比例提升",
+    "name": "体力"
+  },
+  "pab-stamina_multiply-3": {
+    "description": "体力相对于偶像属性按比例提升",
+    "name": "体力"
+  },
+  "pab-stamina_multiply-4": {
+    "description": "体力相对于偶像属性按比例提升",
+    "name": "体力"
+  },
+  "pab-stamina_multiply-5": {
+    "description": "体力相对于偶像属性按比例提升",
+    "name": "体力"
+  },
+  "pab-stamina_multiply_distribution-5": {
+    "description": "体力相对于偶像属性按比例提升",
+    "name": "体力"
+  },
+  "pab-stamina_multiply_recipe-3": {
+    "description": "体力相对于偶像属性按比例提升",
+    "name": "体力"
+  },
+  "pab-stamina_multiply_recipe-4": {
+    "description": "体力相对于偶像属性按比例提升",
+    "name": "体力"
+  },
+  "pab-stamina_multiply_recipe-5": {
+    "description": "体力相对于偶像属性按比例提升",
+    "name": "体力"
+  },
+  "pab-technique_add-1": {
+    "description": "暴击以固定值提升",
+    "name": "暴击"
+  },
+  "pab-technique_add-2": {
+    "description": "暴击以固定值提升",
+    "name": "暴击"
+  },
+  "pab-technique_add-3": {
+    "description": "暴击以固定值提升",
+    "name": "暴击"
+  },
+  "pab-technique_add-4": {
+    "description": "暴击以固定值提升",
+    "name": "暴击"
+  },
+  "pab-technique_add-5": {
+    "description": "暴击以固定值提升",
+    "name": "暴击"
+  },
+  "pab-technique_add_recipe-3": {
+    "description": "暴击以固定值提升",
+    "name": "暴击"
+  },
+  "pab-technique_add_recipe-4": {
+    "description": "暴击以固定值提升",
+    "name": "暴击"
+  },
+  "pab-technique_add_recipe-5": {
+    "description": "暴击以固定值提升",
+    "name": "暴击"
+  },
+  "pab-technique_add_recipe_distribution-5": {
+    "description": "暴击以固定值提升",
+    "name": "暴击"
+  },
+  "pab-visual_add-1": {
+    "description": "视觉以固定值上升",
+    "name": "视觉"
+  },
+  "pab-visual_add-2": {
+    "description": "视觉以固定值上升",
+    "name": "视觉"
+  },
+  "pab-visual_add-3": {
+    "description": "视觉以固定值上升",
+    "name": "视觉"
+  },
+  "pab-visual_add-4": {
+    "description": "视觉以固定值上升",
+    "name": "视觉"
+  },
+  "pab-visual_add-5": {
+    "description": "视觉以固定值上升",
+    "name": "视觉"
+  },
+  "pab-visual_add_recipe-3": {
+    "description": "视觉以固定值上升",
+    "name": "视觉"
+  },
+  "pab-visual_add_recipe-4": {
+    "description": "视觉以固定值上升",
+    "name": "视觉"
+  },
+  "pab-visual_add_recipe-5": {
+    "description": "视觉以固定值上升",
+    "name": "视觉"
+  },
+  "pab-visual_add_recipe_distribution-5": {
+    "description": "视觉以固定值上升",
+    "name": "视觉"
+  },
+  "pab-visual_multiply-1": {
+    "description": "视觉相对于偶像参数按比例上升",
+    "name": "视觉"
+  },
+  "pab-visual_multiply-2": {
+    "description": "视觉相对于偶像参数按比例上升",
+    "name": "视觉"
+  },
+  "pab-visual_multiply-3": {
+    "description": "视觉相对于偶像参数按比例上升",
+    "name": "视觉"
+  },
+  "pab-visual_multiply-4": {
+    "description": "视觉相对于偶像参数按比例上升",
+    "name": "视觉"
+  },
+  "pab-visual_multiply-5": {
+    "description": "视觉相对于偶像参数按比例上升",
+    "name": "视觉"
+  },
+  "pab-visual_multiply_distribution-4": {
+    "description": "视觉相对于偶像参数按比例上升",
+    "name": "视觉"
+  },
+  "pab-visual_multiply_distribution-5": {
+    "description": "视觉相对于偶像参数按比例上升",
+    "name": "视觉"
+  },
+  "pab-visual_multiply_recipe-3": {
+    "description": "视觉相对于偶像参数按比例上升",
+    "name": "视觉"
+  },
+  "pab-visual_multiply_recipe-4": {
+    "description": "视觉相对于偶像参数按比例上升",
+    "name": "视觉"
+  },
+  "pab-visual_multiply_recipe-5": {
+    "description": "视觉相对于偶像参数按比例上升",
+    "name": "视觉"
+  },
+  "pab-visual_multiply_recipe-5-pa-target-neighbor-cd-technique": {
+    "description": "<仅限增益类型>\n相邻偶像的视觉相对于偶像属性按比例提升",
+    "name": "相邻视觉"
+  },
+  "pab-vocal_add-1": {
+    "description": "歌唱以固定值上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_add-2": {
+    "description": "歌唱以固定值上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_add-3": {
+    "description": "歌唱以固定值上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_add-4": {
+    "description": "歌唱以固定值上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_add-5": {
+    "description": "歌唱以固定值上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_add_recipe-3": {
+    "description": "歌唱以固定值上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_add_recipe-4": {
+    "description": "歌唱以固定值上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_add_recipe-5": {
+    "description": "歌唱以固定值上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_add_recipe_distribution-5": {
+    "description": "歌唱以固定值上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_multiply-1": {
+    "description": "歌唱相对于偶像参数按比例上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_multiply-2": {
+    "description": "歌唱相对于偶像参数按比例上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_multiply-3": {
+    "description": "歌唱相对于偶像参数按比例上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_multiply-4": {
+    "description": "歌唱相对于偶像参数按比例上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_multiply-5": {
+    "description": "歌唱相对于偶像参数按比例上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_multiply_distribution-4": {
+    "description": "歌唱相对于偶像参数按比例上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_multiply_distribution-5": {
+    "description": "歌唱相对于偶像参数按比例上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_multiply_recipe-3": {
+    "description": "歌唱相对于偶像参数按比例上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_multiply_recipe-4": {
+    "description": "歌唱相对于偶像参数按比例上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_multiply_recipe-5": {
+    "description": "歌唱相对于偶像参数按比例上升",
+    "name": "歌唱"
+  },
+  "pab-vocal_multiply_recipe-5-pa-target-neighbor-cd-technique": {
+    "description": "<仅限增益类型>\n相邻偶像的歌唱相对于偶像属性按比例提升",
+    "name": "邻接主唱"
+  }
+}

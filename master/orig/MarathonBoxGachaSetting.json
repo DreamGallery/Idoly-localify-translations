@@ -1,0 +1,347 @@
+{
+  "0": {
+    "guageName": "BOXゲージ"
+  },
+  "1": {
+    "guageName": "BOXゲージ"
+  },
+  "10": {
+    "guageName": "BOXゲージ"
+  },
+  "100": {
+    "guageName": "BOXゲージ"
+  },
+  "101": {
+    "guageName": "BOXゲージ"
+  },
+  "102": {
+    "guageName": "BOXゲージ"
+  },
+  "103": {
+    "guageName": "BOXゲージ"
+  },
+  "104": {
+    "guageName": "BOXゲージ"
+  },
+  "105": {
+    "guageName": "BOXゲージ"
+  },
+  "106": {
+    "guageName": "BOXゲージ"
+  },
+  "107": {
+    "guageName": "BOXゲージ"
+  },
+  "108": {
+    "guageName": "BOXゲージ"
+  },
+  "109": {
+    "guageName": "BOXゲージ"
+  },
+  "11": {
+    "guageName": "BOXゲージ"
+  },
+  "110": {
+    "guageName": "BOXゲージ"
+  },
+  "111": {
+    "guageName": "BOXゲージ"
+  },
+  "112": {
+    "guageName": "BOXゲージ"
+  },
+  "113": {
+    "guageName": "BOXゲージ"
+  },
+  "114": {
+    "guageName": "BOXゲージ"
+  },
+  "12": {
+    "guageName": "BOXゲージ"
+  },
+  "13": {
+    "guageName": "BOXゲージ"
+  },
+  "14": {
+    "guageName": "BOXゲージ"
+  },
+  "15": {
+    "guageName": "BOXゲージ"
+  },
+  "16": {
+    "guageName": "BOXゲージ"
+  },
+  "17": {
+    "guageName": "BOXゲージ"
+  },
+  "18": {
+    "guageName": "BOXゲージ"
+  },
+  "19": {
+    "guageName": "BOXゲージ"
+  },
+  "2": {
+    "guageName": "BOXゲージ"
+  },
+  "20": {
+    "guageName": "BOXゲージ"
+  },
+  "21": {
+    "guageName": "BOXゲージ"
+  },
+  "22": {
+    "guageName": "BOXゲージ"
+  },
+  "23": {
+    "guageName": "BOXゲージ"
+  },
+  "24": {
+    "guageName": "BOXゲージ"
+  },
+  "25": {
+    "guageName": "BOXゲージ"
+  },
+  "26": {
+    "guageName": "BOXゲージ"
+  },
+  "27": {
+    "guageName": "BOXゲージ"
+  },
+  "28": {
+    "guageName": "BOXゲージ"
+  },
+  "29": {
+    "guageName": "BOXゲージ"
+  },
+  "3": {
+    "guageName": "BOXゲージ"
+  },
+  "30": {
+    "guageName": "BOXゲージ"
+  },
+  "31": {
+    "guageName": "BOXゲージ"
+  },
+  "32": {
+    "guageName": "BOXゲージ"
+  },
+  "33": {
+    "guageName": "BOXゲージ"
+  },
+  "34": {
+    "guageName": "BOXゲージ"
+  },
+  "35": {
+    "guageName": "BOXゲージ"
+  },
+  "36": {
+    "guageName": "BOXゲージ"
+  },
+  "37": {
+    "guageName": "BOXゲージ"
+  },
+  "38": {
+    "guageName": "BOXゲージ"
+  },
+  "39": {
+    "guageName": "BOXゲージ"
+  },
+  "4": {
+    "guageName": "BOXゲージ"
+  },
+  "40": {
+    "guageName": "BOXゲージ"
+  },
+  "41": {
+    "guageName": "BOXゲージ"
+  },
+  "42": {
+    "guageName": "BOXゲージ"
+  },
+  "43": {
+    "guageName": "BOXゲージ"
+  },
+  "44": {
+    "guageName": "BOXゲージ"
+  },
+  "45": {
+    "guageName": "BOXゲージ"
+  },
+  "46": {
+    "guageName": "BOXゲージ"
+  },
+  "47": {
+    "guageName": "BOXゲージ"
+  },
+  "48": {
+    "guageName": "BOXゲージ"
+  },
+  "49": {
+    "guageName": "BOXゲージ"
+  },
+  "5": {
+    "guageName": "BOXゲージ"
+  },
+  "50": {
+    "guageName": "BOXゲージ"
+  },
+  "51": {
+    "guageName": "BOXゲージ"
+  },
+  "52": {
+    "guageName": "BOXゲージ"
+  },
+  "53": {
+    "guageName": "BOXゲージ"
+  },
+  "54": {
+    "guageName": "BOXゲージ"
+  },
+  "55": {
+    "guageName": "BOXゲージ"
+  },
+  "56": {
+    "guageName": "BOXゲージ"
+  },
+  "57": {
+    "guageName": "BOXゲージ"
+  },
+  "58": {
+    "guageName": "BOXゲージ"
+  },
+  "59": {
+    "guageName": "BOXゲージ"
+  },
+  "6": {
+    "guageName": "BOXゲージ"
+  },
+  "60": {
+    "guageName": "BOXゲージ"
+  },
+  "61": {
+    "guageName": "BOXゲージ"
+  },
+  "62": {
+    "guageName": "BOXゲージ"
+  },
+  "63": {
+    "guageName": "BOXゲージ"
+  },
+  "64": {
+    "guageName": "BOXゲージ"
+  },
+  "65": {
+    "guageName": "BOXゲージ"
+  },
+  "66": {
+    "guageName": "BOXゲージ"
+  },
+  "67": {
+    "guageName": "BOXゲージ"
+  },
+  "68": {
+    "guageName": "BOXゲージ"
+  },
+  "69": {
+    "guageName": "BOXゲージ"
+  },
+  "7": {
+    "guageName": "BOXゲージ"
+  },
+  "70": {
+    "guageName": "BOXゲージ"
+  },
+  "71": {
+    "guageName": "BOXゲージ"
+  },
+  "72": {
+    "guageName": "BOXゲージ"
+  },
+  "73": {
+    "guageName": "BOXゲージ"
+  },
+  "74": {
+    "guageName": "BOXゲージ"
+  },
+  "75": {
+    "guageName": "BOXゲージ"
+  },
+  "76": {
+    "guageName": "BOXゲージ"
+  },
+  "77": {
+    "guageName": "BOXゲージ"
+  },
+  "78": {
+    "guageName": "BOXゲージ"
+  },
+  "79": {
+    "guageName": "BOXゲージ"
+  },
+  "8": {
+    "guageName": "BOXゲージ"
+  },
+  "80": {
+    "guageName": "BOXゲージ"
+  },
+  "81": {
+    "guageName": "BOXゲージ"
+  },
+  "82": {
+    "guageName": "BOXゲージ"
+  },
+  "83": {
+    "guageName": "BOXゲージ"
+  },
+  "84": {
+    "guageName": "BOXゲージ"
+  },
+  "85": {
+    "guageName": "BOXゲージ"
+  },
+  "86": {
+    "guageName": "BOXゲージ"
+  },
+  "87": {
+    "guageName": "BOXゲージ"
+  },
+  "88": {
+    "guageName": "BOXゲージ"
+  },
+  "89": {
+    "guageName": "BOXゲージ"
+  },
+  "9": {
+    "guageName": "BOXゲージ"
+  },
+  "90": {
+    "guageName": "BOXゲージ"
+  },
+  "91": {
+    "guageName": "BOXゲージ"
+  },
+  "92": {
+    "guageName": "BOXゲージ"
+  },
+  "93": {
+    "guageName": "BOXゲージ"
+  },
+  "94": {
+    "guageName": "BOXゲージ"
+  },
+  "95": {
+    "guageName": "BOXゲージ"
+  },
+  "96": {
+    "guageName": "BOXゲージ"
+  },
+  "97": {
+    "guageName": "BOXゲージ"
+  },
+  "98": {
+    "guageName": "BOXゲージ"
+  },
+  "99": {
+    "guageName": "BOXゲージ"
+  }
+}

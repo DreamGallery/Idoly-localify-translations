@@ -1,0 +1,59 @@
+{
+  "casl": {
+    "name": "私服"
+  },
+  "gene": {
+    "name": "私服風アイドル衣装"
+  },
+  "hruh": {
+    "name": "SOS団"
+  },
+  "idol": {
+    "name": "アイドル衣装"
+  },
+  "idol-miku": {
+    "name": "アイドル衣装_ミク"
+  },
+  "idol-miku-mizg": {
+    "name": "水着_ミク"
+  },
+  "kion": {
+    "name": "桜が丘女子高等学校"
+  },
+  "mizg": {
+    "name": "水着"
+  },
+  "mizg-all-ng": {
+    "name": "水着_全NG"
+  },
+  "mizg-water-ng": {
+    "name": "水着_着水NG"
+  },
+  "pajm": {
+    "name": "パジャマ"
+  },
+  "schl": {
+    "name": "制服"
+  },
+  "sd-ambassador": {
+    "name": "親善大使"
+  },
+  "sd-police": {
+    "name": "一日署長"
+  },
+  "snro": {
+    "name": "サンリオキャラクターズコラボ"
+  },
+  "trbl": {
+    "name": "To LOVEる"
+  },
+  "trbl-mizg": {
+    "name": "トラブルサンタ"
+  },
+  "trng": {
+    "name": "トレーニング"
+  },
+  "waso": {
+    "name": "和装"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "area-main-group-001": {
+    "name": "新手"
+  },
+  "area-main-group-002": {
+    "name": "常规"
+  },
+  "area-main-group-003": {
+    "name": "专业"
+  },
+  "area-main-group-004": {
+    "name": "大师"
+  },
+  "area-main-group-005": {
+    "name": "世界"
+  },
+  "area-main-group-999": {
+    "name": "教程"
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "st-eve-2107-tour": {
+    "description": "与雨后的太阳同行",
+    "name": "活动剧情"
+  },
+  "st-eve-2108-tour": {
+    "description": "月夜闪耀的恋爱魔法",
+    "name": "活动剧情"
+  },
+  "st-eve-2109-backside": {
+    "description": "萌芽的黑百合花蕾",
+    "name": "活动剧情"
+  },
+  "st-eve-2110-marathon": {
+    "description": "让闪耀的奇迹再来一次",
+    "name": "活动剧情"
+  },
+  "st-eve-2111-backside": {
+    "description": "架向梦舞舞台的桥梁",
+    "name": "活动剧情"
+  },
+  "st-eve-2112-marathon": {
+    "description": "羽憩圣夜的惊喜",
+    "name": "活动剧情"
+  },
+  "st-eve-2201-contest": {
+    "description": "升起初阳下绽放的笑容",
+    "name": "活动剧情"
+  },
+  "st-eve-2202-marathon": {
+    "description": "心爱融化的苦甜巧克力",
+    "name": "活动剧情"
+  },
+  "st-eve-2203-race": {
+    "description": "并立歌姬的完整演出",
+    "name": "活动剧情"
+  },
+  "st-eve-2204-contest": {
+    "description": "爱唱歌的星辰继承者",
+    "name": "活动剧情"
+  },
+  "st-eve-2205-race": {
+    "description": "交织心灵的辉煌竞演",
+    "name": "活动剧情"
+  },
+  "st-eve-2206-marathon": {
+    "description": "指引的号角",
+    "name": "活动剧情"
+  },
+  "st-eve-2207-contest": {
+    "name": "活动剧情"
+  },
+  "st-eve-2208-backside": {
+    "description": "热衷☆突发夏日",
+    "name": "活动剧情"
+  },
+  "st-eve-2209-contest": {
+    "description": "连接未来的魔法旋律",
+    "name": "活动剧情"
+  },
+  "st-eve-2210-race": {
+    "description": "连接命运的流星轨迹",
+    "name": "活动剧情"
+  },
+  "st-eve-2211-marathon-raid": {
+    "description": "舌战开幕！赞美之汤",
+    "name": "活动剧情"
+  },
+  "st-eve-2212-race": {
+    "description": "与你祈愿的月灯庆典",
+    "name": "活动剧情"
+  },
+  "st-eve-2301-contest": {
+    "description": "最高优美＊飞跃的倒计时",
+    "name": "活动剧情"
+  },
+  "st-eve-2302-marathon-raid": {
+    "description": "守护！纯洁之吻～imposition of love～",
+    "name": "活动剧情"
+  },
+  "st-eve-2303-race": {
+    "description": "睡衣派对！～梦想少女与睡美人～",
+    "name": "活动剧情"
+  },
+  "st-eve-2304-marathon-raid": {
+    "description": "音色辉石编织的未来",
+    "name": "活动剧情"
+  },
+  "st-eve-2305-race": {
+    "description": "共演！HTT＆HMA～放学后茶会＆星见大使～",
+    "name": "活动剧情"
+  },
+  "st-eve-2306-contest": {
+    "description": "星辰与奇迹共同实现的约定未来",
+    "name": "活动剧情"
+  },
+  "st-eve-2307-race": {
+    "description": "灼热的BEACH ～烦躁MAX IIIX～",
+    "name": "活动剧情"
+  },
+  "st-eve-2308-marathon-raid": {
+    "description": "工作秘密",
+    "name": "活动剧情"
+  },
+  "st-eve-2309-backside": {
+    "description": "迈向遥远巅峰的秀丽",
+    "name": "活动剧情"
+  },
+  "st-eve-2310-race": {
+    "description": "迷走休止符 清凉的青春",
+    "name": "活动剧情"
+  },
+  "st-eve-2311-marathon-raid": {
+    "description": "翱翔而过的Victoire　誓约之plume",
+    "name": "活动剧情"
+  },
+  "st-eve-2312-contest": {
+    "description": "与你共同闪耀的Sunshine!!",
+    "name": "活动剧情"
+  },
+  "st-eve-2401-race": {
+    "description": "喵般不可思议的新年！？",
+    "name": "活动剧情"
+  },
+  "st-eve-2402-contest": {
+    "description": "点缀未来的雪之庆典",
+    "name": "活动剧情"
+  },
+  "st-eve-2403-race": {
+    "description": "笑容的SUNNY 相连的PEACE",
+    "name": "活动剧情"
+  },
+  "st-eve-2404-dice": {
+    "description": "不屈的Challenger～Roll the dice～",
+    "name": "活动剧情"
+  },
+  "st-eve-2405-race": {
+    "description": "擦肩而过的Dissonance",
+    "name": "活动剧情"
+  },
+  "st-eve-2406-contest": {
+    "description": "照亮你的月光之路",
+    "name": "活动剧情"
+  },
+  "st-eve-2407-dice": {
+    "description": "划桨启航！偶像★幸存者",
+    "name": "活动剧情"
+  },
+  "st-eve-2408-race": {
+    "description": "虚伪的REALISM ～贴身采访 新曲会议！？～",
+    "name": "活动剧情"
+  },
+  "st-eve-2409-marathon-raid": {
+    "description": "开演！Pretty★Angel",
+    "name": "活动剧情"
+  },
+  "st-eve-2410-dice": {
+    "description": "久等了返乡～星见凯旋记～",
+    "name": "活动剧情"
+  },
+  "st-eve-2411-race": {
+    "description": "欺瞒的最强TWINkle",
+    "name": "活动剧情"
+  },
+  "st-eve-2412-contest": {
+    "description": "心跳圣诞派对",
+    "name": "活动剧情"
+  },
+  "st-eve-2501-race": {
+    "description": "迎春！寄于羽翼的奋进之念",
+    "name": "活动剧情"
+  },
+  "st-eve-2502-marathon-raid": {
+    "description": "传达感谢的Lovely Valentine's Day",
+    "name": "活动剧情"
+  },
+  "st-eve-2503-dice": {
+    "description": "SOS！星见Production的传送～对普通偶像没兴趣！？～",
+    "name": "活动剧情"
+  },
+  "st-eve-2504-marathon-raid": {
+    "description": "旗扬！剧团★见～两位爱丽丝与WONDERLAND～",
+    "name": "活动剧情"
+  },
+  "st-eve-2507-race": {
+    "description": "星见Production全国巡演　Stars Journey",
+    "name": "活动剧情"
+  },
+  "st-eve-2509-contest": {
+    "description": "延续至未来的夏日祭",
+    "name": "活动剧情"
+  },
+  "st-eve-2510-marathon-raid": {
+    "description": "我们的青春讴歌～DOTABATA SCHOOL FESTIVAL～",
+    "name": "活动剧情"
+  },
+  "st-eve-2511-race": {
+    "description": "let's 汤雾 dancing！",
+    "name": "活动剧情"
+  },
+  "st-eve-2512-dice": {
+    "description": "手忙脚乱！？麻烦不断的圣诞节！",
+    "name": "活动剧情"
+  },
+  "st-eve-2601-race": {
+    "description": "新春万福 素颜大公开GAME",
+    "name": "活动剧情"
+  },
+  "st-eve-2602-dice": {
+    "description": "激烈碰撞的Center Battle！",
+    "name": "活动剧情"
+  },
+  "st-eve-2603-race": {
+    "description": "献给你的With your songs",
+    "name": "活动剧情"
+  },
+  "st-eve-2604-dice": {
+    "description": "IDOLY MATCH～地下竞技场的挑战～",
+    "name": "活动剧情"
+  },
+  "st-eve-2605-marathon-raid": {
+    "description": "Hello！偶像♪ 在梦中相连的奇迹舞台",
+    "name": "活动剧情"
+  },
+  "st-eve-2606-dice": {
+    "description": "展翅高飞！报恩的Aile",
+    "name": "活动剧情"
+  },
+  "st-eve-2607-marathon-raid": {
+    "description": "贯穿PRIDE的巅峰路标",
+    "name": "活动剧情"
+  }
+}

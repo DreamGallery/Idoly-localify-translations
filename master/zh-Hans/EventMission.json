@@ -1,0 +1,1208 @@
+{
+  "event-backside-21-0831": {
+    "name": "合宿活动"
+  },
+  "event-backside-21-1031": {
+    "name": "合宿活动"
+  },
+  "event-backside-22-0731": {
+    "name": "合宿活动"
+  },
+  "event-backside-23-0829": {
+    "name": "合宿活动"
+  },
+  "event-beginner-mission": {
+    "name": "新手任务"
+  },
+  "event-dice-24-0404": {
+    "name": "双六任务"
+  },
+  "event-dice-24-0708": {
+    "name": "双六任务"
+  },
+  "event-dice-24-0925": {
+    "name": "双六任务"
+  },
+  "event-dice-24-1226": {
+    "name": "双六任务"
+  },
+  "event-dice-25-0225": {
+    "name": "双六任务"
+  },
+  "event-dice-25-0527": {
+    "name": "双六任务"
+  },
+  "event-dice-25-0728": {
+    "name": "双六任务"
+  },
+  "event-dice-25-1006": {
+    "name": "双六任务"
+  },
+  "event-dice-25-1126": {
+    "name": "双六任务"
+  },
+  "event-dice-26-0128": {
+    "name": "双六任务"
+  },
+  "event-dice-26-0327": {
+    "name": "双六任务"
+  },
+  "event-dice-26-0527": {
+    "name": "双六任务"
+  },
+  "event-dice-26-0625": {
+    "name": "双六任务"
+  },
+  "event-dice-26-0731": {
+    "name": "双六任务"
+  },
+  "event-dream-23-0912": {
+    "name": "活动任务"
+  },
+  "event-dream-23-1018": {
+    "name": "活动任务"
+  },
+  "event-dream-23-1110": {
+    "name": "活动任务"
+  },
+  "event-dream-23-1212": {
+    "name": "活动任务"
+  },
+  "event-dream-24-0118": {
+    "name": "活动任务"
+  },
+  "event-dream-24-0217": {
+    "name": "活动任务"
+  },
+  "event-dream-24-0316": {
+    "name": "活动任务"
+  },
+  "event-dream-24-0414": {
+    "name": "活动任务"
+  },
+  "event-dream-24-0513": {
+    "name": "活动任务"
+  },
+  "event-dream-24-0610": {
+    "name": "活动任务"
+  },
+  "event-dream-24-0721": {
+    "name": "活动任务"
+  },
+  "event-dream-24-0815": {
+    "name": "活动任务"
+  },
+  "event-dream-24-0913": {
+    "name": "活动任务"
+  },
+  "event-dream-24-1018": {
+    "name": "活动任务"
+  },
+  "event-dream-24-1117": {
+    "name": "活动任务"
+  },
+  "event-dream-24-1215": {
+    "name": "活动任务"
+  },
+  "event-dream-25-0118": {
+    "name": "活动任务"
+  },
+  "event-dream-25-0218": {
+    "name": "活动任务"
+  },
+  "event-dream-25-0320": {
+    "name": "活动任务"
+  },
+  "event-dream-25-04": {
+    "name": "活动任务"
+  },
+  "event-dream-25-05": {
+    "name": "活动任务"
+  },
+  "event-dream-25-06": {
+    "name": "活动任务"
+  },
+  "event-dream-25-07": {
+    "name": "活动任务"
+  },
+  "event-dream-25-08": {
+    "name": "活动任务"
+  },
+  "event-dream-25-09": {
+    "name": "活动任务"
+  },
+  "event-dream-25-10": {
+    "name": "活动任务"
+  },
+  "event-dream-25-11": {
+    "name": "活动任务"
+  },
+  "event-dream-25-12": {
+    "name": "活动任务"
+  },
+  "event-dream-26-01": {
+    "name": "活动任务"
+  },
+  "event-dream-26-02": {
+    "name": "活动任务"
+  },
+  "event-dream-26-03": {
+    "name": "活动任务"
+  },
+  "event-dream-26-04": {
+    "name": "活动任务"
+  },
+  "event-dream-26-05": {
+    "name": "活动任务"
+  },
+  "event-dream-26-06": {
+    "name": "活动任务"
+  },
+  "event-dream-26-07": {
+    "name": "活动任务"
+  },
+  "event-dream-26-08": {
+    "name": "活动任务"
+  },
+  "event-dream-26-09": {
+    "name": "活动任务"
+  },
+  "event-duty-25-0115": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-25-0206": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-25-0318": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-25-0405": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-25-0518": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-25-0624": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-25-0718": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-25-0815": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-25-0917": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-25-1017": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-25-1119": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-26-0115": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-26-0217": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-26-0310": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-26-0417": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-26-0519": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-26-0605": {
+    "name": "偶像活动任务"
+  },
+  "event-duty-26-0718": {
+    "name": "偶像活动任务"
+  },
+  "event-ladder-22-0513": {
+    "name": "留言任务"
+  },
+  "event-ladder-22-0610": {
+    "name": "留言任务"
+  },
+  "event-ladder-22-0812": {
+    "name": "留言任务"
+  },
+  "event-ladder-22-0916": {
+    "name": "留言任务"
+  },
+  "event-ladder-22-1109": {
+    "name": "留言任务"
+  },
+  "event-ladder-22-1214": {
+    "name": "留言任务"
+  },
+  "event-ladder-23-0411": {
+    "name": "留言任务"
+  },
+  "event-ladder-23-0528": {
+    "name": "即将2周年纪念Memory"
+  },
+  "event-ladder-23-0713": {
+    "name": "留言任务"
+  },
+  "event-ladder-23-0810": {
+    "name": "夏日回忆留言任务"
+  },
+  "event-ladder-23-0912": {
+    "name": "留言任务"
+  },
+  "event-ladder-23-1014": {
+    "name": "留言任务"
+  },
+  "event-ladder-23-1222": {
+    "name": "全国巡演举办纪念"
+  },
+  "event-ladder-24-0205": {
+    "name": "留言任务"
+  },
+  "event-ladder-24-0712": {
+    "name": "留言任务"
+  },
+  "event-ladder-24-1006": {
+    "name": "留言任务"
+  },
+  "event-ladder-24-1108": {
+    "name": "留言任务"
+  },
+  "event-ladder-24-1208": {
+    "name": "留言任务"
+  },
+  "event-ladder-25-0512": {
+    "name": "留言任务"
+  },
+  "event-ladder-25-0712": {
+    "name": "留言任务"
+  },
+  "event-ladder-25-0905": {
+    "name": "留言任务"
+  },
+  "event-ladder-25-1205": {
+    "name": "留言任务"
+  },
+  "event-ladder-26-0214": {
+    "name": "留言任务"
+  },
+  "event-ladder-26-0515": {
+    "name": "留言任务"
+  },
+  "event-love-23-0514-limited": {
+    "name": "如果恋爱每日"
+  },
+  "event-love-23-0514-normal": {
+    "name": "如果恋爱课题"
+  },
+  "event-love-23-0514-normal-card": {
+    "name": "如果恋爱课题"
+  },
+  "event-love-23-1114-limited": {
+    "name": "如果恋爱每日"
+  },
+  "event-love-23-1114-normal": {
+    "name": "如果恋爱课题"
+  },
+  "event-love-23-1114-normal-card": {
+    "name": "如果恋爱课题"
+  },
+  "event-love-24-0517-limited": {
+    "name": "如果恋爱每日"
+  },
+  "event-love-24-0517-normal": {
+    "name": "如果恋爱课题"
+  },
+  "event-love-24-0517-normal-card": {
+    "name": "如果恋爱课题"
+  },
+  "event-love-24-1114-limited": {
+    "name": "如果恋爱每日"
+  },
+  "event-love-24-1114-normal": {
+    "name": "如果恋爱课题"
+  },
+  "event-love-24-1114-normal-card": {
+    "name": "如果恋爱课题"
+  },
+  "event-love-25-0426-limited": {
+    "name": "魅魔×魔法日常"
+  },
+  "event-love-25-0426-normal": {
+    "name": "魅魔×魔法课题"
+  },
+  "event-love-26-0313-limited": {
+    "name": "如果恋爱首次限定课题"
+  },
+  "event-love-26-0313-normal": {
+    "name": "如果恋爱课题"
+  },
+  "event-love-26-0313-normal-card": {
+    "name": "如果恋爱课题"
+  },
+  "event-marathon-21-0930": {
+    "name": "活动任务"
+  },
+  "event-marathon-21-1130": {
+    "name": "活动任务"
+  },
+  "event-marathon-22-0131": {
+    "name": "活动任务"
+  },
+  "event-marathon-22-0526": {
+    "name": "活动任务"
+  },
+  "event-marathon-raid-22-1028": {
+    "name": "活动任务"
+  },
+  "event-marathon-raid-23-0128": {
+    "name": "活动任务"
+  },
+  "event-marathon-raid-23-0328": {
+    "name": "活动任务"
+  },
+  "event-marathon-raid-23-0528": {
+    "name": "活动任务"
+  },
+  "event-marathon-raid-23-0728": {
+    "name": "活动任务"
+  },
+  "event-marathon-raid-23-0927": {
+    "name": "活动任务"
+  },
+  "event-marathon-raid-23-1027": {
+    "name": "活动任务"
+  },
+  "event-marathon-raid-24-0827": {
+    "name": "活动任务"
+  },
+  "event-marathon-raid-25-0128": {
+    "name": "活动任务"
+  },
+  "event-marathon-raid-25-0326": {
+    "name": "活动任务"
+  },
+  "event-marathon-raid-25-0927": {
+    "name": "活动任务"
+  },
+  "event-marathon-raid-26-0427": {
+    "name": "活动任务"
+  },
+  "event-marathon-raid-26-0708": {
+    "name": "活动任务"
+  },
+  "event-mini-backside-23-0214": {
+    "name": "情人节特别合宿！"
+  },
+  "event-mini-backside-25-0606": {
+    "name": "即将迎来4周年纪念！特别合宿！"
+  },
+  "event-mini-backside-26-0214": {
+    "name": "【复刻】情人节特别合宿！"
+  },
+  "event-mini-marathon-22-0413": {
+    "name": "活动任务"
+  },
+  "event-mini-marathon-22-0712": {
+    "name": "活动任务"
+  },
+  "event-mini-marathon-22-0928": {
+    "name": "活动任务"
+  },
+  "event-mini-marathon-23-0110": {
+    "name": "活动任务"
+  },
+  "event-mini-marathon-23-0310": {
+    "name": "活动任务"
+  },
+  "event-mini-marathon-24-0113": {
+    "name": "活动任务"
+  },
+  "event-mini-marathon-24-0909": {
+    "name": "活动任务"
+  },
+  "event-mini-marathon-25-0207": {
+    "name": "活动任务"
+  },
+  "event-mini-marathon-25-1107": {
+    "name": "活动任务"
+  },
+  "event-mini-marathon-raid-23-1226": {
+    "name": "活动任务"
+  },
+  "event-mini-marathon-raid-24-0327": {
+    "name": "活动任务"
+  },
+  "event-mini-marathon-raid-24-0528": {
+    "name": "活动任务"
+  },
+  "event-mini-marathon-raid-25-1226": {
+    "name": "活动任务"
+  },
+  "event-mosaic-24-0311": {
+    "name": "相连，大家的思念任务"
+  },
+  "event-mosaic-24-0417": {
+    "name": "樱花烂漫春日和煦任务"
+  },
+  "event-mosaic-24-0510": {
+    "name": "奔向绽放的夏天！Splash Dive任务"
+  },
+  "event-mosaic-24-0607": {
+    "name": "苍之追忆任务"
+  },
+  "event-mosaic-24-0719": {
+    "name": "夏日之音，渐渐消逝任务"
+  },
+  "event-mosaic-24-0808": {
+    "name": "笑容绽放的夏夜任务"
+  },
+  "event-mosaic-24-0909": {
+    "name": "融化甜点派对任务"
+  },
+  "event-mosaic-24-1017": {
+    "name": "柔光点亮Night time任务"
+  },
+  "event-mosaic-24-1107": {
+    "name": "恋之汤烟任务"
+  },
+  "event-race-22-0228": {
+    "name": "活动任务"
+  },
+  "event-race-22-0428": {
+    "name": "活动任务"
+  },
+  "event-race-22-1003": {
+    "name": "活动任务"
+  },
+  "event-race-22-1128": {
+    "name": "活动任务"
+  },
+  "event-race-23-0226": {
+    "name": "活动任务"
+  },
+  "event-race-23-0428": {
+    "name": "活动任务"
+  },
+  "event-race-23-0703": {
+    "name": "活动任务"
+  },
+  "event-race-23-1003": {
+    "name": "活动任务"
+  },
+  "event-race-24-0103": {
+    "name": "活动任务"
+  },
+  "event-race-24-0226": {
+    "name": "活动任务"
+  },
+  "event-race-24-0426": {
+    "name": "活动任务"
+  },
+  "event-race-24-0727": {
+    "name": "活动任务"
+  },
+  "event-race-24-1028": {
+    "name": "活动任务"
+  },
+  "event-race-25-0104": {
+    "name": "活动任务"
+  },
+  "event-race-25-0625": {
+    "name": "活动任务"
+  },
+  "event-race-25-1028": {
+    "name": "活动任务"
+  },
+  "event-race-26-0104": {
+    "name": "活动任务"
+  },
+  "event-race-26-0226": {
+    "name": "活动任务"
+  },
+  "event-shelf-23-1128": {
+    "name": "相册"
+  },
+  "event-shelf-24-0103": {
+    "name": "相册"
+  },
+  "event-shelf-24-0128": {
+    "name": "相册"
+  },
+  "event-shelf-24-0401": {
+    "name": "相册"
+  },
+  "event-shelf-24-0612": {
+    "name": "相册"
+  },
+  "event-shelf-24-0626": {
+    "name": "相册"
+  },
+  "event-shelf-24-0708": {
+    "name": "相册"
+  },
+  "event-shelf-24-0727": {
+    "name": "相册"
+  },
+  "event-shelf-24-0827": {
+    "name": "相册"
+  },
+  "event-shelf-24-0925": {
+    "name": "相册"
+  },
+  "event-shelf-24-1028": {
+    "name": "相册"
+  },
+  "event-shelf-24-1128": {
+    "name": "相册"
+  },
+  "event-shelf-25-0104": {
+    "name": "相册"
+  },
+  "event-shelf-25-0128": {
+    "name": "相册"
+  },
+  "event-shelf-25-0225": {
+    "name": "相册"
+  },
+  "event-shelf-25-0326": {
+    "name": "相册"
+  },
+  "event-shelf-25-0527": {
+    "name": "相册"
+  },
+  "event-shelf-25-0625": {
+    "name": "相册"
+  },
+  "event-shelf-25-0728": {
+    "name": "相册"
+  },
+  "event-shelf-25-0825": {
+    "name": "相册"
+  },
+  "event-shelf-25-0927": {
+    "name": "相册"
+  },
+  "event-shelf-25-1028": {
+    "name": "相册"
+  },
+  "event-shelf-25-1126": {
+    "name": "相册"
+  },
+  "event-shelf-26-0104": {
+    "name": "相册"
+  },
+  "event-shelf-26-0128": {
+    "name": "相册"
+  },
+  "event-shelf-26-0226": {
+    "name": "相册"
+  },
+  "event-shelf-26-0327": {
+    "name": "相册"
+  },
+  "event-shelf-26-0427": {
+    "name": "相册"
+  },
+  "event-shelf-26-0527": {
+    "name": "相册"
+  },
+  "event-shelf-26-0625": {
+    "name": "相册"
+  },
+  "event-shelf-26-0708": {
+    "name": "相册"
+  },
+  "event-shelf-26-0731": {
+    "name": "相册"
+  },
+  "event-shelf-26-0820": {
+    "name": "相册"
+  },
+  "event-shelf-26-0831": {
+    "name": "相册"
+  },
+  "event-shelf-26-0918": {
+    "name": "相册"
+  },
+  "event-tour-21-0630": {
+    "name": "活动任务"
+  },
+  "event-tour-21-0731": {
+    "name": "活动任务"
+  },
+  "event_2nd-mission-23-0624": {
+    "name": "2周年纪念任务"
+  },
+  "event_3th-aniv-mission-24-0628": {
+    "name": "3周年纪念任务"
+  },
+  "event_3th-aniv-mission-24-0706": {
+    "name": "3周年纪念任务第2弹"
+  },
+  "event_am-mission-23-0902": {
+    "name": "秋季任务"
+  },
+  "event_am-mission-23-1102": {
+    "name": "秋季任务第2弹"
+  },
+  "event_am-mission-24-0829": {
+    "name": "秋季任务"
+  },
+  "event_am-mission-24-1101": {
+    "name": "秋季任务第2弹"
+  },
+  "event_am-mission-25-1010": {
+    "name": "秋季任务"
+  },
+  "event_am-mission-25-1031": {
+    "name": "秋季任务第2弹"
+  },
+  "event_am-mission-26-0808": {
+    "name": "外出任务"
+  },
+  "event_anniversary-mission-22-0630": {
+    "name": "1周年纪念任务"
+  },
+  "event_anniversary-mission-25-0628": {
+    "name": "4周年纪念任务"
+  },
+  "event_april-mission-26-0401": {
+    "name": "鱼儿☆HEAVEN举办任务"
+  },
+  "event_bunny-mission-24-0409": {
+    "name": "春季兔子任务"
+  },
+  "event_clb-mission-25-1129": {
+    "name": "To LOVEru 联动任务"
+  },
+  "event_clb-mission-26-0429": {
+    "name": "三丽鸥角色联动任务"
+  },
+  "event_comeback-mission-23-0428": {
+    "name": "回归任务"
+  },
+  "event_comeback-mission-23-0926": {
+    "name": "回归任务"
+  },
+  "event_comeback-mission-23-1125": {
+    "name": "回归任务"
+  },
+  "event_comeback-mission-24-0128": {
+    "name": "回归任务"
+  },
+  "event_comeback-mission-24-0624": {
+    "name": "回归任务"
+  },
+  "event_comeback-mission-24-0925": {
+    "name": "回归任务"
+  },
+  "event_comeback-mission-24-1128": {
+    "name": "回归任务"
+  },
+  "event_comeback-mission-24-1224": {
+    "name": "回归任务"
+  },
+  "event_comeback-mission-25-0225": {
+    "name": "回归任务"
+  },
+  "event_comeback-mission-25-1126": {
+    "name": "回归任务"
+  },
+  "event_dream-mission-25-0515": {
+    "name": "联动任务"
+  },
+  "event_fes-mission-22-0929": {
+    "name": "庆典举办纪念任务"
+  },
+  "event_fes-mission-23-1002": {
+    "name": "LizNoir庆典举办纪念任务"
+  },
+  "event_fes-mission-24-0330": {
+    "name": "TRINITYAiLE庆典举办纪念任务"
+  },
+  "event_fes-mission-24-0927": {
+    "name": "庆典举办纪念任务"
+  },
+  "event_fes-mission-25-0329": {
+    "name": "IDOLY PRIDE庆典举办纪念任务"
+  },
+  "event_fes-mission-25-0730": {
+    "name": "IDOLY PRIDE庆典举办纪念任务"
+  },
+  "event_fes-mission-25-0929": {
+    "name": "IDOLY PRIDE庆典举办纪念任务"
+  },
+  "event_fes-mission-25-1227": {
+    "name": "IDOLY PRIDE庆典举办纪念任务"
+  },
+  "event_fes-mission-26-0329": {
+    "name": "IDOLY PRIDE庆典举办纪念任务"
+  },
+  "event_fes-mission-26-0626": {
+    "name": "5周年纪念任务"
+  },
+  "event_goch-mission-24-1129": {
+    "name": "联动任务"
+  },
+  "event_gw-mission-22-0501": {
+    "name": "黄金周任务"
+  },
+  "event_gw-mission-25-0506": {
+    "name": "GW举办纪念任务"
+  },
+  "event_gwhs-mission-25-0503": {
+    "name": "GW特别高分演唱会任务"
+  },
+  "event_hruh-mission-25-0227": {
+    "name": "凉宫春日的忧郁联动任务"
+  },
+  "event_idoly-pride-day-mission-24-0710": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-24-0720": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-24-0730": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-24-1210": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-24-1220": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-24-1230": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0110": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0120": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0130": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0210": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0220": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0310": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0320": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0330": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0410": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0420": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0427": {
+    "name": "【每日更新】连续10天IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0510": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0520": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0530": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0610": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0620": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0630": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0710": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0720": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0730": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0810": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0820": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0830": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0910": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0920": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-0930": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-1010": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-1020": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-1030": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-1110": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-1120": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-1130": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-1210": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-1220": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-25-1230": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0101": {
+    "name": "新春！三连休是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0110": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0120": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0130": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0210": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0220": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0310": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0320": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0330": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0410": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0420": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0429": {
+    "name": "【每日更新】连续10天IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0510": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0520": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0530": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0610": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0618": {
+    "name": "距5周年每天都是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0630": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0710": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0720": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0730": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0810": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0820": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0830": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0910": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-0920": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_live-mission-23-0503": {
+    "name": "演唱会任务"
+  },
+  "event_lovelive-mission-23-1202": {
+    "name": "联动任务"
+  },
+  "event_medley-mission-23-1228": {
+    "name": "2.5周年串烧任务"
+  },
+  "event_medley-mission-24-0612": {
+    "name": "3周年串烧任务"
+  },
+  "event_miku-mission-22-0903": {
+    "name": "初音未来联动任务"
+  },
+  "event_miku-mission-25-0830": {
+    "name": "初音未来联动任务"
+  },
+  "event_mission-21-0624": {
+    "name": "名片交换任务"
+  },
+  "event_mission-21-0627": {
+    "name": "上线纪念偶像培养任务"
+  },
+  "event_mission-21-0712": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-21-0804": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-21-0813": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-21-0822": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-21-0906": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-21-0917": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-21-0930": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-21-1014": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-21-1025": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-21-1105": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-21-1117": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-22-0118": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-22-0216": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-22-0303": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-22-0403": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-22-0423": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-22-0527": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-22-0717": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-22-0803": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-22-1018": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-22-1123": {
+    "name": "偶像培养任务"
+  },
+  "event_mission-23-0521": {
+    "name": "偶像培养任务"
+  },
+  "event_newyear-mission-22-0101": {
+    "name": "新年任务"
+  },
+  "event_newyear-mission-24-0110": {
+    "name": "新春任务"
+  },
+  "event_newyear-mission-25-0107": {
+    "name": "新春任务"
+  },
+  "event_newyear-mission-26-0106": {
+    "name": "新春任务"
+  },
+  "event_osip-mission-24-0716": {
+    "name": "告诉我IDOLY PRIDE任务"
+  },
+  "event_osip-mission-24-1127": {
+    "name": "联动举办纪念！预习任务"
+  },
+  "event_photo-mission-23-0430": {
+    "name": "联动照片培养任务"
+  },
+  "event_pvp-mission-23-0402": {
+    "name": "特别VENUS对战特别任务"
+  },
+  "event_pvp-mission-23-0612": {
+    "name": "特别VENUS对战特别任务"
+  },
+  "event_pvp-mission-23-0831": {
+    "name": "特别VENUS对战特别任务"
+  },
+  "event_pvp-mission-23-1109": {
+    "name": "特别VENUS对战特别任务"
+  },
+  "event_pvp-mission-24-0130": {
+    "name": "特别VENUS对战特别任务"
+  },
+  "event_pvp-mission-24-0521": {
+    "name": "VENUS对战特别任务"
+  },
+  "event_pvp-mission-24-0610": {
+    "name": "特别VENUS对战特别任务"
+  },
+  "event_pvp-mission-25-0313": {
+    "name": "特别VENUS对战特别任务"
+  },
+  "event_pvp-mission-25-0929": {
+    "name": "特别VENUS对战特别任务"
+  },
+  "event_pvp-mission-25-1218": {
+    "name": "特别VENUS对战特别任务"
+  },
+  "event_sm-mission-23-0731": {
+    "name": "夏日任务"
+  },
+  "event_sm-mission-24-0730": {
+    "name": "夏日任务"
+  },
+  "event_sm-mission-25-0314": {
+    "name": "感恩祭任务"
+  },
+  "event_sp-beginner-mission-23-1125": {
+    "name": "期间限定！特别新手任务"
+  },
+  "event_sp-beginner-mission-24-0128": {
+    "name": "期间限定！特别新手任务"
+  },
+  "event_sp-beginner-mission-24-1128": {
+    "name": "期间限定！特别新手任务"
+  },
+  "event_sp-beginner-mission-25-0225": {
+    "name": "期间限定！特别新手任务"
+  },
+  "event_sp-beginner-mission-25-1126": {
+    "name": "期间限定！特别新手任务"
+  },
+  "event_spr-mission-22-0314": {
+    "name": "春季任务"
+  },
+  "event_spr-mission-23-0313": {
+    "name": "春季任务"
+  },
+  "event_spr-mission-26-0411": {
+    "name": "春季任务"
+  },
+  "event_spr-mission-26-0826": {
+    "name": "外出任务"
+  },
+  "event_spr-mission-26-0909": {
+    "name": "外出任务"
+  },
+  "event_spr-mission-26-0926": {
+    "name": "外出任务"
+  },
+  "event_story-mission-23-0619": {
+    "name": "2周年纪念主线剧情任务"
+  },
+  "event_story-mission-24-0427": {
+    "name": "GW主线剧情任务"
+  },
+  "event_story-mission-25-0515": {
+    "name": "主线剧情任务"
+  },
+  "event_story-shooting-mission-24-0304": {
+    "name": "主线剧情拍摄任务"
+  },
+  "event_thanks-mission-22-0413": {
+    "name": "感恩祭任务"
+  },
+  "event_thanks-mission-24-0302": {
+    "name": "感恩祭任务"
+  },
+  "event_thanks-mission-26-0228": {
+    "name": "感恩祭任务"
+  },
+  "event_verysoon-mission-25-0528": {
+    "name": "即将4周年纪念任务"
+  },
+  "event_verysoon-mission-26-0530": {
+    "name": "即将5周年纪念任务"
+  },
+  "event_vlnt-mission-22-0203": {
+    "name": "情人节任务"
+  },
+  "event_vlnt-mission-23-0130": {
+    "name": "情人节任务"
+  },
+  "event_vlnt-mission-24-0214": {
+    "name": "情人节任务"
+  },
+  "event_vlnt-mission-25-0131": {
+    "name": "情人节任务"
+  },
+  "event_vlnt-mission-26-0130": {
+    "name": "情人节任务"
+  },
+  "event_xmas-mission-21-1211": {
+    "name": "圣诞节任务"
+  },
+  "event_xmas-mission-22-1205": {
+    "name": "圣诞节任务"
+  },
+  "event_xmas-mission-24-1227": {
+    "name": "The Black Lily任务"
+  },
+  "event_xmas-mission-25-0702": {
+    "name": "公开纪念任务"
+  },
+  "event_yukimiku-mission-24-0131": {
+    "name": "雪未来联动任务"
+  },
+  "surprise-mission-25-0618": {
+    "name": "即将4周年纪念惊喜任务"
+  }
+}

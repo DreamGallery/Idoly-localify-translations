@@ -1,0 +1,2864 @@
+{
+  "cos-ai-anml-00": {
+    "name": "甜美淑女兔"
+  },
+  "cos-ai-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-ai-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-ai-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-ai-arab-00": {
+    "name": "跳跃全亮"
+  },
+  "cos-ai-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-ai-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-ai-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-ai-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-ai-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-ai-chna-01": {
+    "name": "舞斗衣"
+  },
+  "cos-ai-fest-02": {
+    "name": "生命之声"
+  },
+  "cos-ai-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-ai-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-ai-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-ai-idol-00": {
+    "name": "高贵百合"
+  },
+  "cos-ai-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-ai-idol-03": {
+    "name": "合而为一"
+  },
+  "cos-ai-idol-04": {
+    "name": "仅凭热情活下去"
+  },
+  "cos-ai-idol-05": {
+    "name": "王权百合系列"
+  },
+  "cos-ai-kait-00": {
+    "name": "最后的机会"
+  },
+  "cos-ai-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-ai-link-01": {
+    "name": "莉耶尔芙蕾"
+  },
+  "cos-ai-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-ai-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-ai-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-ai-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-ai-mizg-01": {
+    "name": "蓝天夏日"
+  },
+  "cos-ai-mizg-02": {
+    "name": "舞动与潜水"
+  },
+  "cos-ai-newy-00": {
+    "name": "最高优美孤独"
+  },
+  "cos-ai-rock-00": {
+    "name": "百合舞会"
+  },
+  "cos-ai-schl-00": {
+    "name": "月出高等学校"
+  },
+  "cos-ai-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-ai-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-ai-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-ai-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-ai-tact-00": {
+    "name": "军事与战术"
+  },
+  "cos-ai-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-ai-trng-00": {
+    "name": "运动服"
+  },
+  "cos-ai-vlnt-00": {
+    "name": "暗黑共鸣者"
+  },
+  "cos-ai-wedd-00": {
+    "name": "强力新娘"
+  },
+  "cos-ai-yukt-00": {
+    "name": "卡尔普"
+  },
+  "cos-aoi-anml-00": {
+    "name": "甜美淑女猫"
+  },
+  "cos-aoi-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-aoi-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-aoi-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-aoi-arab-00": {
+    "name": "跳跃全亮"
+  },
+  "cos-aoi-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-aoi-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-aoi-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-aoi-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-aoi-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-aoi-chna-01": {
+    "name": "舞斗衣"
+  },
+  "cos-aoi-circ-00": {
+    "name": "竞速共鸣"
+  },
+  "cos-aoi-fest-00": {
+    "name": "永恒辉煌"
+  },
+  "cos-aoi-fest-02": {
+    "name": "生命之声"
+  },
+  "cos-aoi-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-aoi-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-aoi-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-aoi-idol-00": {
+    "name": "高贵百合"
+  },
+  "cos-aoi-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-aoi-idol-03": {
+    "name": "合而为一"
+  },
+  "cos-aoi-idol-04": {
+    "name": "仅凭热情活下去"
+  },
+  "cos-aoi-idol-05": {
+    "name": "王权百合系列"
+  },
+  "cos-aoi-kait-00": {
+    "name": "最后的机会"
+  },
+  "cos-aoi-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-aoi-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-aoi-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-aoi-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-aoi-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-aoi-mizg-01": {
+    "name": "蓝天夏日"
+  },
+  "cos-aoi-mizg-02": {
+    "name": "舞动与潜水"
+  },
+  "cos-aoi-newy-00": {
+    "name": "最高优美孤独"
+  },
+  "cos-aoi-past-00": {
+    "name": "古典百合"
+  },
+  "cos-aoi-schl-00": {
+    "name": "月出高等学校"
+  },
+  "cos-aoi-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-aoi-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-aoi-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-aoi-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-aoi-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-aoi-trng-00": {
+    "name": "运动服"
+  },
+  "cos-aoi-vlnt-00": {
+    "name": "暗黑共鸣者"
+  },
+  "cos-aoi-wdnc-00": {
+    "name": "喜剧舞者"
+  },
+  "cos-aoi-wedd-00": {
+    "name": "优雅新娘"
+  },
+  "cos-aoi-yukt-00": {
+    "name": "卡尔普"
+  },
+  "cos-cca-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-cca-goch-01": {
+    "name": "神圣兔子"
+  },
+  "cos-cca-goch-02": {
+    "name": "睡衣"
+  },
+  "cos-chk-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-chk-sush-01": {
+    "name": "璀璨圣诞"
+  },
+  "cos-chk-sush-02": {
+    "name": "浦之星女学院（冬装）"
+  },
+  "cos-chk-sush-03": {
+    "name": "浦之星女学院（夏装）"
+  },
+  "cos-chn-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-chn-goch-01": {
+    "name": "神圣兔子"
+  },
+  "cos-chn-goch-02": {
+    "name": "睡衣"
+  },
+  "cos-chs-alic-00": {
+    "name": "爱丽丝之恋"
+  },
+  "cos-chs-anml-00": {
+    "name": "甜美淑女兔"
+  },
+  "cos-chs-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-chs-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-chs-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-chs-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-chs-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-chs-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-chs-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-chs-casl-03": {
+    "name": "双人一体风格"
+  },
+  "cos-chs-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-chs-chia-00": {
+    "name": "和平出发"
+  },
+  "cos-chs-chsk-00": {
+    "name": "相连之心Binary"
+  },
+  "cos-chs-flow-00": {
+    "name": "常春藤绣球"
+  },
+  "cos-chs-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-chs-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-chs-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-chs-goch-01": {
+    "name": "神圣兔子"
+  },
+  "cos-chs-hruh-00": {
+    "name": "县立北高"
+  },
+  "cos-chs-idol-00": {
+    "name": "集结和声"
+  },
+  "cos-chs-idol-01": {
+    "name": "告别我的爱"
+  },
+  "cos-chs-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-chs-idol-03": {
+    "name": "与阳光同行"
+  },
+  "cos-chs-idol-04": {
+    "name": "成功无处不在"
+  },
+  "cos-chs-idol-05": {
+    "name": "羁绊和声"
+  },
+  "cos-chs-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-chs-link-00": {
+    "name": "莉耶丝黛拉"
+  },
+  "cos-chs-link-01": {
+    "name": "莉耶尔芙蕾"
+  },
+  "cos-chs-maid-00": {
+    "name": "款待咖啡厅"
+  },
+  "cos-chs-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-chs-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-chs-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-chs-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-chs-mizg-01": {
+    "name": "夏日假期"
+  },
+  "cos-chs-mizg-03": {
+    "name": "阳光岛屿"
+  },
+  "cos-chs-mizg-04": {
+    "name": "阳光感觉"
+  },
+  "cos-chs-newy-00": {
+    "name": "全力振袖・椿"
+  },
+  "cos-chs-pajm-00": {
+    "name": "睡衣派对"
+  },
+  "cos-chs-rock-00": {
+    "name": "阳光舞者"
+  },
+  "cos-chs-schl-00": {
+    "name": "光崎高等学校"
+  },
+  "cos-chs-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-chs-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-chs-seik-00": {
+    "name": "天使祝福"
+  },
+  "cos-chs-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-chs-sucu-00": {
+    "name": "午夜魅魔"
+  },
+  "cos-chs-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-chs-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-chs-trng-00": {
+    "name": "运动服"
+  },
+  "cos-chs-vlnt-00": {
+    "name": "可爱情人节"
+  },
+  "cos-chs-yukt-00": {
+    "name": "红毒鱼"
+  },
+  "cos-cinnamo-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-gyo-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-haruhi-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-hrk-adlt-00": {
+    "name": "日落优雅"
+  },
+  "cos-hrk-anml-00": {
+    "name": "甜美淑女兔"
+  },
+  "cos-hrk-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-hrk-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-hrk-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-hrk-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-hrk-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-hrk-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-hrk-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-hrk-casl-03": {
+    "name": "双人一体风格"
+  },
+  "cos-hrk-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-hrk-chia-00": {
+    "name": "和平出发"
+  },
+  "cos-hrk-chna-00": {
+    "name": "艳丽华衣"
+  },
+  "cos-hrk-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-hrk-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-hrk-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-hrk-idol-00": {
+    "name": "集结和声"
+  },
+  "cos-hrk-idol-01": {
+    "name": "告别我的爱"
+  },
+  "cos-hrk-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-hrk-idol-03": {
+    "name": "与阳光同行"
+  },
+  "cos-hrk-idol-04": {
+    "name": "成功无处不在"
+  },
+  "cos-hrk-idol-05": {
+    "name": "羁绊和声"
+  },
+  "cos-hrk-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-hrk-link-01": {
+    "name": "莉耶尔芙蕾"
+  },
+  "cos-hrk-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-hrk-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-hrk-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-hrk-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-hrk-mizg-01": {
+    "name": "夏日假期"
+  },
+  "cos-hrk-mizg-03": {
+    "name": "阳光岛屿"
+  },
+  "cos-hrk-mnab-00": {
+    "name": "与你同唱"
+  },
+  "cos-hrk-msic-00": {
+    "name": "与你的歌"
+  },
+  "cos-hrk-newy-00": {
+    "name": "全力振袖・菊"
+  },
+  "cos-hrk-onep-00": {
+    "name": "优雅小苍兰"
+  },
+  "cos-hrk-pair-00": {
+    "name": "节奏牛仔"
+  },
+  "cos-hrk-pajm-00": {
+    "name": "假日装束"
+  },
+  "cos-hrk-sail-00": {
+    "name": "暖阳水手服"
+  },
+  "cos-hrk-schl-00": {
+    "name": "星见高等学校"
+  },
+  "cos-hrk-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-hrk-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-hrk-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-hrk-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-hrk-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-hrk-trng-00": {
+    "name": "运动服"
+  },
+  "cos-hrk-vlnt-00": {
+    "name": "可爱情人节"
+  },
+  "cos-hrk-wedd-00": {
+    "name": "永恒・新娘"
+  },
+  "cos-hrk-xmas-00": {
+    "name": "白色・浪漫"
+  },
+  "cos-itsuki-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-kan-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-kan-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-kan-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-kan-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-kan-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-kan-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-kan-chia-00": {
+    "name": "欢欣装束"
+  },
+  "cos-kan-chna-00": {
+    "name": "爆笑华衣"
+  },
+  "cos-kan-fest-02": {
+    "name": "苦甜回响"
+  },
+  "cos-kan-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-kan-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-kan-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-kan-idol-00": {
+    "name": "革新之箭"
+  },
+  "cos-kan-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-kan-idol-03": {
+    "name": "光芒先锋"
+  },
+  "cos-kan-idol-05": {
+    "name": "狮子之箭"
+  },
+  "cos-kan-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-kan-link-00": {
+    "name": "莉耶丝黛拉"
+  },
+  "cos-kan-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-kan-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-kan-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-kan-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-kan-mizg-01": {
+    "name": "胜利海滩"
+  },
+  "cos-kan-newy-00": {
+    "name": "内外翻转"
+  },
+  "cos-kan-pair-00": {
+    "name": "天使与恶魔"
+  },
+  "cos-kan-poli-00": {
+    "name": "天堂正义"
+  },
+  "cos-kan-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-kan-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-kan-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-kan-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-kan-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-kan-trng-00": {
+    "name": "运动服"
+  },
+  "cos-kan-xmas-00": {
+    "name": "圣诞守夜"
+  },
+  "cos-kitty-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-kkr-anml-00": {
+    "name": "甜美淑女熊"
+  },
+  "cos-kkr-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-kkr-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-kkr-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-kkr-arab-00": {
+    "name": "跳跃全亮"
+  },
+  "cos-kkr-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-kkr-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-kkr-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-kkr-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-kkr-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-kkr-chna-01": {
+    "name": "舞斗衣"
+  },
+  "cos-kkr-fest-02": {
+    "name": "生命之声"
+  },
+  "cos-kkr-flow-00": {
+    "name": "常春藤绣球"
+  },
+  "cos-kkr-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-kkr-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-kkr-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-kkr-goch-01": {
+    "name": "神圣兔子"
+  },
+  "cos-kkr-idol-00": {
+    "name": "高贵百合"
+  },
+  "cos-kkr-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-kkr-idol-03": {
+    "name": "合而为一"
+  },
+  "cos-kkr-idol-04": {
+    "name": "仅凭热情活下去"
+  },
+  "cos-kkr-idol-05": {
+    "name": "王权百合系列"
+  },
+  "cos-kkr-kait-00": {
+    "name": "最后的机会"
+  },
+  "cos-kkr-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-kkr-link-00": {
+    "name": "莉耶丝黛拉"
+  },
+  "cos-kkr-link-01": {
+    "name": "莉耶尔芙蕾"
+  },
+  "cos-kkr-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-kkr-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-kkr-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-kkr-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-kkr-mizg-01": {
+    "name": "蓝天夏日"
+  },
+  "cos-kkr-mizg-02": {
+    "name": "舞动与潜水"
+  },
+  "cos-kkr-newy-00": {
+    "name": "最高优美孤独"
+  },
+  "cos-kkr-pair-00": {
+    "name": "天使与恶魔"
+  },
+  "cos-kkr-pajm-00": {
+    "name": "睡衣派对"
+  },
+  "cos-kkr-schl-00": {
+    "name": "丽叶女学院中等部"
+  },
+  "cos-kkr-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-kkr-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-kkr-seik-00": {
+    "name": "天使祝福"
+  },
+  "cos-kkr-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-kkr-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-kkr-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-kkr-trng-00": {
+    "name": "运动服"
+  },
+  "cos-kkr-vlnt-00": {
+    "name": "暗黑共鸣者"
+  },
+  "cos-kkr-yukt-00": {
+    "name": "卡尔普"
+  },
+  "cos-koh-casl-00": {
+    "name": "西装"
+  },
+  "cos-konazusa-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-konmio-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-konmugi-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-konritsu-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-konyui-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-kor-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-kor-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-kor-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-kor-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-kor-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-kor-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-kor-fest-02": {
+    "name": "苦甜回响"
+  },
+  "cos-kor-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-kor-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-kor-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-kor-idol-00": {
+    "name": "革新之箭"
+  },
+  "cos-kor-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-kor-idol-03": {
+    "name": "光芒先锋"
+  },
+  "cos-kor-idol-05": {
+    "name": "狮子之箭"
+  },
+  "cos-kor-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-kor-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-kor-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-kor-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-kor-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-kor-mizg-01": {
+    "name": "胜利海滩"
+  },
+  "cos-kor-newy-00": {
+    "name": "内外翻转"
+  },
+  "cos-kor-nurs-00": {
+    "name": "四天王死灵"
+  },
+  "cos-kor-poli-00": {
+    "name": "天堂正义"
+  },
+  "cos-kor-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-kor-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-kor-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-kor-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-kor-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-kor-trng-00": {
+    "name": "运动服"
+  },
+  "cos-kor-xmas-00": {
+    "name": "圣诞守夜"
+  },
+  "cos-ktn-anml-00": {
+    "name": "甜美淑女猫"
+  },
+  "cos-ktn-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-ktn-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-ktn-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-ktn-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-ktn-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-ktn-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-ktn-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-ktn-circ-00": {
+    "name": "竞速共鸣"
+  },
+  "cos-ktn-fest-00": {
+    "name": "永恒辉煌"
+  },
+  "cos-ktn-fest-01": {
+    "name": "宝石星辰"
+  },
+  "cos-ktn-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-ktn-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-ktn-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-ktn-idol-00": {
+    "name": "暗夜女王"
+  },
+  "cos-ktn-idol-01": {
+    "name": "告别我的爱"
+  },
+  "cos-ktn-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-ktn-idol-03": {
+    "name": "月之光"
+  },
+  "cos-ktn-idol-04": {
+    "name": "月之宝石"
+  },
+  "cos-ktn-idol-05": {
+    "name": "夜之红宝石"
+  },
+  "cos-ktn-kiok-00": {
+    "name": "星之海的记忆"
+  },
+  "cos-ktn-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-ktn-link-00": {
+    "name": "莉耶丝黛拉"
+  },
+  "cos-ktn-link-01": {
+    "name": "莉耶尔芙蕾"
+  },
+  "cos-ktn-maid-01": {
+    "name": "喵喵女仆"
+  },
+  "cos-ktn-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-ktn-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-ktn-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-ktn-miku-06": {
+    "name": "魔法未来2020夏"
+  },
+  "cos-ktn-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-ktn-mizg-01": {
+    "name": "月光恋夏"
+  },
+  "cos-ktn-mizg-02": {
+    "name": "太阳热夏"
+  },
+  "cos-ktn-mizg-03": {
+    "name": "羽毛漂浮"
+  },
+  "cos-ktn-mnab-00": {
+    "name": "与你同唱"
+  },
+  "cos-ktn-msic-00": {
+    "name": "与你的歌"
+  },
+  "cos-ktn-newy-00": {
+    "name": "绚烂振袖・红"
+  },
+  "cos-ktn-poli-00": {
+    "name": "Lua纪律"
+  },
+  "cos-ktn-schl-00": {
+    "name": "星见高等学校"
+  },
+  "cos-ktn-schl-01": {
+    "name": "星见中学"
+  },
+  "cos-ktn-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-ktn-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-ktn-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-ktn-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-ktn-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-ktn-trng-00": {
+    "name": "运动服"
+  },
+  "cos-ktn-vlnt-00": {
+    "name": "心动巧克力"
+  },
+  "cos-ktn-wedd-00": {
+    "name": "完美新娘"
+  },
+  "cos-ktn-xmas-00": {
+    "name": "圣诞节与你"
+  },
+  "cos-ktn-yukt-00": {
+    "name": "红毒鱼"
+  },
+  "cos-kuromi-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-kyon-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-kyui-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-lala-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-mei-anml-00": {
+    "name": "甜美淑女猫"
+  },
+  "cos-mei-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-mei-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-mei-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-mei-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-mei-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-mei-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-mei-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-mei-casl-02": {
+    "name": "约会装扮"
+  },
+  "cos-mei-date-00": {
+    "name": "纯白之洁"
+  },
+  "cos-mei-fest-00": {
+    "name": "永恒辉煌"
+  },
+  "cos-mei-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-mei-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-mei-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-mei-hruh-00": {
+    "name": "县立北高"
+  },
+  "cos-mei-hruh-01": {
+    "name": "战斗女仆"
+  },
+  "cos-mei-idol-00": {
+    "name": "暗夜女王"
+  },
+  "cos-mei-idol-01": {
+    "name": "告别我的爱"
+  },
+  "cos-mei-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-mei-idol-03": {
+    "name": "月之光"
+  },
+  "cos-mei-idol-04": {
+    "name": "月之宝石"
+  },
+  "cos-mei-idol-05": {
+    "name": "夜之红宝石"
+  },
+  "cos-mei-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-mei-link-00": {
+    "name": "莉耶丝黛拉"
+  },
+  "cos-mei-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-mei-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-mei-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-mei-miku-06": {
+    "name": "魔法未来2020夏"
+  },
+  "cos-mei-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-mei-mizg-01": {
+    "name": "月光恋夏"
+  },
+  "cos-mei-mizg-02": {
+    "name": "太阳热夏"
+  },
+  "cos-mei-newy-00": {
+    "name": "绚烂振袖・绯"
+  },
+  "cos-mei-pair-00": {
+    "name": "闪耀闪耀"
+  },
+  "cos-mei-rock-00": {
+    "name": "月下舞者"
+  },
+  "cos-mei-schl-00": {
+    "name": "星见高等学校"
+  },
+  "cos-mei-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-mei-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-mei-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-mei-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-mei-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-mei-trng-00": {
+    "name": "运动服"
+  },
+  "cos-mei-vlnt-00": {
+    "name": "心动巧克力"
+  },
+  "cos-mei-wdnc-00": {
+    "name": "喜剧舞者"
+  },
+  "cos-mei-wedd-00": {
+    "name": "完美新娘"
+  },
+  "cos-mei-xmas-00": {
+    "name": "圣诞节与你"
+  },
+  "cos-melody-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-mhk-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-mhk-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-mhk-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-mhk-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-mhk-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-mhk-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-mhk-chna-00": {
+    "name": "残照华衣"
+  },
+  "cos-mhk-circ-00": {
+    "name": "竞速共鸣"
+  },
+  "cos-mhk-fest-02": {
+    "name": "苦甜回响"
+  },
+  "cos-mhk-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-mhk-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-mhk-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-mhk-idol-00": {
+    "name": "革新之箭"
+  },
+  "cos-mhk-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-mhk-idol-03": {
+    "name": "光芒先锋"
+  },
+  "cos-mhk-idol-05": {
+    "name": "狮子之箭"
+  },
+  "cos-mhk-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-mhk-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-mhk-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-mhk-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-mhk-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-mhk-mizg-01": {
+    "name": "胜利海滩"
+  },
+  "cos-mhk-newy-00": {
+    "name": "内外翻转"
+  },
+  "cos-mhk-pajm-00": {
+    "name": "假日装束"
+  },
+  "cos-mhk-poli-00": {
+    "name": "天堂正义"
+  },
+  "cos-mhk-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-mhk-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-mhk-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-mhk-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-mhk-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-mhk-trng-00": {
+    "name": "运动服"
+  },
+  "cos-mhk-wedd-00": {
+    "name": "优雅新娘"
+  },
+  "cos-mhk-xmas-00": {
+    "name": "圣诞守夜"
+  },
+  "cos-mikuru-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-mku-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-mku-miku-01": {
+    "name": "魔法未来10th"
+  },
+  "cos-mku-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-mku-miku-06": {
+    "name": "魔法未来2020夏"
+  },
+  "cos-mna-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-mna-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-mna-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-mna-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-mna-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-mna-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-mna-casl-03": {
+    "name": "双人一体风格"
+  },
+  "cos-mna-fest-00": {
+    "name": "永恒辉煌"
+  },
+  "cos-mna-fest-01": {
+    "name": "恋红和装"
+  },
+  "cos-mna-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-mna-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-mna-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-mna-idol-00": {
+    "name": "第一步"
+  },
+  "cos-mna-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-mna-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-mna-link-00": {
+    "name": "莉耶丝黛拉"
+  },
+  "cos-mna-link-01": {
+    "name": "莉耶尔芙蕾"
+  },
+  "cos-mna-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-mna-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-mna-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-mna-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-mna-mizg-01": {
+    "name": "羽毛漂浮"
+  },
+  "cos-mna-mnab-00": {
+    "name": "与你同唱"
+  },
+  "cos-mna-msic-00": {
+    "name": "与你的歌"
+  },
+  "cos-mna-schl-00": {
+    "name": "星见高等学校"
+  },
+  "cos-mna-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-mna-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-mna-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-mna-trng-00": {
+    "name": "运动服"
+  },
+  "cos-mna-vlnt-00": {
+    "name": "首个情人节"
+  },
+  "cos-mna-wedd-00": {
+    "name": "永恒・新娘"
+  },
+  "cos-mng-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-momo-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-ngs-akma-00": {
+    "name": "心形恶魔"
+  },
+  "cos-ngs-anml-00": {
+    "name": "甜美淑女兔"
+  },
+  "cos-ngs-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-ngs-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-ngs-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-ngs-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-ngs-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-ngs-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-ngs-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-ngs-casl-02": {
+    "name": "约会装扮"
+  },
+  "cos-ngs-date-00": {
+    "name": "苍穹花蝶"
+  },
+  "cos-ngs-flow-00": {
+    "name": "纯真花朵"
+  },
+  "cos-ngs-frut-00": {
+    "name": "可爱蜜桃"
+  },
+  "cos-ngs-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-ngs-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-ngs-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-ngs-idol-00": {
+    "name": "暗夜女王"
+  },
+  "cos-ngs-idol-01": {
+    "name": "告别我的爱"
+  },
+  "cos-ngs-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-ngs-idol-03": {
+    "name": "月之光"
+  },
+  "cos-ngs-idol-04": {
+    "name": "月之宝石"
+  },
+  "cos-ngs-idol-05": {
+    "name": "夜之红宝石"
+  },
+  "cos-ngs-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-ngs-link-01": {
+    "name": "莉耶尔芙蕾"
+  },
+  "cos-ngs-maid-01": {
+    "name": "喵喵女仆"
+  },
+  "cos-ngs-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-ngs-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-ngs-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-ngs-miku-06": {
+    "name": "魔法未来2020夏"
+  },
+  "cos-ngs-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-ngs-mizg-01": {
+    "name": "月光恋夏"
+  },
+  "cos-ngs-mizg-02": {
+    "name": "太阳热夏"
+  },
+  "cos-ngs-newy-00": {
+    "name": "绚烂振袖·若叶"
+  },
+  "cos-ngs-pair-00": {
+    "name": "喵喵魔法"
+  },
+  "cos-ngs-schl-00": {
+    "name": "星见高等学校"
+  },
+  "cos-ngs-schl-01": {
+    "name": "星见中学"
+  },
+  "cos-ngs-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-ngs-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-ngs-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-ngs-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-ngs-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-ngs-trng-00": {
+    "name": "运动服"
+  },
+  "cos-ngs-vlnt-00": {
+    "name": "心动巧克力"
+  },
+  "cos-ngs-wedd-00": {
+    "name": "天界新娘"
+  },
+  "cos-ngs-xmas-00": {
+    "name": "圣诞节与你"
+  },
+  "cos-ngs-yukt-00": {
+    "name": "红毒鱼"
+  },
+  "cos-rei-anml-00": {
+    "name": "甜美淑女猫"
+  },
+  "cos-rei-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-rei-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-rei-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-rei-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-rei-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-rei-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-rei-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-rei-casl-02": {
+    "name": "约会装扮"
+  },
+  "cos-rei-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-rei-chia-00": {
+    "name": "和平出发"
+  },
+  "cos-rei-date-00": {
+    "name": "心愿游行"
+  },
+  "cos-rei-fest-00": {
+    "name": "永恒辉煌"
+  },
+  "cos-rei-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-rei-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-rei-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-rei-hruh-00": {
+    "name": "县立北高"
+  },
+  "cos-rei-idol-00": {
+    "name": "集结和声"
+  },
+  "cos-rei-idol-01": {
+    "name": "告别我的爱"
+  },
+  "cos-rei-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-rei-idol-03": {
+    "name": "与阳光同行"
+  },
+  "cos-rei-idol-04": {
+    "name": "成功无处不在"
+  },
+  "cos-rei-idol-05": {
+    "name": "羁绊和声"
+  },
+  "cos-rei-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-rei-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-rei-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-rei-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-rei-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-rei-mizg-01": {
+    "name": "夏日假期"
+  },
+  "cos-rei-mizg-02": {
+    "name": "太阳热夏"
+  },
+  "cos-rei-mizg-03": {
+    "name": "阳光岛屿"
+  },
+  "cos-rei-newy-00": {
+    "name": "全力振袖·牡丹"
+  },
+  "cos-rei-onep-00": {
+    "name": "花香芬芳"
+  },
+  "cos-rei-pair-00": {
+    "name": "节奏牛仔"
+  },
+  "cos-rei-rock-00": {
+    "name": "阳光舞者"
+  },
+  "cos-rei-sail-00": {
+    "name": "暖阳水手服"
+  },
+  "cos-rei-schl-00": {
+    "name": "丽叶女学院高等部"
+  },
+  "cos-rei-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-rei-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-rei-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-rei-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-rei-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-rei-trng-00": {
+    "name": "运动服"
+  },
+  "cos-rei-vlnt-00": {
+    "name": "可爱情人节"
+  },
+  "cos-rei-wdnc-00": {
+    "name": "喜剧舞者"
+  },
+  "cos-rei-wedd-00": {
+    "name": "天界新娘"
+  },
+  "cos-rik-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-rik-sush-01": {
+    "name": "璀璨圣诞"
+  },
+  "cos-rik-sush-02": {
+    "name": "浦之星女学院（冬装）"
+  },
+  "cos-rik-sush-03": {
+    "name": "浦之星女学院（夏装）"
+  },
+  "cos-rio-anml-00": {
+    "name": "甜美淑女猫"
+  },
+  "cos-rio-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-rio-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-rio-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-rio-arab-00": {
+    "name": "跳跃全亮"
+  },
+  "cos-rio-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-rio-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-rio-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-rio-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-rio-casl-02": {
+    "name": "办公风格"
+  },
+  "cos-rio-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-rio-chna-01": {
+    "name": "舞斗衣"
+  },
+  "cos-rio-date-00": {
+    "name": "新月繁花"
+  },
+  "cos-rio-fest-00": {
+    "name": "永恒辉煌"
+  },
+  "cos-rio-fest-01": {
+    "name": "冰华和装"
+  },
+  "cos-rio-fest-02": {
+    "name": "生命之声"
+  },
+  "cos-rio-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-rio-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-rio-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-rio-halw-00": {
+    "name": "哈迪斯护士"
+  },
+  "cos-rio-idol-00": {
+    "name": "高贵百合"
+  },
+  "cos-rio-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-rio-idol-03": {
+    "name": "合而为一"
+  },
+  "cos-rio-idol-04": {
+    "name": "仅凭热情活下去"
+  },
+  "cos-rio-idol-05": {
+    "name": "王权百合系列"
+  },
+  "cos-rio-kait-00": {
+    "name": "最后的机会"
+  },
+  "cos-rio-kiok-00": {
+    "name": "星之海的记忆"
+  },
+  "cos-rio-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-rio-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-rio-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-rio-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-rio-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-rio-mizg-01": {
+    "name": "蓝天夏日"
+  },
+  "cos-rio-mizg-02": {
+    "name": "舞动与潜水"
+  },
+  "cos-rio-msic-00": {
+    "name": "与你的歌"
+  },
+  "cos-rio-newy-00": {
+    "name": "最高优美孤独"
+  },
+  "cos-rio-pajm-00": {
+    "name": "假日装束"
+  },
+  "cos-rio-past-00": {
+    "name": "古典百合"
+  },
+  "cos-rio-schl-00": {
+    "name": "月出高等学校"
+  },
+  "cos-rio-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-rio-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-rio-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-rio-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-rio-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-rio-trng-00": {
+    "name": "运动服"
+  },
+  "cos-rio-vlnt-00": {
+    "name": "暗黑共鸣者"
+  },
+  "cos-rio-wedd-00": {
+    "name": "优雅新娘"
+  },
+  "cos-rio-yukt-00": {
+    "name": "卡尔普"
+  },
+  "cos-rui-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-rui-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-rui-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-rui-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-rui-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-rui-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-rui-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-rui-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-rui-date-00": {
+    "name": "夏日风格"
+  },
+  "cos-rui-fest-02": {
+    "name": "希望"
+  },
+  "cos-rui-fest-03": {
+    "name": "感恩"
+  },
+  "cos-rui-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-rui-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-rui-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-rui-idol-00": {
+    "name": "骑士"
+  },
+  "cos-rui-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-rui-idol-03": {
+    "name": "羽毛"
+  },
+  "cos-rui-idol-04": {
+    "name": "胜利"
+  },
+  "cos-rui-idol-05": {
+    "name": "宇宙"
+  },
+  "cos-rui-jwel-00": {
+    "name": "天空宝石"
+  },
+  "cos-rui-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-rui-link-01": {
+    "name": "莉耶尔芙蕾"
+  },
+  "cos-rui-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-rui-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-rui-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-rui-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-rui-mizg-01": {
+    "name": "热带繁花"
+  },
+  "cos-rui-newy-00": {
+    "name": "崭新的一天"
+  },
+  "cos-rui-nurs-00": {
+    "name": "Pretty★Angel"
+  },
+  "cos-rui-schl-00": {
+    "name": "月出高等学校"
+  },
+  "cos-rui-schl-01": {
+    "name": "月出中学"
+  },
+  "cos-rui-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-rui-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-rui-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-rui-ster-00": {
+    "name": "闪耀优雅"
+  },
+  "cos-rui-sucu-00": {
+    "name": "午夜魅魔"
+  },
+  "cos-rui-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-rui-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-rui-trng-00": {
+    "name": "运动服"
+  },
+  "cos-rui-vlnt-00": {
+    "name": "巧克力之吻"
+  },
+  "cos-rui-xmas-00": {
+    "name": "Lumiere"
+  },
+  "cos-rui-yukt-00": {
+    "name": "卡尔普"
+  },
+  "cos-rui-yuru-00": {
+    "name": "藏红花的门扉"
+  },
+  "cos-ski-anml-00": {
+    "name": "甜美淑女兔"
+  },
+  "cos-ski-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-ski-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-ski-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-ski-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-ski-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-ski-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-ski-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-ski-chsk-00": {
+    "name": "相连之心Binary"
+  },
+  "cos-ski-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-ski-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-ski-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-ski-hruh-00": {
+    "name": "县立北高"
+  },
+  "cos-ski-idol-00": {
+    "name": "暗夜女王"
+  },
+  "cos-ski-idol-01": {
+    "name": "告别我的爱"
+  },
+  "cos-ski-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-ski-idol-03": {
+    "name": "月之光"
+  },
+  "cos-ski-idol-04": {
+    "name": "月之宝石"
+  },
+  "cos-ski-idol-05": {
+    "name": "夜之红宝石"
+  },
+  "cos-ski-kifj-00": {
+    "name": "窈窕淑女"
+  },
+  "cos-ski-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-ski-link-00": {
+    "name": "莉耶丝黛拉"
+  },
+  "cos-ski-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-ski-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-ski-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-ski-miku-06": {
+    "name": "魔法未来2020夏"
+  },
+  "cos-ski-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-ski-mizg-01": {
+    "name": "月光恋夏"
+  },
+  "cos-ski-mizg-02": {
+    "name": "太阳热夏"
+  },
+  "cos-ski-newy-00": {
+    "name": "绚烂振袖・空"
+  },
+  "cos-ski-onep-00": {
+    "name": "花香芬芳"
+  },
+  "cos-ski-poli-00": {
+    "name": "Lua纪律"
+  },
+  "cos-ski-schl-00": {
+    "name": "光崎高等学校"
+  },
+  "cos-ski-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-ski-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-ski-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-ski-ster-00": {
+    "name": "闪耀优雅"
+  },
+  "cos-ski-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-ski-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-ski-trng-00": {
+    "name": "运动服"
+  },
+  "cos-ski-vlnt-00": {
+    "name": "心动巧克力"
+  },
+  "cos-ski-waso-00": {
+    "name": "心形摇滚"
+  },
+  "cos-ski-xmas-00": {
+    "name": "圣诞节与你"
+  },
+  "cos-skr-adlt-00": {
+    "name": "日落优雅"
+  },
+  "cos-skr-anml-00": {
+    "name": "甜美淑女熊"
+  },
+  "cos-skr-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-skr-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-skr-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-skr-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-skr-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-skr-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-skr-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-skr-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-skr-chia-00": {
+    "name": "和平出发"
+  },
+  "cos-skr-chna-00": {
+    "name": "满福华衣"
+  },
+  "cos-skr-fest-00": {
+    "name": "永恒辉煌"
+  },
+  "cos-skr-fest-01": {
+    "name": "宝石星辰"
+  },
+  "cos-skr-flow-00": {
+    "name": "常春藤绣球"
+  },
+  "cos-skr-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-skr-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-skr-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-skr-idol-00": {
+    "name": "集结和声"
+  },
+  "cos-skr-idol-01": {
+    "name": "告别我的爱"
+  },
+  "cos-skr-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-skr-idol-03": {
+    "name": "与阳光同行"
+  },
+  "cos-skr-idol-04": {
+    "name": "成功无处不在"
+  },
+  "cos-skr-idol-05": {
+    "name": "羁绊和声"
+  },
+  "cos-skr-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-skr-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-skr-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-skr-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-skr-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-skr-mizg-01": {
+    "name": "夏日假期"
+  },
+  "cos-skr-mizg-03": {
+    "name": "阳光岛屿"
+  },
+  "cos-skr-mizg-04": {
+    "name": "阳光感觉"
+  },
+  "cos-skr-msic-00": {
+    "name": "与你的歌"
+  },
+  "cos-skr-newy-00": {
+    "name": "全力振袖・樱"
+  },
+  "cos-skr-sail-00": {
+    "name": "暖阳水手服"
+  },
+  "cos-skr-schl-00": {
+    "name": "光崎高等学校"
+  },
+  "cos-skr-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-skr-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-skr-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-skr-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-skr-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-skr-trng-00": {
+    "name": "运动服"
+  },
+  "cos-skr-vlnt-00": {
+    "name": "可爱情人节"
+  },
+  "cos-skr-wedd-00": {
+    "name": "甜蜜新娘"
+  },
+  "cos-smr-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-smr-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-smr-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-smr-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-smr-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-smr-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-smr-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-smr-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-smr-fest-00": {
+    "name": "永恒辉煌"
+  },
+  "cos-smr-fest-02": {
+    "name": "希望"
+  },
+  "cos-smr-fest-03": {
+    "name": "感恩"
+  },
+  "cos-smr-frut-00": {
+    "name": "可爱樱桃"
+  },
+  "cos-smr-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-smr-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-smr-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-smr-goch-01": {
+    "name": "神圣兔子"
+  },
+  "cos-smr-idol-00": {
+    "name": "骑士"
+  },
+  "cos-smr-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-smr-idol-03": {
+    "name": "羽毛"
+  },
+  "cos-smr-idol-04": {
+    "name": "胜利"
+  },
+  "cos-smr-idol-05": {
+    "name": "宇宙"
+  },
+  "cos-smr-jwel-00": {
+    "name": "天空宝石"
+  },
+  "cos-smr-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-smr-magi-00": {
+    "name": "魔法元素"
+  },
+  "cos-smr-maid-00": {
+    "name": "款待咖啡厅"
+  },
+  "cos-smr-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-smr-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-smr-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-smr-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-smr-mizg-01": {
+    "name": "热带繁花"
+  },
+  "cos-smr-newy-00": {
+    "name": "崭新的一天"
+  },
+  "cos-smr-nurs-00": {
+    "name": "Pretty★Angel"
+  },
+  "cos-smr-pajm-00": {
+    "name": "睡衣派对"
+  },
+  "cos-smr-schl-00": {
+    "name": "红花中学"
+  },
+  "cos-smr-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-smr-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-smr-seik-00": {
+    "name": "天使祝福"
+  },
+  "cos-smr-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-smr-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-smr-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-smr-trng-00": {
+    "name": "运动服"
+  },
+  "cos-smr-vlnt-00": {
+    "name": "巧克力之吻"
+  },
+  "cos-smr-xmas-00": {
+    "name": "Lumiere"
+  },
+  "cos-stm-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-stm1-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-stm1-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-stm2-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-stm2-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-stm3-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-stm3-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-stm4-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-stm4-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-stm5-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-stm5-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-suz-alic-00": {
+    "name": "奇妙爱丽丝"
+  },
+  "cos-suz-alic-01": {
+    "name": "神秘猫咪"
+  },
+  "cos-suz-angl-00": {
+    "name": "天使之心"
+  },
+  "cos-suz-anml-00": {
+    "name": "甜美淑女熊"
+  },
+  "cos-suz-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-suz-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-suz-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-suz-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-suz-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-suz-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-suz-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-suz-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-suz-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-suz-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-suz-goch-01": {
+    "name": "神圣兔子"
+  },
+  "cos-suz-idol-00": {
+    "name": "暗夜女王"
+  },
+  "cos-suz-idol-01": {
+    "name": "告别我的爱"
+  },
+  "cos-suz-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-suz-idol-03": {
+    "name": "月之光"
+  },
+  "cos-suz-idol-04": {
+    "name": "月之宝石"
+  },
+  "cos-suz-idol-05": {
+    "name": "夜之红宝石"
+  },
+  "cos-suz-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-suz-link-00": {
+    "name": "莉耶丝黛拉"
+  },
+  "cos-suz-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-suz-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-suz-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-suz-miku-06": {
+    "name": "魔法未来2020夏"
+  },
+  "cos-suz-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-suz-mizg-01": {
+    "name": "月光恋夏"
+  },
+  "cos-suz-mizg-02": {
+    "name": "太阳热夏"
+  },
+  "cos-suz-msic-00": {
+    "name": "与你的歌"
+  },
+  "cos-suz-newy-00": {
+    "name": "绚烂振袖・桃"
+  },
+  "cos-suz-onep-00": {
+    "name": "珍贵唯一"
+  },
+  "cos-suz-pair-00": {
+    "name": "闪耀闪耀"
+  },
+  "cos-suz-pajm-00": {
+    "name": "睡衣派对"
+  },
+  "cos-suz-schl-00": {
+    "name": "丽叶女学院中等部"
+  },
+  "cos-suz-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-suz-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-suz-seik-00": {
+    "name": "天使祝福"
+  },
+  "cos-suz-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-suz-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-suz-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-suz-trng-00": {
+    "name": "运动服"
+  },
+  "cos-suz-vlnt-00": {
+    "name": "心动巧克力"
+  },
+  "cos-suz-wedd-00": {
+    "name": "名流新娘"
+  },
+  "cos-suz-xmas-00": {
+    "name": "圣诞节与你"
+  },
+  "cos-szk-alic-00": {
+    "name": "奇妙爱丽丝"
+  },
+  "cos-szk-alic-01": {
+    "name": "神秘猫咪"
+  },
+  "cos-szk-angl-00": {
+    "name": "天使之心"
+  },
+  "cos-szk-anml-00": {
+    "name": "甜美淑女猫"
+  },
+  "cos-szk-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-szk-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-szk-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-szk-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-szk-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-szk-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-szk-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-szk-casl-03": {
+    "name": "双人一体风格"
+  },
+  "cos-szk-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-szk-chia-00": {
+    "name": "和平出发"
+  },
+  "cos-szk-chna-00": {
+    "name": "狮子舞华衣"
+  },
+  "cos-szk-flow-00": {
+    "name": "常春藤绣球"
+  },
+  "cos-szk-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-szk-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-szk-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-szk-goch-01": {
+    "name": "神圣兔子"
+  },
+  "cos-szk-idol-00": {
+    "name": "集结和声"
+  },
+  "cos-szk-idol-01": {
+    "name": "告别我的爱"
+  },
+  "cos-szk-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-szk-idol-03": {
+    "name": "与阳光同行"
+  },
+  "cos-szk-idol-04": {
+    "name": "成功无处不在"
+  },
+  "cos-szk-idol-05": {
+    "name": "羁绊和声"
+  },
+  "cos-szk-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-szk-link-01": {
+    "name": "莉耶尔芙蕾"
+  },
+  "cos-szk-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-szk-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-szk-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-szk-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-szk-mizg-01": {
+    "name": "夏日假期"
+  },
+  "cos-szk-mizg-03": {
+    "name": "阳光岛屿"
+  },
+  "cos-szk-newy-00": {
+    "name": "全力振袖・梅"
+  },
+  "cos-szk-pajm-00": {
+    "name": "睡衣派对"
+  },
+  "cos-szk-rock-00": {
+    "name": "阳光舞者"
+  },
+  "cos-szk-sail-00": {
+    "name": "暖阳水手服"
+  },
+  "cos-szk-schl-00": {
+    "name": "光崎高等学校"
+  },
+  "cos-szk-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-szk-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-szk-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-szk-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-szk-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-szk-trng-00": {
+    "name": "运动服"
+  },
+  "cos-szk-vlnt-00": {
+    "name": "可爱情人节"
+  },
+  "cos-szk-yukt-00": {
+    "name": "红毒鱼"
+  },
+  "cos-szk-yuru-00": {
+    "name": "藏红花的门扉"
+  },
+  "cos-vns-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-yami-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-ymk-miku-02": {
+    "name": "雪未来：原创"
+  },
+  "cos-yo-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-yo-sush-01": {
+    "name": "璀璨圣诞"
+  },
+  "cos-yo-sush-02": {
+    "name": "浦之星女学院（冬装）"
+  },
+  "cos-yo-sush-03": {
+    "name": "浦之星女学院（夏装）"
+  },
+  "cos-yu-anni-00": {
+    "name": "永恒挚友"
+  },
+  "cos-yu-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "cos-yu-anni-02": {
+    "name": "星光永恒"
+  },
+  "cos-yu-buny-00": {
+    "name": "好运兔"
+  },
+  "cos-yu-buny-99": {
+    "name": "好运兔"
+  },
+  "cos-yu-casl-00": {
+    "name": "基础风格"
+  },
+  "cos-yu-casl-01": {
+    "name": "休闲风格"
+  },
+  "cos-yu-casl-02": {
+    "name": "约会装扮"
+  },
+  "cos-yu-casl-04": {
+    "name": "外出风格"
+  },
+  "cos-yu-chna-00": {
+    "name": "极烙华衣"
+  },
+  "cos-yu-date-00": {
+    "name": "可爱女仆"
+  },
+  "cos-yu-fest-00": {
+    "name": "永恒辉煌"
+  },
+  "cos-yu-fest-02": {
+    "name": "希望"
+  },
+  "cos-yu-fest-03": {
+    "name": "感恩"
+  },
+  "cos-yu-ggyt-00": {
+    "name": "鱼鱼风格"
+  },
+  "cos-yu-ggyt-01": {
+    "name": "宛如鱼装"
+  },
+  "cos-yu-goch-00": {
+    "name": "吃茶兔屋"
+  },
+  "cos-yu-idol-00": {
+    "name": "骑士"
+  },
+  "cos-yu-idol-02": {
+    "name": "心动感觉"
+  },
+  "cos-yu-idol-03": {
+    "name": "羽毛"
+  },
+  "cos-yu-idol-04": {
+    "name": "胜利"
+  },
+  "cos-yu-idol-05": {
+    "name": "宇宙"
+  },
+  "cos-yu-jwel-00": {
+    "name": "天空宝石"
+  },
+  "cos-yu-kion-00": {
+    "name": "樱丘女子高等学校"
+  },
+  "cos-yu-link-01": {
+    "name": "莉耶尔芙蕾"
+  },
+  "cos-yu-miku-00": {
+    "name": "初音未来：原创"
+  },
+  "cos-yu-miku-03": {
+    "name": "雪之星辰"
+  },
+  "cos-yu-miku-05": {
+    "name": "你的余香"
+  },
+  "cos-yu-mizg-00": {
+    "name": "训练泳装"
+  },
+  "cos-yu-mizg-01": {
+    "name": "热带繁花"
+  },
+  "cos-yu-newy-00": {
+    "name": "崭新的一天"
+  },
+  "cos-yu-nurs-00": {
+    "name": "Pretty★Angel"
+  },
+  "cos-yu-schl-00": {
+    "name": "月出高等学校"
+  },
+  "cos-yu-sdam-00": {
+    "name": "亲善大使"
+  },
+  "cos-yu-sdpl-00": {
+    "name": "一日署长"
+  },
+  "cos-yu-snro-00": {
+    "name": "梦想巡游"
+  },
+  "cos-yu-ster-00": {
+    "name": "闪耀优雅"
+  },
+  "cos-yu-sush-00": {
+    "name": "你的心灵是否光芒闪耀？"
+  },
+  "cos-yu-trbl-00": {
+    "name": "麻烦圣诞老人"
+  },
+  "cos-yu-trng-00": {
+    "name": "运动服"
+  },
+  "cos-yu-vlnt-00": {
+    "name": "巧克力之吻"
+  },
+  "cos-yu-wedd-01": {
+    "name": "心恋白无垢"
+  },
+  "cos-yu-xmas-00": {
+    "name": "Lumiere"
+  },
+  "cos-yuki-casl-00": {
+    "name": "基础风格"
+  }
+}

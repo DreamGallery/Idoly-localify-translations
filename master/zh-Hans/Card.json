@@ -1,0 +1,2350 @@
+{
+  "card-ai-02-eve-00": {
+    "description": "今年的LizNoir会比去年\r\n更加更加活跃哦！",
+    "name": "首日立誓今年的飞跃"
+  },
+  "card-ai-02-eve-01": {
+    "description": "和大家同台演出非常开心！\r\n下次请务必演奏我们的歌曲！\r\n然后，一起歌唱吧！",
+    "name": "演奏！大成功"
+  },
+  "card-ai-02-eve-02": {
+    "description": "那么大家，请跟我一起喊\n全国巡演辛苦了！干杯！",
+    "name": "大家一起巡回全国巡演！",
+    "obtainMessage": "非常感谢！"
+  },
+  "card-ai-03-schl-00": {
+    "description": "真的，极限之后真的会有什么东西呢……！？",
+    "name": "弄假成真"
+  },
+  "card-ai-04-casl-00": {
+    "description": "哇！这个要不要买呢～！",
+    "name": "发现奖励"
+  },
+  "card-ai-05-arab-00": {
+    "description": "……总觉得脑袋，有点晕晕的～\n嘿嘿，这样下去好像要睡着了……",
+    "name": "温泉绿洲",
+    "obtainMessage": "感觉今天的疲惫全都消除了～～……"
+  },
+  "card-ai-05-birt-00": {
+    "description": "比起任何东西，爸爸重新露出笑容\n或许才是最好的生日礼物",
+    "name": "被爱拉面生日",
+    "obtainMessage": "爱意满满\n奇迹☆偶像拉面一碗！"
+  },
+  "card-ai-05-birt-01": {
+    "description": "不是约好了吗。两个人一起抵达『DENSETSU』\r\n然后一起吃拉面",
+    "name": "生日旅行・爱",
+    "obtainMessage": "『DENSETSU』是……\n一定存在的！"
+  },
+  "card-ai-05-birt-02": {
+    "description": "左肩的葵小姐，背后的莉央小姐……为了保护心\r\n请赐予我力量！肌肉·爱·施泰纳！",
+    "name": "wonderful day for 爱",
+    "obtainMessage": "好——\n让我们干劲十足地上吧！"
+  },
+  "card-ai-05-casl-04": {
+    "description": "诶嘿嘿，请多吃一点哦\n来，啊——，这个也啊——！这个也这个也～！",
+    "name": "充满笑容的大自然假日",
+    "obtainMessage": "诶嘿嘿，\n请多吃一点哦，\n来，啊——"
+  },
+  "card-ai-05-chna-01": {
+    "description": "话都说到这个份上，我可不能退缩了！\n我要登上擂台！助手，请做决断！",
+    "name": "桃园大决战",
+    "obtainMessage": "肌肉·爱·施泰纳！"
+  },
+  "card-ai-05-fest-00": {
+    "description": "今后我也会继续成为大家的憧憬，因为那会化作勇气\n以这四人组成的LizNoir！",
+    "name": "火花四溅的炽热心情",
+    "obtainMessage": "这次由我来给你勇气！"
+  },
+  "card-ai-05-fest-03": {
+    "description": "今后我将作为LizNoir\n昂首挺胸地站上舞台！\n我就是LizNoir的小美山爱",
+    "name": "打破极限的努力之拳",
+    "obtainMessage": "我会为你开辟道路！"
+  },
+  "card-ai-05-idol-00": {
+    "description": "大家，晚上好——！\n我是LizNoir的新成员小美山爱！",
+    "name": "抓住梦想",
+    "obtainMessage": "也请老粉丝们\n用温暖的目光守护我们！"
+  },
+  "card-ai-05-kait-00": {
+    "description": "今天，我们会表演一首只有来到这场演唱会的各位\n才能听到的初次公开歌曲！\n其实我一直为了这首歌紧张得不行，\n但像这样借靠莉央姐的后背，我就安心下来了",
+    "name": "对我而言重要的歌曲",
+    "obtainMessage": "四人默契十足的\nLizNoir是无敌的！"
+  },
+  "card-ai-05-miku-01": {
+    "description": "我会让粉丝们看到更加轻盈的\n轻快舞蹈！",
+    "name": "停不下来的安可",
+    "obtainMessage": "轻快的舞蹈，\n要请粉丝们\n好好欣赏！"
+  },
+  "card-ai-05-mizg-01": {
+    "description": "那么，假如说啊\r\n假如我不是经纪人\r\n……现在的我，会让你想搭讪吗？",
+    "name": "霓虹闪耀的夜间泳池",
+    "obtainMessage": "……现在的我，会让你想要搭讪吗？"
+  },
+  "card-ai-05-mizg-02": {
+    "description": "努力是件开心的事\r\n无论什么烦恼，都能乐在其中地跨越过去\r\n只要和大家，还有这身肌肉一起！",
+    "name": "飞溅·海滨",
+    "obtainMessage": "我会\n为LizNoir的大家\n加油打气的！"
+  },
+  "card-ai-05-rock-00": {
+    "description": "即使分隔两地，莉央姐、葵姐、心\r\n还有经纪人都跟着我\r\n即使是我独自参加的工作\r\n大家一起积累的经验也会帮助我",
+    "name": "帅气利落的独自收录",
+    "obtainMessage": "绝对不会让您后悔的！"
+  },
+  "card-ai-05-tact-00": {
+    "description": "姿势吗？那么，就像游戏里的动作一样……\n嘿！侧步接快速射击！\n好痛……啊哈哈，抱歉\n其实我现在肚子有点肌肉酸痛……",
+    "name": "性感射击",
+    "obtainMessage": "努力做仰卧起坐\n做得太过了……啊哈哈"
+  },
+  "card-ai-05-vlnt-00": {
+    "description": "那、那个……希望你能收下这个\n嗯，作为这次的谢礼……\n虽然只是小小～的一份，但……",
+    "name": "小小～的情人节",
+    "obtainMessage": "LizNoir的边缘位置就是我的固定位置，\n我是小美山爱！"
+  },
+  "card-ai-05-wedd-00": {
+    "description": "主角新娘要是充满力量的话\n就会让人觉得，今后不管发生什么都能挺过去！",
+    "name": "击碎困难的爱的誓言",
+    "obtainMessage": "如果新娘很有活力的话，\n今后无论发生什么都能挺过去！"
+  },
+  "card-ai-05-yukt-00": {
+    "description": "愿我的表演，为今天的回忆增添色彩\r\n每当听到这首歌时，若能让你想起这片夜空\r\n我也会非常开心！",
+    "name": "夜空中绽放的夏之花",
+    "obtainMessage": "路边摊和拉面，\n我们四个人都要吃个遍～！"
+  },
+  "card-aoi-02-eve-01": {
+    "description": "莉央，有好好和琴乃说话吗\n我们就安静地守望吧",
+    "name": "默默守望同伴的背影"
+  },
+  "card-aoi-02-eve-02": {
+    "description": "为什么连我也……难道是想让我冷静一下？\r\n啊啊……不过凉凉的，好舒服啊",
+    "name": "热情冷却"
+  },
+  "card-aoi-03-schl-00": {
+    "description": "到头来还是这里最好跳舞啊",
+    "name": "主场"
+  },
+  "card-aoi-04-casl-00": {
+    "description": "要怎样才能变得那么热情呢",
+    "name": "冷却的夜"
+  },
+  "card-aoi-05-arab-00": {
+    "description": "跳舞果然很开心\n就算语言不通，也能用全身来交流",
+    "name": "水舞祝祭",
+    "obtainMessage": "庆典的开始"
+  },
+  "card-aoi-05-birt-00": {
+    "description": "这个生日企划本身，在星见Production里我也是最后一个\r\n因为想以LizNoir四人齐聚来压轴",
+    "name": "惊喜舞蹈生日",
+    "obtainMessage": "莉央。\n你果然，\n对我来说是特别的"
+  },
+  "card-aoi-05-birt-01": {
+    "description": "难道说，你在害怕？\r\n呵呵，没想到你也有可爱的一面呢",
+    "name": "生日旅行・葵",
+    "obtainMessage": "要我就在旁边\n牵着你的手吗？"
+  },
+  "card-aoi-05-birt-02": {
+    "description": "谢谢。我很开心，大家。\n作为回礼，我会展现最棒的表演。接下来一年也请多指教",
+    "name": "wonderful day for 葵",
+    "obtainMessage": "作为回礼，\n我会让你看到最棒的表演"
+  },
+  "card-aoi-05-casl-04": {
+    "description": "如果你觉得那是约会，那它就是约会哦\n那么那次……就是我的初次约会呢",
+    "name": "与你溜出去的秘密假日",
+    "obtainMessage": "今天对我来说，\n是第一次约会"
+  },
+  "card-aoi-05-circ-00": {
+    "description": "这套衣服，不错呢。让我想起\n拍摄电影最后一场戏时的事",
+    "name": "Dirty Accel",
+    "obtainMessage": "这套服装，\n让我想起电影的最后一场戏"
+  },
+  "card-aoi-05-fest-00": {
+    "description": "我们要进化成让任何人都无话可说、\n拥有压倒性帅气的LizNoir\n所以，希望你能满心期待\n——这是与我们的，约定哦",
+    "name": "向余韵之空许下约定",
+    "obtainMessage": "向压倒性帅气的LizNoir进化哦"
+  },
+  "card-aoi-05-fest-03": {
+    "description": "今后我们要走的路\n想必也会是点缀着战斗的道路\n这里，就是成为BIG4的我们\nLizNoir全新战斗的起点",
+    "name": "傲然绽放的高贵之刃",
+    "obtainMessage": "我们今后要走的路，\n依然是被战斗点缀的道路"
+  },
+  "card-aoi-05-idol-00": {
+    "description": "哦，你是个很守礼的人呢\n不过，蛋糕和粉色花束吗\n可爱的东西可不适合我哦",
+    "name": "湿润的发丝在诉说什么",
+    "obtainMessage": "你来了呢。"
+  },
+  "card-aoi-05-kait-00": {
+    "description": "成为四人的我们，会比以前更加成长\n我会证明给你看的\n说明的后续……\n就交给爱，可以吗",
+    "obtainMessage": "我只要能跳舞就够了"
+  },
+  "card-aoi-05-miku-01": {
+    "description": "和一直是粉丝的美久一起\n思考编舞、完成彩排\n那是最充实的一段时光",
+    "name": "共享的最棒时光",
+    "obtainMessage": "与未来的缘分，\n但愿也能长久\n而美好"
+  },
+  "card-aoi-05-mizg-01": {
+    "description": "大家都做好觉悟了吗？\r\n我们要让这个夏天最火热的地方成为我们的舞台\r\n比夏日太阳更炽热、更耀眼\r\n把这场演唱会深深印在眼中吧",
+    "name": "与你相连的夏日约定",
+    "obtainMessage": "我们要让我们的舞台，\n成为这个夏天最火热的地方"
+  },
+  "card-aoi-05-past-00": {
+    "description": "莉央可爱的一面，只要我知道就够了",
+    "obtainMessage": "莉央可爱的一面，\n只有我知道就够了"
+  },
+  "card-aoi-05-vlnt-00": {
+    "description": "话说回来，之前说过不要在别人面前随便把礼物\r\n送给男人的，不就是你们那边吗\r\n在事务所里一直和大家待在一起\r\n根本没有能独自一人的迹象",
+    "name": "奇怪的心情都是因为你",
+    "obtainMessage": "今天不送出去的话，心意就传达不到了吧"
+  },
+  "card-aoi-05-wdnc-00": {
+    "description": "我会像奶奶那样，成为能深深体恤粉丝的\n偶像，成为那样的大人……",
+    "obtainMessage": "热烈的呼声，\n让我燃起来了"
+  },
+  "card-aoi-05-wedd-00": {
+    "description": "能得到大家的祝福，与你结为连理\r\n我从来没想过……总觉得，像做梦一样",
+    "name": "在戒指上起誓的永远",
+    "obtainMessage": "不是你来让我幸福。\n而是我，要让你幸福"
+  },
+  "card-aoi-05-yukt-00": {
+    "description": "你也是埋头工作的夏天吗\r\n不过，这样也很有你我的风格呢",
+    "name": "与你一同感受的蝉鸣",
+    "obtainMessage": "你也加入谈话的圈子如何？"
+  },
+  "card-cca-05-goch-00": {
+    "description": "今天和『睡衣派对！』的大家在一起真开心呢\r\n还能和智乃酱一起睡觉！",
+    "name": "两人的睡衣派对",
+    "obtainMessage": "因为我是智乃的\n姐姐嘛！"
+  },
+  "card-chk-05-sush-00": {
+    "description": "如果我们一起歌唱\r\n会诞生出怎样的和声，我非常期待",
+    "name": "以如太阳般闪耀的笑容",
+    "obtainMessage": "你的心\n是否在闪耀？"
+  },
+  "card-chn-05-goch-00": {
+    "description": "好了，请快点去换衣服吧\n今天也要一起在Rabbit House努力哦",
+    "name": "欢迎来到Rabbit House",
+    "obtainMessage": "今天也要一起，\n在Rabbit House\n加油哦"
+  },
+  "card-chs-02-eve-01": {
+    "description": "大家一起度过的新年，真的好开心啊",
+    "name": "热闹的新年"
+  },
+  "card-chs-02-eve-02": {
+    "description": "……鼓起勇气，说出任性的话哦\n我也想去，想和大家一起去！想和大家在一起！",
+    "name": "SUNNY PEACE的生存挑战！"
+  },
+  "card-chs-03-schl-00": {
+    "description": "我也……一定可以做到",
+    "name": "任务完成！"
+  },
+  "card-chs-04-casl-00": {
+    "description": "组合方式无穷无尽呢……！",
+    "name": "午后的购物"
+  },
+  "card-chs-05-alic-00": {
+    "description": "来吧，美妙的茶会开始了\n请尽情享受吧",
+    "obtainMessage": "来吧，美妙的茶会\n要开始了"
+  },
+  "card-chs-05-birt-00": {
+    "description": "我也想试着更加相信\r\n相信那个让姐姐引以为傲的我自己\n今后也请多多指教，姐姐\n作为妹妹，作为对手，作为一名偶像",
+    "name": "传递心意的生日",
+    "obtainMessage": "我也想试着相信，\n那个能让姐姐引以为傲的，\n我自己"
+  },
+  "card-chs-05-birt-01": {
+    "description": "抽了签……用水沾湿……\n……啊，您看！这次是大吉！",
+    "name": "生日旅行・千纱",
+    "obtainMessage": "经纪人先生，\n就像护身符一样"
+  },
+  "card-chs-05-birt-02": {
+    "description": "呵呵，虽然偶尔也会有让人吃惊的事\r\n——谢谢你，感谢能与大家相遇的奇迹",
+    "name": "wonderful day for 千纱",
+    "obtainMessage": "谢谢你，\n感谢与大家相遇的奇迹"
+  },
+  "card-chs-05-casl-04": {
+    "description": "能被夸变漂亮了，\n我真的非常开心\n不过，有一点您还不明白\n今天我会打扮得这么用心……",
+    "name": "想特别美丽的假日",
+    "obtainMessage": "要不要和我，一起去看电影？"
+  },
+  "card-chs-05-chia-00": {
+    "description": "害羞可不行呢。接、接下来，继续！\n加油，加油！努力！努力！",
+    "name": "燃烧的脸颊与炽热的心",
+    "obtainMessage": "加油、加油，\r\n努力！努力！"
+  },
+  "card-chs-05-chsk-00": {
+    "description": "我和姐姐约好了。穿着这套服装……\n两人一起成为最棒的姐妹组合……！\n所以，我出发了！去和姐姐一起唱歌！",
+    "name": "充满羁绊的创作",
+    "obtainMessage": "两人一起成为最棒的姐妹组合……！"
+  },
+  "card-chs-05-fest-00": {
+    "description": "星见市的各位，我们回来啦～！\n请好好享受成长后的我们的演唱会！",
+    "name": "与故乡的浪花交融",
+    "obtainMessage": "星见市的各位，\n我回来啦～！"
+  },
+  "card-chs-05-fest-03": {
+    "description": "无论何时都勇往直前，昂首挺胸地走着……\r\n既可爱又帅气的铃酱，我一直都很憧憬你哦",
+    "name": "交织彼此的憧憬时光",
+    "obtainMessage": "还想再和铃酱两个人，\n做些开心的事呢"
+  },
+  "card-chs-05-flow-00": {
+    "description": "总觉得今天好像会发生些什么\r\n会拍成什么样的照片呢，好期待",
+    "name": "绽于牢笼的名花",
+    "obtainMessage": "要怎么做才能让你笑呢……"
+  },
+  "card-chs-05-hruh-00": {
+    "description": "因为，我亲眼看到了\n帅气的宇宙人的存在……！",
+    "name": "神秘之眼",
+    "obtainMessage": "外星人是存在的"
+  },
+  "card-chs-05-idol-00": {
+    "description": "你愿意收下……\n谢谢你\n多亏了你，我今天总觉得\n比平时更有自信了",
+    "name": "愈发闪耀的自信",
+    "obtainMessage": "我今天总觉得比平时\n更有自信了。"
+  },
+  "card-chs-05-maid-00": {
+    "description": "把那里的小道具搬过去就行了吧？\r\n这点事我也……哇啊！？",
+    "name": "破壳而出的挑战者",
+    "obtainMessage": "那种程度的话\n我也能……\n哇！？"
+  },
+  "card-chs-05-mizg-04": {
+    "description": "难得的夏天，就『随波逐流也完全OK』啦！",
+    "name": "常夏水光束",
+    "obtainMessage": "毕竟是夏天，\n『顺其自然真的OK』！"
+  },
+  "card-chs-05-pajm-00": {
+    "description": "经纪人先生\r\n不要一个人硬撑，请多依靠我一些\r\n累的时候，靠在我身上也没关系\r\n我会支撑你的",
+    "name": "公主抱中入梦乡",
+    "obtainMessage": "平时会害羞说不出口的请求，\n现在的话感觉能说出口……"
+  },
+  "card-chs-05-rock-00": {
+    "description": "从今往后我也绝对不会放弃！\n无论多么辛苦都不会停下脚步！\n我会倾尽所有一直舞到最后！\n所以大家，请不要把目光从我身上移开！",
+    "name": "一握的勇气",
+    "obtainMessage": "我会让你无法从我身上移开视线！"
+  },
+  "card-chs-05-seik-00": {
+    "description": "事情总有不顺心的时候\n也会有烦恼和痛苦对吧\n愿我们的歌声，能成为你心灵的助力",
+    "name": "仅此一夜的神圣舞台",
+    "obtainMessage": "不是模仿别人，而是像我自己……"
+  },
+  "card-chs-05-yukt-00": {
+    "description": "父亲很擅长捞金鱼\r\n我曾经向他请教过方法\r\n虽然很久没玩了，但能在经纪人先生面前\r\n好好表现一番真是太好了……",
+    "name": "祭典中闪耀的第一颗星",
+    "obtainMessage": "请看！\n我成功捞到金鱼了！"
+  },
+  "card-hrk-02-eve-01": {
+    "description": "传达给麻奈！我们的歌！",
+    "name": "意外成行的生日演唱会"
+  },
+  "card-hrk-02-eve-03": {
+    "description": "对不起，现在我还唱不了麻奈酱的歌\r\n不过，等我们有了后辈……到那时\r\n我和麻奈酱，还有后辈们，大家一起来唱吧？",
+    "name": "流转的季节与永不褪色的日子"
+  },
+  "card-hrk-03-schl-00": {
+    "description": "来，要补充水分哦！",
+    "name": "心系后辈的大姐姐"
+  },
+  "card-hrk-04-casl-00": {
+    "description": "兼顾营养均衡和价格……",
+    "name": "全力限时特卖"
+  },
+  "card-hrk-05-adlt-00": {
+    "description": "我会走在前面\r\n你们也要带着最棒的笑容跟在我的身后",
+    "obtainMessage": "走吧，前往憧憬的彼端"
+  },
+  "card-hrk-05-birt-00": {
+    "description": "感觉我们比来之前关系更好了！\r\n还聊了好多秘密的大人话题",
+    "name": "大人的露营生日",
+    "obtainMessage": "佐伯遥子的\n奇迹☆偶像生日！"
+  },
+  "card-hrk-05-birt-01": {
+    "description": "说、说我可爱……\r\n真是的，就是这种地方啦——？",
+    "name": "生日旅行・遥子",
+    "obtainMessage": "今天邀请你来真是太好了"
+  },
+  "card-hrk-05-birt-02": {
+    "description": "别阻止我，怜酱……遥子现在正通过\r\n磨练平衡感，想要成为剑玉本身呢",
+    "name": "wonderful day for 遥子",
+    "obtainMessage": "决定了！\n今天是作弊生日哦！"
+  },
+  "card-hrk-05-casl-04": {
+    "description": "我是否成为了能让你骄傲的偶像呢",
+    "name": "隔着玻璃杯畅谈的假日",
+    "obtainMessage": "就算我喝趴下了，\n也不许恶作剧哦？"
+  },
+  "card-hrk-05-chna-00": {
+    "description": "事已至此，干脆豁出去把大家都迷倒好了\r\n用十七岁成熟的魅力让大家神魂颠倒！\r\n用成熟的魅力把大家的目光都牢牢吸引住！\r\n……不行～，果然还是好害羞～！",
+    "name": "释放的十七岁",
+    "obtainMessage": "事已至此，干脆豁出去\n把大家都迷得神魂颠倒"
+  },
+  "card-hrk-05-fest-00": {
+    "description": "那时未能传达的感谢之情……\r\n与麻奈一起交织的心意\r\n今天，由我们来传递",
+    "name": "共同相连的约定之音",
+    "obtainMessage": "这是连接星见Production过去与未来的歌"
+  },
+  "card-hrk-05-idol-00": {
+    "description": "刚才我说了因为是前辈之类的话\n虽然感觉可能有点矛盾……\n但和大家在一起的时候，我想保持平等",
+    "name": "非常可靠的大姐姐",
+    "obtainMessage": "对等的前辈…吗。\n感觉，不错呢。"
+  },
+  "card-hrk-05-idol-03": {
+    "description": "——经纪人君，我决定了\n不是尽量长久，而是要一直继续SUNNY PEACE\n然后我要让SUNNY PEACE成为世界第一的偶像！",
+    "name": "我，决定了",
+    "obtainMessage": "我要让SUNNY PEACE成为世界第一的偶像！"
+  },
+  "card-hrk-05-link-00": {
+    "description": "虽然没能如想象中那样\r\n但如果是麻奈的话，一定会夸奖努力过的我吧？",
+    "name": "羁绊指引的泪之航路",
+    "obtainMessage": "我相信总有一天，\n能站上与麻奈酱\n相同的舞台"
+  },
+  "card-hrk-05-mizg-01": {
+    "description": "说到夏天就是玩水！\n尽情地泼水狂欢吧！\n我要把水泼向大家哦～！",
+    "name": "恩泽的晴日淋浴",
+    "obtainMessage": "就算被淋得湿透，大家的\n热情也不会冷却吧？"
+  },
+  "card-hrk-05-mnab-00": {
+    "description": "在同一个地方，我正唱着歌哦\n那是你赠予我的\n世界上独一无二的礼物",
+    "name": "在光之海中献上祝福",
+    "obtainMessage": "愿听到这首歌的人，\n能向未来迈出一步"
+  },
+  "card-hrk-05-onep-00": {
+    "description": "温泉太舒服了，不知不觉就泡久了\r\n总觉得脑袋晕晕的……可能是泡晕了\r\n经纪人君\r\n现在是不是也在泡温泉呢……",
+    "name": "悠然妄想温泉之旅",
+    "obtainMessage": "啊～，极乐极乐～"
+  },
+  "card-hrk-05-pair-00": {
+    "description": "我在不知不觉间，已经长大了许多\r\n意识到这一点后，有时也需要拿出相称的态度才行\r\n如果不懂这些还任性妄为的话\r\n那可就真成了爱闹腾的怪兽了",
+    "name": "鼓起的脸颊与对未来的期待",
+    "obtainMessage": "肉嘟嘟怪兽哈鲁顿，\r\n是这么回事吗……"
+  },
+  "card-hrk-05-pajm-00": {
+    "description": "想要尽情享受理想的居家约会 \n果然还是得有可爱的约会装才行",
+    "name": "我理想的约会计划",
+    "obtainMessage": "下次再一起在家约会哦"
+  },
+  "card-hrk-05-sail-00": {
+    "description": "虽然已经是好几年前的事了，你和麻奈以前经常一起放学\r\n然后就这样直接去现场对吧？\r\n我当时觉得好羡慕啊，真是青春啊\r\n今天感觉稍微体会到了那种心情",
+    "name": "阳光守护的邻家青春",
+    "obtainMessage": "总觉得今天，\n感觉活出了青春呢"
+  },
+  "card-hrk-05-vlnt-00": {
+    "description": "呀……！？啊哈哈，光顾着看别处，\r\n结果飞出去了呢。你脸颊上沾到巧克力了哦",
+    "name": "一点点爱的礼物",
+    "obtainMessage": "脸颊上，\n沾着巧克力哦"
+  },
+  "card-hrk-05-wedd-00": {
+    "description": "再稍微，保持这样一会儿也可以吧\n至少现在，希望这个背影能让我独占",
+    "name": "藏在温暖中的真心话",
+    "obtainMessage": "现在还不是时候……\n先把这份心情藏起来吧"
+  },
+  "card-hrk-05-xmas-00": {
+    "description": "果然我……\n作为偶像努力的时候是最开心的\n今天工作之后，我再次明白了",
+    "name": "只有两人的冬夜庆功宴",
+    "obtainMessage": "那么，我们来干杯吧！"
+  },
+  "card-kan-02-eve-01": {
+    "description": "那么，出发啦～！！\r\n……去死吧",
+    "name": "kana酱的审判"
+  },
+  "card-kan-02-eve-02": {
+    "description": "我说了别把我父亲说得那么难听吧！？\r\n能道歉这点，总比你这混蛋强多了！",
+    "name": "好想见你啊父亲"
+  },
+  "card-kan-02-eve-03": {
+    "description": "……那么，参拜也做完了……啊，找到绘马了\r\n难得来一趟，写点什么再走吧",
+    "name": "隐藏在面具下的素颜"
+  },
+  "card-kan-05-birt-00": {
+    "description": "怎么办呀——，眼泪都要流出来了——\r\n能和最喜欢的两个人凑成一套，真是气得我肝肠寸断……\r\n才不是！是心里暖洋洋的啦——！呀哈",
+    "name": "IIIX 友好生日",
+    "obtainMessage": "在舞台上能被信任\n反而更糟糕"
+  },
+  "card-kan-05-birt-01": {
+    "description": "好像有点兴奋起来了呢～\r\n今天要不要多喝点呢",
+    "name": "生日旅行・kana",
+    "obtainMessage": "好像有点兴奋起来了～\n今天要不要多喝点呢"
+  },
+  "card-kan-05-birt-02": {
+    "description": "美容液本来就是消耗品，有多少都不嫌多哦！\n谢谢你，铃",
+    "obtainMessage": "哼哼，今天的热搜第一是\n『kana诞生祭』！"
+  },
+  "card-kan-05-buny-00": {
+    "description": "从明天起，会忍不住想要关注日本的偶像\r\n根本停不下来",
+    "name": "引爆话题的兔女郎",
+    "obtainMessage": "最棒的演出，\n还远远没有结束哦！"
+  },
+  "card-kan-05-casl-04": {
+    "description": "要是能让看的人心情稍微好一点，\n像以前的kana那样，让烦恼的孩子也想着明天再努力一下吧，那就好了",
+    "name": "摘下镜片的素颜假日",
+    "obtainMessage": "你拍的照片，\n虽然不甘心但评价很不错呢"
+  },
+  "card-kan-05-chia-00": {
+    "description": "可伦子酱，来，站起来站起来！\n比赛还没结束呢，下一场走起～！",
+    "obtainMessage": "比赛\n还没结束呢，\n继续上咯～！"
+  },
+  "card-kan-05-chna-00": {
+    "description": "嘛，是因为超可爱的kana来做才成了梗\r\n可不推荐外行人模仿哦",
+    "name": "主角是kana吧？",
+    "obtainMessage": "因为有重要的工作，\n兴奋得都睡不着呢"
+  },
+  "card-kan-05-fest-02": {
+    "description": "当偶像这件事……\n也不是全部都是白费的呢",
+    "obtainMessage": "不被任何人束缚，\n开始走只属于kana的人生吧"
+  },
+  "card-kan-05-idol-00": {
+    "description": "今天真是最棒了！！\n果然，痛快地赢下来才是最爽的！",
+    "obtainMessage": "果然，干脆利落地赢下来\n最让人心情舒畅了！"
+  },
+  "card-kan-05-idol-03": {
+    "description": "就算是废柴经纪人也能明白吧？\r\n放心吧\r\n暂时没打算谈恋爱\r\n在重回BIG4之前，不会的",
+    "name": "真心模仿",
+    "obtainMessage": "你根本\n一点都不了解kana呢～"
+  },
+  "card-kan-05-link-00": {
+    "description": "每次都这样，小屁孩还装模作样地操心\r\n不过小屁孩那点小聪明，反正大人早就看穿了\r\n藏事情也适可而止吧",
+    "name": "孕育羁绊的天使与恶魔",
+    "obtainMessage": "那么～在这张傻脸上\n画点什么好呢"
+  },
+  "card-kan-05-mizg-02": {
+    "description": "嗯——泡泡机意外地弱啊\r\n这个输出不能再高点吗？这就已经是极限了？",
+    "name": "泡泡映出的七彩的你",
+    "obtainMessage": "要是不把我拍得最可爱，\n我可饶不了你哦！！"
+  },
+  "card-kan-05-pair-00": {
+    "description": "因为是工作所以不抱怨\r\n但在镜头前笑眯眯地装好几个小时好朋友，真受不了～",
+    "name": "实现欲望的天使嬉戏",
+    "obtainMessage": "在镜头前好几个小时\n笑眯眯地装好朋友，\n谁受得了啊～"
+  },
+  "card-kan-05-poli-00": {
+    "description": "反正要做的话，就想赢下来当第一嘛\nkana她们可是强到能做到这一点呢\n而且，虽然我完全不喜欢miho和fran\n但舞台上的她们，我还是信得过的",
+    "name": "我可是超强的",
+    "obtainMessage": "kana，IIIX，再也不会输了"
+  },
+  "card-kan-05-snro-00": {
+    "description": "前几天，我在梦之游乐园遇到了库洛米\n让我想起了以前在游乐园的快乐时光",
+    "name": "实现愿望的少女的一步",
+    "obtainMessage": "为了能成为美好的回忆，\n我会加油的"
+  },
+  "card-kkr-02-eve-00": {
+    "description": "大家都睡得很香呢\r\n呵呵呵……现在心就要用起床整蛊\r\n把可爱的睡脸弄得乱七八糟哦～！",
+    "name": "心的可爱TV"
+  },
+  "card-kkr-02-eve-01": {
+    "description": "哈啊～，泡得真舒服～\n旅途的疲惫都消除了～",
+    "name": "抓住心的海外巡演"
+  },
+  "card-kkr-02-goch-00": {
+    "description": "——那么，为庆祝在圣诞夜\r\n与可爱圣诞老人的相遇奇迹",
+    "name": "招牌女孩是心吗？"
+  },
+  "card-kkr-03-schl-00": {
+    "description": "有没有稍微追上前辈们呢～",
+    "name": "偶尔也认真一下"
+  },
+  "card-kkr-04-casl-00": {
+    "description": "这种事，就是会让人想做呢～",
+    "name": "天真无邪的捣蛋鬼"
+  },
+  "card-kkr-05-birt-00": {
+    "description": "锵锵～！最后是心亲自来吓人啦！\n整蛊＆恶作剧大成功～～！",
+    "name": "可爱恶作剧生日",
+    "obtainMessage": "《赤崎心的最可爱TV》！"
+  },
+  "card-kkr-05-birt-01": {
+    "description": "……我想到一个好主意\r\n那就来比一比，看谁更能享受游乐园吧！",
+    "name": "生日旅行・心",
+    "obtainMessage": "谁能更享受游乐园，\n来一决胜负吧！"
+  },
+  "card-kkr-05-birt-02": {
+    "description": "爱酱、葵小姐和莉央小姐都太喜欢心了，\n喜欢到心都要招架不住啦～",
+    "name": "wonderful day for 心",
+    "obtainMessage": "心可是被大家\n宠爱着的哦～"
+  },
+  "card-kkr-05-casl-04": {
+    "description": "那个……不只是彩虹，也能看看心吗？\n怎么样……？适合我吗？可爱吗？",
+    "name": "重要的伞与雨后的假日",
+    "obtainMessage": "超级撒娇时间\n开始啦！"
+  },
+  "card-kkr-05-fest-00": {
+    "description": "现在由我们组成LizNoir\n怀抱着憧憬，但不回首过去\n向前迈进",
+    "name": "藏在玩笑里的真心愿望",
+    "obtainMessage": "两人的友情，\n已经是偶像界第一了"
+  },
+  "card-kkr-05-fest-03": {
+    "description": "至今为止的LizNoir已经是最强了\n但今后的LizNoir还会更强更强",
+    "name": "击穿心灵的无敌笑容",
+    "obtainMessage": "今后的LizNoir，\n会越来越强"
+  },
+  "card-kkr-05-flow-00": {
+    "description": "说出来之后，感觉稍微轻松了一些\r\n……谢谢你给我送伞来",
+    "obtainMessage": "谢谢你帮我\n把伞带过来"
+  },
+  "card-kkr-05-idol-00": {
+    "description": "拍摄的时候，我会好好摆出又帅又可爱的笑容！\n那个，手是这样摆的，怎么样～？",
+    "name": "新生LizNoir的骄傲",
+    "obtainMessage": "心和平常不同的一面，\n是不是让你心跳加速了！？"
+  },
+  "card-kkr-05-kion-00": {
+    "description": "明明一直在开茶会\n五个人的默契却那么合拍，看起来真的很开心\n心、爱酱、铃喵\n都能舒服地跟上乐队的节奏",
+    "name": "庆功茶会时间",
+    "obtainMessage": "和放学后茶会的联动，\n感觉怎么样～！"
+  },
+  "card-kkr-05-link-00": {
+    "description": "毕竟是莉央她们送出去修行的！\r\n请好好见证心她们成长后的样子吧！",
+    "name": "羁绊绽放的盛夏黑百合",
+    "obtainMessage": "请将两人绽放的身姿，\n深深印在眼中哦！"
+  },
+  "card-kkr-05-miku-01": {
+    "description": "又冷又温暖的北海道\n心最喜欢了",
+    "name": "震撼心灵的热切思念",
+    "obtainMessage": "北海道的大家～，\n最喜欢你们了～！"
+  },
+  "card-kkr-05-mizg-01": {
+    "description": "哎呀～，你在害羞吗？\r\n不用不好意思哦？\r\n在融化之前，心喂你吃吧\r\n张开嘴……来，啊——",
+    "name": "难以忘怀的夏日味道",
+    "obtainMessage": "说到夏天果然还是刨冰呢～"
+  },
+  "card-kkr-05-mizg-02": {
+    "description": "来～摇啊摇～晃啊晃～\r\n爱酱，可别被甩下去哦！",
+    "name": "出航！独角兽酱",
+    "obtainMessage": "来吧，要上了哦～，\n爱酱！"
+  },
+  "card-kkr-05-newy-00": {
+    "description": "嗯嗯，感觉相当不错呢！\n四个人穿着和服并排站在一起，真是壮观啊～\n好～那就照这个势头，继续多拍一些吧！\n摆姿势和表情的指定就交给心吧！",
+    "name": "开心又害羞的初次参拜",
+    "obtainMessage": "心吐出舌头\n可爱满点的天使微笑……"
+  },
+  "card-kkr-05-pair-00": {
+    "description": "咦～？真奇怪呢？\r\n完全听不到声音哦？",
+    "name": "掩饰伤心的恶魔虚张声势",
+    "obtainMessage": "作为奖励的～，\n超绝恶魔般\n偶像微笑！"
+  },
+  "card-kkr-05-seik-00": {
+    "description": "麻奈小姐是位很厉害的偶像，是我的目标\n……但是，我就是我。赤崎心\n我会保持自我，总有一天，追上去给你们看\n然后，成为顶级偶像给你们看",
+    "name": "我就是我",
+    "obtainMessage": "天使的歌声和心的偶像微笑\n请收下"
+  },
+  "card-kkr-05-snro-00": {
+    "description": "能和跟梅洛迪酱一样可爱的心\n一起玩，真是幸运呢",
+    "name": "响彻心扉的美妙旋律",
+    "obtainMessage": "经纪人先生，\n拜托了♪"
+  },
+  "card-kkr-05-trbl-00": {
+    "description": "在房间里只剩我们两个人的瞬间\n桃桃她，把、把心推倒……\n挠遍了全身啊～！！",
+    "name": "爱恶作剧的圣诞老人",
+    "obtainMessage": "呜喵啊啊啊啊！！桃桃酱你～！"
+  },
+  "card-kkr-05-vlnt-00": {
+    "description": "各种事情都找你商量过了嘛？\r\n所以也不是不能稍微感谢你一下……吧～\r\n等等，喂～！\r\n爱酱，你打算摸我的头摸到什么时候啊～！",
+    "name": "苦涩甜蜜的回忆",
+    "obtainMessage": "这就是下任中心的真正实力！"
+  },
+  "card-kor-02-eve-00": {
+    "description": "那么，我们继续开会吧？\r\n让所有看着的人都大吃一惊吧",
+    "name": "梦幻乐园"
+  },
+  "card-kor-02-eve-01": {
+    "description": "这是投资\r\n只要品牌立起来，马上就能回本！",
+    "name": "为未来全押"
+  },
+  "card-kor-05-birt-00": {
+    "description": "啊——真是的，最棒的结局啊！\r\n那个场景我想用跨页来画！啊哈哈哈！",
+    "name": "笔啊咆哮吧生日",
+    "obtainMessage": "燃烧吧笔！\n看好了，\n我的才能————！！"
+  },
+  "card-kor-05-birt-01": {
+    "description": "来来来各位，欢迎光临小酒馆fran！\r\n『小费』放到这个杯子里～！",
+    "name": "生日旅行・fran",
+    "obtainMessage": "欢迎来到\nfran小吃店！"
+  },
+  "card-kor-05-birt-02": {
+    "description": "诶，为什么莉央变得不高兴了？\r\n好可怕……赶紧打扫完让她回去吧",
+    "obtainMessage": "到头来只能去赢下来吗"
+  },
+  "card-kor-05-buny-00": {
+    "description": "虽然不想和kana她们待在一起，但我忍了\r\n让这样的才能沉睡下去，也太浪费了吧？",
+    "name": "逆转的天才兔",
+    "obtainMessage": "这样的才能，\n让它沉睡下去\n也太浪费了吧？"
+  },
+  "card-kor-05-casl-04": {
+    "description": "昨晚我做的\n毕竟确实一直承蒙关照\n嘛……偶尔送点什么也不错吧",
+    "name": "一流打造的巴黎假日",
+    "obtainMessage": "好久没来巴黎了！"
+  },
+  "card-kor-05-fest-02": {
+    "description": "不管哪边，我都会稳稳拿下第一\n请好好跟上我哦",
+    "obtainMessage": "不管哪边，\n我都会稳稳\n拿下顶点的"
+  },
+  "card-kor-05-idol-00": {
+    "description": "就算能赚再多钱，如果一点都不开心的话\r\n我才不会为了继续当偶像而转会呢\r\n嘛，不过也就仅次于时尚吧！",
+    "obtainMessage": "要是完全不开心，\n我也不会转会\n继续当偶像啊"
+  },
+  "card-kor-05-idol-03": {
+    "description": "说到底，就算有人气\r\n去模仿别人，简直难看到不行\r\n我们要以我们能做出的最棒表演为目标\r\n结果除此之外别无他法",
+    "name": "俊杰贯彻我道",
+    "obtainMessage": "请好好刻在您的心里哦"
+  },
+  "card-kor-05-mizg-01": {
+    "description": "哈啊啊～……海风吹着真舒服～\r\n渗透进因工作和生存而疲惫的身体里～",
+    "name": "盛夏的狂欢",
+    "obtainMessage": "哈啊～……\n海风好舒服～"
+  },
+  "card-kor-05-mizg-02": {
+    "description": "真是的，到底有什么好玩的，非得在夜间泳池\r\n拼尽全力游泳啊\r\n算了，我都这么拼命了\r\n总会在哪里派上用场的吧",
+    "name": "闷闷不乐的夜间维纳斯",
+    "obtainMessage": "这种气氛，\n我明明不擅长的……阿嚏！"
+  },
+  "card-kor-05-newy-00": {
+    "description": "如果是这套服装的话，这种动作\n会更显眼对吧\n难得有机会，我就再弄得\n更受海外欢迎一些吧",
+    "name": "夜樱马斯肯瓦尔",
+    "obtainMessage": "新年快乐\n恭贺新禧"
+  },
+  "card-kor-05-nurs-00": {
+    "description": "哼哼。反派角色惹人厌已经是老观念了哦\r\n最近那边也会有很多粉丝的",
+    "name": "怪演暗黑天使",
+    "obtainMessage": "呼哈哈哈哈，\n事到如今才来已经太迟了，\n普卡米们"
+  },
+  "card-kor-05-poli-00": {
+    "description": "啊～……一个人泡温泉最棒了～\n哈啊啊～……好舒服～～……\r\n柚子的香味也感觉超好的～……",
+    "name": "隔墙飘香的柚子汤",
+    "obtainMessage": "啊～……一个人泡温泉最棒了～"
+  },
+  "card-kor-05-prem-00": {
+    "description": "这把椅子，看起来好贵呢。那幅画看起来也好贵\r\n难得有机会，能不能趁拍摄顺便拿走呢",
+    "obtainMessage": "果然，\n还是我最合适呢"
+  },
+  "card-kor-05-xmas-00": {
+    "description": "被漂亮的圣诞树和豪华的礼物包围着\r\n心情最棒了呢",
+    "name": "甜蜜奢华",
+    "obtainMessage": "被豪华的礼物包围着，\n心情最棒了呢"
+  },
+  "card-ktn-02-casl-00": {
+    "description": "在朝我挥手…大家，我出发了",
+    "name": "出发之时"
+  },
+  "card-ktn-02-eve-01": {
+    "description": "经纪人选择了铃",
+    "name": "喜欢到不输给任何人"
+  },
+  "card-ktn-02-eve-02": {
+    "description": "比起任何礼物，大家那句『谢谢你降生在这个世上』……最让我开心",
+    "name": "来自月光风暴圣诞老人的礼物"
+  },
+  "card-ktn-02-eve-03": {
+    "description": "等着我，樱。我一定会赢过どりきゅん\r\n追上SUNNY PEACE——并且超越她们给你看",
+    "name": "月与太阳"
+  },
+  "card-ktn-02-miku-05": {
+    "description": "在最棒的未来纪念日里\n和我们一起\n创造一生难忘的夏日回忆吧！",
+    "name": "六个人的话哪里都能去！"
+  },
+  "card-ktn-03-schl-00": {
+    "description": "喂，都洒出来了嘛！",
+    "name": "熟悉的景象"
+  },
+  "card-ktn-04-casl-00": {
+    "description": "虽然是看惯了的景色，但总觉得很安心",
+    "name": "感伤的午后"
+  },
+  "card-ktn-05-add-00": {
+    "description": "在姐姐为我牵起的命运之下\n我们又能像这样歌唱\n季节轮回，直到某天重逢之日……\n今后也请一直守护着我们",
+    "name": "献给星海的追忆之歌",
+    "obtainMessage": "在姐姐为我牵起的命运之下\n我们又能这样歌唱了"
+  },
+  "card-ktn-05-birt-00": {
+    "description": "圣诞节虽然也有悲伤的回忆……\n但多亏了你们俩，又多了一个快乐的回忆",
+    "name": "雪啊下吧下吧生日",
+    "obtainMessage": "没想到，我反而\n被吓了一跳"
+  },
+  "card-ktn-05-birt-01": {
+    "description": "只当一天的不良……坏蛋\r\n呵呵，呵呵呵呵呵呵呵呵……",
+    "name": "生日旅行・琴乃",
+    "obtainMessage": "偶尔像这样\n放松一下也不错呢"
+  },
+  "card-ktn-05-birt-02": {
+    "description": "这样啊。也是呢。就像我们为姐姐歌唱一样……\n姐姐也一定……",
+    "name": "wonderful day for 琴乃",
+    "obtainMessage": "姐姐果然，\n就是偶像呢"
+  },
+  "card-ktn-05-circ-00": {
+    "description": "拍摄和演唱会有着不同的紧张感和成就感\r\n我自己在塑造角色的过程中，感觉能表现的东西也变多了",
+    "name": "回切双人骑",
+    "obtainMessage": "读了电影的原作之后，\n我非常激动呢！"
+  },
+  "card-ktn-05-fest-00": {
+    "description": "大家好，我们是月光风暴\n各位，新年快乐！\n愿用我们的歌声，为你们一年的开始……\n请让我们，稍稍点缀一下吧",
+    "name": "光华霜夜",
+    "obtainMessage": "请让我们用歌声，\n为大家的一年增添色彩"
+  },
+  "card-ktn-05-fest-01": {
+    "description": "我原本只觉得往上爬\r\n是件痛苦的事……\r\n原来也能像那样化为力量呢",
+    "name": "月光迷惘的光耀幻影",
+    "obtainMessage": "……不行，现在必须\n为来看我们的人着想"
+  },
+  "card-ktn-05-fest-02": {
+    "description": "姐姐。我啊，已经不再迷惘了\r\n月光风暴的五个人，无论是乌云，还是心中的烦闷\r\n都会将其吹散，温柔地照亮大家",
+    "name": "我们的未来",
+    "obtainMessage": "姐姐，我已经不会再迷茫了"
+  },
+  "card-ktn-05-idol-00": {
+    "description": "今天来到这个演唱会现场\n绝对不会让您后悔\n和我们一起度过最棒的夜晚吧！",
+    "name": "纯真舞台",
+    "obtainMessage": "今天来到这个演唱会现场的各位，\n我绝对不会让你们后悔。"
+  },
+  "card-ktn-05-kiok-00": {
+    "description": "总觉得……我感觉姐姐\n正在离我远去，好寂寞\n所以我想唱姐姐的歌\n不只是日常生活中想起她\n而是作为偶像，唱姐姐的……长濑麻奈的歌",
+    "name": "泡沫般的悲伤，思念藏于心",
+    "obtainMessage": "我会和莉央一起竭尽全力\n把姐姐的歌曲传递给大家……！"
+  },
+  "card-ktn-05-mizg-01": {
+    "description": "……视线，被钉住一样……\n也就是说要被很多人盯着这身打扮看吧……\n这身暴露的打扮，要被很多人……",
+    "name": "羞涩夏日明月",
+    "obtainMessage": "你知道烟火大会的\n那个传说吗？"
+  },
+  "card-ktn-05-mizg-03": {
+    "description": "呵呵，就当是唱给姐姐听\n要不要一起唱呢？",
+    "name": "摘星的指尖",
+    "obtainMessage": "情侣款啊……\n姐姐她，\n一定会高兴得夸张吧"
+  },
+  "card-ktn-05-mnab-00": {
+    "description": "姐姐……那时候没去演唱会，对不起\n虽然迟了，生日快乐",
+    "obtainMessage": "姐姐，这首歌\n是我送给你的礼物哦"
+  },
+  "card-ktn-05-msic-00": {
+    "description": "请聆听我的、我们的心意\n《With your songs》",
+    "obtainMessage": "请听一下吧，\n这首献给姐姐的应答曲"
+  },
+  "card-ktn-05-newy-00": {
+    "description": "我想和月光风暴的大家一起，在演唱会和工作上\r\n度过充实美好的一年",
+    "name": "贺新年的雪月花",
+    "obtainMessage": "穿上这套服装，\n就会涌起非常怀念的感觉"
+  },
+  "card-ktn-05-poli-00": {
+    "description": "做这种事也是没用的！\n问我怕不怕？　当然。因为——\n正义绝不会屈服！！",
+    "name": "不灭的正义之焰",
+    "obtainMessage": "正义绝不会屈服！"
+  },
+  "card-ktn-05-prem-00": {
+    "description": "总觉得像这样所有队长齐聚一堂\n感觉很新鲜呢",
+    "name": "队长们的稀有合影",
+    "obtainMessage": "所有队长齐聚一堂，\n感觉还挺新鲜的呢"
+  },
+  "card-ktn-05-wedd-00": {
+    "description": "哇……好棒。这里就是当天的会场啊\n不过……虽然事到如今，但真的可以吗？\n我还是个高中生哦？　那个……结婚什么的",
+    "obtainMessage": "我觉得结婚也不错呢"
+  },
+  "card-ktn-05-yukt-00": {
+    "description": "请、请不要捉弄我\n就算我是『棉花糖枪手』……",
+    "name": "夏日晴空与甜蜜奖励",
+    "obtainMessage": "爸爸和妈妈，\n都好好地夸奖了我一番"
+  },
+  "card-mei-02-eve-01": {
+    "description": "呐呐，下周练习结束后要不要去玩？\n喂——你有在听吗？",
+    "name": "拉近距离的露天温泉"
+  },
+  "card-mei-02-eve-02": {
+    "description": "夺冠的会是芽衣和铃喵哦！\r\n我们会证明星见Production是最强的好朋友！",
+    "name": "形影不离Twins！"
+  },
+  "card-mei-03-schl-00": {
+    "description": "嘿咻！这点程度没问题啦～",
+    "name": "平衡感UP"
+  },
+  "card-mei-04-casl-00": {
+    "description": "和舞台上不一样的妆容也不错呢",
+    "name": "化妆时间～"
+  },
+  "card-mei-05-birt-00": {
+    "description": "开心的事，和大家一起的话，会更开心\r\n大家能露出笑容的话，芽衣也会很开心\r\n要不要写进今年的短册里呢\r\n『希望明年也能和大家一起笑容满满地度过』",
+    "name": "甜甜圈堆成山生日",
+    "obtainMessage": "诶嘿嘿，芽衣，\n这么幸福真的可以吗"
+  },
+  "card-mei-05-birt-01": {
+    "description": "哼哼～，没想到猫咪居然会变成这么多\r\n沙翁呢～",
+    "name": "生日旅行・芽衣",
+    "obtainMessage": "蹭过来贴着芽衣，\n是觉得寂寞了吗？"
+  },
+  "card-mei-05-birt-02": {
+    "description": "铃喵送给我的甜甜圈是特别的甜甜圈哦\r\n因为那是她考虑了很多芽衣的事情才选出来的对吧？",
+    "name": "wonderful day for 芽衣",
+    "obtainMessage": "一起吃甜甜圈，\n那就会成为回忆哦"
+  },
+  "card-mei-05-birt-03": {
+    "description": "嗯……？喵喵喵？\n喵～！喵ice喵idea！",
+    "name": "dear precious 芽衣",
+    "obtainMessage": "芽衣的生日会\n要开始啦——！"
+  },
+  "card-mei-05-casl-02": {
+    "description": "芽衣是不是也和游戏里的芽衣有着同样的心情呢",
+    "name": "如果谈了一场盛夏之恋",
+    "obtainMessage": "咦？脸\n开始发烫了……"
+  },
+  "card-mei-05-fest-00": {
+    "description": "公主抱……吗\n……要是被麻奈酱发现了，会不会生气呢？",
+    "name": "与一位偶像的邂逅",
+    "obtainMessage": "要是被麻奈发现，\n会不会挨骂呢？"
+  },
+  "card-mei-05-fest-02": {
+    "description": "麻奈酱……芽衣今后也会\r\n和月光风暴的大家一起前进哦\r\n为了让全世界的人都成为粉丝\r\n成为那么厉害的偶像",
+    "name": "闪耀光芒的全新誓言",
+    "obtainMessage": "麻奈……\n芽衣今后也会，\n和月光风暴的大家\n一起前进哦"
+  },
+  "card-mei-05-hruh-00": {
+    "description": "说的是美久留酱吧？　平时的美久留酱\n虽然有点爱哭，但是非常温柔呢——\n而且呢，还是SOS团的吉祥物哦",
+    "name": "早坂芽衣的分裂",
+    "obtainMessage": "是SOS团的吉祥物哦"
+  },
+  "card-mei-05-idol-00": {
+    "description": "小猫咪，肉球软乎乎的～\n啊哈哈，太可爱了～\n花儿又漂亮，猫又可爱\n芽衣，超级开心！",
+    "name": "镜头前的笑容",
+    "obtainMessage": "要是全是这样的工作\n就好了～。"
+  },
+  "card-mei-05-miku-05": {
+    "description": "希望你能多拍一些。也希望大家都能看到\n尽情享受夏天的芽衣的样子！\r\n大家快看！\n今天的芽衣，正沐浴着阳光闪闪发光哦！",
+    "name": "常夏的强力月亮",
+    "obtainMessage": "今天的芽衣，\n沐浴着阳光闪闪发光哦！"
+  },
+  "card-mei-05-mizg-01": {
+    "description": "啊哈哈！看呀看呀——！双头线香烟花！\n来来，一起放烟花吧！\n比比看谁的更持久！",
+    "name": "只有两人的日落海滩",
+    "obtainMessage": "也许是因为芽衣恋爱了吧"
+  },
+  "card-mei-05-mizg-02": {
+    "description": "接下来的一年，肯定也会发生各种各样的事\r\n辛苦的事，还有比那更开心的事，多到数不清！\r\n明年的这个时候，芽衣她们会变成什么样呢",
+    "name": "无法掩饰的脸红",
+    "obtainMessage": "明年的这个时候，芽衣她们\n会变成什么样呢"
+  },
+  "card-mei-05-pair-00": {
+    "description": "芽衣啊，能和铃喵组成组合\r\n真是太好了",
+    "name": "喵式少女",
+    "obtainMessage": "铃喵，\n别生气嘛～，\n咕噜喵～"
+  },
+  "card-mei-05-prem-00": {
+    "description": "咦～？这里是哪里呀？\n诶？芽衣她们是琴乃心中的恶魔？\n被这么一说，感觉还真是这样！\n好——琴乃，忘掉什么减肥吧\n吃一大堆甜甜圈吧！",
+    "name": "天使的低语、恶魔的诱惑",
+    "obtainMessage": "反正是梦里，想吃多少吃多少，想玩多少玩多少！"
+  },
+  "card-mei-05-rock-00": {
+    "description": "也请多多支持我们，当然还有SUNNY PEACE、月光风暴哦——！\n芽衣啊，能和最喜欢的怜酱一起跳舞，心情超棒的\n下次一定还要一起哦！",
+    "name": "总有一天再一起",
+    "obtainMessage": "芽衣呢，能和最喜欢的怜酱\n一起跳舞，心情超棒的"
+  },
+  "card-mei-05-vlnt-00": {
+    "description": "总觉得有点害羞呢……\r\n不过，那是因为芽衣是认真的吧",
+    "name": "本命meet up",
+    "obtainMessage": "这才是芽衣真心本命的巧克力！"
+  },
+  "card-mei-05-wdnc-00": {
+    "description": "用芽衣芽衣她们的表演，让大家更加充满活力\n一起办一场超——厉害的演唱会对决吧！",
+    "obtainMessage": "咔嚓咔嚓～～～～！\n轰隆隆————"
+  },
+  "card-mei-05-wedd-00": {
+    "description": "一起挑选礼服的时候，我甚至希望这段时间能一直持续下去……\r\n真的非常开心\r\n……我会作为偶像，更加更加努力的",
+    "name": "珍珠白的回忆",
+    "obtainMessage": "从今往后，永远永远，都要在一起哦"
+  },
+  "card-mei-05-xmas-00": {
+    "description": "我也从大家那里收礼物吧\n现在，请给我今年最大的应援！\n……嗯！谢谢大家！\n那么，要开始唱了哦～！全力跟上我吧！！",
+    "name": "招来幸福的芽衣圣诞老人",
+    "obtainMessage": "大家，圣诞，快乐——！"
+  },
+  "card-mhk-02-eve-01": {
+    "description": "之前和遥子喝酒的时候被她商量了\r\n感觉不说点什么就脱不了身，所以没办法",
+    "name": "孤高的理解者"
+  },
+  "card-mhk-02-eve-02": {
+    "description": "老实说，这算是虚张声势的副产物\n……嘛，只要能成为话题，那就好办了",
+    "name": "狮子们的维加斯征服"
+  },
+  "card-mhk-05-birt-00": {
+    "description": "……让别人吃我做的东西……\n收到礼物……被人庆祝……\n明明以为，再也不会发生这种事了……",
+    "name": "浮现的追忆生日",
+    "obtainMessage": "今天这种日子应该可以吧……\n因为是特别的日子，今天这种日子应该可以……"
+  },
+  "card-mhk-05-birt-01": {
+    "description": "刚才那瓶红酒真好喝呢……\r\n虽然还想再喝一点，这附近有店里有卖吗",
+    "name": "生日旅行・miho",
+    "obtainMessage": "说好要请客的\n可是您哦"
+  },
+  "card-mhk-05-birt-02": {
+    "description": "这也会成为新的一步吗\n希望能让你安心……对吧",
+    "obtainMessage": "这也会成为，新的一步\n吗"
+  },
+  "card-mhk-05-casl-04": {
+    "description": "谢谢你捡到我\n还有……谢谢你邀请我来度假，这件事也要谢谢你",
+    "name": "最美好的异国假日",
+    "obtainMessage": "在希腊度假……\n偶尔这样也不错呢"
+  },
+  "card-mhk-05-chna-00": {
+    "description": "现在，我要去做『最棒的偶像』了\n看着吧，叶酱",
+    "name": "紫扇飞舞之夜",
+    "obtainMessage": "接下来要唱的，是我如宝物一般的歌曲"
+  },
+  "card-mhk-05-circ-00": {
+    "description": "相当有魄力的漂移对吧？\r\n明明汽车厂商的人也都来看了\r\n要是只是平稳地驾驶，就太无聊了呢",
+    "name": "马赫之轮",
+    "obtainMessage": "我想向一起考取驾照的朋友\n炫耀一下"
+  },
+  "card-mhk-05-fest-02": {
+    "description": "想对那位朋友说的话是什么？……是啊\n……你已经不是一个人了，放心吧",
+    "obtainMessage": "……因为已经不再是一个人了，\n放心吧"
+  },
+  "card-mhk-05-idol-00": {
+    "description": "虽然今后还会失败很多次\n但也要把那些化为养分，总有一天——\r\n我们一定会登上顶峰",
+    "obtainMessage": "我可不打算\n就此满足"
+  },
+  "card-mhk-05-idol-03": {
+    "description": "叶酱总是说，想让粉丝们开心\r\n既然如此，我只是觉得\r\n自己作为IIIX，去投入能传递给粉丝的\r\n新曲会更好",
+    "name": "被囚禁的执着",
+    "obtainMessage": "……为了不被叶酱笑话，\n我也得加油才行"
+  },
+  "card-mhk-05-mizg-01": {
+    "description": "虽然我很少会想去海边\n但一想到快要告别了，还是有点寂寞呢\n在海边散步也很舒服\n……还稍微想起了以前的事",
+    "name": "波光间摇曳的怀旧",
+    "obtainMessage": "在海边散步也很舒服呢"
+  },
+  "card-mhk-05-newy-00": {
+    "description": "你看，这不是酒，只是普通的水哦\r\n是拍摄用的小道具，请放心",
+    "name": "映在杯中的雪景",
+    "obtainMessage": "服装方面能穿上和服风格的，\n真让人开心呢"
+  },
+  "card-mhk-05-pajm-00": {
+    "description": "朋友一定也会看到广告\r\n然后夸我说……好厉害",
+    "name": "回忆总是留在黑发中",
+    "obtainMessage": "朋友看到广告后\n也说好厉害……\n我想她会夸奖我的"
+  },
+  "card-mhk-05-poli-00": {
+    "description": "露天浴池的景色也很棒，还有桧木的香气\r\n……我还是第一次泡澡泡到差点晕过去\r\n试着发呆度过半天后\r\n……让我再次觉得，放松也是很重要的",
+    "name": "温泉蒸汽短途旅行",
+    "obtainMessage": "泡澡泡到差点晕过去，\n这还是第一次"
+  },
+  "card-mhk-05-prem-00": {
+    "description": "只要和叶酱两个人，就能让许多人幸福\r\n只要两个人，就能登上顶峰\r\n下次一定也能赢过那个孩子\r\n呐，叶酱。谢谢你陪在我身边",
+    "name": "扩散幸福的Sundance",
+    "obtainMessage": "嗯，叶酱。\n今天也让大家幸福吧"
+  },
+  "card-mhk-05-wedd-00": {
+    "description": "……以前穿的时候\r\n我也和其他孩子一样，挺开心的\r\n和朋友一起闹腾\r\n还说着真正的礼服谁会先穿上呢",
+    "name": "带来幸福的蓝蝴蝶",
+    "obtainMessage": "结婚，不过是\n新生活的开始而已"
+  },
+  "card-mhk-05-xmas-00": {
+    "description": "那时那个笨蛋高中生的身份已经查清了\r\n下次我去找叶酱帮忙问问看",
+    "name": "一瞬的雪融",
+    "obtainMessage": "呐，叶酱。\n今天能久违地见到你，我很开心"
+  },
+  "card-mku-05-miku-00": {
+    "description": "我想和大家更多地、更多地联系在一起\r\n我想了解在这里每一个人的心声！\r\n我带着这样的心意唱了这首歌……\r\n不知道有没有传达到大家心里呢？",
+    "name": "连接世界的未来之音",
+    "obtainMessage": "我想和大家有更多更多的联系！"
+  },
+  "card-mku-05-miku-05": {
+    "description": "真的超级开心！\n海浪声、海鸟的叫声、享受的人们欢笑声\n这里充满了各种各样的声音，是个很棒的地方\n能和大家一起玩也是最棒的回忆",
+    "name": "未来爽快暑假",
+    "obtainMessage": "铃酱，\n就像专业的摄影师一样"
+  },
+  "card-mku-05-miku-06": {
+    "description": "呵呵，真漂亮呢\n烟花好像在为我庆祝一样\r\n大家，谢谢你们\n真的成了一个很棒的纪念日",
+    "name": "响彻夜空的未来之音",
+    "obtainMessage": "真的成为了\n很棒的纪念日"
+  },
+  "card-mna-02-eve-01": {
+    "description": "别看我这样，我以前可是个还挺红的\r\n偶像哦——"
+  },
+  "card-mna-02-eve-02": {
+    "description": "以后有机会，我们再在这里办一场回乡演唱会吧",
+    "name": "与你共度的海洋乐园"
+  },
+  "card-mna-02-eve-03": {
+    "description": "虽然稍微变短了一点，和原来不太一样\n但就算形状变了，和琴乃是一对的这件事不会变吧",
+    "name": "成对的回忆"
+  },
+  "card-mna-05-birt-01": {
+    "description": "今后我还会迎来许多次生日\r\n但今天这道光芒，我一生都不会忘记",
+    "name": "光辉相连的生日",
+    "obtainMessage": "今天这份光芒，\n我一辈子都不会忘记"
+  },
+  "card-mna-05-birt-02": {
+    "description": "没想到琴乃送我歌曲的日子\n竟然会到来！\n期待回应曲完成哦！",
+    "name": "昔日幸福的生日",
+    "obtainMessage": "琴乃对我来说\n是最珍贵的宝物"
+  },
+  "card-mna-05-fest-00": {
+    "description": "今天，希望你能握住我的手\n就像上次鬼屋时那样，紧紧地",
+    "name": "只是，牵着手",
+    "obtainMessage": "今天，希望你能握住我的手"
+  },
+  "card-mna-05-fest-01": {
+    "description": "我能加入有遥子酱在的星见Production真是太好了\n那么棒的孩子，绝对不能让她\n从这家事务所逃走哦？",
+    "name": "与友共拾的音之碎片",
+    "obtainMessage": "我会倾注满满的心意来歌唱\n敬请期待哦"
+  },
+  "card-mna-05-fest-02": {
+    "description": "能登上从小观看的舞台，简直像做梦一样\r\n这也是多亏了大家的应援哦",
+    "name": "祈愿未来的深红之花",
+    "obtainMessage": "居然能一起度过除夕，\n真的好开心"
+  },
+  "card-mna-05-idol-00": {
+    "description": "为了让来到这里的人自不必说，还有因故\n无法前来的人，\n以及希望有朝一日能来的人都能听到\n我会倾注心意歌唱",
+    "obtainMessage": "今天谢谢你来\n看我的演唱会！"
+  },
+  "card-mna-05-link-00": {
+    "description": "琴乃的头发又直又漂亮呢～\n难得有机会，再留长一点就好了",
+    "name": "羁绊相连的姐妹奇迹",
+    "obtainMessage": "……唔，姐姐……"
+  },
+  "card-mna-05-mizg-01": {
+    "description": "如果有一天，在某个地方，因为某个小小的契机\r\n能让你想起我的歌……\r\n想起长濑麻奈这个偶像……\r\n你不觉得那是无比幸福的事吗？",
+    "name": "回首的夏日色彩",
+    "obtainMessage": "今天的我，\n比盛夏的太阳\n还要耀眼吧？"
+  },
+  "card-mna-05-msic-00": {
+    "description": "仅凭言语，无法将这份心意完全传达\n所以我会永远唱下去",
+    "name": "通往未来的五线谱",
+    "obtainMessage": "我会一直唱下去哦"
+  },
+  "card-mna-05-prem-00": {
+    "description": "快乐的时光总是转眼就结束了呢\n要是能一直这样下去就好了",
+    "name": "烟花下心跳加速的夜晚",
+    "obtainMessage": "我一直都很依赖你哦"
+  },
+  "card-mna-05-prem-01": {
+    "description": "呐，能干经纪人君\r\n你真是变得可靠多了呢",
+    "name": "笼罩她的花霞",
+    "obtainMessage": "从你眼中看到的景色\n是什么样的呢"
+  },
+  "card-mna-05-prem-02": {
+    "description": "诶～？有什么关系嘛，每次来不都坐了吗\r\n姐姐也一起，所以不害羞吧？\r\n对吧，琴乃！",
+    "name": "循环往复的淡淡时光",
+    "obtainMessage": "至少今天，黏在一起也可以嘛"
+  },
+  "card-mna-05-prem-03": {
+    "description": "那，我走这边啦！\r\n没事的，不用特意送我\r\n毕竟我可是未来的顶级偶像\r\n我知道你会担心啦？\r\n说不定还会被琴乃瞪呢\r\n那么，拜拜！",
+    "name": "越过道口的遥远记忆",
+    "obtainMessage": "没关系啦，\n不用特意送我"
+  },
+  "card-mna-05-snro-00": {
+    "description": "和凯蒂猫她们一起玩耍、唱歌跳舞\n这种经历，只有在梦里才能实现吧",
+    "name": "手牵手的奇迹共演",
+    "obtainMessage": "在你醒来之前，\n我想紧紧抱着你"
+  },
+  "card-mna-05-vlnt-00": {
+    "description": "这是我送给你的情人节巧克力哦\r\n当然是认真的，真心本命巧克力\r\n……别害羞啦。你那么迟钝\r\n不说到这个份上根本传达不到吧？",
+    "name": "留在心中的巧克力约定",
+    "obtainMessage": "……你对我，是怎么想的？"
+  },
+  "card-mna-05-wedd-00": {
+    "description": "呐，怎么样？\r\n……至少现在，我是你的新娘哦",
+    "name": "缝隙间窥见的少女面容",
+    "obtainMessage": "至少现在，我是你的新娘哦"
+  },
+  "card-ngs-02-eve-01": {
+    "description": "沙季和千纱都好厉害……\n我也不能输给她们啊……",
+    "name": "被姐妹的活跃所渲染"
+  },
+  "card-ngs-02-eve-02": {
+    "description": "你要选谁！？",
+    "name": "夹缝中摇摆的恋心"
+  },
+  "card-ngs-02-eve-03": {
+    "description": "呵呵，虽然这么说有点奇怪，\r\n但我好想看看沙季酱站在中心位的样子。她一定比任何人都更笔直、更美丽",
+    "name": "为了能坚强而温柔地照亮他人"
+  },
+  "card-ngs-03-schl-00": {
+    "description": "我一定会追随你的！",
+    "name": "追逐着那道背影"
+  },
+  "card-ngs-04-casl-00": {
+    "description": "今天也发生了好多事啊……呵呵",
+    "name": "暖阳日记"
+  },
+  "card-ngs-05-akma-00": {
+    "description": "经纪人的手……好温暖\n这间休息室有点冷，正好呢，嘿嘿",
+    "name": "爱恶作剧的小恶魔",
+    "obtainMessage": "这间休息室有点冷，\n正好合适呢"
+  },
+  "card-ngs-05-birt-00": {
+    "description": "诶诶诶诶！？喜、喜、喜欢？我爱你？\n琴乃酱竟然、竟然对我……！？\n怎、怎怎、怎、怎么了琴乃酱！\n今天的琴乃酱也太大胆了吧————！？",
+    "name": "与琴乃酱的生日",
+    "obtainMessage": "收到会让人开心的，\n或许就是这种快乐的时光吧"
+  },
+  "card-ngs-05-birt-01": {
+    "description": "哈～……那两个人就是在这里相遇并坠入爱河的……\r\n没想到竟然能来到这个地方……哈啊啊～",
+    "name": "生日旅行・渚",
+    "obtainMessage": "啊、那个，\n难难难难难难道，\n是是是、接吻……！？"
+  },
+  "card-ngs-05-birt-02": {
+    "description": "这是！珍妮弗在夏日海岸向欺负人的家伙们\n展示的优雅舞步吧！",
+    "name": "wonderful day for 渚",
+    "obtainMessage": "大家为我庆祝\n谢谢你们～！"
+  },
+  "card-ngs-05-birt-03": {
+    "description": "等等。我……不知道的……琴乃的另一面……？\n那就算是芽衣也不能听过就算了呢",
+    "name": "dear precious 渚",
+    "obtainMessage": "铃酱，你为我\n写了恋爱小说吗！？"
+  },
+  "card-ngs-05-casl-02": {
+    "description": "这个场景里主角害羞的样子也\r\n很可爱，我很喜欢呢，嘿嘿",
+    "name": "如果和青梅竹马恋爱的话",
+    "obtainMessage": "虽说是在游戏里，\n居然会变成这种氛围"
+  },
+  "card-ngs-05-fest-02": {
+    "description": "这次由我来照亮琴乃的道路\r\n为了让琴乃毫不犹豫、鼓起勇气\r\n迈出那一步\r\n为了能一起走过今后的路",
+    "name": "照亮友人的光",
+    "obtainMessage": "这次轮到我来，\n照亮琴乃的\n道路"
+  },
+  "card-ngs-05-flow-00": {
+    "description": "这样啊，这就是琴乃看到的景色……\r\n在舞台中心承受大家的期待，真的好紧张\r\n但是，站在中心的感觉真的很舒服呢，琴乃！",
+    "name": "这一瞬间的主角",
+    "obtainMessage": "这就是琴乃看到的景色啊"
+  },
+  "card-ngs-05-frut-00": {
+    "description": "要来一杯美味的果汁吗～？\r\n我们备有好多口味哦～！",
+    "name": "桃色庆典",
+    "obtainMessage": "美味的水果果汁，\n要来一杯吗～？"
+  },
+  "card-ngs-05-idol-00": {
+    "description": "呵呵，琴乃酱。今天的演唱会\n气氛好热烈呢。我玩得很开心哦\n其实我在演唱会开始前，有件担心的事\n……你问是什么？呵呵，保密哦",
+    "name": "将后背托付给你",
+    "obtainMessage": "今天的演唱会，气氛超热烈的。\n我玩得很开心哦。"
+  },
+  "card-ngs-05-link-00": {
+    "description": "琴乃酱虽然很直率，却非常笨拙，总是对自己很严格呢\n所以不管多少次，我都会告诉你\n琴乃酱，我最喜欢你了",
+    "name": "两人的羁绊照亮的此刻",
+    "obtainMessage": "怎么了？　靠在我身上"
+  },
+  "card-ngs-05-maid-01": {
+    "description": "那就再多加一点爱吧\n萌萌啾～！　请享用！",
+    "name": "两人的萌萌啾！",
+    "obtainMessage": "萌萌啾～！\n请享用！"
+  },
+  "card-ngs-05-mizg-01": {
+    "description": "我总觉得自己必须拼命追赶大家的背影\n变得看不到周围了\n我的身边有月光风暴的大家在……\n这么一想，就变得非常轻松了",
+    "name": "光舞动沙滩的讯息",
+    "obtainMessage": "哇……这个是沙画吗？"
+  },
+  "card-ngs-05-mizg-02": {
+    "description": "……虽然事到如今才说，这套服装还挺大胆的吧？\r\n穿的时候，我真的非常害羞\r\n但难得是夏日音乐节，所以我努力了一把！",
+    "name": "夏日天空塑身",
+    "obtainMessage": "这套服装，还挺大胆的吧？"
+  },
+  "card-ngs-05-prem-00": {
+    "description": "对了，琴乃酱\r\n这句话我还没说过呢\r\n——琴乃酱，欢迎回来",
+    "name": "不输的闪耀",
+    "obtainMessage": "琴乃，\n欢迎回来"
+  },
+  "card-ngs-05-vlnt-00": {
+    "description": "好的，请收下。今天能稍微独占你，我很开心\r\n……怎么，心动了吗？　诶嘿嘿",
+    "name": "引领气息的甜蜜瞬间",
+    "obtainMessage": "今天能稍微独占你一下，我很开心"
+  },
+  "card-ngs-05-wedd-00": {
+    "description": "这是只属于我们的秘密。来吧，我要敲响了哦",
+    "name": "响彻天空的祝福之钟",
+    "obtainMessage": "这是只属于我们的秘密，\n来吧，我要按下去了哦"
+  },
+  "card-ngs-05-xmas-00": {
+    "description": "琴乃酱理想的圣诞约会是什么样的？\n不太清楚？　呵呵，想和我去游乐园？\n……嗯，是啊。我现在也还是觉得\n和琴乃酱约会或许是最好的",
+    "name": "怀抱梦想的圣诞约会",
+    "obtainMessage": "琴乃\n理想的圣诞节约会是怎样的？"
+  },
+  "card-ngs-05-yukt-00": {
+    "description": "之前活动穿的服装很可爱\n所以我想在祭典上也试试穿浴衣\n这件浴衣，还是第一次给别人看\n……合适吗？",
+    "name": "阳光下泛红的脸颊",
+    "obtainMessage": "太慢了啦，真是的～"
+  },
+  "card-rei-02-eve-01": {
+    "description": "我一定会打造出最棒的舞台\r\n所以芽衣，把力量借给我吧",
+    "name": "心灵 Distance"
+  },
+  "card-rei-02-eve-02": {
+    "description": "直白的告白真是抱歉。我也没办法啊\r\n因为……我还是第一次告白……",
+    "name": "透过镜头传递的心意"
+  },
+  "card-rei-02-sush-00": {
+    "description": "这就是学园偶像……",
+    "name": "Sunshine！！"
+  },
+  "card-rei-03-schl-00": {
+    "description": "努力绝对不会背叛你",
+    "name": "夜晚的自主练习"
+  },
+  "card-rei-04-casl-00": {
+    "description": "好棒的声音……身体不由自主地动了起来",
+    "name": "秘密的小乐趣"
+  },
+  "card-rei-05-birt-00": {
+    "description": "芽衣、铃，今天我们尽情享受吧！\r\n哇！快看！演员正在表演呢！",
+    "name": "心动游乐园生日",
+    "obtainMessage": "这么棒的生日，\n我还是第一次过呢"
+  },
+  "card-rei-05-birt-01": {
+    "description": "呵呵，要是被发现我一个人霸占了螃蟹\n大家肯定会生气的，所以请保密哦",
+    "name": "生日旅行・怜",
+    "obtainMessage": "旅行原来这么开心啊"
+  },
+  "card-rei-05-birt-02": {
+    "description": "到那时，我必须告诉她们。我所学到的东西，\r\n以及我能传授的东西。我心目中的『偶像』",
+    "name": "wonderful day for 怜",
+    "obtainMessage": "总有一天，我也会成为前辈吗"
+  },
+  "card-rei-05-casl-02": {
+    "description": "毕竟我也是个女孩子……\r\n在最喜欢的地方，和最喜欢的人约会，\r\n会憧憬也是理所当然的吧……",
+    "name": "若能触碰到你的手",
+    "obtainMessage": "希望你能爱上真实的我"
+  },
+  "card-rei-05-casl-04": {
+    "description": "从这个座位不太看得到烟花……\n所以……我可以坐到你那边吗？",
+    "name": "在身旁闪耀的特等席假日",
+    "obtainMessage": "请你在身边，\n看着我渐渐长大"
+  },
+  "card-rei-05-chia-00": {
+    "description": "在大家痛苦、难过的时候，我会全力应援\n为了让努力的大家能向前迈出一步！\n为了让大家都露出笑容！",
+    "name": "舞动的丘比特",
+    "obtainMessage": "今后我也会一直\n为努力的你加油的"
+  },
+  "card-rei-05-fest-00": {
+    "description": "我希望那些不太了解偶像的人，也能喜欢上\nSUNNY PEACE开朗又充满活力的舞蹈\n因为，我比任何人都——\n更喜欢SUNNY PEACE的舞蹈！",
+    "name": "为起舞的她屏息",
+    "obtainMessage": "难道说\r\n你迷上我了？"
+  },
+  "card-rei-05-fest-01": {
+    "description": "商店街的人、学校的朋友\r\n还有妈妈、哥哥……\r\n然后，现在也想对爸爸……\r\n把这份感谢之情，乘着歌声，传达出去",
+    "name": "在故乡的海边绽放",
+    "obtainMessage": "我想告诉，\n一直为我加油的人们，\n告诉所有人"
+  },
+  "card-rei-05-hruh-00": {
+    "description": "兴奋起来的阳比，还说下次想在更大的会场\r\n开演唱会，真让人头疼",
+    "name": "三花猫狂想曲",
+    "obtainMessage": "到时候大家一起，\n让全世界都热闹起来吧"
+  },
+  "card-rei-05-idol-00": {
+    "description": "我所……我们所追求的\n并不是站上大奖赛的舞台\n――而是夺冠，哦",
+    "name": "驰骋高台的薰风",
+    "obtainMessage": "我们的目标，\n――就是夺冠哦。"
+  },
+  "card-rei-05-mizg-02": {
+    "description": "呵呵……夏天的海边真开心呢\r\n我明白那种想穿着泳衣跳进海里的心情了\r\n经纪人，海水冰凉凉的，很舒服哦！\r\n要不要过来和我们一起玩水？",
+    "name": "大胆都是夏天的错",
+    "obtainMessage": "要不要过来和我们一起玩水？"
+  },
+  "card-rei-05-mizg-03": {
+    "description": "不是的，我并不是在偷懒……\r\n诶，玩水嬉闹的我看起来很可爱？\r\n呜……好害羞，别那样一直盯着我看",
+    "name": "时光静止的常夏",
+    "obtainMessage": "太害羞了，\n别那么\n盯着我看……"
+  },
+  "card-rei-05-newy-00": {
+    "description": "虽然很冷，但年末年初的时候，请注意\n不要感冒了哦\n啊，还有，别吃太多！　也要注意别吃太多年糕哦\n我吗？　我彻底做好自我管理了，所以没问题",
+    "name": "绝对秘密的后台",
+    "obtainMessage": "这么开心的倒计时还是第一次！"
+  },
+  "card-rei-05-onep-00": {
+    "description": "……经纪人\n你知道樱花花瓣的咒语吗？\n有个说法是，在飘落飞舞的樱花花瓣落地之前\n抓住它，愿望就会实现",
+    "name": "花灯邀约的笑容",
+    "obtainMessage": "你知道樱花花瓣的咒语吗？"
+  },
+  "card-rei-05-pair-00": {
+    "description": "在宿舍有空的时候\r\n我都会向遥子小姐请教各种事情\r\n今后也想互相教会彼此许多东西，一步一步\r\n和大家一起走下去",
+    "name": "步步高升的少女",
+    "obtainMessage": "步伐不是一个人决定的。\n而是要一起决定的呢"
+  },
+  "card-rei-05-prem-00": {
+    "description": "BIG4——SUNNY PEACE绝对不会输！\r\n为了支持我们的人们\r\n为了以我们为目标的人们\r\n还有，为了应援我们的大家！\r\n我们会继续赢下去！",
+    "name": "胜利的Peace！",
+    "obtainMessage": "在成长的，\n可不只有月光风暴哦！"
+  },
+  "card-rei-05-rock-00": {
+    "description": "刚才对我说的话\n我会让你收回的\n现在的我，感觉能跳出比谁都厉害的舞蹈",
+    "name": "不惧怕失败",
+    "obtainMessage": "对我说过的话，\n我会让你收回的"
+  },
+  "card-rei-05-sail-00": {
+    "description": "连我自己都没察觉到的\n细微变化，你都能注意到\n你这一点……\n好、好帅……好帅啊……",
+    "name": "阳光照耀下你的发色",
+    "obtainMessage": "我会闪耀得\n不输给向日葵花田！"
+  },
+  "card-rei-05-trbl-00": {
+    "description": "装饰，原来是想装饰我们\n是这个意思吗！？",
+    "name": "丝带什么的太不知羞耻了！",
+    "obtainMessage": "到底怎么弄的\n才会缠成这样啊！"
+  },
+  "card-rei-05-wdnc-00": {
+    "description": "在这里的所有人，一起打造最棒的舞台吧！\n来吧，嗨起来吧——！！",
+    "obtainMessage": "来吧，嗨起来\n上啊！！"
+  },
+  "card-rei-05-wedd-00": {
+    "description": "今天的我，能成为让观众们幸福的美妙新娘吗？\n能成为让你心动不已的……美丽新娘吗？",
+    "name": "花香萦绕两人的未来",
+    "obtainMessage": "能让你心动不已……\n我有成为美丽的新娘吗？"
+  },
+  "card-rik-05-sush-00": {
+    "description": "诶、诶、诶诶诶诶！？雫酱把手撑在墙上\n一直盯着我看……！？",
+    "name": "同志的热情",
+    "obtainMessage": "这、这种情况……\n壁、壁咚……！"
+  },
+  "card-rio-01-casl-00": {
+    "description": "应该还能做得更好。下次一定要……",
+    "name": "雨中的归途"
+  },
+  "card-rio-02-eve-01": {
+    "description": "来吧，马上开始练习",
+    "name": "令人紧张的集训"
+  },
+  "card-rio-02-eve-02": {
+    "description": "……我觉得非常棒\n你做得很好。心，爱",
+    "name": "紧张的一瞬间"
+  },
+  "card-rio-02-eve-03": {
+    "description": "抱歉，我可没空陪你们玩\n难得来海边，就别搭讪了，去游泳吧",
+    "name": "手忙脚乱的假期"
+  },
+  "card-rio-02-miku-01": {
+    "description": "回应大家的呼声，返场演出开始咯！\n不过在那之前……今天的特别嘉宾！！",
+    "name": "LizNoir在北海道！"
+  },
+  "card-rio-03-schl-00": {
+    "description": "想要登顶，就只能不断努力",
+    "name": "不屈之心"
+  },
+  "card-rio-04-casl-00": {
+    "description": "耐心等待，必有晴天……呵呵，真期待呢",
+    "name": "甜蜜生活"
+  },
+  "card-rio-05-birt-00": {
+    "description": "没想到，你竟然准备了\n这么大的惊喜\n这是我至今为止，最难忘的生日",
+    "name": "真心松饼生日",
+    "obtainMessage": "这样的松饼，我从没吃过！"
+  },
+  "card-rio-05-birt-01": {
+    "description": "我也是……我也是偶尔稍微\r\n放纵一下玩玩，不也挺好的吗？",
+    "name": "生日旅行・莉央",
+    "obtainMessage": "就好像，这世上\n只剩我们两人\n一样"
+  },
+  "card-rio-05-birt-02": {
+    "description": "谢谢你，爱。愿意陪我一起\r\n总觉得，我又长大了一岁呢",
+    "name": "wonderful day for 莉央",
+    "obtainMessage": "感觉又向成熟\n迈进了一步呢"
+  },
+  "card-rio-05-birt-03": {
+    "description": "你也要在那边好好努力哦。\n然后总有一天，我们来做个了断吧。\n我的，永远的对手",
+    "name": "dear precious 莉央",
+    "obtainMessage": "哈！？　不是遥子\n你说要做的吗！？"
+  },
+  "card-rio-05-casl-02": {
+    "description": "你也要做好觉悟再玩哦\r\n就算你想向我求婚，我可不管哦",
+    "name": "如果在职场上谈恋爱的话",
+    "obtainMessage": "呵呵，『觉得惹人怜爱的瞬间』啊……"
+  },
+  "card-rio-05-casl-04": {
+    "description": "呵呵，能看到他那样慌张的样子还真是新鲜呢\n要是我们俩一起继承这家店的话，一定会是那样的日子吧\n——我真是笨蛋！工作的时候在想什么妄想啊！？",
+    "name": "梦想未来的甜蜜假日",
+    "obtainMessage": "如果你辞去经纪人\n的工作，要不要来这里上班？"
+  },
+  "card-rio-05-fest-00": {
+    "description": "至今为止，我们经历了许多事情……\n能站在这个舞台上，也如同奇迹一般\n但是，那并非奇迹，而是更加了不起的东西……\n是努力，以及最重要的是大家的应援所带来的必然",
+    "name": "比起奇迹更是必然",
+    "obtainMessage": "我们LizNoir，将超越奇迹"
+  },
+  "card-rio-05-fest-01": {
+    "description": "我所憧憬的众多偶像、艺人曾站上过的\n这个舞台，我要献上与之相称的表演……",
+    "name": "超越过去的纯白之花",
+    "obtainMessage": "终于能登上\n长濑麻奈出演的节目了"
+  },
+  "card-rio-05-fest-03": {
+    "description": "在决赛淘汰赛期间，软弱的我的内心\n曾无数次动摇\n但每当那时，这套服装都让我想起觉悟——\n让我想起『偶像』究竟是什么",
+    "name": "高举的热情之旗",
+    "obtainMessage": "我说过的吧，\n「要把你培养成\n顶级偶像的制作人」"
+  },
+  "card-rio-05-halw-00": {
+    "description": "……我是冥界的护士，亡者们啊\n刮目相看吧\n从现在起，你们就是我的仆从\n沉醉于我的歌声与舞蹈吧",
+    "name": "那份魅力，怪物级",
+    "obtainMessage": "沉醉于我的歌声与舞蹈吧"
+  },
+  "card-rio-05-idol-00": {
+    "description": "我们不会四处讨好，也不会谄媚逢迎\n我们不打算以那种方式站上偶像界的顶点……\nLizNoir是表演者\n我们……想凭歌声与舞蹈站上顶点",
+    "name": "撼动空气",
+    "obtainMessage": "我想高傲地绽放！"
+  },
+  "card-rio-05-kait-00": {
+    "description": "照片已经洗出来了吗？\r\n好期待会拍成什么样呢\r\n哇……真不错，这张\r\n简直就像电影里的一个镜头\r\n感觉作品马上就要开始了",
+    "name": "憧憬的演员",
+    "obtainMessage": "为了拍出最棒的一张\n能做的我都做了"
+  },
+  "card-rio-05-kiok-00": {
+    "description": "此刻，与你一同眺望的这片海\r\n我一定，一生都不会忘记\r\n麻奈曾觉得美丽的那片星之海——",
+    "name": "铭刻于心的星月夜",
+    "obtainMessage": "与你一同眺望的这片海\n我一定，一生都不会忘记"
+  },
+  "card-rio-05-mizg-02": {
+    "description": "真是的……\n你就那么想再看一次我穿泳装的样子吗？",
+    "name": "羞涩的泳池边",
+    "obtainMessage": "你又那么想看\n我穿泳装的样子吗？"
+  },
+  "card-rio-05-newy-00": {
+    "description": "各位粉丝，谢谢你们这么多的声援\n今年最后的舞台，能像这样和大家\n一同迎来，我们很幸福\n我们会尽全力为大家歌唱，请聆听！",
+    "name": "与你共度新春归乡",
+    "obtainMessage": "今年的LizNoir，\n你可以更加期待哦"
+  },
+  "card-rio-05-pajm-00": {
+    "description": "今天，是粉色，还是红色？\r\n根据当天的心情，随时都能改变",
+    "name": "将心动心情凝于指尖",
+    "obtainMessage": "已经完美了。\n就算闭着眼睛\n也能涂好"
+  },
+  "card-rio-05-past-00": {
+    "description": "来吧葵，今天也出发吧。前往我们的舞台",
+    "obtainMessage": "来吧葵，今天也出发吧。\n前往我们的舞台……"
+  },
+  "card-rio-05-prem-00": {
+    "description": "上次渡海时\r\nLizNoir的道路尚未确定\r\n但如今不同了。就让她们见识一下吧\r\n我们最棒的表演！",
+    "name": "渡海的黑百合",
+    "obtainMessage": "走吧，就我们四人一起走向世界！"
+  },
+  "card-rio-05-trbl-00": {
+    "description": "即使在那种情况下也毫不怯场的拉拉\n或许真的很适合当偶像呢",
+    "name": "圣夜的女王与公主",
+    "obtainMessage": "能看到她的演唱会，\n一定只有这次哦"
+  },
+  "card-rio-05-wedd-00": {
+    "description": "等等！果然我还是没做好心理准备——\r\n明明说了先别打开的……\r\n这个……不是啦\r\n因为还没完成嘛……",
+    "name": "藏在面纱下的真心话",
+    "obtainMessage": "你为什么沉默不语。\n果然……\n不适合我吗……"
+  },
+  "card-rui-01-casl-00": {
+    "description": "路上小心。好好休息。",
+    "name": "在黄昏的站台"
+  },
+  "card-rui-02-eve-01": {
+    "description": "雫，能和你一起唱歌真是太好了",
+    "name": "对等的关系"
+  },
+  "card-rui-02-eve-02": {
+    "description": "这种一体感，真不错呢\r\n感觉和演唱会有着某种相通之处",
+    "name": "助理瑠依小姐"
+  },
+  "card-rui-02-eve-03": {
+    "description": "我也相信，如果是优的话一定没问题\r\n别着急，我们一起慢慢进步吧",
+    "name": "天使们的晴舞台"
+  },
+  "card-rui-02-eve-04": {
+    "description": "多亏了优，我似乎明白了『学校的意义』\n谢谢你，让我成为了『学校生活的主角』",
+    "name": "在学园祭上演音乐剧！"
+  },
+  "card-rui-02-eve-05": {
+    "description": "来吧，各位，打起精神来\n虽说是梦境世界的演出，也要全力以赴",
+    "name": "友好共演时间！"
+  },
+  "card-rui-03-schl-00": {
+    "description": "彻底攻克弱点吧",
+    "name": "秘密会议"
+  },
+  "card-rui-04-casl-00": {
+    "description": "久违地放松下来了",
+    "name": "安心的归途"
+  },
+  "card-rui-05-birt-00": {
+    "description": "一切都那么新鲜，让我吃了一惊。现在心里还怦怦直跳\n大家都会度过这么开心的生日啊",
+    "name": "尽享放学后生日",
+    "obtainMessage": "普通的高中生，\n原来会度过这么开心的生日啊"
+  },
+  "card-rui-05-birt-01": {
+    "description": "来吧，出发吧\r\n今天还要再陪我一会儿哦",
+    "name": "生日旅行・瑠依",
+    "obtainMessage": "如果不介意的话……\n要不要一起去？"
+  },
+  "card-rui-05-birt-02": {
+    "description": "可以的话，莉央小姐也一起来怎么样？\n这是目前最强的，臭鱼干配鲱鱼糖和酱汁软糖。",
+    "name": "wonderful day for 瑠依",
+    "obtainMessage": "莉央小姐也一起去吗？"
+  },
+  "card-rui-05-casl-04": {
+    "description": "所以今天……现在就这样……请让我享受这段时间\n只属于两人的、非日常的时光……一起……",
+    "name": "实现憧憬的水之假日",
+    "obtainMessage": "难得来到意大利，\n我想留下美好的回忆"
+  },
+  "card-rui-05-date-00": {
+    "description": "在BamPro时看不见的东西\n来到星见Production后似乎能看见了\n一个人无法察觉的事\n只要和经纪人一起就能察觉",
+    "name": "绿风邀约的约会景点",
+    "obtainMessage": "请你在最近的地方，\n见证努力结出硕果的瞬间"
+  },
+  "card-rui-05-fest-01": {
+    "description": "牵起那只手带你前行\r\n前往无人知晓的云之彼端",
+    "name": "翱翔天际的羁绊之翼",
+    "obtainMessage": "众多的羁绊，\n让我们的羽翼更加强韧"
+  },
+  "card-rui-05-fest-03": {
+    "description": "以前，被担心只会觉得抱歉\r\n但现在，如果有人担心我，我想说谢谢",
+    "name": "跨越天际的感谢之情",
+    "obtainMessage": "喜……喜欢你！\n你不知道吗？"
+  },
+  "card-rui-05-fest-04": {
+    "description": "致重要的人们，今后我们也会继续报恩\n请见证我们倾注在歌中的心意",
+    "name": "真实的报恩",
+    "obtainMessage": "将万千思绪怀揣于心，\n我们向未来振翅高飞！"
+  },
+  "card-rui-05-idol-00": {
+    "description": "抱歉吓到你了\n只是，忍不住想喊出声来……\n遇到不开心的事、想大声喊叫的时候\n我就会来公园",
+    "name": "以真实的模样",
+    "obtainMessage": "我，就在这里！！　\n就在这里啊！！"
+  },
+  "card-rui-05-idol-04": {
+    "description": "确认地面来寻求安心，我已经不会再这样做了\n从今往后，我只会仰望那遥远的高空",
+    "name": "热气升腾的决心之晨",
+    "obtainMessage": "仅仅是时间不同，景色与声音，\n就连空气的芬芳都截然不同"
+  },
+  "card-rui-05-miku-00": {
+    "description": "这份心情，全部，都好好珍藏着……可以吗？\r\n……谢谢你，美久。\r\n推了我一把",
+    "name": "乘着歌声传递的心意",
+    "obtainMessage": "将未来的心情——\n对大家的感谢之情\n融入歌曲，唱出来"
+  },
+  "card-rui-05-mizg-01": {
+    "description": "手臂是这样吗？\n表情，很僵硬吗？　我还有点紧张……\n……要稍微换个姿势吗？\n没关系！　我不累！",
+    "name": "盛夏的羞涩写真",
+    "obtainMessage": "表情，很僵硬吗？　\n我还有点紧张"
+  },
+  "card-rui-05-newy-00": {
+    "description": "这样一看，狐狸耳朵，意外地自然呢\n广告的内容也好，漂亮的布景也好，都很有新年的感觉",
+    "name": "在阳光下起舞的春日狐狸",
+    "obtainMessage": "今年也好，今后也好，\n请继续支持我们哦"
+  },
+  "card-rui-05-prem-00": {
+    "description": "呀！？　真是的，就算剧本里有写，也撒太多了吧？\n那我也来，看招！",
+    "name": "弹开水珠的白色羽翼",
+    "obtainMessage": "真是的，就因为剧本里有就写这么多吗？"
+  },
+  "card-rui-05-prem-01": {
+    "description": "我已经不再迷茫，也不会再输。我要用这双翅膀\r\n必定抓住那份荣耀，成为闪耀的星星！",
+    "name": "相对的琉璃色之花",
+    "obtainMessage": "我们TRINITYAiLE，\n一定会夺得胜利\n成为BIG4！"
+  },
+  "card-rui-05-prem-02": {
+    "description": "谢谢你，樱\n正因为有你在，我才能走到这里……！\n呵呵，那个爸爸居然坦率地对我说了\n干得好",
+    "name": "牵手的顶点",
+    "obtainMessage": "谢谢你，樱"
+  },
+  "card-rui-05-sucu-00": {
+    "description": "为什么，我要演魅魔啊！\r\n话说回来，魅魔到底是什么啊！？\r\n不、不是色色的那种吗！？",
+    "name": "夺心Midnight",
+    "obtainMessage": "魅魔，\n原来是这种色情的\n印象啊"
+  },
+  "card-rui-05-trbl-01": {
+    "description": "诶，斩断了……这把苦无的力量……？\n不，不对，刚才那是……暗小姐！",
+    "name": "为了守护你与这座城市",
+    "obtainMessage": "小暗的头发，可是很厉害的哦"
+  },
+  "card-rui-05-vlnt-00": {
+    "description": "那个，其实本来是打算当天送给您的\r\n但总觉得会胡思乱想很多……\r\n要是当天送的话，感觉会被误解成\r\n『那种』意思……！",
+    "name": "染上蔷薇色的黄昏",
+    "obtainMessage": "你说过的吧\n今天是向重要的人传达心意的日子"
+  },
+  "card-rui-05-xmas-00": {
+    "description": "已经是我的了。我会好好珍惜的\n……呵呵，差不多到时间了，我出发了\n我会把最棒的舞台，呈现给大家！\n呈现给粉丝们和经纪人先生……",
+    "name": "纯白气息跃动的圣夜",
+    "obtainMessage": "这条围巾，已经是我的了"
+  },
+  "card-rui-05-yukt-00": {
+    "description": "我想慢慢地走\r\n因为希望这段时间能再持续一会儿……",
+    "name": "藏起热情的清凉音色",
+    "obtainMessage": "比想象中，\n还要心跳加速……"
+  },
+  "card-ski-02-eve-01": {
+    "description": "凉宫同学可不普通哦\n不相信的人，我觉得一辈子都见不到她吧？",
+    "name": "与偶像共演的Live"
+  },
+  "card-ski-02-eve-02": {
+    "description": "她们三个在这种时间要去哪里呢\n好像说了地下竞技场……真可疑啊",
+    "name": "潜入！偶像地下竞技场"
+  },
+  "card-ski-02-mizg-01": {
+    "description": "各位，要不要以夏季大三角为背景拍张纪念照？",
+    "name": "闪耀于夏夜的星辰"
+  },
+  "card-ski-03-schl-00": {
+    "description": "各位，平时请多注意不要受伤哦",
+    "name": "清晨猛特训"
+  },
+  "card-ski-04-casl-00": {
+    "description": "嗯……该怎么办才好呢",
+    "name": "毛茸茸购物"
+  },
+  "card-ski-05-birt-00": {
+    "description": "从今往后，就在身边一起奔跑吧\n作为姐姐、作为对手、作为一名偶像\n今后也请多指教。千纱",
+    "name": "心意相连的生日",
+    "obtainMessage": "千纱，谢谢你送我这么好的礼物"
+  },
+  "card-ski-05-birt-01": {
+    "description": "愿千纱健康、永远笑容常在\r\n愿能和月光风暴的大家一直做偶像……",
+    "name": "生日旅行・沙季",
+    "obtainMessage": "愿千纱能一直健康，\n一直保持笑容"
+  },
+  "card-ski-05-birt-02": {
+    "description": "没想到竟然能在节目里\r\n为我庆祝生日。真的吓了一大跳",
+    "name": "wonderful day for 沙季",
+    "obtainMessage": "太开心了，忍不住想炫耀呢"
+  },
+  "card-ski-05-chsk-00": {
+    "description": "……哎呀？　千纱你害羞了？\n曲子一结束就恢复平时的样子了呢……呵呵\n能两个人一起唱真的太好了\n今后也……一直一起加油吧，千纱",
+    "name": "羁绊渐深的姐妹舞台",
+    "obtainMessage": "今后也……\n一直一起加油吧，千纱"
+  },
+  "card-ski-05-fest-02": {
+    "description": "对我来说，千纱是重要的妹妹，也是对手\r\n可以的话，我想在同一个舞台上——并肩、\r\n竞争、携手，一起闪耀\r\n正因为如今成为了BIG4，我才如此强烈地这么想",
+    "name": "照亮道路的睿智之光",
+    "obtainMessage": "为了不留遗憾，\n我会全力闪耀此时此刻！"
+  },
+  "card-ski-05-idol-00": {
+    "description": "我想如果和千纱一起看到客人们的笑容\n心情应该会高涨起来\n呵呵呵\n来，走吧",
+    "name": "携手并肩",
+    "obtainMessage": "呵呵呵，来，走吧。"
+  },
+  "card-ski-05-kifj-00": {
+    "description": "只有我一直在想着您……\n真的好寂寞\n我……对您来说究竟是什么呢？",
+    "name": "泪水的谢幕",
+    "obtainMessage": "我遇见了\n至今未曾了解的自己"
+  },
+  "card-ski-05-link-00": {
+    "description": "说起来，以前的千纱没有洗发帽的话\r\n就洗不了头呢。真怀念啊",
+    "name": "春风传递的羁绊和声",
+    "obtainMessage": "千纱，有没有哪里痒？"
+  },
+  "card-ski-05-miku-05": {
+    "description": "我看起来比平时笑得更开心吗？\n呵呵，那是当然的。因为能和我重要的成员们\n还有憧憬的美久小姐一起玩嘛",
+    "name": "笑容绽放的白昼",
+    "obtainMessage": "请露出\n更多更多的笑容！\n就是这样！"
+  },
+  "card-ski-05-mizg-02": {
+    "description": "在我……觉得稍微有点性感的时候\r\n请拍下照片！不需要许可的！\r\n啊……对了。得重新涂一下防晒霜才行\r\n嗯……凉凉的好舒服……",
+    "name": "阳光照耀的目光",
+    "obtainMessage": "嗯……凉凉的很舒服……"
+  },
+  "card-ski-05-newy-00": {
+    "description": "今年也和御朱印酱一起领回来了哦\r\n这个等回到事务所后，我会贴到御朱印帐上的",
+    "name": "祈愿飞跃的新春",
+    "obtainMessage": "愿能和月光风暴的大家，\n一起更加更加飞跃"
+  },
+  "card-ski-05-onep-00": {
+    "description": "……将坦率的心意寄托于和歌赠予他人\n我感觉现在能明白古人的心情了",
+    "name": "染上唐红的双颊",
+    "obtainMessage": "如果我\n要谈恋爱的话……"
+  },
+  "card-ski-05-poli-00": {
+    "description": "发挥我的长处，坚持自己的方式\n深入面对自己的课题……培育这份心意\n我对偶像的觉悟与心意\n有着不输任何人的自信",
+    "name": "凛然的自尊",
+    "obtainMessage": "来吧，让我们献上压倒性的舞台"
+  },
+  "card-ski-05-ster-00": {
+    "description": "请，坐到我旁边休息一下吧\r\n如果不嫌弃的话，就由我来听您倾诉",
+    "name": "静寂的祈祷者",
+    "obtainMessage": "这次相遇，\n一定是神的指引"
+  },
+  "card-ski-05-waso-00": {
+    "description": "……我、我！真的最喜欢偶像和舞台了！\n只赢过一次可不会停下脚步！\n今后也会！一直……一直！\n唱下去——————！！",
+    "name": "深藏心中的热情",
+    "obtainMessage": "已经到极限了？\n明明还能继续吧！？"
+  },
+  "card-ski-05-xmas-00": {
+    "description": "我原本想着，要是这个雪花球能让谁露出笑容就好了\n可是……没想到我自己竟然会露出笑容……\n让我这么开心，你到底打的什么主意？",
+    "name": "从记忆中拾起的雪花球",
+    "obtainMessage": "今天的我有点奇怪。\n这也是因为圣诞节吗……"
+  },
+  "card-skr-02-casl-00": {
+    "description": "这边这边～！是特等座哦！",
+    "name": "夜空中绽放的花"
+  },
+  "card-skr-02-eve-01": {
+    "description": "真不愧是SNS专家kana小姐\n以后拍照的时候，要按你建议的半睁眼比较好吗？",
+    "name": "友好表现"
+  },
+  "card-skr-02-eve-02": {
+    "description": "一直以来非常感谢\n这是饱含大家感谢之情的花束\n今后也请一直做我们的经纪人哦！",
+    "name": "献给你的感谢花束"
+  },
+  "card-skr-02-eve-03": {
+    "description": "糟了糟了！已经这个时间了！\r\n不快点的话要迟到了！",
+    "name": "“剧团★见”首次公演！"
+  },
+  "card-skr-03-schl-00": {
+    "description": "嗯，还能继续加油哦！",
+    "name": "活力100倍！"
+  },
+  "card-skr-04-casl-00": {
+    "description": "这样也太幸福了吧！",
+    "name": "多汁午餐"
+  },
+  "card-skr-05-adlt-00": {
+    "description": "成为出色的大人，让最喜欢的人们\n露出更多更多的笑容",
+    "name": "友人守望的成长之路",
+    "obtainMessage": "请守望着\n逐渐长大的我哦"
+  },
+  "card-skr-05-anml-00": {
+    "description": "哇，好多好大的甜点！\r\n熊熊小樱要全部吃掉哦",
+    "name": "大口吃甜点熊",
+    "obtainMessage": "幸福满满，肚子也饱～饱♪"
+  },
+  "card-skr-05-birt-00": {
+    "description": "愿这份心意能传达到天空的彼端\r\n——我能遇见『偶像』，真的非常幸福",
+    "name": "传达感谢的生日",
+    "obtainMessage": "――我，能遇到『偶像』，\n真的非常幸福"
+  },
+  "card-skr-05-birt-01": {
+    "description": "呜呜，我已经忍不住了……就一点点……\r\n只吃一口就好，请让我尝尝味道！啊呜！",
+    "name": "生日旅行・樱",
+    "obtainMessage": "真是世界第一幸福的\n大胃王呢～"
+  },
+  "card-skr-05-birt-02": {
+    "description": "哦哦！这么昂贵的精华液也毫不吝惜……！\r\n真不愧是名流！",
+    "name": "wonderful day for 樱",
+    "obtainMessage": "无论何时\n都不要忘记感恩之心！"
+  },
+  "card-skr-05-casl-04": {
+    "description": "天气真好啊。天空湛蓝澄澈\n现在的话，感觉能飞到任何地方",
+    "name": "实现梦想的笑容假日",
+    "obtainMessage": "现在的我\n感觉能飞到任何地方"
+  },
+  "card-skr-05-chia-00": {
+    "description": "下次轮到我努力了，请多多支持我！\r\n——看谁先成为日本第一，来比赛吧！",
+    "name": "微笑・连接！",
+    "obtainMessage": "把满满的活力送给大家！"
+  },
+  "card-skr-05-chna-00": {
+    "description": "好想吃美味的中式包子啊～\r\n这种时候……锵！\r\n经典中式包子变得更加美味，全新登场！\r\n寒冷的冬天就靠这个了！",
+    "name": "大口大口满足笑容",
+    "obtainMessage": "哈啊～，好好吃～！\n好吃到脸颊都放松下来了！"
+  },
+  "card-skr-05-fest-00": {
+    "description": "我总是从大家那里获得光芒\n正因为有大家在，我才能作为偶像闪耀\n我能一直保持活力，都是多亏了大家\n所以这次我要用我的歌声把活力传递给大家！",
+    "name": "为了能成为你的光芒",
+    "obtainMessage": "愿我的歌声\n能成为你的光芒"
+  },
+  "card-skr-05-fest-01": {
+    "description": "麻奈小姐……\n如果我的声音能传达到，请和我一起歌唱\n我会倾注所有的思念来歌唱\n愿我们的歌声能传到天空的彼方！",
+    "name": "太阳与光耀同在",
+    "obtainMessage": "麻奈小姐，你在看着吗？"
+  },
+  "card-skr-05-fest-03": {
+    "description": "我觉得这次巡演是大家一起打造的演唱会\r\n如果能让大家热烈起来我会很开心",
+    "name": "心跳高鸣的Sunshine",
+    "obtainMessage": "为了支持我的粉丝们，\n还有我们的经纪人……\n我会全力歌唱！"
+  },
+  "card-skr-05-idol-00": {
+    "description": "鱼……是鱼鱼桑～！\n第一次见到真人～！\n我真的超级喜欢您！\n太好了，能一起同台演出！　简直像做梦一样！！",
+    "name": "梦幻共演",
+    "obtainMessage": "太好了，能一起演出了！\n简直像做梦一样！！"
+  },
+  "card-skr-05-idol-03": {
+    "description": "大家也是SUNNY PEACE重要的碎片哦！　因我们的歌声\n而露出笑容的大家，就是SUNNY PEACE！\n我们今后也会继续旅程！\n和大家一起走向更远！　飞向更高！",
+    "name": "手指指过来～！",
+    "obtainMessage": "和大家一起走向更远！\n飞向更高！"
+  },
+  "card-skr-05-mizg-04": {
+    "description": "别说那种话了，我们用鱼鱼桑球来打沙滩排球吧！\n哗啦一下跳进海里，啪嗒啪嗒地互相泼水，一起变得湿淋淋吧！",
+    "name": "鱼鱼！夏日排球",
+    "obtainMessage": "今天的川咲樱，\n阳光灿烂，活力满格！"
+  },
+  "card-skr-05-newy-00": {
+    "description": "听说把墨涂在脸上有驱邪的含义哦\n这样今年一年就能健康度过……吧？\n正月游戏真好啊，赢的人和输的人\n大家都能露出笑容，所以我最喜欢了！",
+    "name": "笑口常开福自来！",
+    "obtainMessage": "乖乖待着，不可以动哦"
+  },
+  "card-skr-05-prem-00": {
+    "description": "像这样十个人齐聚海边，就会想起那时候呢\r\n虽然彼此都成了BIG4，但至少现在回到那时候\r\n尽情地享受吧！",
+    "name": "带着那时的心情",
+    "obtainMessage": "十个人能聚在一起\n一起玩，\n简直像做梦一样！"
+  },
+  "card-skr-05-sail-00": {
+    "description": "无论大人还是小孩，都能露出笑容的游乐园\r\n我最喜欢了！\r\n和我一起创造笑容的回忆吧！\r\n来吧，把游乐园玩个痛快！",
+    "name": "Happy阳光游行",
+    "obtainMessage": "让大家都露出笑容的游乐园，\n我最喜欢了！"
+  },
+  "card-skr-05-vlnt-00": {
+    "description": "啊，咦？心脏……在怦怦跳？\r\n为什么呢。是因为气氛变得奇怪了吗……？",
+    "name": "摇曳于甜蜜悸动中的花",
+    "obtainMessage": "啊，咦？\n心脏……在怦怦跳？"
+  },
+  "card-skr-05-wedd-00": {
+    "description": "我一直等待着\r\n能和你结婚的这一天",
+    "obtainMessage": "一起过幸福的婚姻生活吧"
+  },
+  "card-smr-02-eve-00": {
+    "description": "放学后和单恋的男生两人独处……！\r\n哇～好期待瑠依酱的接吻戏呀～！\r\n总觉得连我都心跳加速了～",
+    "name": "憧憬的校园恋爱"
+  },
+  "card-smr-02-eve-02": {
+    "description": "……就算长大成人，到了能喝酒的年纪\r\n也想我们三个人一直继续TRINITYAiLE呢",
+    "name": "惬意小憩 故乡温泉"
+  },
+  "card-smr-02-trbl-00": {
+    "description": "下一首歌会和她们一起唱\n请听听我们送上的圣诞礼物",
+    "name": "宇宙第一的圣诞演唱会"
+  },
+  "card-smr-03-schl-00": {
+    "description": "变得超级柔软了对吧？",
+    "name": "努力的结晶"
+  },
+  "card-smr-04-casl-00": {
+    "description": "呼啊…太好了～赶上了～！",
+    "name": "惊险过关"
+  },
+  "card-smr-05-birt-00": {
+    "description": "大家——有在吃红豆汤吗——？\r\n今天举办了红豆汤活动！\r\n喜欢山形也喜欢红豆汤的各位，欢迎！",
+    "name": "幸福红豆汤生日",
+    "obtainMessage": "大家——，红豆汤，\n有在吃吗——？"
+  },
+  "card-smr-05-birt-01": {
+    "description": "小时候大家都叫我『白银狙击手』！\r\n在老家我可是从没输过。哼哼！",
+    "name": "生日旅行・堇",
+    "obtainMessage": "那么，\n快点一起玩吧！"
+  },
+  "card-smr-05-birt-02": {
+    "description": "对了！千纱姐姐，现在来我房间，帮我挑些\n能搭配这个发夹的衣服吧！",
+    "name": "wonderful day for 堇",
+    "obtainMessage": "毕竟是生日嘛，\n稍微没点规矩也没关系……！"
+  },
+  "card-smr-05-casl-04": {
+    "description": "哇……完全没变呢，一片花海\n好美……好怀念啊……",
+    "name": "回忆绽放的故乡假日",
+    "obtainMessage": "今后也请继续，\n做我的哥哥哦"
+  },
+  "card-smr-05-fest-00": {
+    "description": "——这里充满了五彩缤纷的花朵\r\n以及让心灵充实的音乐\r\n在美丽的花与音之海中\r\n你也一起来畅游吧！",
+    "name": "咏歌之花",
+    "obtainMessage": "今后也请多多依靠我吧"
+  },
+  "card-smr-05-fest-03": {
+    "description": "两人一起～！\r\n偶像～微笑～～！",
+    "name": "点缀银河的快乐微笑",
+    "obtainMessage": "两人一起～！\n偶像～微笑～！"
+  },
+  "card-smr-05-fest-04": {
+    "description": "今天谢谢你来看我，给了我勇气～！！\n希望你能留下好多好多快乐的回忆～！！",
+    "name": "比谁都闪耀的女主角",
+    "obtainMessage": "今天比平时更能看清\n粉丝们的模样"
+  },
+  "card-smr-05-frut-00": {
+    "description": "好，拉钩上吊\r\n说谎的话要吞一千根针，拉钩完毕！\r\n好～下次一起玩之前要乖乖的哦？",
+    "obtainMessage": "真是的～，不可以拉我啦～！"
+  },
+  "card-smr-05-idol-00": {
+    "description": "有这么多的人聚集到这里\n共享了美好的时光……\n我们是世界上最幸福的人！",
+    "name": "小小的女主角",
+    "obtainMessage": "准备好了吗？\n要唱下一首了哦！"
+  },
+  "card-smr-05-idol-04": {
+    "description": "这边是包场状态哦～\r\n感觉超级奢侈！",
+    "name": "为展翅高飞的羽翼休憩",
+    "obtainMessage": "这边可是包场状态哦～。\n感觉超级奢侈！"
+  },
+  "card-smr-05-jwel-00": {
+    "description": "嗯～。人类还真是麻烦呢\n因为飞不起来，就得一直跑个不停",
+    "name": "挑战的祖母绿",
+    "obtainMessage": "既然成功过一次，\n下次也一定没问题"
+  },
+  "card-smr-05-magi-00": {
+    "description": "全部说出来的话就剧透了呢\r\n剩下的就请大家亲眼去确认吧！",
+    "name": "心愿振翅高飞的魔法声援",
+    "obtainMessage": "在空中飞翔\n原来是这么美好的事"
+  },
+  "card-smr-05-maid-00": {
+    "description": "主人，今天要在庭院里工作吗？",
+    "name": "绽放的精彩演技",
+    "obtainMessage": "我想再一次认真面对\n演戏的工作"
+  },
+  "card-smr-05-mizg-01": {
+    "description": "这片区域可以像这样\n和鱼儿们一起游泳哦！\n我下次休息也想邀请瑠依酱和优酱\n一起来玩！",
+    "name": "常夏水上乐园",
+    "obtainMessage": "我能和鱼儿们\n一起游泳哦！"
+  },
+  "card-smr-05-mizg-02": {
+    "description": "要不要一起玩呀——？\r\n海水凉凉的，很舒服哦！",
+    "name": "浪花边的白熊夏日",
+    "obtainMessage": "要不要在这里一起玩呀？"
+  },
+  "card-smr-05-newy-00": {
+    "description": "咚咚咚——！我是小狐狸哦——！\n快看快看，漂亮的樱花开了好多好多呢！",
+    "name": "小狐狸的倔强毅力",
+    "obtainMessage": "愿我能朝着远大的梦想\n一路奔跑到底……"
+  },
+  "card-smr-05-nurs-00": {
+    "description": "请不要太过勉强自己哦\n不过，当你感到难过的时候\n我会陪在你身边的，请放心吧",
+    "name": "床边天使",
+    "obtainMessage": "你是个努力的人，\n但也不要太勉强自己哦"
+  },
+  "card-smr-05-pajm-00": {
+    "description": "我被任命为铃酱的膝枕专员了\r\n虽然很开心，但是动不了了",
+    "name": "邀你前往梦乡的安眠膝枕",
+    "obtainMessage": "我有没有稍微接近\n出色的中心位一点呢……？"
+  },
+  "card-smr-05-seik-00": {
+    "description": "听着哥哥的钢琴声，就能变得精神起来\r\n我的歌声，和哥哥的钢琴声交织在一起——",
+    "obtainMessage": "哥哥们，\n我最喜欢你们了……！"
+  },
+  "card-smr-05-xmas-00": {
+    "description": "大家就是我的圣诞老人！\n大家的笑容就是最棒的圣诞礼物！\n所以，就让我在神圣之夜献上感谢\n为大家带来美好的时光",
+    "name": "六花彩灯",
+    "obtainMessage": "由我送给大家\n一份圣诞礼物！"
+  },
+  "card-suz-02-eve-01": {
+    "description": "接下来只要等待就好了！",
+    "name": "满怀期待"
+  },
+  "card-suz-02-eve-02": {
+    "description": "大家尝了这个之后会露出怎样的表情呢\r\n真让人期待呀。呵呵呵……",
+    "name": "往年节菜里也加点香料！"
+  },
+  "card-suz-03-schl-00": {
+    "description": "跑步真的有必要吗～？",
+    "name": "气喘吁吁跑步"
+  },
+  "card-suz-04-casl-00": {
+    "description": "可以更加更加地疼爱我哦！",
+    "name": "兴奋不已的烹饪"
+  },
+  "card-suz-05-alic-00": {
+    "description": "兔子跳进洞里了！\n这预感到一场大冒险呢。我们也追上去吧！",
+    "name": "兔子引领的仙境",
+    "obtainMessage": "我是铃爱丽丝！"
+  },
+  "card-suz-05-angl-00": {
+    "description": "越是被告诫不能吃\n就越觉得美味……这是为什么呢？",
+    "name": "天使慵懒的午后",
+    "obtainMessage": "吃下去的话……就能展翅高飞了哦？"
+  },
+  "card-suz-05-anml-00": {
+    "description": "你，还挺有两下子的嘛\n让你当我的专属摄影师也可以哦\n上镜的成宫铃那磨砺出的美丽\r\n可要好好烙印在眼中哦",
+    "name": "收获满满的镜头",
+    "obtainMessage": "把上镜的成宫铃\n深深印在眼中吧！"
+  },
+  "card-suz-05-birt-00": {
+    "description": "今天收到了大家许多的祝福\n就凭这股势头，我……成宫铃——\n要拿下偶像的天下！",
+    "name": "铃喵大人的生日",
+    "obtainMessage": "成宫铃的生日庆典，开始啦～！"
+  },
+  "card-suz-05-birt-01": {
+    "description": "如虎添翼，成宫铃说京都话！\r\n我会攀上更高的巅峰……！",
+    "name": "生日旅行・铃",
+    "obtainMessage": "才没有那么孩子气呢！"
+  },
+  "card-suz-05-birt-02": {
+    "description": "好厉害！大量从天而降～！\r\n这下永远永远都不用愁薯片了～！",
+    "name": "wonderful day for 铃",
+    "obtainMessage": "今天的主角，\n成宫铃大人回来啦～！"
+  },
+  "card-suz-05-birt-03": {
+    "description": "从今往后，我也会继续闪耀。与无可替代的重要之人一起\n闪耀到连你也能看见的程度",
+    "name": "dear precious 铃",
+    "obtainMessage": "麻奈大人，\n谢谢您\n成为偶像"
+  },
+  "card-suz-05-fest-02": {
+    "description": "就像你照亮了我一样\r\n我也要照亮你\r\n让你不再独自迷茫",
+    "name": "我们的骄傲",
+    "obtainMessage": "能对那首歌\n倾注最多心意的——\n只有我哦"
+  },
+  "card-suz-05-goch-00": {
+    "description": "圣诞快乐！请收下这份装满咖啡色幸福的\r\n礼物吧！",
+    "name": "摇响铃音的雪兔",
+    "obtainMessage": "一喝咖啡就会想起来呢……"
+  },
+  "card-suz-05-idol-00": {
+    "description": "今天为了回报这份忠义，我会献上一场让人感叹月光风暴，\n不，让人感叹偶像业界有成宫铃在！\n的演唱会！",
+    "name": "活力女孩",
+    "obtainMessage": "我是月光风暴的中心，\n成宫铃！"
+  },
+  "card-suz-05-kion-00": {
+    "description": "无奈之下戴上了猫耳\n大家却纷纷喊着「好可爱好可爱」闹了起来……",
+    "name": "多么美妙的放学后！",
+    "obtainMessage": "请不要抱过来喵！\n饶了我吧喵～！"
+  },
+  "card-suz-05-link-00": {
+    "description": "无论发生什么，我都认为芽衣是我的朋友\n还想再一起去玩呢",
+    "name": "加深羁绊的欢乐时光",
+    "obtainMessage": "为、为什么芽衣的车\n开得那么快啊！？"
+  },
+  "card-suz-05-mizg-01": {
+    "description": "要更多地展现泳圈的可爱的说……\n姿势这样摆如何呢？\n来吧，请将我优雅的泳圈身姿\n好好地收入镜头之中",
+    "name": "微苦的夏日回忆",
+    "obtainMessage": "我成宫铃，该决胜负的时候\n一定会拿出真本事！"
+  },
+  "card-suz-05-msic-00": {
+    "description": "但愿……能传达到各位，以及麻奈大人的耳中\n『星屑カンパネラ』！",
+    "name": "星降之夜许下的梦",
+    "obtainMessage": "但愿……能传达到\n各位，以及麻奈大人那里"
+  },
+  "card-suz-05-onep-00": {
+    "description": "呜咽，我，把麻奈大人的歌曲……\r\n传递给了全国的各位……\r\n没想到，这样的日子竟然会到来……\r\n真的，各位，非常感谢……",
+    "name": "即使踮起脚尖，也无法触及",
+    "obtainMessage": "麻奈大人，请您看着吧！"
+  },
+  "card-suz-05-pair-00": {
+    "description": "芽衣？为什么在摸我的头呀！？\n说什么「好可爱～」，我可不是狗呀～！",
+    "name": "心情汪汪女孩",
+    "obtainMessage": "真是的，芽衣可真让人操心呢"
+  },
+  "card-suz-05-prem-01": {
+    "description": "为了让我能自豪地认为\n自己曾担任过你的经理，\n我成宫铃将再次\n重返月光风暴的中心。\n并且，我一定会站上偶像的巅峰！",
+    "name": "雨后的絮语",
+    "obtainMessage": "雨已停歇，\n正是月光闪耀之时！"
+  },
+  "card-suz-05-seik-00": {
+    "description": "我，那时想起来了\r\n只要全力去演绎角色就好，还有……\r\n自己构思的那个孩子的设定\r\n这样一来，自然就能演出来了",
+    "name": "少女的方法",
+    "obtainMessage": "可以的，\n角色的形象已经完全降临了"
+  },
+  "card-suz-05-wedd-00": {
+    "description": "今天的我，如闪烁星辰般纯白闪耀，\n是全世界最幸福的新娘！",
+    "name": "踮脚起誓的婚礼",
+    "obtainMessage": "一同前往吧！\n两人一起敲响爱之钟！"
+  },
+  "card-suz-05-xmas-00": {
+    "description": "好孩子们～！\r\n偶像圣诞老人成宫铃来到街上啦～！\r\n降临在繁星之街的偶像圣诞老人\r\n要为大家送上幸福哦～！",
+    "name": "传递恩惠的偶像圣诞老人",
+    "obtainMessage": "偶像圣诞老人成宫铃\n来到街上了哦～！"
+  },
+  "card-szk-02-eve-01": {
+    "description": "众多的碎片，聚集在一起，化作羁绊\n「向这里集合」正是其象征……",
+    "name": "大家的碎片"
+  },
+  "card-szk-02-eve-03": {
+    "description": "我……成为偶像，真是太好了……\r\n能和大家相连，真是太好了……",
+    "name": "实现大家愿望的巡演！"
+  },
+  "card-szk-02-eve-04": {
+    "description": "24厘米！顺带一提，脚跟比一般人小一些，\n但脚趾周围较大，因为跳舞的影响足弓很发达",
+    "name": "水边的问答大师"
+  },
+  "card-szk-02-mizg-01": {
+    "description": "一直都在努力，偶尔也……可以的吧？",
+    "name": "漂浮度假村"
+  },
+  "card-szk-03-schl-00": {
+    "description": "唔……偶像，好难……",
+    "name": "短暂的休息"
+  },
+  "card-szk-04-casl-00": {
+    "description": "我也……总有一天，想那样……闪耀",
+    "name": "潜入，巨蛋巡演"
+  },
+  "card-szk-05-alic-00": {
+    "description": "因为做了偶像，才变得积极了\n希望姐姐……能看到现在的我",
+    "name": "在大树上滚来滚去喵",
+    "obtainMessage": "希望姐姐\n能看看现在的我"
+  },
+  "card-szk-05-angl-00": {
+    "description": "今后也会继续展翅高飞哦……和大家一起……\r\n现在，雫要绽放了哦……！",
+    "obtainMessage": "现在，雫正在绽放哦……！"
+  },
+  "card-szk-05-birt-00": {
+    "description": "愿这份心情，能传达给读了报道的每一个人。\r\n偶像，最棒了……！",
+    "name": "全开！推活生日",
+    "obtainMessage": "今后也想大力应援，\n可以的话，也希望你能应援我……！"
+  },
+  "card-szk-05-birt-01": {
+    "description": "我也，非常开心……\r\n这成了难以忘怀的特别一天……",
+    "name": "生日旅行・雫",
+    "obtainMessage": "一听到有人叫我「雫亲」\n心就怦怦直跳……\n京都腔真是可爱得犯规……"
+  },
+  "card-szk-05-birt-02": {
+    "description": "生日，以前根本无法想象，竟然这么热闹……\r\n……呵呵，之后要不要向姐姐炫耀一下呢",
+    "name": "wonderful day for 雫",
+    "obtainMessage": "之后要不要向姐姐炫耀一下呢"
+  },
+  "card-szk-05-casl-04": {
+    "description": "敬请期待。\n下次我会钓上一条大鱼给你看\n一条谁都没见过的大鱼……！",
+    "name": "海风与回忆的假日",
+    "obtainMessage": "这可是大人物，\n第一次就如此，是个好兆头……！"
+  },
+  "card-szk-05-chna-00": {
+    "description": "身边的人，都断言我绝对\n当不了偶像……\n但是，现在，我当上了偶像……\n和SUNNY PEACE的大家，站在同一个舞台上……",
+    "name": "梦想，一定会实现",
+    "obtainMessage": "我，已经，不会再放弃了……"
+  },
+  "card-szk-05-goch-00": {
+    "description": "圣诞演唱会本身也非常开心，\n但能和心爱、智乃相遇……\n帮忙看店、一起练习、让她们登上演唱会……\n全部，全部，都是美好的回忆",
+    "name": "圣夜的毛茸茸派对",
+    "obtainMessage": "被两个可爱的人夹在中间，真是艳福不浅"
+  },
+  "card-szk-05-idol-00": {
+    "description": "一直以来，我都是挥荧光棒的那一方……\n所以不知道，但是……真的…………好美\n光之，波浪……在独唱部分\n一直，将我……包裹其中……",
+    "name": "光之波",
+    "obtainMessage": "光之，波…\n一直，将我…包裹其中…"
+  },
+  "card-szk-05-link-00": {
+    "description": "不善言辞的我的青春，多亏了千纱酱\n才闪耀着光芒\n谢谢你，千纱酱",
+    "name": "两人的羁绊是宝物",
+    "obtainMessage": "我的青春里，\n身边总有千纱酱\n陪着我"
+  },
+  "card-szk-05-mizg-03": {
+    "description": "平时听得到的城市声音……现在什么都听不见\r\n能听见的只有海浪声、秋千的吱呀声\r\n还有树木的沙沙声……",
+    "name": "摇摇晃晃的假期",
+    "obtainMessage": "耳边传来的\n只有海浪声，\n和树木的沙沙声……"
+  },
+  "card-szk-05-pajm-00": {
+    "description": "大家今天，特别……可爱……！\r\n已经不在舞台上了所以照片……可以随便拍……！\r\n饭撒太热情了……最棒的活动……！\r\n太尊了，和里美桑拍个不停……！",
+    "name": "万岁花絮梦空间",
+    "obtainMessage": "大家今天，特别……可爱……！"
+  },
+  "card-szk-05-prem-00": {
+    "description": "大家……和平时氛围完全不一样……\n超级可爱……\n宅宅大欢喜的稀有发型……\n对工作人员压倒性的感谢……",
+    "name": "a.k.a.阳光流行",
+    "obtainMessage": "今天的我们……和平时不一样……！\na.k.a.阳光流行……登场……？"
+  },
+  "card-szk-05-prem-01": {
+    "description": "虽然很紧张，但鼓起勇气邀请真是太好了\r\n希望今年也能和瑠依桑，变得更加更加要好……！",
+    "name": "闪耀的新年与翼同在",
+    "obtainMessage": "好、好的，\n我们牵着手别走散吧"
+  },
+  "card-szk-05-rock-00": {
+    "description": "不展露笑容……倾注心意……\r\n更加冷酷地，磨砺我心中的帅气……\r\n带着自信，挺起胸膛，面向前方\r\n今天的我……是全世界最帅气的偶像……！",
+    "name": "芬芳的神秘学园",
+    "obtainMessage": "今天的我……\n是全世界最帅的偶像……！"
+  },
+  "card-szk-05-sail-00": {
+    "description": "地点在冲绳真是太好了……今天气温很高\n阳光也很温暖，真是太好了……",
+    "name": "梦想的地下女王",
+    "obtainMessage": "能唱能跳的偶像钓手，\n兵藤雫"
+  },
+  "card-szk-05-snro-00": {
+    "description": "握住肉桂君毛茸茸的手\n心就会平静下来",
+    "name": "杯中盛满幸福",
+    "obtainMessage": "肉桂君的小手，\n毛茸茸的"
+  },
+  "card-szk-05-yukt-00": {
+    "description": "咦……怎么，脸，好烫……\r\n但是……并不，讨厌……\r\n和说要穿浴衣时，不一样的，心跳……",
+    "name": "大朵彩饰的夏夜一瞬",
+    "obtainMessage": "咦，怎么，脸，好烫……"
+  },
+  "card-szk-05-yuru-00": {
+    "description": "曾经只是个偶像宅的我……\r\n瑠依小姐让我看到了新的梦想……\r\n这次轮到我让大家看到梦想……\r\n和瑠依小姐，两个人一起……",
+    "name": "能一起歌唱的幸福",
+    "obtainMessage": "我是不是也能成为某人的憧憬呢"
+  },
+  "card-ymk-05-miku-01": {
+    "description": "为了炒热北海道的冬天\n你为我多方考虑、给予协助，我真的非常开心",
+    "name": "雪与花与奇迹的结晶",
+    "obtainMessage": "演唱会果然很开心呢"
+  },
+  "card-yo-05-sush-00": {
+    "description": "我能和SUNNY PEACE一起开演唱会真是太好了\r\n不过……能和千纱酱搞好关系是最开心的",
+    "name": "其实是一丘之貉",
+    "obtainMessage": "我们说不定其实是同类人呢"
+  },
+  "card-yu-02-eve-02": {
+    "description": "加油！终点线就在这里哦！\n就差一点了！",
+    "name": "京狐的迎接"
+  },
+  "card-yu-02-eve-03": {
+    "description": "等一下～……你有在听吗？\n今天说好是『大家一起』吃火锅的吧？",
+    "name": "报恩无论多少次"
+  },
+  "card-yu-02-miku-00": {
+    "description": "未来酱的心意和我们的心意相连的最棒的歌！\n希望能传达给所有粉丝～",
+    "name": "庆祝之声"
+  },
+  "card-yu-03-schl-00": {
+    "description": "嘿咻。这点程度轻轻松松啦",
+    "name": "自主训练的好日子"
+  },
+  "card-yu-04-casl-00": {
+    "description": "今天真是精神满满啊～要去哪里呢～？",
+    "name": "至福时光"
+  },
+  "card-yu-05-birt-00": {
+    "description": "哈啊……哈啊……已经没事了……\r\n我都快分不清现实和妄想的界限了……",
+    "name": "一起追星生日",
+    "obtainMessage": "抽到出为止就等于免费……\n推的角色出了就是赢！"
+  },
+  "card-yu-05-birt-01": {
+    "description": "无论何时都能立刻切换到工作模式，\n这才是专业该有的样子。来吧，尽管画吧～！",
+    "name": "生日旅行・优",
+    "obtainMessage": "深深～地\n刺进了咱的心里呢"
+  },
+  "card-yu-05-birt-02": {
+    "description": "不不不，完全不像嘛！……也不能一口咬定呢\r\n我看起来真的是这个样子吗？",
+    "name": "wonderful day for 优",
+    "obtainMessage": "生日吃多少都是\n零卡路里……？"
+  },
+  "card-yu-05-casl-02": {
+    "description": "这可是重要场景里的奖励活动啊！\r\n从各种意义上都让人心跳加速呢！",
+    "name": "如果和艺人谈恋爱的话",
+    "obtainMessage": "二次元是二次元，\n三次元是三次元"
+  },
+  "card-yu-05-casl-04": {
+    "description": "呵呵……简直像恋人一样的超近距离\n成了一段美好的回忆，谢谢您",
+    "name": "充满喜爱的圣地假日",
+    "obtainMessage": "呵呵……\n简直像恋人一样的超近距离"
+  },
+  "card-yu-05-chna-00": {
+    "description": "不行，不要再这样……不要再这样\n诱惑我了～！",
+    "name": "映在水面的花影",
+    "obtainMessage": "正在减肥的咱享受这种幸福……\n真的可以吗？"
+  },
+  "card-yu-05-fest-00": {
+    "description": "各位粉丝！各位工作人员！\n还有――\r\n一直支持着我的――你\n用我们的歌来报恩！请看到最后哦～！",
+    "name": "爱撒娇的铃村",
+    "obtainMessage": "一直支持着我们的你——\n就用我们的歌来报恩！"
+  },
+  "card-yu-05-fest-01": {
+    "description": "我下定决心一定要抵达\r\n直到无人知晓的道路尽头",
+    "name": "与你共同展开的羁绊之翼",
+    "obtainMessage": "一个人是走不到\n这种地方的"
+  },
+  "card-yu-05-fest-04": {
+    "description": "今后也要一直相信我们哦！\n长长久久地请多关照～！！",
+    "name": "飞向奇迹的纯白之翼",
+    "obtainMessage": "谢谢你让咱看到\n这样的景色～"
+  },
+  "card-yu-05-idol-00": {
+    "description": "明明还想继续唱下去\n却转眼间就结束了\n不过，这也说明今天的演唱会非常充实吧～\n真的多亏了大家！",
+    "name": "白色冲击",
+    "obtainMessage": "我今天也玩得\n超开心的哦！"
+  },
+  "card-yu-05-idol-04": {
+    "description": "呵呵……我的入浴场景，怎么样？\r\n有没有为我成熟的魅力心动不已呢？",
+    "name": "鸭川浪漫",
+    "obtainMessage": "请连一滴热水\n都拍得漂漂亮亮的哦"
+  },
+  "card-yu-05-jwel-00": {
+    "description": "呵呵，这次是音乐剧，所以演技自不必说\n歌唱、舞蹈和现场感，我全都想好好珍惜",
+    "name": "笑容闪耀的紫水晶",
+    "obtainMessage": "我会和堇酱一起\n挑战公主这个角色"
+  },
+  "card-yu-05-link-00": {
+    "description": "我果然还是最喜欢瑠依酱了\r\n真的谢谢你，瑠依酱",
+    "name": "羁绊相连的两人未来",
+    "obtainMessage": "我果然还是\n最喜欢瑠依酱了"
+  },
+  "card-yu-05-mizg-01": {
+    "description": "摄影师拍写真的时候\n不是都会拼命夸被拍的人嘛\n你可以再多夸夸我「好棒～」「好漂亮～」\n「好性感～」之类的嘛",
+    "name": "秘密写真拍摄",
+    "obtainMessage": "呵呵呵，脸都红了～。\n在害羞什么呢？"
+  },
+  "card-yu-05-mizg-02": {
+    "description": "您注意到了吗？\r\n只有我的服装，你看，稍微有点湿哦\r\n试拍的时候，有位很厉害的摄影师说\r\n稍微湿一点会更有魅力～",
+    "name": "融化在阳光中的休息时光",
+    "obtainMessage": "你看，只有我的服装\n稍微有点湿了呢"
+  },
+  "card-yu-05-nurs-00": {
+    "description": "那就由我来，仔仔细细好好地照顾你吧\n这也是在练习演技，来来来",
+    "name": "恶作剧天使",
+    "obtainMessage": "不可以乱动哦，\n只准看着我"
+  },
+  "card-yu-05-prem-00": {
+    "description": "啊，经纪人。快点快点，我旁边空着哦？\n呵呵，还是说……要我坐在你腿上吗？",
+    "name": "闪耀笑容的圣诞节",
+    "obtainMessage": "那么，大家一起来干杯吧！"
+  },
+  "card-yu-05-ster-00": {
+    "description": "唔，理性快要融化了……但是，我会试着接受\n就算是恶魔，我也想要互相理解，因为……",
+    "name": "誓约的温暖",
+    "obtainMessage": "我预定要和瑠依酱一起\n出演音乐剧哦"
+  },
+  "card-yu-05-vlnt-00": {
+    "description": "啊～真是的～，我这个人真是粗心呢～\r\n不小心把行李忘在出租车上了～\r\n……开玩笑的，肯定是骗你的啦",
+    "name": "故弄玄虚的战略家",
+    "obtainMessage": "每当情人节到来时，\n请想起我哦"
+  },
+  "card-yu-05-wedd-01": {
+    "description": "怎么样？呵呵，虽然很开心\n但还是有点害羞呢\n经纪人先生，我可爱吗？\n是不是还挺不错的？",
+    "name": "心恋、京之旅",
+    "obtainMessage": "我可爱吗？\n是不是还挺不错的？"
+  },
+  "card-yu-05-xmas-00": {
+    "description": "派对玩得很开心哦～\n今天真的非常感谢\n从经纪人先生那里收到了最棒的圣诞礼物呢",
+    "name": "我们的平安夜",
+    "obtainMessage": "TRINITYAiLE三人正玩得开心呢～"
+  }
+}

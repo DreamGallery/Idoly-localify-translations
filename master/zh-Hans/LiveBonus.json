@@ -1,0 +1,269 @@
+{
+  "live-bonus-group-081": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-082": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-086": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-121": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-122": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-123": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-124": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-125": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-126": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-127": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-128": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-129": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-130": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-131": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-132": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-133": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-134": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-135": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-146": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-147": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-148": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-149": {
+    "name": "演唱会加成"
+  },
+  "live-bonus-group-150": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-071": {
+    "name": "当某人处于隐身状态时，使全体节拍分数提升"
+  },
+  "live-lba-passive_skill-072": {
+    "name": "当某人处于集目状态时，使对象A技能分数提升"
+  },
+  "live-lba-passive_skill-073": {
+    "name": "使辅助类型2人歌唱力提升\n使得分手类型2人歌唱力降低"
+  },
+  "live-lba-passive_skill-074": {
+    "name": "当某人处于A技能分数提升状态时，使全体节拍分数提升"
+  },
+  "live-lba-passive_skill-075": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-077": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-078": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-079": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-080": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-083": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-084": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-085": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-087": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-088": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-089": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-090": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-092": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-093": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-094": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-095": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-096": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-097": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-098": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-099": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-100": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-101": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-102": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-103": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-104": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-105": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-106": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-107": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-108": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-109": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-110": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-111": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-112": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-113": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-114": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-115": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-116": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-117": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-118": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-119": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-136": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-137": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-138": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-139": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-140": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-141": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-142": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-143": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-144": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-145": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-151": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-152": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-153": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-154": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-155": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-156": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-157": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-158": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-159": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-160": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-161": {
+    "name": "演唱会加成"
+  },
+  "live-lba-passive_skill-162": {
+    "name": "演唱会加成"
+  }
+}

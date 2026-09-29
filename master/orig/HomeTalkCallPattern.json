@@ -1,0 +1,2218 @@
+{
+  "0": {
+    "characterArrivalText": "LizNoirの小美山愛です！\n新参者ですが、頑張ります！\nアイドルは体が資本、ということで\n趣味は筋トレです！",
+    "managerCallText": "お疲れさま"
+  },
+  "1": {
+    "characterArrivalText": "今日のライブどうでしたか？\nまだ自分のパフォーマンスに\n自信が持てなくて…直したほうが\nいい所があれば教えて下さい！",
+    "managerCallText": "お疲れさま"
+  },
+  "10": {
+    "characterArrivalText": "私、まだ自分がLizNoirにいるの\nが信じられなくて…リズノワらしい\n振る舞いってなんなんでしょう…？",
+    "managerCallText": "お疲れさま"
+  },
+  "100": {
+    "characterArrivalText": "ライブの声援って案外ステージまで\n届いてるって知ってた？",
+    "managerCallText": "お疲れさま"
+  },
+  "101": {
+    "characterArrivalText": "うーん、不思議な気分よ。",
+    "managerCallText": "お疲れさま"
+  },
+  "102": {
+    "characterArrivalText": "最近はちゃんとご飯食べてるの？",
+    "managerCallText": "お疲れさま"
+  },
+  "103": {
+    "characterArrivalText": "隔月連載の『瓦礫とアイドル』\n楽しいわ！\n取ってきてくれてありがとう！",
+    "managerCallText": "お疲れさま"
+  },
+  "104": {
+    "characterArrivalText": "私のキャンプの連載で、\nマネージャーと1泊キャンプって\n企画になったんだけど、いい……？",
+    "managerCallText": "お疲れさま"
+  },
+  "105": {
+    "characterArrivalText": "次の私のお仕事同行してほしいな～\nとか甘えてみたり",
+    "managerCallText": "お疲れさま"
+  },
+  "106": {
+    "characterArrivalText": "近々、夜って空いてたりするかな？",
+    "managerCallText": "お疲れさま"
+  },
+  "107": {
+    "characterArrivalText": "最近、一人酒が増えてきたの。\nストレスがたまってるのかしら…",
+    "managerCallText": "お疲れさま"
+  },
+  "108": {
+    "characterArrivalText": "うふふ～。SNSに、英語ペラペラ\nでkanaちゃんすご～い！　って\nコメントが、沢山付いてる。",
+    "managerCallText": "お疲れさま"
+  },
+  "109": {
+    "characterArrivalText": "今日も山田さんが株が上がっただの\n下がっただの、うるさくって。\nあんたもなんか言ってやってよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "11": {
+    "characterArrivalText": "以前ちらっとご相談したと思う\nのですが、来週のお休みの日に、\n私の実家にラーメン食べに\n行きませんか？",
+    "managerCallText": "お疲れさま"
+  },
+  "110": {
+    "characterArrivalText": "高校の同級生と、今度、久々に\n集まろうって話になってさぁ。",
+    "managerCallText": "お疲れさま"
+  },
+  "111": {
+    "characterArrivalText": "次こそは、ちゃんとした仕事を\n取ってこないと承知しないからね！",
+    "managerCallText": "お疲れさま"
+  },
+  "112": {
+    "characterArrivalText": "franとmihoの、唯一、\nほんっとーに一つだけ、\n良かったところはさぁ。",
+    "managerCallText": "お疲れさま"
+  },
+  "113": {
+    "characterArrivalText": "今度kana達が出る番組、\nバラエティってどういうこと！？\nしかも激辛メニュー挑戦ってさぁ！",
+    "managerCallText": "お疲れさま"
+  },
+  "114": {
+    "characterArrivalText": "{user}さー\nこの間の雑誌の特集なんだけど～。",
+    "managerCallText": "お疲れさま"
+  },
+  "115": {
+    "characterArrivalText": "誰かが言ってたけど、\n「莉央はリズノワのお母さんみたい\nだよね」だってさ。",
+    "managerCallText": "お疲れさま"
+  },
+  "116": {
+    "characterArrivalText": "この衣装が出来上がった頃、\n事務所の倉庫の前を通りかかったら\n中で不気味な物音がしてさぁ…",
+    "managerCallText": "お疲れさま"
+  },
+  "117": {
+    "characterArrivalText": "さっき、廊下で莉央に会ってさぁ。\nこの間、こころにパンケーキの\n焼き方教えたお礼言われたわ。",
+    "managerCallText": "お疲れさま"
+  },
+  "118": {
+    "characterArrivalText": "あのさ、{user}。\nこの間、kanaに\nアイスくれたじゃん？",
+    "managerCallText": "お疲れさま"
+  },
+  "119": {
+    "characterArrivalText": "遊園地のショーに出るならさぁ、\nどうせなら、園内に等身大パネル\nとかも置いてほしかったよね。",
+    "managerCallText": "お疲れさま"
+  },
+  "12": {
+    "characterArrivalText": "先日はいろいろとお世話になり\nました！　少しだけ自信が持てる\nようになりました。",
+    "managerCallText": "お疲れさま"
+  },
+  "120": {
+    "characterArrivalText": "ⅢXのkanaで～す！\nこれからは星見の子達と一緒に、もっと上を目指して頑張りま～す！\nみんな、応援よろしくね～！",
+    "managerCallText": "お疲れさま"
+  },
+  "121": {
+    "characterArrivalText": "アイツら、ほんっとムカつく～！\nまたkanaのことお子様扱いして！",
+    "managerCallText": "お疲れさま"
+  },
+  "122": {
+    "characterArrivalText": "ねえ！\nどーいうことっ！？",
+    "managerCallText": "お疲れさま"
+  },
+  "123": {
+    "characterArrivalText": "ここの事務所、めっちゃ握手会多いですよね。",
+    "managerCallText": "お疲れさま"
+  },
+  "124": {
+    "characterArrivalText": "も～！\nムカつく、ムカつく\nムカつくっ！！",
+    "managerCallText": "お疲れさま"
+  },
+  "125": {
+    "characterArrivalText": "あ、{user}だ！\n今日のライブ、kanaのこと\nちゃんと見ててくれました？",
+    "managerCallText": "お疲れさま"
+  },
+  "126": {
+    "characterArrivalText": "この事務所の幼稚園みたいなノリ、どうにかしてくれませんか？\nkana、我慢の限界なんですけど。",
+    "managerCallText": "お疲れさま"
+  },
+  "127": {
+    "characterArrivalText": "この事務所の人、長瀬麻奈めっちゃ好きですよね。\n{user}も含めて。",
+    "managerCallText": "お疲れさま"
+  },
+  "128": {
+    "characterArrivalText": "疲れた…。\nkana、もうやめたいな～。",
+    "managerCallText": "お疲れさま"
+  },
+  "129": {
+    "characterArrivalText": "暇人発見！\nあの撮影用ライト、kanaに当ててもらってもいいですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "13": {
+    "characterArrivalText": "うーん…\nどれにしようかな…\n決められないかも…",
+    "managerCallText": "お疲れさま"
+  },
+  "130": {
+    "characterArrivalText": "ねえ、聞いてよ{user}！",
+    "managerCallText": "お疲れさま"
+  },
+  "131": {
+    "characterArrivalText": "{user}、\n今からご飯行きませんか？",
+    "managerCallText": "お疲れさま"
+  },
+  "132": {
+    "characterArrivalText": "この間収録した番組\nやっと放送されましたね。\n反響はどうですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "133": {
+    "characterArrivalText": "あの～\nファン感謝祭の評判は\nどうでしたか？",
+    "managerCallText": "お疲れさま"
+  },
+  "134": {
+    "characterArrivalText": "{user}さん～\n話したいことがあるんですよ～。\n親身に聞いてくれますよね～？",
+    "managerCallText": "お疲れさま"
+  },
+  "135": {
+    "characterArrivalText": "あじさいの花言葉って\n知ってますか？\n教えてあげましょうか？",
+    "managerCallText": "お疲れさま"
+  },
+  "136": {
+    "characterArrivalText": "リズノワと放課後ティータイムで\nお茶会をしたら、どんな雰囲気に\nなるんでしょうね？",
+    "managerCallText": "お疲れさま"
+  },
+  "137": {
+    "characterArrivalText": "{user}さん\n修行しましょう！\nさぁ、坐禅を組んで下さい！",
+    "managerCallText": "お疲れさま"
+  },
+  "138": {
+    "characterArrivalText": "駅前教室とか…？\nう～ん、通信の方が\nいいんでしょうか？",
+    "managerCallText": "お疲れさま"
+  },
+  "139": {
+    "characterArrivalText": "{user}さんは\nアイスはお好きですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "14": {
+    "characterArrivalText": "キャンプファイヤー…\nむむむ…",
+    "managerCallText": "お疲れさま"
+  },
+  "140": {
+    "characterArrivalText": "{user}さん\nいい企画を思いついちゃいました！",
+    "managerCallText": "お疲れさま"
+  },
+  "141": {
+    "characterArrivalText": "いや～、莉央さんの思わぬ弱点を\n発見してしまいました～",
+    "managerCallText": "お疲れさま"
+  },
+  "142": {
+    "characterArrivalText": "{user}さん、\nこの前の『星見フレンドフェス』の\n新ユニットのことで相談が…",
+    "managerCallText": "お疲れさま"
+  },
+  "143": {
+    "characterArrivalText": "前に麻奈さんと莉央さんがバチバチ\nしたって言ってましたよね",
+    "managerCallText": "お疲れさま"
+  },
+  "144": {
+    "characterArrivalText": "{user}さん、\nおねがい♪",
+    "managerCallText": "お疲れさま"
+  },
+  "145": {
+    "characterArrivalText": "ナナさんってご存知ですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "146": {
+    "characterArrivalText": "天使さんがくれた聖なるチョコは\n堪能出来ましたかー？",
+    "managerCallText": "お疲れさま"
+  },
+  "147": {
+    "characterArrivalText": "あなたの心を鷲掴み☆\n赤崎こころ、14歳でーっす！",
+    "managerCallText": "お疲れさま"
+  },
+  "148": {
+    "characterArrivalText": "{user}さん…\nどうしましょう…こころがステージ\nで輝きすぎて、莉央さんを食ってしまいそうです…",
+    "managerCallText": "お疲れさま"
+  },
+  "149": {
+    "characterArrivalText": "きいてください〜〜\n莉央さんが〜〜\n莉央さんが〜",
+    "managerCallText": "お疲れさま"
+  },
+  "15": {
+    "characterArrivalText": "プロレスを勉強する前は\nずっと不思議でした…\nなんで技を避けないんだろうと？",
+    "managerCallText": "お疲れさま"
+  },
+  "150": {
+    "characterArrivalText": "いや〜まさかライブであんな失敗をするとは…おバカですねぇ〜私も愛ちゃんも。{user}さんも、すみませんねぇ〜！",
+    "managerCallText": "お疲れさま"
+  },
+  "151": {
+    "characterArrivalText": "私、{user}さんにしか相談できない悩みがあるんです〜",
+    "managerCallText": "お疲れさま"
+  },
+  "152": {
+    "characterArrivalText": "私…星見プロには敵なしだと思って\nいたんですが…ひとりライバルが\n現れましたよぉ〜",
+    "managerCallText": "お疲れさま"
+  },
+  "153": {
+    "characterArrivalText": "今日のこころは何点でしたかぁ〜？\n自己採点では〜100点ですね！ちな\nみに愛ちゃんと葵さんが70点、\n莉央さんが65点です！",
+    "managerCallText": "お疲れさま"
+  },
+  "154": {
+    "characterArrivalText": "あれ〜？　どこいったんだろう〜？",
+    "managerCallText": "お疲れさま"
+  },
+  "155": {
+    "characterArrivalText": "マネージャー…ダメなのは分かって\nるんです。でもこの気持ちに嘘を\nつくことは出来なくて…お願い…\n私を抱きしめてくださいっ！",
+    "managerCallText": "お疲れさま"
+  },
+  "156": {
+    "characterArrivalText": "ちょーっとだけ、真面目な\n相談してもいいですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "157": {
+    "characterArrivalText": "今日のライブの莉央さん、\nみましたか！？",
+    "managerCallText": "お疲れさま"
+  },
+  "158": {
+    "characterArrivalText": "率直にお聞きしたいのですが、\n私の事どんな子だと思ってます？　\n底が見えないぶりっ子小悪魔\n中学生、とか思ってます？",
+    "managerCallText": "お疲れさま"
+  },
+  "159": {
+    "characterArrivalText": "ちょっとちょっと〜　そろそろ\nヤングミリオン本誌の表紙話とか\nあるんじゃないですかぁ〜？",
+    "managerCallText": "お疲れさま"
+  },
+  "16": {
+    "characterArrivalText": "どうしよう…\nラーメンを一ヵ月我慢すれば\nなんとかなる…？",
+    "managerCallText": "お疲れさま"
+  },
+  "160": {
+    "characterArrivalText": "星見プロの子達、ちょっと\n自由過ぎませんか？",
+    "managerCallText": "お疲れさま"
+  },
+  "161": {
+    "characterArrivalText": "あ、{user}さん。\nビジネスのご相談があるんですが、\n今、お時間あります？",
+    "managerCallText": "お疲れさま"
+  },
+  "162": {
+    "characterArrivalText": "kanaもmihoも、\n友達とか、父親とか、\n他人に振り回され過ぎなんですよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "163": {
+    "characterArrivalText": "そろそろ打ち合わせしましょう。",
+    "managerCallText": "お疲れさま"
+  },
+  "164": {
+    "characterArrivalText": "もぐもぐ…\nあぁ、ちょっと小腹が空いたので\nナッツをつまんでたんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "165": {
+    "characterArrivalText": "{user}さん。\nこの事務所の人達をどうにか\nしてくれませんか…",
+    "managerCallText": "お疲れさま"
+  },
+  "166": {
+    "characterArrivalText": "私主催のファッションショーをやる\n時は、ぜひkanaをゲストに\n呼びたいですね。",
+    "managerCallText": "お疲れさま"
+  },
+  "167": {
+    "characterArrivalText": "今度ハワイに行ける仕事を\n取ってきて下さいよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "168": {
+    "characterArrivalText": "今回の舞台はトリエルと一緒\nだったので、楽屋でも\n気を遣って大変でした。",
+    "managerCallText": "お疲れさま"
+  },
+  "169": {
+    "characterArrivalText": "露天風呂で話したこと、\n誰にも言ってませんよね？",
+    "managerCallText": "お疲れさま"
+  },
+  "17": {
+    "characterArrivalText": "{user}さんは\n王子様と騎士なら\nどっちに憧れますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "170": {
+    "characterArrivalText": "トイレと、あと給湯室のシンクの\n掃除、やっておきましたよ",
+    "managerCallText": "お疲れさま"
+  },
+  "171": {
+    "characterArrivalText": "ⅢXのfranです！　事務所は変わりましたが気持ちは変わらずみなさんと一緒です。私達らしく頑張るので、よろしくお願いします！",
+    "managerCallText": "お疲れさま"
+  },
+  "172": {
+    "characterArrivalText": "あのー、レッスンの時間組んでいただいてますが、三分の一にしていただいていいですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "173": {
+    "characterArrivalText": "今日はⅢXでの撮影ですよね？\nで、その後雑誌の取材、ですね。\nでは行ってきます。",
+    "managerCallText": "お疲れさま"
+  },
+  "174": {
+    "characterArrivalText": "スタジオの入り時間が変わった話、\nkanaとmihoにも伝えておいて\n下さい。私は連絡先知らないので。",
+    "managerCallText": "お疲れさま"
+  },
+  "175": {
+    "characterArrivalText": "次回のライブバトルの相手の情報、\n教えてもらってもいいですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "176": {
+    "characterArrivalText": "ⅢXとしての仕事もありがたいんですけど、私個人の仕事ももう少し増やせませんか？　モデル関係とか。",
+    "managerCallText": "お疲れさま"
+  },
+  "177": {
+    "characterArrivalText": "事務所、意外と綺麗ですよね。\n汚くて雑多な感じを想像していました。{user}さんのセンスですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "178": {
+    "characterArrivalText": "あぁーもう！\nkanaにはうんざり。マネージャーさんからも言って下さい。ほんっとお子様なんだから。",
+    "managerCallText": "お疲れさま"
+  },
+  "179": {
+    "characterArrivalText": "前から気になってたんだけど、\nあなた忙しすぎなんじゃない？\n適切な給料もらえてるの？",
+    "managerCallText": "お疲れさま"
+  },
+  "18": {
+    "characterArrivalText": "The Last Chanceを\n歌ったライブから、私…もっと成長\nしたいって思うようになりました。",
+    "managerCallText": "お疲れさま"
+  },
+  "180": {
+    "characterArrivalText": "{user}さん。\n私の弱みってなんだと思いますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "181": {
+    "characterArrivalText": "ちょっと相談しづらいんですが…\nファッション業界の先輩からパーティーに誘われてて、一緒に来てもらってもいいですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "182": {
+    "characterArrivalText": "{user}さんって\nお酒飲まれるんですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "183": {
+    "characterArrivalText": "演技の練習の反動が…\n今、物凄い勢いで押し寄せてます。",
+    "managerCallText": "お疲れさま"
+  },
+  "184": {
+    "characterArrivalText": "月ストの今年最初のライブ\nSNSで話題になっていましたよ",
+    "managerCallText": "お疲れさま"
+  },
+  "185": {
+    "characterArrivalText": "そういえば…\n月ストとサニピの合同練習、\n実際に見てどうでした？",
+    "managerCallText": "お疲れさま"
+  },
+  "186": {
+    "characterArrivalText": "フェスで観たバンド系アイドル\n本当にかっこ良かったですよね。",
+    "managerCallText": "お疲れさま"
+  },
+  "187": {
+    "characterArrivalText": "アカペラって、練習方法として\n凄くいいみたいです。",
+    "managerCallText": "お疲れさま"
+  },
+  "188": {
+    "characterArrivalText": "新曲ですけど、\nファンの反応はどうでしょうか？",
+    "managerCallText": "お疲れさま"
+  },
+  "189": {
+    "characterArrivalText": "ブンブン…\nいや、やっぱり、\nウォンウォン…？",
+    "managerCallText": "お疲れさま"
+  },
+  "19": {
+    "characterArrivalText": "この前は、食べ歩きに\n付き合っていただいて\nありがとうごさいました！",
+    "managerCallText": "お疲れさま"
+  },
+  "190": {
+    "characterArrivalText": "沙季と千紗は\nずっと仲がいいですよね。",
+    "managerCallText": "お疲れさま"
+  },
+  "191": {
+    "characterArrivalText": "ツアーの千秋楽は、\nうちのお父さんとお母さんも\n観に来てくれたんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "192": {
+    "characterArrivalText": "今回の反省を踏まえて、\n生活費の管理の仕方を\n見直すことにしました。",
+    "managerCallText": "お疲れさま"
+  },
+  "193": {
+    "characterArrivalText": "今回の経験を通じて、一つ\n分かったことがあるんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "194": {
+    "characterArrivalText": "一緒に両親のデートコースを\n回ってくれてありがとう\nございました。",
+    "managerCallText": "お疲れさま"
+  },
+  "195": {
+    "characterArrivalText": "{user}さん\n今度一緒に太鼓を\n叩きませんか？",
+    "managerCallText": "お疲れさま"
+  },
+  "196": {
+    "characterArrivalText": "月のテンペストの長瀬琴乃です。\nまだトークは慣れませんが…\nパフォーマンスでは負けません。\nよろしくお願いします。",
+    "managerCallText": "お疲れさま"
+  },
+  "197": {
+    "characterArrivalText": "お疲れさまです。\n今日のライブは…反省ばかりです。\nすみません。",
+    "managerCallText": "お疲れさま"
+  },
+  "198": {
+    "characterArrivalText": "最近思うんですが…私以外のメンバーもどんどん上達してきていて、本当に私がセンターでいいのかなって時々考えちゃいます。",
+    "managerCallText": "お疲れさま"
+  },
+  "199": {
+    "characterArrivalText": "今日のライブバトルの相手、\n終わった後すっごい泣いてました。\nやっぱり色々考えちゃいますね…",
+    "managerCallText": "お疲れさま"
+  },
+  "2": {
+    "characterArrivalText": "はぁ〜…聞いて下さい…またこころ\nに騙されちゃいまして…ファンの\n皆の前で恥かいちゃいました。\nどうしたらいいでしょう？",
+    "managerCallText": "お疲れさま"
+  },
+  "20": {
+    "characterArrivalText": "{user}さん\nこの間の沖縄合宿で気になった\nことがあるんですけど。",
+    "managerCallText": "お疲れさま"
+  },
+  "200": {
+    "characterArrivalText": "さっき、ファンの方に声を掛けられて…たまにあるんですが、いつもびっくりして微妙な対応をしてしまっている気がして…",
+    "managerCallText": "お疲れさま"
+  },
+  "201": {
+    "characterArrivalText": "…悔しいです。\nまさか負けるなんて…\n思ってませんでした。",
+    "managerCallText": "お疲れさま"
+  },
+  "202": {
+    "characterArrivalText": "最近、体の調子がいいんです。\n瑠依さんに食事のアドバイスを\nしてもらったからかな…",
+    "managerCallText": "お疲れさま"
+  },
+  "203": {
+    "characterArrivalText": "来週の予定なんですが、ちょっと\n相談させてほしいです…",
+    "managerCallText": "お疲れさま"
+  },
+  "204": {
+    "characterArrivalText": "丁度よかったです。\nちょっとレッスンに付き合って\nもらえませんか？",
+    "managerCallText": "お疲れさま"
+  },
+  "205": {
+    "characterArrivalText": "あのー…何かいつもと\n雰囲気違うと思います？",
+    "managerCallText": "お疲れさま"
+  },
+  "206": {
+    "characterArrivalText": "とても相談しづらいんですが…\n助けてもらってもいいでしょうか…",
+    "managerCallText": "お疲れさま"
+  },
+  "207": {
+    "characterArrivalText": "私…前より笑えていますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "208": {
+    "characterArrivalText": "久しぶりに、星見の高台の公園に\n行きませんか？",
+    "managerCallText": "お疲れさま"
+  },
+  "209": {
+    "characterArrivalText": "もしも{user}さんが\nもし恋のヒロインだったら\nどんな感じかな～？",
+    "managerCallText": "お疲れさま"
+  },
+  "21": {
+    "characterArrivalText": "ファンのみなさんに\n筋トレを始めてもらうには…",
+    "managerCallText": "お疲れさま"
+  },
+  "210": {
+    "characterArrivalText": "{user}さんの\nテーピング上手だったな～\nありがとー！",
+    "managerCallText": "お疲れさま"
+  },
+  "211": {
+    "characterArrivalText": "芽衣なりにアイドルとして\n何が大切なのか考えてみたよ！",
+    "managerCallText": "お疲れさま"
+  },
+  "212": {
+    "characterArrivalText": "芽衣達が体験した出来事は\nやっぱり本当の出来事だよ\n絶対、夢じゃないもん！",
+    "managerCallText": "お疲れさま"
+  },
+  "213": {
+    "characterArrivalText": "そういえば、この間の暑い日に\n渚ちゃんが変な遊びをしてたんだよ",
+    "managerCallText": "お疲れさま"
+  },
+  "214": {
+    "characterArrivalText": "ねーねー、恋って分かる？",
+    "managerCallText": "お疲れさま"
+  },
+  "215": {
+    "characterArrivalText": "{user}さん！\n{user}さん！\nすっごく嬉しいことがあったのー",
+    "managerCallText": "お疲れさま"
+  },
+  "216": {
+    "characterArrivalText": "よそ見なんてできない\ndon’t stopな\nライフスタイル～♪",
+    "managerCallText": "お疲れさま"
+  },
+  "217": {
+    "characterArrivalText": "この前ね、芽衣、怜ちゃんの\n実家に突然行ったでしょ？",
+    "managerCallText": "お疲れさま"
+  },
+  "218": {
+    "characterArrivalText": "{user}さんって\nチョコ以外に好きな\n甘いものってあるー？",
+    "managerCallText": "お疲れさま"
+  },
+  "219": {
+    "characterArrivalText": "{user}さんって\nギターとか楽器とか\nえーいって壊したことある？",
+    "managerCallText": "お疲れさま"
+  },
+  "22": {
+    "characterArrivalText": "うぅ…ダメ、今は我慢しないと…\nリズノワのイメージが崩れちゃう…",
+    "managerCallText": "お疲れさま"
+  },
+  "220": {
+    "characterArrivalText": "この間、二人で撮った写真を待ち\n受けにしてたら…すずにゃんに\n見られそうになって焦ったよー。",
+    "managerCallText": "お疲れさま"
+  },
+  "221": {
+    "characterArrivalText": "ねぇ、{user}さん\nこの間のプレゼント、使ってる？",
+    "managerCallText": "お疲れさま"
+  },
+  "222": {
+    "characterArrivalText": "やっほー！　早坂芽衣だよー！\n猫ちゃんが好きで、いっつも一緒に\n遊んでまーす！　応援よろしくぅ！",
+    "managerCallText": "お疲れさま"
+  },
+  "223": {
+    "characterArrivalText": "はぁ〜…\n芽衣、昨日のライブ、途中で\n振り付け間違えちゃって…",
+    "managerCallText": "お疲れさま"
+  },
+  "224": {
+    "characterArrivalText": "ねぇ、{user}さん…昨日ライブ会場でね、他のアイドル達が麻奈は大したことないって言ってて…悲しくなっちゃった…",
+    "managerCallText": "お疲れさま"
+  },
+  "225": {
+    "characterArrivalText": "昨日ね、ライブバトルで勝ったん\nだけど…相手のライブもかっこ良く\nて、言いに行こうと思ったんだけど\nそれも違うのかなって。",
+    "managerCallText": "お疲れさま"
+  },
+  "226": {
+    "characterArrivalText": "{user}さ〜ん。\n聞いて〜　昨日のサイン会でね、何回もサイン書いてたら正解がわかんなくなってきちゃって…",
+    "managerCallText": "お疲れさま"
+  },
+  "227": {
+    "characterArrivalText": "あ、{user}さ〜ん。\nお疲れさま〜！　今日はまた後で\nスタジオ行ってくるね〜",
+    "managerCallText": "お疲れさま"
+  },
+  "228": {
+    "characterArrivalText": "{user}さん！　\n明日のライブバトルは\n楽しみにしててよね〜！",
+    "managerCallText": "お疲れさま"
+  },
+  "229": {
+    "characterArrivalText": "{user}さん！\nミセドの新作ドーナツ、\n買ってきたんだ〜！",
+    "managerCallText": "お疲れさま"
+  },
+  "23": {
+    "characterArrivalText": "今度はリズノワ四人で\nプロモーションのお仕事を\nやらせてもらえるんですよね！？",
+    "managerCallText": "お疲れさま"
+  },
+  "230": {
+    "characterArrivalText": "お疲れさま〜！\n今夜ね、近くの公園で猫ちゃん達の\n集会があるの！　でも夜遅くに\n外出は…ダメだよね？",
+    "managerCallText": "お疲れさま"
+  },
+  "231": {
+    "characterArrivalText": "明日からの出張、不安だよ〜\nどうしよう〜",
+    "managerCallText": "お疲れさま"
+  },
+  "232": {
+    "characterArrivalText": "{user}さ〜ん\nお腹すいた〜ご飯連れてって〜？",
+    "managerCallText": "お疲れさま"
+  },
+  "233": {
+    "characterArrivalText": "最近思うんだ。芽衣の青春って\nこれでいいのかなって。学校の\nみんなは部活行ったりカラオケ\n行ったりしてるから…",
+    "managerCallText": "お疲れさま"
+  },
+  "234": {
+    "characterArrivalText": "そういえば、{user}さんは笑顔上手になった？",
+    "managerCallText": "お疲れさま"
+  },
+  "235": {
+    "characterArrivalText": "ところで、古代ギリシャの呪術の\nことですが。",
+    "managerCallText": "お疲れさま"
+  },
+  "236": {
+    "characterArrivalText": "台湾ライブの終了後に、次は三人で\nまたいらして下さい、とお世辞を\n言われました。",
+    "managerCallText": "お疲れさま"
+  },
+  "237": {
+    "characterArrivalText": "昨日までお休みをいただいたので、\nありがたく温泉までドライブに\n行って来ました。",
+    "managerCallText": "お疲れさま"
+  },
+  "238": {
+    "characterArrivalText": "葉ちゃんは…本当に素敵な私の大切な友達だったんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "239": {
+    "characterArrivalText": "なるほど…こういうところもか…",
+    "managerCallText": "お疲れさま"
+  },
+  "24": {
+    "characterArrivalText": "{user}さんは心の師です！",
+    "managerCallText": "お疲れさま"
+  },
+  "240": {
+    "characterArrivalText": "この衣装、私がデビューした頃の\n衣装に少し似てるんです。\nなんだか懐かしくなりました。",
+    "managerCallText": "お疲れさま"
+  },
+  "241": {
+    "characterArrivalText": "問題です",
+    "managerCallText": "お疲れさま"
+  },
+  "242": {
+    "characterArrivalText": "お正月の休みに、\n実家に行ってきたんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "243": {
+    "characterArrivalText": "この間、CMが公開されましたね。\n星見プロの子達に髪のことで\n質問攻めにあって面倒でした。",
+    "managerCallText": "お疲れさま"
+  },
+  "244": {
+    "characterArrivalText": "あら、{user}さん\nお疲れ様です。レッスンが一段落\nしたのでお弁当を食べようかと…",
+    "managerCallText": "お疲れさま"
+  },
+  "245": {
+    "characterArrivalText": "『お嫁さんにしたいアイドル\nランキング』の投票結果が\n出ていましたね。",
+    "managerCallText": "お疲れさま"
+  },
+  "246": {
+    "characterArrivalText": "そう言えば、昔、長瀬麻奈と\n貴方が一緒にいるところも、\n見かけたことがありますよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "247": {
+    "characterArrivalText": "この度、移籍したⅢXのmiho\nです。早々にBIG4に返り咲いて\n見せるので、ファンのみなさんは\n楽しみに待っていて下さいね。",
+    "managerCallText": "お疲れさま"
+  },
+  "248": {
+    "characterArrivalText": "以前懇意にしていた企業さんに\n連絡を取っているんですけど、お返事すらいただけないところもあるんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "249": {
+    "characterArrivalText": "星見プロでは、物販のスタッフさんへの指示は誰が行っているんですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "25": {
+    "characterArrivalText": "うーんうーん…\nな、なんて返せば\nいいんだろう…",
+    "managerCallText": "お疲れさま"
+  },
+  "250": {
+    "characterArrivalText": "星見プロに来てから何本かライブをやらせてもらいましたけど、\n少し不思議な感覚があるんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "251": {
+    "characterArrivalText": "サニーピースのライブや\nレッスン動画を全てお借りしても\nよろしいでしょうか？",
+    "managerCallText": "お疲れさま"
+  },
+  "252": {
+    "characterArrivalText": "贅沢言う気はありません。\nでも、先週のお仕事については、\n一度お話しておきたくて…",
+    "managerCallText": "お疲れさま"
+  },
+  "253": {
+    "characterArrivalText": "今はこうして星見プロでお世話に\nなっていますけど、私はまだ\n忘れた訳じゃありませんから。",
+    "managerCallText": "お疲れさま"
+  },
+  "254": {
+    "characterArrivalText": "昨日のライブ、お客さんの反応も\nメディアの反応も良かったですね。",
+    "managerCallText": "お疲れさま"
+  },
+  "255": {
+    "characterArrivalText": "事務所の雰囲気は\nいつもこういう感じですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "256": {
+    "characterArrivalText": "ごめんなさい。\n今日の打ち合わせ私だけでも\n大丈夫ですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "257": {
+    "characterArrivalText": "実は私、長瀬麻奈に同行している\n{user}さんを\n何度か見かけているんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "258": {
+    "characterArrivalText": "ねぇ、fran、\n私のバッグどこにあるか知らない？",
+    "managerCallText": "お疲れさま"
+  },
+  "259": {
+    "characterArrivalText": "ファンのみんなと一緒に、同じ\nケーキを食べるって難しいよね。",
+    "managerCallText": "お疲れさま"
+  },
+  "26": {
+    "characterArrivalText": "夏の風物詩って、\nいろいろありますよね。\nスイカとか、浴衣とか。",
+    "managerCallText": "お疲れさま"
+  },
+  "260": {
+    "characterArrivalText": "実はね、この間の遊園地の帰り\n一人で寄り道したの。",
+    "managerCallText": "お疲れさま"
+  },
+  "261": {
+    "characterArrivalText": "ねえねえ。大きなライブも\nいいけど、たまにはアットホームな\nライブもいいと思わない？",
+    "managerCallText": "お疲れさま"
+  },
+  "262": {
+    "characterArrivalText": "うーん……こう？\nいや、こう？　こうかな？",
+    "managerCallText": "お疲れさま"
+  },
+  "263": {
+    "characterArrivalText": "どうにか琴乃が\n気持ちよく私のライブに\n来てくれる方法はないのかな～",
+    "managerCallText": "お疲れさま"
+  },
+  "264": {
+    "characterArrivalText": "私も、誰かとお揃いの衣装で\nライブに出てみたいな～。",
+    "managerCallText": "お疲れさま"
+  },
+  "265": {
+    "characterArrivalText": "作詞のために缶詰したいって\n私が急に言い出したから\n準備するの大変だったんじゃない？",
+    "managerCallText": "お疲れさま"
+  },
+  "266": {
+    "characterArrivalText": "今日のライブ公演が終わった後\nカラオケに行きたいんだけど\n付き合ってくれる？",
+    "managerCallText": "お疲れさま"
+  },
+  "267": {
+    "characterArrivalText": "どうしよう…\nどっちがいいかな…？\nでも、あんまり買い過ぎても…",
+    "managerCallText": "お疲れさま"
+  },
+  "268": {
+    "characterArrivalText": "ちょっといいかな？",
+    "managerCallText": "お疲れさま"
+  },
+  "269": {
+    "characterArrivalText": "やっぱり青かなぁ…\nいや、でもここは定番の白かな\n何色がいいか悩む～～！",
+    "managerCallText": "お疲れさま"
+  },
+  "27": {
+    "characterArrivalText": "ども。LizNoirの井川葵だよ。\nよろしくね。\nリズノワ、最高〜",
+    "managerCallText": "お疲れさま"
+  },
+  "270": {
+    "characterArrivalText": "長瀬麻奈の歌を聴いて良かったって\n思えるような最っ高のステージを！",
+    "managerCallText": "お疲れさま"
+  },
+  "271": {
+    "characterArrivalText": "さっき、ファンの人が声掛けて\nくれてね！　すごい嬉しいこと\n言ってくれたの！",
+    "managerCallText": "お疲れさま"
+  },
+  "272": {
+    "characterArrivalText": "今日のサイン会におばあちゃんと\n小さなお孫さんが一緒に来てくれ\nたんだ！",
+    "managerCallText": "お疲れさま"
+  },
+  "273": {
+    "characterArrivalText": "作詞って難しい～\nいい歌詞にしたいんだけどなあ。\nすこーし悩んでます。",
+    "managerCallText": "お疲れさま"
+  },
+  "274": {
+    "characterArrivalText": "今日もライブバトル勝てて\n嬉しいけど…",
+    "managerCallText": "お疲れさま"
+  },
+  "275": {
+    "characterArrivalText": "握手会すっごく楽しかった！\nファンとの交流って最高だね！",
+    "managerCallText": "お疲れさま"
+  },
+  "276": {
+    "characterArrivalText": "アスリートがよく言う\n「ゾーンに入る」って分かる？",
+    "managerCallText": "お疲れさま"
+  },
+  "277": {
+    "characterArrivalText": "前に同じステージに立った\nホットドッグさんっていう\nお笑いコンビ覚えてる？",
+    "managerCallText": "お疲れさま"
+  },
+  "278": {
+    "characterArrivalText": "前さ、ドラマのオファーが\n来たって言ってたでしょ？",
+    "managerCallText": "お疲れさま"
+  },
+  "279": {
+    "characterArrivalText": "最近また流れ星が\n多くなってきた気がしない？",
+    "managerCallText": "お疲れさま"
+  },
+  "28": {
+    "characterArrivalText": "サイン会って何が面白いのかな。\n来てくれる人が何を面白がって\nいるのか知っておきたいんだ。",
+    "managerCallText": "お疲れさま"
+  },
+  "280": {
+    "characterArrivalText": "私ソロだから、もしグループに\n所属してたらどうだったんだろう\nって考えることがあるの。",
+    "managerCallText": "お疲れさま"
+  },
+  "281": {
+    "characterArrivalText": "{user}くん\n「愛」って何かわかる？",
+    "managerCallText": "お疲れさま"
+  },
+  "282": {
+    "characterArrivalText": "{user}さん…\n私、今日は帰りたくないな…？",
+    "managerCallText": "お疲れさま"
+  },
+  "283": {
+    "characterArrivalText": "今、星見プロのみんなの中で\nすみれちゃんの人気が\n急上昇してるんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "284": {
+    "characterArrivalText": "フェスの出番の後、出店巡りで\n騒がしくしちゃってごめんなさい。",
+    "managerCallText": "お疲れさま"
+  },
+  "285": {
+    "characterArrivalText": "琴乃ちゃんの分析してる時って\nあっという間に時間が経つんです！\n気付いたらノートがパンパンで～",
+    "managerCallText": "お疲れさま"
+  },
+  "286": {
+    "characterArrivalText": "一日店長が大繁盛だったので\nまたお礼に大量の桃を\nいただいちゃいました",
+    "managerCallText": "お疲れさま"
+  },
+  "287": {
+    "characterArrivalText": "{user}さん\nよしよししてあげましょうか。",
+    "managerCallText": "お疲れさま"
+  },
+  "288": {
+    "characterArrivalText": "メイド喫茶のメイドさんも\nいいですが、クラシックな\nメイドさんも可愛いですよね。",
+    "managerCallText": "お疲れさま"
+  },
+  "289": {
+    "characterArrivalText": "私って幸せ者ですよね……！",
+    "managerCallText": "お疲れさま"
+  },
+  "29": {
+    "characterArrivalText": "今度の番組…どういうことだ…！\n話が違うじゃないか…",
+    "managerCallText": "お疲れさま"
+  },
+  "290": {
+    "characterArrivalText": "{user}さん\nこっそり相談してもいいですか…？",
+    "managerCallText": "お疲れさま"
+  },
+  "291": {
+    "characterArrivalText": "う～ん…うぅ～ん…\nバレンタインタコパは、\nちょっと安直かなぁ。",
+    "managerCallText": "お疲れさま"
+  },
+  "292": {
+    "characterArrivalText": "リンゴーン、リンゴーン\nリンゴーン…チャペルの鐘って\nちゃんと意味があるんですよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "293": {
+    "characterArrivalText": "{user}さん、新しいお仕事のお話って\nなんですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "294": {
+    "characterArrivalText": "この間の夏祭り、\nとっても楽しかったですね。",
+    "managerCallText": "お疲れさま"
+  },
+  "295": {
+    "characterArrivalText": "自己紹介、してみますね。\n伊吹渚です。まだ未熟ですが、みんなに元気を与えられるよう頑張ります。よろしくお願いしますっ！",
+    "managerCallText": "お疲れさま"
+  },
+  "296": {
+    "characterArrivalText": "昨日握手会あったじゃないですか？\n私、アイドルっぽく振る舞えなくて…でもファンの方からは自然体がいいって言われて…",
+    "managerCallText": "お疲れさま"
+  },
+  "297": {
+    "characterArrivalText": "明日のライブ…不安なんです。前回\n私ミスしちゃって…みんながカバー\nしてくれたし大丈夫でしたけど、またミスするんじゃないかって…",
+    "managerCallText": "お疲れさま"
+  },
+  "298": {
+    "characterArrivalText": "来週雑誌の取材があるみたいなん\nですけど…私自分で言うのも\nなんですが、全然面白い人間じゃ\nないなって。",
+    "managerCallText": "お疲れさま"
+  },
+  "299": {
+    "characterArrivalText": "うう〜…どうしよう…\n今からじゃ…遅いですよね…",
+    "managerCallText": "お疲れさま"
+  },
+  "3": {
+    "characterArrivalText": "最近気づいたんですが、握手会とか\nで私のファンの方とお会いすると、\nマッチョな方がちらほらいるん\nですよね。",
+    "managerCallText": "お疲れさま"
+  },
+  "30": {
+    "characterArrivalText": "僕は本当に、このままアイドルで\nいていいのかな？",
+    "managerCallText": "お疲れさま"
+  },
+  "300": {
+    "characterArrivalText": "琴乃ちゃん、ライブで失敗しちゃ\nって…気にすることないって言って\nもそんな簡単なことじゃないのかな\nって思って。",
+    "managerCallText": "お疲れさま"
+  },
+  "301": {
+    "characterArrivalText": "お疲れさまです。\n今日のライブのリハ、\nぜひ見に来て下さいね。",
+    "managerCallText": "お疲れさま"
+  },
+  "302": {
+    "characterArrivalText": "この前はタオル届けてくださって\nありがとうございました。それで…",
+    "managerCallText": "お疲れさま"
+  },
+  "303": {
+    "characterArrivalText": "探しものをしてるんですけど…\n手帳みたいなのって\n見ませんでした？",
+    "managerCallText": "お疲れさま"
+  },
+  "304": {
+    "characterArrivalText": "{user}さん、どうしましょう。\n全然決まらないんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "305": {
+    "characterArrivalText": "すみません。\nボールペンの替芯なんて…\nもってないですよね？",
+    "managerCallText": "お疲れさま"
+  },
+  "306": {
+    "characterArrivalText": "{user}さんはドラマとかって\n観ますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "307": {
+    "characterArrivalText": "来週のテレビ番組、食レポがある\nじゃないですか？　それでちょっと\n相談があって…",
+    "managerCallText": "お疲れさま"
+  },
+  "308": {
+    "characterArrivalText": "この間の恋愛ゲームみたいに\n私にもいつか恋愛する時が\nくるんですかね…？",
+    "managerCallText": "お疲れさま"
+  },
+  "309": {
+    "characterArrivalText": "オフの日にサニピの五人で\nあのテーマパークに\n行って来たんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "31": {
+    "characterArrivalText": "僕、やっぱりハングリー精神って\nやつが足りないみたいなんだ。\nどうしたらいい？",
+    "managerCallText": "お疲れさま"
+  },
+  "310": {
+    "characterArrivalText": "今日事務所に来たら、物凄い数の\nファンレターが届いていて\n驚きました。",
+    "managerCallText": "お疲れさま"
+  },
+  "311": {
+    "characterArrivalText": "ダンスの大会に出るのは\n久しぶりだったので\n結構緊張しました。",
+    "managerCallText": "お疲れさま"
+  },
+  "312": {
+    "characterArrivalText": "{user}さん、\nこの間の里帰りライブ、\n評判はどうでしたか？",
+    "managerCallText": "お疲れさま"
+  },
+  "313": {
+    "characterArrivalText": "私達が不思議な空間で出会った\n三毛猫は一体何だったんでしょう？",
+    "managerCallText": "お疲れさま"
+  },
+  "314": {
+    "characterArrivalText": "夏のイベントに出て、\nアイドルとして成長したと\n思うんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "315": {
+    "characterArrivalText": "{user}さんは\nサニーピース号のことを\n覚えてますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "316": {
+    "characterArrivalText": "{user}さん\nもしかして衣装を着れなかったこと\n誰かに話しました？",
+    "managerCallText": "お疲れさま"
+  },
+  "317": {
+    "characterArrivalText": "あの時桜を見てから、\n少しずつ自然な笑顔になってきた\nとは思うのですが…",
+    "managerCallText": "お疲れさま"
+  },
+  "318": {
+    "characterArrivalText": "ユニットを組んだおかげで\n遙子さんとの絆が\nより深まった気がします。",
+    "managerCallText": "お疲れさま"
+  },
+  "319": {
+    "characterArrivalText": "今更なんですが\n植物園でCM撮影って\n斬新でしたよね。",
+    "managerCallText": "お疲れさま"
+  },
+  "32": {
+    "characterArrivalText": "…負けたね、ライブバトル。\n前は感じなかった気持ちだけど\n今は、悔しいよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "320": {
+    "characterArrivalText": "花言葉の勉強は順調ですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "321": {
+    "characterArrivalText": "{user}さん！\n今すぐ荷物検査をさせて\nもらってもいいですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "322": {
+    "characterArrivalText": "そういえば…なんでわざわざ\n『世紀末』って言うんだろう？\n今って全然、世紀末じゃないのに。",
+    "managerCallText": "お疲れさま"
+  },
+  "323": {
+    "characterArrivalText": "あ、結婚式場でのCM撮影の後\n時間があったので\n家族と少し話したんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "324": {
+    "characterArrivalText": "サニーピースの一ノ瀬怜です。\nダンスが得意で高校のダンス大会\nで優勝しています。どうぞよろしく\nお願いいたします。",
+    "managerCallText": "お疲れさま"
+  },
+  "325": {
+    "characterArrivalText": "今日のライブ\nみんな凄くよかったと思います。",
+    "managerCallText": "お疲れさま"
+  },
+  "326": {
+    "characterArrivalText": "なんだか今日のライブは\n力が入らなくて不完全燃焼です…",
+    "managerCallText": "お疲れさま"
+  },
+  "327": {
+    "characterArrivalText": "ライブ後の囲み取材で\nやっちゃったかもしれません…",
+    "managerCallText": "お疲れさま"
+  },
+  "328": {
+    "characterArrivalText": "何となく分かってはいたことですけ\nど…私じゃ井川さんのダンスには\n敵わない。私、悔しいです…",
+    "managerCallText": "お疲れさま"
+  },
+  "329": {
+    "characterArrivalText": "今日はファンとどんな話をすれば\nいいんだろうって悩みました。",
+    "managerCallText": "お疲れさま"
+  },
+  "33": {
+    "characterArrivalText": "{user}君\n歌唱方法の参考になりそうな\n動画とか、教材もってない？",
+    "managerCallText": "お疲れさま"
+  },
+  "330": {
+    "characterArrivalText": "ずっとアイドル業界で\n働いているんですよね？",
+    "managerCallText": "お疲れさま"
+  },
+  "331": {
+    "characterArrivalText": "やっぱり私\nトークが苦手なんです。\n今日痛感しました。",
+    "managerCallText": "お疲れさま"
+  },
+  "332": {
+    "characterArrivalText": "なんだか顔色悪いですよ？",
+    "managerCallText": "お疲れさま"
+  },
+  "333": {
+    "characterArrivalText": "このあと暇だったりしますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "334": {
+    "characterArrivalText": "最近レッスンもライブもあまり\n見に来てくれませんね。",
+    "managerCallText": "お疲れさま"
+  },
+  "335": {
+    "characterArrivalText": "今日、ご飯に行きましょう。\n私がご馳走するので。",
+    "managerCallText": "お疲れさま"
+  },
+  "336": {
+    "characterArrivalText": "私が習っていたダンスの先生のこと\n覚えていますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "337": {
+    "characterArrivalText": "この間、ゲームのプロモーションで\n撮影をしたでしょ？\nその時に面白いことがあったのよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "338": {
+    "characterArrivalText": "この前はお手伝い、お疲れ様。\nあの後、私の実家のお店、\nどうなったと思う？",
+    "managerCallText": "お疲れさま"
+  },
+  "339": {
+    "characterArrivalText": "どうしたの？\n顔色が悪いんじゃない？\n大丈夫かしら？",
+    "managerCallText": "お疲れさま"
+  },
+  "34": {
+    "characterArrivalText": "ちょっと頼みがあるんだ。\n明日のラジオの練習に\n付き合ってほしい。",
+    "managerCallText": "お疲れさま"
+  },
+  "340": {
+    "characterArrivalText": "ねえ、この前の年末の歌番組、\n評判はどうだった？",
+    "managerCallText": "お疲れさま"
+  },
+  "341": {
+    "characterArrivalText": "…ねぇ、一つだけ言わせて。\n貴方って時々、距離感が\nおかしいことがあるわよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "342": {
+    "characterArrivalText": "ハロウィンイベントは\nいい経験になったわ。",
+    "managerCallText": "お疲れさま"
+  },
+  "343": {
+    "characterArrivalText": "ケイティが帰り際「リオ、アメリカ\nに来たらまた会いましょう」って\n言ってくれたのよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "344": {
+    "characterArrivalText": "ねえ、{user}さん\nこの間、あの子にゆかりのある\n場所に二人で行ったじゃない。",
+    "managerCallText": "お疲れさま"
+  },
+  "345": {
+    "characterArrivalText": "この間のプールのCM、もう観た？",
+    "managerCallText": "お疲れさま"
+  },
+  "346": {
+    "characterArrivalText": "ねぇ、少しいいかしら。",
+    "managerCallText": "お疲れさま"
+  },
+  "347": {
+    "characterArrivalText": "ねえ、この間のCM撮影の仕事で、\nコスメの試供品を\n一杯もらったでしょ？",
+    "managerCallText": "お疲れさま"
+  },
+  "348": {
+    "characterArrivalText": "私達のドキュメンタリー…\n『BIG4までの軌跡』、\nついに放送されたわね。",
+    "managerCallText": "お疲れさま"
+  },
+  "349": {
+    "characterArrivalText": "そういえば、ララが貴方に\n感謝していたわよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "35": {
+    "characterArrivalText": "{user}君。\nキミは悪い人だよ。今度の出張、\n僕とこころの二人部屋になって\nいるのはどういうこと？",
+    "managerCallText": "お疲れさま"
+  },
+  "350": {
+    "characterArrivalText": "昨日『第二回お嫁さんにしたい\nアイドルランキング』が\n発表されたわね。",
+    "managerCallText": "お疲れさま"
+  },
+  "351": {
+    "characterArrivalText": "…LizNoirの神崎莉央です。\n最高のパフォーマンスをお見せ\nします。是非ライブに足を\n運んでみてください。",
+    "managerCallText": "お疲れさま"
+  },
+  "352": {
+    "characterArrivalText": "最近ライブで思うけど、なんとなく\n昔よりファン層が変わって\nきた気がするわ。",
+    "managerCallText": "お疲れさま"
+  },
+  "353": {
+    "characterArrivalText": "ちょっといい？\n愛とこころなんだけど…どうやって\n指導していけばいいと思う？\n教えた経験なんてないから…",
+    "managerCallText": "お疲れさま"
+  },
+  "354": {
+    "characterArrivalText": "昨日の握手会なんだけど…\n握力が強いって言われてしまって。\nそんなつもりじゃなかったから、\nちょっとショックだったわ…",
+    "managerCallText": "お疲れさま"
+  },
+  "355": {
+    "characterArrivalText": "今日のライブは全然駄目だった。\nお客さんとの一体感も作れず、私達\nのパフォーマンスも不完全だった…",
+    "managerCallText": "お疲れさま"
+  },
+  "356": {
+    "characterArrivalText": "グラビアの仕事、NGとは言わない\nけどやっぱり恥ずかしいわね…\nカメラの前でポーズをとるのが\nまだ慣れないわ。",
+    "managerCallText": "お疲れさま"
+  },
+  "357": {
+    "characterArrivalText": "明日の新幹線、何時だったかしら？\n駅構内で買い物がしたいの。",
+    "managerCallText": "お疲れさま"
+  },
+  "358": {
+    "characterArrivalText": "遙子にキャンプに誘われたんだ\nけど、保留にしてて。あれって\n虫がいる所に行くのよね？",
+    "managerCallText": "お疲れさま"
+  },
+  "359": {
+    "characterArrivalText": "明日の空き時間、パンケーキを\n食べたいの。せっかくだから、\n一緒にどう？",
+    "managerCallText": "お疲れさま"
+  },
+  "36": {
+    "characterArrivalText": "ねぇ{user}君。\n何か面白いことはない？　\nもっと色々知りたいんだ。",
+    "managerCallText": "お疲れさま"
+  },
+  "360": {
+    "characterArrivalText": "どうも古くからあるタイプの\n喫茶店が苦手で。昔の事を\n思い出すからって理由なんだけど。",
+    "managerCallText": "お疲れさま"
+  },
+  "361": {
+    "characterArrivalText": "はぁ…こころには手を焼くわ…\n全く…{user}さん\n今夜空いてるかしら？",
+    "managerCallText": "お疲れさま"
+  },
+  "362": {
+    "characterArrivalText": "ファンの子達からかわいいって\n言われることが増えたの…\nどう見たって私の顔、\nかわいい事はないでしょ？",
+    "managerCallText": "お疲れさま"
+  },
+  "363": {
+    "characterArrivalText": "{user}さんは、私達が初めて話した時の事覚えてる？",
+    "managerCallText": "お疲れさま"
+  },
+  "364": {
+    "characterArrivalText": "優とすみれに買ってきた\nイタリアのお土産、\n凄く喜んでくれました。",
+    "managerCallText": "お疲れさま"
+  },
+  "365": {
+    "characterArrivalText": "合同練習の時に\n一緒だったモデルさんから\n連絡がきたんです！",
+    "managerCallText": "お疲れさま"
+  },
+  "366": {
+    "characterArrivalText": "お互いの意見や想いを素直に\nぶつけあったことで、優との\n絆が更に深まった気がします。",
+    "managerCallText": "お疲れさま"
+  },
+  "367": {
+    "characterArrivalText": "どうしたらいいのかしら…\n常に唐辛子スプレーを持ち歩く\nとか…？",
+    "managerCallText": "お疲れさま"
+  },
+  "368": {
+    "characterArrivalText": "あの、私に向かって\n『愛』とか『恋』って\n言ってみて下さい。",
+    "managerCallText": "お疲れさま"
+  },
+  "369": {
+    "characterArrivalText": "先日のオフ以降、\n温泉についていろいろ\n興味が湧いてきたんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "37": {
+    "characterArrivalText": "ちょうどいいところにいた。\n空き時間ができたんだ、\n一緒にゲーセンに行かない？",
+    "managerCallText": "お疲れさま"
+  },
+  "370": {
+    "characterArrivalText": "{user}さん\nいいこと考えました！",
+    "managerCallText": "お疲れさま"
+  },
+  "371": {
+    "characterArrivalText": "マネージャーさん\n水着グラビアが掲載された\n雑誌なんですけど……",
+    "managerCallText": "お疲れさま"
+  },
+  "372": {
+    "characterArrivalText": "{user}さんって\nカップ麺には詳しいですか？\nちょっと、アドバイスがほしくて。",
+    "managerCallText": "お疲れさま"
+  },
+  "373": {
+    "characterArrivalText": "『Sweet Rouge』の略称\nって、ご存知ですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "374": {
+    "characterArrivalText": "最近、お腹周りがちょっと…\n…いえ、そんなはずないわ。\nきっと気のせいよね…",
+    "managerCallText": "お疲れさま"
+  },
+  "375": {
+    "characterArrivalText": "チョコの味、どうでしたか？",
+    "managerCallText": "お疲れさま"
+  },
+  "376": {
+    "characterArrivalText": "{user}さんって\n何歳までサンタクロースを\n信じてましたか？",
+    "managerCallText": "お疲れさま"
+  },
+  "377": {
+    "characterArrivalText": "今度、優とすみれと\n浴衣に合わせた小物を買いに\n行こうと思っているんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "378": {
+    "characterArrivalText": "TRINITYAiLEの天動瑠依です。\nみなさんの心に残るような最高の\nライブが出来るよう頑張ります。",
+    "managerCallText": "お疲れさま"
+  },
+  "379": {
+    "characterArrivalText": "お疲れ様でした。\n今日はお客さんの歓声が\n凄かったですね。",
+    "managerCallText": "お疲れさま"
+  },
+  "38": {
+    "characterArrivalText": "星見プロに来て、僕の気持ちは色々\n変わってきた気がするよ。昔は勝敗\nなんてどうでもよかったのに、\n今はそんなこともないし。",
+    "managerCallText": "お疲れさま"
+  },
+  "380": {
+    "characterArrivalText": "今日は小さなミスを\n沢山出してしまいました…",
+    "managerCallText": "お疲れさま"
+  },
+  "381": {
+    "characterArrivalText": "いつもより会場が大きかった\nですね。その分プレッシャーも\n大きく感じてしまって…",
+    "managerCallText": "お疲れさま"
+  },
+  "382": {
+    "characterArrivalText": "握手会とサイン会お疲れさま\nでした。私もほんのちょっと\nですけど…疲れたみたいです。",
+    "managerCallText": "お疲れさま"
+  },
+  "383": {
+    "characterArrivalText": "ライブに同行してくれて\nありがとうございました\n嬉しかったです。",
+    "managerCallText": "お疲れさま"
+  },
+  "384": {
+    "characterArrivalText": "今日お時間ありますか？\nトリエルのお仕事について\n相談したいんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "385": {
+    "characterArrivalText": "どんどん新しいグループが\nデビューしていますよね。\nいったい何グループ残るのか…",
+    "managerCallText": "お疲れさま"
+  },
+  "386": {
+    "characterArrivalText": "ライブ会場が偶然一緒で、サニピの\nライブを観ました。とてもレベルが\n上がっていて驚きましたよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "387": {
+    "characterArrivalText": "今日のライブはとてもいい出来\nだったと思うんですけど…",
+    "managerCallText": "お疲れさま"
+  },
+  "388": {
+    "characterArrivalText": "{user}さんが\n現場スタッフさんのお手伝いまで\nしてるの見ましたよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "389": {
+    "characterArrivalText": "相談があるのですが…実はすずと\n芽衣にご飯に誘われたんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "39": {
+    "characterArrivalText": "{user}君、僕が昔教えた嫌いなもの、覚えてる？",
+    "managerCallText": "お疲れさま"
+  },
+  "390": {
+    "characterArrivalText": "最近は夜の公園に行くことが\n減ったんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "391": {
+    "characterArrivalText": "優ちゃんが私にくれたアドバイス\n覚えていますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "392": {
+    "characterArrivalText": "スタンプラリーの番組が放映されて\nから、事務所のみんながスタンプ\nラリーに誘ってくれるんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "393": {
+    "characterArrivalText": "一度くらい\n恋をしていればよかったです。",
+    "managerCallText": "お疲れさま"
+  },
+  "394": {
+    "characterArrivalText": "千紗がサニーピースのメンバーと\nどんなことを話しているのか\n観察してみようと思っているんです",
+    "managerCallText": "お疲れさま"
+  },
+  "395": {
+    "characterArrivalText": "{user}さん。\n私、夏が今まで以上に\n大好きになってしまいました。",
+    "managerCallText": "お疲れさま"
+  },
+  "396": {
+    "characterArrivalText": "{user}さんは、\n休日にどんなことを\nしてるんですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "397": {
+    "characterArrivalText": "年末にロケをやった、初詣特番が\n元旦に放送されたので\n千紗と一緒に寮で観ていたんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "398": {
+    "characterArrivalText": "ロケの仕事の後から\n和歌を調べることに\nハマっているんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "399": {
+    "characterArrivalText": "きゃはっ、と言う練習を千紗と一緒\nにしていたら、雫ちゃんが目をまん\n丸にして固まっていました…！",
+    "managerCallText": "お疲れさま"
+  },
+  "4": {
+    "characterArrivalText": "先日、『The Last Chance』の\nMV撮影があったんですが、\n衣装がなかなか入らなくて…\nちょっとした事件でした。",
+    "managerCallText": "お疲れさま"
+  },
+  "40": {
+    "characterArrivalText": "あのニュースのせいで、三枝さんに\n説教されたって言ってたけど、\n許してもらえた？",
+    "managerCallText": "お疲れさま"
+  },
+  "400": {
+    "characterArrivalText": "{user}さん\n最近、何か悩み事などは\nあったりしませんか？",
+    "managerCallText": "お疲れさま"
+  },
+  "401": {
+    "characterArrivalText": "MCについて悩んでいるんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "402": {
+    "characterArrivalText": "私がお手伝いしていた\n学校のクリスマス会が無事に\n終わって肩の荷が下りました。",
+    "managerCallText": "お疲れさま"
+  },
+  "403": {
+    "characterArrivalText": "星見プロダクション所属、月のテン\nペストの白石沙季と申します。\n皆さんのご期待を裏切らない\nパフォーマンスを心がけます。",
+    "managerCallText": "お疲れさま"
+  },
+  "404": {
+    "characterArrivalText": "お疲れ様です。\n今ちょっとよろしいですか？\n千紗の事なんですが…",
+    "managerCallText": "お疲れさま"
+  },
+  "405": {
+    "characterArrivalText": "最近…怖いんです。\n私みたいな人間を応援してくれる\n人が、本当にいるのかなって…",
+    "managerCallText": "お疲れさま"
+  },
+  "406": {
+    "characterArrivalText": "私、予定通りに事が進まないと気持ち悪くて…レッスンなども柔軟に調整していかなければならない事は頭では理解しているのですが…",
+    "managerCallText": "お疲れさま"
+  },
+  "407": {
+    "characterArrivalText": "月ストのメンバーの事を考えていたんです。みんなそれぞれ得意なことがあるのに私は…苦手な事が多くて…どうすれば良いでしょうか？",
+    "managerCallText": "お疲れさま"
+  },
+  "408": {
+    "characterArrivalText": "昨日のライブ、終盤で体力が持たず\nにキレがなくなってしまいました…\nまだまだ努力が足りなかったです。",
+    "managerCallText": "お疲れさま"
+  },
+  "409": {
+    "characterArrivalText": "最近ますます読書が楽しいんです。\nやはり知らない事を知ることは、\n人としても成長している実感が\nあります。",
+    "managerCallText": "お疲れさま"
+  },
+  "41": {
+    "characterArrivalText": "ねぇ、この間の雑誌の\nインタビューのことなんだけど。",
+    "managerCallText": "お疲れさま"
+  },
+  "410": {
+    "characterArrivalText": "すみません、{user}さん。\n今お忙しいですか？ひとつお願いしたいことがあります。",
+    "managerCallText": "お疲れさま"
+  },
+  "411": {
+    "characterArrivalText": "{user}さんは、恋愛リアリティーショーというものを観たことありますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "412": {
+    "characterArrivalText": "私…うるさい…でしょうか…\n薄々は感づいていたのですが、\n私やっぱり小言が多いですよね…？",
+    "managerCallText": "お疲れさま"
+  },
+  "413": {
+    "characterArrivalText": "あのー…非常に申し上げにくいの\nですが…一緒に私の買い物に付き\n合っていただけないでしょうか？",
+    "managerCallText": "お疲れさま"
+  },
+  "414": {
+    "characterArrivalText": "{user}さん…ちょっとお聞きしたいのですが、\n愛って一体なんでしょうか？",
+    "managerCallText": "お疲れさま"
+  },
+  "415": {
+    "characterArrivalText": "あの時の宣材写真、\n覚えていますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "416": {
+    "characterArrivalText": "千紗ちゃんは編み物上手なんですよ\n編んでる時の顔は真剣だけど\nとっても楽しそうなんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "417": {
+    "characterArrivalText": "この前、サニピのみんなと\n食べ放題のお店で\nご飯食べてきたんです！",
+    "managerCallText": "お疲れさま"
+  },
+  "418": {
+    "characterArrivalText": "いざ北海道です！\nまた行くことになった時のために\n今から準備しておかないと！",
+    "managerCallText": "お疲れさま"
+  },
+  "419": {
+    "characterArrivalText": "{user}さん\nこの間のファンの子から\nまたお手紙いただきました！",
+    "managerCallText": "お疲れさま"
+  },
+  "42": {
+    "characterArrivalText": "ねぇ、{user}君。\nこの間の映画の仕事なんだけど。",
+    "managerCallText": "お疲れさま"
+  },
+  "420": {
+    "characterArrivalText": "私が中華まんを食べてるCM\n意外とよく目にしますね…",
+    "managerCallText": "お疲れさま"
+  },
+  "421": {
+    "characterArrivalText": "{user}さん！\n私、この衣装ほんっとに\nお気に入りです！",
+    "managerCallText": "お疲れさま"
+  },
+  "422": {
+    "characterArrivalText": "この間のライブ\n麻奈さんの曲を\nみんなで歌えて嬉しかったです。",
+    "managerCallText": "お疲れさま"
+  },
+  "423": {
+    "characterArrivalText": "{user}さん\n観光において何が一番\n重要だと思いますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "424": {
+    "characterArrivalText": "{user}さん！\nこの前はありがとうございました！",
+    "managerCallText": "お疲れさま"
+  },
+  "425": {
+    "characterArrivalText": "この間、海に行った時\n溺れていた子を私が助けたんですが\n覚えていますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "426": {
+    "characterArrivalText": "ホットドッグさんは\nやっぱり凄かったです！",
+    "managerCallText": "お疲れさま"
+  },
+  "427": {
+    "characterArrivalText": "あなたの心を鷲掴み♪\n赤崎こころ、14歳でーす！",
+    "managerCallText": "お疲れさま"
+  },
+  "428": {
+    "characterArrivalText": "{user}さんは学校に\nお菓子を持って行ったことは\nあったりしますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "429": {
+    "characterArrivalText": "結婚した自分を想像してみたんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "43": {
+    "characterArrivalText": "この前やった、新作ジュエリーの\nモデルの仕事だけどさ、\n完成した広告、見たよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "430": {
+    "characterArrivalText": "自己紹介してみます！　サニーピースの川咲さくらです！　歌もダンスもまだまだですけど…やる気だけはモリモリです！！",
+    "managerCallText": "お疲れさま"
+  },
+  "431": {
+    "characterArrivalText": "明日はリズノワとの\n合同ライブですね！",
+    "managerCallText": "お疲れさま"
+  },
+  "432": {
+    "characterArrivalText": "グランプリの予選でサニピと当たっ\nたグループが、負けたのをきっかけ\nに最近引退しちゃった…って雫ちゃ\nんに聞きました…",
+    "managerCallText": "お疲れさま"
+  },
+  "433": {
+    "characterArrivalText": "トリエルと同じ会場だったので\n久しぶりに生ライブを観たんです！",
+    "managerCallText": "お疲れさま"
+  },
+  "434": {
+    "characterArrivalText": "今日はあんまり盛り上がらなかった\nですね…",
+    "managerCallText": "お疲れさま"
+  },
+  "435": {
+    "characterArrivalText": "今日のライブは開演前に時間があっ\nたので物販を手伝ってたんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "436": {
+    "characterArrivalText": "お疲れ様です。\n今難問を抱えているんです…",
+    "managerCallText": "お疲れさま"
+  },
+  "437": {
+    "characterArrivalText": "このままのレッスンやお仕事で\nサニピって大丈夫なんでしょうか？",
+    "managerCallText": "お疲れさま"
+  },
+  "438": {
+    "characterArrivalText": "お疲れ様です。\n{user}さんは\nどんな小物が好きですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "439": {
+    "characterArrivalText": "お疲れ様です！\n{user}さん\nいいところに現れましたね！",
+    "managerCallText": "お疲れさま"
+  },
+  "44": {
+    "characterArrivalText": "この新衣装、凄く気に入ったよ。\n今、この格好に合う新しいダンスを\n考えてるんだ。",
+    "managerCallText": "お疲れさま"
+  },
+  "440": {
+    "characterArrivalText": "{user}さん\n今ちょうどメッセージを送ろうと\n思ってたんです！",
+    "managerCallText": "お疲れさま"
+  },
+  "441": {
+    "characterArrivalText": "お疲れ様です……\nどうもどうも。",
+    "managerCallText": "お疲れさま"
+  },
+  "442": {
+    "characterArrivalText": "{user}さん\nやってみたかったリストって\n覚えていますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "443": {
+    "characterArrivalText": "昨日、お父さんから\n連絡があったんですけど…",
+    "managerCallText": "お疲れさま"
+  },
+  "444": {
+    "characterArrivalText": "{user}さんは、\n学校の成績はどんな感じ\nだったんですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "445": {
+    "characterArrivalText": "私、こころちゃんのことをもっと\n見習わないといけないなって\n思いました！",
+    "managerCallText": "お疲れさま"
+  },
+  "446": {
+    "characterArrivalText": "{user}さんは\nこれまで、何か大きな決断を\n迫られたことってありますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "447": {
+    "characterArrivalText": "{user}さん！\n優ちゃんから聞きましたか？",
+    "managerCallText": "お疲れさま"
+  },
+  "448": {
+    "characterArrivalText": "うーん、どっちがいいかな。\nやっぱり二人に\n相談してみようかな…？",
+    "managerCallText": "お疲れさま"
+  },
+  "449": {
+    "characterArrivalText": "ドッキリ番組で、私が用水路に\n飛び込むところを、瑠依ちゃんと\n優ちゃんにも観られちゃって。",
+    "managerCallText": "お疲れさま"
+  },
+  "45": {
+    "characterArrivalText": "うーん、困った。\nどうしたものか。",
+    "managerCallText": "お疲れさま"
+  },
+  "450": {
+    "characterArrivalText": "本当に魔法が使えればいいのになぁ\nお兄ちゃんはどう思います？",
+    "managerCallText": "お疲れさま"
+  },
+  "451": {
+    "characterArrivalText": "私の出演した映画の評判って、\nどうでした？　聞きたいような、\n聞きたくないような…",
+    "managerCallText": "お疲れさま"
+  },
+  "452": {
+    "characterArrivalText": "ウォーターパークのレポート\nオンエアされたんですよね？\n評判どうですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "453": {
+    "characterArrivalText": "あの、流れるプールと\nウォータースライダー\nどっちが好きですか…！？",
+    "managerCallText": "お疲れさま"
+  },
+  "454": {
+    "characterArrivalText": "きつねうどん美味しいですよね。\n出汁がしみしみの\nジューシーなお揚げが大好きです！",
+    "managerCallText": "お疲れさま"
+  },
+  "455": {
+    "characterArrivalText": "舞台の原作のアニメ、\n私も小さい頃はよく観てて、\n大好きでした。",
+    "managerCallText": "お疲れさま"
+  },
+  "456": {
+    "characterArrivalText": "{user}さんって、\nいつも寝る時には\nどんなパジャマで寝てるんですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "457": {
+    "characterArrivalText": "ベレー帽って可愛いけど、\n私の服だと…うーん…\nやっぱり服も揃えた方がいいかな。",
+    "managerCallText": "お疲れさま"
+  },
+  "458": {
+    "characterArrivalText": "{user}さん\n上手になりましたか？",
+    "managerCallText": "お疲れさま"
+  },
+  "459": {
+    "characterArrivalText": "TRINITYAiLEの奥山すみれと言\nいます！　初めての方も私達と一緒\nに楽しんでもらえたら嬉しいです！",
+    "managerCallText": "お疲れさま"
+  },
+  "46": {
+    "characterArrivalText": "北海道のライブツアーで\n重大な見落としがあったことに\n気づいたんだ。",
+    "managerCallText": "お疲れさま"
+  },
+  "460": {
+    "characterArrivalText": "ライブのあと、SNSを見たら\nトリエルのことが書いてあった\nんです…",
+    "managerCallText": "お疲れさま"
+  },
+  "461": {
+    "characterArrivalText": "瑠依ちゃんと優ちゃんの\nパフォーマンスって\nすごくないですか…？",
+    "managerCallText": "お疲れさま"
+  },
+  "462": {
+    "characterArrivalText": "今日のライブ、あんまりお客さんに\n来てもらえませんでしたよね…？",
+    "managerCallText": "お疲れさま"
+  },
+  "463": {
+    "characterArrivalText": "実は今日、すっぴんでライブに\n出そうになったんです…えへへ。",
+    "managerCallText": "お疲れさま"
+  },
+  "464": {
+    "characterArrivalText": "ライブ前にサイン会とか物販の\nお手伝いするの凄くいいですね！",
+    "managerCallText": "お疲れさま"
+  },
+  "465": {
+    "characterArrivalText": "千紗さんに誘われて東京のショップ\nでお洋服買っちゃいました。",
+    "managerCallText": "お疲れさま"
+  },
+  "466": {
+    "characterArrivalText": "{user}さんに\nプレゼントがあります！",
+    "managerCallText": "お疲れさま"
+  },
+  "467": {
+    "characterArrivalText": "昨日、子役時代の知り合いに\n会ったんです…",
+    "managerCallText": "お疲れさま"
+  },
+  "468": {
+    "characterArrivalText": "さすがにライブが5日間続くと\nへとへとですね…えへへ。",
+    "managerCallText": "お疲れさま"
+  },
+  "469": {
+    "characterArrivalText": "あの、もう少しメッセージ\n送ってもいいでしょうか…？",
+    "managerCallText": "お疲れさま"
+  },
+  "47": {
+    "characterArrivalText": "ライブで客席に\n水をかける演出があったでしょ？\nあれ、凄く盛り上がったよね",
+    "managerCallText": "お疲れさま"
+  },
+  "470": {
+    "characterArrivalText": "ライブが終わって東京から\n山形に帰る時、やっぱり\nちょっと寂しいです…",
+    "managerCallText": "お疲れさま"
+  },
+  "471": {
+    "characterArrivalText": "前にトリエルのライブの後、駅前ま\nで送ってくれたの覚えていますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "472": {
+    "characterArrivalText": "{user}さんは\n不思議の国のアリスは\n好きですの？",
+    "managerCallText": "お疲れさま"
+  },
+  "473": {
+    "characterArrivalText": "星見プロの中で、ポテトチップスの\nCMの反響が思った以上に\n大きくなっていますの。",
+    "managerCallText": "お疲れさま"
+  },
+  "474": {
+    "characterArrivalText": "聞きましたわよ！\n先日の大御所カメラマンが\nまた私と仕事したいですって？",
+    "managerCallText": "お疲れさま"
+  },
+  "475": {
+    "characterArrivalText": "先日の単独ライブですが\n成宮家の親族にも\n大変好評でした。",
+    "managerCallText": "お疲れさま"
+  },
+  "476": {
+    "characterArrivalText": "うさぎって本当に可愛いですわね。\n木組みの街でうさぎに触れた時は\n感激いたしましたわ！",
+    "managerCallText": "お疲れさま"
+  },
+  "477": {
+    "characterArrivalText": "放課後ティータイムのみなさんが\n学校の文化祭で歌った時の\n映像を見せていただきましたの。",
+    "managerCallText": "お疲れさま"
+  },
+  "478": {
+    "characterArrivalText": "ばぁ、ですのっ！\n{user}さんっ！",
+    "managerCallText": "お疲れさま"
+  },
+  "479": {
+    "characterArrivalText": "マネージャー、スイカ割り\nとはなんでしょう？\n答えてくださいまし。",
+    "managerCallText": "お疲れさま"
+  },
+  "48": {
+    "characterArrivalText": "愛とこころが、僕らがデビューした\n時の映像を見返してたみたいで、\n感想を言われたよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "480": {
+    "characterArrivalText": "時に{user}さん\n私が書いた麻奈様への\nファンレター…読みました？",
+    "managerCallText": "お疲れさま"
+  },
+  "481": {
+    "characterArrivalText": "夜の浜辺での一件、星見プロの\nみなさんには秘密ですわよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "482": {
+    "characterArrivalText": "ユニットバトルで歌う曲を\n芽衣と二人で作詞しましたが\nかなり苦労しましたわ。",
+    "managerCallText": "お疲れさま"
+  },
+  "483": {
+    "characterArrivalText": "そろそろじゃありませんこと？",
+    "managerCallText": "お疲れさま"
+  },
+  "484": {
+    "characterArrivalText": "ウエディングドレスを着て\n愛する人と結婚式を挙げる…\n憧れますわね～。",
+    "managerCallText": "お疲れさま"
+  },
+  "485": {
+    "characterArrivalText": "{user}さん\n聞いてくださいまし！",
+    "managerCallText": "お疲れさま"
+  },
+  "486": {
+    "characterArrivalText": "私こそが「星降る奇跡」の後継者、\n成宮すずですわ！　月のテンペスト\n影のリーダーにしてブレーン、\n参謀にして黒幕ですわ！",
+    "managerCallText": "お疲れさま"
+  },
+  "487": {
+    "characterArrivalText": "あら、{user}さん。昨日のライブ、無様な姿をお見せしてしまいましたわ。ま、まぁ弘法も筆の誤りというものですわ！",
+    "managerCallText": "お疲れさま"
+  },
+  "488": {
+    "characterArrivalText": "{user}さん。\n聞いてくださいまし。昨日の握手会\n半分ぐらいの方が私のことをすず\nにゃんと呼んでいましたの…",
+    "managerCallText": "お疲れさま"
+  },
+  "489": {
+    "characterArrivalText": "はぁ…ここからなんとか\n伸びないものかしら…\n{user}さんはどう思います？",
+    "managerCallText": "お疲れさま"
+  },
+  "49": {
+    "characterArrivalText": "{user}君は\nバレンタインに\n告白されたことはあるの？",
+    "managerCallText": "お疲れさま"
+  },
+  "490": {
+    "characterArrivalText": "ちょっといいかしら。最近私、\n笑い者にされているような気がして\nならないんですの。本当にこのまま\nでいいのかしら。",
+    "managerCallText": "お疲れさま"
+  },
+  "491": {
+    "characterArrivalText": "今度のグラビア撮影…\n本当に私でいいんでしょうか？\n急に自信がなくなってきましたの。",
+    "managerCallText": "お疲れさま"
+  },
+  "492": {
+    "characterArrivalText": "最近の私の活躍、見ていますの？\nライブバトルでは勝利を掴み、\nライブでも注目を浴びていますわ！",
+    "managerCallText": "お疲れさま"
+  },
+  "493": {
+    "characterArrivalText": "お聞きしたいんですが、麻奈様の\n資料映像ってありますの？　以前も\n秘蔵映像を見せていただきましたが\n他にもあれば見たいですわ。",
+    "managerCallText": "お疲れさま"
+  },
+  "494": {
+    "characterArrivalText": "{user}さん！！\n暇そうですわね！\n私を助けなさい！！",
+    "managerCallText": "お疲れさま"
+  },
+  "495": {
+    "characterArrivalText": "く、悔しいですわ…\nこんな事を{user}さんにお願いしなくてはならないんですの…？",
+    "managerCallText": "お疲れさま"
+  },
+  "496": {
+    "characterArrivalText": "やっぱり麻奈様は偉大ですわね…\nあんなにもお客さんを惹きつけて\n離さないのですから…",
+    "managerCallText": "お疲れさま"
+  },
+  "497": {
+    "characterArrivalText": "{user}さん！\nどういう事ですの？\n私ソロでの表紙撮影だというのに\n衣装がないじゃないですの！",
+    "managerCallText": "お疲れさま"
+  },
+  "498": {
+    "characterArrivalText": "そういえば…あの時の椅子…\nどうしているんですの？",
+    "managerCallText": "お疲れさま"
+  },
+  "499": {
+    "characterArrivalText": "{user}さんに質問…\nきび団子って、食べたこと\n…ある？",
+    "managerCallText": "お疲れさま"
+  },
+  "5": {
+    "characterArrivalText": "昨日のライブバトル見ましたよね？\n私のせいで…負けてしまいました…\n悔しいです…！",
+    "managerCallText": "お疲れさま"
+  },
+  "50": {
+    "characterArrivalText": "まさか君が、ばぁばの連絡先を\n知ってたなんてね。\n驚いたよ。いつ聞いたの？",
+    "managerCallText": "お疲れさま"
+  },
+  "500": {
+    "characterArrivalText": "この間の握手会…\n来てくれたファンの中に\n知り合いが紛れ込んでた…",
+    "managerCallText": "お疲れさま"
+  },
+  "501": {
+    "characterArrivalText": "苦労して釣った魚は\n美味しく食べてあげるのが\nお魚さんへの礼儀…",
+    "managerCallText": "お疲れさま"
+  },
+  "502": {
+    "characterArrivalText": "{user}さん\nこの前の釣り、どう、でした？",
+    "managerCallText": "お疲れさま"
+  },
+  "503": {
+    "characterArrivalText": "{user}さんは、\nロップイヤーと普通のうさ耳…\nどっちが好き？",
+    "managerCallText": "お疲れさま"
+  },
+  "504": {
+    "characterArrivalText": "{user}さん、\nお願いしたいことがあって、\n言ってみてもいい？",
+    "managerCallText": "お疲れさま"
+  },
+  "505": {
+    "characterArrivalText": "サニピが五人揃って\n莉央さんに叱られた…",
+    "managerCallText": "お疲れさま"
+  },
+  "506": {
+    "characterArrivalText": "早急に打開策を考えないと…",
+    "managerCallText": "お疲れさま"
+  },
+  "507": {
+    "characterArrivalText": "今度は、久しぶりに……\nデビューライブの映像、\n観返してみた……",
+    "managerCallText": "お疲れさま"
+  },
+  "508": {
+    "characterArrivalText": "風邪で熱が出て\n寮の部屋で寝込んだ後…\n実は大変だった…",
+    "managerCallText": "お疲れさま"
+  },
+  "509": {
+    "characterArrivalText": "{user}さんって\n見た夢のことを起きても\nちゃんと覚えてる…？",
+    "managerCallText": "お疲れさま"
+  },
+  "51": {
+    "characterArrivalText": "僕が出た例のドラマ、\n昨日の夜に放送されてたね。",
+    "managerCallText": "お疲れさま"
+  },
+  "510": {
+    "characterArrivalText": "この間の星見まつり…\n家族が来てくれて、嬉しかった。",
+    "managerCallText": "お疲れさま"
+  },
+  "511": {
+    "characterArrivalText": "限定ユニットを組んでから、\nもっと瑠依さんに、詳しくなった。\n知りたい？",
+    "managerCallText": "お疲れさま"
+  },
+  "512": {
+    "characterArrivalText": "サニーピースの、兵藤雫…です。\nよろしくお願いします。",
+    "managerCallText": "お疲れさま"
+  },
+  "513": {
+    "characterArrivalText": "今日のライブは、自然な笑顔\n作れたはず…",
+    "managerCallText": "お疲れさま"
+  },
+  "514": {
+    "characterArrivalText": "物販のサニピのグッズ\n凄くよかった…ね。",
+    "managerCallText": "お疲れさま"
+  },
+  "515": {
+    "characterArrivalText": "ステージで…私が上手にお話出来な\nい時、失笑が起きる…。場は盛り上\nがってる、けど本当はすごく辛い…",
+    "managerCallText": "お疲れさま"
+  },
+  "516": {
+    "characterArrivalText": "ライブ…リズノワと同じ\nライブハウスだった…",
+    "managerCallText": "お疲れさま"
+  },
+  "517": {
+    "characterArrivalText": "私、まだ体力ないよね…\nライブが終わったら、瀕死。",
+    "managerCallText": "お疲れさま"
+  },
+  "518": {
+    "characterArrivalText": "アイドルしりとり…やる？",
+    "managerCallText": "お疲れさま"
+  },
+  "519": {
+    "characterArrivalText": "来週の、Web番組の生放送…\n辞退…出来ない、よね？",
+    "managerCallText": "お疲れさま"
+  },
+  "52": {
+    "characterArrivalText": "実は学校のことで\n話があるんだけど。",
+    "managerCallText": "お疲れさま"
+  },
+  "520": {
+    "characterArrivalText": "色んなアイドルの、お話したい…",
+    "managerCallText": "お疲れさま"
+  },
+  "521": {
+    "characterArrivalText": "たまには…ご飯に行きたい。",
+    "managerCallText": "お疲れさま"
+  },
+  "522": {
+    "characterArrivalText": "今度、星見に…戻る時があったら\n教えてもらって、いい？",
+    "managerCallText": "お疲れさま"
+  },
+  "523": {
+    "characterArrivalText": "お疲れさま。\n釣りは、好き？",
+    "managerCallText": "お疲れさま"
+  },
+  "524": {
+    "characterArrivalText": "ソロパートで初めて、客席が…\n私の色に、染まった時のこと…\n時々思い出す…",
+    "managerCallText": "お疲れさま"
+  },
+  "525": {
+    "characterArrivalText": "{user}さん、今日も\n現場への付き添いとか打ち合わせ\nよろしくお願いします。",
+    "managerCallText": "お疲れさま"
+  },
+  "526": {
+    "characterArrivalText": "なぁ{user}さん！\n『ここまま』関連のお仕事、\nがんがん営業かけて下さい！",
+    "managerCallText": "お疲れさま"
+  },
+  "527": {
+    "characterArrivalText": "うむむ…むむむ…\n悩ましいわ、どうしよ…\nやっぱり、でも…ううん…",
+    "managerCallText": "お疲れさま"
+  },
+  "528": {
+    "characterArrivalText": "あんな、この間看病して\nくれた件、瑠依ちゃん達に\n説明したんやけど。",
+    "managerCallText": "お疲れさま"
+  },
+  "529": {
+    "characterArrivalText": "あんな、新しいMVなんやけど\n瑠依ちゃん達にどんな構図に\nするか相談したんよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "53": {
+    "characterArrivalText": "{user}さんは\n童話の中で特別好きなものとか\nあったりしますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "530": {
+    "characterArrivalText": "うち{user}さんが\n心配や。なんであんな嘘をすーぐ\n信じてまうんやろか…",
+    "managerCallText": "お疲れさま"
+  },
+  "531": {
+    "characterArrivalText": "ライブにグラビアにバラエティー…\n一口にアイドル言うても\nいろんな仕事があるんよね～。",
+    "managerCallText": "お疲れさま"
+  },
+  "532": {
+    "characterArrivalText": "へぇ～…こんなんもあるんや。\nペンダント、ブレスレット…\n悩ましいなぁ。",
+    "managerCallText": "お疲れさま"
+  },
+  "533": {
+    "characterArrivalText": "{user}さん\nちょっとうちの悩み、\n聞いてくれます？",
+    "managerCallText": "お疲れさま"
+  },
+  "534": {
+    "characterArrivalText": "サニピの沖縄ライブ\n成功して良かったなぁ",
+    "managerCallText": "お疲れさま"
+  },
+  "535": {
+    "characterArrivalText": "瑠依ちゃんとすみれちゃんと\n海で遊んだ時、どうでした？\nナンパなんかされてませんよね？",
+    "managerCallText": "お疲れさま"
+  },
+  "536": {
+    "characterArrivalText": "{user}さん、\nなんや顔が疲れてはるなぁ",
+    "managerCallText": "お疲れさま"
+  },
+  "537": {
+    "characterArrivalText": "今度、渚ちゃんと一緒に\n学園祭お疲れ様会をやる\n約束をしたんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "538": {
+    "characterArrivalText": "うちらが出たバレンタインのCM\n教室でチョコを渡すところが\n青春ぽくてええよね。",
+    "managerCallText": "お疲れさま"
+  },
+  "539": {
+    "characterArrivalText": "これはもう後戻り出来へんなぁ。\n困った、困った。",
+    "managerCallText": "お疲れさま"
+  },
+  "54": {
+    "characterArrivalText": "{user}さん、\n一緒に服を買いに行きませんか？",
+    "managerCallText": "お疲れさま"
+  },
+  "540": {
+    "characterArrivalText": "{user}さん\n確かに仕事してる時\nええ顔してるわ。",
+    "managerCallText": "お疲れさま"
+  },
+  "541": {
+    "characterArrivalText": "TRINITYAiLEの鈴村優です。\nアイドルの頂点目指して\n頑張ってます～よろしくなぁ。",
+    "managerCallText": "お疲れさま"
+  },
+  "542": {
+    "characterArrivalText": "ライブな、全然あかんかった。\nうち、えらいミスしてもうたわぁ。",
+    "managerCallText": "お疲れさま"
+  },
+  "543": {
+    "characterArrivalText": "今日のライブはMCが盛り上がって\nホンマよかったわぁ。",
+    "managerCallText": "お疲れさま"
+  },
+  "544": {
+    "characterArrivalText": "握手会、めっちゃファンの人\n集まってくれたなぁ。",
+    "managerCallText": "お疲れさま"
+  },
+  "545": {
+    "characterArrivalText": "ライブ中、思てることあるんやわ。\n相談してもいい？",
+    "managerCallText": "お疲れさま"
+  },
+  "546": {
+    "characterArrivalText": "今日のうちらのライブどうやった？",
+    "managerCallText": "お疲れさま"
+  },
+  "547": {
+    "characterArrivalText": "{user}さ～ん\n出かけましょ～？",
+    "managerCallText": "お疲れさま"
+  },
+  "548": {
+    "characterArrivalText": "京都おった頃の友達から\n連絡が届いたんよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "549": {
+    "characterArrivalText": "星見プロの子で\n誰が一番気に入ってはるん？",
+    "managerCallText": "お疲れさま"
+  },
+  "55": {
+    "characterArrivalText": "ファンレターをみんなで見てる時に\nサニピのみんなのお願い事って\n何だろうって話になったんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "550": {
+    "characterArrivalText": "{user}さ～ん\n今から行かへん？",
+    "managerCallText": "お疲れさま"
+  },
+  "551": {
+    "characterArrivalText": "MCの練習、付き合ってくれへん？",
+    "managerCallText": "お疲れさま"
+  },
+  "552": {
+    "characterArrivalText": "瑠依ちゃんって可愛くって、オーラ\nがあってパーフェクトアイドル！\nって感じやんな",
+    "managerCallText": "お疲れさま"
+  },
+  "553": {
+    "characterArrivalText": "前にお薦めしてくれたアイドル漫画\nの最新刊が出たらしいで。\nもう読んだん？",
+    "managerCallText": "お疲れさま"
+  },
+  "56": {
+    "characterArrivalText": "衣装を作り直す時、背中を押して\nくれてありがとうございました。\n今度お礼をさせて下さい！",
+    "managerCallText": "お疲れさま"
+  },
+  "57": {
+    "characterArrivalText": "衣装のデザインを考えるために\n必要なことが分かりました。",
+    "managerCallText": "お疲れさま"
+  },
+  "58": {
+    "characterArrivalText": "{user}さんには\nツアー中に何度も\nドッキリを仕掛けていたんですよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "59": {
+    "characterArrivalText": "ドッキリ番組のスタッフさんから\n今度は騙す側をやってみないかって\n誘われたんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "6": {
+    "characterArrivalText": "すみません！\n明日って取材ですよね？",
+    "managerCallText": "お疲れさま"
+  },
+  "60": {
+    "characterArrivalText": "{user}さんは\n不思議な存在に会いたいと\n思ったことはありますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "61": {
+    "characterArrivalText": "役作りにおいて大切なことは何か\nあなたに分かるかしら？",
+    "managerCallText": "お疲れさま"
+  },
+  "62": {
+    "characterArrivalText": "私、今後に向けて沢山食べられる\nようになりたいと思ってます。\nいざ、大食いビーストへの道！",
+    "managerCallText": "お疲れさま"
+  },
+  "63": {
+    "characterArrivalText": "聞いて下さい！　お姉ちゃんに\n千紗はいつまでも子供っぽいわね。\nって言われたんです！",
+    "managerCallText": "お疲れさま"
+  },
+  "64": {
+    "characterArrivalText": "ソロパートを踊ったライブの後\n寮で大変なことが起きたんです！",
+    "managerCallText": "お疲れさま"
+  },
+  "65": {
+    "characterArrivalText": "いいアイデアが浮かびました…！\n聞いてもらってもいいですか？",
+    "managerCallText": "お疲れさま"
+  },
+  "66": {
+    "characterArrivalText": "サニピのみんなと夏祭りに行く時に\n変装した方がいいのかなって\nみんなで話し合ったんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "67": {
+    "characterArrivalText": "サニーピースの白石千紗です。お姉ちゃんも同じ事務所の月のテンペストに在籍しています。二人一緒に応援してくれたら嬉しいです。",
+    "managerCallText": "お疲れさま"
+  },
+  "68": {
+    "characterArrivalText": "お疲れ様です。\n今日のMCは私と雫ちゃんでトーク\nをしてみたんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "69": {
+    "characterArrivalText": "握手会で素敵なファンの方に\nお会いしました！",
+    "managerCallText": "お疲れさま"
+  },
+  "7": {
+    "characterArrivalText": "ふふふーん♪\n{user}さん、お疲れさまです！",
+    "managerCallText": "お疲れさま"
+  },
+  "70": {
+    "characterArrivalText": "ライブ、ダメダメでしたよね…？",
+    "managerCallText": "お疲れさま"
+  },
+  "71": {
+    "characterArrivalText": "今日のライブはレッスン通りに\n踊れてましたよね…！？",
+    "managerCallText": "お疲れさま"
+  },
+  "72": {
+    "characterArrivalText": "{user}さん\n私、もうこれ以上…上手に\nなる気がしないです…\n正直…くじけちゃいそうです。",
+    "managerCallText": "お疲れさま"
+  },
+  "73": {
+    "characterArrivalText": "このあとお時間ありますか…？",
+    "managerCallText": "お疲れさま"
+  },
+  "74": {
+    "characterArrivalText": "レッスン中にお腹鳴ってるの\n聞こえました…",
+    "managerCallText": "お疲れさま"
+  },
+  "75": {
+    "characterArrivalText": "定例イベントが決まりましたよ",
+    "managerCallText": "お疲れさま"
+  },
+  "76": {
+    "characterArrivalText": "{user}さんには\n何でも話せる気がします…",
+    "managerCallText": "お疲れさま"
+  },
+  "77": {
+    "characterArrivalText": "私、大人なことしてみたいです！",
+    "managerCallText": "お疲れさま"
+  },
+  "78": {
+    "characterArrivalText": "実は今、ニットを編んでるんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "79": {
+    "characterArrivalText": "前に作ったシュシュに続いて\n今新作を作っているんです。",
+    "managerCallText": "お疲れさま"
+  },
+  "8": {
+    "characterArrivalText": "ちょっとお聞きしたいのですが\n{user}さんのお部屋、掃除ってされてますか？",
+    "managerCallText": "お疲れさま"
+  },
+  "80": {
+    "characterArrivalText": "この間のライブの公演後に\n養成所の子達が楽屋に来て\n挨拶してくれたのよ。",
+    "managerCallText": "お疲れさま"
+  },
+  "81": {
+    "characterArrivalText": "この間の沖縄のイベントは\n楽しかったけど、\n一つだけ心残りがあるわ。",
+    "managerCallText": "お疲れさま"
+  },
+  "82": {
+    "characterArrivalText": "心が鍛えられた気がするわ",
+    "managerCallText": "お疲れさま"
+  },
+  "83": {
+    "characterArrivalText": "ソロで活動していた頃に\nお世話になったプロデューサーと\nこの間久しぶりにお仕事をしたの。",
+    "managerCallText": "お疲れさま"
+  },
+  "84": {
+    "characterArrivalText": "{user}君さ、\n届いてたジャケット写真は見た？",
+    "managerCallText": "お疲れさま"
+  },
+  "85": {
+    "characterArrivalText": "前に、ミュージカルの劇団が私を\nスカウトしたことがあったでしょ？\nあの時は本当に驚いたわ。",
+    "managerCallText": "お疲れさま"
+  },
+  "86": {
+    "characterArrivalText": "やほー！\n沖縄、楽しかったわよね～！",
+    "managerCallText": "お疲れさま"
+  },
+  "87": {
+    "characterArrivalText": "麻奈ちゃんと一緒に\nお出掛けするの、\n凄く楽しかったのよね。",
+    "managerCallText": "お疲れさま"
+  },
+  "88": {
+    "characterArrivalText": "お土産の温泉まんじゅうを\n置いておくから\nみんなで食べてね。",
+    "managerCallText": "お疲れさま"
+  },
+  "89": {
+    "characterArrivalText": "ねぇねぇ\nちょっと聞いてくれる？",
+    "managerCallText": "お疲れさま"
+  },
+  "9": {
+    "characterArrivalText": "お腹すいた〜\n{user}さんは、もうご飯は食べましたか？",
+    "managerCallText": "お疲れさま"
+  },
+  "90": {
+    "characterArrivalText": "ねえねえ、今度一緒に\nお買い物に行かない？",
+    "managerCallText": "お疲れさま"
+  },
+  "91": {
+    "characterArrivalText": "海沿いの街で買ったお土産…\n失敗だったかもしれないわ。",
+    "managerCallText": "お疲れさま"
+  },
+  "92": {
+    "characterArrivalText": "…ねぇ、ちょっといいかな。\n事務所に、高校の入学案内が沢山\n置いてあったけど、まさか…",
+    "managerCallText": "お疲れさま"
+  },
+  "93": {
+    "characterArrivalText": "ねえ、アイドルが結婚することに\nついてキミはどう思う？",
+    "managerCallText": "お疲れさま"
+  },
+  "94": {
+    "characterArrivalText": "{user}君さ～\nもしかしてネットで\nいろいろ調べてるんじゃない？",
+    "managerCallText": "お疲れさま"
+  },
+  "95": {
+    "characterArrivalText": "サニーピースの佐伯遙子！\nはたちの大学生でーす！\nよろしくね！",
+    "managerCallText": "お疲れさま"
+  },
+  "96": {
+    "characterArrivalText": "ねぇ、今日のライブどうだった！？",
+    "managerCallText": "お疲れさま"
+  },
+  "97": {
+    "characterArrivalText": "遙子、大反省中です。\nあーやっちゃったなぁ…",
+    "managerCallText": "お疲れさま"
+  },
+  "98": {
+    "characterArrivalText": "ねぇ星見の子ってみんな凄くない？",
+    "managerCallText": "お疲れさま"
+  },
+  "99": {
+    "characterArrivalText": "グループっていいわよね～",
+    "managerCallText": "お疲れさま"
+  }
+}

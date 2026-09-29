@@ -1,0 +1,98 @@
+{
+  "exercise-basic-01": {
+    "description": "编成与轨道倾向（歌唱、舞蹈、视觉）相符的偶像吧。",
+    "name": "#1 理解轨道倾向吧"
+  },
+  "exercise-basic-02": {
+    "description": "在有SP技能机会的轨道上编成拥有SP技能的偶像吧。",
+    "name": "#2 发动SP技能吧"
+  },
+  "exercise-basic-03": {
+    "description": "确认轨道上设置的技能机会，编成合适的偶像吧。",
+    "name": "#3 发动A技能吧"
+  },
+  "exercise-basic-04": {
+    "description": "确认轨道信息，编成合适的偶像吧。",
+    "name": "#7 复习目前为止的内容吧"
+  },
+  "exercise-basic-05": {
+    "description": "确认轨道上设置的技能机会，编成合适的偶像吧。",
+    "name": "#4 留意属性吧"
+  },
+  "exercise-basic-06": {
+    "description": "编成符合轨道倾向（歌唱、舞蹈、视觉）的饰品吧。",
+    "name": "#5 装备饰品吧"
+  },
+  "exercise-basic-07": {
+    "description": "编成符合轨道倾向（歌唱、舞蹈、视觉）的照片吧。",
+    "name": "#6 装备照片吧"
+  },
+  "exercise-basic-08": {
+    "description": "确认到场粉丝数，为技能成功率下降的偶像编成合适的照片和饰品吧。",
+    "name": "#14 补充精神吧"
+  },
+  "exercise-basic-09": {
+    "description": "确认编成在轨道上的技能机会与偶像所持有技能的CT，进行合适的编成吧。",
+    "name": "#8 理解CT吧①"
+  },
+  "exercise-basic-10": {
+    "description": "确认编成在轨道上的技能机会与偶像所持有技能的CT，进行合适的编成吧。",
+    "name": "#9 理解CT吧②"
+  },
+  "exercise-basic-11": {
+    "description": "确认编成在轨道上的技能机会与偶像所持有技能的CT，进行合适的编成吧。",
+    "name": "#10 理解CT吧③"
+  },
+  "exercise-basic-12": {
+    "description": "编成能通过SP技能获得更多分数的阵容吧。",
+    "name": "#11 强化SP技能吧"
+  },
+  "exercise-basic-13": {
+    "description": "编成能通过A技能获得更多分数的阵容吧。",
+    "name": "#12 强化A技能吧"
+  },
+  "exercise-basic-14": {
+    "description": "编成拥有对分数获取影响更大的P技能的偶像吧。",
+    "name": "#13 理解P技能的效果吧"
+  },
+  "exercise-basic-15": {
+    "description": "灵活运用偶像、照片、饰品的编成来获得更多分数吧。",
+    "name": "#15 活用技能强化吧"
+  },
+  "exercise-basic-16": {
+    "description": "在演唱会战斗中获取技能机会吧。",
+    "name": "#16 获取技能机会吧①"
+  },
+  "exercise-basic-17": {
+    "description": "在演唱会战斗中获取技能机会吧。",
+    "name": "#17 获取技能机会吧②"
+  },
+  "exercise-basic-18": {
+    "description": "在演唱会战斗中获取技能机会吧。",
+    "name": "#18 抓住技能机会③"
+  },
+  "exercise-basic-19": {
+    "description": "在演唱会战斗中获胜吧。",
+    "name": "#19 在演唱会战斗中获胜吧"
+  },
+  "exercise-basic-20": {
+    "description": "满足演唱会奖励的发动条件，获得大量分数吧。",
+    "name": "#20 活用演唱会奖励①"
+  },
+  "exercise-basic-21": {
+    "description": "在演唱会战斗中满足演唱会奖励的发动条件，获得大量分数吧。",
+    "name": "#21 活用演唱会奖励②"
+  },
+  "exercise-basic-22": {
+    "description": "提升暴击和暴击分数，获得更多分数吧。",
+    "name": "#22 将暴击最大化吧"
+  },
+  "exercise-basic-23": {
+    "description": "利用减少CT的演唱会技能来获得技能机会吧。",
+    "name": "#23 使用CT减少技能吧"
+  },
+  "exercise-basic-24": {
+    "description": "获得不低于目标分数的分数吧。",
+    "name": "#24 发挥研修的成果吧"
+  }
+}

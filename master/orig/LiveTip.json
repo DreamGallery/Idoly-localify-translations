@@ -1,0 +1,62 @@
+{
+  "live_tip-audience_shortage-01": {
+    "description": "観客数が少ないようです。お仕事でアイドルの\nファン数、コアファン率を上昇させましょう。"
+  },
+  "live_tip-audience_shortage-02": {
+    "description": "観客数が少ないようです。観客数が多いほどスコアに\nボーナスがつき、またスキルをミスする確率が低下します。"
+  },
+  "live_tip-deck_unbalance-01": {
+    "description": "スコアラータイプが多すぎるようです。SPスキル位置以外\nにはサポーター、バッファーをバランス良く配置しましょう。"
+  },
+  "live_tip-deck_unbalance-02": {
+    "description": "スコアラータイプが多すぎるようです。外側にはサポーター\nタイプ、その他の位置にはバッファータイプがおすすめです。"
+  },
+  "live_tip-in_cool_time-01": {
+    "description": "Aスキル発動が多い位置でうまく発動できていないようです。\nAスキルのCT(クールタイム)が短いアイドルを配置しましょう。"
+  },
+  "live_tip-in_cool_time-02": {
+    "description": "Aスキル発動が多い位置でうまく発動できていないようです。\nAスキルを2つ持ったアイドルがいれば配置してみましょう。"
+  },
+  "live_tip-in_cool_time-03": {
+    "description": "Aスキル未発動だとコンボが途切れてスコアが伸びません。\nレーン情報とAスキルのCTを確認して適切に配置しましょう。"
+  },
+  "live_tip-level_shortage-01": {
+    "description": "ライブ難易度に対してアイドルのレベルが足りないようです。\n「アイドル強化」でアイドルのレベルアップをしましょう。"
+  },
+  "live_tip-low_activating_rate-01": {
+    "description": "スキルチャンスを相手に多く取られているようです。レーン\nごとにパラメータが高いアイドルがスキル発動権利を得ます。"
+  },
+  "live_tip-low_activating_rate-02": {
+    "description": "スキルチャンスを相手に多く取られているようです。\nチャンスを奪うためにスタミナ回復が有効なことがあります。"
+  },
+  "live_tip-miss-01": {
+    "description": "スキルをミスしてしまっているようです。\nサブアクセサリやフォトでメンタルを補いましょう。"
+  },
+  "live_tip-miss-02": {
+    "description": "スキルをミスしてしまっているようです。\n観客数、メンタルを増やしてスキルのミスを減らしましょう。"
+  },
+  "live_tip-not_possessed-01": {
+    "description": "SPスキルが発動できていません。\nレーン情報の「SP」位置にはスコアラーを配置しましょう。"
+  },
+  "live_tip-not_possessed-02": {
+    "description": "SPスキルが発動できていません。レーン情報の「SP」の\n位置にはSPスキルを所持したアイドルを配置しましょう。"
+  },
+  "live_tip-other-01": {
+    "description": "レーンの色はボーカル、ダンス、ビジュアルを示しています。\nアクセサリ、フォトも対応する色に合わせて編成しましょう。"
+  },
+  "live_tip-other-02": {
+    "description": "ライブ難易度に対してアイドルのレベルが足りないようです。\nレッスンピースが足りない時はマーケットで購入しましょう。"
+  },
+  "live_tip-skill_heavy_weight-01": {
+    "description": "Aスキルで獲得するスコアにボーナスがつくライブです。\n「Aスキルスコアアップ」でAスキルの効果を高めましょう。"
+  },
+  "live_tip-skill_heavy_weight-02": {
+    "description": "Aスキルで獲得するスコアにボーナスがつくライブです。\nAスキルの直前に強化効果が発動するよう配置しましょう。"
+  },
+  "live_tip-stamina_shortage-01": {
+    "description": "スタミナ不足でスキルが発動できていないようです。\nサブアクセサリやフォトでスタミナを補いましょう。"
+  },
+  "live_tip-stamina_shortage-02": {
+    "description": "スタミナ不足でスキルが発動できていないようです。\nスタミナ回復スキルを所持したアイドルを編成しましょう。"
+  }
+}

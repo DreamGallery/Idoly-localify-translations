@@ -1,0 +1,256 @@
+{
+  "ex-st-part-limited-01-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "东京篇1章"
+  },
+  "ex-st-part-limited-02-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "东京篇2章"
+  },
+  "ex-st-part-limited-03-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "BIG4篇1章"
+  },
+  "ex-st-part-limited-04-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "星见篇第1章"
+  },
+  "ex-st-part-limited-05-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "星见篇2章"
+  },
+  "ex-st-part-limited-06-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "星见篇3章"
+  },
+  "ex-st-part-limited-07-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "星见篇4章"
+  },
+  "ex-st-part-limited-09-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "LizNoir1章"
+  },
+  "ex-st-part-limited-10-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "TRINITYAiLE1章"
+  },
+  "ex-st-part-limited-11-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "长濑麻奈1章"
+  },
+  "ex-st-part-limited-12-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "LizNoir2章"
+  },
+  "ex-st-part-limited-13-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "IIIX1章"
+  },
+  "ex-st-part-limited-14-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "星空篇1章"
+  },
+  "ex-st-part-limited-15-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "LizNoir3章"
+  },
+  "ex-st-part-limited-23-0528-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "指引的号角"
+  },
+  "ex-st-part-limited-23-0528-02": {
+    "description": "请选择要播放的剧情。",
+    "name": "热衷☆突发夏日"
+  },
+  "ex-st-part-limited-23-0604-03": {
+    "description": "请选择要播放的剧情。",
+    "name": "连接命运的流星轨迹"
+  },
+  "ex-st-part-limited-23-0604-04": {
+    "description": "请选择要播放的剧情。",
+    "name": "舌战开幕！赞美之汤"
+  },
+  "ex-st-part-limited-23-0611-05": {
+    "description": "请选择要播放的剧情。",
+    "name": "与你祈愿的月灯庆典"
+  },
+  "ex-st-part-limited-23-0611-06": {
+    "description": "请选择要播放的剧情。",
+    "name": "守护！纯洁之吻～imposition of love～"
+  },
+  "ex-st-part-limited-23-0618-07": {
+    "description": "请选择要播放的剧情。",
+    "name": "音色辉石编织的未来"
+  },
+  "ex-story-anniversary-01-23-0624": {
+    "description": "将前往特别内容。"
+  },
+  "ex-story-anniversary-01-24-0624": {
+    "description": "将前往特别内容。",
+    "name": "星见Production共享文件夹"
+  },
+  "ex-story-part-birthday-01-ai-0209": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-aoi-0619": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-chs-1122": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-hrk-0103": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-kan-0410": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-kkr-1206": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-kor-0611": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-ktn-1225": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-mei-0707": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-mhk-0125": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-mna-1009": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-ngs-0803": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-rei-0308": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-rio-0828": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-rui-1111": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-ski-0926": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-skr-0403": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-smr-0505": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-suz-0913": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-szk-1015": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-birthday-01-yu-0227": {
+    "description": "请选择要播放的剧情。"
+  },
+  "ex-story-part-special-01-21-1224-half-aniv": {
+    "description": "请选择要播放的剧情。",
+    "name": "半周年"
+  },
+  "ex-story-part-special-01-22-0103-newyear": {
+    "description": "请选择要播放的剧情。",
+    "name": "新年"
+  },
+  "ex-story-part-special-01-22-0401-april": {
+    "description": "请选择要播放的剧情。",
+    "name": "IDOLY PRIDE春季大赛"
+  },
+  "ex-story-part-special-01-22-0624-aniv": {
+    "description": "请选择要播放的剧情。",
+    "name": "1周年"
+  },
+  "ex-story-part-special-01-23-0101-newyear": {
+    "description": "请选择要播放的剧情。",
+    "name": "新年"
+  },
+  "ex-story-part-special-01-23-0401-april": {
+    "description": "请选择要播放的剧情。",
+    "name": "里美偶像出道！"
+  },
+  "ex-story-part-special-01-24-0103-newyear": {
+    "description": "请选择要播放的剧情。",
+    "name": "新年"
+  },
+  "ex-story-part-special-01-24-0401-april": {
+    "description": "请选择要播放的剧情。",
+    "name": "鱼鱼桑就任新社长！"
+  },
+  "ex-story-part-special-01-24-0624-aniv": {
+    "description": "请选择要播放的剧情。",
+    "name": "3周年"
+  },
+  "ex-story-part-special-01-25-0104-newyear": {
+    "description": "请选择要播放的剧情。",
+    "name": "新年"
+  },
+  "ex-story-part-special-01-25-0401-april": {
+    "description": "请选择要播放的剧情。",
+    "name": "星见Production与时空间隙 兴奋逃脱"
+  },
+  "ex-story-part-special-01-25-0401-april-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "星见Production与时空间隙 兴奋逃脱"
+  },
+  "ex-story-part-special-01-25-0624-aniv": {
+    "description": "请选择要播放的剧情。",
+    "name": "4周年"
+  },
+  "ex-story-part-special-01-25-0701-3X": {
+    "description": "请选择要播放的剧情。",
+    "name": "贯彻绝对胜利～The strongest proof～前篇"
+  },
+  "ex-story-part-special-01-25-0701-3X-permanent": {
+    "description": "请选择要播放的剧情。",
+    "name": "贯彻绝对胜利～The strongest proof～前篇"
+  },
+  "ex-story-part-special-01-25-0723-3X": {
+    "description": "请选择要播放的剧情。",
+    "name": "贯彻绝对胜利～The strongest proof～后篇"
+  },
+  "ex-story-part-special-01-25-0723-3X-permanent": {
+    "description": "请选择要播放的剧情。",
+    "name": "贯彻绝对胜利～The strongest proof～后篇"
+  },
+  "ex-story-part-special-01-26-0104-newyear": {
+    "description": "请选择要播放的剧情。",
+    "name": "新年"
+  },
+  "ex-story-part-special-01-26-0401-april": {
+    "description": "请选择要播放的剧情。",
+    "name": "鱼儿☆HEAVEN"
+  },
+  "ex-story-part-special-01-26-0401-april-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "鱼儿☆HEAVEN"
+  },
+  "ex-story-part-special-01-26-0624-aniv": {
+    "description": "请选择要播放的剧情。",
+    "name": "5周年"
+  },
+  "ex-story-part-special-01-birthday-trip-2024-01": {
+    "description": "请选择要播放的剧情。",
+    "name": "生日剧情 冲绳旅行篇"
+  },
+  "ex-story-part-special-01-birthday-trip-2024-02": {
+    "description": "请选择要播放的剧情。",
+    "name": "生日剧情 京都旅行篇"
+  },
+  "ex-story-part-special-01-birthday-trip-2024-03": {
+    "description": "请选择要播放的剧情。",
+    "name": "生日剧情 山梨旅行篇"
+  },
+  "ex-story-part-special-01-birthday-trip-2024-04": {
+    "description": "请选择要播放的剧情。",
+    "name": "生日剧情 北海道旅行篇"
+  }
+}

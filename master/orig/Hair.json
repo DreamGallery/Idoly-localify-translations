@@ -1,0 +1,3404 @@
+{
+  "hair-ai-anml-00": {
+    "name": "スイートレディラビット"
+  },
+  "hair-ai-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-ai-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-ai-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-ai-arab-00": {
+    "name": "ジャンピングオールライト"
+  },
+  "hair-ai-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-ai-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-ai-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-ai-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-ai-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-ai-chna-01": {
+    "name": "舞踊闘衣"
+  },
+  "hair-ai-fest-02": {
+    "name": "サウンドオブライフ"
+  },
+  "hair-ai-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-ai-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-ai-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-ai-hair-10": {
+    "name": "ツインテリング"
+  },
+  "hair-ai-hair-11": {
+    "name": "三つ編みツノヘア"
+  },
+  "hair-ai-hair-20": {
+    "name": "ウルフカット"
+  },
+  "hair-ai-hair-21": {
+    "name": "スタイリッシュヘアピン"
+  },
+  "hair-ai-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-ai-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-ai-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-ai-idol-00": {
+    "name": "ノーブルリリーズ"
+  },
+  "hair-ai-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-ai-idol-03": {
+    "name": "ビートアズワン"
+  },
+  "hair-ai-idol-04": {
+    "name": "情熱だけで生きてみろ"
+  },
+  "hair-ai-idol-05": {
+    "name": "レガリスリリーズ"
+  },
+  "hair-ai-kait-00": {
+    "name": "ザ・ラストチャンス"
+  },
+  "hair-ai-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-ai-link-01": {
+    "name": "リエルフレ"
+  },
+  "hair-ai-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-ai-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-ai-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-ai-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-ai-mizg-01": {
+    "name": "ブルースカイサマー"
+  },
+  "hair-ai-mizg-02": {
+    "name": "ダンスアンドダイブ"
+  },
+  "hair-ai-newy-00": {
+    "name": "最高優美ロンリネス"
+  },
+  "hair-ai-rock-00": {
+    "name": "リリーダンサブル"
+  },
+  "hair-ai-schl-00": {
+    "name": "月出高等学校"
+  },
+  "hair-ai-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-ai-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-ai-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-ai-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-ai-tact-00": {
+    "name": "ミリタリー＆タクティカル"
+  },
+  "hair-ai-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-ai-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-ai-vlnt-00": {
+    "name": "ダークネスシンパサイザー"
+  },
+  "hair-ai-wedd-00": {
+    "name": "パワフル・ブライド"
+  },
+  "hair-ai-yukt-00": {
+    "name": "カルプ"
+  },
+  "hair-aoi-anml-00": {
+    "name": "スイートレディキャット"
+  },
+  "hair-aoi-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-aoi-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-aoi-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-aoi-arab-00": {
+    "name": "ジャンピングオールライト"
+  },
+  "hair-aoi-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-aoi-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-aoi-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-aoi-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-aoi-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-aoi-chna-01": {
+    "name": "舞踊闘衣"
+  },
+  "hair-aoi-circ-00": {
+    "name": "レーシングレゾナンス"
+  },
+  "hair-aoi-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "hair-aoi-fest-02": {
+    "name": "サウンドオブライフ"
+  },
+  "hair-aoi-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-aoi-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-aoi-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-aoi-hair-00": {
+    "name": "ルーズサイドテール"
+  },
+  "hair-aoi-hair-10": {
+    "name": "ロングウルフ"
+  },
+  "hair-aoi-hair-11": {
+    "name": "ボブポニーテール"
+  },
+  "hair-aoi-hair-20": {
+    "name": "ゆるふわウェーブ"
+  },
+  "hair-aoi-hair-21": {
+    "name": "ローズミニキャップ"
+  },
+  "hair-aoi-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-aoi-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-aoi-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-aoi-idol-00": {
+    "name": "ノーブルリリーズ"
+  },
+  "hair-aoi-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-aoi-idol-03": {
+    "name": "ビートアズワン"
+  },
+  "hair-aoi-idol-04": {
+    "name": "情熱だけで生きてみろ"
+  },
+  "hair-aoi-idol-05": {
+    "name": "レガリスリリーズ"
+  },
+  "hair-aoi-kait-00": {
+    "name": "ザ・ラストチャンス"
+  },
+  "hair-aoi-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-aoi-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-aoi-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-aoi-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-aoi-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-aoi-mizg-01": {
+    "name": "ブルースカイサマー"
+  },
+  "hair-aoi-mizg-02": {
+    "name": "ダンスアンドダイブ"
+  },
+  "hair-aoi-newy-00": {
+    "name": "最高優美ロンリネス"
+  },
+  "hair-aoi-past-00": {
+    "name": "クラシカルリリー"
+  },
+  "hair-aoi-schl-00": {
+    "name": "月出高等学校"
+  },
+  "hair-aoi-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-aoi-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-aoi-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-aoi-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-aoi-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-aoi-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-aoi-vlnt-00": {
+    "name": "ダークネスシンパサイザー"
+  },
+  "hair-aoi-wdnc-00": {
+    "name": "コメティックダンサー"
+  },
+  "hair-aoi-wedd-00": {
+    "name": "エレガント・ブライド"
+  },
+  "hair-aoi-yukt-00": {
+    "name": "カルプ"
+  },
+  "hair-cca-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-cca-goch-01": {
+    "name": "ホーリー・ラビット"
+  },
+  "hair-cca-goch-02": {
+    "name": "パジャマ"
+  },
+  "hair-chk-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-chk-sush-01": {
+    "name": "ブリリアントクリスマス"
+  },
+  "hair-chk-sush-02": {
+    "name": "浦の星女学院（冬服）"
+  },
+  "hair-chk-sush-03": {
+    "name": "浦の星女学院（夏服）"
+  },
+  "hair-chn-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-chn-goch-01": {
+    "name": "ホーリー・ラビット"
+  },
+  "hair-chn-goch-02": {
+    "name": "パジャマ"
+  },
+  "hair-chn-hair-00": {
+    "name": "お団子ヘア"
+  },
+  "hair-chs-alic-00": {
+    "name": "ラヴズアリス"
+  },
+  "hair-chs-anml-00": {
+    "name": "スイートレディラビット"
+  },
+  "hair-chs-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-chs-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-chs-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-chs-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-chs-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-chs-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-chs-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-chs-casl-03": {
+    "name": "ニコイチスタイル"
+  },
+  "hair-chs-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-chs-chia-00": {
+    "name": "レッツゴーピース"
+  },
+  "hair-chs-chsk-00": {
+    "name": "つながる心Binary"
+  },
+  "hair-chs-flow-00": {
+    "name": "エーデルハイドランジア"
+  },
+  "hair-chs-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-chs-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-chs-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-chs-goch-01": {
+    "name": "ホーリー・ラビット"
+  },
+  "hair-chs-hair-10": {
+    "name": "ハーフツイン"
+  },
+  "hair-chs-hair-11": {
+    "name": "三つ編みツインテール"
+  },
+  "hair-chs-hair-20": {
+    "name": "ツインお団子"
+  },
+  "hair-chs-hair-21": {
+    "name": "ラベンダーリボン"
+  },
+  "hair-chs-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-chs-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-chs-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-chs-hruh-00": {
+    "name": "県立北高"
+  },
+  "hair-chs-idol-00": {
+    "name": "アセンブルハーモニー"
+  },
+  "hair-chs-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "hair-chs-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-chs-idol-03": {
+    "name": "ウィズ・ザ・サンシャイン"
+  },
+  "hair-chs-idol-04": {
+    "name": "サクセスエブリウェア"
+  },
+  "hair-chs-idol-05": {
+    "name": "コネクションズハーモニー"
+  },
+  "hair-chs-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-chs-link-00": {
+    "name": "リエステラ"
+  },
+  "hair-chs-link-01": {
+    "name": "リエルフレ"
+  },
+  "hair-chs-maid-00": {
+    "name": "おもてなしカフェテリア"
+  },
+  "hair-chs-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-chs-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-chs-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-chs-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-chs-mizg-01": {
+    "name": "サマーホリデイ"
+  },
+  "hair-chs-mizg-03": {
+    "name": "サニーアイランド"
+  },
+  "hair-chs-mizg-04": {
+    "name": "サンライトセンセーション"
+  },
+  "hair-chs-newy-00": {
+    "name": "全力振袖・椿"
+  },
+  "hair-chs-pajm-00": {
+    "name": "パジャマパーティー"
+  },
+  "hair-chs-rock-00": {
+    "name": "サニーダンサブル"
+  },
+  "hair-chs-schl-00": {
+    "name": "光ヶ崎高等学校"
+  },
+  "hair-chs-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-chs-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-chs-seik-00": {
+    "name": "エンジェルブレッシング"
+  },
+  "hair-chs-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-chs-sucu-00": {
+    "name": "ミッドナイトサキュバス"
+  },
+  "hair-chs-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-chs-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-chs-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-chs-vlnt-00": {
+    "name": "ラブリーバレンタイン"
+  },
+  "hair-chs-yukt-00": {
+    "name": "ポワソンルージュ"
+  },
+  "hair-cinnamo-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-gyo-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-haruhi-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-hrk-adlt-00": {
+    "name": "サンセットエレガンス"
+  },
+  "hair-hrk-anml-00": {
+    "name": "スイートレディラビット"
+  },
+  "hair-hrk-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-hrk-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-hrk-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-hrk-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-hrk-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-hrk-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-hrk-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-hrk-casl-03": {
+    "name": "ニコイチスタイル"
+  },
+  "hair-hrk-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-hrk-chia-00": {
+    "name": "レッツゴーピース"
+  },
+  "hair-hrk-chna-00": {
+    "name": "艶麗華衣"
+  },
+  "hair-hrk-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-hrk-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-hrk-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-hrk-hair-00": {
+    "name": "三つ編みカチューシャ"
+  },
+  "hair-hrk-hair-10": {
+    "name": "編み込みツインテ"
+  },
+  "hair-hrk-hair-11": {
+    "name": "ゆるふわロング"
+  },
+  "hair-hrk-hair-20": {
+    "name": "ナチュラルショートボブ"
+  },
+  "hair-hrk-hair-21": {
+    "name": "椿の髪飾り"
+  },
+  "hair-hrk-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-hrk-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-hrk-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-hrk-idol-00": {
+    "name": "アセンブルハーモニー"
+  },
+  "hair-hrk-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "hair-hrk-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-hrk-idol-03": {
+    "name": "ウィズ・ザ・サンシャイン"
+  },
+  "hair-hrk-idol-04": {
+    "name": "サクセスエブリウェア"
+  },
+  "hair-hrk-idol-05": {
+    "name": "コネクションズハーモニー"
+  },
+  "hair-hrk-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-hrk-link-01": {
+    "name": "リエルフレ"
+  },
+  "hair-hrk-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-hrk-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-hrk-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-hrk-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-hrk-mizg-01": {
+    "name": "サマーホリデイ"
+  },
+  "hair-hrk-mizg-03": {
+    "name": "サニーアイランド"
+  },
+  "hair-hrk-mnab-00": {
+    "name": "シングウィズユー"
+  },
+  "hair-hrk-msic-00": {
+    "name": "ウィズユアソングス"
+  },
+  "hair-hrk-newy-00": {
+    "name": "全力振袖・菊"
+  },
+  "hair-hrk-onep-00": {
+    "name": "グレイスフリージア"
+  },
+  "hair-hrk-pair-00": {
+    "name": "リズムデニム"
+  },
+  "hair-hrk-pajm-00": {
+    "name": "ホリデイウェアー"
+  },
+  "hair-hrk-sail-00": {
+    "name": "ひだまりセーラー"
+  },
+  "hair-hrk-schl-00": {
+    "name": "星見高等学校"
+  },
+  "hair-hrk-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-hrk-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-hrk-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-hrk-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-hrk-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-hrk-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-hrk-vlnt-00": {
+    "name": "ラブリーバレンタイン"
+  },
+  "hair-hrk-wedd-00": {
+    "name": "エターナル・ブライド"
+  },
+  "hair-hrk-xmas-00": {
+    "name": "ホワイト・ロマンス"
+  },
+  "hair-itsuki-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-kan-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-kan-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-kan-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-kan-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-kan-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-kan-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-kan-chia-00": {
+    "name": "チアフルウェア"
+  },
+  "hair-kan-chna-00": {
+    "name": "爆笑華衣"
+  },
+  "hair-kan-fest-02": {
+    "name": "ビタースイートエコー"
+  },
+  "hair-kan-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-kan-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-kan-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-kan-hair-00": {
+    "name": "三つ編みツインテール"
+  },
+  "hair-kan-hair-10": {
+    "name": "ネコミミヘア"
+  },
+  "hair-kan-hair-11": {
+    "name": "ツインテール"
+  },
+  "hair-kan-hair-20": {
+    "name": "ハーフアップロング"
+  },
+  "hair-kan-hair-21": {
+    "name": "ダイヤティアラ"
+  },
+  "hair-kan-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-kan-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-kan-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-kan-idol-00": {
+    "name": "レフォルムアロー"
+  },
+  "hair-kan-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-kan-idol-03": {
+    "name": "レイアヴァンセ"
+  },
+  "hair-kan-idol-05": {
+    "name": "レオーネアロー"
+  },
+  "hair-kan-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-kan-link-00": {
+    "name": "リエステラ"
+  },
+  "hair-kan-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-kan-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-kan-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-kan-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-kan-mizg-01": {
+    "name": "ビクトリービーチ"
+  },
+  "hair-kan-newy-00": {
+    "name": "インサイドアウト"
+  },
+  "hair-kan-pair-00": {
+    "name": "天使と悪魔"
+  },
+  "hair-kan-poli-00": {
+    "name": "ヘブンズジャスティス"
+  },
+  "hair-kan-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-kan-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-kan-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-kan-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-kan-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-kan-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-kan-xmas-00": {
+    "name": "ヴェイユ・ド・ノエル"
+  },
+  "hair-kitty-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-kkr-anml-00": {
+    "name": "スイートレディベア"
+  },
+  "hair-kkr-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-kkr-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-kkr-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-kkr-arab-00": {
+    "name": "ジャンピングオールライト"
+  },
+  "hair-kkr-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-kkr-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-kkr-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-kkr-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-kkr-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-kkr-chna-01": {
+    "name": "舞踊闘衣"
+  },
+  "hair-kkr-fest-02": {
+    "name": "サウンドオブライフ"
+  },
+  "hair-kkr-flow-00": {
+    "name": "エーデルハイドランジア"
+  },
+  "hair-kkr-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-kkr-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-kkr-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-kkr-goch-01": {
+    "name": "ホーリー・ラビット"
+  },
+  "hair-kkr-hair-10": {
+    "name": "リボンポニーテール"
+  },
+  "hair-kkr-hair-11": {
+    "name": "ハーフツイン"
+  },
+  "hair-kkr-hair-20": {
+    "name": "ハートツインテール"
+  },
+  "hair-kkr-hair-21": {
+    "name": "ゆるふわリボン"
+  },
+  "hair-kkr-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-kkr-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-kkr-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-kkr-idol-00": {
+    "name": "ノーブルリリーズ"
+  },
+  "hair-kkr-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-kkr-idol-03": {
+    "name": "ビートアズワン"
+  },
+  "hair-kkr-idol-04": {
+    "name": "情熱だけで生きてみろ"
+  },
+  "hair-kkr-idol-05": {
+    "name": "レガリスリリーズ"
+  },
+  "hair-kkr-kait-00": {
+    "name": "ザ・ラストチャンス"
+  },
+  "hair-kkr-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-kkr-link-00": {
+    "name": "リエステラ"
+  },
+  "hair-kkr-link-01": {
+    "name": "リエルフレ"
+  },
+  "hair-kkr-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-kkr-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-kkr-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-kkr-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-kkr-mizg-01": {
+    "name": "ブルースカイサマー"
+  },
+  "hair-kkr-mizg-02": {
+    "name": "ダンスアンドダイブ"
+  },
+  "hair-kkr-newy-00": {
+    "name": "最高優美ロンリネス"
+  },
+  "hair-kkr-pair-00": {
+    "name": "天使と悪魔"
+  },
+  "hair-kkr-pajm-00": {
+    "name": "パジャマパーティー"
+  },
+  "hair-kkr-schl-00": {
+    "name": "麗葉女学院中等部"
+  },
+  "hair-kkr-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-kkr-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-kkr-seik-00": {
+    "name": "エンジェルブレッシング"
+  },
+  "hair-kkr-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-kkr-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-kkr-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-kkr-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-kkr-vlnt-00": {
+    "name": "ダークネスシンパサイザー"
+  },
+  "hair-kkr-yukt-00": {
+    "name": "カルプ"
+  },
+  "hair-koh-casl-00": {
+    "name": "スーツ"
+  },
+  "hair-konazusa-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-konmio-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-konmugi-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-konritsu-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-konyui-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-kor-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-kor-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-kor-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-kor-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-kor-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-kor-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-kor-fest-02": {
+    "name": "ビタースイートエコー"
+  },
+  "hair-kor-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-kor-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-kor-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-kor-hair-00": {
+    "name": "ウェーブツインテール"
+  },
+  "hair-kor-hair-10": {
+    "name": "ウェーブハイポニーテール"
+  },
+  "hair-kor-hair-11": {
+    "name": "ショートボブ"
+  },
+  "hair-kor-hair-20": {
+    "name": "編み込みウルフ"
+  },
+  "hair-kor-hair-21": {
+    "name": "ヘアロゼット"
+  },
+  "hair-kor-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-kor-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-kor-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-kor-hair-99": {
+    "name": "ウェーブツインテール"
+  },
+  "hair-kor-idol-00": {
+    "name": "レフォルムアロー"
+  },
+  "hair-kor-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-kor-idol-03": {
+    "name": "レイアヴァンセ"
+  },
+  "hair-kor-idol-05": {
+    "name": "レオーネアロー"
+  },
+  "hair-kor-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-kor-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-kor-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-kor-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-kor-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-kor-mizg-01": {
+    "name": "ビクトリービーチ"
+  },
+  "hair-kor-newy-00": {
+    "name": "インサイドアウト"
+  },
+  "hair-kor-nurs-00": {
+    "name": "四天王ネクロ"
+  },
+  "hair-kor-poli-00": {
+    "name": "ヘブンズジャスティス"
+  },
+  "hair-kor-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-kor-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-kor-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-kor-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-kor-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-kor-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-kor-xmas-00": {
+    "name": "ヴェイユ・ド・ノエル"
+  },
+  "hair-ktn-anml-00": {
+    "name": "スイートレディキャット"
+  },
+  "hair-ktn-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-ktn-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-ktn-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-ktn-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-ktn-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-ktn-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-ktn-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-ktn-circ-00": {
+    "name": "レーシングレゾナンス"
+  },
+  "hair-ktn-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "hair-ktn-fest-01": {
+    "name": "ジェムストーンズ"
+  },
+  "hair-ktn-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-ktn-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-ktn-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-ktn-hair-00": {
+    "name": "メモリーズヘア"
+  },
+  "hair-ktn-hair-01": {
+    "name": "ローツインテール"
+  },
+  "hair-ktn-hair-10": {
+    "name": "編み込みウェーブ"
+  },
+  "hair-ktn-hair-11": {
+    "name": "サイドポニー"
+  },
+  "hair-ktn-hair-20": {
+    "name": "編み込みショート"
+  },
+  "hair-ktn-hair-21": {
+    "name": "パールピン"
+  },
+  "hair-ktn-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-ktn-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-ktn-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-ktn-idol-00": {
+    "name": "クイーンオブザナイト"
+  },
+  "hair-ktn-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "hair-ktn-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-ktn-idol-03": {
+    "name": "月ノヒカリ"
+  },
+  "hair-ktn-idol-04": {
+    "name": "ルナピエール"
+  },
+  "hair-ktn-idol-05": {
+    "name": "ルージュオブザナイト"
+  },
+  "hair-ktn-kiok-00": {
+    "name": "星の海の記憶"
+  },
+  "hair-ktn-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-ktn-link-00": {
+    "name": "リエステラ"
+  },
+  "hair-ktn-link-01": {
+    "name": "リエルフレ"
+  },
+  "hair-ktn-maid-01": {
+    "name": "にゃんにゃんメイド"
+  },
+  "hair-ktn-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-ktn-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-ktn-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-ktn-miku-06": {
+    "name": "マジカルミライ2020夏"
+  },
+  "hair-ktn-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-ktn-mizg-01": {
+    "name": "ムーンライトラブサマー"
+  },
+  "hair-ktn-mizg-02": {
+    "name": "ソレイユホットサマー"
+  },
+  "hair-ktn-mizg-03": {
+    "name": "フェザーフロート"
+  },
+  "hair-ktn-mnab-00": {
+    "name": "シングウィズユー"
+  },
+  "hair-ktn-msic-00": {
+    "name": "ウィズユアソングス"
+  },
+  "hair-ktn-newy-00": {
+    "name": "絢爛振袖・紅"
+  },
+  "hair-ktn-poli-00": {
+    "name": "ルアディシプリン"
+  },
+  "hair-ktn-schl-00": {
+    "name": "星見高等学校"
+  },
+  "hair-ktn-schl-01": {
+    "name": "星見中学校"
+  },
+  "hair-ktn-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-ktn-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-ktn-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-ktn-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-ktn-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-ktn-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-ktn-vlnt-00": {
+    "name": "ときめきチョコレート"
+  },
+  "hair-ktn-wedd-00": {
+    "name": "パーフェクト・ブライド"
+  },
+  "hair-ktn-xmas-00": {
+    "name": "クリスマスには君と"
+  },
+  "hair-ktn-yukt-00": {
+    "name": "ポワソンルージュ"
+  },
+  "hair-kuromi-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-kyon-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-kyui-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-lala-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-mei-anml-00": {
+    "name": "スイートレディキャット"
+  },
+  "hair-mei-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-mei-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-mei-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-mei-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-mei-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-mei-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-mei-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-mei-casl-02": {
+    "name": "デートスタイル"
+  },
+  "hair-mei-date-00": {
+    "name": "ピュア・ホワイト"
+  },
+  "hair-mei-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "hair-mei-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-mei-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-mei-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-mei-hair-00": {
+    "name": "お団子"
+  },
+  "hair-mei-hair-10": {
+    "name": "ふわふわツインテ"
+  },
+  "hair-mei-hair-11": {
+    "name": "ウェーブハーフツイン"
+  },
+  "hair-mei-hair-20": {
+    "name": "ゆるふわサイドポニー"
+  },
+  "hair-mei-hair-21": {
+    "name": "ダイナーハット"
+  },
+  "hair-mei-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-mei-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-mei-hair-30": {
+    "name": "ねじれツインテール"
+  },
+  "hair-mei-hair-31": {
+    "name": "フリルカチューシャ"
+  },
+  "hair-mei-hair-32": {
+    "name": "バースデーリボン"
+  },
+  "hair-mei-hair-33": {
+    "name": "ラウンドメガネ"
+  },
+  "hair-mei-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-mei-hruh-00": {
+    "name": "県立北高"
+  },
+  "hair-mei-hruh-01": {
+    "name": "戦うウェイトレス"
+  },
+  "hair-mei-idol-00": {
+    "name": "クイーンオブザナイト"
+  },
+  "hair-mei-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "hair-mei-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-mei-idol-03": {
+    "name": "月ノヒカリ"
+  },
+  "hair-mei-idol-04": {
+    "name": "ルナピエール"
+  },
+  "hair-mei-idol-05": {
+    "name": "ルージュオブザナイト"
+  },
+  "hair-mei-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-mei-link-00": {
+    "name": "リエステラ"
+  },
+  "hair-mei-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-mei-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-mei-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-mei-miku-06": {
+    "name": "マジカルミライ2020夏"
+  },
+  "hair-mei-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-mei-mizg-01": {
+    "name": "ムーンライトラブサマー"
+  },
+  "hair-mei-mizg-02": {
+    "name": "ソレイユホットサマー"
+  },
+  "hair-mei-newy-00": {
+    "name": "絢爛振袖・緋"
+  },
+  "hair-mei-pair-00": {
+    "name": "シャイニーシャイニー"
+  },
+  "hair-mei-rock-00": {
+    "name": "ムーンダンサブル"
+  },
+  "hair-mei-schl-00": {
+    "name": "星見高等学校"
+  },
+  "hair-mei-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-mei-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-mei-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-mei-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-mei-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-mei-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-mei-vlnt-00": {
+    "name": "ときめきチョコレート"
+  },
+  "hair-mei-wdnc-00": {
+    "name": "コメティックダンサー"
+  },
+  "hair-mei-wedd-00": {
+    "name": "パーフェクト・ブライド"
+  },
+  "hair-mei-xmas-00": {
+    "name": "クリスマスには君と"
+  },
+  "hair-melody-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-mhk-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-mhk-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-mhk-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-mhk-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-mhk-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-mhk-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-mhk-chna-00": {
+    "name": "残照華衣"
+  },
+  "hair-mhk-circ-00": {
+    "name": "レーシングレゾナンス"
+  },
+  "hair-mhk-fest-02": {
+    "name": "ビタースイートエコー"
+  },
+  "hair-mhk-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-mhk-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-mhk-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-mhk-hair-10": {
+    "name": "編み込みハーフアップ"
+  },
+  "hair-mhk-hair-11": {
+    "name": "シニヨン"
+  },
+  "hair-mhk-hair-20": {
+    "name": "シャギーロング"
+  },
+  "hair-mhk-hair-21": {
+    "name": "フラワーヘアピン"
+  },
+  "hair-mhk-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-mhk-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-mhk-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-mhk-idol-00": {
+    "name": "レフォルムアロー"
+  },
+  "hair-mhk-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-mhk-idol-03": {
+    "name": "レイアヴァンセ"
+  },
+  "hair-mhk-idol-05": {
+    "name": "レオーネアロー"
+  },
+  "hair-mhk-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-mhk-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-mhk-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-mhk-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-mhk-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-mhk-mizg-01": {
+    "name": "ビクトリービーチ"
+  },
+  "hair-mhk-newy-00": {
+    "name": "インサイドアウト"
+  },
+  "hair-mhk-pajm-00": {
+    "name": "ホリデイウェアー"
+  },
+  "hair-mhk-poli-00": {
+    "name": "ヘブンズジャスティス"
+  },
+  "hair-mhk-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-mhk-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-mhk-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-mhk-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-mhk-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-mhk-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-mhk-wedd-00": {
+    "name": "エレガント・ブライド"
+  },
+  "hair-mhk-xmas-00": {
+    "name": "ヴェイユ・ド・ノエル"
+  },
+  "hair-mikuru-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-mku-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-mku-miku-01": {
+    "name": "マジカルミライ10th"
+  },
+  "hair-mku-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-mku-miku-06": {
+    "name": "マジカルミライ2020夏"
+  },
+  "hair-mna-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-mna-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-mna-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-mna-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-mna-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-mna-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-mna-casl-03": {
+    "name": "ニコイチスタイル"
+  },
+  "hair-mna-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "hair-mna-fest-01": {
+    "name": "恋紅和装"
+  },
+  "hair-mna-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-mna-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-mna-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-mna-hair-00": {
+    "name": "サイドテール"
+  },
+  "hair-mna-hair-10": {
+    "name": "ウェーブハーフツイン"
+  },
+  "hair-mna-hair-20": {
+    "name": "フラワーツインテール"
+  },
+  "hair-mna-hair-21": {
+    "name": "パールリボン"
+  },
+  "hair-mna-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-mna-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-mna-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-mna-idol-00": {
+    "name": "ファーストステップ"
+  },
+  "hair-mna-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-mna-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-mna-link-00": {
+    "name": "リエステラ"
+  },
+  "hair-mna-link-01": {
+    "name": "リエルフレ"
+  },
+  "hair-mna-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-mna-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-mna-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-mna-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-mna-mizg-01": {
+    "name": "フェザーフロート"
+  },
+  "hair-mna-mnab-00": {
+    "name": "シングウィズユー"
+  },
+  "hair-mna-msic-00": {
+    "name": "ウィズユアソングス"
+  },
+  "hair-mna-schl-00": {
+    "name": "星見高等学校"
+  },
+  "hair-mna-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-mna-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-mna-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-mna-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-mna-vlnt-00": {
+    "name": "ファーストバレンタイン"
+  },
+  "hair-mna-wedd-00": {
+    "name": "エターナル・ブライド"
+  },
+  "hair-mng-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-momo-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-ngs-akma-00": {
+    "name": "ハートインデビル"
+  },
+  "hair-ngs-anml-00": {
+    "name": "スイートレディラビット"
+  },
+  "hair-ngs-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-ngs-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-ngs-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-ngs-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-ngs-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-ngs-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-ngs-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-ngs-casl-02": {
+    "name": "デートスタイル"
+  },
+  "hair-ngs-date-00": {
+    "name": "蒼穹花蝶"
+  },
+  "hair-ngs-flow-00": {
+    "name": "イノセントフラワー"
+  },
+  "hair-ngs-frut-00": {
+    "name": "ラブリーピーチ"
+  },
+  "hair-ngs-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-ngs-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-ngs-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-ngs-hair-00": {
+    "name": "三つ編みハーフツイン"
+  },
+  "hair-ngs-hair-10": {
+    "name": "ポニーテール"
+  },
+  "hair-ngs-hair-11": {
+    "name": "ツインローズシニヨン"
+  },
+  "hair-ngs-hair-20": {
+    "name": "ワンサイドアップ"
+  },
+  "hair-ngs-hair-21": {
+    "name": "ハートフリルミニハット"
+  },
+  "hair-ngs-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-ngs-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-ngs-hair-30": {
+    "name": "ガーリーおさげ"
+  },
+  "hair-ngs-hair-31": {
+    "name": "リボンヘアバンド"
+  },
+  "hair-ngs-hair-32": {
+    "name": "バースデーリボン"
+  },
+  "hair-ngs-hair-33": {
+    "name": "ラウンドメガネ"
+  },
+  "hair-ngs-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-ngs-idol-00": {
+    "name": "クイーンオブザナイト"
+  },
+  "hair-ngs-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "hair-ngs-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-ngs-idol-03": {
+    "name": "月ノヒカリ"
+  },
+  "hair-ngs-idol-04": {
+    "name": "ルナピエール"
+  },
+  "hair-ngs-idol-05": {
+    "name": "ルージュオブザナイト"
+  },
+  "hair-ngs-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-ngs-link-01": {
+    "name": "リエルフレ"
+  },
+  "hair-ngs-maid-01": {
+    "name": "にゃんにゃんメイド"
+  },
+  "hair-ngs-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-ngs-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-ngs-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-ngs-miku-06": {
+    "name": "マジカルミライ2020夏"
+  },
+  "hair-ngs-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-ngs-mizg-01": {
+    "name": "ムーンライトラブサマー"
+  },
+  "hair-ngs-mizg-02": {
+    "name": "ソレイユホットサマー"
+  },
+  "hair-ngs-newy-00": {
+    "name": "絢爛振袖・若葉"
+  },
+  "hair-ngs-pair-00": {
+    "name": "にゃんだふるマジック"
+  },
+  "hair-ngs-schl-00": {
+    "name": "星見高等学校"
+  },
+  "hair-ngs-schl-01": {
+    "name": "星見中学校"
+  },
+  "hair-ngs-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-ngs-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-ngs-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-ngs-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-ngs-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-ngs-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-ngs-vlnt-00": {
+    "name": "ときめきチョコレート"
+  },
+  "hair-ngs-wedd-00": {
+    "name": "セレスタル・ブライド"
+  },
+  "hair-ngs-xmas-00": {
+    "name": "クリスマスには君と"
+  },
+  "hair-ngs-yukt-00": {
+    "name": "ポワソンルージュ"
+  },
+  "hair-rei-anml-00": {
+    "name": "スイートレディキャット"
+  },
+  "hair-rei-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-rei-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-rei-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-rei-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-rei-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-rei-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-rei-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-rei-casl-02": {
+    "name": "デートスタイル"
+  },
+  "hair-rei-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-rei-chia-00": {
+    "name": "レッツゴーピース"
+  },
+  "hair-rei-date-00": {
+    "name": "ウィッシュパレード"
+  },
+  "hair-rei-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "hair-rei-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-rei-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-rei-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-rei-hair-00": {
+    "name": "ポニーテール"
+  },
+  "hair-rei-hair-10": {
+    "name": "ウェーブツインテ"
+  },
+  "hair-rei-hair-11": {
+    "name": "編み込みボブ"
+  },
+  "hair-rei-hair-20": {
+    "name": "ゆるふわツーサイドアップ"
+  },
+  "hair-rei-hair-21": {
+    "name": "ツインリボン"
+  },
+  "hair-rei-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-rei-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-rei-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-rei-hruh-00": {
+    "name": "県立北高"
+  },
+  "hair-rei-idol-00": {
+    "name": "アセンブルハーモニー"
+  },
+  "hair-rei-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "hair-rei-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-rei-idol-03": {
+    "name": "ウィズ・ザ・サンシャイン"
+  },
+  "hair-rei-idol-04": {
+    "name": "サクセスエブリウェア"
+  },
+  "hair-rei-idol-05": {
+    "name": "コネクションズハーモニー"
+  },
+  "hair-rei-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-rei-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-rei-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-rei-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-rei-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-rei-mizg-01": {
+    "name": "サマーホリデイ"
+  },
+  "hair-rei-mizg-02": {
+    "name": "ソレイユホットサマー"
+  },
+  "hair-rei-mizg-03": {
+    "name": "サニーアイランド"
+  },
+  "hair-rei-newy-00": {
+    "name": "全力振袖・牡丹"
+  },
+  "hair-rei-onep-00": {
+    "name": "フローラルフレグランス"
+  },
+  "hair-rei-pair-00": {
+    "name": "リズムデニム"
+  },
+  "hair-rei-rock-00": {
+    "name": "サニーダンサブル"
+  },
+  "hair-rei-sail-00": {
+    "name": "ひだまりセーラー"
+  },
+  "hair-rei-schl-00": {
+    "name": "麗葉女学院高等部"
+  },
+  "hair-rei-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-rei-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-rei-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-rei-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-rei-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-rei-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-rei-vlnt-00": {
+    "name": "ラブリーバレンタイン"
+  },
+  "hair-rei-wdnc-00": {
+    "name": "コメティックダンサー"
+  },
+  "hair-rei-wedd-00": {
+    "name": "セレスタル・ブライド"
+  },
+  "hair-rik-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-rik-sush-01": {
+    "name": "ブリリアントクリスマス"
+  },
+  "hair-rik-sush-02": {
+    "name": "浦の星女学院（冬服）"
+  },
+  "hair-rik-sush-03": {
+    "name": "浦の星女学院（夏服）"
+  },
+  "hair-rio-anml-00": {
+    "name": "スイートレディキャット"
+  },
+  "hair-rio-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-rio-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-rio-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-rio-arab-00": {
+    "name": "ジャンピングオールライト"
+  },
+  "hair-rio-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-rio-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-rio-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-rio-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-rio-casl-02": {
+    "name": "オフィススタイル"
+  },
+  "hair-rio-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-rio-chna-01": {
+    "name": "舞踊闘衣"
+  },
+  "hair-rio-date-00": {
+    "name": "クレシェンスフルール"
+  },
+  "hair-rio-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "hair-rio-fest-01": {
+    "name": "氷華和装"
+  },
+  "hair-rio-fest-02": {
+    "name": "サウンドオブライフ"
+  },
+  "hair-rio-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-rio-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-rio-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-rio-hair-10": {
+    "name": "シニヨン"
+  },
+  "hair-rio-hair-11": {
+    "name": "ロングヘア"
+  },
+  "hair-rio-hair-20": {
+    "name": "ハイポニーテール"
+  },
+  "hair-rio-hair-21": {
+    "name": "スポーティヘアゴム"
+  },
+  "hair-rio-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-rio-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-rio-hair-30": {
+    "name": "ミニウルフ"
+  },
+  "hair-rio-hair-31": {
+    "name": "ピルボックスハット"
+  },
+  "hair-rio-hair-32": {
+    "name": "バースデーリボン"
+  },
+  "hair-rio-hair-33": {
+    "name": "ラウンドメガネ"
+  },
+  "hair-rio-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-rio-halw-00": {
+    "name": "ナースオブハデス"
+  },
+  "hair-rio-idol-00": {
+    "name": "ノーブルリリーズ"
+  },
+  "hair-rio-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-rio-idol-03": {
+    "name": "ビートアズワン"
+  },
+  "hair-rio-idol-04": {
+    "name": "情熱だけで生きてみろ"
+  },
+  "hair-rio-idol-05": {
+    "name": "レガリスリリーズ"
+  },
+  "hair-rio-kait-00": {
+    "name": "ザ・ラストチャンス"
+  },
+  "hair-rio-kiok-00": {
+    "name": "星の海の記憶"
+  },
+  "hair-rio-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-rio-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-rio-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-rio-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-rio-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-rio-mizg-01": {
+    "name": "ブルースカイサマー"
+  },
+  "hair-rio-mizg-02": {
+    "name": "ダンスアンドダイブ"
+  },
+  "hair-rio-msic-00": {
+    "name": "ウィズユアソングス"
+  },
+  "hair-rio-newy-00": {
+    "name": "最高優美ロンリネス"
+  },
+  "hair-rio-pajm-00": {
+    "name": "ホリデイウェアー"
+  },
+  "hair-rio-past-00": {
+    "name": "クラシカルリリー"
+  },
+  "hair-rio-schl-00": {
+    "name": "月出高等学校"
+  },
+  "hair-rio-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-rio-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-rio-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-rio-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-rio-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-rio-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-rio-vlnt-00": {
+    "name": "ダークネスシンパサイザー"
+  },
+  "hair-rio-wedd-00": {
+    "name": "エレガント・ブライド"
+  },
+  "hair-rio-yukt-00": {
+    "name": "カルプ"
+  },
+  "hair-rui-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-rui-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-rui-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-rui-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-rui-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-rui-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-rui-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-rui-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-rui-date-00": {
+    "name": "サマースタイル"
+  },
+  "hair-rui-fest-02": {
+    "name": "エスポワール"
+  },
+  "hair-rui-fest-03": {
+    "name": "グラティテュード"
+  },
+  "hair-rui-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-rui-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-rui-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-rui-hair-00": {
+    "name": "ポニーテール"
+  },
+  "hair-rui-hair-10": {
+    "name": "編み込みハーフアップ"
+  },
+  "hair-rui-hair-11": {
+    "name": "ゆるふわツインテール"
+  },
+  "hair-rui-hair-20": {
+    "name": "編み込みミディアムボブ"
+  },
+  "hair-rui-hair-21": {
+    "name": "フラワーリボン"
+  },
+  "hair-rui-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-rui-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-rui-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-rui-idol-00": {
+    "name": "シュヴァリエール"
+  },
+  "hair-rui-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-rui-idol-03": {
+    "name": "レ・プリュム"
+  },
+  "hair-rui-idol-04": {
+    "name": "ヴィクトワール"
+  },
+  "hair-rui-idol-05": {
+    "name": "ユニヴェール"
+  },
+  "hair-rui-jwel-00": {
+    "name": "空の宝石"
+  },
+  "hair-rui-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-rui-link-01": {
+    "name": "リエルフレ"
+  },
+  "hair-rui-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-rui-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-rui-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-rui-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-rui-mizg-01": {
+    "name": "トロピカルフルール"
+  },
+  "hair-rui-newy-00": {
+    "name": "ブランニューデイ"
+  },
+  "hair-rui-nurs-00": {
+    "name": "ぷりてぃー★エンジェル"
+  },
+  "hair-rui-schl-00": {
+    "name": "月出高等学校"
+  },
+  "hair-rui-schl-01": {
+    "name": "月出中学校"
+  },
+  "hair-rui-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-rui-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-rui-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-rui-ster-00": {
+    "name": "シャイングレイス"
+  },
+  "hair-rui-sucu-00": {
+    "name": "ミッドナイトサキュバス"
+  },
+  "hair-rui-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-rui-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-rui-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-rui-vlnt-00": {
+    "name": "チョコラブキッス"
+  },
+  "hair-rui-xmas-00": {
+    "name": "ルミエール"
+  },
+  "hair-rui-yukt-00": {
+    "name": "カルプ"
+  },
+  "hair-rui-yuru-00": {
+    "name": "クロッカスの扉"
+  },
+  "hair-ski-anml-00": {
+    "name": "スイートレディラビット"
+  },
+  "hair-ski-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-ski-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-ski-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-ski-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-ski-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-ski-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-ski-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-ski-chsk-00": {
+    "name": "つながる心Binary"
+  },
+  "hair-ski-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-ski-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-ski-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-ski-hair-10": {
+    "name": "ロールツインテ"
+  },
+  "hair-ski-hair-11": {
+    "name": "お団子ハーフアップ"
+  },
+  "hair-ski-hair-20": {
+    "name": "三つ編みサイドテール"
+  },
+  "hair-ski-hair-21": {
+    "name": "フラワーリボン"
+  },
+  "hair-ski-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-ski-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-ski-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-ski-hruh-00": {
+    "name": "県立北高"
+  },
+  "hair-ski-idol-00": {
+    "name": "クイーンオブザナイト"
+  },
+  "hair-ski-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "hair-ski-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-ski-idol-03": {
+    "name": "月ノヒカリ"
+  },
+  "hair-ski-idol-04": {
+    "name": "ルナピエール"
+  },
+  "hair-ski-idol-05": {
+    "name": "ルージュオブザナイト"
+  },
+  "hair-ski-kifj-00": {
+    "name": "マイフェアレディ"
+  },
+  "hair-ski-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-ski-link-00": {
+    "name": "リエステラ"
+  },
+  "hair-ski-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-ski-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-ski-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-ski-miku-06": {
+    "name": "マジカルミライ2020夏"
+  },
+  "hair-ski-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-ski-mizg-01": {
+    "name": "ムーンライトラブサマー"
+  },
+  "hair-ski-mizg-02": {
+    "name": "ソレイユホットサマー"
+  },
+  "hair-ski-newy-00": {
+    "name": "絢爛振袖・空"
+  },
+  "hair-ski-onep-00": {
+    "name": "フローラルフレグランス"
+  },
+  "hair-ski-poli-00": {
+    "name": "ルアディシプリン"
+  },
+  "hair-ski-schl-00": {
+    "name": "光ヶ崎高等学校"
+  },
+  "hair-ski-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-ski-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-ski-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-ski-ster-00": {
+    "name": "シャイングレイス"
+  },
+  "hair-ski-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-ski-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-ski-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-ski-vlnt-00": {
+    "name": "ときめきチョコレート"
+  },
+  "hair-ski-waso-00": {
+    "name": "ハートオブロック"
+  },
+  "hair-ski-xmas-00": {
+    "name": "クリスマスには君と"
+  },
+  "hair-skr-adlt-00": {
+    "name": "サンセットエレガンス"
+  },
+  "hair-skr-anml-00": {
+    "name": "スイートレディベア"
+  },
+  "hair-skr-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-skr-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-skr-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-skr-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-skr-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-skr-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-skr-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-skr-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-skr-chia-00": {
+    "name": "レッツゴーピース"
+  },
+  "hair-skr-chna-00": {
+    "name": "満福華衣"
+  },
+  "hair-skr-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "hair-skr-fest-01": {
+    "name": "ジェムストーンズ"
+  },
+  "hair-skr-flow-00": {
+    "name": "エーデルハイドランジア"
+  },
+  "hair-skr-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-skr-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-skr-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-skr-hair-01": {
+    "name": "グラデツインテール"
+  },
+  "hair-skr-hair-10": {
+    "name": "ウェーブツーサイドアップ"
+  },
+  "hair-skr-hair-11": {
+    "name": "ふたつ結び"
+  },
+  "hair-skr-hair-20": {
+    "name": "リボンサイドテール"
+  },
+  "hair-skr-hair-21": {
+    "name": "セレブリティリボン"
+  },
+  "hair-skr-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-skr-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-skr-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-skr-idol-00": {
+    "name": "アセンブルハーモニー"
+  },
+  "hair-skr-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "hair-skr-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-skr-idol-03": {
+    "name": "ウィズ・ザ・サンシャイン"
+  },
+  "hair-skr-idol-04": {
+    "name": "サクセスエブリウェア"
+  },
+  "hair-skr-idol-05": {
+    "name": "コネクションズハーモニー"
+  },
+  "hair-skr-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-skr-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-skr-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-skr-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-skr-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-skr-mizg-01": {
+    "name": "サマーホリデイ"
+  },
+  "hair-skr-mizg-03": {
+    "name": "サニーアイランド"
+  },
+  "hair-skr-mizg-04": {
+    "name": "サンライトセンセーション"
+  },
+  "hair-skr-msic-00": {
+    "name": "ウィズユアソングス"
+  },
+  "hair-skr-newy-00": {
+    "name": "全力振袖・桜"
+  },
+  "hair-skr-sail-00": {
+    "name": "ひだまりセーラー"
+  },
+  "hair-skr-schl-00": {
+    "name": "光ヶ崎高等学校"
+  },
+  "hair-skr-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-skr-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-skr-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-skr-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-skr-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-skr-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-skr-vlnt-00": {
+    "name": "ラブリーバレンタイン"
+  },
+  "hair-skr-wedd-00": {
+    "name": "スイート・ブライド"
+  },
+  "hair-smr-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-smr-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-smr-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-smr-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-smr-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-smr-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-smr-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-smr-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-smr-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "hair-smr-fest-02": {
+    "name": "エスポワール"
+  },
+  "hair-smr-fest-03": {
+    "name": "グラティテュード"
+  },
+  "hair-smr-frut-00": {
+    "name": "ラブリーチェリー"
+  },
+  "hair-smr-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-smr-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-smr-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-smr-goch-01": {
+    "name": "ホーリー・ラビット"
+  },
+  "hair-smr-hair-00": {
+    "name": "ローポニーテール"
+  },
+  "hair-smr-hair-10": {
+    "name": "ツーサイドアップ"
+  },
+  "hair-smr-hair-11": {
+    "name": "ツインお団子"
+  },
+  "hair-smr-hair-20": {
+    "name": "フリルツイン"
+  },
+  "hair-smr-hair-21": {
+    "name": "フラワーリース"
+  },
+  "hair-smr-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-smr-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-smr-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-smr-idol-00": {
+    "name": "シュヴァリエール"
+  },
+  "hair-smr-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-smr-idol-03": {
+    "name": "レ・プリュム"
+  },
+  "hair-smr-idol-04": {
+    "name": "ヴィクトワール"
+  },
+  "hair-smr-idol-05": {
+    "name": "ユニヴェール"
+  },
+  "hair-smr-jwel-00": {
+    "name": "空の宝石"
+  },
+  "hair-smr-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-smr-magi-00": {
+    "name": "マジカルエレメント"
+  },
+  "hair-smr-maid-00": {
+    "name": "おもてなしカフェテリア"
+  },
+  "hair-smr-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-smr-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-smr-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-smr-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-smr-mizg-01": {
+    "name": "トロピカルフルール"
+  },
+  "hair-smr-newy-00": {
+    "name": "ブランニューデイ"
+  },
+  "hair-smr-nurs-00": {
+    "name": "ぷりてぃー★エンジェル"
+  },
+  "hair-smr-pajm-00": {
+    "name": "パジャマパーティー"
+  },
+  "hair-smr-schl-00": {
+    "name": "紅花中学校"
+  },
+  "hair-smr-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-smr-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-smr-seik-00": {
+    "name": "エンジェルブレッシング"
+  },
+  "hair-smr-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-smr-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-smr-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-smr-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-smr-vlnt-00": {
+    "name": "チョコラブキッス"
+  },
+  "hair-smr-xmas-00": {
+    "name": "ルミエール"
+  },
+  "hair-stm-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-stm1-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-stm1-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-stm2-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-stm2-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-stm3-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-stm3-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-stm4-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-stm4-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-stm5-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-stm5-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-suz-alic-00": {
+    "name": "ワンダーアリス"
+  },
+  "hair-suz-alic-01": {
+    "name": "ミステリアスキャット"
+  },
+  "hair-suz-angl-00": {
+    "name": "ハートインエンジェル"
+  },
+  "hair-suz-anml-00": {
+    "name": "スイートレディベア"
+  },
+  "hair-suz-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-suz-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-suz-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-suz-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-suz-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-suz-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-suz-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-suz-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-suz-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-suz-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-suz-goch-01": {
+    "name": "ホーリー・ラビット"
+  },
+  "hair-suz-hair-00": {
+    "name": "ツインテール"
+  },
+  "hair-suz-hair-10": {
+    "name": "ゆるふわサイドテール"
+  },
+  "hair-suz-hair-11": {
+    "name": "ネコミミカチューシャヘア"
+  },
+  "hair-suz-hair-20": {
+    "name": "ショートボブ"
+  },
+  "hair-suz-hair-21": {
+    "name": "ゴシックリボン"
+  },
+  "hair-suz-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-suz-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-suz-hair-30": {
+    "name": "オマージュヘア"
+  },
+  "hair-suz-hair-31": {
+    "name": "ストライプリボン"
+  },
+  "hair-suz-hair-32": {
+    "name": "バースデーリボン"
+  },
+  "hair-suz-hair-33": {
+    "name": "ラウンドメガネ"
+  },
+  "hair-suz-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-suz-idol-00": {
+    "name": "クイーンオブザナイト"
+  },
+  "hair-suz-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "hair-suz-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-suz-idol-03": {
+    "name": "月ノヒカリ"
+  },
+  "hair-suz-idol-04": {
+    "name": "ルナピエール"
+  },
+  "hair-suz-idol-05": {
+    "name": "ルージュオブザナイト"
+  },
+  "hair-suz-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-suz-link-00": {
+    "name": "リエステラ"
+  },
+  "hair-suz-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-suz-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-suz-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-suz-miku-06": {
+    "name": "マジカルミライ2020夏"
+  },
+  "hair-suz-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-suz-mizg-01": {
+    "name": "ムーンライトラブサマー"
+  },
+  "hair-suz-mizg-02": {
+    "name": "ソレイユホットサマー"
+  },
+  "hair-suz-msic-00": {
+    "name": "ウィズユアソングス"
+  },
+  "hair-suz-newy-00": {
+    "name": "絢爛振袖・桃"
+  },
+  "hair-suz-onep-00": {
+    "name": "プレシャスワン"
+  },
+  "hair-suz-pair-00": {
+    "name": "シャイニーシャイニー"
+  },
+  "hair-suz-pajm-00": {
+    "name": "パジャマパーティー"
+  },
+  "hair-suz-schl-00": {
+    "name": "麗葉女学院中等部"
+  },
+  "hair-suz-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-suz-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-suz-seik-00": {
+    "name": "エンジェルブレッシング"
+  },
+  "hair-suz-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-suz-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-suz-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-suz-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-suz-vlnt-00": {
+    "name": "ときめきチョコレート"
+  },
+  "hair-suz-wedd-00": {
+    "name": "セレブリティ・ブライド"
+  },
+  "hair-suz-xmas-00": {
+    "name": "クリスマスには君と"
+  },
+  "hair-szk-alic-00": {
+    "name": "ワンダーアリス"
+  },
+  "hair-szk-alic-01": {
+    "name": "ミステリアスキャット"
+  },
+  "hair-szk-angl-00": {
+    "name": "ハートインエンジェル"
+  },
+  "hair-szk-anml-00": {
+    "name": "スイートレディキャット"
+  },
+  "hair-szk-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-szk-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-szk-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-szk-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-szk-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-szk-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-szk-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-szk-casl-03": {
+    "name": "ニコイチスタイル"
+  },
+  "hair-szk-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-szk-chia-00": {
+    "name": "レッツゴーピース"
+  },
+  "hair-szk-chna-00": {
+    "name": "獅子舞華衣"
+  },
+  "hair-szk-flow-00": {
+    "name": "エーデルハイドランジア"
+  },
+  "hair-szk-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-szk-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-szk-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-szk-goch-01": {
+    "name": "ホーリー・ラビット"
+  },
+  "hair-szk-hair-00": {
+    "name": "ツインテール"
+  },
+  "hair-szk-hair-10": {
+    "name": "ハーフツインお団子"
+  },
+  "hair-szk-hair-11": {
+    "name": "ハートつのヘア"
+  },
+  "hair-szk-hair-20": {
+    "name": "編み込み姫カット"
+  },
+  "hair-szk-hair-21": {
+    "name": "スターヘアピン"
+  },
+  "hair-szk-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-szk-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-szk-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-szk-idol-00": {
+    "name": "アセンブルハーモニー"
+  },
+  "hair-szk-idol-01": {
+    "name": "フェアウェルマイラブリー"
+  },
+  "hair-szk-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-szk-idol-03": {
+    "name": "ウィズ・ザ・サンシャイン"
+  },
+  "hair-szk-idol-04": {
+    "name": "サクセスエブリウェア"
+  },
+  "hair-szk-idol-05": {
+    "name": "コネクションズハーモニー"
+  },
+  "hair-szk-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-szk-link-01": {
+    "name": "リエルフレ"
+  },
+  "hair-szk-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-szk-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-szk-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-szk-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-szk-mizg-01": {
+    "name": "サマーホリデイ"
+  },
+  "hair-szk-mizg-03": {
+    "name": "サニーアイランド"
+  },
+  "hair-szk-newy-00": {
+    "name": "全力振袖・梅"
+  },
+  "hair-szk-pajm-00": {
+    "name": "パジャマパーティー"
+  },
+  "hair-szk-rock-00": {
+    "name": "サニーダンサブル"
+  },
+  "hair-szk-sail-00": {
+    "name": "ひだまりセーラー"
+  },
+  "hair-szk-schl-00": {
+    "name": "光ヶ崎高等学校"
+  },
+  "hair-szk-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-szk-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-szk-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-szk-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-szk-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-szk-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-szk-vlnt-00": {
+    "name": "ラブリーバレンタイン"
+  },
+  "hair-szk-yukt-00": {
+    "name": "ポワソンルージュ"
+  },
+  "hair-szk-yuru-00": {
+    "name": "クロッカスの扉"
+  },
+  "hair-vns-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-yami-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-ymk-miku-02": {
+    "name": "雪ミク：オリジナル"
+  },
+  "hair-yo-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-yo-sush-01": {
+    "name": "ブリリアントクリスマス"
+  },
+  "hair-yo-sush-02": {
+    "name": "浦の星女学院（冬服）"
+  },
+  "hair-yo-sush-03": {
+    "name": "浦の星女学院（夏服）"
+  },
+  "hair-yu-anni-00": {
+    "name": "エターニティーフレンド"
+  },
+  "hair-yu-anni-01": {
+    "name": "ありがとう to You"
+  },
+  "hair-yu-anni-02": {
+    "name": "スターズフォーエバー"
+  },
+  "hair-yu-buny-00": {
+    "name": "グッドラックラビット"
+  },
+  "hair-yu-buny-99": {
+    "name": "グッドラックラビット"
+  },
+  "hair-yu-casl-00": {
+    "name": "ベーシックスタイル"
+  },
+  "hair-yu-casl-01": {
+    "name": "カジュアルスタイル"
+  },
+  "hair-yu-casl-02": {
+    "name": "デートスタイル"
+  },
+  "hair-yu-casl-04": {
+    "name": "おでかけスタイル"
+  },
+  "hair-yu-chna-00": {
+    "name": "極烙華衣"
+  },
+  "hair-yu-date-00": {
+    "name": "ラブリーメイド"
+  },
+  "hair-yu-fest-00": {
+    "name": "エターナルブリリアンス"
+  },
+  "hair-yu-fest-02": {
+    "name": "エスポワール"
+  },
+  "hair-yu-fest-03": {
+    "name": "グラティテュード"
+  },
+  "hair-yu-ggyt-00": {
+    "name": "魚魚っとスタイル"
+  },
+  "hair-yu-ggyt-01": {
+    "name": "まるでサカナスーツ"
+  },
+  "hair-yu-goch-00": {
+    "name": "喫茶ラビットハウス"
+  },
+  "hair-yu-hair-00": {
+    "name": "ツインテール"
+  },
+  "hair-yu-hair-10": {
+    "name": "ウェーブポニーテール"
+  },
+  "hair-yu-hair-11": {
+    "name": "姫カット"
+  },
+  "hair-yu-hair-20": {
+    "name": "三つ編みおさげ"
+  },
+  "hair-yu-hair-21": {
+    "name": "お嬢様リボン"
+  },
+  "hair-yu-hair-22": {
+    "name": "バースデークラウン"
+  },
+  "hair-yu-hair-23": {
+    "name": "バースデーハット"
+  },
+  "hair-yu-hair-40": {
+    "name": "ドリームカチューシャ"
+  },
+  "hair-yu-idol-00": {
+    "name": "シュヴァリエール"
+  },
+  "hair-yu-idol-02": {
+    "name": "フィーリングハート"
+  },
+  "hair-yu-idol-03": {
+    "name": "レ・プリュム"
+  },
+  "hair-yu-idol-04": {
+    "name": "ヴィクトワール"
+  },
+  "hair-yu-idol-05": {
+    "name": "ユニヴェール"
+  },
+  "hair-yu-jwel-00": {
+    "name": "空の宝石"
+  },
+  "hair-yu-kion-00": {
+    "name": "桜が丘女子高等学校"
+  },
+  "hair-yu-link-01": {
+    "name": "リエルフレ"
+  },
+  "hair-yu-miku-00": {
+    "name": "初音ミク：オリジナル"
+  },
+  "hair-yu-miku-03": {
+    "name": "スターズオブスノー"
+  },
+  "hair-yu-miku-05": {
+    "name": "君の残り香"
+  },
+  "hair-yu-mizg-00": {
+    "name": "トレーニング水着"
+  },
+  "hair-yu-mizg-01": {
+    "name": "トロピカルフルール"
+  },
+  "hair-yu-newy-00": {
+    "name": "ブランニューデイ"
+  },
+  "hair-yu-nurs-00": {
+    "name": "ぷりてぃー★エンジェル"
+  },
+  "hair-yu-schl-00": {
+    "name": "月出高等学校"
+  },
+  "hair-yu-sdam-00": {
+    "name": "親善大使"
+  },
+  "hair-yu-sdpl-00": {
+    "name": "一日署長"
+  },
+  "hair-yu-snro-00": {
+    "name": "ドリームパレード"
+  },
+  "hair-yu-ster-00": {
+    "name": "シャイングレイス"
+  },
+  "hair-yu-sush-00": {
+    "name": "君のこころは輝いてるかい？"
+  },
+  "hair-yu-trbl-00": {
+    "name": "トラブルサンタ"
+  },
+  "hair-yu-trng-00": {
+    "name": "トレーニングウェア"
+  },
+  "hair-yu-vlnt-00": {
+    "name": "チョコラブキッス"
+  },
+  "hair-yu-wedd-01": {
+    "name": "心恋白無垢"
+  },
+  "hair-yu-xmas-00": {
+    "name": "ルミエール"
+  },
+  "hair-yuki-casl-00": {
+    "name": "ベーシックスタイル"
+  }
+}

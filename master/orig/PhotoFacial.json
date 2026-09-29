@@ -1,0 +1,17 @@
+{
+  "photo-facial-angry": {
+    "name": "怒って"
+  },
+  "photo-facial-sad": {
+    "name": "切なそうに"
+  },
+  "photo-facial-smile": {
+    "name": "笑って"
+  },
+  "photo-facial-surprising": {
+    "name": "びっくりして"
+  },
+  "photo-facial-wink": {
+    "name": "ウィンクして"
+  }
+}

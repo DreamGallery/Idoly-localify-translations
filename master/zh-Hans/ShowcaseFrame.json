@@ -1,0 +1,18 @@
+{
+  "frame-001": {
+    "description": "小\n尺寸：26×23×23",
+    "name": "小"
+  },
+  "frame-002": {
+    "description": "小(宽)\n尺寸：43×23×23",
+    "name": "小(宽)"
+  },
+  "frame-003": {
+    "description": "中\n尺寸：43×38×38",
+    "name": "中"
+  },
+  "frame-004": {
+    "description": "中（宽）\n尺寸：65×38×38",
+    "name": "中（宽）"
+  }
+}

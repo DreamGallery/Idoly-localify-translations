@@ -1,0 +1,4884 @@
+{
+  "aab-rui-05-mizg-01": {
+    "name": "宣传经理exp提升"
+  },
+  "backside-lba-accessory_parameter_up": {
+    "levels[0].description": "饰品参数提升6.0%",
+    "levels[1].description": "饰品参数提升7.0%",
+    "levels[2].description": "饰品参数提升8.0%",
+    "levels[3].description": "饰品参数提升9.0%",
+    "levels[4].description": "饰品参数提升10.0%",
+    "levels[5].description": "饰品参数提升11.0%",
+    "levels[6].description": "饰品参数提升12.0%",
+    "levels[7].description": "饰品参数提升13.0%",
+    "levels[8].description": "饰品参数提升15.0%",
+    "name": "饰品效果提升"
+  },
+  "backside-lba-active_skill_score_add_1": {
+    "levels[0].description": "A技能得分提升164600",
+    "levels[1].description": "A技能得分提升192600",
+    "levels[2].description": "A技能分数提升220000",
+    "levels[3].description": "A技能分数提升247300",
+    "levels[4].description": "A技能分数提升274600",
+    "levels[5].description": "A技能分数提升316000",
+    "levels[6].description": "A技能分数提升357300",
+    "levels[7].description": "A技能分数提升398600",
+    "levels[8].description": "A技能分数提升453300",
+    "name": "A技能分数提升"
+  },
+  "backside-lba-active_skill_score_add_2": {
+    "levels[0].description": "A技能分数提升247000",
+    "levels[1].description": "A技能分数提升289000",
+    "levels[2].description": "A技能分数提升330000",
+    "levels[3].description": "A技能分数提升371000",
+    "levels[4].description": "A技能得分提升412000",
+    "levels[5].description": "A技能得分提升474000",
+    "levels[6].description": "A技能得分提升536000",
+    "levels[7].description": "A技能得分提升598000",
+    "levels[8].description": "A技能得分提升680000",
+    "name": "A技能分数提升"
+  },
+  "backside-lba-active_skill_score_multiply": {
+    "levels[0].description": "A技能得分提升12.0%",
+    "levels[1].description": "A技能得分提升14.0%",
+    "levels[2].description": "A技能得分提升16.0%",
+    "levels[3].description": "A技能得分提升18.0%",
+    "levels[4].description": "A技能得分提升20.0%",
+    "levels[5].description": "A技能得分提升23.0%",
+    "levels[6].description": "A技能得分提升26.0%",
+    "levels[7].description": "A技能得分提升29.0%",
+    "levels[8].description": "A技能得分提升33.0%",
+    "name": "A技能分数提升"
+  },
+  "backside-lba-beat_score_add_1": {
+    "levels[0].description": "节拍得分提升6600",
+    "levels[1].description": "节拍得分提升7300",
+    "levels[2].description": "节拍得分提升8000",
+    "levels[3].description": "节拍得分提升9300",
+    "levels[4].description": "节拍得分提升10600",
+    "levels[5].description": "节拍得分提升12000",
+    "levels[6].description": "节拍得分提升13300",
+    "levels[7].description": "节拍得分提升14600",
+    "levels[8].description": "节拍得分提升16600",
+    "name": "节拍得分提升"
+  },
+  "backside-lba-beat_score_add_2": {
+    "levels[0].description": "节拍得分提升10000",
+    "levels[1].description": "节拍得分提升11000",
+    "levels[2].description": "节拍得分提升12000",
+    "levels[3].description": "节拍得分提升14000",
+    "levels[4].description": "节拍得分提升16000",
+    "levels[5].description": "节拍得分提升18000",
+    "levels[6].description": "节拍得分提升20000",
+    "levels[7].description": "节拍得分提升22000",
+    "levels[8].description": "节拍得分提升25000",
+    "name": "节拍得分提升"
+  },
+  "backside-lba-beat_score_multiply": {
+    "levels[0].description": "节拍得分提升50.0%",
+    "levels[1].description": "节拍得分提升55.0%",
+    "levels[2].description": "节拍得分提升60.0%",
+    "levels[3].description": "节拍得分提升70.0%",
+    "levels[4].description": "节拍得分提升80.0%",
+    "levels[5].description": "节拍得分提升90.0%",
+    "levels[6].description": "节拍得分提升100.0%",
+    "levels[7].description": "节拍得分提升115.0%",
+    "levels[8].description": "节拍得分提升130.0%",
+    "name": "节拍得分提升"
+  },
+  "backside-lba-critical_score_multiply": {
+    "levels[0].description": "暴击得分提升19.0%",
+    "levels[1].description": "暴击得分提升22.0%",
+    "levels[2].description": "暴击得分提升25.0%",
+    "levels[3].description": "暴击得分提升28.0%",
+    "levels[4].description": "暴击得分提升32.0%",
+    "levels[5].description": "暴击得分提升36.0%",
+    "levels[6].description": "暴击得分提升40.0%",
+    "levels[7].description": "暴击分数提升45.0%",
+    "levels[8].description": "暴击分数提升50.0%",
+    "name": "暴击分数提升"
+  },
+  "backside-lba-dance_add_1": {
+    "levels[0].description": "舞蹈提升12600",
+    "levels[1].description": "舞蹈提升13300",
+    "levels[2].description": "舞蹈提升15300",
+    "levels[3].description": "舞蹈提升18000",
+    "levels[4].description": "舞蹈提升20000",
+    "levels[5].description": "舞蹈提升22000",
+    "levels[6].description": "舞蹈提升25300",
+    "levels[7].description": "舞蹈提升28000",
+    "levels[8].description": "舞蹈提升31300",
+    "name": "舞蹈提升"
+  },
+  "backside-lba-dance_add_2": {
+    "levels[0].description": "舞蹈19000上升",
+    "levels[1].description": "舞蹈提升20000",
+    "levels[2].description": "舞蹈23000上升",
+    "levels[3].description": "舞蹈27000上升",
+    "levels[4].description": "舞蹈30000上升",
+    "levels[5].description": "舞蹈33000上升",
+    "levels[6].description": "舞蹈38000上升",
+    "levels[7].description": "舞蹈42000上升",
+    "levels[8].description": "舞蹈47000上升",
+    "name": "舞蹈提升"
+  },
+  "backside-lba-dance_multiply": {
+    "levels[0].description": "舞蹈12.0%上升",
+    "levels[1].description": "舞蹈13.0%上升",
+    "levels[2].description": "舞蹈15.0%上升",
+    "levels[3].description": "舞蹈提升17.0%",
+    "levels[4].description": "舞蹈提升19.0%",
+    "levels[5].description": "舞蹈提升21.0%",
+    "levels[6].description": "舞蹈提升24.0%",
+    "levels[7].description": "舞蹈提升27.0%",
+    "levels[8].description": "舞蹈提升30.0%",
+    "name": "舞蹈提升"
+  },
+  "backside-lba-passive_skill-beat_score_up-1": {
+    "levels[0].description": "2名得分手节拍得分提升",
+    "levels[1].description": "2名得分手节拍得分提升",
+    "levels[2].description": "2名得分手节拍得分提升",
+    "levels[3].description": "2名得分手节拍得分提升",
+    "levels[4].description": "2名得分手节拍得分提升",
+    "levels[5].description": "2名得分手节拍得分提升",
+    "levels[6].description": "2名得分手节拍得分提升",
+    "levels[7].description": "2名得分手节拍得分提升",
+    "levels[8].description": "2名得分手节拍得分提升",
+    "name": "2名活跃类型节拍得分提升"
+  },
+  "backside-lba-passive_skill-dance_up-1": {
+    "levels[0].description": "2名得分手舞蹈提升",
+    "levels[1].description": "2名得分手舞蹈提升",
+    "levels[2].description": "2名得分手舞蹈提升",
+    "levels[3].description": "2名得分手舞蹈提升",
+    "levels[4].description": "2名得分手舞蹈提升",
+    "levels[5].description": "2名得分手舞蹈提升",
+    "levels[6].description": "2名得分手舞蹈提升",
+    "levels[7].description": "2名得分手舞蹈提升",
+    "levels[8].description": "2名得分手舞蹈提升",
+    "name": "2名活跃类型舞蹈提升"
+  },
+  "backside-lba-passive_skill-dance_up-2": {
+    "levels[0].description": "舞蹈最高的3人舞蹈提升",
+    "levels[1].description": "舞蹈最高的3人舞蹈提升",
+    "levels[2].description": "舞蹈最高的3人舞蹈提升",
+    "levels[3].description": "舞蹈最高的3人舞蹈提升",
+    "levels[4].description": "舞蹈最高的3人舞蹈提升",
+    "levels[5].description": "舞蹈最高的3人舞蹈提升",
+    "levels[6].description": "舞蹈最高的3人舞蹈提升",
+    "levels[7].description": "舞蹈最高的3人舞蹈提升",
+    "levels[8].description": "舞蹈最高的3人舞蹈提升",
+    "name": "舞蹈最高的3人舞蹈提升"
+  },
+  "backside-lba-passive_skill-dance_up-3": {
+    "levels[0].description": "在某人发动A技能前，舞蹈提升",
+    "levels[1].description": "在某人发动A技能前，舞蹈提升",
+    "levels[2].description": "在某人发动A技能前，舞蹈提升",
+    "levels[3].description": "在某人发动A技能前，舞蹈提升",
+    "levels[4].description": "在某人发动A技能前，舞蹈提升",
+    "levels[5].description": "在某人发动A技能前，舞蹈提升",
+    "levels[6].description": "在某人发动A技能前，舞蹈提升",
+    "levels[7].description": "在某人发动A技能前，舞蹈提升",
+    "levels[8].description": "在某人发动A技能前，舞蹈提升",
+    "name": "某人在发动表现技能前，舞蹈提升"
+  },
+  "backside-lba-passive_skill-dance_up-4": {
+    "levels[0].description": "某人在发动SP技能前，舞蹈提升",
+    "levels[1].description": "某人在发动SP技能前，舞蹈提升",
+    "levels[2].description": "某人在发动SP技能前，舞蹈提升",
+    "levels[3].description": "某人在发动SP技能前，舞蹈提升",
+    "levels[4].description": "某人在发动SP技能前，舞蹈提升",
+    "levels[5].description": "某人在发动SP技能前，舞蹈提升",
+    "levels[6].description": "某人在发动SP技能前，舞蹈提升",
+    "levels[7].description": "某人在发动SP技能前，舞蹈提升",
+    "levels[8].description": "某人在发动SP技能前，舞蹈提升",
+    "name": "某人在发动SP技能前，舞蹈提升"
+  },
+  "backside-lba-passive_skill-score_up-1": {
+    "levels[0].description": "2名得分手得分提升",
+    "levels[1].description": "2名得分手得分提升",
+    "levels[2].description": "2名得分手得分提升",
+    "levels[3].description": "2名得分手得分提升",
+    "levels[4].description": "2名得分手得分提升",
+    "levels[5].description": "2名得分手得分提升",
+    "levels[6].description": "2名得分手得分提升",
+    "levels[7].description": "2名得分手得分提升",
+    "levels[8].description": "2名得分手得分提升",
+    "name": "2名活力型得分提升"
+  },
+  "backside-lba-passive_skill-score_up-2": {
+    "levels[0].description": "某人在发动A技能前，得分提升",
+    "levels[1].description": "某人在发动A技能前，得分提升",
+    "levels[2].description": "某人在发动A技能前，得分提升",
+    "levels[3].description": "某人在发动A技能前，得分提升",
+    "levels[4].description": "某人在发动A技能前，得分提升",
+    "levels[5].description": "某人在发动A技能前，得分提升",
+    "levels[6].description": "某人在发动A技能前，得分提升",
+    "levels[7].description": "某人在发动A技能前，得分提升",
+    "levels[8].description": "某人在发动A技能前，得分提升",
+    "name": "某人在发动表现技能前，得分提升"
+  },
+  "backside-lba-passive_skill-score_up-3": {
+    "levels[0].description": "某人在发动SP技能前，得分提升",
+    "levels[1].description": "某人在发动SP技能前，得分提升",
+    "levels[2].description": "某人在发动SP技能前，得分提升",
+    "levels[3].description": "某人在发动SP技能前，得分提升",
+    "levels[4].description": "某人在发动SP技能前，得分提升",
+    "levels[5].description": "某人在发动SP技能前，得分提升",
+    "levels[6].description": "某人在发动SP技能前，得分提升",
+    "levels[7].description": "某人在发动SP技能前，得分提升",
+    "levels[8].description": "某人在发动SP技能前，得分提升",
+    "name": "某人在发动SP技能前，得分提升"
+  },
+  "backside-lba-passive_skill-skill_cool_time_reduction-1": {
+    "levels[0].description": "达到50连击时，得分获得+中心位CT降低",
+    "levels[1].description": "达到50连击时，得分获得+中心位CT降低",
+    "levels[2].description": "达到50连击时，得分获得+中心位CT降低",
+    "levels[3].description": "达到50连击时，得分获得+中心位CT降低",
+    "levels[4].description": "达到50连击时，得分获得+中心位CT降低",
+    "levels[5].description": "达到50连击时，得分获得+中心位CT降低",
+    "levels[6].description": "达到50连击时，得分获得+中心位CT降低",
+    "levels[7].description": "达到50连击时，得分获得+中心位CT降低",
+    "levels[8].description": "达到50连击时，得分获得+中心位CT降低",
+    "name": "达到50连击时，得分获得+中心位CT降低"
+  },
+  "backside-lba-passive_skill-skill_cool_time_reduction-2": {
+    "levels[0].description": "达到50连击时，得分获得+2名得分手CT降低",
+    "levels[1].description": "达到50连击时，得分获得+2名得分手CT降低",
+    "levels[2].description": "达到50连击时，得分获得+2名得分手CT降低",
+    "levels[3].description": "达到50连击时，得分获得+2名得分手CT降低",
+    "levels[4].description": "达到50连击时，得分获得+2名得分手CT降低",
+    "levels[5].description": "达到50连击时，得分获得+2名得分手CT降低",
+    "levels[6].description": "达到50连击时，得分获得+2名得分手CT降低",
+    "levels[7].description": "达到50连击时，得分获得+2名得分手CT降低",
+    "levels[8].description": "达到50连击时，得分获得+2名得分手CT降低",
+    "name": "达到50连击时，得分获得+2名活力型CT降低"
+  },
+  "backside-lba-passive_skill-skill_critical_bonus_permil_up-1": {
+    "levels[0].description": "某人在发动A技能前，得分获得+暴击系数提升",
+    "levels[1].description": "某人在发动A技能前，得分获得+暴击系数提升",
+    "levels[2].description": "某人在发动A技能前，得分获得+暴击系数提升",
+    "levels[3].description": "某人在发动A技能前，得分获得+暴击系数提升",
+    "levels[4].description": "某人在发动A技能前，得分获得+暴击系数提升",
+    "levels[5].description": "某人在发动A技能前，得分获得+暴击系数提升",
+    "levels[6].description": "某人在发动A技能前，得分获得+暴击系数提升",
+    "levels[7].description": "某人在发动A技能前，得分获得+暴击系数提升",
+    "levels[8].description": "某人在发动A技能前，得分获得+暴击系数提升",
+    "name": "某人在发动表现技能前，得分获得+暴击系数提升"
+  },
+  "backside-lba-passive_skill-skill_critical_bonus_permil_up-2": {
+    "levels[0].description": "某人在发动SP技能前，得分获得+暴击系数提升",
+    "levels[1].description": "某人在发动SP技能前，得分获得+暴击系数提升",
+    "levels[2].description": "某人在发动SP技能前，得分获得+暴击系数提升",
+    "levels[3].description": "某人在发动SP技能前，得分获得+暴击系数提升",
+    "levels[4].description": "某人在发动SP技能前，得分获得+暴击系数提升",
+    "levels[5].description": "某人在发动SP技能前，得分获得+暴击系数提升",
+    "levels[6].description": "某人在发动SP技能前，得分获得+暴击系数提升",
+    "levels[7].description": "某人在发动SP技能前，得分获得+暴击系数提升",
+    "levels[8].description": "某人在发动SP技能前，得分获得+暴击系数提升",
+    "name": "某人在发动SP技能前，得分获得+暴击系数提升"
+  },
+  "backside-lba-passive_skill-skill_critical_rate_up-1": {
+    "levels[0].description": "某人在发动A技能前，得分获得+暴击率提升",
+    "levels[1].description": "某人在发动A技能前，得分获得+暴击率提升",
+    "levels[2].description": "某人在发动A技能前，得分获得+暴击率提升",
+    "levels[3].description": "某人在发动A技能前，得分获得+暴击率提升",
+    "levels[4].description": "某人在发动A技能前，得分获得+暴击率提升",
+    "levels[5].description": "某人在发动A技能前，得分获得+暴击率提升",
+    "levels[6].description": "某人在发动A技能前，得分获得+暴击率提升",
+    "levels[7].description": "某人在发动A技能前，得分获得+暴击率提升",
+    "levels[8].description": "某人在发动A技能前，得分获得+暴击率提升",
+    "name": "某人在发动表现技能前，得分获得+暴击率提升"
+  },
+  "backside-lba-passive_skill-skill_critical_rate_up-2": {
+    "levels[0].description": "某人在发动SP技能前，得分获得+暴击率提升",
+    "levels[1].description": "某人在发动SP技能前，得分获得+暴击率提升",
+    "levels[2].description": "某人在发动SP技能前，得分获得+暴击率提升",
+    "levels[3].description": "某人在发动SP技能前，得分获得+暴击率提升",
+    "levels[4].description": "某人在发动SP技能前，得分获得+暴击率提升",
+    "levels[5].description": "某人在发动SP技能前，得分获得+暴击率提升",
+    "levels[6].description": "某人在发动SP技能前，得分获得+暴击率提升",
+    "levels[7].description": "某人在发动SP技能前，得分获得+暴击率提升",
+    "levels[8].description": "某人在发动SP技能前，得分获得+暴击率提升",
+    "name": "某人在发动SP技能前，得分获得+暴击率提升"
+  },
+  "backside-lba-passive_skill-skill_fix_stamina_recovery-1": {
+    "levels[0].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的1名角色的耐力（仅1次）",
+    "levels[1].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的1名角色的耐力（仅1次）",
+    "levels[2].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的1名角色的耐力（仅1次）",
+    "levels[3].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的1名角色的耐力（仅1次）",
+    "levels[4].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的1名角色的耐力（仅1次）",
+    "levels[5].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的1名角色的耐力（仅1次）",
+    "levels[6].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的1名角色的耐力（仅1次）",
+    "levels[7].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的1名角色的耐力（仅1次）",
+    "levels[8].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的1名角色的耐力（仅1次）",
+    "name": "某人耐力在70%以下时，得分获得+恢复耐力最低的1名角色的耐力（仅1次）"
+  },
+  "backside-lba-passive_skill-skill_fix_stamina_recovery-2": {
+    "levels[0].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的3名角色的耐力（仅1次）",
+    "levels[1].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的3名角色的耐力（仅1次）",
+    "levels[2].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的3名角色的耐力（仅1次）",
+    "levels[3].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的3名角色的耐力（仅1次）",
+    "levels[4].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的3名角色的耐力（仅1次）",
+    "levels[5].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的3名角色的耐力（仅1次）",
+    "levels[6].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的3名角色的耐力（仅1次）",
+    "levels[7].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的3名角色的耐力（仅1次）",
+    "levels[8].description": "某人耐力在70%以下时，得分获得+恢复耐力最低的3名角色的耐力（仅1次）",
+    "name": "某人耐力在70%以下时，得分获得+恢复耐力最低的3名角色的耐力（仅1次）"
+  },
+  "backside-lba-passive_skill-skill_score_up-1": {
+    "levels[0].description": "2名得分手A技能得分提升",
+    "levels[1].description": "2名得分手A技能得分提升",
+    "levels[2].description": "2名得分手A技能得分提升",
+    "levels[3].description": "2名得分手A技能得分提升",
+    "levels[4].description": "2名得分手A技能得分提升",
+    "levels[5].description": "2名得分手A技能得分提升",
+    "levels[6].description": "2名得分手A技能得分提升",
+    "levels[7].description": "2名得分手A技能得分提升",
+    "levels[8].description": "2名得分手A技能得分提升",
+    "name": "2名活力型A技能得分提升"
+  },
+  "backside-lba-passive_skill-skill_score_up-2": {
+    "levels[0].description": "某人在发动A技能前，A技能得分提升",
+    "levels[1].description": "某人在发动A技能前，A技能得分提升",
+    "levels[2].description": "某人在发动A技能前，A技能得分提升",
+    "levels[3].description": "某人在发动A技能前，A技能得分提升",
+    "levels[4].description": "某人在发动A技能前，A技能得分提升",
+    "levels[5].description": "某人在发动A技能前，A技能得分提升",
+    "levels[6].description": "某人在发动A技能前，A技能得分提升",
+    "levels[7].description": "某人在发动A技能前，A技能得分提升",
+    "levels[8].description": "某人在发动A技能前，A技能得分提升",
+    "name": "某人在发动表现技能前，A技能得分提升"
+  },
+  "backside-lba-passive_skill-skill_strength_effect_count_increase-1": {
+    "levels[0].description": "达到50连击时，得分获得+中心位强化效果次数增加",
+    "levels[1].description": "达到50连击时，得分获得+中心位强化效果次数增加",
+    "levels[2].description": "达到50连击时，得分获得+中心位强化效果次数增加",
+    "levels[3].description": "达到50连击时，得分获得+中心位强化效果次数增加",
+    "levels[4].description": "达到50连击时，得分获得+中心位强化效果次数增加",
+    "levels[5].description": "达到50连击时，得分获得+中心位强化效果次数增加",
+    "levels[6].description": "达到50连击时，得分获得+中心位强化效果次数增加",
+    "levels[7].description": "达到50连击时，得分获得+中心位强化效果次数增加",
+    "levels[8].description": "达到50连击时，得分获得+中心位强化效果次数增加",
+    "name": "达到50连击时，得分获得+中心位强化效果次数增加"
+  },
+  "backside-lba-passive_skill-skill_strength_effect_count_increase-2": {
+    "levels[0].description": "达到50连击时，得分获得+2名得分手强化效果次数增加",
+    "levels[1].description": "达到50连击时，得分获得+2名得分手强化效果次数增加",
+    "levels[2].description": "达到50连击时，得分获得+2名得分手强化效果次数增加",
+    "levels[3].description": "达到50连击时，得分获得+2名得分手强化效果次数增加",
+    "levels[4].description": "达到50连击时，得分获得+2名得分手强化效果次数增加",
+    "levels[5].description": "达到50连击时，得分获得+2名得分手强化效果次数增加",
+    "levels[6].description": "达到50连击时，得分获得+2名得分手强化效果次数增加",
+    "levels[7].description": "达到50连击时，得分获得+2名得分手强化效果次数增加",
+    "levels[8].description": "达到50连击时，得分获得+2名得分手强化效果次数增加",
+    "name": "达到50连击时，获得分数+2名活跃类型强化效果次数增加"
+  },
+  "backside-lba-passive_skill-skill_strength_effect_value_increase-1": {
+    "levels[0].description": "达到50连击时，获得分数+中心位强化效果增强",
+    "levels[1].description": "达到50连击时，获得分数+中心位强化效果增强",
+    "levels[2].description": "达到50连击时，获得分数+中心位强化效果增强",
+    "levels[3].description": "达到50连击时，获得分数+中心位强化效果增强",
+    "levels[4].description": "达到50连击时，获得分数+中心位强化效果增强",
+    "levels[5].description": "达到50连击时，获得分数+中心位强化效果增强",
+    "levels[6].description": "达到50连击时，获得分数+中心位强化效果增强",
+    "levels[7].description": "达到50连击时，获得分数+中心位强化效果增强",
+    "levels[8].description": "达到50连击时，获得分数+中心位强化效果增强",
+    "name": "达到50连击时，获得分数+中心位强化效果增强"
+  },
+  "backside-lba-passive_skill-skill_strength_effect_value_increase-2": {
+    "levels[0].description": "达到50连击时，获得分数+2名得分手强化效果增强",
+    "levels[1].description": "达到50连击时，获得分数+2名得分手强化效果增强",
+    "levels[2].description": "达到50连击时，获得分数+2名得分手强化效果增强",
+    "levels[3].description": "达到50连击时，获得分数+2名得分手强化效果增强",
+    "levels[4].description": "达到50连击时，获得分数+2名得分手强化效果增强",
+    "levels[5].description": "达到50连击时，获得分数+2名得分手强化效果增强",
+    "levels[6].description": "达到50连击时，获得分数+2名得分手强化效果增强",
+    "levels[7].description": "达到50连击时，获得分数+2名得分手强化效果增强",
+    "levels[8].description": "达到50连击时，获得分数+2名得分手强化效果增强",
+    "name": "达到50连击时，获得分数+2名活跃类型强化效果增强"
+  },
+  "backside-lba-passive_skill-visual_up-1": {
+    "levels[0].description": "2名得分手视觉提升",
+    "levels[1].description": "2名得分手视觉提升",
+    "levels[2].description": "2名得分手视觉提升",
+    "levels[3].description": "2名得分手视觉提升",
+    "levels[4].description": "2名得分手视觉提升",
+    "levels[5].description": "2名得分手视觉提升",
+    "levels[6].description": "2名得分手视觉提升",
+    "levels[7].description": "2名得分手视觉提升",
+    "levels[8].description": "2名得分手视觉提升",
+    "name": "2名活跃类型视觉提升"
+  },
+  "backside-lba-passive_skill-visual_up-2": {
+    "levels[0].description": "视觉最高的3人视觉提升",
+    "levels[1].description": "视觉最高的3人视觉提升",
+    "levels[2].description": "视觉最高的3人视觉提升",
+    "levels[3].description": "视觉最高的3人视觉提升",
+    "levels[4].description": "视觉最高的3人视觉提升",
+    "levels[5].description": "视觉最高的3人视觉提升",
+    "levels[6].description": "视觉最高的3人视觉提升",
+    "levels[7].description": "视觉最高的3人视觉提升",
+    "levels[8].description": "视觉最高的3人视觉提升",
+    "name": "视觉最高的3人视觉提升"
+  },
+  "backside-lba-passive_skill-visual_up-3": {
+    "levels[0].description": "某人在A技能发动前，视觉提升",
+    "levels[1].description": "某人在A技能发动前，视觉提升",
+    "levels[2].description": "某人在A技能发动前，视觉提升",
+    "levels[3].description": "某人在A技能发动前，视觉提升",
+    "levels[4].description": "某人在A技能发动前，视觉提升",
+    "levels[5].description": "某人在A技能发动前，视觉提升",
+    "levels[6].description": "某人在A技能发动前，视觉提升",
+    "levels[7].description": "某人在A技能发动前，视觉提升",
+    "levels[8].description": "某人在A技能发动前，视觉提升",
+    "name": "某人在表现技能发动前，视觉提升"
+  },
+  "backside-lba-passive_skill-visual_up-4": {
+    "levels[0].description": "某人在SP技能发动前，视觉提升",
+    "levels[1].description": "某人在SP技能发动前，视觉提升",
+    "levels[2].description": "某人在SP技能发动前，视觉提升",
+    "levels[3].description": "某人在SP技能发动前，视觉提升",
+    "levels[4].description": "某人在SP技能发动前，视觉提升",
+    "levels[5].description": "某人在SP技能发动前，视觉提升",
+    "levels[6].description": "某人在SP技能发动前，视觉提升",
+    "levels[7].description": "某人在SP技能发动前，视觉提升",
+    "levels[8].description": "某人在SP技能发动前，视觉提升",
+    "name": "某人在SP技能发动前，视觉提升"
+  },
+  "backside-lba-passive_skill-vocal_up-1": {
+    "levels[0].description": "2名得分手歌唱提升",
+    "levels[1].description": "2名得分手歌唱提升",
+    "levels[2].description": "2名得分手歌唱提升",
+    "levels[3].description": "2名得分手歌唱提升",
+    "levels[4].description": "2名得分手歌唱提升",
+    "levels[5].description": "2名得分手歌唱提升",
+    "levels[6].description": "2名得分手歌唱提升",
+    "levels[7].description": "2名得分手歌唱提升",
+    "levels[8].description": "2名得分手歌唱提升",
+    "name": "2名活跃类型歌唱提升"
+  },
+  "backside-lba-passive_skill-vocal_up-2": {
+    "levels[0].description": "歌唱力最高的3人歌唱力提升",
+    "levels[1].description": "歌唱力最高的3人歌唱力提升",
+    "levels[2].description": "歌唱力最高的3人歌唱力提升",
+    "levels[3].description": "歌唱力最高的3人歌唱力提升",
+    "levels[4].description": "歌唱力最高的3人歌唱力提升",
+    "levels[5].description": "歌唱力最高的3人歌唱力提升",
+    "levels[6].description": "歌唱力最高的3人歌唱力提升",
+    "levels[7].description": "歌唱力最高的3人歌唱力提升",
+    "levels[8].description": "歌唱力最高的3人歌唱力提升",
+    "name": "歌唱力最高的3人歌唱力提升"
+  },
+  "backside-lba-passive_skill-vocal_up-3": {
+    "levels[0].description": "某人在A技能发动前，歌唱力提升",
+    "levels[1].description": "某人在A技能发动前，歌唱力提升",
+    "levels[2].description": "某人在A技能发动前，歌唱力提升",
+    "levels[3].description": "某人在A技能发动前，歌唱力提升",
+    "levels[4].description": "某人在A技能发动前，歌唱力提升",
+    "levels[5].description": "某人在A技能发动前，歌唱力提升",
+    "levels[6].description": "某人在A技能发动前，歌唱力提升",
+    "levels[7].description": "某人在A技能发动前，歌唱力提升",
+    "levels[8].description": "某人在A技能发动前，歌唱力提升",
+    "name": "某人在表现技能发动前，歌唱力提升"
+  },
+  "backside-lba-passive_skill-vocal_up-4": {
+    "levels[0].description": "某人在SP技能发动前，歌唱力提升",
+    "levels[1].description": "某人在SP技能发动前，歌唱力提升",
+    "levels[2].description": "某人在SP技能发动前，歌唱力提升",
+    "levels[3].description": "某人在SP技能发动前，歌唱力提升",
+    "levels[4].description": "某人在SP技能发动前，歌唱力提升",
+    "levels[5].description": "某人在SP技能发动前，歌唱力提升",
+    "levels[6].description": "某人在SP技能发动前，歌唱力提升",
+    "levels[7].description": "某人在SP技能发动前，歌唱力提升",
+    "levels[8].description": "某人在SP技能发动前，歌唱力提升",
+    "name": "某人在SP技能发动前，歌唱力提升"
+  },
+  "backside-lba-photo_level_up": {
+    "levels[0].description": "照片品质提升5",
+    "levels[1].description": "照片品质提升10",
+    "name": "照片品质提升"
+  },
+  "backside-lba-special_skill_score_add_1": {
+    "levels[0].description": "SP技能得分提升397300",
+    "levels[1].description": "SP技能得分提升441300",
+    "levels[2].description": "SP技能得分提升486000",
+    "levels[3].description": "SP技能得分提升530000",
+    "levels[4].description": "SP技能得分提升618000",
+    "levels[5].description": "SP技能分数提升706600",
+    "levels[6].description": "SP技能分数提升794600",
+    "levels[7].description": "SP技能分数提升883300",
+    "levels[8].description": "SP技能分数提升1016000",
+    "name": "SP技能分数提升"
+  },
+  "backside-lba-special_skill_score_add_2": {
+    "levels[0].description": "SP技能分数提升596000",
+    "levels[1].description": "SP技能分数提升662000",
+    "levels[2].description": "SP技能分数提升729000",
+    "levels[3].description": "SP技能分数提升795000",
+    "levels[4].description": "SP技能分数提升927000",
+    "levels[5].description": "SP技能分数提升1060000",
+    "levels[6].description": "SP技能分数提升1192000",
+    "levels[7].description": "SP技能得分1325000上升",
+    "levels[8].description": "SP技能得分1524000上升",
+    "name": "SP技能分数提升"
+  },
+  "backside-lba-special_skill_score_multiply": {
+    "levels[0].description": "SP技能得分9.0%上升",
+    "levels[1].description": "SP技能得分10.0%上升",
+    "levels[2].description": "SP技能得分11.0%上升",
+    "levels[3].description": "SP技能得分12.0%上升",
+    "levels[4].description": "SP技能得分14.0%上升",
+    "levels[5].description": "SP技能得分16.0%上升",
+    "levels[6].description": "SP技能得分18.0%上升",
+    "levels[7].description": "SP技能得分20.0%上升",
+    "levels[8].description": "SP技能得分23.0%上升",
+    "name": "SP技能分数提升"
+  },
+  "backside-lba-stamina_add_1": {
+    "levels[0].description": "体力400上升",
+    "levels[1].description": "体力上升500",
+    "levels[2].description": "体力上升600",
+    "levels[3].description": "体力上升700",
+    "levels[4].description": "体力上升800",
+    "levels[5].description": "体力上升900",
+    "levels[6].description": "体力上升1000",
+    "levels[7].description": "体力上升1100",
+    "levels[8].description": "体力上升1200",
+    "name": "体力提升"
+  },
+  "backside-lba-stamina_add_2": {
+    "levels[0].description": "体力上升600",
+    "levels[1].description": "体力上升750",
+    "levels[2].description": "体力上升900",
+    "levels[3].description": "体力上升1050",
+    "levels[4].description": "体力上升1200",
+    "levels[5].description": "体力上升1350",
+    "levels[6].description": "体力提升1500",
+    "levels[7].description": "体力提升1650",
+    "levels[8].description": "体力提升1800",
+    "name": "体力提升"
+  },
+  "backside-lba-stamina_multiply": {
+    "levels[0].description": "体力提升50.0%",
+    "levels[1].description": "体力提升60.0%",
+    "levels[2].description": "体力提升70.0%",
+    "levels[3].description": "体力提升80.0%",
+    "levels[4].description": "体力提升90.0%",
+    "levels[5].description": "体力提升100.0%",
+    "levels[6].description": "体力提升110.0%",
+    "levels[7].description": "体力提升130.0%",
+    "levels[8].description": "体力提升150.0%",
+    "name": "体力提升"
+  },
+  "backside-lba-technique_add_1": {
+    "levels[0].description": "暴击提升600",
+    "levels[1].description": "暴击提升735",
+    "levels[2].description": "暴击提升800",
+    "levels[3].description": "暴击提升870",
+    "levels[4].description": "暴击提升1000",
+    "levels[5].description": "暴击提升1135",
+    "levels[6].description": "暴击提升1270",
+    "levels[7].description": "暴击提升1470",
+    "levels[8].description": "暴击提升1670",
+    "name": "暴击提升"
+  },
+  "backside-lba-technique_add_2": {
+    "levels[0].description": "暴击提升900",
+    "levels[1].description": "暴击提升1100",
+    "levels[2].description": "暴击提升1200",
+    "levels[3].description": "暴击提升1300",
+    "levels[4].description": "暴击提升1500",
+    "levels[5].description": "暴击提升1700",
+    "levels[6].description": "暴击提升1900",
+    "levels[7].description": "暴击提升2200",
+    "levels[8].description": "暴击提升2500",
+    "name": "暴击提升"
+  },
+  "backside-lba-technique_multiply": {
+    "levels[0].description": "暴击提升15.0%",
+    "levels[1].description": "暴击提升17.0%",
+    "levels[2].description": "暴击提升19.0%",
+    "levels[3].description": "暴击提升21.0%",
+    "levels[4].description": "暴击提升24.0%",
+    "levels[5].description": "暴击率27.0%上升",
+    "levels[6].description": "暴击率30.0%上升",
+    "levels[7].description": "暴击率35.0%上升",
+    "levels[8].description": "暴击率40.0%上升",
+    "name": "暴击提升"
+  },
+  "backside-lba-visual_add_1": {
+    "levels[0].description": "表现力12600上升",
+    "levels[1].description": "表现力13300上升",
+    "levels[2].description": "表现力15300上升",
+    "levels[3].description": "表现力18000上升",
+    "levels[4].description": "表现力20000上升",
+    "levels[5].description": "表现力22000上升",
+    "levels[6].description": "表现力25300上升",
+    "levels[7].description": "表现力28000上升",
+    "levels[8].description": "视觉31300上升",
+    "name": "视觉提升"
+  },
+  "backside-lba-visual_add_2": {
+    "levels[0].description": "视觉19000上升",
+    "levels[1].description": "表现力20000上升",
+    "levels[2].description": "视觉23000上升",
+    "levels[3].description": "视觉27000上升",
+    "levels[4].description": "视觉30000上升",
+    "levels[5].description": "视觉33000上升",
+    "levels[6].description": "视觉38000上升",
+    "levels[7].description": "视觉42000上升",
+    "levels[8].description": "视觉47000上升",
+    "name": "视觉提升"
+  },
+  "backside-lba-visual_multiply": {
+    "levels[0].description": "视觉12.0%上升",
+    "levels[1].description": "视觉13.0%上升",
+    "levels[2].description": "视觉15.0%上升",
+    "levels[3].description": "视觉17.0%上升",
+    "levels[4].description": "视觉19.0%上升",
+    "levels[5].description": "视觉21.0%上升",
+    "levels[6].description": "视觉24.0%上升",
+    "levels[7].description": "视觉27.0%上升",
+    "levels[8].description": "视觉30.0%上升",
+    "name": "视觉提升"
+  },
+  "backside-lba-vocal_add_1": {
+    "levels[0].description": "歌唱12600上升",
+    "levels[1].description": "歌唱13300上升",
+    "levels[2].description": "歌唱15300上升",
+    "levels[3].description": "歌唱18000上升",
+    "levels[4].description": "歌唱20000上升",
+    "levels[5].description": "声乐22000上升",
+    "levels[6].description": "声乐25300上升",
+    "levels[7].description": "声乐28000上升",
+    "levels[8].description": "声乐31300上升",
+    "name": "声乐提升"
+  },
+  "backside-lba-vocal_add_2": {
+    "levels[0].description": "声乐19000上升",
+    "levels[1].description": "歌唱20000上升",
+    "levels[2].description": "声乐23000上升",
+    "levels[3].description": "声乐27000上升",
+    "levels[4].description": "声乐30000上升",
+    "levels[5].description": "声乐33000上升",
+    "levels[6].description": "声乐38000上升",
+    "levels[7].description": "声乐42000上升",
+    "levels[8].description": "声乐47000上升",
+    "name": "声乐提升"
+  },
+  "backside-lba-vocal_multiply": {
+    "levels[0].description": "声乐12.0%上升",
+    "levels[1].description": "声乐13.0%上升",
+    "levels[2].description": "声乐15.0%上升",
+    "levels[3].description": "声乐17.0%上升",
+    "levels[4].description": "声乐19.0%上升",
+    "levels[5].description": "声乐21.0%上升",
+    "levels[6].description": "声乐24.0%上升",
+    "levels[7].description": "声乐27.0%上升",
+    "levels[8].description": "声乐30.0%上升",
+    "name": "声乐提升"
+  },
+  "dice_live_bonus-active_skill_score_multiply": {
+    "levels[0].description": "A技能得分5.0%上升",
+    "levels[1].description": "A技能得分10.0%上升",
+    "levels[2].description": "A技能得分提升15.0%",
+    "name": "A技能得分提升"
+  },
+  "dice_live_bonus-beat_score_multiply": {
+    "levels[0].description": "节拍得分提升20.0%",
+    "levels[1].description": "节拍得分提升35.0%",
+    "levels[2].description": "节拍得分提升50.0%",
+    "name": "节拍得分提升"
+  },
+  "dice_live_bonus-critical_score_multiply": {
+    "levels[0].description": "暴击得分提升5.0%",
+    "levels[1].description": "暴击得分提升10.0%",
+    "levels[2].description": "暴击得分提升15.0%",
+    "name": "暴击得分提升"
+  },
+  "dice_live_bonus-dance_add": {
+    "levels[0].description": "舞蹈提升3000",
+    "levels[1].description": "舞蹈提升6500",
+    "levels[2].description": "舞蹈提升10000",
+    "name": "舞蹈提升"
+  },
+  "dice_live_bonus-mental_add": {
+    "levels[0].description": "精神450提升",
+    "levels[1].description": "精神600提升",
+    "levels[2].description": "精神750提升",
+    "name": "精神提升"
+  },
+  "dice_live_bonus-passive_skill-001": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-002": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-003": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-004": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-005": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-006": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-007": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-008": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-009": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-010": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-011": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-012": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-013": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-014": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-015": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-016": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-017": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-018": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-019": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-020": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-021": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-022": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-023": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-024": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-025": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-026": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-027": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-028": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-029": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-030": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-031": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-032": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-033": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-034": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-035": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-036": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-037": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-038": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-039": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-040": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-041": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-042": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-043": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-044": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-045": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-046": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-047": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-048": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-049": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-050": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-051": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-052": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-053": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-054": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-055": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-056": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-057": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-058": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-059": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-060": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-061": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-062": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-063": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-064": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-065": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-066": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-067": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-068": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-069": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-passive_skill-070": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "被动技能"
+  },
+  "dice_live_bonus-special_skill_score_multiply": {
+    "levels[0].description": "SP技能得分5.0%提升",
+    "levels[1].description": "SP技能得分10.0%上升",
+    "levels[2].description": "SP技能得分15.0%提升",
+    "name": "SP技能得分提升"
+  },
+  "dice_live_bonus-stamina_add": {
+    "levels[0].description": "体力300提升",
+    "levels[1].description": "体力400上升",
+    "levels[2].description": "体力上升500",
+    "name": "体力提升"
+  },
+  "dice_live_bonus-technique_add": {
+    "levels[0].description": "暴击450上升",
+    "levels[1].description": "暴击提升600",
+    "levels[2].description": "暴击750上升",
+    "name": "暴击率上升"
+  },
+  "dice_live_bonus-visual_add": {
+    "levels[0].description": "表现力3000上升",
+    "levels[1].description": "表现力6500上升",
+    "levels[2].description": "表现力10000上升",
+    "name": "表现力上升"
+  },
+  "dice_live_bonus-vocal_add": {
+    "levels[0].description": "歌唱力3000上升",
+    "levels[1].description": "歌唱力6500上升",
+    "levels[2].description": "歌唱力10000上升",
+    "name": "歌唱力上升"
+  },
+  "lba-active_skill_score_multiply": {
+    "levels[0].description": "A技能得分0.5%上升",
+    "levels[1].description": "A技能得分提升1.0%",
+    "levels[2].description": "A技能得分提升1.5%",
+    "levels[3].description": "A技能得分提升2.5%",
+    "levels[4].description": "A技能得分提升3.0%",
+    "levels[5].description": "A技能得分提升4.0%",
+    "name": "A技能分数提升"
+  },
+  "lba-ai-04-casl-00": {
+    "levels[0].description": "视觉提升1.0%",
+    "levels[1].description": "视觉提升1.5%",
+    "levels[2].description": "视觉提升2.0%",
+    "levels[3].description": "视觉提升3.0%",
+    "name": "视觉提升"
+  },
+  "lba-ai-05-idol-00": {
+    "levels[0].description": "节拍得分提升2.0%",
+    "levels[1].description": "节拍得分提升2.5%",
+    "levels[2].description": "节拍得分提升3.0%",
+    "levels[3].description": "节拍得分上升4.0%",
+    "name": "节拍得分提升"
+  },
+  "lba-aoi-04-casl-00": {
+    "levels[0].description": "SP技能得分上升1.5%",
+    "levels[1].description": "SP技能得分上升2.5%",
+    "levels[2].description": "SP技能得分上升3.5%",
+    "levels[3].description": "SP技能得分5.0%提升",
+    "name": "SP技能分数提升"
+  },
+  "lba-aoi-05-idol-00": {
+    "levels[0].description": "暴击得分上升1.0%",
+    "levels[1].description": "暴击得分上升1.5%",
+    "levels[2].description": "暴击得分上升2.0%",
+    "levels[3].description": "暴击得分上升3.0%",
+    "name": "暴击分数提升"
+  },
+  "lba-aoi-05-kait-00": {
+    "levels[0].description": "SP技能得分上升1.5%",
+    "levels[1].description": "SP技能得分上升2.5%",
+    "levels[2].description": "SP技能得分上升3.5%",
+    "levels[3].description": "SP技能得分5.0%提升",
+    "name": "SP技能分数提升"
+  },
+  "lba-beat_score_multiply": {
+    "levels[0].description": "节拍得分提升2.0%",
+    "levels[1].description": "节拍得分提升2.5%",
+    "levels[2].description": "节拍得分提升3.0%",
+    "levels[3].description": "节拍得分上升4.0%",
+    "levels[4].description": "节拍得分上升5.0%",
+    "levels[5].description": "节拍得分上升6.0%",
+    "name": "节拍得分提升"
+  },
+  "lba-chs-04-casl-00": {
+    "levels[0].description": "节拍得分提升2.0%",
+    "levels[1].description": "节拍得分提升2.5%",
+    "levels[2].description": "节拍得分提升3.0%",
+    "levels[3].description": "节拍得分上升4.0%",
+    "name": "节拍得分提升"
+  },
+  "lba-chs-05-idol-00": {
+    "levels[0].description": "视觉提升1.0%",
+    "levels[1].description": "视觉提升1.5%",
+    "levels[2].description": "视觉提升2.0%",
+    "levels[3].description": "视觉提升3.0%",
+    "name": "视觉提升"
+  },
+  "lba-chs-05-seik-00": {
+    "levels[0].description": "节拍得分提升2.0%",
+    "levels[1].description": "节拍得分提升2.5%",
+    "levels[2].description": "节拍得分提升3.0%",
+    "levels[3].description": "节拍得分上升4.0%",
+    "name": "节拍得分提升"
+  },
+  "lba-critical_score_multiply": {
+    "levels[0].description": "暴击得分上升1.0%",
+    "levels[1].description": "暴击得分上升1.5%",
+    "levels[2].description": "暴击得分上升2.0%",
+    "levels[3].description": "暴击得分上升3.0%",
+    "levels[4].description": "暴击得分上升3.5%",
+    "levels[5].description": "暴击得分提升5.0%",
+    "name": "暴击分数提升"
+  },
+  "lba-dance_multiply": {
+    "levels[0].description": "舞蹈上升1.0%",
+    "levels[1].description": "舞蹈提升1.5%",
+    "levels[2].description": "舞蹈提升2.0%",
+    "levels[3].description": "舞蹈提升3.0%",
+    "levels[4].description": "舞蹈提升4.0%",
+    "levels[5].description": "舞蹈提升5.0%",
+    "name": "舞蹈提升"
+  },
+  "lba-hrk-04-casl-00": {
+    "levels[0].description": "视觉提升1.0%",
+    "levels[1].description": "视觉提升1.5%",
+    "levels[2].description": "视觉提升2.0%",
+    "levels[3].description": "视觉提升3.0%",
+    "name": "视觉提升"
+  },
+  "lba-hrk-05-idol-00": {
+    "levels[0].description": "歌唱提升1.0%",
+    "levels[1].description": "歌唱提升1.5%",
+    "levels[2].description": "歌唱提升2.0%",
+    "levels[3].description": "歌唱提升3.0%",
+    "name": "声乐提升"
+  },
+  "lba-hrk-05-mizg-01": {
+    "levels[0].description": "SP技能得分上升1.5%",
+    "levels[1].description": "SP技能得分上升2.5%",
+    "levels[2].description": "SP技能得分上升3.5%",
+    "levels[3].description": "SP技能得分5.0%提升",
+    "name": "SP技能分数提升"
+  },
+  "lba-kkr-04-casl-00": {
+    "levels[0].description": "歌唱提升1.0%",
+    "levels[1].description": "歌唱提升1.5%",
+    "levels[2].description": "歌唱提升2.0%",
+    "levels[3].description": "歌唱提升3.0%",
+    "name": "声乐提升"
+  },
+  "lba-kkr-05-idol-00": {
+    "levels[0].description": "A技能得分0.5%上升",
+    "levels[1].description": "A技能得分提升1.0%",
+    "levels[2].description": "A技能得分提升1.5%",
+    "levels[3].description": "A技能得分提升2.5%",
+    "name": "A技能分数提升"
+  },
+  "lba-ktn-05-idol-00": {
+    "levels[0].description": "暴击得分上升1.0%",
+    "levels[1].description": "暴击得分上升1.5%",
+    "levels[2].description": "暴击得分上升2.0%",
+    "levels[3].description": "暴击得分上升3.0%",
+    "name": "暴击分数提升"
+  },
+  "lba-mei-05-idol-00": {
+    "levels[0].description": "SP技能得分上升1.5%",
+    "levels[1].description": "SP技能得分上升2.5%",
+    "levels[2].description": "SP技能得分上升3.5%",
+    "levels[3].description": "SP技能得分5.0%提升",
+    "name": "SP技能分数提升"
+  },
+  "lba-mei-05-mizg-01": {
+    "levels[0].description": "暴击得分上升1.0%",
+    "levels[1].description": "暴击得分上升1.5%",
+    "levels[2].description": "暴击得分上升2.0%",
+    "levels[3].description": "暴击得分上升3.0%",
+    "name": "暴击分数提升"
+  },
+  "lba-mei-05-rock-00": {
+    "levels[0].description": "SP技能得分上升1.5%",
+    "levels[1].description": "SP技能得分上升2.5%",
+    "levels[2].description": "SP技能得分上升3.5%",
+    "levels[3].description": "SP技能得分5.0%提升",
+    "name": "SP技能分数提升"
+  },
+  "lba-mental_add": {
+    "levels[0].description": "精神提升100",
+    "levels[1].description": "精神提升150",
+    "levels[2].description": "精神提升200",
+    "levels[3].description": "精神300上升",
+    "levels[4].description": "精神400上升",
+    "levels[5].description": "精神500上升",
+    "name": "精神提升"
+  },
+  "lba-ngs-04-casl-00": {
+    "levels[0].description": "A技能得分0.5%上升",
+    "levels[1].description": "A技能得分提升1.0%",
+    "levels[2].description": "A技能得分提升1.5%",
+    "levels[3].description": "A技能得分提升2.5%",
+    "name": "A技能分数提升"
+  },
+  "lba-ngs-05-idol-00": {
+    "levels[0].description": "视觉提升1.0%",
+    "levels[1].description": "视觉提升1.5%",
+    "levels[2].description": "视觉提升2.0%",
+    "levels[3].description": "视觉提升3.0%",
+    "name": "视觉提升"
+  },
+  "lba-ngs-05-mizg-01": {
+    "levels[0].description": "舞蹈上升1.0%",
+    "levels[1].description": "舞蹈提升1.5%",
+    "levels[2].description": "舞蹈提升2.0%",
+    "levels[3].description": "舞蹈提升3.0%",
+    "name": "舞蹈提升"
+  },
+  "lba-rei-04-casl-00": {
+    "levels[0].description": "舞蹈上升1.0%",
+    "levels[1].description": "舞蹈提升1.5%",
+    "levels[2].description": "舞蹈提升2.0%",
+    "levels[3].description": "舞蹈提升3.0%",
+    "name": "舞蹈提升"
+  },
+  "lba-rei-05-idol-00": {
+    "levels[0].description": "舞蹈上升1.0%",
+    "levels[1].description": "舞蹈提升1.5%",
+    "levels[2].description": "舞蹈提升2.0%",
+    "levels[3].description": "舞蹈提升3.0%",
+    "name": "舞蹈提升"
+  },
+  "lba-rei-05-rock-00": {
+    "levels[0].description": "视觉提升1.0%",
+    "levels[1].description": "视觉提升1.5%",
+    "levels[2].description": "视觉提升2.0%",
+    "levels[3].description": "视觉提升3.0%",
+    "name": "视觉提升"
+  },
+  "lba-rio-04-casl-00": {
+    "levels[0].description": "舞蹈上升1.0%",
+    "levels[1].description": "舞蹈提升1.5%",
+    "levels[2].description": "舞蹈提升2.0%",
+    "levels[3].description": "舞蹈提升3.0%",
+    "name": "舞蹈提升"
+  },
+  "lba-rio-05-halw-00": {
+    "levels[0].description": "舞蹈上升1.0%",
+    "levels[1].description": "舞蹈提升1.5%",
+    "levels[2].description": "舞蹈提升2.0%",
+    "levels[3].description": "舞蹈提升3.0%",
+    "name": "舞蹈提升"
+  },
+  "lba-rio-05-idol-00": {
+    "levels[0].description": "A技能得分0.5%上升",
+    "levels[1].description": "A技能得分提升1.0%",
+    "levels[2].description": "A技能得分提升1.5%",
+    "levels[3].description": "A技能得分提升2.5%",
+    "name": "A技能分数提升"
+  },
+  "lba-rui-04-casl-00": {
+    "levels[0].description": "歌唱提升1.0%",
+    "levels[1].description": "歌唱提升1.5%",
+    "levels[2].description": "歌唱提升2.0%",
+    "levels[3].description": "歌唱提升3.0%",
+    "name": "声乐提升"
+  },
+  "lba-rui-05-idol-00": {
+    "levels[0].description": "节拍得分提升2.0%",
+    "levels[1].description": "节拍得分提升2.5%",
+    "levels[2].description": "节拍得分提升3.0%",
+    "levels[3].description": "节拍得分上升4.0%",
+    "name": "节拍得分提升"
+  },
+  "lba-ski-04-casl-00": {
+    "levels[0].description": "暴击得分上升1.0%",
+    "levels[1].description": "暴击得分上升1.5%",
+    "levels[2].description": "暴击得分上升2.0%",
+    "levels[3].description": "暴击得分上升3.0%",
+    "name": "暴击分数提升"
+  },
+  "lba-ski-05-kifj-00": {
+    "levels[0].description": "A技能得分0.5%上升",
+    "levels[1].description": "A技能得分提升1.0%",
+    "levels[2].description": "A技能得分提升1.5%",
+    "levels[3].description": "A技能得分提升2.5%",
+    "name": "A技能分数提升"
+  },
+  "lba-skr-05-fest-00": {
+    "levels[0].description": "暴击得分上升1.0%",
+    "levels[1].description": "暴击得分上升1.5%",
+    "levels[2].description": "暴击得分上升2.0%",
+    "levels[3].description": "暴击得分上升3.0%",
+    "name": "暴击分数提升"
+  },
+  "lba-skr-05-idol-00": {
+    "levels[0].description": "歌唱提升1.0%",
+    "levels[1].description": "歌唱提升1.5%",
+    "levels[2].description": "歌唱提升2.0%",
+    "levels[3].description": "歌唱提升3.0%",
+    "name": "声乐提升"
+  },
+  "lba-smr-04-casl-00": {
+    "levels[0].description": "舞蹈上升1.0%",
+    "levels[1].description": "舞蹈提升1.5%",
+    "levels[2].description": "舞蹈提升2.0%",
+    "levels[3].description": "舞蹈提升3.0%",
+    "name": "舞蹈提升"
+  },
+  "lba-smr-05-frut-00": {
+    "levels[0].description": "体力70上升",
+    "levels[1].description": "体力110上升",
+    "levels[2].description": "体力150上升",
+    "levels[3].description": "体力210上升",
+    "name": "体力提升"
+  },
+  "lba-smr-05-idol-00": {
+    "levels[0].description": "SP技能得分上升1.5%",
+    "levels[1].description": "SP技能得分上升2.5%",
+    "levels[2].description": "SP技能得分上升3.5%",
+    "levels[3].description": "SP技能得分5.0%提升",
+    "name": "SP技能分数提升"
+  },
+  "lba-smr-05-mizg-01": {
+    "levels[0].description": "A技能得分0.5%上升",
+    "levels[1].description": "A技能得分提升1.0%",
+    "levels[2].description": "A技能得分提升1.5%",
+    "levels[3].description": "A技能得分提升2.5%",
+    "name": "A技能分数提升"
+  },
+  "lba-special_skill_score_multiply": {
+    "levels[0].description": "SP技能得分上升1.5%",
+    "levels[1].description": "SP技能得分上升2.5%",
+    "levels[2].description": "SP技能得分上升3.5%",
+    "levels[3].description": "SP技能得分5.0%提升",
+    "levels[4].description": "SP技能得分6.5%上升",
+    "levels[5].description": "SP技能得分8.0%上升",
+    "name": "SP技能分数提升"
+  },
+  "lba-stamina_add": {
+    "levels[0].description": "体力70上升",
+    "levels[1].description": "体力110上升",
+    "levels[2].description": "体力150上升",
+    "levels[3].description": "体力210上升",
+    "levels[4].description": "体力280上升",
+    "levels[5].description": "体力350上升",
+    "name": "体力提升"
+  },
+  "lba-suz-04-casl-00": {
+    "levels[0].description": "A技能得分0.5%上升",
+    "levels[1].description": "A技能得分提升1.0%",
+    "levels[2].description": "A技能得分提升1.5%",
+    "levels[3].description": "A技能得分提升2.5%",
+    "name": "A技能分数提升"
+  },
+  "lba-suz-05-idol-00": {
+    "levels[0].description": "节拍得分提升2.0%",
+    "levels[1].description": "节拍得分提升2.5%",
+    "levels[2].description": "节拍得分提升3.0%",
+    "levels[3].description": "节拍得分上升4.0%",
+    "name": "节拍得分提升"
+  },
+  "lba-technique_add": {
+    "levels[0].description": "暴击提升100",
+    "levels[1].description": "暴击提升150",
+    "levels[2].description": "暴击提升200",
+    "levels[3].description": "暴击提升300",
+    "levels[4].description": "暴击提升400",
+    "levels[5].description": "暴击提升500",
+    "name": "暴击提升"
+  },
+  "lba-visual_multiply": {
+    "levels[0].description": "视觉提升1.0%",
+    "levels[1].description": "视觉提升1.5%",
+    "levels[2].description": "视觉提升2.0%",
+    "levels[3].description": "视觉提升3.0%",
+    "levels[4].description": "表现力提升4.0%",
+    "levels[5].description": "表现力提升5.0%",
+    "name": "视觉提升"
+  },
+  "lba-vocal_multiply": {
+    "levels[0].description": "歌唱提升1.0%",
+    "levels[1].description": "歌唱提升1.5%",
+    "levels[2].description": "歌唱提升2.0%",
+    "levels[3].description": "歌唱提升3.0%",
+    "levels[4].description": "歌唱力提升4.0%",
+    "levels[5].description": "歌唱力提升5.0%",
+    "name": "声乐提升"
+  },
+  "lba-yu-04-casl-00": {
+    "levels[0].description": "暴击得分上升1.0%",
+    "levels[1].description": "暴击得分上升1.5%",
+    "levels[2].description": "暴击得分上升2.0%",
+    "levels[3].description": "暴击得分上升3.0%",
+    "name": "暴击分数提升"
+  },
+  "lba-yu-05-mizg-01": {
+    "levels[0].description": "节拍得分提升2.0%",
+    "levels[1].description": "节拍得分提升2.5%",
+    "levels[2].description": "节拍得分提升3.0%",
+    "levels[3].description": "节拍得分上升4.0%",
+    "name": "节拍得分提升"
+  },
+  "live-bonus-group-081": {
+    "description": "每编入1名月光风暴成员，全体获得2阶段技能成功率提升效果[40节拍] CT:50",
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "每编入1名月光风暴成员，全体获得2阶段技能成功率提升效果[40节拍] CT:50"
+  },
+  "live-bonus-group-082": {
+    "description": "编入1名以上LizNoir成员时，全体获得6阶段技能成功率提升效果[35节拍]\nCT:50",
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "编入1名以上LizNoir成员时，全体获得6阶段技能成功率提升效果[35节拍]\nCT:50"
+  },
+  "live-bonus-group-086": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于消耗体力降低状态时\n根据对象最大体力为全员恢复体力"
+  },
+  "live-bonus-group-121": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击率提升状态时\n增强全员的强化效果"
+  },
+  "live-bonus-group-122": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击系数提升状态时\n增强全员的强化效果"
+  },
+  "live-bonus-group-123": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于分数提升状态时\n增强全员的强化效果"
+  },
+  "live-bonus-group-124": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于集目状态时\n增强全员的强化效果"
+  },
+  "live-bonus-group-125": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于A技能分数提升状态时\n增强全员的强化效果"
+  },
+  "live-bonus-group-126": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击率提升状态时\n延长全员的强化效果"
+  },
+  "live-bonus-group-127": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击系数提升状态时\n延长全员的强化效果"
+  },
+  "live-bonus-group-128": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于分数提升状态时\n延长全员的强化效果"
+  },
+  "live-bonus-group-129": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于集目状态时\n延长全员的强化效果"
+  },
+  "live-bonus-group-130": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于A技能分数提升状态时\n延长全员的强化效果"
+  },
+  "live-bonus-group-131": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击率提升状态时\n减少全员的CT"
+  },
+  "live-bonus-group-132": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于暴击系数提升状态时\n减少全员的CT"
+  },
+  "live-bonus-group-133": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于得分提升状态时\n减少全员的CT"
+  },
+  "live-bonus-group-134": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于集目状态时\n减少全员的CT"
+  },
+  "live-bonus-group-135": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于A技能得分提升状态时\n减少全员的CT"
+  },
+  "live-bonus-group-146": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于暴击率提升状态时\n使2名得分手类型的Vocal、Dance、Visual提升"
+  },
+  "live-bonus-group-147": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于暴击系数提升状态时\n使2名得分手类型的Vocal、Dance、Visual提升"
+  },
+  "live-bonus-group-148": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于得分提升状态时\n使2名得分手类型的Vocal、Dance、Visual提升"
+  },
+  "live-bonus-group-149": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于集目状态时\n使对象Vocal、Dance、Visual提升"
+  },
+  "live-bonus-group-150": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "使中心获得得分提升效果\n使2名得分手类型的Vocal、Dance、Visual降低"
+  },
+  "live-lba-passive_skill-001": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于暴击率提升状态时，使Vocal最高的2人Vocal提升"
+  },
+  "live-lba-passive_skill-002": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于暴击率提升状态时，使Dance最高的2人Dance提升"
+  },
+  "live-lba-passive_skill-003": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于暴击率提升状态时，使Visual最高的2人Visual提升"
+  },
+  "live-lba-passive_skill-004": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击系数提升状态时，使歌唱最高的2人歌唱提升"
+  },
+  "live-lba-passive_skill-005": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击系数提升状态时，使舞蹈最高的2人舞蹈提升"
+  },
+  "live-lba-passive_skill-006": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击系数提升状态时，使视觉最高的2人视觉提升"
+  },
+  "live-lba-passive_skill-007": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于得分提升状态时，使歌唱最高的2人歌唱提升"
+  },
+  "live-lba-passive_skill-008": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于得分提升状态时，使舞蹈最高的2人舞蹈提升"
+  },
+  "live-lba-passive_skill-009": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于得分提升状态时，使视觉最高的2人视觉提升"
+  },
+  "live-lba-passive_skill-010": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于节拍得分提升状态时，使歌唱最高的2人歌唱提升"
+  },
+  "live-lba-passive_skill-011": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于节拍得分提升状态时，使舞蹈最高的2人舞蹈提升"
+  },
+  "live-lba-passive_skill-012": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于节拍得分提升状态时，使视觉最高的2人视觉提升"
+  },
+  "live-lba-passive_skill-013": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于集目状态时，使对象歌唱提升"
+  },
+  "live-lba-passive_skill-014": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于集目状态时，使对象舞蹈提升"
+  },
+  "live-lba-passive_skill-015": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于集目状态时，使对象视觉提升"
+  },
+  "live-lba-passive_skill-016": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于消耗体力降低状态时，使歌唱值最高的2人歌唱值提升"
+  },
+  "live-lba-passive_skill-017": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于消耗体力降低状态时，使舞蹈值最高的2人舞蹈值提升"
+  },
+  "live-lba-passive_skill-018": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于消耗体力降低状态时，使视觉值最高的2人视觉值提升"
+  },
+  "live-lba-passive_skill-019": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "使2名辅助类型的歌唱值提升"
+  },
+  "live-lba-passive_skill-020": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "使2名辅助类型的舞蹈值提升"
+  },
+  "live-lba-passive_skill-021": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "使2名辅助类型的视觉值提升"
+  },
+  "live-lba-passive_skill-022": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "使2名辅助类型的CT降低"
+  },
+  "live-lba-passive_skill-023": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "使中心位分数提升\n使2名得分类型的歌唱值降低"
+  },
+  "live-lba-passive_skill-024": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "使中心位分数提升\n使2名得分类型的舞蹈值降低"
+  },
+  "live-lba-passive_skill-025": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "使中心位分数提升\n使2名得分类型的视觉值降低"
+  },
+  "live-lba-passive_skill-026": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "使中心位分数提升\n使全体歌唱值降低"
+  },
+  "live-lba-passive_skill-027": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "使中心位分数提升\n使全体舞蹈值降低"
+  },
+  "live-lba-passive_skill-028": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "中心位得分提升\n全体表现力下降"
+  },
+  "live-lba-passive_skill-029": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "中心位得分提升\n100连击以上时，中心位陷入不调效果"
+  },
+  "live-lba-passive_skill-030": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于消耗体力下降状态时，歌唱最高的2人暴击率提升"
+  },
+  "live-lba-passive_skill-031": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于消耗体力下降状态时，舞蹈最高的2人暴击率提升"
+  },
+  "live-lba-passive_skill-032": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于消耗体力下降状态时，表现力最高的2人暴击率提升"
+  },
+  "live-lba-passive_skill-033": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于消耗体力下降状态时，歌唱最高的2人得分提升"
+  },
+  "live-lba-passive_skill-034": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于消耗体力下降状态时，舞蹈最高的2人得分提升"
+  },
+  "live-lba-passive_skill-035": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于消耗体力下降状态时，表现力最高的2人得分提升"
+  },
+  "live-lba-passive_skill-036": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击率提升状态时，全体技能成功率提升"
+  },
+  "live-lba-passive_skill-037": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于消耗体力下降状态时，得分手类型2人强化效果延长"
+  },
+  "live-lba-passive_skill-038": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于得分提升状态时，得分手类型2人舞蹈提升"
+  },
+  "live-lba-passive_skill-039": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "100连击以上时，中心位根据对象最大体力回复体力"
+  },
+  "live-lba-passive_skill-040": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "中心位得分提升\n2名增益类型角色声乐下降"
+  },
+  "live-lba-passive_skill-041": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "中心位得分提升\n2名增益类型角色舞蹈下降"
+  },
+  "live-lba-passive_skill-042": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "中心位得分提升\n2名增益类型角色视觉下降"
+  },
+  "live-lba-passive_skill-043": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于集目状态时\n对象暴击率提升"
+  },
+  "live-lba-passive_skill-044": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于集目状态时\n对象得分提升"
+  },
+  "live-lba-passive_skill-045": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于A技能得分提升状态时\n声乐最高的2人声乐提升"
+  },
+  "live-lba-passive_skill-046": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于A技能得分提升状态时\n舞蹈最高的2人舞蹈提升"
+  },
+  "live-lba-passive_skill-047": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于A技能得分提升状态时\n视觉最高的2人视觉提升"
+  },
+  "live-lba-passive_skill-048": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击系数提升状态时\n2名得分类型角色得分提升"
+  },
+  "live-lba-passive_skill-049": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于A技能得分提升状态时\n2名得分类型角色得分提升"
+  },
+  "live-lba-passive_skill-050": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于声乐提升状态时\n声乐最高的2人暴击率提升"
+  },
+  "live-lba-passive_skill-051": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于舞蹈提升状态时\n舞蹈最高的2人暴击率提升"
+  },
+  "live-lba-passive_skill-052": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于视觉提升状态时\n视觉较高的2人暴击率提升"
+  },
+  "live-lba-passive_skill-053": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击率提升状态时\n得分手类型2人得分提升"
+  },
+  "live-lba-passive_skill-054": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于A技能得分提升状态时\n得分手类型2人暴击率提升"
+  },
+  "live-lba-passive_skill-055": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "80连击时，中心得分提升\n中心无法表现"
+  },
+  "live-lba-passive_skill-056": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于节拍得分提升状态时\n得分手类型2人得分提升"
+  },
+  "live-lba-passive_skill-057": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "中心舞蹈提升\n当有人体力低于50%时，全体舞蹈下降"
+  },
+  "live-lba-passive_skill-058": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于消耗体力降低状态时\n歌唱较高的2人CT缩短"
+  },
+  "live-lba-passive_skill-059": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击率提升状态时\n舞蹈较高的2人CT缩短"
+  },
+  "live-lba-passive_skill-060": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于得分提升状态时\n视觉较高的2人CT缩短"
+  },
+  "live-lba-passive_skill-061": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于节拍得分提升状态时\n舞蹈较高的2人CT缩短"
+  },
+  "live-lba-passive_skill-062": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于节拍得分提升状态时\n视觉较高的2人CT缩短"
+  },
+  "live-lba-passive_skill-063": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于节拍得分提升状态时\n歌唱较高的2人根据对象最大体力恢复体力"
+  },
+  "live-lba-passive_skill-064": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于节拍分数提升状态时\n使舞蹈较高的2人根据对象最大体力恢复体力"
+  },
+  "live-lba-passive_skill-065": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于节拍分数提升状态时\n使表现力较高的2人根据对象最大体力恢复体力"
+  },
+  "live-lba-passive_skill-066": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于消耗体力降低状态时\n使歌唱力较高的2人根据对象最大体力恢复体力"
+  },
+  "live-lba-passive_skill-067": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于暴击率提升状态时\n使舞蹈较高的2人根据对象最大体力恢复体力"
+  },
+  "live-lba-passive_skill-068": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于分数提升状态时\n使表现力较高的2人根据对象最大体力恢复体力"
+  },
+  "live-lba-passive_skill-069": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人受到体力恢复效果时，使对象1人舞蹈提升"
+  },
+  "live-lba-passive_skill-070": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于暴击率提升状态时，使得分手类型2人A技能分数提升"
+  },
+  "live-lba-passive_skill-071": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于隐身状态时，使全体节拍分数提升"
+  },
+  "live-lba-passive_skill-072": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于集目状态时，使对象A技能分数提升"
+  },
+  "live-lba-passive_skill-073": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "使辅助类型2人歌唱力提升\n使得分手类型2人歌唱力降低"
+  },
+  "live-lba-passive_skill-074": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于A技能分数提升状态时，使全体节拍分数提升"
+  },
+  "live-lba-passive_skill-075": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当某人处于暴击率提升状态时\r\n使舞蹈类型2人舞蹈提升效果"
+  },
+  "live-lba-passive_skill-076": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于得分提升状态时\n使2名得分手类型对象根据其最大体力恢复体力"
+  },
+  "live-lba-passive_skill-077": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击率提升状态时\r\n延长2名得分手类型的强化效果"
+  },
+  "live-lba-passive_skill-078": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "中心位得分提升\n使舞蹈较高的2人舞蹈下降"
+  },
+  "live-lba-passive_skill-079": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于集目状态时\n使2名得分手类型技能成功率提升"
+  },
+  "live-lba-passive_skill-080": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "使2名辅助类型状态不佳\n使2名增益类型技能成功率提升"
+  },
+  "live-lba-passive_skill-081": {
+    "description": "每编入1名月光风暴成员，全体获得2阶段技能成功率提升效果[40节拍] CT:50",
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "每编入1名月光风暴成员，全体获得2阶段技能成功率提升效果[40节拍] CT:50"
+  },
+  "live-lba-passive_skill-083": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于A技能得分提升状态时\n使2名得分手类型技能成功率提升"
+  },
+  "live-lba-passive_skill-084": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于消耗体力降低状态时\n使全体技能成功率提升"
+  },
+  "live-lba-passive_skill-085": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于集目状态时\n使对象技能成功率提升"
+  },
+  "live-lba-passive_skill-087": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击系数提升状态时\n使2名得分手类型技能成功率提升"
+  },
+  "live-lba-passive_skill-088": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于节拍得分提升状态时\n使2名得分手类型技能成功率提升"
+  },
+  "live-lba-passive_skill-089": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击率提升状态时\n使2名得分手类型技能成功率提升"
+  },
+  "live-lba-passive_skill-090": {
+    "description": "每编入1名睡衣派对成员，使全体获得2阶段技能成功率提升效果[40节拍] CT:50",
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "睡衣派对每编入1名成员，全体获得2阶段技能成功率提升效果[40拍]\nCT:50"
+  },
+  "live-lba-passive_skill-092": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于得分提升状态时\n2名得分手类型技能成功率UP"
+  },
+  "live-lba-passive_skill-093": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "中心获得得分提升\n1名得分手类型视觉下降"
+  },
+  "live-lba-passive_skill-094": {
+    "description": "每编入1名队长成员，全体获得2阶段技能成功率提升效果[40拍] CT:50",
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "每编入1名队长成员，全体获得2阶段技能成功率提升效果[40拍]\nCT:50"
+  },
+  "live-lba-passive_skill-095": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击率提升状态时\n3名舞蹈类型获得舞蹈提升效果"
+  },
+  "live-lba-passive_skill-096": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "90连击时，2名得分手类型获得声乐下降效果\n2名得分手类型获得得分提升效果(1次)"
+  },
+  "live-lba-passive_skill-097": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击系数提升状态时\n全体获得舞蹈提升效果"
+  },
+  "live-lba-passive_skill-098": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于消耗体力下降状态时\n2名得分手类型技能成功率UP"
+  },
+  "live-lba-passive_skill-099": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "2名视觉类型获得视觉提升效果"
+  },
+  "live-lba-passive_skill-100": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于情绪UP时\n对目标施加技能成功率UP"
+  },
+  "live-lba-passive_skill-101": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "1名声乐类型获得声乐下降效果\n1名声乐类型获得得分提升效果"
+  },
+  "live-lba-passive_skill-102": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "2名歌唱类型角色获得歌唱下降效果\n2名歌唱类型角色获得技能成功率上升效果"
+  },
+  "live-lba-passive_skill-103": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于情绪高涨状态时\n全员获得技能成功率上升效果"
+  },
+  "live-lba-passive_skill-104": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于A技能得分上升状态时\n全员CT缩短\n全员获得技能成功率上升效果"
+  },
+  "live-lba-passive_skill-105": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人受到体力回复效果时\n2名得分类型角色获得技能成功率上升效果"
+  },
+  "live-lba-passive_skill-106": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于得分上升状态时\n全员获得技能成功率上升效果\n对方全员获得舞蹈下降效果"
+  },
+  "live-lba-passive_skill-107": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于暴击系数上升状态时\n全员获得得分上升效果 全员获得消耗体力下降效果"
+  },
+  "live-lba-passive_skill-108": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "50连击时\n2名得分类型角色获得得分上升效果(1次)"
+  },
+  "live-lba-passive_skill-109": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于节拍得分上升状态时\n全体技能成功率UP"
+  },
+  "live-lba-passive_skill-110": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人受到体力回复效果时\n全体技能成功率UP"
+  },
+  "live-lba-passive_skill-111": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "2名歌唱类型角色获得歌唱下降效果\n2名歌唱类型角色获得得分上升效果"
+  },
+  "live-lba-passive_skill-112": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "2名舞蹈类型角色获得舞蹈下降效果\n2名舞蹈类型角色获得得分上升效果"
+  },
+  "live-lba-passive_skill-113": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "全员获得视觉上升效果"
+  },
+  "live-lba-passive_skill-114": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "全体成员体力消耗增加效果"
+  },
+  "live-lba-passive_skill-115": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于技能成功率上升状态时\n增强对象的强化效果"
+  },
+  "live-lba-passive_skill-116": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "根据SUNNY PEACE成员的编成数量，为全体成员增加2段技能成功率上升效果[40节拍]\nCT:50"
+  },
+  "live-lba-passive_skill-117": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "对1名舞蹈类型角色施加舞蹈下降效果\n对1名主唱类型角色施加主唱下降效果\n对1名得分手类型角色施加得分上升效果"
+  },
+  "live-lba-passive_skill-118": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "对1名舞蹈类型角色施加舞蹈下降效果\n对1名视觉类型角色施加视觉下降效果\n对1名得分手类型角色施加得分上升效果"
+  },
+  "live-lba-passive_skill-119": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "对3名舞蹈类型角色施加舞蹈下降效果\n对3名舞蹈类型角色施加得分上升效果"
+  },
+  "live-lba-passive_skill-136": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "50连击时\n对全体成员施加消耗体力上升效果\n对1名得分手类型角色施加得分上升效果"
+  },
+  "live-lba-passive_skill-137": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于视觉提升状态时\n为全体成员增加技能成功率上升效果"
+  },
+  "live-lba-passive_skill-138": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于主唱提升状态时\n为全体成员增加技能成功率上升效果"
+  },
+  "live-lba-passive_skill-139": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "对中心位置施加视觉下降效果\n对2名得分手类型角色施加技能成功率上升效果"
+  },
+  "live-lba-passive_skill-140": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于技能成功率上升状态时\n减少全体成员的CT"
+  },
+  "live-lba-passive_skill-141": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "对2名辅助类型角色施加主唱上升效果"
+  },
+  "live-lba-passive_skill-142": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "对2名增益类型角色赋予舞蹈提升效果"
+  },
+  "live-lba-passive_skill-143": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于情绪高涨状态时\n赋予全员舞蹈提升效果"
+  },
+  "live-lba-passive_skill-144": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "对2名得分类型角色赋予歌唱提升效果"
+  },
+  "live-lba-passive_skill-145": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "对2名得分类型角色赋予视觉提升效果"
+  },
+  "live-lba-passive_skill-151": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "对2名歌唱类型角色赋予歌唱提升效果"
+  },
+  "live-lba-passive_skill-152": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于集目状态时\n对2名得分类型角色赋予歌唱提升效果"
+  },
+  "live-lba-passive_skill-153": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于集目状态时\n对2名得分类型角色赋予视觉提升效果"
+  },
+  "live-lba-passive_skill-154": {
+    "description": "根据TRINITYAiLE成员的编成数量，对全体赋予2阶段技能成功率提升效果[40节拍] CT:50",
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "根据TRINITYAiLE成员的编成数量，对全体赋予2阶段技能成功率提升效果[40节拍] CT:50"
+  },
+  "live-lba-passive_skill-155": {
+    "description": "根据LizNoir成员的编成数量，对全体赋予2阶段技能成功率提升效果[40节拍] CT:50",
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "根据LizNoir成员的编成数量，对全体赋予2阶段技能成功率提升效果[40节拍] CT:50"
+  },
+  "live-lba-passive_skill-156": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于得分提升状态时\n对中心赋予歌唱提升效果"
+  },
+  "live-lba-passive_skill-157": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "增加全员的CT"
+  },
+  "live-lba-passive_skill-158": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "80连击以上时\n增强全员的强化效果并延长强化效果(1次)"
+  },
+  "live-lba-passive_skill-159": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "当有人处于舞蹈提升状态时\n全员技能成功率上升效果"
+  },
+  "live-lba-passive_skill-160": {
+    "description": "根据IIIX成员的编成数量，对全体赋予2阶段技能成功率上升效果[40节拍] CT:50",
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "根据IIIX成员的编成数量，对全体赋予2阶段技能成功率上升效果[40节拍] CT:50"
+  },
+  "live-lba-passive_skill-161": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "得分手类型全员的20阶段分数上升效果\n增益手、辅助手类型全员的CT增加50 CT:50"
+  },
+  "live-lba-passive_skill-162": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "增益手、辅助手类型全员的20阶段分数上升效果\n得分手类型全员的CT增加50 CT:50"
+  },
+  "marathon-lba-accessory_parameter_up": {
+    "levels[0].description": "饰品参数1.0%上升",
+    "levels[1].description": "饰品参数2.0%上升",
+    "name": "饰品效果提升"
+  },
+  "marathon-lba-active_skill_score_add": {
+    "levels[0].description": "A技能分数21000上升",
+    "levels[1].description": "A技能分数30000上升",
+    "levels[2].description": "A技能分数39000上升",
+    "name": "A技能分数提升"
+  },
+  "marathon-lba-active_skill_score_multiply": {
+    "levels[0].description": "A技能分数2.4%上升",
+    "levels[1].description": "A技能分数2.8%上升",
+    "levels[2].description": "A技能分数3.2%上升",
+    "levels[3].description": "A技能得分提升3.6%",
+    "levels[4].description": "A技能得分提升4.0%",
+    "name": "A技能分数提升"
+  },
+  "marathon-lba-beat_score_add": {
+    "levels[0].description": "节拍得分提升350",
+    "levels[1].description": "节拍得分提升600",
+    "levels[2].description": "节拍得分提升850",
+    "name": "节拍得分提升"
+  },
+  "marathon-lba-beat_score_multiply": {
+    "levels[0].description": "节拍得分提升10.0%",
+    "levels[1].description": "节拍得分提升11.0%",
+    "levels[2].description": "节拍得分提升12.0%",
+    "levels[3].description": "节拍得分提升14.0%",
+    "levels[4].description": "节拍得分提升16.0%",
+    "name": "节拍得分提升"
+  },
+  "marathon-lba-dance_add": {
+    "levels[0].description": "舞蹈提升800",
+    "levels[1].description": "舞蹈提升1300",
+    "levels[2].description": "舞蹈提升1000",
+    "levels[3].description": "舞蹈2300上升",
+    "levels[4].description": "舞蹈2700上升",
+    "levels[5].description": "舞蹈3300上升",
+    "name": "舞蹈提升"
+  },
+  "marathon-lba-dance_multiply": {
+    "levels[0].description": "舞蹈7.2%上升",
+    "levels[1].description": "舞蹈8.0%上升",
+    "levels[2].description": "舞蹈9.0%上升",
+    "levels[3].description": "舞蹈10.0%上升",
+    "name": "舞蹈提升"
+  },
+  "marathon-lba-mental_add": {
+    "levels[0].description": "精神25上升",
+    "levels[1].description": "精神40上升",
+    "levels[2].description": "精神55上升",
+    "levels[3].description": "精神70上升",
+    "levels[4].description": "精神85上升",
+    "levels[5].description": "精神提升100",
+    "name": "精神提升"
+  },
+  "marathon-lba-passive_skill-dance_boost-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "获得分数+2名得分手类型获得舞蹈提升"
+  },
+  "marathon-lba-passive_skill-dance_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "2名得分手舞蹈提升"
+  },
+  "marathon-lba-passive_skill-skill_cool_time_reduction-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "达到50连击时，得分获得+2名得分手CT降低"
+  },
+  "marathon-lba-passive_skill-skill_cool_time_reduction-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "达到50连击时，获得分数+2名辅助类型降低CT"
+  },
+  "marathon-lba-passive_skill-skill_critical_bonus_permil_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "某人在发动表现技能前，得分获得+暴击系数提升"
+  },
+  "marathon-lba-passive_skill-skill_fix_stamina_recovery-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "某人耐力在70%以下时，得分获得+恢复耐力最低的1名角色的耐力（仅1次）"
+  },
+  "marathon-lba-passive_skill-skill_strength_effect_count_increase-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "达到50连击时，得分获得+2名得分手强化效果次数增加"
+  },
+  "marathon-lba-passive_skill-skill_strength_effect_value_increase-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "达到50连击时，获得分数+2名得分手强化效果增强"
+  },
+  "marathon-lba-passive_skill-visual_boost-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "获得分数+2名得分手类型获得视觉提升"
+  },
+  "marathon-lba-passive_skill-visual_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "2名得分手视觉提升"
+  },
+  "marathon-lba-passive_skill-vocal_boost-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "获得分数+2名得分手类型获得声乐提升"
+  },
+  "marathon-lba-passive_skill-vocal_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "name": "2名得分手歌唱提升"
+  },
+  "marathon-lba-photo_level_up": {
+    "levels[0].description": "照片品质提升5",
+    "name": "照片品质提升"
+  },
+  "marathon-lba-special_skill_score_add": {
+    "levels[0].description": "SP技能分数提升140000",
+    "levels[1].description": "SP技能分数提升220000",
+    "levels[2].description": "SP技能分数提升300000",
+    "name": "SP技能分数提升"
+  },
+  "marathon-lba-special_skill_score_multiply": {
+    "levels[0].description": "SP技能分数提升1.8%",
+    "levels[1].description": "SP技能分数提升2.0%",
+    "levels[2].description": "SP技能分数提升2.2%",
+    "levels[3].description": "SP技能分数提升2.4%",
+    "levels[4].description": "SP技能分数提升2.8%",
+    "name": "SP技能分数提升"
+  },
+  "marathon-lba-stamina_add": {
+    "levels[0].description": "体力提升35",
+    "levels[1].description": "体力提升50",
+    "levels[2].description": "体力提升65",
+    "levels[3].description": "体力提升80",
+    "levels[4].description": "体力提升95",
+    "levels[5].description": "体力110上升",
+    "name": "体力提升"
+  },
+  "marathon-lba-technique_add": {
+    "levels[0].description": "暴击提升25",
+    "levels[1].description": "暴击提升40",
+    "levels[2].description": "暴击提升55",
+    "levels[3].description": "暴击提升70",
+    "levels[4].description": "暴击提升85",
+    "levels[5].description": "暴击提升100",
+    "name": "暴击提升"
+  },
+  "marathon-lba-visual_add": {
+    "levels[0].description": "表现力提升800",
+    "levels[1].description": "表现力提升1300",
+    "levels[2].description": "视觉1000上升",
+    "levels[3].description": "视觉2300上升",
+    "levels[4].description": "视觉2700上升",
+    "levels[5].description": "视觉3300上升",
+    "name": "视觉提升"
+  },
+  "marathon-lba-visual_multiply": {
+    "levels[0].description": "视觉7.2%上升",
+    "levels[1].description": "视觉8.0%上升",
+    "levels[2].description": "视觉9.0%上升",
+    "levels[3].description": "视觉10.0%上升",
+    "name": "视觉提升"
+  },
+  "marathon-lba-vocal_add": {
+    "levels[0].description": "歌唱800上升",
+    "levels[1].description": "歌唱1300上升",
+    "levels[2].description": "歌唱1000上升",
+    "levels[3].description": "歌唱2300上升",
+    "levels[4].description": "声乐2700上升",
+    "levels[5].description": "声乐3300上升",
+    "name": "声乐提升"
+  },
+  "marathon-lba-vocal_multiply": {
+    "levels[0].description": "声乐7.2%上升",
+    "levels[1].description": "声乐8.0%上升",
+    "levels[2].description": "声乐9.0%上升",
+    "levels[3].description": "声乐10.0%上升",
+    "name": "声乐提升"
+  },
+  "mini-marathon-lba-accessory_parameter_up": {
+    "levels[0].description": "饰品参数1.0%上升",
+    "levels[1].description": "饰品参数2.0%上升",
+    "name": "饰品效果提升"
+  },
+  "mini-marathon-lba-active_skill_score_add": {
+    "levels[0].description": "A技能分数50000上升",
+    "name": "A技能分数提升"
+  },
+  "mini-marathon-lba-beat_score_add": {
+    "levels[0].description": "节拍分数1000上升",
+    "name": "节拍得分提升"
+  },
+  "mini-marathon-lba-dance_add": {
+    "levels[0].description": "舞蹈提升1300",
+    "name": "舞蹈提升"
+  },
+  "mini-marathon-lba-dance_multiply": {
+    "levels[0].description": "舞蹈7.2%上升",
+    "name": "舞蹈提升"
+  },
+  "mini-marathon-lba-passive_skill-active_score_up-dance_higher-2": {
+    "levels[0].description": "被动技能发动",
+    "name": "当某人处于暴击系数提升状态时，舞蹈较高的2人A技能分数提升"
+  },
+  "mini-marathon-lba-passive_skill-beat_score_up-character_type-1-2": {
+    "levels[0].description": "被动技能发动",
+    "name": "当某人处于暴击提升状态时，2名得分手节拍分数提升"
+  },
+  "mini-marathon-lba-passive_skill-dance_up": {
+    "levels[0].description": "被动技能发动",
+    "name": "2名得分手舞蹈提升"
+  },
+  "mini-marathon-lba-passive_skill-special_skill_score_up-character_type-1-1": {
+    "levels[0].description": "被动技能发动",
+    "name": "当某人处于节拍分数提升状态时，1名得分手SP技能分数提升"
+  },
+  "mini-marathon-lba-passive_skill-visual_up": {
+    "levels[0].description": "被动技能发动",
+    "name": "2名得分手视觉提升"
+  },
+  "mini-marathon-lba-passive_skill-vocal_up": {
+    "levels[0].description": "被动技能发动",
+    "name": "2名得分手歌唱提升"
+  },
+  "mini-marathon-lba-photo_level_up": {
+    "levels[0].description": "照片品质提升5",
+    "name": "照片品质提升"
+  },
+  "mini-marathon-lba-special_skill_score_add": {
+    "levels[0].description": "SP技能分数360000上升",
+    "name": "SP技能分数提升"
+  },
+  "mini-marathon-lba-technique_add": {
+    "levels[0].description": "暴击提升55",
+    "name": "暴击提升"
+  },
+  "mini-marathon-lba-visual_add": {
+    "levels[0].description": "表现力提升1300",
+    "name": "视觉提升"
+  },
+  "mini-marathon-lba-visual_multiply": {
+    "levels[0].description": "视觉7.2%上升",
+    "name": "视觉提升"
+  },
+  "mini-marathon-lba-vocal_add": {
+    "levels[0].description": "歌唱1300上升",
+    "name": "声乐提升"
+  },
+  "mini-marathon-lba-vocal_multiply": {
+    "levels[0].description": "声乐7.2%上升",
+    "name": "声乐提升"
+  },
+  "race-lba-active_skill_score_multiply": {
+    "levels[0].description": "A技能得分提升1.0%",
+    "levels[10].description": "A技能得分提升19.0%",
+    "levels[11].description": "A技能得分提升22.0%",
+    "levels[12].description": "A技能得分提升25.0%",
+    "levels[13].description": "A技能得分提升28.0%",
+    "levels[14].description": "A技能得分提升32.5%",
+    "levels[15].description": "A技能得分提升36.0%",
+    "levels[16].description": "A技能得分提升39.5%",
+    "levels[17].description": "A技能得分提升43.0%",
+    "levels[18].description": "A技能得分提升46.5%",
+    "levels[19].description": "A技能得分提升52.0%",
+    "levels[1].description": "A技能得分提升2.0%",
+    "levels[20].description": "A技能得分提升56.5%",
+    "levels[21].description": "A技能得分提升61.0%",
+    "levels[22].description": "A技能得分提升65.5%",
+    "levels[23].description": "A技能得分提升70.0%",
+    "levels[24].description": "A技能得分提升76.0%",
+    "levels[25].description": "A技能得分提升80.5%",
+    "levels[26].description": "A技能得分提升85.0%",
+    "levels[27].description": "A技能得分提升89.5%",
+    "levels[28].description": "A技能得分提升94.0%",
+    "levels[29].description": "A技能得分提升100.0%",
+    "levels[2].description": "A技能得分提升3.0%",
+    "levels[3].description": "A技能得分提升4.0%",
+    "levels[4].description": "A技能得分提升6.0%",
+    "levels[5].description": "A技能得分提升7.5%",
+    "levels[6].description": "A技能得分提升9.0%",
+    "levels[7].description": "A技能得分提升10.5%",
+    "levels[8].description": "A技能得分提升12.0%",
+    "levels[9].description": "A技能得分提升16.0%",
+    "name": "A技能分数提升"
+  },
+  "race-lba-beat_score_multiply": {
+    "levels[0].description": "节拍得分提升3.5%",
+    "levels[10].description": "节拍得分提升62.0%",
+    "levels[11].description": "节拍得分提升70.0%",
+    "levels[12].description": "节拍得分提升78.0%",
+    "levels[13].description": "节拍得分提升86.0%",
+    "levels[14].description": "节拍得分提升102.0%",
+    "levels[15].description": "节拍得分提升112.5%",
+    "levels[16].description": "节拍得分提升123.0%",
+    "levels[17].description": "节拍得分提升133.5%",
+    "levels[18].description": "节拍得分提升144.0%",
+    "levels[19].description": "节拍得分提升165.5%",
+    "levels[1].description": "节拍得分提升7.0%",
+    "levels[20].description": "节拍得分上升179.0%",
+    "levels[21].description": "节拍得分上升192.5%",
+    "levels[22].description": "节拍得分上升206.0%",
+    "levels[23].description": "节拍得分上升219.5%",
+    "levels[24].description": "节拍得分上升247.0%",
+    "levels[25].description": "节拍得分上升264.0%",
+    "levels[26].description": "节拍得分上升281.0%",
+    "levels[27].description": "节拍得分上升298.0%",
+    "levels[28].description": "节拍得分上升315.0%",
+    "levels[29].description": "节拍得分上升350.0%",
+    "levels[2].description": "节拍得分上升10.5%",
+    "levels[3].description": "节拍得分提升14.0%",
+    "levels[4].description": "节拍得分上升21.0%",
+    "levels[5].description": "节拍得分提升26.5%",
+    "levels[6].description": "节拍得分提升32.0%",
+    "levels[7].description": "节拍得分提升37.5%",
+    "levels[8].description": "节拍得分提升43.0%",
+    "levels[9].description": "节拍得分提升54.0%",
+    "name": "节拍得分提升"
+  },
+  "race-lba-critical_score_multiply": {
+    "levels[0].description": "暴击得分上升1.5%",
+    "levels[10].description": "暴击得分提升19.0%",
+    "levels[11].description": "暴击得分提升21.0%",
+    "levels[12].description": "暴击得分提升23.0%",
+    "levels[13].description": "暴击得分提升25.0%",
+    "levels[14].description": "暴击得分提升31.0%",
+    "levels[15].description": "暴击得分提升34.0%",
+    "levels[16].description": "暴击得分提升37.0%",
+    "levels[17].description": "暴击得分提升40.0%",
+    "levels[18].description": "暴击得分提升43.0%",
+    "levels[19].description": "暴击得分提升51.5%",
+    "levels[1].description": "暴击分数提升2.5%",
+    "levels[20].description": "暴击分数提升56.0%",
+    "levels[21].description": "暴击分数提升60.5%",
+    "levels[22].description": "暴击分数提升65.0%",
+    "levels[23].description": "暴击分数提升69.5%",
+    "levels[24].description": "暴击分数提升81.0%",
+    "levels[25].description": "暴击分数提升87.0%",
+    "levels[26].description": "暴击分数提升93.0%",
+    "levels[27].description": "暴击分数提升99.0%",
+    "levels[28].description": "暴击分数提升105.0%",
+    "levels[29].description": "暴击分数提升120.0%",
+    "levels[2].description": "暴击得分上升3.5%",
+    "levels[3].description": "暴击分数提升4.5%",
+    "levels[4].description": "暴击分数7.0%上升",
+    "levels[5].description": "暴击分数8.5%上升",
+    "levels[6].description": "暴击得分提升10.0%",
+    "levels[7].description": "暴击分数11.5%上升",
+    "levels[8].description": "暴击分数13.0%上升",
+    "levels[9].description": "暴击分数17.0%上升",
+    "name": "暴击分数提升"
+  },
+  "race-lba-dance_add": {
+    "levels[0].description": "舞蹈1400上升",
+    "levels[10].description": "舞蹈14700上升",
+    "levels[11].description": "舞蹈16800上升",
+    "levels[12].description": "舞蹈18900上升",
+    "levels[13].description": "舞蹈21000上升",
+    "levels[14].description": "舞蹈23800上升",
+    "levels[15].description": "舞蹈26600上升",
+    "levels[16].description": "舞蹈29400上升",
+    "levels[17].description": "舞蹈32200上升",
+    "levels[18].description": "舞蹈35000上升",
+    "levels[19].description": "舞蹈38800上升",
+    "levels[1].description": "舞蹈2100上升",
+    "levels[20].description": "舞蹈42600上升",
+    "levels[21].description": "舞蹈46400上升",
+    "levels[22].description": "舞蹈50200上升",
+    "levels[23].description": "舞蹈54000上升",
+    "levels[24].description": "舞蹈58600上升",
+    "levels[25].description": "舞蹈63200上升",
+    "levels[26].description": "舞蹈67800上升",
+    "levels[27].description": "舞蹈72400上升",
+    "levels[28].description": "舞蹈77000上升",
+    "levels[29].description": "舞蹈82700上升",
+    "levels[2].description": "舞蹈2800上升",
+    "levels[30].description": "舞蹈88400上升",
+    "levels[31].description": "舞蹈94100上升",
+    "levels[32].description": "舞蹈99900上升",
+    "levels[33].description": "舞蹈105600上升",
+    "levels[34].description": "舞蹈114300上升",
+    "levels[35].description": "舞蹈122900上升",
+    "levels[36].description": "舞蹈131500上升",
+    "levels[37].description": "舞蹈140100上升",
+    "levels[38].description": "舞蹈148700上升",
+    "levels[39].description": "舞蹈163100上升",
+    "levels[3].description": "舞蹈3500上升",
+    "levels[40].description": "舞蹈177500上升",
+    "levels[41].description": "舞蹈191800上升",
+    "levels[42].description": "舞蹈206200上升",
+    "levels[43].description": "舞蹈220600上升",
+    "levels[44].description": "舞蹈243500上升",
+    "levels[45].description": "舞蹈266500上升",
+    "levels[46].description": "舞蹈289500上升",
+    "levels[47].description": "舞蹈312500上升",
+    "levels[48].description": "舞蹈335500上升",
+    "levels[49].description": "舞蹈370000上升",
+    "levels[4].description": "舞蹈4900上升",
+    "levels[5].description": "舞蹈6300上升",
+    "levels[6].description": "舞蹈7700上升",
+    "levels[7].description": "舞蹈9100上升",
+    "levels[8].description": "舞蹈10500上升",
+    "levels[9].description": "舞蹈提升12600",
+    "name": "舞蹈提升"
+  },
+  "race-lba-passive_skill-ef-active_skill_score_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于隐身状态时，为2名得分手类型赋予A技能得分上升效果"
+  },
+  "race-lba-passive_skill-ef-active_skill_score_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于集目状态时，为2名得分手类型赋予A技能得分上升效果"
+  },
+  "race-lba-passive_skill-ef-active_skill_score_up-6": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于技能成功率上升状态时，为全员赋予强化效果增强"
+  },
+  "race-lba-passive_skill-ef-cool_time_reduction-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于A技能得分提升状态时，降低中心的CT"
+  },
+  "race-lba-passive_skill-ef-cool_time_reduction-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于节拍得分提升状态时，降低全体的CT"
+  },
+  "race-lba-passive_skill-ef-cool_time_reduction-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于得分提升状态时，降低全体的CT"
+  },
+  "race-lba-passive_skill-ef-cool_time_reduction-4": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当某人处于暴击率提升状态时，减少全员的CT"
+  },
+  "race-lba-passive_skill-ef-cool_time_reduction-5": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当某人处于暴击系数提升状态时，减少全员的CT"
+  },
+  "race-lba-passive_skill-ef-cool_time_reduction-6": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当某人处于A技能得分提升状态时，减少全员的CT"
+  },
+  "race-lba-passive_skill-ef-cool_time_reduction-7": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当某人处于暴击提升状态时，减少全员的CT"
+  },
+  "race-lba-passive_skill-ef-cool_time_reduction-7-2025-1028": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当某人处于A技能得分提升状态时，降低全员的CT"
+  },
+  "race-lba-passive_skill-ef-cool_time_reduction-7-2026-0104": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当某人处于A技能得分提升状态时，降低全员的CT"
+  },
+  "race-lba-passive_skill-ef-cool_time_reduction-7-2026-0226": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当某人处于暴击系数提升状态时，降低全员的CT"
+  },
+  "race-lba-passive_skill-ef-cool_time_reduction-8": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当某人处于A技能得分提升状态时，降低全员的CT"
+  },
+  "race-lba-passive_skill-ef-critical_rate_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当某人处于暴击系数提升状态时，对目标施加暴击率提升效果"
+  },
+  "race-lba-passive_skill-ef-critical_rate_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当某人处于得分提升状态时，对目标施加暴击率提升效果"
+  },
+  "race-lba-passive_skill-ef-dance_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "1名增益类型的舞蹈提升"
+  },
+  "race-lba-passive_skill-ef-dance_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "对2名辅助类型施加舞蹈提升效果"
+  },
+  "race-lba-passive_skill-ef-dance_up-2-2026-0226": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "对2名增益类型角色赋予舞蹈提升效果"
+  },
+  "race-lba-passive_skill-ef-dance_up-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "1名得分类型的舞蹈提升"
+  },
+  "race-lba-passive_skill-ef-dance_up-4": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "2名增益类型的舞蹈提升效果"
+  },
+  "race-lba-passive_skill-ef-dance_up-6": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "辅助类型2人的视觉提升效果"
+  },
+  "race-lba-passive_skill-ef-score_get-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[10].description": "被动技能发动",
+    "levels[11].description": "被动技能发动",
+    "levels[12].description": "被动技能发动",
+    "levels[13].description": "被动技能发动",
+    "levels[14].description": "被动技能发动",
+    "levels[15].description": "被动技能发动",
+    "levels[16].description": "被动技能发动",
+    "levels[17].description": "被动技能发动",
+    "levels[18].description": "被动技能发动",
+    "levels[19].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[20].description": "被动技能发动",
+    "levels[21].description": "被动技能发动",
+    "levels[22].description": "被动技能发动",
+    "levels[23].description": "被动技能发动",
+    "levels[24].description": "被动技能发动",
+    "levels[25].description": "被动技能发动",
+    "levels[26].description": "被动技能发动",
+    "levels[27].description": "被动技能发动",
+    "levels[28].description": "被动技能发动",
+    "levels[29].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "levels[9].description": "被动技能发动",
+    "name": "得分获得"
+  },
+  "race-lba-passive_skill-ef-score_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于暴击率提升状态时，得分手类型2人得分提升"
+  },
+  "race-lba-passive_skill-ef-score_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于暴击系数提升状态时，得分手类型2人得分提升"
+  },
+  "race-lba-passive_skill-ef-score_up-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于集目状态时，得分手类型2人得分提升"
+  },
+  "race-lba-passive_skill-ef-score_up-4": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "100连击以上时，得分手类型2人得分提升"
+  },
+  "race-lba-passive_skill-ef-score_up-5": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "50连击以上时，得分手类型2人得分提升效果"
+  },
+  "race-lba-passive_skill-ef-score_up-5-target-character_type-1-2-2026-0104": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "80连击以上时，得分手类型2人情绪UP"
+  },
+  "race-lba-passive_skill-ef-score_up-6": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于暴击系数提升状态时，得分手类型2人得分提升效果"
+  },
+  "race-lba-passive_skill-ef-score_up-7": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于得分提升状态时，得分手类型2人得分提升效果"
+  },
+  "race-lba-passive_skill-ef-skill_success_rate_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "增益类型2人的成功率提升"
+  },
+  "race-lba-passive_skill-ef-skill_success_rate_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "辅助类型2人的技能成功率提升"
+  },
+  "race-lba-passive_skill-ef-skill_success_rate_up-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于集目状态时，提升2名舞蹈类型偶像的技能成功率"
+  },
+  "race-lba-passive_skill-ef-skill_success_rate_up-4": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "提升2名得分类型偶像的技能成功率"
+  },
+  "race-lba-passive_skill-ef-strength_effect_value_increase-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "50连击以上时，增强中心偶像的强化效果"
+  },
+  "race-lba-passive_skill-ef-strength_effect_value_increase-1-2026-0104": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于技能成功率上升状态时，为全员赋予强化效果增强"
+  },
+  "race-lba-passive_skill-ef-strength_effect_value_increase-1-2026-0226": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于技能成功率上升状态时，为全员赋予强化效果增强"
+  },
+  "race-lba-passive_skill-ef-strength_effect_value_increase-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "50连击以上时，增强中心偶像的强化效果"
+  },
+  "race-lba-passive_skill-ef-strength_effect_value_increase-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "80连击以上时，增强全员的强化效果"
+  },
+  "race-lba-passive_skill-ef-strength_effect_value_increase-4": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "50连击以上时，增强全员的强化效果"
+  },
+  "race-lba-passive_skill-ef-strength_effect_value_increase-5": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于隐身状态时，增强全员的强化效果"
+  },
+  "race-lba-passive_skill-ef-strength_effect_value_increase-6": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于技能成功率上升状态时，为全员赋予强化效果增强"
+  },
+  "race-lba-passive_skill-ef-strength_effect_value_increase-7": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "80连击以上时，增强全员的强化效果"
+  },
+  "race-lba-passive_skill-ef-strength_effect_value_increase-7-250625": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "当有人处于技能成功率上升状态时，为全员赋予强化效果增强"
+  },
+  "race-lba-passive_skill-ef-tension_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "50连击以上时，赋予2名得分类型偶像情绪UP效果"
+  },
+  "race-lba-passive_skill-ef-tension_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "80连击以上时，得分手类型2人情绪UP"
+  },
+  "race-lba-passive_skill-ef-tension_up-4-target-character_type-1-2-2026-0226": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "80连击以上时，得分手类型2人情绪UP"
+  },
+  "race-lba-passive_skill-ef-value_increase-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "80连击以上时，得分手类型2人情绪UP"
+  },
+  "race-lba-passive_skill-ef-visual_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "提升2名辅助类型偶像的视觉属性"
+  },
+  "race-lba-passive_skill-ef-visual_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "80连击以上时，提升2名得分类型偶像的视觉属性"
+  },
+  "race-lba-passive_skill-ef-visual_up-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "100连击以上时，提升2名视觉类型偶像的视觉属性"
+  },
+  "race-lba-passive_skill-ef-visual_up-4": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "辅助类型2人的视觉提升效果"
+  },
+  "race-lba-passive_skill-ef-vocal_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "提升2名增益类型偶像的歌唱属性"
+  },
+  "race-lba-passive_skill-ef-vocal_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "2名辅助类型的歌唱提升效果"
+  },
+  "race-lba-passive_skill-ef-vocal_up-2-2026-0104": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "levels[3].description": "被动技能发动",
+    "levels[4].description": "被动技能发动",
+    "levels[5].description": "被动技能发动",
+    "levels[6].description": "被动技能发动",
+    "levels[7].description": "被动技能发动",
+    "levels[8].description": "被动技能发动",
+    "name": "辅助类型2人的视觉提升效果"
+  },
+  "race-lba-special_skill_score_multiply": {
+    "levels[0].description": "SP技能得分提升1.0%",
+    "levels[10].description": "SP技能得分提升19.0%",
+    "levels[11].description": "SP技能得分提升22.0%",
+    "levels[12].description": "SP技能得分提升25.0%",
+    "levels[13].description": "SP技能得分提升28.0%",
+    "levels[14].description": "SP技能得分提升32.5%",
+    "levels[15].description": "SP技能得分提升36.0%",
+    "levels[16].description": "SP技能得分提升39.5%",
+    "levels[17].description": "SP技能得分提升43.0%",
+    "levels[18].description": "SP技能得分提升46.5%",
+    "levels[19].description": "SP技能得分提升52.0%",
+    "levels[1].description": "SP技能分数提升2.0%",
+    "levels[20].description": "SP技能得分上升56.5%",
+    "levels[21].description": "SP技能得分上升61.0%",
+    "levels[22].description": "SP技能得分上升65.5%",
+    "levels[23].description": "SP技能得分上升70.0%",
+    "levels[24].description": "SP技能得分上升76.0%",
+    "levels[25].description": "SP技能得分上升80.5%",
+    "levels[26].description": "SP技能得分上升85.0%",
+    "levels[27].description": "SP技能得分上升89.5%",
+    "levels[28].description": "SP技能得分上升94.0%",
+    "levels[29].description": "SP技能得分上升100.0%",
+    "levels[2].description": "SP技能得分上升3.0%",
+    "levels[3].description": "SP技能得分上升4.0%",
+    "levels[4].description": "SP技能得分上升6.0%",
+    "levels[5].description": "SP技能得分上升7.5%",
+    "levels[6].description": "SP技能得分9.0%上升",
+    "levels[7].description": "SP技能得分上升10.5%",
+    "levels[8].description": "SP技能得分12.0%上升",
+    "levels[9].description": "SP技能得分16.0%上升",
+    "name": "SP技能分数提升"
+  },
+  "race-lba-stamina_add": {
+    "levels[0].description": "体力上升60",
+    "levels[10].description": "体力上升490",
+    "levels[11].description": "体力上升560",
+    "levels[12].description": "体力上升630",
+    "levels[13].description": "体力上升700",
+    "levels[14].description": "体力上升800",
+    "levels[15].description": "体力上升900",
+    "levels[16].description": "体力上升1000",
+    "levels[17].description": "体力上升1100",
+    "levels[18].description": "体力上升1200",
+    "levels[19].description": "体力上升1310",
+    "levels[1].description": "体力上升90",
+    "levels[20].description": "体力上升1420",
+    "levels[21].description": "体力上升1530",
+    "levels[22].description": "体力上升1640",
+    "levels[23].description": "体力提升1750",
+    "levels[24].description": "体力提升1910",
+    "levels[25].description": "体力提升2070",
+    "levels[26].description": "体力提升2230",
+    "levels[27].description": "体力提升2390",
+    "levels[28].description": "体力提升2550",
+    "levels[29].description": "体力提升2770",
+    "levels[2].description": "体力提升120",
+    "levels[30].description": "体力提升3000",
+    "levels[31].description": "体力提升3240",
+    "levels[32].description": "体力提升3470",
+    "levels[33].description": "体力提升3710",
+    "levels[34].description": "体力提升4150",
+    "levels[35].description": "体力提升4590",
+    "levels[36].description": "体力提升5030",
+    "levels[37].description": "体力提升5480",
+    "levels[38].description": "体力提升5920",
+    "levels[39].description": "体力提升6680",
+    "levels[3].description": "体力150上升",
+    "levels[40].description": "体力提升7450",
+    "levels[41].description": "体力提升8220",
+    "levels[42].description": "体力提升8980",
+    "levels[43].description": "体力提升9750",
+    "levels[44].description": "体力提升10940",
+    "levels[45].description": "体力提升12130",
+    "levels[46].description": "体力13330上升",
+    "levels[47].description": "体力14530上升",
+    "levels[48].description": "体力15730上升",
+    "levels[49].description": "体力17500上升",
+    "levels[4].description": "体力190上升",
+    "levels[5].description": "体力230上升",
+    "levels[6].description": "体力270上升",
+    "levels[7].description": "体力310上升",
+    "levels[8].description": "体力350上升",
+    "levels[9].description": "体力420上升",
+    "name": "体力提升"
+  },
+  "race-lba-technique_add": {
+    "levels[0].description": "暴击提升70",
+    "levels[10].description": "暴击740上升",
+    "levels[11].description": "暴击840上升",
+    "levels[12].description": "暴击940上升",
+    "levels[13].description": "暴击1040上升",
+    "levels[14].description": "暴击提升1200",
+    "levels[15].description": "暴击1360上升",
+    "levels[16].description": "暴击1520上升",
+    "levels[17].description": "暴击1680上升",
+    "levels[18].description": "暴击1840上升",
+    "levels[19].description": "暴击2050上升",
+    "levels[1].description": "暴击提升100",
+    "levels[20].description": "暴击2260上升",
+    "levels[21].description": "暴击2470上升",
+    "levels[22].description": "暴击2680上升",
+    "levels[23].description": "暴击2890上升",
+    "levels[24].description": "暴击3150上升",
+    "levels[25].description": "暴击3410上升",
+    "levels[26].description": "暴击3670上升",
+    "levels[27].description": "暴击3930上升",
+    "levels[28].description": "暴击4190上升",
+    "levels[29].description": "暴击4520上升",
+    "levels[2].description": "暴击130上升",
+    "levels[30].description": "暴击4900上升",
+    "levels[31].description": "暴击5280上升",
+    "levels[32].description": "暴击5660上升",
+    "levels[33].description": "暴击6040上升",
+    "levels[34].description": "暴击6610上升",
+    "levels[35].description": "暴击7190上升",
+    "levels[36].description": "暴击7760上升",
+    "levels[37].description": "暴击提升8330",
+    "levels[38].description": "暴击提升8900",
+    "levels[39].description": "暴击提升9860",
+    "levels[3].description": "暴击提升160",
+    "levels[40].description": "暴击提升10810",
+    "levels[41].description": "暴击提升11770",
+    "levels[42].description": "暴击提升12720",
+    "levels[43].description": "暴击提升13670",
+    "levels[44].description": "暴击提升15200",
+    "levels[45].description": "暴击提升16730",
+    "levels[46].description": "暴击提升18250",
+    "levels[47].description": "暴击提升19780",
+    "levels[48].description": "暴击21310上升",
+    "levels[49].description": "暴击23600上升",
+    "levels[4].description": "暴击235上升",
+    "levels[5].description": "暴击310上升",
+    "levels[6].description": "暴击385上升",
+    "levels[7].description": "暴击460上升",
+    "levels[8].description": "暴击535上升",
+    "levels[9].description": "暴击640上升",
+    "name": "暴击提升"
+  },
+  "race-lba-visual_add": {
+    "levels[0].description": "表现1400上升",
+    "levels[10].description": "表现14700上升",
+    "levels[11].description": "表现16800上升",
+    "levels[12].description": "表现18900上升",
+    "levels[13].description": "视觉21000上升",
+    "levels[14].description": "视觉23800上升",
+    "levels[15].description": "视觉26600上升",
+    "levels[16].description": "视觉29400上升",
+    "levels[17].description": "视觉32200上升",
+    "levels[18].description": "视觉35000上升",
+    "levels[19].description": "视觉38800上升",
+    "levels[1].description": "视觉2100上升",
+    "levels[20].description": "视觉42600上升",
+    "levels[21].description": "视觉46400上升",
+    "levels[22].description": "视觉50200上升",
+    "levels[23].description": "视觉54000上升",
+    "levels[24].description": "视觉58600上升",
+    "levels[25].description": "视觉63200上升",
+    "levels[26].description": "视觉67800上升",
+    "levels[27].description": "视觉72400上升",
+    "levels[28].description": "视觉77000上升",
+    "levels[29].description": "视觉82700上升",
+    "levels[2].description": "视觉2800上升",
+    "levels[30].description": "视觉88400上升",
+    "levels[31].description": "视觉94100上升",
+    "levels[32].description": "视觉99900上升",
+    "levels[33].description": "视觉105600上升",
+    "levels[34].description": "视觉114300上升",
+    "levels[35].description": "视觉122900上升",
+    "levels[36].description": "视觉131500上升",
+    "levels[37].description": "视觉140100上升",
+    "levels[38].description": "视觉148700上升",
+    "levels[39].description": "视觉163100上升",
+    "levels[3].description": "视觉3500上升",
+    "levels[40].description": "视觉177500上升",
+    "levels[41].description": "视觉191800上升",
+    "levels[42].description": "视觉206200上升",
+    "levels[43].description": "视觉220600上升",
+    "levels[44].description": "视觉243500上升",
+    "levels[45].description": "视觉266500上升",
+    "levels[46].description": "视觉289500上升",
+    "levels[47].description": "视觉312500上升",
+    "levels[48].description": "视觉335500上升",
+    "levels[49].description": "视觉370000上升",
+    "levels[4].description": "视觉4900上升",
+    "levels[5].description": "视觉6300上升",
+    "levels[6].description": "视觉7700上升",
+    "levels[7].description": "视觉9100上升",
+    "levels[8].description": "视觉10500上升",
+    "levels[9].description": "表现力12600上升",
+    "name": "视觉提升"
+  },
+  "race-lba-vocal_add": {
+    "levels[0].description": "歌唱1400上升",
+    "levels[10].description": "歌唱14700上升",
+    "levels[11].description": "歌唱16800上升",
+    "levels[12].description": "声乐18900上升",
+    "levels[13].description": "声乐21000上升",
+    "levels[14].description": "声乐23800上升",
+    "levels[15].description": "声乐26600上升",
+    "levels[16].description": "声乐29400上升",
+    "levels[17].description": "声乐32200上升",
+    "levels[18].description": "声乐35000上升",
+    "levels[19].description": "声乐38800上升",
+    "levels[1].description": "声乐2100上升",
+    "levels[20].description": "声乐42600上升",
+    "levels[21].description": "声乐46400上升",
+    "levels[22].description": "声乐50200上升",
+    "levels[23].description": "声乐54000上升",
+    "levels[24].description": "声乐58600上升",
+    "levels[25].description": "声乐63200上升",
+    "levels[26].description": "声乐67800上升",
+    "levels[27].description": "声乐72400上升",
+    "levels[28].description": "声乐77000上升",
+    "levels[29].description": "声乐82700上升",
+    "levels[2].description": "声乐2800上升",
+    "levels[30].description": "声乐88400上升",
+    "levels[31].description": "声乐94100上升",
+    "levels[32].description": "声乐99900上升",
+    "levels[33].description": "声乐105600上升",
+    "levels[34].description": "声乐114300上升",
+    "levels[35].description": "声乐122900上升",
+    "levels[36].description": "声乐131500上升",
+    "levels[37].description": "声乐140100上升",
+    "levels[38].description": "声乐148700上升",
+    "levels[39].description": "声乐163100上升",
+    "levels[3].description": "声乐3500上升",
+    "levels[40].description": "声乐177500上升",
+    "levels[41].description": "声乐191800上升",
+    "levels[42].description": "声乐206200上升",
+    "levels[43].description": "声乐220600上升",
+    "levels[44].description": "声乐243500上升",
+    "levels[45].description": "声乐266500上升",
+    "levels[46].description": "声乐289500上升",
+    "levels[47].description": "声乐312500上升",
+    "levels[48].description": "声乐335500上升",
+    "levels[49].description": "声乐370000上升",
+    "levels[4].description": "声乐4900上升",
+    "levels[5].description": "声乐6300上升",
+    "levels[6].description": "声乐7700上升",
+    "levels[7].description": "声乐9100上升",
+    "levels[8].description": "声乐10500上升",
+    "levels[9].description": "歌唱12600上升",
+    "name": "声乐提升"
+  },
+  "tour-lba-active_skill_score_multiply": {
+    "levels[0].description": "A技能得分10.0%上升",
+    "levels[1].description": "A技能得分提升15.0%",
+    "levels[2].description": "A技能得分提升25.0%",
+    "name": "A技能分数提升"
+  },
+  "tour-lba-beat_score_multiply": {
+    "levels[0].description": "节拍得分提升50.0%",
+    "levels[1].description": "节拍得分提升70.0%",
+    "levels[2].description": "节拍得分提升100.0%",
+    "name": "节拍得分提升"
+  },
+  "tour-lba-critical_score_multiply": {
+    "levels[0].description": "暴击得分提升15.0%",
+    "levels[1].description": "暴击得分提升25.0%",
+    "levels[2].description": "暴击得分提升40.0%",
+    "name": "暴击分数提升"
+  },
+  "tour-lba-dance_add": {
+    "levels[0].description": "舞蹈900上升",
+    "levels[1].description": "舞蹈提升1300",
+    "levels[2].description": "舞蹈1800上升",
+    "name": "舞蹈提升"
+  },
+  "tour-lba-dance_add-21-0731": {
+    "levels[0].description": "舞蹈提升1700",
+    "levels[1].description": "舞蹈提升2400",
+    "levels[2].description": "舞蹈提升3400",
+    "name": "舞蹈提升"
+  },
+  "tour-lba-dance_multiply": {
+    "levels[0].description": "舞蹈12.0%上升",
+    "levels[1].description": "舞蹈提升17.0%",
+    "levels[2].description": "舞蹈提升24.0%",
+    "name": "舞蹈提升"
+  },
+  "tour-lba-passive_skill-character_limited-ai-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当有人处于舞蹈提升状态时，使1名处于舞蹈提升状态的角色强化效果增强"
+  },
+  "tour-lba-passive_skill-character_limited-aoi-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当有人处于舞蹈提升状态时，使舞蹈最高的3人得分提升"
+  },
+  "tour-lba-passive_skill-character_limited-chs-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当有人处于表现提升状态时，全体表现得分提升+体力恢复"
+  },
+  "tour-lba-passive_skill-character_limited-hrk-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当有人处于歌唱提升状态时，全体节拍得分提升并恢复体力"
+  },
+  "tour-lba-passive_skill-character_limited-kkr-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当有人处于表现得分提升状态时，使1名处于表现得分提升状态的角色暴击率提升"
+  },
+  "tour-lba-passive_skill-character_limited-ktn-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "在有人触发暴击前，使中心表现得分提升"
+  },
+  "tour-lba-passive_skill-character_limited-mei-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "使中心体力消耗降低+A技能得分提升"
+  },
+  "tour-lba-passive_skill-character_limited-ngs-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当有人处于得分提升状态时，得分获取提升+中心暴击率提升"
+  },
+  "tour-lba-passive_skill-character_limited-rei-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当有人处于舞蹈提升状态时，使舞蹈最高的3人暴击率提升+体力恢复"
+  },
+  "tour-lba-passive_skill-character_limited-rio-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当有人处于Vocal提升状态时，使1名处于Vocal提升状态的角色分数提升+回复体力"
+  },
+  "tour-lba-passive_skill-character_limited-rui-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+使2名得分手类型角色的A技能分数提升"
+  },
+  "tour-lba-passive_skill-character_limited-ski-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当有人处于分数提升状态时，获得分数+使全体CT缩短"
+  },
+  "tour-lba-passive_skill-character_limited-skr-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当有人处于Vocal提升状态时，使中心角色强化效果延长"
+  },
+  "tour-lba-passive_skill-character_limited-smr-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当有人处于分数提升状态时，使1名得分手类型角色Visual提升+回复体力"
+  },
+  "tour-lba-passive_skill-character_limited-suz-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "达到100连击时，获得分数+使2名表现类型角色的CT缩短（仅1次）"
+  },
+  "tour-lba-passive_skill-character_limited-szk-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数-连击数越多效果越高"
+  },
+  "tour-lba-passive_skill-character_limited-yu-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当有人处于Beat分数提升状态时，使Visual最高的3名角色强化效果延长"
+  },
+  "tour-lba-passive_skill-common-beat_score_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+使2名得分手类型角色Beat分数提升"
+  },
+  "tour-lba-passive_skill-common-beat_score_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当有人发生暴击前，获得分数+使中心角色Beat分数提升"
+  },
+  "tour-lba-passive_skill-common-dance_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+使中心角色Dance提升"
+  },
+  "tour-lba-passive_skill-common-dance_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+使Dance最高的1名角色Dance提升"
+  },
+  "tour-lba-passive_skill-common-dance_up-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+舞蹈值最高的3人舞蹈提升"
+  },
+  "tour-lba-passive_skill-common-dance_up-4": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+得分手类型2人舞蹈提升"
+  },
+  "tour-lba-passive_skill-common-dance_up-5": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "在某人发动表现技能前，获得分数+舞蹈提升"
+  },
+  "tour-lba-passive_skill-common-dance_up-6": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "在某人发动SP技能前，获得分数+舞蹈提升"
+  },
+  "tour-lba-passive_skill-common-score_get-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "得分获得"
+  },
+  "tour-lba-passive_skill-common-score_get-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "节拍时，有概率获得分数"
+  },
+  "tour-lba-passive_skill-common-score_get-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "在某人发生暴击前，获得分数"
+  },
+  "tour-lba-passive_skill-common-score_get_by_more_combo_count-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数-连击数越多效果越高"
+  },
+  "tour-lba-passive_skill-common-score_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+中心位分数提升"
+  },
+  "tour-lba-passive_skill-common-score_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+得分手类型2人分数提升"
+  },
+  "tour-lba-passive_skill-common-score_up-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "在某人发动表现技能前，获得分数+分数提升"
+  },
+  "tour-lba-passive_skill-common-score_up-4": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "在某人发动SP技能前，获得分数+分数提升"
+  },
+  "tour-lba-passive_skill-common-skill_cool_time_reduction-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "达到50连击时，得分获得+中心位CT降低"
+  },
+  "tour-lba-passive_skill-common-skill_cool_time_reduction-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "达到50连击时，获得分数+得分手类型2人CT降低"
+  },
+  "tour-lba-passive_skill-common-skill_critical_bonus_permil_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+中心位暴击系数提升"
+  },
+  "tour-lba-passive_skill-common-skill_critical_bonus_permil_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+2名得分手类型暴击系数提升"
+  },
+  "tour-lba-passive_skill-common-skill_critical_bonus_permil_up-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "某人在发动表现技能前，得分获得+暴击系数提升"
+  },
+  "tour-lba-passive_skill-common-skill_critical_bonus_permil_up-4": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "某人在发动SP技能前，得分获得+暴击系数提升"
+  },
+  "tour-lba-passive_skill-common-skill_critical_rate_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+中心位暴击率提升"
+  },
+  "tour-lba-passive_skill-common-skill_critical_rate_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+2名得分手类型暴击率提升"
+  },
+  "tour-lba-passive_skill-common-skill_critical_rate_up-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "某人在发动表现技能前，得分获得+暴击率提升"
+  },
+  "tour-lba-passive_skill-common-skill_critical_rate_up-4": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "某人在发动SP技能前，得分获得+暴击率提升"
+  },
+  "tour-lba-passive_skill-common-skill_fix_stamina_recovery-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "某人耐力在70%以下时，得分获得+恢复耐力最低的1名角色的耐力（仅1次）"
+  },
+  "tour-lba-passive_skill-common-skill_fix_stamina_recovery-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "某人耐力在70%以下时，得分获得+恢复耐力最低的3名角色的耐力（仅1次）"
+  },
+  "tour-lba-passive_skill-common-skill_fix_stamina_recovery-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当某人耐力低于70%时，获得分数+全员耐力回复（仅1次）"
+  },
+  "tour-lba-passive_skill-common-skill_score_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+中心位A技能分数提升"
+  },
+  "tour-lba-passive_skill-common-skill_score_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+使2名得分手类型角色的A技能分数提升"
+  },
+  "tour-lba-passive_skill-common-skill_score_up-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "在某人发动表现技能前，获得分数+A技能分数提升"
+  },
+  "tour-lba-passive_skill-common-skill_stamina_consumption_reduction-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "在某人发动表现技能前，获得分数+耐力消耗降低"
+  },
+  "tour-lba-passive_skill-common-skill_stamina_consumption_reduction-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "在某人发动SP技能前，获得分数+耐力消耗降低"
+  },
+  "tour-lba-passive_skill-common-skill_strength_effect_count_increase-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "达到50连击时，得分获得+中心位强化效果次数增加"
+  },
+  "tour-lba-passive_skill-common-skill_strength_effect_count_increase-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "达到50连击时，获得分数+2名得分手类型强化效果次数增加"
+  },
+  "tour-lba-passive_skill-common-skill_strength_effect_value_increase-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "达到50连击时，获得分数+中心位强化效果增强"
+  },
+  "tour-lba-passive_skill-common-skill_strength_effect_value_increase-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "达到50连击时，获得分数+2名得分手类型强化效果增强"
+  },
+  "tour-lba-passive_skill-common-skill_weakness_effect_recovery-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "当某人处于低下状态时，回复全员的低下效果"
+  },
+  "tour-lba-passive_skill-common-visual_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+中心位视觉提升"
+  },
+  "tour-lba-passive_skill-common-visual_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+提升视觉最高的1人的视觉"
+  },
+  "tour-lba-passive_skill-common-visual_up-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+提升视觉最高的3人的视觉"
+  },
+  "tour-lba-passive_skill-common-visual_up-4": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+提升2名得分手类型的视觉"
+  },
+  "tour-lba-passive_skill-common-visual_up-5": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "在某人发动魅力技能前，获得分数+提升视觉"
+  },
+  "tour-lba-passive_skill-common-visual_up-6": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "在某人发动SP技能前，获得分数+提升视觉"
+  },
+  "tour-lba-passive_skill-common-vocal_up-1": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+提升中心成员的歌唱"
+  },
+  "tour-lba-passive_skill-common-vocal_up-2": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+提升歌唱最高的1人的歌唱"
+  },
+  "tour-lba-passive_skill-common-vocal_up-3": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+提升歌唱最高的3人的歌唱"
+  },
+  "tour-lba-passive_skill-common-vocal_up-4": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "获得分数+提升2名得分手类型的歌唱"
+  },
+  "tour-lba-passive_skill-common-vocal_up-5": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "在某人发动魅力技能前，获得分数+提升歌唱"
+  },
+  "tour-lba-passive_skill-common-vocal_up-6": {
+    "levels[0].description": "被动技能发动",
+    "levels[1].description": "被动技能发动",
+    "levels[2].description": "被动技能发动",
+    "name": "在某人发动SP技能前，获得分数+提升歌唱"
+  },
+  "tour-lba-special_skill_score_multiply": {
+    "levels[0].description": "SP技能得分5.0%提升",
+    "levels[1].description": "SP技能得分10.0%上升",
+    "levels[2].description": "SP技能得分20.0%上升",
+    "name": "SP技能分数提升"
+  },
+  "tour-lba-stamina_add": {
+    "levels[0].description": "体力上升800",
+    "levels[1].description": "体力上升1100",
+    "levels[2].description": "体力上升1600",
+    "name": "体力提升"
+  },
+  "tour-lba-technique_add": {
+    "levels[0].description": "暴击提升900",
+    "levels[1].description": "暴击提升1200",
+    "levels[2].description": "暴击提升1500",
+    "name": "暴击提升"
+  },
+  "tour-lba-visual_add": {
+    "levels[0].description": "视觉900上升",
+    "levels[1].description": "表现力提升1300",
+    "levels[2].description": "视觉1800上升",
+    "name": "视觉提升"
+  },
+  "tour-lba-visual_add-21-0731": {
+    "levels[0].description": "视觉1700上升",
+    "levels[1].description": "视觉2400上升",
+    "levels[2].description": "视觉3400上升",
+    "name": "视觉提升"
+  },
+  "tour-lba-visual_multiply": {
+    "levels[0].description": "视觉12.0%上升",
+    "levels[1].description": "视觉17.0%上升",
+    "levels[2].description": "视觉24.0%上升",
+    "name": "视觉提升"
+  },
+  "tour-lba-vocal_add": {
+    "levels[0].description": "歌唱900上升",
+    "levels[1].description": "歌唱1300上升",
+    "levels[2].description": "歌唱1800上升",
+    "name": "声乐提升"
+  },
+  "tour-lba-vocal_add-21-0731": {
+    "levels[0].description": "歌唱1700上升",
+    "levels[1].description": "歌唱2400上升",
+    "levels[2].description": "歌唱3400上升",
+    "name": "声乐提升"
+  },
+  "tour-lba-vocal_multiply": {
+    "levels[0].description": "声乐12.0%上升",
+    "levels[1].description": "声乐17.0%上升",
+    "levels[2].description": "声乐24.0%上升",
+    "name": "声乐提升"
+  }
+}
