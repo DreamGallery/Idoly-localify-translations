@@ -48,8 +48,8 @@ jobs:
       - name: Validate runtime
         env:
           IDOLY_RUNNER_CONFIG: ${{ steps.configure.outputs.config }}
-          OPENAI_API_BASE: ${{ vars.OPENAI_API_BASE }}
-          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          OPENAI_API_BASE: ${{ secrets.OPENAI_API_BASE }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
         run: |
           python3 Idoly-localify/tools/release_translations.py --config "$IDOLY_RUNNER_CONFIG" --preflight-only \
             --repository-dir "$GITHUB_WORKSPACE/translations-data" --adv-dir "$GITHUB_WORKSPACE/Hoshimi-Adv" \

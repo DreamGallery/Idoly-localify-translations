@@ -12,14 +12,6 @@ on:
         description: Disable model calls (new incomplete content blocks publication)
         type: boolean
         default: false
-      api_base:
-        description: Optional API base URL (empty uses repository variable)
-        type: string
-        default: ''
-      model:
-        description: Optional model name (empty uses repository variable)
-        type: string
-        default: ''
 permissions:
   contents: read
 concurrency:
@@ -91,8 +83,8 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_API_BASE: ${{ inputs.api_base || vars.OPENAI_API_BASE }}
-          OPENAI_MODEL: ${{ inputs.model || vars.OPENAI_MODEL }}
+          OPENAI_API_BASE: ${{ secrets.OPENAI_API_BASE }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
           DRY_RUN: ${{ inputs.dry_run || false }}
           NO_TRANSLATE: ${{ inputs.no_translate || false }}
         run: |

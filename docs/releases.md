@@ -18,19 +18,19 @@
 - `TOOLKIT_DEPLOY_KEY`：仅用于 `HoshimiToolkit` 的独立只读 SSH 部署私钥。
 - `TRANSLATOR_DEPLOY_KEY`：仅用于 `Hoshimi_Teleprompter` 的独立只读 SSH 部署私钥。
 - `OPENAI_API_KEY`：增量机器翻译 API 密钥。
+- `OPENAI_API_BASE`、`OPENAI_MODEL`：模型 API 地址与模型名称。引导和发布工作流均从此环境的 Secrets 读取；不要放入仓库 Variables 或手动运行参数。
 
 仓库 variables：
 
 - `IDOLY_RUNNER_CONFIG`：运行器本地 JSON 配置的绝对路径。
 - `RELEASE_ENABLED`：完成预检后设为 `true` 才允许定时或手动正式发布。未开启时，仍可在 `main` 手动运行 `dry_run=true`，不会提交数据或发布。
-- `OPENAI_API_BASE`、`OPENAI_MODEL`：模型 API 地址与模型名称。手动运行可填写 `api_base`、`model` 临时覆盖；空输入使用对应仓库变量，变量也为空才回退本地 JSON 配置。
 - 可选 `IDOLY_SOURCE_REF`、`TOOLKIT_REF`、`TRANSLATOR_REF`：默认各私有仓库的 `main`；需要冻结工具版本时设置完整 commit SHA。仅可信维护者能够更新这些私有分支。
 
 三个部署公钥分别登记在对应私有仓库，关闭写入权限，不复用密钥。所有 checkout 均设置 `persist-credentials: false`。发布步骤使用本公开仓库内建 `github.token`，job 仅授予 `contents: write`，无需个人访问令牌。主分支规则需允许此工作流提交已验证的数据；不允许时会安全失败，不强推。workflow 的分支条件与 environment 部署分支规则都限制 `main`。
 
 工作流只有定时和手动触发器；此外，内建令牌产生的普通 push 不会触发后续工作流，避免递归发布，GitHub 文档说明见[工作流触发规则](https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/trigger-a-workflow)。本流程不调用 `workflow_dispatch` 或 `repository_dispatch`。
 
-API 地址必须是无用户名、密码、查询参数和 fragment 的 HTTPS URL；模型名称必须为单行文本。运行摘要显示实际地址与模型，不显示 API 密钥。优先级为手动输入、仓库变量、本地 JSON 兼容配置。
+API 地址必须是无用户名、密码、查询参数和 fragment 的 HTTPS URL；模型名称必须为单行文本。地址、模型与密钥统一在 `localization-release` 的 Secrets 中设置；手动运行仅保留 `dry_run` 和 `no_translate`，避免把服务配置写入公开的运行参数记录。环境配置优先于运行器本地 JSON 的兼容配置；工作流日志与摘要中的 Secret 值由 GitHub 脱敏。
 
 本地配置示例（路径是示例，按运行器实际位置填写；此文件不提交）：
 
@@ -49,9 +49,7 @@ API 地址必须是无用户名、密码、查询参数和 fragment 的 HTTPS UR
   "android_home": "/srv/idoly/android-sdk",
   "java_home": "/usr/lib/jvm/java-17-openjdk-amd64",
   "app_version": "6.0.2",
-  "initialize_collector_day": false,
-  "openai_api_base": "https://your-approved-provider.example/v1",
-  "openai_model": "your-approved-model"
+  "initialize_collector_day": false
 }
 ```
 
