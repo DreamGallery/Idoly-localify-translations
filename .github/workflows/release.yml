@@ -12,6 +12,14 @@ on:
         description: Disable model calls (new incomplete content blocks publication)
         type: boolean
         default: false
+      api_base:
+        description: Optional API base URL (empty uses repository variable)
+        type: string
+        default: ''
+      model:
+        description: Optional model name (empty uses repository variable)
+        type: string
+        default: ''
 permissions:
   contents: read
 concurrency:
@@ -19,7 +27,12 @@ concurrency:
   cancel-in-progress: false
 jobs:
   release:
-    if: vars.RELEASE_ENABLED == 'true'
+    if: >-
+      github.ref == 'refs/heads/main' &&
+      (vars.RELEASE_ENABLED == 'true' ||
+       (github.event_name == 'workflow_dispatch' && inputs.dry_run == true))
+    permissions:
+      contents: write
     runs-on: [self-hosted, Linux, X64]
     environment: localization-release
     timeout-minutes: 180
@@ -31,6 +44,16 @@ jobs:
         run: |
           set -euo pipefail
           test -n "$IDOLY_RUNNER_CONFIG" && test -f "$IDOLY_RUNNER_CONFIG"
+          python3 - <<'PY'
+          import json, os
+          from pathlib import Path
+          config = json.loads(Path(os.environ['IDOLY_RUNNER_CONFIG']).read_text())
+          with open(os.environ['GITHUB_PATH'], 'a') as output:
+              if config.get('bin_dir'):
+                  output.write(str(Path(config['bin_dir'])) + '\n')
+              if config.get('java_home'):
+                  output.write(str(Path(config['java_home']) / 'bin') + '\n')
+          PY
       # Code comes only from trusted private repositories; optionally pin a commit. Public Issues,
       # PR heads, artifact scripts and CSV fields are never executed on this runner.
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
@@ -41,21 +64,21 @@ jobs:
         with:
           repository: DreamGallery/Idoly-localify
           ref: ${{ vars.IDOLY_SOURCE_REF || 'main' }}
-          token: ${{ secrets.CODE_READ_TOKEN }}
+          ssh-key: ${{ secrets.SOURCE_DEPLOY_KEY }}
           path: Idoly-localify
           persist-credentials: false
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
         with:
           repository: DreamGallery/HoshimiToolkit
           ref: ${{ vars.TOOLKIT_REF || 'main' }}
-          token: ${{ secrets.CODE_READ_TOKEN }}
+          ssh-key: ${{ secrets.TOOLKIT_DEPLOY_KEY }}
           path: HoshimiToolkit
           persist-credentials: false
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
         with:
           repository: DreamGallery/Hoshimi_Teleprompter
           ref: ${{ vars.TRANSLATOR_REF || 'main' }}
-          token: ${{ secrets.CODE_READ_TOKEN }}
+          ssh-key: ${{ secrets.TRANSLATOR_DEPLOY_KEY }}
           path: Hoshimi_Teleprompter
           persist-credentials: false
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
@@ -66,8 +89,10 @@ jobs:
       - name: Fetch changes, validate collaboration and publish complete assets
         shell: bash
         env:
-          GH_TOKEN: ${{ secrets.RELEASE_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_API_BASE: ${{ inputs.api_base || vars.OPENAI_API_BASE }}
+          OPENAI_MODEL: ${{ inputs.model || vars.OPENAI_MODEL }}
           DRY_RUN: ${{ inputs.dry_run || false }}
           NO_TRANSLATE: ${{ inputs.no_translate || false }}
         run: |

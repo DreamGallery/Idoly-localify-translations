@@ -4,19 +4,33 @@
 
 ## 一次性配置
 
+运行器上线后，可手动运行 `Runner environment check` 检查环境，再运行 `Prepare self-hosted release runner` 安装依赖和配置。支持 Ubuntu/Linux x86_64、Python 3.12；依赖保存在运行器用户的 `~/.local/share/idoly-release/`，不需要 sudo。首次下载的工具版本和 Python 依赖摘要会锁定，重跑复用已有安装。
+
+引导任务还需要环境 Secret `BOOTSTRAP_PRIVATE_B64`：经维护者明确授权的私密配置包，包含游戏接口参数、专用采集账号及 APK 签名材料。它通过 `scripts/configure_runner.py` 写入权限为 `0600` 的本地文件；重跑保留已刷新的账号令牌，拒绝替换不同签名密钥。字体从固定版本公开 APK 提取，并验证 APK 和字体摘要。不要把配置包、签名文件或日志提交到仓库。
+
+引导成功后，将任务摘要显示的路径填入 `IDOLY_RUNNER_CONFIG`，先手动运行发布工作流，保持 `dry_run=true` 并选择 `no_translate=true` 做验证；有新待译内容时该验证会停止。验证通过再将 `RELEASE_ENABLED` 设为 `true`。
+
 使用专用、自托管 Linux X64 运行器，不允许外部 PR 使用它。设置 `localization-release` environment，只允许本仓库受保护主分支；启用 CODEOWNERS 审批，限制 `.github/` 修改和默认分支写入权限。没有 `pull_request`、`pull_request_target`、Issue 触发器；外部投稿经审阅合入后只作为 CSV/JSON 数据读取，绝不执行其中的脚本、工作流或命令。Viewer 只能写入其许可的数据路径。
 
-仓库 secrets：
+`localization-release` environment secrets：
 
-- `CODE_READ_TOKEN`：仅允许读取三个私有代码仓库。
-- `RELEASE_TOKEN`：仅允许对本公开仓库提交数据及发布 Releases，不能读私有代码。
+- `SOURCE_DEPLOY_KEY`：仅用于 `Idoly-localify` 的独立只读 SSH 部署私钥。
+- `TOOLKIT_DEPLOY_KEY`：仅用于 `HoshimiToolkit` 的独立只读 SSH 部署私钥。
+- `TRANSLATOR_DEPLOY_KEY`：仅用于 `Hoshimi_Teleprompter` 的独立只读 SSH 部署私钥。
 - `OPENAI_API_KEY`：增量机器翻译 API 密钥。
 
 仓库 variables：
 
 - `IDOLY_RUNNER_CONFIG`：运行器本地 JSON 配置的绝对路径。
-- `RELEASE_ENABLED`：完成预检后设为 `true`；未设置时不运行，不建空 release 或 Issue。
+- `RELEASE_ENABLED`：完成预检后设为 `true` 才允许定时或手动正式发布。未开启时，仍可在 `main` 手动运行 `dry_run=true`，不会提交数据或发布。
+- `OPENAI_API_BASE`、`OPENAI_MODEL`：模型 API 地址与模型名称。手动运行可填写 `api_base`、`model` 临时覆盖；空输入使用对应仓库变量，变量也为空才回退本地 JSON 配置。
 - 可选 `IDOLY_SOURCE_REF`、`TOOLKIT_REF`、`TRANSLATOR_REF`：默认各私有仓库的 `main`；需要冻结工具版本时设置完整 commit SHA。仅可信维护者能够更新这些私有分支。
+
+三个部署公钥分别登记在对应私有仓库，关闭写入权限，不复用密钥。所有 checkout 均设置 `persist-credentials: false`。发布步骤使用本公开仓库内建 `github.token`，job 仅授予 `contents: write`，无需个人访问令牌。主分支规则需允许此工作流提交已验证的数据；不允许时会安全失败，不强推。workflow 的分支条件与 environment 部署分支规则都限制 `main`。
+
+工作流只有定时和手动触发器；此外，内建令牌产生的普通 push 不会触发后续工作流，避免递归发布，GitHub 文档说明见[工作流触发规则](https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/trigger-a-workflow)。本流程不调用 `workflow_dispatch` 或 `repository_dispatch`。
+
+API 地址必须是无用户名、密码、查询参数和 fragment 的 HTTPS URL；模型名称必须为单行文本。运行摘要显示实际地址与模型，不显示 API 密钥。优先级为手动输入、仓库变量、本地 JSON 兼容配置。
 
 本地配置示例（路径是示例，按运行器实际位置填写；此文件不提交）：
 

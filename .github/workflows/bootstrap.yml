@@ -1,0 +1,57 @@
+name: Prepare self-hosted release runner
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: idoly-localization-release
+  cancel-in-progress: false
+jobs:
+  bootstrap:
+    if: github.ref == 'refs/heads/main'
+    runs-on: [self-hosted, Linux, X64]
+    environment: localization-release
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          path: translations-data
+          persist-credentials: false
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          repository: DreamGallery/Idoly-localify
+          ref: ${{ vars.IDOLY_SOURCE_REF || 'main' }}
+          ssh-key: ${{ secrets.SOURCE_DEPLOY_KEY }}
+          path: Idoly-localify
+          persist-credentials: false
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          repository: DreamGallery/HoshimiToolkit
+          ref: ${{ vars.TOOLKIT_REF || 'main' }}
+          ssh-key: ${{ secrets.TOOLKIT_DEPLOY_KEY }}
+          path: HoshimiToolkit
+          persist-credentials: false
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          repository: DreamGallery/Hoshimi_Teleprompter
+          ref: ${{ vars.TRANSLATOR_REF || 'main' }}
+          ssh-key: ${{ secrets.TRANSLATOR_DEPLOY_KEY }}
+          path: Hoshimi_Teleprompter
+          persist-credentials: false
+      - name: Install isolated build dependencies
+        run: python3 translations-data/scripts/bootstrap_runtime.py --toolkit-dir "$GITHUB_WORKSPACE/HoshimiToolkit" --project "$GITHUB_WORKSPACE/Idoly-localify"
+      - name: Configure private runtime files
+        id: configure
+        env:
+          BOOTSTRAP_PRIVATE_B64: ${{ secrets.BOOTSTRAP_PRIVATE_B64 }}
+        run: python3 translations-data/scripts/configure_runner.py --toolkit-dir "$GITHUB_WORKSPACE/HoshimiToolkit"
+      - name: Validate runtime
+        env:
+          IDOLY_RUNNER_CONFIG: ${{ steps.configure.outputs.config }}
+          OPENAI_API_BASE: ${{ vars.OPENAI_API_BASE }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+        run: |
+          python3 Idoly-localify/tools/release_translations.py --config "$IDOLY_RUNNER_CONFIG" --preflight-only \
+            --repository-dir "$GITHUB_WORKSPACE/translations-data" --adv-dir "$GITHUB_WORKSPACE/Hoshimi-Adv" \
+            --toolkit-dir "$GITHUB_WORKSPACE/HoshimiToolkit" --translator-dir "$GITHUB_WORKSPACE/Hoshimi_Teleprompter"
+          printf 'Runtime preflight passed. Set `IDOLY_RUNNER_CONFIG` to `%s`.\n' "$IDOLY_RUNNER_CONFIG" >> "$GITHUB_STEP_SUMMARY"
