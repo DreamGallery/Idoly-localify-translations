@@ -1,5 +1,11 @@
 {
-  "pending_tasks": {},
+  "pending_tasks": {
+    "adv_card_ktn_15_01": {
+      "csv_path": "card/ktn/15/adv_card_ktn_15_01.csv",
+      "source_changed": false,
+      "source_sha256": "f65245caa50cfff0330e030379acd79827e8e892b05d5ea2683863a200cc1d35"
+    }
+  },
   "resource_revision": 1066,
   "schema_version": 1,
   "scripts": {
