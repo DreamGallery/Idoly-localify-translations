@@ -1,36 +1,5 @@
 {
-  "pending_tasks": {
-    "adv_main_04_13_01": {
-      "csv_path": "main/04/13/adv_main_04_13_01.csv",
-      "source_changed": false,
-      "source_sha256": "c49abf10e0ff7f2e8e88f8f9a5df267f1715231061dcb46dad9bf8e28a780667"
-    },
-    "adv_main_04_13_02": {
-      "csv_path": "main/04/13/adv_main_04_13_02.csv",
-      "source_changed": false,
-      "source_sha256": "39076091e4e403dd67509b617d6057753d29a60185db0dd86eb48a80da3351f6"
-    },
-    "adv_main_04_13_03": {
-      "csv_path": "main/04/13/adv_main_04_13_03.csv",
-      "source_changed": false,
-      "source_sha256": "49cf8c397b46d8f755c2ec32286a00e67ef3e5dcf54b7762961addd88dce8fab"
-    },
-    "adv_main_04_13_04": {
-      "csv_path": "main/04/13/adv_main_04_13_04.csv",
-      "source_changed": false,
-      "source_sha256": "d35e364ef225ef502894d14c0792a5bf6f14013546057c3447daa5c17d96549c"
-    },
-    "adv_main_04_13_05_01": {
-      "csv_path": "main/04/13/adv_main_04_13_05_01.csv",
-      "source_changed": false,
-      "source_sha256": "4f62bff76a608003564498c2cf0e3d2d7ee8d607bbcfb9b5577edea69c47881f"
-    },
-    "adv_main_04_13_05_02": {
-      "csv_path": "main/04/13/adv_main_04_13_05_02.csv",
-      "source_changed": false,
-      "source_sha256": "0ab44e700c90f9cbff69ba5bd35eb5b2fd441c9bbe8cf10412632393b7f74192"
-    }
-  },
+  "pending_tasks": {},
   "resource_revision": 1066,
   "schema_version": 1,
   "scripts": {
