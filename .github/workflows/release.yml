@@ -46,7 +46,7 @@ jobs:
               if config.get('java_home'):
                   output.write(str(Path(config['java_home']) / 'bin') + '\n')
           PY
-      # Code comes only from trusted private repositories; optionally pin a commit. Public Issues,
+      # Code comes only from trusted repositories; optionally pin a commit. Public Issues,
       # PR heads, artifact scripts and CSV fields are never executed on this runner.
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
         with:

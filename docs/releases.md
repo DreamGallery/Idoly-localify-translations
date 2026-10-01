@@ -1,6 +1,6 @@
 # 自动更新与协作校对
 
-所有 GitHub Actions 都在本仓库；三个私有代码仓库不运行 Actions。工作流每天北京时间 23:00（UTC 15:00）运行，也可在 Actions 手动启动。首次手动运行默认 `dry_run=true`：会抓取、校验并生成完整包，但不提交译文、不上传或发布。模型调用仍可能发生；同时选择 `no_translate` 可关闭，存在待译内容时会阻止发布。
+所有 GitHub Actions 都在本仓库；插件源码与配套工具仓库不运行 Actions。工作流每天北京时间 23:00（UTC 15:00）运行，也可在 Actions 手动启动。首次手动运行默认 `dry_run=true`：会抓取、校验并生成完整包，但不提交译文、不上传或发布。模型调用仍可能发生；同时选择 `no_translate` 可关闭，存在待译内容时会阻止发布。
 
 ## 一次性配置
 
@@ -24,9 +24,9 @@
 
 - `IDOLY_RUNNER_CONFIG`：运行器本地 JSON 配置的绝对路径。
 - `RELEASE_ENABLED`：完成预检后设为 `true` 才允许定时或手动正式发布。未开启时，仍可在 `main` 手动运行 `dry_run=true`，不会提交数据或发布。
-- 可选 `IDOLY_SOURCE_REF`、`TOOLKIT_REF`、`TRANSLATOR_REF`：默认各私有仓库的 `main`；需要冻结工具版本时设置完整 commit SHA。仅可信维护者能够更新这些私有分支。
+- 可选 `IDOLY_SOURCE_REF`、`TOOLKIT_REF`、`TRANSLATOR_REF`：默认各代码仓库的 `main`；需要冻结工具版本时设置完整 commit SHA。这些分支仅由可信维护者更新。
 
-三个部署公钥分别登记在对应私有仓库，关闭写入权限，不复用密钥。所有 checkout 均设置 `persist-credentials: false`。发布步骤使用本公开仓库内建 `github.token`，job 仅授予 `contents: write`，无需个人访问令牌。主分支规则需允许此工作流提交已验证的数据；不允许时会安全失败，不强推。workflow 的分支条件与 environment 部署分支规则都限制 `main`。
+三个部署公钥分别登记在对应代码仓库，关闭写入权限，不复用密钥。所有 checkout 均设置 `persist-credentials: false`。发布步骤使用本公开仓库内建 `github.token`，job 仅授予 `contents: write`，无需个人访问令牌。主分支规则需允许此工作流提交已验证的数据；不允许时会安全失败，不强推。workflow 的分支条件与 environment 部署分支规则都限制 `main`。
 
 工作流只有定时和手动触发器；此外，内建令牌产生的普通 push 不会触发后续工作流，避免递归发布，GitHub 文档说明见[工作流触发规则](https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/trigger-a-workflow)。本流程不调用 `workflow_dispatch` 或 `repository_dispatch`。
 
@@ -55,7 +55,7 @@ API 地址必须是无用户名、密码、查询参数和 fragment 的 HTTPS UR
 
 `signing.json` 权限必须为 `0600`，包含 `IDOLY_KEYSTORE_FILE`、`IDOLY_KEYSTORE_PASSWORD`、`IDOLY_KEY_ALIAS`、`IDOLY_KEY_PASSWORD` 四个字符串。它作为 JSON 解析，不使用 shell `source`。保留同一个 keystore 才能让用户覆盖更新 APK。字体 bundle 按私有主项目字体构建说明生成；SolisClient 及其 protobuf/SQLCipher 依赖预先放在配置路径。公告使用已创建的专用 collector，不使用玩家账号、不自动创建账号；需要日初始化时默认停止并报告；已获授权的专用 collector 可在本地配置设置 `initialize_collector_day: true`，仅允许该账号的 Home.Login 日初始化。Octo 与 Firebase 配置留在本地配置目录，工作流不会把它们放入 release。
 
-运行器先安装 Git、GitHub CLI、JDK 17、Android SDK 36、build-tools、NDK 26.3.11579264、CMake 3.22.1。Python 依赖可在三个私有仓库首次 checkout 后安装：
+运行器先安装 Git、GitHub CLI、JDK 17、Android SDK 36、build-tools、NDK 26.3.11579264、CMake 3.22.1。Python 依赖可在三个代码仓库首次 checkout 后安装：
 
 ```sh
 python3.12 -m venv /srv/idoly/venv
