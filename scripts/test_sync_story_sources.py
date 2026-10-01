@@ -32,6 +32,23 @@ class StateTests(unittest.TestCase):
         state = sync.next_state(self.baseline(), receipt('b' * 64), '2' * 40, 1067)
         self.assertTrue(state['pending_tasks']['adv_group_01']['source_changed'])
 
+    def test_browser_copied_filename_trims_invisible_boundary_markers(self):
+        for name in ('adv_group_01.csv\u200e', '\u200f adv_group_01.txt \u200e',
+                     '\ufeff\u200badv_group_01\u200b',
+                     'story/ai/group/月のテンペスト/01/adv_group_01.csv\u200e'):
+            with self.subTest(name=ascii(name)):
+                state = sync.next_state({}, receipt(), '1' * 40, 1066, name)
+                self.assertEqual(list(state['pending_tasks']), ['adv_group_01'])
+
+    def test_blank_or_interior_markers_do_not_select_a_story(self):
+        for name in ('', ' \u200e\u200b ', 'adv_group_\u200e01.csv', '../adv_group_01.csv\u200e'):
+            with self.subTest(name=ascii(name)), self.assertRaises(ValueError):
+                sync.next_state({}, receipt(), '1' * 40, 1066, name)
+
+    def test_unknown_filename_error_identifies_input(self):
+        with self.assertRaisesRegex(ValueError, 'adv_missing.csv.*matched 0'):
+            sync.next_state({}, receipt(), '1' * 40, 1066, 'adv_missing.csv')
+
     def test_pending_survives_retry_and_does_not_mutate_input(self):
         state = sync.next_state(self.baseline(), receipt('b' * 64), '2' * 40, 1067)
         before = copy.deepcopy(state)

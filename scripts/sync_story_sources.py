@@ -11,6 +11,7 @@ import json
 from pathlib import Path, PurePosixPath
 import re
 import subprocess
+import unicodedata
 
 import story_migration as migration
 import story_tasks as tasks
@@ -38,6 +39,22 @@ def source_inventory(receipt):
             for item in receipt['scripts'] if item['status'] != 'retired'}
 
 
+def normalize_filename(value):
+    # Browser-copied filenames may carry invisible direction/format markers.
+    # Only trim boundaries; never silently change an identifier or path inside.
+    def boundary(char):
+        return char.isspace() or unicodedata.category(char) == 'Cf'
+    start, end = 0, len(value)
+    while start < end and boundary(value[start]):
+        start += 1
+    while end > start and boundary(value[end - 1]):
+        end -= 1
+    result = value[start:end]
+    if not result:
+        raise ValueError('Story filename is empty; enter an adv_...txt or adv_...csv filename')
+    return result
+
+
 def next_state(previous, receipt, source_commit, revision, filename=None):
     if previous and previous.get('schema_version') != 1:
         raise ValueError('Unsupported synchronization ledger')
@@ -58,11 +75,13 @@ def next_state(previous, receipt, source_commit, revision, filename=None):
                 if old and old['source_sha256'] != entry['source_sha256']:
                     changed.add(stem)
     candidates.update(item['file_id'] for item in receipt['scripts'] if item['status'] == 'path_changed')
-    if filename:
-        matches = [stem for stem, item in inventory.items() if filename.strip() in
+    if filename is not None:
+        filename = normalize_filename(filename)
+        matches = [stem for stem, item in inventory.items() if filename in
                    (stem, stem + '.txt', stem + '.csv', 'story/ai/' + item['csv_path'])]
         if len(matches) != 1:
-            raise ValueError('Filename does not identify exactly one current story')
+            raise ValueError(f'Story filename {ascii(filename)} matched {len(matches)} current stories; '
+                             'enter the exact adv_...txt or adv_...csv filename from Hoshimi-Adv')
         candidates.add(matches[0])
     for stem in sorted(candidates):
         item = inventory[stem]
