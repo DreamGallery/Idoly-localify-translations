@@ -1,0 +1,49 @@
+name: Create story task by filename
+on:
+  workflow_dispatch:
+    inputs:
+      filename:
+        description: Story filename (adv_...txt or adv_...csv)
+        required: true
+        type: string
+permissions:
+  contents: read
+concurrency:
+  group: idoly-localization-release
+  cancel-in-progress: false
+jobs:
+  task:
+    if: github.ref == 'refs/heads/main'
+    runs-on: [self-hosted, Linux, X64]
+    timeout-minutes: 30
+    permissions:
+      contents: write
+      issues: write
+    env:
+      IDOLY_RUNNER_CONFIG: ${{ vars.IDOLY_RUNNER_CONFIG }}
+    steps:
+      - name: Load installed runner tools
+        run: |
+          python3 - <<'PY'
+          import json, os
+          from pathlib import Path
+          config = json.loads(Path(os.environ['IDOLY_RUNNER_CONFIG']).read_text())
+          with open(os.environ['GITHUB_PATH'], 'a') as output:
+              output.write(config['bin_dir'] + '\n')
+          PY
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+        with:
+          ref: main
+          path: translations
+          persist-credentials: false
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          repository: DreamGallery/Hoshimi-Adv
+          ref: main
+          path: source
+          persist-credentials: false
+      - name: Synchronize sources and create or update the requested task
+        env:
+          GH_TOKEN: ${{ github.token }}
+          STORY_FILENAME: ${{ inputs.filename }}
+        run: python3 translations/scripts/sync_story_sources.py --source-repo source --data-dir translations --filename "$STORY_FILENAME" --apply

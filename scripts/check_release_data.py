@@ -7,7 +7,8 @@ from pathlib import Path
 
 def check(root):
     total = 0
-    for directory in ('story/ai', 'story/human', 'story/reviewed', 'records',
+    for directory in ('story/ai', 'story/human', 'story/reviewed', 'story/drafts', 'records',
+                      'automation', 'archive',
                       'master', 'notice', 'ui', 'legal', 'glossary', 'story-metadata'):
         base = root / directory
         for path in base.rglob('*'):
