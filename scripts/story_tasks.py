@@ -6,6 +6,7 @@ import json
 from pathlib import Path
 import re
 import subprocess
+from urllib.parse import quote
 
 STEM = re.compile(r'adv_[A-Za-z0-9_-]+\Z')
 REPOSITORY = re.compile(r'[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+\Z')
@@ -85,6 +86,20 @@ def set_marker(body, name, value):
 
 def task_body(story, body=''):
     path = story['path']
+    if (not STEM.fullmatch(story['id']) or not HASH.fullmatch(story['source_sha256']) or
+            not path.startswith('story/ai/') or not PATH.fullmatch(path) or
+            any(part in ('', '.', '..') for part in path.split('/'))):
+        raise ValueError('Invalid task story metadata')
+    description = ('<!-- story-task-description:start -->\n'
+                   '剧情翻译与校对任务。请在协作网站领取任务、保存草稿并提交完成结果。\n\n'
+                   f'[查看原文](https://github.com/DreamGallery/Hoshimi-Adv/blob/main/Resource/{story["id"]}.txt)'
+                   f' · [查看初译](https://github.com/DreamGallery/Idoly-localify-translations/blob/main/{quote(path, safe="/")})\n'
+                   '<!-- story-task-description:end -->')
+    pattern = r'<!-- story-task-description:start -->.*?<!-- story-task-description:end -->'
+    if '<!-- story-task-description:start -->' in body:
+        body = re.sub(pattern, lambda _: description, body, flags=re.DOTALL)
+    elif not re.sub(r'<!--.*?-->', '', body, flags=re.DOTALL).strip():
+        body = description + ('\n\n' + body if body else '')
     values = {'raw_path': 'raw_txt/' + story['id'] + '.txt', 'ai_path': path,
               'translated_path': path.replace('story/ai/', 'story/human/', 1),
               'proofread_path': path.replace('story/ai/', 'story/reviewed/', 1),
