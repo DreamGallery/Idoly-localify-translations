@@ -14,6 +14,7 @@ HASH = re.compile(r'[a-f0-9]{64}\Z')
 PATH = re.compile(r'[\w./-]+\Z')
 FIELDS = ['id', 'name', 'text', 'trans']
 STATES = ('待认领', '进行中', '完成')
+PENDING_LABEL = '待翻译'
 
 
 def read_story(path, root):
@@ -118,7 +119,7 @@ def task_body(story, body=''):
 def plan(story, issue=None, source_changed=False):
     if issue is None:
         return {'action': 'create', 'id': story['id'], 'payload':
-                {'title': story['id'], 'body': task_body(story)}}
+                {'title': story['id'], 'body': task_body(story), 'labels': [PENDING_LABEL]}}
     old_body = issue.get('body') or ''
     previous = marker(old_body, 'source_sha256')
     changed = (previous is not None and previous != story['source_sha256']) or (source_changed and previous is None)
@@ -179,6 +180,17 @@ class GitHub:
                 return output
         raise ValueError('Too many Issue pages; refusing incomplete deduplication')
 
+    def ensure_task_label(self):
+        for page in range(1, 1001):
+            labels = self.request('GET', f'labels?per_page=100&page={page}')
+            if any(label['name'] == PENDING_LABEL for label in labels):
+                return
+            if len(labels) < 100:
+                self.request('POST', 'labels', {'name': PENDING_LABEL, 'color': 'FBCA04',
+                                               'description': '新发布的剧情翻译任务'})
+                return
+        raise ValueError('Too many label pages')
+
 
 def synchronize(client, selected, apply=False, changed_ids=()):
     if not selected:
@@ -193,6 +205,8 @@ def synchronize(client, selected, apply=False, changed_ids=()):
     plans = [plan(s, next(iter(by_title.get(s['id'], [])), None), s['id'] in changed_ids)
              for s in selected.values()]
     if apply:
+        if any(item['action'] == 'create' for item in plans):
+            client.ensure_task_label()
         for item in plans:
             if item['action'] == 'create':
                 result = client.request('POST', 'issues', item['payload'])

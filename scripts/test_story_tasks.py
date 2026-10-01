@@ -15,6 +15,8 @@ class Fake:
         self.writes = []
     def issues(self):
         return self.existing
+    def ensure_task_label(self):
+        pass
     def request(self, method, endpoint, payload=None):
         if method == 'GET':
             return next(i for i in self.existing if endpoint == f'issues/{i["number"]}')
@@ -41,6 +43,18 @@ class StoryTaskTests(unittest.TestCase):
         self.assertIn('<!-- proofread_path: story/reviewed/hbd/ai/adv_hbd_ai_2026.csv -->', body)
         self.assertIn('<!-- tr::待认领 -->', body)
         self.assertIn('<!-- pr::待认领 -->', body)
+    def test_new_issue_has_pending_translation_label(self):
+        self.assertEqual(tasks.plan(self.story)['payload']['labels'], ['待翻译'])
+    def test_existing_label_is_not_overwritten(self):
+        class Labels(tasks.GitHub):
+            def request(self, method, endpoint, payload=None):
+                self.calls.append((method, endpoint, payload))
+                return [{'name': '待翻译'}]
+        client = Labels('owner/repo')
+        client.calls = []
+        client.ensure_task_label()
+        self.assertEqual(len(client.calls), 1)
+        self.assertEqual(client.calls[0][0], 'GET')
     def test_closed_task_deduplicated_and_human_state_preserved(self):
         body = tasks.task_body(self.story).replace('tr::待认领', 'tr:alice:完成').replace('pr::待认领', 'pr:bob:完成') + '\n人工备注'
         client = Fake([{'number': 9, 'title': self.story['id'], 'body': body, 'state': 'closed', 'assignees': ['alice', 'bob']}])
