@@ -36,3 +36,13 @@ master-tag.pb
 *.otf
 *.ttf
 *.ttc
+.venv/
+.cache/
+private/
+*credentials*.json
+*token*.json
+*account*.json
+*session*.json
+signing.json
+runner.json
+!*.example.json

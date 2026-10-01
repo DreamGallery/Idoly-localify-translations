@@ -1174,6 +1174,11 @@
     "howToGet": "商店等",
     "name": "复刻服装奖牌(TRINITYAiLE)"
   },
+  "item-exchange-dress-medal-26-1002": {
+    "description": "可在复刻服装奖牌兑换所(月光风暴)兑换各种道具\n兑换所结束后将转换为金币",
+    "howToGet": "商店等",
+    "name": "复刻服装奖牌(月光风暴)"
+  },
   "item-exchange-fes-medal-23-0927": {
     "description": "可在庆典奖牌兑换所兑换各种道具\n兑换所结束后将转换为金币",
     "howToGet": "扭蛋、商店等",
@@ -2074,6 +2079,16 @@
     "howToGet": "「逢0之日是IDOLY PRIDE之日」限定礼物",
     "name": "免费10连扭蛋券"
   },
+  "item-gacha-free-ticket-1s-26-0930": {
+    "description": "可抽取1次10连扭蛋券扭蛋",
+    "howToGet": "「逢0之日是IDOLY PRIDE之日」限定礼物",
+    "name": "免费10连扭蛋券"
+  },
+  "item-gacha-free-ticket-1s-26-1010": {
+    "description": "可抽取1次10连扭蛋券扭蛋",
+    "howToGet": "「逢0之日是IDOLY PRIDE之日」限定礼物",
+    "name": "免费10连扭蛋券"
+  },
   "item-gacha-free-valentine-ticket-10s-25-0214": {
     "description": "可抽取1次SUNNY PEACE的礼物10连扭蛋券扭蛋",
     "howToGet": "来自SUNNY PEACE的礼物",
@@ -2559,6 +2574,11 @@
     "howToGet": "扭蛋",
     "name": "生日徽章奖牌"
   },
+  "item-gacha_medal-buttonbadge-birthday-26-0926": {
+    "description": "可在生日徽章奖牌兑换所兑换徽章\n使用期限结束后将转换为金币\n对象扭蛋：「沙季生日扭蛋2026」等",
+    "howToGet": "扭蛋",
+    "name": "生日徽章奖牌"
+  },
   "item-gacha_medal-buttonbadge-fs-set-bloom-24-0626": {
     "description": "可在限定徽章奖牌兑换所兑换徽章\n使用期限结束后将转换为金币\n対象扭蛋：「IDOLY PRIDE FES The MOON Ⅰ」等",
     "howToGet": "扭蛋、商店等",
@@ -2821,6 +2841,11 @@
   },
   "item-gacha_medal-buttonbadge-lm-set-bloom-26-0918": {
     "description": "可在限定徽章奖牌兑换所兑换徽章\n使用期限结束后将转换为金币\n对象扭蛋：「白翼小憩」等",
+    "howToGet": "扭蛋",
+    "name": "限定徽章奖牌"
+  },
+  "item-gacha_medal-buttonbadge-lm-set-bloom-26-1002": {
+    "description": "可在限定徽章奖牌兑换所兑换徽章\n使用期限结束后将转换为金币\n对象扭蛋：「月光下的\nweekendⅠ」等",
     "howToGet": "扭蛋",
     "name": "限定徽章奖牌"
   },
@@ -3093,6 +3118,10 @@
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
     "name": "铃生日扭蛋2026Pt"
   },
+  "item-gacha_point-birthday-26-0926": {
+    "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
+    "name": "沙季生日扭蛋2026Pt"
+  },
   "item-gacha_point-excursion-01-26-0731": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
     "name": "黑百合们的off time扭蛋Pt"
@@ -3108,6 +3137,10 @@
   "item-gacha_point-excursion-01-26-0918": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
     "name": "白翼小憩扭蛋Pt"
+  },
+  "item-gacha_point-excursion-01-26-1002": {
+    "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
+    "name": "月光下的weekend扭蛋Pt"
   },
   "item-gacha_point-fes-21-0928": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
@@ -3756,7 +3789,7 @@
   },
   "item-gacha_point-pick-set-bloom-23-1215": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
-    "name": "【复刻】如果恋爱~一之濑怜篇~扭蛋Pt"
+    "name": "【复刻】若恋~一之濑怜篇~扭蛋Pt"
   },
   "item-gacha_point-pick-set-bloom-24-0115": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
@@ -3788,7 +3821,7 @@
   },
   "item-gacha_point-pick-set-bloom-24-0604": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
-    "name": "【复刻】如果恋爱~伊吹渚篇~扭蛋Pt"
+    "name": "【复刻】若恋~伊吹渚篇~扭蛋Pt"
   },
   "item-gacha_point-pick-set-bloom-24-0607": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
@@ -3828,7 +3861,7 @@
   },
   "item-gacha_point-pick-set-bloom-24-1210": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
-    "name": "【复刻】如果恋~早坂芽衣篇~扭蛋Pt"
+    "name": "【复刻】若恋~早坂芽衣篇~扭蛋Pt"
   },
   "item-gacha_point-pick-set-bloom-25-0115": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
@@ -3852,7 +3885,7 @@
   },
   "item-gacha_point-pick-set-bloom-25-0515": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
-    "name": "【复刻】如果恋爱~铃村优篇~扭蛋Pt"
+    "name": "【复刻】若恋~铃村优篇~扭蛋Pt"
   },
   "item-gacha_point-pick-set-bloom-25-0518": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
@@ -3860,7 +3893,7 @@
   },
   "item-gacha_point-pick-set-bloom-25-0601": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
-    "name": "【复刻】如果恋爱~一之濑怜篇~扭蛋Pt"
+    "name": "【复刻】若恋~一之濑怜篇~扭蛋Pt"
   },
   "item-gacha_point-pick-set-bloom-25-0718": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
@@ -3872,7 +3905,7 @@
   },
   "item-gacha_point-pick-set-bloom-25-0902": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
-    "name": "【复刻】如果恋爱~伊吹渚篇~扭蛋Pt"
+    "name": "【复刻】若恋~伊吹渚篇~扭蛋Pt"
   },
   "item-gacha_point-pick-set-bloom-25-0917": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
@@ -3888,7 +3921,7 @@
   },
   "item-gacha_point-pick-set-bloom-25-1211": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
-    "name": "【复刻】如果恋~早坂芽衣篇~扭蛋Pt"
+    "name": "【复刻】若恋~早坂芽衣篇~扭蛋Pt"
   },
   "item-gacha_point-pick-set-bloom-26-0115": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
@@ -3908,7 +3941,7 @@
   },
   "item-gacha_point-pick-set-bloom-26-0407": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
-    "name": "【复刻】如果恋爱~铃村优篇~扭蛋Pt"
+    "name": "【复刻】若恋~铃村优篇~扭蛋Pt"
   },
   "item-gacha_point-pick-set-bloom-26-0417": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
@@ -4259,7 +4292,7 @@
   },
   "item-gacha_point-rev-select-01-23-1116": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
-    "name": "如果恋举办纪念可选★5伊吹渚扭蛋Pt"
+    "name": "若恋举办纪念可选★5伊吹渚扭蛋Pt"
   },
   "item-gacha_point-rev-select-01-23-1201": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
@@ -4315,7 +4348,7 @@
   },
   "item-gacha_point-rev-select-01-24-0519": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
-    "name": "如果恋举办纪念可选★5早坂芽衣扭蛋Pt"
+    "name": "若恋举办纪念可选★5早坂芽衣扭蛋Pt"
   },
   "item-gacha_point-rev-select-01-24-0530": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
@@ -4569,6 +4602,10 @@
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
     "name": "可选★5偶像扭蛋\nTRINITYAiLE ver.Pt"
   },
+  "item-gacha_point-rev-select-01-26-1004": {
+    "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
+    "name": "可选★5偶像扭蛋\n月光风暴 ver.Pt"
+  },
   "item-gacha_point-select-01-21-1206": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
     "name": "可选★5增益扭蛋Pt"
@@ -4683,7 +4720,7 @@
   },
   "item-gacha_point-select-01-24-1115": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
-    "name": "如果恋举办纪念 可选★5偶像扭蛋Pt"
+    "name": "若恋举办纪念 可选★5偶像扭蛋Pt"
   },
   "item-gacha_point-select-01-24-1212": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
@@ -4780,6 +4817,14 @@
   "item-gacha_point-select-01-26-0913": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
     "name": "【复刻】可选铃生日扭蛋Pt"
+  },
+  "item-gacha_point-select-01-26-0926": {
+    "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
+    "name": "【复刻】可选沙季生日扭蛋Pt"
+  },
+  "item-gacha_point-select-01-26-0928": {
+    "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
+    "name": "可选★5视觉扭蛋Pt"
   },
   "item-gacha_ticket": {
     "description": "有效期：获得后180天\n可抽取扭蛋",
@@ -4996,6 +5041,11 @@
     "howToGet": "礼物",
     "name": "白翼小憩 1人★5确定免费扭蛋券"
   },
+  "item-gift-gacha-ticket-10-r5-26-1002-01": {
+    "description": "可抽取1次月光下的weekendⅠ･Ⅱ 1人★5确定免费券扭蛋\n使用期限结束后将消失",
+    "howToGet": "礼物",
+    "name": "月光下的weekendⅠ･Ⅱ 1人★5确定免费扭蛋券"
+  },
   "item-ladder_pt_22-0513": {
     "description": "可通过消息任务获得奖励\n活动结束后将转换为金币",
     "howToGet": "消息任务、自主训练、宣传、粉丝活动等",
@@ -5211,64 +5261,64 @@
     "name": "联盟奖牌"
   },
   "item-love-23-0514-lesson-boost": {
-    "description": "可立即获得2小时份的奖励\n可在如果恋 一之濑怜篇中使用",
-    "howToGet": "如果恋",
-    "name": "如果恋跳过饮料"
+    "description": "可立即获得2小时份的奖励\n可在若恋 一之濑怜篇中使用",
+    "howToGet": "若恋",
+    "name": "若恋跳过饮料"
   },
   "item-love-23-0514-present": {
-    "description": "可以送给女主角的礼物\n可在如果恋 一之濑怜篇中使用",
-    "howToGet": "如果恋",
+    "description": "可以送给女主角的礼物\n可在若恋 一之濑怜篇中使用",
+    "howToGet": "若恋",
     "name": "礼物"
   },
   "item-love-23-0514-story": {
-    "description": "阅读如果恋剧情所需的Pt\n可在如果恋 一之濑怜篇中使用",
-    "howToGet": "如果恋",
-    "name": "如果恋剧情Pt"
+    "description": "阅读若恋剧情所需的Pt\n可在若恋 一之濑怜篇中使用",
+    "howToGet": "若恋",
+    "name": "若恋剧情Pt"
   },
   "item-love-23-1114-lesson-boost": {
-    "description": "可立即获得2小时份的报酬\n可在如果恋 伊吹渚篇中使用",
-    "howToGet": "如果恋",
-    "name": "如果恋跳过饮料"
+    "description": "可立即获得2小时份的报酬\n可在若恋 伊吹渚篇中使用",
+    "howToGet": "若恋",
+    "name": "若恋跳过饮料"
   },
   "item-love-23-1114-present": {
-    "description": "可以送给女主角的礼物\n可在如果恋 伊吹渚篇中使用",
-    "howToGet": "如果恋",
+    "description": "可以送给女主角的礼物\n可在若恋 伊吹渚篇中使用",
+    "howToGet": "若恋",
     "name": "礼物"
   },
   "item-love-23-1114-story": {
-    "description": "阅读如果恋剧情所需的Pt\n可在如果恋 伊吹渚篇中使用",
-    "howToGet": "如果恋",
-    "name": "如果恋剧情Pt"
+    "description": "阅读若恋剧情所需的Pt\n可在若恋 伊吹渚篇中使用",
+    "howToGet": "若恋",
+    "name": "若恋剧情Pt"
   },
   "item-love-24-0517-lesson-boost": {
-    "description": "可立即获得2小时份的报酬\n可在如果恋 早坂芽衣篇中使用",
-    "howToGet": "如果恋",
-    "name": "如果恋跳过饮料"
+    "description": "可立即获得2小时份的报酬\n可在若恋 早坂芽衣篇中使用",
+    "howToGet": "若恋",
+    "name": "若恋跳过饮料"
   },
   "item-love-24-0517-present": {
-    "description": "可以送给女主角的礼物\n可在如果恋 早坂芽衣篇中使用",
-    "howToGet": "如果恋",
+    "description": "可以送给女主角的礼物\n可在若恋 早坂芽衣篇中使用",
+    "howToGet": "若恋",
     "name": "礼物"
   },
   "item-love-24-0517-story": {
-    "description": "阅读如果恋剧情所需的Pt\n可在如果恋 早坂芽衣篇中使用",
-    "howToGet": "如果恋",
-    "name": "如果恋剧情Pt"
+    "description": "阅读若恋剧情所需的Pt\n可在若恋 早坂芽衣篇中使用",
+    "howToGet": "若恋",
+    "name": "若恋剧情Pt"
   },
   "item-love-24-1114-lesson-boost": {
-    "description": "可立即获得2小时份的报酬\n可在如果恋 铃村优篇中使用",
-    "howToGet": "如果恋",
-    "name": "如果恋跳过饮料"
+    "description": "可立即获得2小时份的报酬\n可在若恋 铃村优篇中使用",
+    "howToGet": "若恋",
+    "name": "若恋跳过饮料"
   },
   "item-love-24-1114-present": {
-    "description": "可以送给女主角的礼物\n可在如果恋 铃村优篇中使用",
-    "howToGet": "如果恋",
+    "description": "可以送给女主角的礼物\n可在若恋 铃村优篇中使用",
+    "howToGet": "若恋",
     "name": "礼物"
   },
   "item-love-24-1114-story": {
-    "description": "阅读如果恋剧情所需的Pt\n可在如果恋 铃村优篇中使用",
-    "howToGet": "如果恋",
-    "name": "如果恋剧情Pt"
+    "description": "阅读若恋剧情所需的Pt\n可在若恋 铃村优篇中使用",
+    "howToGet": "若恋",
+    "name": "若恋剧情Pt"
   },
   "item-love-25-0426-lesson-boost": {
     "description": "可立即获得2小时份的报酬\n可在魅魔×魔法中使用",
@@ -5281,19 +5331,19 @@
     "name": "魅魔×魔法剧情Pt"
   },
   "item-love-26-0313-lesson-boost": {
-    "description": "可立即获得2小时份的报酬\n可在如果恋 神崎莉央篇中使用",
-    "howToGet": "如果恋",
-    "name": "如果恋跳过饮料"
+    "description": "可立即获得2小时份的报酬\n可在若恋 神崎莉央篇中使用",
+    "howToGet": "若恋",
+    "name": "若恋跳过饮料"
   },
   "item-love-26-0313-present": {
-    "description": "可以送给女主角的礼物\n可在如果恋 神崎莉央篇中使用",
-    "howToGet": "如果恋",
+    "description": "可以送给女主角的礼物\n可在若恋 神崎莉央篇中使用",
+    "howToGet": "若恋",
     "name": "礼物"
   },
   "item-love-26-0313-story": {
-    "description": "阅读如果恋剧情所需的Pt\n可在如果恋 神崎莉央篇中使用",
-    "howToGet": "如果恋",
-    "name": "如果恋剧情Pt"
+    "description": "阅读若恋剧情所需的Pt\n可在若恋 神崎莉央篇中使用",
+    "howToGet": "若恋",
+    "name": "若恋剧情Pt"
   },
   "item-marathon-raid_medal-22-1028": {
     "description": "可以抽取BOX扭蛋\n活动结束后将转换为金币",
@@ -6129,6 +6179,11 @@
     "howToGet": "写真试镜、写真相册、商店等",
     "name": "活动冲洗胶卷"
   },
+  "item-photo_contest_create-26-1002": {
+    "description": "可冲洗照片试镜的照片和照片相册的照片\n活动结束后将转换为金币",
+    "howToGet": "写真试镜、写真相册、商店等",
+    "name": "活动冲洗胶卷"
+  },
   "item-photo_enhance": {
     "description": "可提升照片品质",
     "howToGet": "活动等",
@@ -6893,6 +6948,16 @@
     "description": "可抽取1次★5偶像1人确定10连券扭蛋\n使用期限结束后将消失",
     "howToGet": "商店",
     "name": "暖阳下的假日Ⅱ1人★5确定10连扭蛋券"
+  },
+  "item-shop-gacha-ticket-10-r5-1002-01": {
+    "description": "可抽取1次★5偶像1人确定10连券扭蛋\n使用期限结束后将消失",
+    "howToGet": "商店",
+    "name": "月光下的weekendⅠ1人★5确定10连扭蛋券"
+  },
+  "item-shop-gacha-ticket-10-r5-1002-02": {
+    "description": "可抽取1次★5偶像1人确定10连券扭蛋\n使用期限结束后将消失",
+    "howToGet": "商店",
+    "name": "月光下的weekendⅡ1人★5确定10连扭蛋券"
   },
   "item-shop-gacha-ticket-10-r5-24-0528": {
     "description": "可抽取1次★5偶像1人确定10连券扭蛋\n使用期限结束后将消失",

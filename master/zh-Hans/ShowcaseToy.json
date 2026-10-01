@@ -259,6 +259,10 @@
     "description": "白石沙季的大徽章。",
     "name": "大徽章 白石沙季"
   },
+  "toy-goods-bigbuttonbadge_char-ski-birthday-2026": {
+    "description": "白石沙季的大徽章。",
+    "name": "大徽章 白石沙季"
+  },
   "toy-goods-bigbuttonbadge_char-skr-birthday-2025": {
     "description": "川咲樱的大徽章。",
     "name": "大徽章 川咲樱"
@@ -535,6 +539,10 @@
     "description": "长濑琴乃的徽章。",
     "name": "徽章 长濑琴乃「wonderful day for 琴乃」"
   },
+  "toy-goods-buttonbadge_card-ktn-05-casl-04": {
+    "description": "长濑琴乃的徽章。",
+    "name": "徽章 长濑琴乃「心安神宁的星空假日」"
+  },
   "toy-goods-buttonbadge_card-ktn-05-fest-02": {
     "description": "长濑琴乃的徽章。",
     "name": "徽章 长濑琴乃「我们的未来」"
@@ -562,6 +570,10 @@
   "toy-goods-buttonbadge_card-mei-05-birt-03": {
     "description": "早坂芽衣的徽章。",
     "name": "徽章 早坂芽衣「dear precious 芽衣」"
+  },
+  "toy-goods-buttonbadge_card-mei-05-casl-04": {
+    "description": "早坂芽衣的徽章。",
+    "name": "徽章 早坂芽衣「喵！快乐假日」"
   },
   "toy-goods-buttonbadge_card-mei-05-fest-02": {
     "description": "早坂芽衣的徽章。",
@@ -646,6 +658,10 @@
   "toy-goods-buttonbadge_card-ngs-05-birt-03": {
     "description": "伊吹渚的徽章。",
     "name": "徽章 伊吹渚「dear precious 渚」"
+  },
+  "toy-goods-buttonbadge_card-ngs-05-casl-04": {
+    "description": "伊吹渚的徽章。",
+    "name": "徽章 伊吹渚「桃色穿搭绽放的假日」"
   },
   "toy-goods-buttonbadge_card-ngs-05-fest-02": {
     "description": "伊吹渚的徽章。",
@@ -787,6 +803,14 @@
     "description": "白石沙季的徽章。",
     "name": "徽章 白石沙季「wonderful day for 沙季」"
   },
+  "toy-goods-buttonbadge_card-ski-05-birt-03": {
+    "description": "白石沙季的徽章。",
+    "name": "徽章 白石沙季「dear precious 沙季」"
+  },
+  "toy-goods-buttonbadge_card-ski-05-casl-04": {
+    "description": "白石沙季的徽章。",
+    "name": "徽章 白石沙季「浪漫萦绕的明媚假日」"
+  },
   "toy-goods-buttonbadge_card-ski-05-fest-02": {
     "description": "白石沙季的徽章。",
     "name": "徽章 白石沙季「照亮道路的睿智之光」"
@@ -882,6 +906,10 @@
   "toy-goods-buttonbadge_card-suz-05-birt-03": {
     "description": "成宫铃的徽章。",
     "name": "徽章 成宫铃「dear precious 铃」"
+  },
+  "toy-goods-buttonbadge_card-suz-05-casl-04": {
+    "description": "成宫铃的徽章。",
+    "name": "徽章 成宫铃「Elegant淑女的假日」"
   },
   "toy-goods-buttonbadge_card-suz-05-fest-02": {
     "description": "成宫铃的徽章。",
@@ -1611,6 +1639,10 @@
     "description": "长濑琴乃的卡牌立牌。",
     "name": "卡牌立牌 长濑琴乃「wonderful day for 琴乃」"
   },
+  "toy-goods-chracrylicbord_card-ktn-05-casl-04": {
+    "description": "长濑琴乃的卡牌立牌。",
+    "name": "卡立 长濑琴乃「心安神宁的星空假日」"
+  },
   "toy-goods-chracrylicbord_card-ktn-05-fest-02": {
     "description": "长濑琴乃的卡牌立牌。",
     "name": "卡牌立牌 长濑琴乃「我们的未来」"
@@ -1650,6 +1682,10 @@
   "toy-goods-chracrylicbord_card-mei-05-birt-03": {
     "description": "早坂芽衣的卡牌立牌。",
     "name": "卡牌立牌 早坂芽衣「dear precious 芽衣」"
+  },
+  "toy-goods-chracrylicbord_card-mei-05-casl-04": {
+    "description": "早坂芽衣的卡牌立牌。",
+    "name": "卡立 早坂芽衣「喵！快乐假日」"
   },
   "toy-goods-chracrylicbord_card-mei-05-fest-02": {
     "description": "早坂芽衣的卡牌立牌。",
@@ -1766,6 +1802,10 @@
   "toy-goods-chracrylicbord_card-ngs-05-birt-03": {
     "description": "这是伊吹渚的卡牌立牌。",
     "name": "卡牌立牌 伊吹渚「dear precious 渚」"
+  },
+  "toy-goods-chracrylicbord_card-ngs-05-casl-04": {
+    "description": "这是伊吹渚的卡牌立牌。",
+    "name": "卡立 伊吹渚「桃色穿搭绽放的假日」"
   },
   "toy-goods-chracrylicbord_card-ngs-05-fest-02": {
     "description": "这是伊吹渚的卡牌立牌。",
@@ -1939,6 +1979,14 @@
     "description": "白石沙季的卡牌立牌。",
     "name": "卡牌立牌 白石沙季「wonderful day for 沙季」"
   },
+  "toy-goods-chracrylicbord_card-ski-05-birt-03": {
+    "description": "白石沙季的卡牌立牌。",
+    "name": "卡立 白石沙季「dear precious 沙季」"
+  },
+  "toy-goods-chracrylicbord_card-ski-05-casl-04": {
+    "description": "白石沙季的卡牌立牌。",
+    "name": "卡立 白石沙季「浪漫萦绕的明媚假日」"
+  },
   "toy-goods-chracrylicbord_card-ski-05-fest-02": {
     "description": "白石沙季的卡牌立牌。",
     "name": "卡牌立牌 白石沙季「照亮道路的睿智之光」"
@@ -2058,6 +2106,10 @@
   "toy-goods-chracrylicbord_card-suz-05-birt-03": {
     "description": "成宫铃的卡牌立架。",
     "name": "卡牌立架 成宫铃「dear precious 铃」"
+  },
+  "toy-goods-chracrylicbord_card-suz-05-casl-04": {
+    "description": "成宫铃的卡牌立架。",
+    "name": "卡牌立牌 成宫铃「Elegant Lady的假日」"
   },
   "toy-goods-chracrylicbord_card-suz-05-fest-02": {
     "description": "成宫铃的卡牌立架。",
@@ -2615,6 +2667,10 @@
     "description": "长濑琴乃的迷你角色立牌。",
     "name": "迷你角色立牌 长濑琴乃「wonderful day for 琴乃」"
   },
+  "toy-goods-chracrylicsd_card-ktn-05-casl-04": {
+    "description": "长濑琴乃的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑琴乃「心安神宁的星空假日」"
+  },
   "toy-goods-chracrylicsd_card-ktn-05-fest-02": {
     "description": "长濑琴乃的迷你角色立牌。",
     "name": "迷你角色立牌 长濑琴乃「我们的未来」"
@@ -2650,6 +2706,10 @@
   "toy-goods-chracrylicsd_card-mei-05-birt-03": {
     "description": "早坂芽衣的迷你角色立牌。",
     "name": "迷你角色立牌 早坂芽衣「dear precious 芽衣」"
+  },
+  "toy-goods-chracrylicsd_card-mei-05-casl-04": {
+    "description": "早坂芽衣的迷你角色立牌。",
+    "name": "迷你角色立牌 早坂芽衣「喵！快乐假日」"
   },
   "toy-goods-chracrylicsd_card-mei-05-fest-02": {
     "description": "早坂芽衣的迷你角色立牌。",
@@ -2750,6 +2810,10 @@
   "toy-goods-chracrylicsd_card-ngs-05-birt-03": {
     "description": "伊吹渚的迷你角色立牌。",
     "name": "迷你角色立牌 伊吹渚「dear precious 渚」"
+  },
+  "toy-goods-chracrylicsd_card-ngs-05-casl-04": {
+    "description": "伊吹渚的迷你角色立牌。",
+    "name": "迷你角色立牌 伊吹渚「桃色穿搭活力假日」"
   },
   "toy-goods-chracrylicsd_card-ngs-05-fest-02": {
     "description": "伊吹渚的迷你角色立牌。",
@@ -2899,6 +2963,14 @@
     "description": "白石沙季的迷你角色立牌。",
     "name": "迷你角色立牌 白石沙季「wonderful day for 沙季」"
   },
+  "toy-goods-chracrylicsd_card-ski-05-birt-03": {
+    "description": "白石沙季的迷你角色立牌。",
+    "name": "迷你角色立牌 白石沙季「dear precious 沙季」"
+  },
+  "toy-goods-chracrylicsd_card-ski-05-casl-04": {
+    "description": "白石沙季的迷你角色立牌。",
+    "name": "迷你角色立牌 白石沙季「浪漫萦绕的明媚假日」"
+  },
   "toy-goods-chracrylicsd_card-ski-05-fest-02": {
     "description": "白石沙季的迷你角色立牌。",
     "name": "迷你角色立牌 白石沙季「照亮道路的睿智之光」"
@@ -3010,6 +3082,10 @@
   "toy-goods-chracrylicsd_card-suz-05-birt-03": {
     "description": "成宫铃的迷你角色立牌。",
     "name": "迷你角色立牌 成宫铃「dear precious 铃」"
+  },
+  "toy-goods-chracrylicsd_card-suz-05-casl-04": {
+    "description": "成宫铃的迷你角色立牌。",
+    "name": "迷你角色立牌 成宫铃「Elegant Lady的假日」"
   },
   "toy-goods-chracrylicsd_card-suz-05-fest-02": {
     "description": "成宫铃的迷你角色立牌。",
@@ -3507,6 +3583,10 @@
     "description": "白石沙季的盘子。",
     "name": "生日盘子 白石沙季"
   },
+  "toy-goods-nameplate_char-ski-birthday-2026": {
+    "description": "白石沙季的盘子。",
+    "name": "生日盘子 白石沙季"
+  },
   "toy-goods-nameplate_char-skr-01": {
     "description": "川咲樱的盘子。",
     "name": "盘子 川咲樱"
@@ -3700,6 +3780,10 @@
     "name": "挂毯 天动瑠依"
   },
   "toy-goods-tapestry_char-ski-birthday-2025": {
+    "description": "白石沙季的挂毯。",
+    "name": "挂毯 白石沙季"
+  },
+  "toy-goods-tapestry_char-ski-birthday-2026": {
     "description": "白石沙季的挂毯。",
     "name": "挂毯 白石沙季"
   },

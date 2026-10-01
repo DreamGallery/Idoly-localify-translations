@@ -120,24 +120,24 @@
     "name": "情人节2023"
   },
   "deco-login-campaign-23-0514-01": {
-    "description": "假想恋爱 一之濑怜篇的名片装饰",
-    "name": "假想恋爱装饰"
+    "description": "若恋 一之濑怜篇的名片装饰",
+    "name": "若恋装饰"
   },
   "deco-login-campaign-23-0707-01": {
     "description": "纪念生日更新的名片装饰。",
     "name": "生日"
   },
   "deco-login-campaign-23-1114-01": {
-    "description": "假想恋爱 伊吹渚篇的名片装饰",
-    "name": "假想恋爱渚装饰"
+    "description": "若恋 伊吹渚篇的名片装饰",
+    "name": "若恋渚装饰"
   },
   "deco-login-campaign-24-0517-01": {
-    "description": "假想恋爱 早坂芽衣篇的名片装饰",
-    "name": "假想恋爱 芽衣装饰"
+    "description": "若恋 早坂芽衣篇的名片装饰",
+    "name": "若恋 芽衣装饰"
   },
   "deco-login-campaign-24-1114-01": {
-    "description": "假想恋爱 铃村优篇的名片装饰",
-    "name": "如果恋爱 优装饰"
+    "description": "若恋 铃村优篇的名片装饰",
+    "name": "若恋 优装饰"
   },
   "deco-login-campaign-25-0213-01": {
     "description": "羁绊系列 ~星巡梦之舞台~的名片装饰",
@@ -164,8 +164,8 @@
     "name": "羁绊系列 ~两人是最强TWINkle！~"
   },
   "deco-login-campaign-26-0319-01": {
-    "description": "如果恋 神崎莉央篇的名片装饰",
-    "name": "如果恋 莉央装饰"
+    "description": "若恋 神崎莉央篇的名片装饰",
+    "name": "若恋 莉央装饰"
   },
   "deco-login-campaign-26-0613-01": {
     "description": "羁绊系列 ~一同窥见的未来景色~的名片装饰",
@@ -297,8 +297,8 @@
     "description": "歌曲《Victoire》的特别名片装饰"
   },
   "deco-shop-pack-23-1114": {
-    "description": "如果恋爱 伊吹渚篇的特别名片装饰",
-    "name": "如果恋爱 伊吹渚篇举办纪念"
+    "description": "若恋 伊吹渚篇的特别名片装饰",
+    "name": "若恋 伊吹渚篇举办纪念"
   },
   "deco-shop-pack-23-1128": {
     "description": "LoveLive! Sunshine!!的特别名片装饰",
@@ -380,8 +380,8 @@
     "name": "堇生日"
   },
   "deco-shop-pack-24-0517": {
-    "description": "如果恋 早坂芽衣篇的特别名片装饰",
-    "name": "如果恋 早坂芽衣篇举办纪念"
+    "description": "若恋 早坂芽衣篇的特别名片装饰",
+    "name": "若恋 早坂芽衣篇举办纪念"
   },
   "deco-shop-pack-24-0528": {
     "description": "婚礼主题的特别名片装饰",
@@ -463,8 +463,8 @@
     "name": "瑠依生日"
   },
   "deco-shop-pack-24-1114": {
-    "description": "如果恋 铃村优篇的特别名片装饰",
-    "name": "如果恋 铃村优篇举办纪念"
+    "description": "若恋 铃村优篇的特别名片装饰",
+    "name": "若恋 铃村优篇举办纪念"
   },
   "deco-shop-pack-24-1122": {
     "description": "纪念千纱生日的名片装饰",
@@ -750,6 +750,14 @@
   "deco-shop-pack-26-0918": {
     "description": "外出系列举办纪念特别名片装饰",
     "name": "外出系列特别(TRINITYAiLE)"
+  },
+  "deco-shop-pack-26-0926": {
+    "description": "沙季生日纪念名片装饰",
+    "name": "沙季生日"
+  },
+  "deco-shop-pack-26-1002": {
+    "description": "外出系列举办纪念特别名片装饰",
+    "name": "外出系列特别(月光风暴)"
   },
   "deco-shop-pack2-24-0103": {
     "description": "纪念遥子生日的名片装饰",
@@ -1342,13 +1350,17 @@
     "description": "外出系列举办纪念名片装饰",
     "name": "外出系列(TRINITYAiLE)"
   },
+  "deco_full_gift-26-1002-01": {
+    "description": "外出系列举办纪念名片装饰",
+    "name": "外出系列（月光风暴）"
+  },
   "deco_full_shop-26-0310-01": {
     "description": "IDOLY PRIDE感谢祭特别名片装饰",
     "name": "偶像荣耀感恩祭特别2026"
   },
   "deco_full_shop-26-0318-01": {
-    "description": "如果恋爱 神崎莉央篇的特别名片装饰",
-    "name": "如果恋爱 神崎莉央篇举办纪念"
+    "description": "若恋 神崎莉央篇的特别名片装饰",
+    "name": "若恋 神崎莉央篇举办纪念"
   },
   "deco_full_shop-26-0407-01": {
     "description": "春季2026的特别名片装饰",

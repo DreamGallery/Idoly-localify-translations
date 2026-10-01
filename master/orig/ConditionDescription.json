@@ -1364,6 +1364,9 @@
   "cd-birthday_emblem_ski-25-0926": {
     "description": "沙季の誕生日を迎える"
   },
+  "cd-birthday_emblem_ski-26-0926": {
+    "description": "沙季の誕生日を迎える"
+  },
   "cd-birthday_emblem_skr-23-0403": {
     "description": "さくらの誕生日を迎える"
   },
@@ -1659,6 +1662,9 @@
     "description": "沙季の誕生日を迎える"
   },
   "cd-birthday_ski-25-0926": {
+    "description": "沙季の誕生日を迎える"
+  },
+  "cd-birthday_ski-26-0926": {
     "description": "沙季の誕生日を迎える"
   },
   "cd-birthday_skr-0403": {
@@ -2358,6 +2364,48 @@
     "description": "所持済"
   },
   "cd-cd-exchange-mini-tour_medal-22-0408-item-216-not": {
+    "description": "所持済"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-217-not": {
+    "description": "所持済"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-218-not": {
+    "description": "所持済"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-219-not": {
+    "description": "所持済"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-220-not": {
+    "description": "所持済"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-221-not": {
+    "description": "所持済"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-222-not": {
+    "description": "所持済"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-223-not": {
+    "description": "所持済"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-224-not": {
+    "description": "所持済"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-225-not": {
+    "description": "所持済"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-226-not": {
+    "description": "所持済"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-227-not": {
+    "description": "所持済"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-228-not": {
+    "description": "所持済"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-229-not": {
+    "description": "所持済"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-230-not": {
     "description": "所持済"
   },
   "cd-cd-story-read-st-eve-2209-contest-001-005": {
@@ -4856,6 +4904,9 @@
   "cd-date-event-love-25-0515-dokan": {
     "description": "もし恋ストーリードカン(1860特例)"
   },
+  "cd-date-event-love-25-0515-s-banner": {
+    "description": "もし恋復刻_Sバナー"
+  },
   "cd-date-event-love-25-0601-banner": {
     "description": "もし恋イベントバナー_復刻"
   },
@@ -4892,6 +4943,9 @@
   "cd-date-event-love-26-0407-dokan": {
     "description": "もし恋ストーリードカン"
   },
+  "cd-date-event-love-26-0407-s-banner": {
+    "description": "もし恋復刻_Sバナー"
+  },
   "cd-date-event-love-26-0901-banner": {
     "description": "もし恋イベントバナー_復刻"
   },
@@ -4900,6 +4954,9 @@
   },
   "cd-date-event-love-26-0921-banner": {
     "description": "もし恋イベントバナー_復刻"
+  },
+  "cd-date-event-love-26-1010-s-banner": {
+    "description": "もし恋復刻_Sバナー"
   },
   "cd-date-event-mission-love-23-0514-limited": {
     "description": "もし恋限定ミッション"
@@ -5864,6 +5921,12 @@
   "cd-dokan-broadcast-26-0916-01-pre": {
     "description": "アイプラ生放送直前"
   },
+  "cd-dokan-broadcast-26-1001-01": {
+    "description": "アイプラ生放送中"
+  },
+  "cd-dokan-broadcast-26-1001-01-pre": {
+    "description": "アイプラ生放送直前"
+  },
   "cd-dokan-campaign-22-0103": {
     "description": "2022お正月"
   },
@@ -6198,6 +6261,9 @@
     "description": "イメトレ最大生成GRADE A"
   },
   "cd-dream-26-09-season-max-grade-a": {
+    "description": "イメトレ最大生成GRADE A"
+  },
+  "cd-dream-26-10-season-max-grade-a": {
     "description": "イメトレ最大生成GRADE A"
   },
   "cd-dream-max-grade-a": {
@@ -23576,6 +23642,9 @@
   "cd-event_story-mission-26-0918": {
     "description": "フォトアルバムミッション表示"
   },
+  "cd-event_story-mission-26-1002": {
+    "description": "フォトアルバムミッション表示"
+  },
   "cd-ex-st-part-limited-01-open-230226": {
     "description": "期間限定ストーリー解放"
   },
@@ -23868,6 +23937,9 @@
     "description": "沙季の誕生日を迎える"
   },
   "cd-ex-story-part-birthday-ski-25-0926-open": {
+    "description": "沙季の誕生日を迎える"
+  },
+  "cd-ex-story-part-birthday-ski-26-0926-open": {
     "description": "沙季の誕生日を迎える"
   },
   "cd-ex-story-part-birthday-skr-23-0403-open": {
@@ -24641,6 +24713,9 @@
   "cd-exchange-dress-medal-26-0918": {
     "description": "復刻衣装メダル交換所"
   },
+  "cd-exchange-dress-medal-26-1002": {
+    "description": "復刻衣装メダル交換所"
+  },
   "cd-exchange-ever-beginner-dream-ticket-22-0328-01": {
     "description": "ドリームチケット交換所開催期間"
   },
@@ -25313,6 +25388,48 @@
   "cd-exchange-mini-tour_medal-22-0408-item-216": {
     "description": "該当のポーズを所持しているかの判定"
   },
+  "cd-exchange-mini-tour_medal-22-0408-item-217": {
+    "description": "該当のポーズを所持しているかの判定"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-218": {
+    "description": "該当のポーズを所持しているかの判定"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-219": {
+    "description": "該当のポーズを所持しているかの判定"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-220": {
+    "description": "該当のポーズを所持しているかの判定"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-221": {
+    "description": "該当のポーズを所持しているかの判定"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-222": {
+    "description": "該当のポーズを所持しているかの判定"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-223": {
+    "description": "該当のポーズを所持しているかの判定"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-224": {
+    "description": "該当のポーズを所持しているかの判定"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-225": {
+    "description": "該当のポーズを所持しているかの判定"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-226": {
+    "description": "該当のポーズを所持しているかの判定"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-227": {
+    "description": "該当のポーズを所持しているかの判定"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-228": {
+    "description": "該当のポーズを所持しているかの判定"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-229": {
+    "description": "該当のポーズを所持しているかの判定"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-230": {
+    "description": "該当のポーズを所持しているかの判定"
+  },
   "cd-exchange-mini-tour_medal-26-0731": {
     "description": "アイドル活動ミッションの終了後に表示"
   },
@@ -25323,6 +25440,9 @@
     "description": "アイドル活動ミッションの終了後に表示"
   },
   "cd-exchange-mini-tour_medal-26-0918": {
+    "description": "アイドル活動ミッションの終了後に表示"
+  },
+  "cd-exchange-mini-tour_medal-26-1002": {
     "description": "アイドル活動ミッションの終了後に表示"
   },
   "cd-exchange-newmiku-medal-25-0826": {
@@ -36308,6 +36428,9 @@
   "cd-ms-read-message-card-kor-05-xmas-00": {
     "description": "メッセージ読了で解放"
   },
+  "cd-ms-read-message-card-ktn-05-casl-04": {
+    "description": "メッセージ読了で解放"
+  },
   "cd-ms-read-message-card-ktn-05-circ-00": {
     "description": "メッセージ読了で解放"
   },
@@ -36351,6 +36474,9 @@
     "description": "メッセージ読了で解放"
   },
   "cd-ms-read-message-card-mei-05-casl-02": {
+    "description": "メッセージ読了で解放"
+  },
+  "cd-ms-read-message-card-mei-05-casl-04": {
     "description": "メッセージ読了で解放"
   },
   "cd-ms-read-message-card-mei-05-fest-00-01": {
@@ -36441,6 +36567,9 @@
     "description": "メッセージ読了で解放"
   },
   "cd-ms-read-message-card-ngs-05-casl-02": {
+    "description": "メッセージ読了で解放"
+  },
+  "cd-ms-read-message-card-ngs-05-casl-04": {
     "description": "メッセージ読了で解放"
   },
   "cd-ms-read-message-card-ngs-05-fest-02": {
@@ -36623,6 +36752,9 @@
   "cd-ms-read-message-card-rui-05-yukt-00": {
     "description": "メッセージ読了で解放"
   },
+  "cd-ms-read-message-card-ski-05-casl-04": {
+    "description": "メッセージ読了で解放"
+  },
   "cd-ms-read-message-card-ski-05-chsk-00": {
     "description": "メッセージ読了で解放"
   },
@@ -36765,6 +36897,9 @@
     "description": "メッセージ読了で解放"
   },
   "cd-ms-read-message-card-suz-05-anml-00": {
+    "description": "メッセージ読了で解放"
+  },
+  "cd-ms-read-message-card-suz-05-casl-04": {
     "description": "メッセージ読了で解放"
   },
   "cd-ms-read-message-card-suz-05-fest-02": {
@@ -38249,26 +38384,74 @@
   "cd-possession-cos-kor-anni-00-not-26-0817": {
     "description": "エターニティーフレンド(fran)を持っていない"
   },
+  "cd-possession-cos-ktn-anml-00-26-1002": {
+    "description": "スイートレディキャット(長瀬琴乃)を持っている"
+  },
+  "cd-possession-cos-ktn-anml-00-not-26-1002": {
+    "description": "スイートレディキャット(長瀬琴乃)を持っていない"
+  },
+  "cd-possession-cos-ktn-anni-00-26-1002": {
+    "description": "エターニティーフレンド(長瀬琴乃)を持っている"
+  },
+  "cd-possession-cos-ktn-anni-00-not-26-1002": {
+    "description": "エターニティーフレンド(長瀬琴乃)を持っていない"
+  },
   "cd-possession-cos-ktn-idol-04": {
     "description": "ルナピエール（琴乃）所持"
   },
+  "cd-possession-cos-ktn-idol-04-26-1002": {
+    "description": "ルナピエール(長瀬琴乃)を持っている"
+  },
+  "cd-possession-cos-ktn-idol-04-not-26-1002": {
+    "description": "ルナピエール(長瀬琴乃)を持っていない"
+  },
   "cd-possession-cos-ktn-mizg-02": {
+    "description": "ソレイユホットサマー(長瀬琴乃)を持っている"
+  },
+  "cd-possession-cos-ktn-mizg-02-26-1002": {
     "description": "ソレイユホットサマー(長瀬琴乃)を持っている"
   },
   "cd-possession-cos-ktn-mizg-02-not": {
     "description": "ソレイユホットサマー(長瀬琴乃)を持っていない"
   },
+  "cd-possession-cos-ktn-mizg-02-not-26-1002": {
+    "description": "ソレイユホットサマー(長瀬琴乃)を持っていない"
+  },
+  "cd-possession-cos-ktn-schl-01-26-1002": {
+    "description": "星見中学校(長瀬琴乃)を持っている"
+  },
+  "cd-possession-cos-ktn-schl-01-not-26-1002": {
+    "description": "星見中学校(長瀬琴乃)を持っていない"
+  },
   "cd-possession-cos-ktn-vlnt-00": {
     "description": "ときめきチョコレートを持っている"
+  },
+  "cd-possession-cos-ktn-vlnt-00-26-1002": {
+    "description": "ときめきチョコレート(長瀬琴乃)を持っている"
   },
   "cd-possession-cos-ktn-vlnt-00-not": {
     "description": "ときめきチョコレートを持っていない"
   },
+  "cd-possession-cos-ktn-vlnt-00-not-26-1002": {
+    "description": "ときめきチョコレート(長瀬琴乃)を持っていない"
+  },
   "cd-possession-cos-ktn-xmas-00": {
+    "description": "クリスマスには君と(長瀬琴乃)を持っている"
+  },
+  "cd-possession-cos-ktn-xmas-00-26-1002": {
     "description": "クリスマスには君と(長瀬琴乃)を持っている"
   },
   "cd-possession-cos-ktn-xmas-00-not": {
     "description": "クリスマスには君と(長瀬琴乃)を持っていない"
+  },
+  "cd-possession-cos-ktn-xmas-00-not-26-1002": {
+    "description": "クリスマスには君と(長瀬琴乃)を持っていない"
+  },
+  "cd-possession-cos-mei-anml-00-26-1002": {
+    "description": "スイートレディキャット(早坂芽衣)を持っている"
+  },
+  "cd-possession-cos-mei-anml-00-not-26-1002": {
+    "description": "スイートレディキャット(早坂芽衣)を持っていない"
   },
   "cd-possession-cos-mei-anni-00": {
     "description": "エターニティーフレンド(早坂芽衣)を持っている"
@@ -38279,10 +38462,22 @@
   "cd-possession-cos-mei-idol-04": {
     "description": "ルナピエール（芽衣）所持"
   },
+  "cd-possession-cos-mei-idol-04-26-1002": {
+    "description": "ルナピエール(早坂芽衣)を持っている"
+  },
+  "cd-possession-cos-mei-idol-04-not-26-1002": {
+    "description": "ルナピエール(早坂芽衣)を持っていない"
+  },
   "cd-possession-cos-mei-newy-00": {
     "description": "絢爛振袖・緋(早坂芽衣)を持っている"
   },
+  "cd-possession-cos-mei-newy-00-26-1002": {
+    "description": "絢爛振袖・緋(早坂芽衣)を持っている"
+  },
   "cd-possession-cos-mei-newy-00-not": {
+    "description": "絢爛振袖・緋(早坂芽衣)を持っていない"
+  },
+  "cd-possession-cos-mei-newy-00-not-26-1002": {
     "description": "絢爛振袖・緋(早坂芽衣)を持っていない"
   },
   "cd-possession-cos-mhk-anni-00": {
@@ -38321,6 +38516,12 @@
   "cd-possession-cos-mna-mnab-00-not": {
     "description": "シングウィズユー(長瀬麻奈)を持っていない"
   },
+  "cd-possession-cos-ngs-anml-00-26-1002": {
+    "description": "スイートレディラビット(伊吹渚)を持っている"
+  },
+  "cd-possession-cos-ngs-anml-00-not-26-1002": {
+    "description": "スイートレディラビット(伊吹渚)を持っていない"
+  },
   "cd-possession-cos-ngs-anni-00": {
     "description": "エターニティーフレンド(伊吹渚)を持っている"
   },
@@ -38330,17 +38531,41 @@
   "cd-possession-cos-ngs-idol-04": {
     "description": "ルナピエール（渚）所持"
   },
+  "cd-possession-cos-ngs-idol-04-26-1002": {
+    "description": "ルナピエール(伊吹渚)を持っている"
+  },
+  "cd-possession-cos-ngs-idol-04-not-26-1002": {
+    "description": "ルナピエール(伊吹渚)を持っていない"
+  },
   "cd-possession-cos-ngs-newy-00": {
+    "description": "絢爛振袖・若葉(伊吹渚)を持っている"
+  },
+  "cd-possession-cos-ngs-newy-00-26-1002": {
     "description": "絢爛振袖・若葉(伊吹渚)を持っている"
   },
   "cd-possession-cos-ngs-newy-00-not": {
     "description": "絢爛振袖・若葉(伊吹渚)を持っていない"
   },
+  "cd-possession-cos-ngs-newy-00-not-26-1002": {
+    "description": "絢爛振袖・若葉(伊吹渚)を持っていない"
+  },
   "cd-possession-cos-ngs-pair-00": {
+    "description": "にゃんだふるマジック(伊吹渚)を持っている"
+  },
+  "cd-possession-cos-ngs-pair-00-26-1002": {
     "description": "にゃんだふるマジック(伊吹渚)を持っている"
   },
   "cd-possession-cos-ngs-pair-00-not": {
     "description": "にゃんだふるマジック(伊吹渚)を持っていない"
+  },
+  "cd-possession-cos-ngs-pair-00-not-26-1002": {
+    "description": "にゃんだふるマジック(伊吹渚)を持っていない"
+  },
+  "cd-possession-cos-ngs-schl-01-26-1002": {
+    "description": "星見中学校(伊吹渚)を持っている"
+  },
+  "cd-possession-cos-ngs-schl-01-not-26-1002": {
+    "description": "星見中学校(伊吹渚)を持っていない"
   },
   "cd-possession-cos-rei-anml-00": {
     "description": "スイートレディキャット(一ノ瀬怜)を持っている"
@@ -38567,6 +38792,12 @@
   "cd-possession-cos-rui-yuru-00-not-26-0918": {
     "description": "クロッカスの扉(天動瑠依)を持っていない"
   },
+  "cd-possession-cos-ski-anml-00-26-1002": {
+    "description": "スイートレディラビット(白石沙季)を持っている"
+  },
+  "cd-possession-cos-ski-anml-00-not-26-1002": {
+    "description": "スイートレディラビット(白石沙季)を持っていない"
+  },
   "cd-possession-cos-ski-anni-00": {
     "description": "エターニティーフレンド(白石沙季)を持っている"
   },
@@ -38575,6 +38806,12 @@
   },
   "cd-possession-cos-ski-idol-04": {
     "description": "ルナピエール（沙季）所持"
+  },
+  "cd-possession-cos-ski-idol-04-26-1002": {
+    "description": "ルナピエール(白石沙季)を持っている"
+  },
+  "cd-possession-cos-ski-idol-04-not-26-1002": {
+    "description": "ルナピエール(白石沙季)を持っていない"
   },
   "cd-possession-cos-ski-mizg-01": {
     "description": "ムーンライトラブサマー(白石沙季)を持っている"
@@ -38585,8 +38822,14 @@
   "cd-possession-cos-ski-vlnt-00": {
     "description": "ときめきチョコレートを持っている"
   },
+  "cd-possession-cos-ski-vlnt-00-26-1002": {
+    "description": "ときめきチョコレート(白石沙季)を持っている"
+  },
   "cd-possession-cos-ski-vlnt-00-not": {
     "description": "ときめきチョコレートを持っていない"
+  },
+  "cd-possession-cos-ski-vlnt-00-not-26-1002": {
+    "description": "ときめきチョコレート(白石沙季)を持っていない"
   },
   "cd-possession-cos-skr-anni-00-26-0831": {
     "description": "エターニティーフレンド(川咲さくら)を持っている"
@@ -38705,29 +38948,59 @@
   "cd-possession-cos-suz-idol-04": {
     "description": "ルナピエール（すず）所持"
   },
+  "cd-possession-cos-suz-idol-04-26-1002": {
+    "description": "ルナピエール(成宮すず)を持っている"
+  },
+  "cd-possession-cos-suz-idol-04-not-26-1002": {
+    "description": "ルナピエール(成宮すず)を持っていない"
+  },
   "cd-possession-cos-suz-mizg-02": {
+    "description": "ソレイユホットサマー(成宮すず)を持っている"
+  },
+  "cd-possession-cos-suz-mizg-02-26-1002": {
     "description": "ソレイユホットサマー(成宮すず)を持っている"
   },
   "cd-possession-cos-suz-mizg-02-not": {
     "description": "ソレイユホットサマー(成宮すず)を持っていない"
   },
+  "cd-possession-cos-suz-mizg-02-not-26-1002": {
+    "description": "ソレイユホットサマー(成宮すず)を持っていない"
+  },
   "cd-possession-cos-suz-newy-00": {
+    "description": "絢爛振袖・桃(成宮すず)を持っている"
+  },
+  "cd-possession-cos-suz-newy-00-26-1002": {
     "description": "絢爛振袖・桃(成宮すず)を持っている"
   },
   "cd-possession-cos-suz-newy-00-not": {
     "description": "絢爛振袖・桃(成宮すず)を持っていない"
   },
+  "cd-possession-cos-suz-newy-00-not-26-1002": {
+    "description": "絢爛振袖・桃(成宮すず)を持っていない"
+  },
   "cd-possession-cos-suz-pajm-00": {
+    "description": "パジャマパーティー(成宮すず)を持っている"
+  },
+  "cd-possession-cos-suz-pajm-00-26-1002": {
     "description": "パジャマパーティー(成宮すず)を持っている"
   },
   "cd-possession-cos-suz-pajm-00-not": {
     "description": "パジャマパーティー(成宮すず)を持っていない"
   },
+  "cd-possession-cos-suz-pajm-00-not-26-1002": {
+    "description": "パジャマパーティー(成宮すず)を持っていない"
+  },
   "cd-possession-cos-suz-vlnt-00": {
     "description": "ときめきチョコレートを持っている"
   },
+  "cd-possession-cos-suz-vlnt-00-26-1002": {
+    "description": "ときめきチョコレート(成宮すず)を持っている"
+  },
   "cd-possession-cos-suz-vlnt-00-not": {
     "description": "ときめきチョコレートを持っていない"
+  },
+  "cd-possession-cos-suz-vlnt-00-not-26-1002": {
+    "description": "ときめきチョコレート(成宮すず)を持っていない"
   },
   "cd-possession-cos-szk-anml-00": {
     "description": "スイートレディキャット(兵藤雫)を持っている"
@@ -45920,6 +46193,15 @@
   "cd-shelf-26-0918-story": {
     "description": "フォトアルバムストーリー表示"
   },
+  "cd-shelf-26-1002": {
+    "description": "フォトアルバム開催期間"
+  },
+  "cd-shelf-26-1002-play": {
+    "description": "メインライブ#4をクリア"
+  },
+  "cd-shelf-26-1002-story": {
+    "description": "フォトアルバムストーリー表示"
+  },
   "cd-shop-21-0731-close": {
     "description": "21−0731パック廃止"
   },
@@ -47873,6 +48155,15 @@
   "cd-shop-pack-26-0918-1001-dokan-free": {
     "description": "【ドカン】Web限定 おでかけシリーズ開催記念ショップ"
   },
+  "cd-shop-pack-26-0926": {
+    "description": "【お知らせ】沙季誕生日ショップ"
+  },
+  "cd-shop-pack-26-0926-1003": {
+    "description": "沙季誕生日ショップ"
+  },
+  "cd-shop-pack-26-0926-1003-dokan": {
+    "description": "【ドカン】沙季誕生日ショップ"
+  },
   "cd-shop-pack1-23-0809": {
     "description": "【お知らせ】リリース777日記念ショップ"
   },
@@ -47931,6 +48222,21 @@
     "description": "【ドカン】Web限定 おでかけシリーズ開催記念ショップ"
   },
   "cd-shop-pack2-26-0831-0917-mlv-120": {
+    "description": "おでかけシリーズ開催記念ショップMlv120制御"
+  },
+  "cd-shop-pack2-26-1002": {
+    "description": "【お知らせ】おでかけシリーズ開催記念ショップ"
+  },
+  "cd-shop-pack2-26-1002-1020": {
+    "description": "おでかけシリーズ開催記念ショップ"
+  },
+  "cd-shop-pack2-26-1002-1020-dokan": {
+    "description": "【ドカン】おでかけシリーズ開催記念ショップ"
+  },
+  "cd-shop-pack2-26-1002-1020-dokan-free": {
+    "description": "【ドカン】Web限定 おでかけシリーズ開催記念ショップ"
+  },
+  "cd-shop-pack2-26-1002-1020-mlv-120": {
     "description": "おでかけシリーズ開催記念ショップMlv120制御"
   },
   "cd-shop-pack3-25-0212": {
@@ -48459,6 +48765,9 @@
     "description": "衣装ショップドカン&バナー期間"
   },
   "cd-shop_dress-shop-26-0918-1001": {
+    "description": "衣装ショップドカン&バナー期間"
+  },
+  "cd-shop_dress-shop-26-1002-1020": {
     "description": "衣装ショップドカン&バナー期間"
   },
   "cd-shop_ever-clear": {
@@ -49620,6 +49929,9 @@
     "description": "フォトアルバムフィルムパック期間"
   },
   "cd-shop_special-shop-26-0918-1001-1": {
+    "description": "フォトアルバムフィルムパック期間"
+  },
+  "cd-shop_special-shop-26-1002-1020-1": {
     "description": "フォトアルバムフィルムパック期間"
   },
   "cd-shop_special-shop-banner-21-1125": {
@@ -51734,6 +52046,27 @@
   "cd-special-shop-pack-26-0918-1001-mlv-120": {
     "description": "おでかけシリーズ開催記念特別ショップMlv120制御"
   },
+  "cd-special-shop-pack-26-0926": {
+    "description": "【お知らせ】沙季誕生日特別ショップ"
+  },
+  "cd-special-shop-pack-26-0926-1003": {
+    "description": "沙季誕生日特別ショップ"
+  },
+  "cd-special-shop-pack-26-0926-1003-dokan": {
+    "description": "【ドカン】沙季誕生日特別ショップ"
+  },
+  "cd-special-shop-pack-26-1002": {
+    "description": "【お知らせ】おでかけシリーズ開催記念特別ショップ"
+  },
+  "cd-special-shop-pack-26-1002-1020": {
+    "description": "おでかけシリーズ開催記念特別ショップ"
+  },
+  "cd-special-shop-pack-26-1002-1020-dokan": {
+    "description": "【ドカン】おでかけシリーズ開催記念特別ショップ"
+  },
+  "cd-special-shop-pack-26-1002-1020-mlv-120": {
+    "description": "おでかけシリーズ開催記念特別ショップMlv120制御"
+  },
   "cd-special-shop-pack2-0831-0917-02": {
     "description": "陽だまりの休日Ⅰ･Ⅱ1人★5確定10連ガチャチケショップ"
   },
@@ -51913,6 +52246,12 @@
   },
   "cd-special-shop-pack2-26-0918-1001-02-dokan": {
     "description": "【ドカン】白き翼の羽休め1人★5確定10連ガチャチケショップ"
+  },
+  "cd-special-shop-pack2-26-1002-1020-02": {
+    "description": "月明かりのweekendⅠ･Ⅱ1人★5確定10連ガチャチケショップ"
+  },
+  "cd-special-shop-pack2-26-1002-1020-02-dokan": {
+    "description": "【ドカン】月明かりのweekendⅠ･Ⅱ1人★5確定10連ガチャチケショップ"
   },
   "cd-st-eve-2108-marathon-001": {
     "description": "ステージを1種類クリア"
@@ -54002,6 +54341,36 @@
   "cd-st-main-cmn-03-01-56-view": {
     "description": "星空編55話を視聴"
   },
+  "cd-st-main-cmn-03-01-57-unlock": {
+    "description": "メインライブ#26をクリア"
+  },
+  "cd-st-main-cmn-03-01-57-view": {
+    "description": "星空編56話を視聴"
+  },
+  "cd-st-main-cmn-03-01-58-unlock": {
+    "description": "メインライブ#26をクリア"
+  },
+  "cd-st-main-cmn-03-01-58-view": {
+    "description": "星空編57話を視聴"
+  },
+  "cd-st-main-cmn-03-01-59-unlock": {
+    "description": "メインライブ#26をクリア"
+  },
+  "cd-st-main-cmn-03-01-59-view": {
+    "description": "星空編58話を視聴"
+  },
+  "cd-st-main-cmn-03-01-60-unlock": {
+    "description": "メインライブ#26をクリア"
+  },
+  "cd-st-main-cmn-03-01-60-view": {
+    "description": "星空編59話を視聴"
+  },
+  "cd-st-main-cmn-03-01-61-unlock": {
+    "description": "メインライブ#26をクリア"
+  },
+  "cd-st-main-cmn-03-01-61-view": {
+    "description": "星空編60話を視聴"
+  },
   "cd-st-main-cmn-22-0922-1200": {
     "description": "22/09/22 12:00以降"
   },
@@ -55124,6 +55493,9 @@
   "cd-st-read-st-card-kor-05-xmas-00-03": {
     "description": "#3視聴\nで解放"
   },
+  "cd-st-read-st-card-ktn-05-casl-04-03": {
+    "description": "#3視聴\nで解放"
+  },
   "cd-st-read-st-card-ktn-05-circ-00-03": {
     "description": "#3視聴\nで解放"
   },
@@ -55167,6 +55539,9 @@
     "description": "#3視聴\nで解放"
   },
   "cd-st-read-st-card-mei-05-casl-02-03": {
+    "description": "#3視聴\nで解放"
+  },
+  "cd-st-read-st-card-mei-05-casl-04-03": {
     "description": "#3視聴\nで解放"
   },
   "cd-st-read-st-card-mei-05-fest-00-03": {
@@ -55284,6 +55659,9 @@
     "description": "#3視聴\nで解放"
   },
   "cd-st-read-st-card-ngs-05-casl-02-03": {
+    "description": "#3視聴\nで解放"
+  },
+  "cd-st-read-st-card-ngs-05-casl-04-03": {
     "description": "#3視聴\nで解放"
   },
   "cd-st-read-st-card-ngs-05-fest-02-03": {
@@ -55472,6 +55850,9 @@
   "cd-st-read-st-card-rui-05-yukt-00-03": {
     "description": "#3視聴\nで解放"
   },
+  "cd-st-read-st-card-ski-05-casl-04-03": {
+    "description": "#3視聴\nで解放"
+  },
   "cd-st-read-st-card-ski-05-chsk-00-03": {
     "description": "#3視聴\nで解放"
   },
@@ -55623,6 +56004,9 @@
     "description": "#3視聴\nで解放"
   },
   "cd-st-read-st-card-suz-05-anml-00-03": {
+    "description": "#3視聴\nで解放"
+  },
+  "cd-st-read-st-card-suz-05-casl-04-03": {
     "description": "#3視聴\nで解放"
   },
   "cd-st-read-st-card-suz-05-fest-02-03": {
@@ -57155,6 +57539,9 @@
   "cd-time-daily-sp-26-0918-26-1001": {
     "description": "スペシャルデイリーライブ開催期間"
   },
+  "cd-time-daily-sp-26-1002-26-1021": {
+    "description": "スペシャルデイリーライブ開催期間"
+  },
   "cd-time-diary-21-1009": {
     "description": "準備中"
   },
@@ -57450,6 +57837,9 @@
     "description": "イメージトレーニングミッション"
   },
   "cd-time-dream-26-09": {
+    "description": "イメージトレーニングミッション"
+  },
+  "cd-time-dream-26-10": {
     "description": "イメージトレーニングミッション"
   },
   "cd-time-dress-shop-fix-2504-key-get": {
@@ -57774,6 +58164,12 @@
     "description": "おでかけミッション"
   },
   "cd-time-event-ms-spr-26-0926-1002-mlv20": {
+    "description": "おでかけミッション"
+  },
+  "cd-time-event-ms-spr-26-1010-1016": {
+    "description": "おでかけミッション"
+  },
+  "cd-time-event-ms-spr-26-1010-1016-mlv20": {
     "description": "おでかけミッション"
   },
   "cd-time-event-ms-story-shooting-24-0304-0311-unlock": {
@@ -58451,6 +58847,9 @@
   "cd-time-exchange-gacha_point-26-1001-1031": {
     "description": "期間設定_交換所10月"
   },
+  "cd-time-exchange-gacha_point-26-1101-1130": {
+    "description": "期間設定_交換所11月"
+  },
   "cd-time-exchange-idle_medal-21-0624-0731": {
     "description": "期間設定_交換所6-7月"
   },
@@ -58643,6 +59042,9 @@
   "cd-time-exchange-idle_medal-26-1001-1031": {
     "description": "期間設定_交換所10月"
   },
+  "cd-time-exchange-idle_medal-26-1101-1130": {
+    "description": "期間設定_交換所11月"
+  },
   "cd-time-exchange-idol_medal-21-0630-0831": {
     "description": "水着衣装交換期間"
   },
@@ -58789,6 +59191,9 @@
   },
   "cd-time-exchange-league_medal-26-1001-1031": {
     "description": "期間設定_交換所10月"
+  },
+  "cd-time-exchange-league_medal-26-1101-1130": {
+    "description": "期間設定_交換所11月"
   },
   "cd-time-exchange-limit-cos": {
     "description": "交換所の水着3つ所持"
@@ -59045,6 +59450,9 @@
   "cd-time-exchange-pvp_medal-26-1001-1031": {
     "description": "期間設定_交換所10月"
   },
+  "cd-time-exchange-pvp_medal-26-1101-1130": {
+    "description": "期間設定_交換所11月"
+  },
   "cd-time-exchange-situation-illust-23-0624": {
     "description": "期間：★5シチュエーションイラスト交換所"
   },
@@ -59104,6 +59512,15 @@
   },
   "cd-time-gacha-all-star-01-26-0918-banner-end": {
     "description": "バナー期間終了条件：期間：白き翼の羽休め 1人★5確定無料チケットガチャ"
+  },
+  "cd-time-gacha-all-star-01-26-1002": {
+    "description": "期間：月明かりのweekendⅠ･Ⅱ 1人★5確定無料チケットガチャ"
+  },
+  "cd-time-gacha-all-star-01-26-1002-banner": {
+    "description": "バナー期間：期間：月明かりのweekendⅠ･Ⅱ 1人★5確定無料チケットガチャ"
+  },
+  "cd-time-gacha-all-star-01-26-1002-banner-end": {
+    "description": "バナー期間終了条件：期間：月明かりのweekendⅠ･Ⅱ 1人★5確定無料チケットガチャ"
   },
   "cd-time-gacha-beginner-21-0816": {
     "description": "ゲーム開始から72時間限定"
@@ -59768,6 +60185,12 @@
   "cd-time-gacha-birthday-26-0913-banner": {
     "description": "期間：すず誕生日ガチャ2026_バナー"
   },
+  "cd-time-gacha-birthday-26-0926": {
+    "description": "期間：沙季誕生日ガチャ2026"
+  },
+  "cd-time-gacha-birthday-26-0926-banner": {
+    "description": "期間：沙季誕生日ガチャ2026_バナー"
+  },
   "cd-time-gacha-birthday-hair-23-0707": {
     "description": "セットヘアスタイル"
   },
@@ -59958,6 +60381,9 @@
     "description": "セットヘアスタイル"
   },
   "cd-time-gacha-birthday-hair-26-0913": {
+    "description": "セットヘアスタイル"
+  },
+  "cd-time-gacha-birthday-hair-26-0926": {
     "description": "セットヘアスタイル"
   },
   "cd-time-gacha-continuous-22-0624": {
@@ -60752,6 +61178,27 @@
   "cd-time-gacha-excursion-01-26-0918-free-open": {
     "description": "期間限定ガチャ無料10回の初回分"
   },
+  "cd-time-gacha-excursion-01-26-1002": {
+    "description": "期間：月明かりのweekendⅠピックアップガチャ"
+  },
+  "cd-time-gacha-excursion-01-26-1002-banner": {
+    "description": "期間：月明かりのweekendⅠピックアップガチャバナー"
+  },
+  "cd-time-gacha-excursion-01-26-1002-dokan": {
+    "description": "期間：月明かりのweekendⅠピックアップガチャドカン"
+  },
+  "cd-time-gacha-excursion-01-26-1002-free": {
+    "description": "期間：The Black Lily Ⅱ-無料10連開催期間"
+  },
+  "cd-time-gacha-excursion-01-26-1002-free-banner": {
+    "description": "期間限定ガチャ無料10回の初回分_バナー"
+  },
+  "cd-time-gacha-excursion-01-26-1002-free-check": {
+    "description": "期間限定ガチャ無料10回の初回分引いたか"
+  },
+  "cd-time-gacha-excursion-01-26-1002-free-open": {
+    "description": "期間限定ガチャ無料10回の初回分"
+  },
   "cd-time-gacha-excursion-02-26-0731": {
     "description": "期間：黒百合達のoff time Ⅱピックアップガチャ"
   },
@@ -60794,6 +61241,27 @@
   "cd-time-gacha-excursion-02-26-0831-free-open": {
     "description": "期間限定ガチャ無料10回の初回分"
   },
+  "cd-time-gacha-excursion-02-26-1002": {
+    "description": "期間：月明かりのweekendⅡピックアップガチャ"
+  },
+  "cd-time-gacha-excursion-02-26-1002-banner": {
+    "description": "期間：月明かりのweekendⅡピックアップガチャバナー"
+  },
+  "cd-time-gacha-excursion-02-26-1002-dokan": {
+    "description": "期間：月明かりのweekendⅡピックアップガチャドカン"
+  },
+  "cd-time-gacha-excursion-02-26-1002-free": {
+    "description": "期間：The Black Lily Ⅱ-無料10連開催期間"
+  },
+  "cd-time-gacha-excursion-02-26-1002-free-banner": {
+    "description": "期間限定ガチャ無料10回の初回分_バナー"
+  },
+  "cd-time-gacha-excursion-02-26-1002-free-check": {
+    "description": "期間限定ガチャ無料10回の初回分引いたか"
+  },
+  "cd-time-gacha-excursion-02-26-1002-free-open": {
+    "description": "期間限定ガチャ無料10回の初回分"
+  },
   "cd-time-gacha-fes-21-0928": {
     "description": "期間：アイプラフェス"
   },
@@ -60833,11 +61301,17 @@
   "cd-time-gacha-fixed-01-26-0918": {
     "description": "期間：白き翼の羽休めピックアップガチャ"
   },
+  "cd-time-gacha-fixed-01-26-1002": {
+    "description": "期間：月明かりのweekendⅠピックアップガチャ"
+  },
   "cd-time-gacha-fixed-02-26-0731": {
     "description": "期間：黒百合達のoff time Ⅱピックアップガチャ"
   },
   "cd-time-gacha-fixed-02-26-0831": {
     "description": "期間：陽だまりの休日Ⅱピックアップガチャ"
+  },
+  "cd-time-gacha-fixed-02-26-1002": {
+    "description": "期間：月明かりのweekendⅡピックアップガチャ"
   },
   "cd-time-gacha-fixed-22-0101": {
     "description": "期間：新春★5アイドル1人確定10回ガチャ"
@@ -62325,6 +62799,15 @@
     "description": "バナー期間：期間：★5アイドル1人確定ピックアップガチャ"
   },
   "cd-time-gacha-fixed-26-0913-banner-end": {
+    "description": "バナー期間終了条件：期間：★5アイドル1人確定ピックアップガチャ"
+  },
+  "cd-time-gacha-fixed-26-0926": {
+    "description": "期間：★5アイドル1人確定ピックアップガチャ"
+  },
+  "cd-time-gacha-fixed-26-0926-banner": {
+    "description": "バナー期間：期間：★5アイドル1人確定ピックアップガチャ"
+  },
+  "cd-time-gacha-fixed-26-0926-banner-end": {
     "description": "バナー期間終了条件：期間：★5アイドル1人確定ピックアップガチャ"
   },
   "cd-time-gacha-fixed-selection-01-26-0618": {
@@ -63956,6 +64439,12 @@
   "cd-time-gacha-free-ticket-1s-26-0920": {
     "description": "無料ガチャチケット"
   },
+  "cd-time-gacha-free-ticket-1s-26-0930": {
+    "description": "無料ガチャチケット"
+  },
+  "cd-time-gacha-free-ticket-1s-26-1010": {
+    "description": "無料ガチャチケット"
+  },
   "cd-time-gacha-fs-select-22-0628": {
     "description": "期間：選べるアイプラフェスガチャ"
   },
@@ -64358,10 +64847,16 @@
   "cd-time-gacha-lm-set-bloom-01-26-0918-free-ticket-1s": {
     "description": "専用ガチャチケット所持"
   },
+  "cd-time-gacha-lm-set-bloom-01-26-1002-free-ticket-1s": {
+    "description": "専用ガチャチケット所持"
+  },
   "cd-time-gacha-lm-set-bloom-02-26-0731-free-ticket-1s": {
     "description": "専用ガチャチケット所持"
   },
   "cd-time-gacha-lm-set-bloom-02-26-0831-free-ticket-1s": {
+    "description": "専用ガチャチケット所持"
+  },
+  "cd-time-gacha-lm-set-bloom-02-26-1002-free-ticket-1s": {
     "description": "専用ガチャチケット所持"
   },
   "cd-time-gacha-lm-set-bloom-21-1130": {
@@ -68633,6 +69128,12 @@
   "cd-time-gacha-rev-select-01-26-0920-banner": {
     "description": "バナー期間終了条件： サニーピース2STEP"
   },
+  "cd-time-gacha-rev-select-01-26-1004": {
+    "description": "期間：選べる★5アイドルガチャ 月のテンペスト ver."
+  },
+  "cd-time-gacha-rev-select-01-26-1004-banner": {
+    "description": "バナー期間終了条件： サニーピース2STEP"
+  },
   "cd-time-gacha-rev-select-24-1130": {
     "description": "バナー期間：選べる復刻"
   },
@@ -69479,6 +69980,21 @@
   "cd-time-gacha-rev-step-rockon-26-0920-2nd-banner": {
     "description": "バナー期間：おでかけリリース記念 1人★5確定 2STEPガチャ"
   },
+  "cd-time-gacha-rev-step-rockon-26-1004-1st": {
+    "description": "期間：1人★5確定2STEPガチャ 月のテンペスト ver."
+  },
+  "cd-time-gacha-rev-step-rockon-26-1004-1st-banner": {
+    "description": "バナー期間：おでかけリリース記念 1人★5確定 2STEPガチャ"
+  },
+  "cd-time-gacha-rev-step-rockon-26-1004-1st-banner-end": {
+    "description": "バナー終了条件：おでかけリリース記念 1人★5確定 2STEPガチャ"
+  },
+  "cd-time-gacha-rev-step-rockon-26-1004-2nd": {
+    "description": "期間：1人★5確定復刻2STEPガチャ"
+  },
+  "cd-time-gacha-rev-step-rockon-26-1004-2nd-banner": {
+    "description": "バナー期間：おでかけリリース記念 1人★5確定 2STEPガチャ"
+  },
   "cd-time-gacha-select-01-21-1206": {
     "description": "期間：選べる★5バッファーガチャ"
   },
@@ -69881,6 +70397,9 @@
   "cd-time-gacha-select-01-26-0825": {
     "description": "期間：選べる★5ボーカルガチャ"
   },
+  "cd-time-gacha-select-01-26-0928": {
+    "description": "期間：選べる★5ビジュアルガチャ"
+  },
   "cd-time-gacha-select-birthday-01-26-0707": {
     "description": "期間：【復刻】選べる芽衣誕生日ガチャ"
   },
@@ -69892,6 +70411,9 @@
   },
   "cd-time-gacha-select-birthday-01-26-0913": {
     "description": "期間：【復刻】選べるすず誕生日ガチャ"
+  },
+  "cd-time-gacha-select-birthday-01-26-0926": {
+    "description": "期間：【復刻】選べる沙季誕生日ガチャ"
   },
   "cd-time-gift-21-0624-0627": {
     "description": "ウィークリーミッションの補填用"
@@ -70104,6 +70626,9 @@
     "description": "GVG_Sバナー 開始から3日間"
   },
   "cd-time-gvg-26-0915-0917_s-banner": {
+    "description": "GVG_Sバナー 開始から3日間"
+  },
+  "cd-time-gvg-26-1015-1017_s-banner": {
     "description": "GVG_Sバナー 開始から3日間"
   },
   "cd-time-home-after-12": {
@@ -71255,6 +71780,12 @@
   "cd-time-login02-26-0920-1003": {
     "description": "おでかけログボ受け取り期間"
   },
+  "cd-time-login02-26-1004-1010": {
+    "description": "おでかけログボ期間"
+  },
+  "cd-time-login02-26-1004-1017": {
+    "description": "おでかけログボ受け取り期間"
+  },
   "cd-time-market-discount-day": {
     "description": "10のつく日"
   },
@@ -71459,6 +71990,12 @@
   "cd-time-market-discount-day-26-0920": {
     "description": "10のつく日"
   },
+  "cd-time-market-discount-day-26-0930": {
+    "description": "10のつく日"
+  },
+  "cd-time-market-discount-day-26-1010": {
+    "description": "10のつく日"
+  },
   "cd-time-market-phase-001-close": {
     "description": "マーケット閉じ"
   },
@@ -71657,6 +72194,9 @@
   "cd-time-medal-buttonbadge-birthday-26-0913": {
     "description": "期間：すず誕生日ガチャ2026缶バッジ交換"
   },
+  "cd-time-medal-buttonbadge-birthday-26-0926": {
+    "description": "期間：沙季誕生日ガチャ2026缶バッジ交換"
+  },
   "cd-time-medal-buttonbadge-fs-set-bloom-24-0626": {
     "description": "期間：アイプラフェス The MOON Ⅰ缶バッジ交換"
   },
@@ -71815,6 +72355,9 @@
   },
   "cd-time-medal-buttonbadge-lm-set-bloom-26-0918": {
     "description": "期間：白き翼の羽休めピックアップガチャ缶バッジ交換"
+  },
+  "cd-time-medal-buttonbadge-lm-set-bloom-26-1002": {
+    "description": "期間：月明かりのweekendⅠピックアップガチャ缶バッジ交換"
   },
   "cd-time-mirrativ-close-21-0731-0801": {
     "description": "mirrativのお知らせ"
@@ -74055,6 +74598,9 @@
     "description": "PVP_Sバナー 開始から3日間"
   },
   "cd-time-pvp-26-0924-0926_s-banner": {
+    "description": "PVP_Sバナー 開始から3日間"
+  },
+  "cd-time-pvp-26-1004-1006_s-banner": {
     "description": "PVP_Sバナー 開始から3日間"
   },
   "cd-time-questionnaire-21-0702-0709_s-banner": {

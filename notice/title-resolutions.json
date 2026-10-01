@@ -102,42 +102,43 @@
     },
     "<p class=\"sub-title\">【復刻】もし恋イベント</p><p class=\"title\">もし恋 ~もしも君と恋をしたら~  鈴村優編<span></span</p>": {
       "candidates": {
-        "/notice/1384e1c3da529de293c867047fec5f0a13b1c51758f1b2306789e6a0afb1b253/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你坠入爱河~  铃村优篇<span></span</p>",
-        "/notice/21f87e97e16400ae1e81f12353db4e3ecc9f4542bf786eb780eb8bd734dfee93/index.html": "<p class=\"sub-title\">【复刻】如果恋活动</p><p class=\"title\">如果恋 ~如果与你坠入爱河~  铃村优篇<span></span</p>"
+        "/notice/1384e1c3da529de293c867047fec5f0a13b1c51758f1b2306789e6a0afb1b253/index.html": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你坠入爱河~  铃村优篇<span></span</p>",
+        "/notice/21f87e97e16400ae1e81f12353db4e3ecc9f4542bf786eb780eb8bd734dfee93/index.html": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你坠入爱河~  铃村优篇<span></span</p>",
+        "/notice/3fe6903dd967f79b9da93745337f564bcb4cb1b76b47bd06f6d7e1679b03d52a/index.html": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你恋爱的话~ 铃村优篇<span></span</p>"
       },
-      "reason": "缩写もし恋采用HelpCategory的如果恋；姓名按词典，保留原HTML及双空格。",
+      "reason": "按已确认术语「もし恋 → 若恋」统一简称；保留所选候选的完整副标题、姓名和 HTML，候选同步当前公告正文。",
       "review_method": "assistant",
-      "translation": "<p class=\"sub-title\">【复刻】如果恋活动</p><p class=\"title\">如果恋 ~如果与你坠入爱河~  铃村优篇<span></span</p>"
+      "translation": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你恋爱的话~ 铃村优篇<span></span</p>"
     },
     "<p class=\"sub-title\">【復刻】もし恋イベント</p><p class=\"title\">もし恋 ~もしも君と恋をしたら~ 一ノ瀬怜編<span></span</p>": {
       "candidates": {
-        "/notice/0683051359864faeb04fb9accb182c85a05b4bdaf24d335c2378f57ce9b53a77/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你恋爱的话~ 一之濑怜篇<span></span</p>",
-        "/notice/13504b55009507ee508fc6391cfc802e4089fe81e632f66bb77c5e1b4646202a/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你坠入爱河~ 一之濑怜篇<span></span</p>",
-        "/notice/7785edeb9d7970af7f6e142600bb57424efc80667d11774061651842f8b12234/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你恋爱的话~ 一之濑怜篇<span></span</p>"
+        "/notice/0683051359864faeb04fb9accb182c85a05b4bdaf24d335c2378f57ce9b53a77/index.html": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你恋爱的话~ 一之濑怜篇<span></span</p>",
+        "/notice/13504b55009507ee508fc6391cfc802e4089fe81e632f66bb77c5e1b4646202a/index.html": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你坠入爱河~ 一之濑怜篇<span></span</p>",
+        "/notice/7785edeb9d7970af7f6e142600bb57424efc80667d11774061651842f8b12234/index.html": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你恋爱的话~ 一之濑怜篇<span></span</p>"
       },
-      "reason": "两候选均用如果恋爱；选择更自然且与同系列候选一致的副标题，保留姓名与原HTML。",
+      "reason": "按已确认术语「もし恋 → 若恋」统一简称；保留所选候选的完整副标题、姓名和 HTML，候选同步当前公告正文。",
       "review_method": "assistant",
-      "translation": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你坠入爱河~ 一之濑怜篇<span></span</p>"
+      "translation": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你坠入爱河~ 一之濑怜篇<span></span</p>"
     },
     "<p class=\"sub-title\">【復刻】もし恋イベント</p><p class=\"title\">もし恋 ~もしも君と恋をしたら~ 伊吹渚編<span></span</p>": {
       "candidates": {
-        "/notice/95b14732ecea2974ff88443aa6a96dd60ce84698bab677d1791ce67f08eb6c04/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你恋爱的话~ 伊吹渚篇<span></span</p>",
-        "/notice/e61b10c612829a4cd748bfbec2153f970bec9617705c2e16b2bb26b85b962f96/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你坠入爱河~ 伊吹渚篇<span></span</p>",
-        "/notice/ed1bf246756bf78ca89a763ae83f0c3d5345351b880294001aed69c1d7423aa3/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你恋爱的话~ 伊吹渚篇<span></span</p>"
+        "/notice/95b14732ecea2974ff88443aa6a96dd60ce84698bab677d1791ce67f08eb6c04/index.html": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你恋爱的话~ 伊吹渚篇<span></span</p>",
+        "/notice/e61b10c612829a4cd748bfbec2153f970bec9617705c2e16b2bb26b85b962f96/index.html": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你坠入爱河~ 伊吹渚篇<span></span</p>",
+        "/notice/ed1bf246756bf78ca89a763ae83f0c3d5345351b880294001aed69c1d7423aa3/index.html": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你恋爱的话~ 伊吹渚篇<span></span</p>"
       },
-      "reason": "选择与同系列既有候选一致的副标题，保留伊吹渚姓名及HTML。",
+      "reason": "按已确认术语「もし恋 → 若恋」统一简称；保留所选候选的完整副标题、姓名和 HTML，候选同步当前公告正文。",
       "review_method": "assistant",
-      "translation": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你坠入爱河~ 伊吹渚篇<span></span</p>"
+      "translation": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你坠入爱河~ 伊吹渚篇<span></span</p>"
     },
     "<p class=\"sub-title\">【復刻】もし恋イベント</p><p class=\"title\">もし恋 ~もしも君と恋をしたら~ 早坂芽衣編<span></span</p>": {
       "candidates": {
-        "/notice/420b1dc8b090387f644d2d0014e08a3a5a1b699aad3378d3be0ea4c3bf245497/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你恋爱的话~ 早坂芽衣篇<span></span</p>",
-        "/notice/d97118ec14be5b11c542ac285dd4d5075e1b1bd270c572952c1efe915b168ec2/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你坠入爱河~ 早坂芽衣篇<span></span</p>",
-        "/notice/fad819e3d06f69544f04bdb24326c51daebfd9197d340ddae4f9769cac8546ba/index.html": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你恋爱的话~ 早坂芽衣篇<span></span</p>"
+        "/notice/420b1dc8b090387f644d2d0014e08a3a5a1b699aad3378d3be0ea4c3bf245497/index.html": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你恋爱的话~ 早坂芽衣篇<span></span</p>",
+        "/notice/d97118ec14be5b11c542ac285dd4d5075e1b1bd270c572952c1efe915b168ec2/index.html": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你坠入爱河~ 早坂芽衣篇<span></span</p>",
+        "/notice/fad819e3d06f69544f04bdb24326c51daebfd9197d340ddae4f9769cac8546ba/index.html": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你恋爱的话~ 早坂芽衣篇<span></span</p>"
       },
-      "reason": "选择与同系列既有候选一致的副标题，保留早坂芽衣姓名及HTML。",
+      "reason": "按已确认术语「もし恋 → 若恋」统一简称；保留所选候选的完整副标题、姓名和 HTML，候选同步当前公告正文。",
       "review_method": "assistant",
-      "translation": "<p class=\"sub-title\">【复刻】如果恋爱活动</p><p class=\"title\">如果恋爱 ~如果与你坠入爱河~ 早坂芽衣篇<span></span</p>"
+      "translation": "<p class=\"sub-title\">【复刻】若恋活动</p><p class=\"title\">若恋 ~如果与你坠入爱河~ 早坂芽衣篇<span></span</p>"
     },
     "IDOLY PRIDE マネージャーポータル 移行のお知らせ": {
       "candidates": {
@@ -387,45 +388,46 @@
     },
     "「もし恋 ~もしも君と恋をしたら~ 」とは": {
       "candidates": {
-        "/notice/0683051359864faeb04fb9accb182c85a05b4bdaf24d335c2378f57ce9b53a77/index.html": "什么是「如果恋 ~如果与你恋爱的话~」",
-        "/notice/13504b55009507ee508fc6391cfc802e4089fe81e632f66bb77c5e1b4646202a/index.html": "什么是「如果恋 ~如果与你坠入爱河~」",
-        "/notice/1384e1c3da529de293c867047fec5f0a13b1c51758f1b2306789e6a0afb1b253/index.html": "什么是「如果恋 ~如果与你坠入爱河~」",
-        "/notice/21f87e97e16400ae1e81f12353db4e3ecc9f4542bf786eb780eb8bd734dfee93/index.html": "什么是「如果恋 ~如果与你坠入爱河~」",
-        "/notice/3028c394c78b36f15f5f713bd13ef4ab3a3f8bd6d45bd4d66b5be2adc38d96ad/index.html": "什么是「如果恋爱 ~如果与你坠入爱河~」",
-        "/notice/420b1dc8b090387f644d2d0014e08a3a5a1b699aad3378d3be0ea4c3bf245497/index.html": "什么是「如果恋爱 ~如果与你恋爱的话~」",
-        "/notice/4240d36c299b3e6e27b3c3551f971e57ff04aa21317f69c2bceaa765f64bf1ce/index.html": "什么是「如果恋 ~如果与你坠入爱河~」",
-        "/notice/7785edeb9d7970af7f6e142600bb57424efc80667d11774061651842f8b12234/index.html": "什么是「如果恋 ~如果与你恋爱的话~」",
-        "/notice/95b14732ecea2974ff88443aa6a96dd60ce84698bab677d1791ce67f08eb6c04/index.html": "什么是「如果恋 ~如果与你坠入爱河~」",
-        "/notice/bcfa9657c6d24af1ba7788913c9f29599f2db6f6f77e1a7b66066c881d744cb8/index.html": "什么是「如果恋爱 ~如果与你恋爱的话~」",
-        "/notice/d97118ec14be5b11c542ac285dd4d5075e1b1bd270c572952c1efe915b168ec2/index.html": "什么是「如果恋 ~如果与你坠入爱河~」",
-        "/notice/e61b10c612829a4cd748bfbec2153f970bec9617705c2e16b2bb26b85b962f96/index.html": "什么是「如果恋 ~如果与你坠入爱河~」",
-        "/notice/ed1bf246756bf78ca89a763ae83f0c3d5345351b880294001aed69c1d7423aa3/index.html": "什么是「如果恋 ~如果与你恋爱的话~」",
-        "/notice/fad819e3d06f69544f04bdb24326c51daebfd9197d340ddae4f9769cac8546ba/index.html": "什么是「如果恋 ~如果与你恋爱的话~」"
+        "/notice/0683051359864faeb04fb9accb182c85a05b4bdaf24d335c2378f57ce9b53a77/index.html": "什么是「若恋 ~如果与你恋爱的话~」",
+        "/notice/13504b55009507ee508fc6391cfc802e4089fe81e632f66bb77c5e1b4646202a/index.html": "什么是「若恋 ~如果与你坠入爱河~」",
+        "/notice/1384e1c3da529de293c867047fec5f0a13b1c51758f1b2306789e6a0afb1b253/index.html": "什么是「若恋 ~如果与你坠入爱河~」",
+        "/notice/21f87e97e16400ae1e81f12353db4e3ecc9f4542bf786eb780eb8bd734dfee93/index.html": "什么是「若恋 ~如果与你坠入爱河~」",
+        "/notice/3028c394c78b36f15f5f713bd13ef4ab3a3f8bd6d45bd4d66b5be2adc38d96ad/index.html": "什么是「若恋 ~如果与你坠入爱河~」",
+        "/notice/3fe6903dd967f79b9da93745337f564bcb4cb1b76b47bd06f6d7e1679b03d52a/index.html": "什么是“若恋 ～如果与你恋爱的话～”",
+        "/notice/420b1dc8b090387f644d2d0014e08a3a5a1b699aad3378d3be0ea4c3bf245497/index.html": "什么是「若恋 ~如果与你恋爱的话~」",
+        "/notice/4240d36c299b3e6e27b3c3551f971e57ff04aa21317f69c2bceaa765f64bf1ce/index.html": "什么是「若恋 ~如果与你坠入爱河~」",
+        "/notice/7785edeb9d7970af7f6e142600bb57424efc80667d11774061651842f8b12234/index.html": "什么是「若恋 ~如果与你恋爱的话~」",
+        "/notice/95b14732ecea2974ff88443aa6a96dd60ce84698bab677d1791ce67f08eb6c04/index.html": "什么是「若恋 ~如果与你坠入爱河~」",
+        "/notice/bcfa9657c6d24af1ba7788913c9f29599f2db6f6f77e1a7b66066c881d744cb8/index.html": "什么是「若恋 ~如果与你恋爱的话~」",
+        "/notice/d97118ec14be5b11c542ac285dd4d5075e1b1bd270c572952c1efe915b168ec2/index.html": "什么是「若恋 ~如果与你坠入爱河~」",
+        "/notice/e61b10c612829a4cd748bfbec2153f970bec9617705c2e16b2bb26b85b962f96/index.html": "什么是「若恋 ~如果与你坠入爱河~」",
+        "/notice/ed1bf246756bf78ca89a763ae83f0c3d5345351b880294001aed69c1d7423aa3/index.html": "什么是「若恋 ~如果与你恋爱的话~」",
+        "/notice/fad819e3d06f69544f04bdb24326c51daebfd9197d340ddae4f9769cac8546ba/index.html": "什么是「若恋 ~如果与你恋爱的话~」"
       },
-      "reason": "もし恋缩写对齐HelpCategory的如果恋；とは为功能介绍，不误写活动开启。",
+      "reason": "按已确认术语「もし恋 → 若恋」统一简称；保留所选候选的完整副标题、姓名和 HTML，候选同步当前公告正文。",
       "review_method": "assistant",
-      "translation": "什么是「如果恋 ~如果与你坠入爱河~」"
+      "translation": "什么是“若恋 ～如果与你恋爱的话～”"
     },
     "「もし恋開催記念ショップ」登場！": {
       "candidates": {
-        "/notice/8e0a075aa3df4f9604331439024d2aa1a7a3ce8911e98ea36e9dc61335e83cc9/index.html": "「如果恋爱举办纪念商店」登场！",
-        "/notice/8e8bb44168011ea0cea76b74bc6f7204f8d0946edabc7e8073ec71ea8056c906/index.html": "「如果恋举办纪念商店」登场！",
-        "/notice/ca083f227967f4ad0028310fdeb1863e4b3a058b7d0f2646dff69d87cf1e694b/index.html": "「如果恋举办纪念商店」登场！"
+        "/notice/8e0a075aa3df4f9604331439024d2aa1a7a3ce8911e98ea36e9dc61335e83cc9/index.html": "「若恋举办纪念商店」登场！",
+        "/notice/8e8bb44168011ea0cea76b74bc6f7204f8d0946edabc7e8073ec71ea8056c906/index.html": "「若恋举办纪念商店」登场！",
+        "/notice/ca083f227967f4ad0028310fdeb1863e4b3a058b7d0f2646dff69d87cf1e694b/index.html": "「若恋举办纪念商店」登场！"
       },
-      "reason": "もし恋采用已有功能名如果恋，保持普通商店类别。",
+      "reason": "按已确认术语「もし恋 → 若恋」统一简称；保留所选候选的完整副标题、姓名和 HTML，候选同步当前公告正文。",
       "review_method": "assistant",
-      "translation": "「如果恋举办纪念商店」登场！"
+      "translation": "「若恋举办纪念商店」登场！"
     },
     "「もし恋開催記念特別ショップ」登場！": {
       "candidates": {
-        "/notice/030f01ab2208b5fceffc4149b14da3ed9617d93289e87eb531944f41461c667d/index.html": "「如果恋举办纪念特别商店」登场！",
-        "/notice/6d064443cfb242d69dfe4d31a8a88fb5b4071698c3380be4a830c2ef69079997/index.html": "「如果恋举办纪念特别商店」登场！",
-        "/notice/8b16a2ee72ae88f49fff3619c3987598f74da01e6abc9399a42d1075582313e5/index.html": "「如果恋爱举办纪念特别商店」登场！",
-        "/notice/ad2bbe89e10d5c3332ac0beb818ae47cca0603d66aa8cebbf1875dd1718c96f7/index.html": "「如果恋举办纪念特别商店」登场！"
+        "/notice/030f01ab2208b5fceffc4149b14da3ed9617d93289e87eb531944f41461c667d/index.html": "「若恋举办纪念特别商店」登场！",
+        "/notice/6d064443cfb242d69dfe4d31a8a88fb5b4071698c3380be4a830c2ef69079997/index.html": "「若恋举办纪念特别商店」登场！",
+        "/notice/8b16a2ee72ae88f49fff3619c3987598f74da01e6abc9399a42d1075582313e5/index.html": "「若恋举办纪念特别商店」登场！",
+        "/notice/ad2bbe89e10d5c3332ac0beb818ae47cca0603d66aa8cebbf1875dd1718c96f7/index.html": "「若恋举办纪念特别商店」登场！"
       },
-      "reason": "もし恋采用已有功能名如果恋，并保留特别商店限定。",
+      "reason": "按已确认术语「もし恋 → 若恋」统一简称；保留所选候选的完整副标题、姓名和 HTML，候选同步当前公告正文。",
       "review_method": "assistant",
-      "translation": "「如果恋举办纪念特别商店」登场！"
+      "translation": "「若恋举办纪念特别商店」登场！"
     },
     "「アイプラフェス1人★5確定10連ガチャチケショップ」登場！": {
       "candidates": {
@@ -505,49 +507,50 @@
     },
     "【復刻】もし恋~一ノ瀬怜編~スタンプガチャ開催！": {
       "candidates": {
-        "/notice/0600cac140a524cb23fedbb47fc06fe3541c5ea18e50f190f16b20f75c4cf84c/index.html": "【复刻】如果恋爱～一之濑怜篇～贴纸扭蛋开启！",
-        "/notice/eb4e1c423a52be68dd4a2bd2530405bf8f8865fe18d110c87438859459eb441a/index.html": "【复刻】如果恋爱～一之濑怜篇～印章扭蛋开启！"
+        "/notice/0600cac140a524cb23fedbb47fc06fe3541c5ea18e50f190f16b20f75c4cf84c/index.html": "【复刻】若恋～一之濑怜篇～贴纸扭蛋开启！",
+        "/notice/eb4e1c423a52be68dd4a2bd2530405bf8f8865fe18d110c87438859459eb441a/index.html": "【复刻】若恋～一之濑怜篇～印章扭蛋开启！"
       },
-      "reason": "スタンプガチャ对齐Gacha.description现有贴纸扭蛋；姓名按词典。",
+      "reason": "按已确认术语「もし恋 → 若恋」统一简称；保留所选候选的完整副标题、姓名和 HTML，候选同步当前公告正文。",
       "review_method": "assistant",
-      "translation": "【复刻】如果恋爱～一之濑怜篇～贴纸扭蛋开启！"
+      "translation": "【复刻】若恋～一之濑怜篇～贴纸扭蛋开启！"
     },
     "【復刻】もし恋~伊吹渚編~スタンプガチャ開催！": {
       "candidates": {
-        "/notice/63ee80bbd2b62c1d93e47cd28aa9e3440e0799ffcd9f73be7865a73315c0a276/index.html": "【复刻】如果恋爱～伊吹渚篇～贴纸扭蛋开启！",
-        "/notice/b68ff6e13775cd2af4aaa6f2d9e95d4811b1a9c74e48f7c59f2eeca3df0919db/index.html": "【复刻】如果恋～伊吹渚篇～贴纸扭蛋开启！"
+        "/notice/63ee80bbd2b62c1d93e47cd28aa9e3440e0799ffcd9f73be7865a73315c0a276/index.html": "【复刻】若恋～伊吹渚篇～贴纸扭蛋开启！",
+        "/notice/b68ff6e13775cd2af4aaa6f2d9e95d4811b1a9c74e48f7c59f2eeca3df0919db/index.html": "【复刻】若恋～伊吹渚篇～贴纸扭蛋开启！"
       },
-      "reason": "もし恋对齐Gacha正式名称如果恋，保留贴纸扭蛋和角色章节。",
+      "reason": "按已确认术语「もし恋 → 若恋」统一简称；保留所选候选的完整副标题、姓名和 HTML，候选同步当前公告正文。",
       "review_method": "assistant",
-      "translation": "【复刻】如果恋～伊吹渚篇～贴纸扭蛋开启！"
+      "translation": "【复刻】若恋～伊吹渚篇～贴纸扭蛋开启！"
     },
     "【復刻】もし恋~鈴村優編~スタンプガチャ開催！": {
       "candidates": {
-        "/notice/0b2696ce86a5fedcf690d90b44ee123cb2f604441bc0e3328de5d3057d194e91/index.html": "【复刻】如果恋爱～铃村优篇～贴纸扭蛋开启！",
-        "/notice/d1cdaa1c42a6a65afe846fa8ba09681b2c9b894894991daace9221700bb44c75/index.html": "【复刻】如果恋爱～铃村优篇～印章扭蛋开启！"
+        "/notice/0b2696ce86a5fedcf690d90b44ee123cb2f604441bc0e3328de5d3057d194e91/index.html": "【复刻】若恋～铃村优篇～贴纸扭蛋开启！",
+        "/notice/d1cdaa1c42a6a65afe846fa8ba09681b2c9b894894991daace9221700bb44c75/index.html": "【复刻】若恋～铃村优篇～印章扭蛋开启！"
       },
-      "reason": "采用Gacha.description的贴纸扭蛋，保留铃村优角色篇信息。",
+      "reason": "按已确认术语「もし恋 → 若恋」统一简称；保留所选候选的完整副标题、姓名和 HTML，候选同步当前公告正文。",
       "review_method": "assistant",
-      "translation": "【复刻】如果恋爱～铃村优篇～贴纸扭蛋开启！"
+      "translation": "【复刻】若恋～铃村优篇～贴纸扭蛋开启！"
     },
     "【復刻】もし恋イベント「もし恋 ~もしも君と恋をしたら~ 一ノ瀬怜編」": {
       "candidates": {
-        "/notice/0683051359864faeb04fb9accb182c85a05b4bdaf24d335c2378f57ce9b53a77/index.html": "【复刻】如果恋爱活动「如果恋爱 ~如果与你恋爱的话~ 一之濑怜篇」",
-        "/notice/13504b55009507ee508fc6391cfc802e4089fe81e632f66bb77c5e1b4646202a/index.html": "【复刻】如果恋爱活动「如果恋爱 ~如果与你坠入爱河~ 一之濑怜篇」",
-        "/notice/7785edeb9d7970af7f6e142600bb57424efc80667d11774061651842f8b12234/index.html": "【复刻】如果恋爱活动「如果恋爱 ~如果与你恋爱的话~ 一之濑怜篇」"
+        "/notice/0683051359864faeb04fb9accb182c85a05b4bdaf24d335c2378f57ce9b53a77/index.html": "【复刻】若恋活动「若恋 ~如果与你恋爱的话~ 一之濑怜篇」",
+        "/notice/13504b55009507ee508fc6391cfc802e4089fe81e632f66bb77c5e1b4646202a/index.html": "【复刻】若恋活动「若恋 ~如果与你坠入爱河~ 一之濑怜篇」",
+        "/notice/7785edeb9d7970af7f6e142600bb57424efc80667d11774061651842f8b12234/index.html": "【复刻】若恋活动「若恋 ~如果与你恋爱的话~ 一之濑怜篇」"
       },
-      "reason": "副标题与同系列已选HTML标题一致；一之濑怜姓名不变。",
+      "reason": "按已确认术语「もし恋 → 若恋」统一简称；保留所选候选的完整副标题、姓名和 HTML，候选同步当前公告正文。",
       "review_method": "assistant",
-      "translation": "【复刻】如果恋爱活动「如果恋爱 ~如果与你坠入爱河~ 一之濑怜篇」"
+      "translation": "【复刻】若恋活动「若恋 ~如果与你坠入爱河~ 一之濑怜篇」"
     },
     "【復刻】もし恋イベント「もし恋 ~もしも君と恋をしたら~ 鈴村優編」": {
       "candidates": {
-        "/notice/1384e1c3da529de293c867047fec5f0a13b1c51758f1b2306789e6a0afb1b253/index.html": "【复刻】如果恋爱活动「如果恋爱 ~如果与你坠入爱河~ 铃村优篇」",
-        "/notice/21f87e97e16400ae1e81f12353db4e3ecc9f4542bf786eb780eb8bd734dfee93/index.html": "【复刻】如果恋活动「如果恋 ~如果与你坠入爱河~ 铃村优篇」"
+        "/notice/1384e1c3da529de293c867047fec5f0a13b1c51758f1b2306789e6a0afb1b253/index.html": "【复刻】若恋活动「若恋 ~如果与你坠入爱河~ 铃村优篇」",
+        "/notice/21f87e97e16400ae1e81f12353db4e3ecc9f4542bf786eb780eb8bd734dfee93/index.html": "【复刻】若恋活动「若恋 ~如果与你坠入爱河~ 铃村优篇」",
+        "/notice/3fe6903dd967f79b9da93745337f564bcb4cb1b76b47bd06f6d7e1679b03d52a/index.html": "【复刻】若恋活动“若恋 ~如果与你恋爱的话~ 铃村优篇”"
       },
-      "reason": "缩写采用已有如果恋功能名，完整标题与铃村优HTML标题一致。",
+      "reason": "按已确认术语「もし恋 → 若恋」统一简称；保留所选候选的完整副标题、姓名和 HTML，候选同步当前公告正文。",
       "review_method": "assistant",
-      "translation": "【复刻】如果恋活动「如果恋 ~如果与你坠入爱河~ 铃村优篇」"
+      "translation": "【复刻】若恋活动“若恋 ~如果与你恋爱的话~ 铃村优篇”"
     },
     "【復刻】ラブサインはさりげなくガチャ開催！": {
       "candidates": {
@@ -578,25 +581,25 @@
     },
     "もし恋カウントダウンギフト開催！": {
       "candidates": {
-        "/notice/10c1e55bd54e5a684bdb5f1fcc3620fc5e700915790c484fea159b9c799a367b/index.html": "如果恋爱倒计时礼物活动开启！",
-        "/notice/b12775df38f356d43e8f720f4adf3b22b224c1aab3d6435c4e9c82349ab51a78/index.html": "如果恋爱倒计时礼物活动开启！",
-        "/notice/bc91c813342180a2507a681a405e56d807e6c9104a805234ea0012780033f9c4/index.html": "如果恋倒计时礼物活动开启！"
+        "/notice/10c1e55bd54e5a684bdb5f1fcc3620fc5e700915790c484fea159b9c799a367b/index.html": "若恋倒计时礼物活动开启！",
+        "/notice/b12775df38f356d43e8f720f4adf3b22b224c1aab3d6435c4e9c82349ab51a78/index.html": "若恋倒计时礼物活动开启！",
+        "/notice/bc91c813342180a2507a681a405e56d807e6c9104a805234ea0012780033f9c4/index.html": "若恋倒计时礼物活动开启！"
       },
-      "reason": "もし恋采用已有功能名如果恋，保留倒计时礼物活动性质。",
+      "reason": "按已确认术语「もし恋 → 若恋」统一简称；保留所选候选的完整副标题、姓名和 HTML，候选同步当前公告正文。",
       "review_method": "assistant",
-      "translation": "如果恋倒计时礼物活动开启！"
+      "translation": "若恋倒计时礼物活动开启！"
     },
     "もし恋ログインボーナス開催！": {
       "candidates": {
-        "/notice/1cc428ae7d12a011e4df4ca811de2e1c98cfb48105647f761bf5d0df38d37a35/index.html": "如果恋登录奖励活动开启！",
-        "/notice/2128759113f2dd43c2f2e0ddb1b0943c038a6c635a6858cff0e7936c538321cf/index.html": "如果恋登录奖励活动举办！",
-        "/notice/67dd41b051c98b6ac0de36c8a71d1ecb40110f475e013cf4b642541da2b726f5/index.html": "如果恋登录奖励活动开启！",
-        "/notice/e87351ba60130baa2dedc482a2cb4b4e72a52d4823d3bec372a8476dbd90bcd5/index.html": "如果恋登录奖励开启！",
-        "/notice/eb596e582bce3cea9204448099fc7499cae8c14d12989e4ce41fc4518c26c3a5/index.html": "如果恋登录奖励开启！"
+        "/notice/1cc428ae7d12a011e4df4ca811de2e1c98cfb48105647f761bf5d0df38d37a35/index.html": "若恋登录奖励活动开启！",
+        "/notice/2128759113f2dd43c2f2e0ddb1b0943c038a6c635a6858cff0e7936c538321cf/index.html": "若恋登录奖励活动举办！",
+        "/notice/67dd41b051c98b6ac0de36c8a71d1ecb40110f475e013cf4b642541da2b726f5/index.html": "若恋登录奖励活动开启！",
+        "/notice/e87351ba60130baa2dedc482a2cb4b4e72a52d4823d3bec372a8476dbd90bcd5/index.html": "若恋登录奖励开启！",
+        "/notice/eb596e582bce3cea9204448099fc7499cae8c14d12989e4ce41fc4518c26c3a5/index.html": "若恋登录奖励开启！"
       },
-      "reason": "登录奖励用语与现有功能一致，标题不额外增加活动名词。",
+      "reason": "按已确认术语「もし恋 → 若恋」统一简称；保留所选候选的完整副标题、姓名和 HTML，候选同步当前公告正文。",
       "review_method": "assistant",
-      "translation": "如果恋登录奖励开启！"
+      "translation": "若恋登录奖励开启！"
     },
     "アイドル育成ミッション開催！": {
       "candidates": {

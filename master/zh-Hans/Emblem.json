@@ -2463,6 +2463,10 @@
     "description": "迎来沙季的生日",
     "name": "【生日】白石沙季"
   },
+  "emb-birthday_ski-06": {
+    "description": "迎来沙季的生日",
+    "name": "【生日】白石沙季"
+  },
   "emb-birthday_skr-03": {
     "description": "迎来樱的生日",
     "name": "【生日】川咲樱"
@@ -3155,6 +3159,14 @@
     "description": "在联合演唱会第63赛季获得前10名",
     "name": "联合第63赛季 TOP10"
   },
+  "emb-gvg-season-064-top001": {
+    "description": "在联盟演唱会第64赛季获得第1名",
+    "name": "联盟第64赛季 No.1"
+  },
+  "emb-gvg-season-064-top010": {
+    "description": "在联盟演唱会第64赛季获得前10名",
+    "name": "联盟第64赛季 TOP10"
+  },
   "emb-highscore-15-0": {
     "description": "在高分演唱会「lumière」中获得100名以内"
   },
@@ -3276,36 +3288,36 @@
     "name": "全勤奖"
   },
   "emb-love-23-0514-true": {
-    "description": "通关「如果恋 ~如果和你恋爱的话~ 一之濑怜篇」TRUE END",
-    "name": "「如果恋 ~如果和你恋爱的话~ 一之濑怜篇」"
+    "description": "通关「若恋 ~如果和你恋爱的话~ 一之濑怜篇」TRUE END",
+    "name": "「若恋 ~如果和你恋爱的话~ 一之濑怜篇」"
   },
   "emb-love-23-0514-true-sp": {
-    "description": "【限定】通关「如果恋 ~如果和你恋爱的话~ 一之濑怜篇」TRUE END",
-    "name": "【限定】「如果恋 ~如果和你恋爱的话~ 一之濑怜篇」"
+    "description": "【限定】通关「若恋 ~如果和你恋爱的话~ 一之濑怜篇」TRUE END",
+    "name": "【限定】「若恋 ~如果和你恋爱的话~ 一之濑怜篇」"
   },
   "emb-love-23-1114-true": {
-    "description": "通关「如果恋 ~如果和你恋爱的话~ 伊吹渚篇」TRUE END",
-    "name": "「如果恋 ~如果和你恋爱的话~ 伊吹渚篇」"
+    "description": "通关「若恋 ~如果和你恋爱的话~ 伊吹渚篇」TRUE END",
+    "name": "「若恋 ~如果和你恋爱的话~ 伊吹渚篇」"
   },
   "emb-love-23-1114-true-sp": {
-    "description": "【限定】「如果恋～如果与你恋爱的话～ 伊吹渚篇」TRUE END通关",
-    "name": "【限定】「如果恋～如果与你恋爱的话～ 伊吹渚篇」"
+    "description": "【限定】「若恋～如果与你恋爱的话～ 伊吹渚篇」TRUE END通关",
+    "name": "【限定】「若恋～如果与你恋爱的话～ 伊吹渚篇」"
   },
   "emb-love-24-0517-true": {
-    "description": "「如果恋～如果与你恋爱的话～ 早坂芽衣篇」TRUE END通关",
-    "name": "「如果恋～如果与你恋爱的话～ 早坂芽衣篇」"
+    "description": "「若恋～如果与你恋爱的话～ 早坂芽衣篇」TRUE END通关",
+    "name": "「若恋～如果与你恋爱的话～ 早坂芽衣篇」"
   },
   "emb-love-24-0517-true-sp": {
-    "description": "【限定】「如果恋～如果与你恋爱的话～ 早坂芽衣篇」TRUE END通关",
-    "name": "【限定】「如果恋～如果与你恋爱的话～ 早坂芽衣篇」"
+    "description": "【限定】「若恋～如果与你恋爱的话～ 早坂芽衣篇」TRUE END通关",
+    "name": "【限定】「若恋～如果与你恋爱的话～ 早坂芽衣篇」"
   },
   "emb-love-24-1114-true": {
-    "description": "「如果恋～如果与你恋爱的话～ 铃村优篇」TRUE END通关",
-    "name": "「如果恋～如果与你恋爱的话～ 铃村优篇」"
+    "description": "「若恋～如果与你恋爱的话～ 铃村优篇」TRUE END通关",
+    "name": "「若恋～如果与你恋爱的话～ 铃村优篇」"
   },
   "emb-love-24-1114-true-sp": {
-    "description": "【限定】「如果恋～如果与你恋爱的话～ 铃村优篇」TRUE END通关",
-    "name": "【限定】「如果恋～如果与你恋爱的话～ 铃村优篇」"
+    "description": "【限定】「若恋～如果与你恋爱的话～ 铃村优篇」TRUE END通关",
+    "name": "【限定】「若恋～如果与你恋爱的话～ 铃村优篇」"
   },
   "emb-love-25-0426-true-01": {
     "description": "「魅魔×魔法～KISS AND MAGIC!～ 瑠依」GOOD END通关",
@@ -3328,12 +3340,12 @@
     "name": "「魅魔×魔法 ~KISS AND MAGIC!~ 后宫」"
   },
   "emb-love-26-0313-true": {
-    "description": "「假如恋 ~假如与你相恋~ 神崎莉央篇」TRUE END通关",
-    "name": "「假如恋 ~假如与你相恋~ 神崎莉央篇」"
+    "description": "「若恋 ~假如与你相恋~ 神崎莉央篇」TRUE END通关",
+    "name": "「若恋 ~假如与你相恋~ 神崎莉央篇」"
   },
   "emb-love-26-0313-true-sp": {
-    "description": "【限定】「假如恋 ~假如与你相恋~ 神崎莉央篇」TRUE END通关",
-    "name": "【限定】「假如恋 ~假如与你相恋~ 神崎莉央篇」"
+    "description": "【限定】「若恋 ~假如与你相恋~ 神崎莉央篇」TRUE END通关",
+    "name": "【限定】「若恋 ~假如与你相恋~ 神崎莉央篇」"
   },
   "emb-mission-ladder-23-0810": {
     "description": "「夏日回忆留言任务」",
@@ -4754,6 +4766,18 @@
   "emb-pvp-season-181-top100": {
     "description": "在VENUS对战赛季181中获得前100名",
     "name": "VENUS赛季181 TOP100"
+  },
+  "emb-pvp-season-182-top001": {
+    "description": "在VENUS对战第182赛季获得第1名",
+    "name": "VENUS第182赛季 No.1"
+  },
+  "emb-pvp-season-182-top010": {
+    "description": "在VENUS对战第182赛季获得前10名",
+    "name": "VENUS第182赛季 TOP10"
+  },
+  "emb-pvp-season-182-top100": {
+    "description": "在VENUS对战第182赛季获得前100名",
+    "name": "VENUS第182赛季 TOP100"
   },
   "emb-serial_cd-23-1206-moon-limited": {
     "description": "Question 初回生产限定盘特典"

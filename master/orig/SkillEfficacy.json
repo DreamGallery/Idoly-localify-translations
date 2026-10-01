@@ -411,6 +411,14 @@
     "description": "センターに5段階Aスキルスコア追加効果[40ビート]",
     "name": "センターにAスキルスコア追加効果"
   },
+  "ef-active_score_multiplier_add-5-target-character_type-1-2-22": {
+    "description": "スコアラータイプ2人に5段階Aスキルスコア追加効果[22ビート]",
+    "name": "スコアラータイプ2人にAスキルスコア追加効果"
+  },
+  "ef-active_score_multiplier_add-5-target-character_type-1-2-27": {
+    "description": "スコアラータイプ2人に5段階Aスキルスコア追加効果[27ビート]",
+    "name": "スコアラータイプ2人にAスキルスコア追加効果"
+  },
   "ef-active_score_multiplier_add-5-target-character_type-1-2-37": {
     "description": "スコアラータイプ2人に5段階Aスキルスコア追加効果[37ビート]",
     "name": "スコアラータイプ2人にAスキルスコア追加効果"
@@ -511,6 +519,14 @@
     "description": "全員に6段階Aスキルスコア追加効果[46ビート]",
     "name": "全員にAスキルスコア追加効果"
   },
+  "ef-active_score_multiplier_add-6-target-character_type-1-2-27": {
+    "description": "スコアラータイプ2人に6段階Aスキルスコア追加効果[27ビート]",
+    "name": "スコアラータイプ2人にAスキルスコア追加効果"
+  },
+  "ef-active_score_multiplier_add-6-target-character_type-1-2-32": {
+    "description": "スコアラータイプ2人に6段階Aスキルスコア追加効果[32ビート]",
+    "name": "スコアラータイプ2人にAスキルスコア追加効果"
+  },
   "ef-active_score_multiplier_add-6-target-position_attribute_vocal-3-35": {
     "description": "ボーカルレーン3人に6段階Aスキルスコア追加効果[35ビート]",
     "name": "ボーカルレーン3人にAスキルスコア追加効果"
@@ -542,6 +558,14 @@
   "ef-active_score_multiplier_add-7-target-all-36": {
     "description": "全員に7段階Aスキルスコア追加効果[36ビート]",
     "name": "全員にAスキルスコア追加効果"
+  },
+  "ef-active_score_multiplier_add-7-target-character_type-1-2-32": {
+    "description": "スコアラータイプ2人に7段階Aスキルスコア追加効果[32ビート]",
+    "name": "スコアラータイプ2人にAスキルスコア追加効果"
+  },
+  "ef-active_score_multiplier_add-7-target-character_type-1-2-38": {
+    "description": "スコアラータイプ2人に7段階Aスキルスコア追加効果[38ビート]",
+    "name": "スコアラータイプ2人にAスキルスコア追加効果"
   },
   "ef-active_score_multiplier_add-7-target-position_attribute_vocal-3-38": {
     "description": "ボーカルレーン3人に7段階Aスキルスコア追加効果[38ビート]",
@@ -1174,6 +1198,14 @@
   "ef-active_skill_score_up-3-target-vocal-3-33": {
     "description": "ボーカルタイプ3人に3段階Aスキルスコア上昇効果[33ビート]",
     "name": "ボーカルタイプ3人にAスキルスコア上昇効果"
+  },
+  "ef-active_skill_score_up-4-target-all-18": {
+    "description": "全員に4段階Aスキルスコア上昇効果[18ビート]",
+    "name": "全員にAスキルスコア上昇効果"
+  },
+  "ef-active_skill_score_up-4-target-all-20": {
+    "description": "全員に4段階Aスキルスコア上昇効果[20ビート]",
+    "name": "全員にAスキルスコア上昇効果"
   },
   "ef-active_skill_score_up-4-target-all-23": {
     "description": "全員に4段階Aスキルスコア上昇効果[23ビート]",
@@ -1813,6 +1845,10 @@
   },
   "ef-active_skill_score_up-5-target-character_type-1-2-24": {
     "description": "スコアラータイプ2人に5段階Aスキルスコア上昇効果[24ビート]",
+    "name": "スコアラータイプ2人にAスキルスコア上昇効果"
+  },
+  "ef-active_skill_score_up-5-target-character_type-1-2-25": {
+    "description": "スコアラータイプ2人に5段階Aスキルスコア上昇効果[25ビート]",
     "name": "スコアラータイプ2人にAスキルスコア上昇効果"
   },
   "ef-active_skill_score_up-5-target-character_type-1-2-26": {
@@ -2731,6 +2767,10 @@
     "description": "全員に7段階Aスキルスコア上昇効果[23ビート]",
     "name": "全員にAスキルスコア上昇効果"
   },
+  "ef-active_skill_score_up-7-target-all-25": {
+    "description": "全員に7段階Aスキルスコア上昇効果[25ビート]",
+    "name": "全員にAスキルスコア上昇効果"
+  },
   "ef-active_skill_score_up-7-target-all-26": {
     "description": "全員に7段階Aスキルスコア上昇効果[26ビート]",
     "name": "全員にAスキルスコア上昇効果"
@@ -3159,6 +3199,10 @@
     "description": "全員に8段階Aスキルスコア上昇効果[34ビート]",
     "name": "全員にAスキルスコア上昇効果"
   },
+  "ef-active_skill_score_up-8-target-all-35": {
+    "description": "全員に8段階Aスキルスコア上昇効果[35ビート]",
+    "name": "全員にAスキルスコア上昇効果"
+  },
   "ef-active_skill_score_up-8-target-all-36": {
     "description": "全員に8段階Aスキルスコア上昇効果[36ビート]",
     "name": "全員にAスキルスコア上昇効果"
@@ -3167,12 +3211,20 @@
     "description": "全員に8段階Aスキルスコア上昇効果[38ビート]",
     "name": "全員にAスキルスコア上昇効果"
   },
+  "ef-active_skill_score_up-8-target-all-40": {
+    "description": "全員に8段階Aスキルスコア上昇効果[40ビート]",
+    "name": "全員にAスキルスコア上昇効果"
+  },
   "ef-active_skill_score_up-8-target-all-41": {
     "description": "全員に8段階Aスキルスコア上昇効果[41ビート]",
     "name": "全員にAスキルスコア上昇効果"
   },
   "ef-active_skill_score_up-8-target-all-44": {
     "description": "全員に8段階Aスキルスコア上昇効果[44ビート]",
+    "name": "全員にAスキルスコア上昇効果"
+  },
+  "ef-active_skill_score_up-8-target-all-46": {
+    "description": "全員に8段階Aスキルスコア上昇効果[46ビート]",
     "name": "全員にAスキルスコア上昇効果"
   },
   "ef-active_skill_score_up-8-target-all-47": {
@@ -3943,6 +3995,10 @@
     "description": "スコアラータイプ2人にクリティカル係数上昇超化効果[19ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇超化効果"
   },
+  "ef-add_effect_value_critical_bonus_permil_up-10-target-character_type-1-2-20": {
+    "description": "スコアラータイプ2人にクリティカル係数上昇超化効果[20ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇超化効果"
+  },
   "ef-add_effect_value_critical_bonus_permil_up-10-target-character_type-1-2-21": {
     "description": "スコアラータイプ2人にクリティカル係数上昇超化効果[21ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇超化効果"
@@ -3963,6 +4019,10 @@
     "description": "スコアラータイプ2人にクリティカル係数上昇超化効果[27ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇超化効果"
   },
+  "ef-add_effect_value_critical_bonus_permil_up-10-target-character_type-1-2-28": {
+    "description": "スコアラータイプ2人にクリティカル係数上昇超化効果[28ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇超化効果"
+  },
   "ef-add_effect_value_critical_bonus_permil_up-10-target-character_type-1-2-29": {
     "description": "スコアラータイプ2人にクリティカル係数上昇超化効果[29ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇超化効果"
@@ -3973,6 +4033,10 @@
   },
   "ef-add_effect_value_critical_bonus_permil_up-10-target-character_type-1-2-31": {
     "description": "スコアラータイプ2人にクリティカル係数上昇超化効果[31ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇超化効果"
+  },
+  "ef-add_effect_value_critical_bonus_permil_up-10-target-character_type-1-2-32": {
+    "description": "スコアラータイプ2人にクリティカル係数上昇超化効果[32ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇超化効果"
   },
   "ef-add_effect_value_critical_bonus_permil_up-10-target-character_type-1-2-33": {
@@ -4009,6 +4073,10 @@
   },
   "ef-add_effect_value_critical_bonus_permil_up-10-target-character_type-1-2-45": {
     "description": "スコアラータイプ2人にクリティカル係数上昇超化効果[45ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇超化効果"
+  },
+  "ef-add_effect_value_critical_bonus_permil_up-10-target-character_type-1-2-46": {
+    "description": "スコアラータイプ2人にクリティカル係数上昇超化効果[46ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇超化効果"
   },
   "ef-add_effect_value_critical_bonus_permil_up-10-target-character_type-1-2-47": {
@@ -4483,16 +4551,32 @@
     "description": "自身にテンションUP超化効果[21ビート]",
     "name": "自身にテンションUP超化"
   },
+  "ef-add_effect_value_tension_up-10-target-self-26": {
+    "description": "自身にテンションUP超化効果[26ビート]",
+    "name": "自身にテンションUP超化"
+  },
   "ef-add_effect_value_tension_up-10-target-self-27": {
     "description": "自身にテンションUP超化効果[27ビート]",
+    "name": "自身にテンションUP超化"
+  },
+  "ef-add_effect_value_tension_up-10-target-self-31": {
+    "description": "自身にテンションUP超化効果[31ビート]",
     "name": "自身にテンションUP超化"
   },
   "ef-add_effect_value_tension_up-10-target-self-33": {
     "description": "自身にテンションUP超化効果[33ビート]",
     "name": "自身にテンションUP超化"
   },
+  "ef-add_effect_value_tension_up-10-target-self-36": {
+    "description": "自身にテンションUP超化効果[36ビート]",
+    "name": "自身にテンションUP超化"
+  },
   "ef-add_effect_value_tension_up-10-target-self-39": {
     "description": "自身にテンションUP超化効果[39ビート]",
+    "name": "自身にテンションUP超化"
+  },
+  "ef-add_effect_value_tension_up-10-target-self-41": {
+    "description": "自身にテンションUP超化効果[41ビート]",
     "name": "自身にテンションUP超化"
   },
   "ef-add_effect_value_tension_up-10-target-self-46": {
@@ -8999,6 +9083,10 @@
     "description": "自身に7段階コンボスコア上昇効果[39ビート]",
     "name": "自身にコンボスコア上昇効果"
   },
+  "ef-combo_score_up-7-target-self-40": {
+    "description": "自身に7段階コンボスコア上昇効果[40ビート]",
+    "name": "自身にコンボスコア上昇効果"
+  },
   "ef-combo_score_up-7-target-self-43": {
     "description": "自身に7段階コンボスコア上昇効果[43ビート]",
     "name": "自身にコンボスコア上昇効果"
@@ -9127,6 +9215,10 @@
     "description": "自身に8段階コンボスコア上昇効果[49ビート]",
     "name": "自身にコンボスコア上昇効果"
   },
+  "ef-combo_score_up-8-target-self-50": {
+    "description": "自身に8段階コンボスコア上昇効果[50ビート]",
+    "name": "自身にコンボスコア上昇効果"
+  },
   "ef-combo_score_up-8-target-vocal-2-22": {
     "description": "ボーカルタイプ2人に8段階コンボスコア上昇効果[22ビート]",
     "name": "ボーカルタイプ2人にコンボスコア上昇効果"
@@ -9185,6 +9277,14 @@
   },
   "ef-combo_score_up-9-target-self-46": {
     "description": "自身に9段階コンボスコア上昇効果[46ビート]",
+    "name": "自身にコンボスコア上昇効果"
+  },
+  "ef-combo_score_up-9-target-self-50": {
+    "description": "自身に9段階コンボスコア上昇効果[50ビート]",
+    "name": "自身にコンボスコア上昇効果"
+  },
+  "ef-combo_score_up-9-target-self-55": {
+    "description": "自身に9段階コンボスコア上昇効果[55ビート]",
     "name": "自身にコンボスコア上昇効果"
   },
   "ef-combo_score_up-9-target-vocal-2-27": {
@@ -9406,6 +9506,10 @@
   "ef-cool_time_reduction-11-target-character_type-1-1": {
     "description": "スコアラータイプ1人のCTを11減少",
     "name": "スコアラータイプ1人のCTを減少"
+  },
+  "ef-cool_time_reduction-11-target-character_type-1-2": {
+    "description": "スコアラータイプ2人のCTを11減少",
+    "name": "スコアラータイプ2人のCTを減少"
   },
   "ef-cool_time_reduction-11-target-character_type-2-1": {
     "description": "バッファータイプ1人のCTを11減少",
@@ -10447,8 +10551,20 @@
     "description": "スコアラータイプ2人に2段階クリティカル係数上昇効果[18ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果"
   },
+  "ef-critical_bonus_permil_up-2-target-character_type-1-2-27": {
+    "description": "スコアラータイプ2人に2段階クリティカル係数上昇効果[27ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果"
+  },
   "ef-critical_bonus_permil_up-2-target-character_type-1-2-30": {
     "description": "スコアラータイプ2人に2段階クリティカル係数上昇効果[30ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果"
+  },
+  "ef-critical_bonus_permil_up-2-target-character_type-1-2-31": {
+    "description": "スコアラータイプ2人に2段階クリティカル係数上昇効果[31ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果"
+  },
+  "ef-critical_bonus_permil_up-2-target-character_type-1-2-34": {
+    "description": "スコアラータイプ2人に2段階クリティカル係数上昇効果[34ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果"
   },
   "ef-critical_bonus_permil_up-2-target-character_type-1-2-35": {
@@ -10615,8 +10731,16 @@
     "description": "スコアラータイプ2人に3段階クリティカル係数上昇効果[30ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果"
   },
+  "ef-critical_bonus_permil_up-3-target-character_type-1-2-34": {
+    "description": "スコアラータイプ2人に3段階クリティカル係数上昇効果[34ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果"
+  },
   "ef-critical_bonus_permil_up-3-target-character_type-1-2-35": {
     "description": "スコアラータイプ2人に3段階クリティカル係数上昇効果[35ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果"
+  },
+  "ef-critical_bonus_permil_up-3-target-character_type-1-2-37": {
+    "description": "スコアラータイプ2人に3段階クリティカル係数上昇効果[37ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果"
   },
   "ef-critical_bonus_permil_up-3-target-character_type-1-2-40": {
@@ -10903,6 +11027,10 @@
     "description": "スコアラータイプ2人に4段階クリティカル係数上昇効果[19ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果"
   },
+  "ef-critical_bonus_permil_up-4-target-character_type-1-2-22": {
+    "description": "スコアラータイプ2人に4段階クリティカル係数上昇効果[22ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果"
+  },
   "ef-critical_bonus_permil_up-4-target-character_type-1-2-23": {
     "description": "スコアラータイプ2人に4段階クリティカル係数上昇効果[23ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果"
@@ -10929,6 +11057,10 @@
   },
   "ef-critical_bonus_permil_up-4-target-character_type-1-2-30": {
     "description": "スコアラータイプ2人に4段階クリティカル係数上昇効果[30ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果"
+  },
+  "ef-critical_bonus_permil_up-4-target-character_type-1-2-31": {
+    "description": "スコアラータイプ2人に4段階クリティカル係数上昇効果[31ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果"
   },
   "ef-critical_bonus_permil_up-4-target-character_type-1-2-33": {
@@ -11319,6 +11451,10 @@
     "description": "スコアラータイプ2人に5段階クリティカル係数上昇効果[30ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果"
   },
+  "ef-critical_bonus_permil_up-5-target-character_type-1-2-31": {
+    "description": "スコアラータイプ2人に5段階クリティカル係数上昇効果[31ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果"
+  },
   "ef-critical_bonus_permil_up-5-target-character_type-1-2-33": {
     "description": "スコアラータイプ2人に5段階クリティカル係数上昇効果[33ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果"
@@ -11341,6 +11477,10 @@
   },
   "ef-critical_bonus_permil_up-5-target-character_type-1-2-39": {
     "description": "スコアラータイプ2人に5段階クリティカル係数上昇効果[39ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果"
+  },
+  "ef-critical_bonus_permil_up-5-target-character_type-1-2-41": {
+    "description": "スコアラータイプ2人に5段階クリティカル係数上昇効果[41ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果"
   },
   "ef-critical_bonus_permil_up-5-target-character_type-1-2-42": {
@@ -12185,6 +12325,10 @@
   },
   "ef-critical_bonus_permil_up-7-target-character_type-1-2-25": {
     "description": "スコアラータイプ2人に7段階クリティカル係数上昇効果[25ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果"
+  },
+  "ef-critical_bonus_permil_up-7-target-character_type-1-2-26": {
+    "description": "スコアラータイプ2人に7段階クリティカル係数上昇効果[26ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果"
   },
   "ef-critical_bonus_permil_up-7-target-character_type-1-2-27": {
@@ -15895,8 +16039,16 @@
     "description": "スコアラータイプ2人に9段階クリティカル率上昇効果[28ビート]",
     "name": "スコアラータイプ2人にクリティカル率上昇効果"
   },
+  "ef-critical_rate_up-9-target-character_type-1-2-43": {
+    "description": "スコアラータイプ2人に9段階クリティカル率上昇効果[43ビート]",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果"
+  },
   "ef-critical_rate_up-9-target-character_type-1-2-45": {
     "description": "スコアラータイプ2人に9段階クリティカル率上昇効果[45ビート]",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果"
+  },
+  "ef-critical_rate_up-9-target-character_type-1-2-55": {
+    "description": "スコアラータイプ2人に9段階クリティカル率上昇効果[55ビート]",
     "name": "スコアラータイプ2人にクリティカル率上昇効果"
   },
   "ef-critical_rate_up-9-target-dance-2-45": {
@@ -16815,6 +16967,10 @@
     "description": "全員に5段階ダンス低下効果[48ビート]",
     "name": "全員にダンス低下効果"
   },
+  "ef-dance_down-5-target-opponent_dance-2-21": {
+    "description": "[ライブバトルのみ]相手のダンスタイプ2人に5段階ダンス低下効果[21ビート]",
+    "name": "相手のダンスタイプ2人にダンス低下効果"
+  },
   "ef-dance_down-5-target-opponent_dance-2-25": {
     "description": "[ライブバトルのみ]相手のダンスタイプ2人に5段階ダンス低下効果[25ビート]",
     "name": "相手のダンスタイプ2人にダンス低下効果"
@@ -16982,6 +17138,18 @@
   "ef-dance_down-6-target-opponent_dance-1-36": {
     "description": "[ライブバトルのみ]相手のダンスタイプ1人に6段階ダンス低下効果[36ビート]",
     "name": "相手のダンスタイプ1人にダンス低下効果"
+  },
+  "ef-dance_down-6-target-opponent_dance-2-29": {
+    "description": "[ライブバトルのみ]相手のダンスタイプ2人に6段階ダンス低下効果[29ビート]",
+    "name": "相手のダンスタイプ2人にダンス低下効果"
+  },
+  "ef-dance_down-6-target-opponent_dance-2-33": {
+    "description": "[ライブバトルのみ]相手のダンスタイプ2人に6段階ダンス低下効果[33ビート]",
+    "name": "相手のダンスタイプ2人にダンス低下効果"
+  },
+  "ef-dance_down-6-target-opponent_dance-2-37": {
+    "description": "[ライブバトルのみ]相手のダンスタイプ2人に6段階ダンス低下効果[37ビート]",
+    "name": "相手のダンスタイプ2人にダンス低下効果"
   },
   "ef-dance_down-6-target-opponent_position_attribute_dance-2-32": {
     "description": "[ライブバトルのみ]相手のダンスレーン2人に6段階ダンス低下効果[32ビート]",
@@ -18299,6 +18467,14 @@
     "description": "ダンスタイプ1人に5段階ダンス上昇効果[43ビート]",
     "name": "ダンスタイプ1人にダンス上昇効果"
   },
+  "ef-dance_up-5-target-dance-2-18": {
+    "description": "ダンスタイプ2人に5段階ダンス上昇効果[18ビート]",
+    "name": "ダンスタイプ2人にダンス上昇効果"
+  },
+  "ef-dance_up-5-target-dance-2-22": {
+    "description": "ダンスタイプ2人に5段階ダンス上昇効果[22ビート]",
+    "name": "ダンスタイプ2人にダンス上昇効果"
+  },
   "ef-dance_up-5-target-dance-2-24": {
     "description": "ダンスタイプ2人に5段階ダンス上昇効果[24ビート]",
     "name": "ダンスタイプ2人にダンス上昇効果"
@@ -18763,6 +18939,10 @@
     "description": "ダンスタイプ2人に6段階ダンス上昇効果[31ビート]",
     "name": "ダンスタイプ2人にダンス上昇効果"
   },
+  "ef-dance_up-6-target-dance-2-32": {
+    "description": "ダンスタイプ2人に6段階ダンス上昇効果[32ビート]",
+    "name": "ダンスタイプ2人にダンス上昇効果"
+  },
   "ef-dance_up-6-target-dance-2-33": {
     "description": "ダンスタイプ2人に6段階ダンス上昇効果[33ビート]",
     "name": "ダンスタイプ2人にダンス上昇効果"
@@ -18773,6 +18953,10 @@
   },
   "ef-dance_up-6-target-dance-2-36": {
     "description": "ダンスタイプ2人に6段階ダンス上昇効果[36ビート]",
+    "name": "ダンスタイプ2人にダンス上昇効果"
+  },
+  "ef-dance_up-6-target-dance-2-37": {
+    "description": "ダンスタイプ2人に6段階ダンス上昇効果[37ビート]",
     "name": "ダンスタイプ2人にダンス上昇効果"
   },
   "ef-dance_up-6-target-dance-2-38": {
@@ -19655,8 +19839,16 @@
     "description": "自身に8段階ダンス上昇効果[20ビート]",
     "name": "自身にダンス上昇効果"
   },
+  "ef-dance_up-8-target-self-21": {
+    "description": "自身に8段階ダンス上昇効果[21ビート]",
+    "name": "自身にダンス上昇効果"
+  },
   "ef-dance_up-8-target-self-25": {
     "description": "自身に8段階ダンス上昇効果[25ビート]",
+    "name": "自身にダンス上昇効果"
+  },
+  "ef-dance_up-8-target-self-29": {
+    "description": "自身に8段階ダンス上昇効果[29ビート]",
     "name": "自身にダンス上昇効果"
   },
   "ef-dance_up-8-target-self-30": {
@@ -19839,12 +20031,24 @@
     "description": "自身に9段階ダンス上昇効果[25ビート]",
     "name": "自身にダンス上昇効果"
   },
+  "ef-dance_up-9-target-self-29": {
+    "description": "自身に9段階ダンス上昇効果[29ビート]",
+    "name": "自身にダンス上昇効果"
+  },
   "ef-dance_up-9-target-self-30": {
     "description": "自身に9段階ダンス上昇効果[30ビート]",
     "name": "自身にダンス上昇効果"
   },
+  "ef-dance_up-9-target-self-33": {
+    "description": "自身に9段階ダンス上昇効果[33ビート]",
+    "name": "自身にダンス上昇効果"
+  },
   "ef-dance_up-9-target-self-35": {
     "description": "自身に9段階ダンス上昇効果[35ビート]",
+    "name": "自身にダンス上昇効果"
+  },
+  "ef-dance_up-9-target-self-37": {
+    "description": "自身に9段階ダンス上昇効果[37ビート]",
     "name": "自身にダンス上昇効果"
   },
   "ef-dance_up-9-target-self-40": {
@@ -21667,6 +21871,10 @@
     "description": "ダンスタイプ2人に10段階ダンス上昇上限解放効果[17ビート]",
     "name": "ダンスタイプ2人にダンス上昇上限解放"
   },
+  "ef-limit_break_dance_up-10-target-dance-2-18": {
+    "description": "ダンスタイプ2人に10段階ダンス上昇上限解放効果[18ビート]",
+    "name": "ダンスタイプ2人にダンス上昇上限解放"
+  },
   "ef-limit_break_dance_up-10-target-dance-2-19": {
     "description": "ダンスタイプ2人に10段階ダンス上昇上限解放効果[19ビート]",
     "name": "ダンスタイプ2人にダンス上昇上限解放"
@@ -21681,6 +21889,10 @@
   },
   "ef-limit_break_dance_up-10-target-dance-2-32": {
     "description": "ダンスタイプ2人に10段階ダンス上昇上限解放効果[32ビート]",
+    "name": "ダンスタイプ2人にダンス上昇上限解放"
+  },
+  "ef-limit_break_dance_up-10-target-dance-2-37": {
+    "description": "ダンスタイプ2人に10段階ダンス上昇上限解放効果[37ビート]",
     "name": "ダンスタイプ2人にダンス上昇上限解放"
   },
   "ef-limit_break_dance_up-10-target-dance-2-38": {
@@ -22227,6 +22439,10 @@
     "description": "自身に10段階ビジュアル上昇上限解放効果[22ビート]",
     "name": "自身にビジュアル上昇上限解放"
   },
+  "ef-limit_break_visual_up-10-target-self-23": {
+    "description": "自身に10段階ビジュアル上昇上限解放効果[23ビート]",
+    "name": "自身にビジュアル上昇上限解放"
+  },
   "ef-limit_break_visual_up-10-target-self-25": {
     "description": "自身に10段階ビジュアル上昇上限解放効果[25ビート]",
     "name": "自身にビジュアル上昇上限解放"
@@ -22239,12 +22455,24 @@
     "description": "自身に10段階ビジュアル上昇上限解放効果[31ビート]",
     "name": "自身にビジュアル上昇上限解放"
   },
+  "ef-limit_break_visual_up-10-target-self-33": {
+    "description": "自身に10段階ビジュアル上昇上限解放効果[33ビート]",
+    "name": "自身にビジュアル上昇上限解放"
+  },
   "ef-limit_break_visual_up-10-target-self-35": {
     "description": "自身に10段階ビジュアル上昇上限解放効果[35ビート]",
     "name": "自身にビジュアル上昇上限解放"
   },
+  "ef-limit_break_visual_up-10-target-self-38": {
+    "description": "自身に10段階ビジュアル上昇上限解放効果[38ビート]",
+    "name": "自身にビジュアル上昇上限解放"
+  },
   "ef-limit_break_visual_up-10-target-self-39": {
     "description": "自身に10段階ビジュアル上昇上限解放効果[39ビート]",
+    "name": "自身にビジュアル上昇上限解放"
+  },
+  "ef-limit_break_visual_up-10-target-self-43": {
+    "description": "自身に10段階ビジュアル上昇上限解放効果[43ビート]",
     "name": "自身にビジュアル上昇上限解放"
   },
   "ef-limit_break_visual_up-10-target-visual-2-15": {
@@ -22335,6 +22563,14 @@
     "description": "ボーカルタイプ2人に10段階ボーカルブースト上限解放効果[32ビート]",
     "name": "ボーカルタイプ2人にボーカルブースト上限解放"
   },
+  "ef-limit_break_vocal_up-10-target-self-20": {
+    "description": "自身に10段階ボーカル上昇上限解放効果[20ビート]",
+    "name": "自身にボーカル上昇上限解放"
+  },
+  "ef-limit_break_vocal_up-10-target-self-24": {
+    "description": "自身に10段階ボーカル上昇上限解放効果[24ビート]",
+    "name": "自身にボーカル上昇上限解放"
+  },
   "ef-limit_break_vocal_up-10-target-self-25": {
     "description": "自身に10段階ボーカル上昇上限解放効果[25ビート]",
     "name": "自身にボーカル上昇上限解放"
@@ -22361,6 +22597,10 @@
   },
   "ef-limit_break_vocal_up-10-target-self-35": {
     "description": "自身に10段階ボーカル上昇上限解放効果[35ビート]",
+    "name": "自身にボーカル上昇上限解放"
+  },
+  "ef-limit_break_vocal_up-10-target-self-37": {
+    "description": "自身に10段階ボーカル上昇上限解放効果[37ビート]",
     "name": "自身にボーカル上昇上限解放"
   },
   "ef-limit_break_vocal_up-10-target-self-38": {
@@ -22666,6 +22906,30 @@
   "ef-passive_skill_impossible-target-opponent_character_type-1-2-41": {
     "description": "[ライブバトルのみ]相手のスコアラータイプ2人のPスキルを封印[41ビート]",
     "name": "相手のスコアラータイプ2人のPスキルを封印"
+  },
+  "ef-passive_skill_impossible-target-opponent_character_type-2-2-20": {
+    "description": "[ライブバトルのみ]相手のバッファータイプ2人のPスキルを封印[20ビート]",
+    "name": "相手のバッファータイプ2人のPスキルを封印"
+  },
+  "ef-passive_skill_impossible-target-opponent_character_type-2-2-24": {
+    "description": "[ライブバトルのみ]相手のバッファータイプ2人のPスキルを封印[24ビート]",
+    "name": "相手のバッファータイプ2人のPスキルを封印"
+  },
+  "ef-passive_skill_impossible-target-opponent_character_type-2-2-28": {
+    "description": "[ライブバトルのみ]相手のバッファータイプ2人のPスキルを封印[28ビート]",
+    "name": "相手のバッファータイプ2人のPスキルを封印"
+  },
+  "ef-passive_skill_impossible-target-opponent_character_type-2-2-32": {
+    "description": "[ライブバトルのみ]相手のバッファータイプ2人のPスキルを封印[32ビート]",
+    "name": "相手のバッファータイプ2人のPスキルを封印"
+  },
+  "ef-passive_skill_impossible-target-opponent_character_type-2-2-36": {
+    "description": "[ライブバトルのみ]相手のバッファータイプ2人のPスキルを封印[36ビート]",
+    "name": "相手のバッファータイプ2人のPスキルを封印"
+  },
+  "ef-passive_skill_impossible-target-opponent_character_type-2-2-40": {
+    "description": "[ライブバトルのみ]相手のバッファータイプ2人のPスキルを封印[40ビート]",
+    "name": "相手のバッファータイプ2人のPスキルを封印"
   },
   "ef-passive_skill_impossible-target-opponent_vocal-2-27": {
     "description": "[ライブバトルのみ]相手のボーカルタイプ2人のPスキルを封印[27ビート]",
@@ -26419,6 +26683,10 @@
     "description": "1000%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
     "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇"
   },
+  "ef-score_get_by_status_effect_type_grade-vocal_up-10100-chart_dependence": {
+    "description": "1010%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
+    "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇"
+  },
   "ef-score_get_by_status_effect_type_grade-vocal_up-10200-chart_dependence": {
     "description": "1020%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
     "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇"
@@ -26441,6 +26709,10 @@
   },
   "ef-score_get_by_status_effect_type_grade-vocal_up-11400-chart_dependence": {
     "description": "1140%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
+    "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇"
+  },
+  "ef-score_get_by_status_effect_type_grade-vocal_up-11600-chart_dependence": {
+    "description": "1160%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
     "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇"
   },
   "ef-score_get_by_status_effect_type_grade-vocal_up-11900-chart_dependence": {
@@ -26495,6 +26767,10 @@
     "description": "145%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
     "name": "スコア獲得-ボーカルアップ状態の段階数が多い程効果上昇"
   },
+  "ef-score_get_by_status_effect_type_grade-vocal_up-14600-chart_dependence": {
+    "description": "1460%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
+    "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇"
+  },
   "ef-score_get_by_status_effect_type_grade-vocal_up-14700-chart_dependence": {
     "description": "1470%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
     "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇"
@@ -26513,6 +26789,14 @@
   },
   "ef-score_get_by_status_effect_type_grade-vocal_up-15700-chart_dependence": {
     "description": "1570%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
+    "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇"
+  },
+  "ef-score_get_by_status_effect_type_grade-vocal_up-16100-chart_dependence": {
+    "description": "1610%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
+    "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇"
+  },
+  "ef-score_get_by_status_effect_type_grade-vocal_up-17600-chart_dependence": {
+    "description": "1760%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
     "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇"
   },
   "ef-score_get_by_status_effect_type_grade-vocal_up-2400-chart_dependence": {
@@ -26749,6 +27033,10 @@
   },
   "ef-score_get_by_strength_effect_count-15500-chart_dependence": {
     "description": "1550%のスコア獲得、強化効果が多い程効果上昇",
+    "name": "スコア獲得-強化効果が多い程効果上昇"
+  },
+  "ef-score_get_by_strength_effect_count-15600-chart_dependence": {
+    "description": "1560%のスコア獲得、強化効果が多い程効果上昇",
     "name": "スコア獲得-強化効果が多い程効果上昇"
   },
   "ef-score_get_by_strength_effect_count-16100-chart_dependence": {
@@ -31407,6 +31695,10 @@
     "description": "全員に3段階スキル成功率上昇効果[30ビート]",
     "name": "全員にスキル成功率上昇効果"
   },
+  "ef-skill_success_rate_up-3-target-all-31": {
+    "description": "全員に3段階スキル成功率上昇効果[31ビート]",
+    "name": "全員にスキル成功率上昇効果"
+  },
   "ef-skill_success_rate_up-3-target-all-34": {
     "description": "全員に3段階スキル成功率上昇効果[34ビート]",
     "name": "全員にスキル成功率上昇効果"
@@ -31626,6 +31918,10 @@
   "ef-skill_success_rate_up-3-target-position_attribute_visual-2-32": {
     "description": "ビジュアルレーン2人に3段階スキル成功率上昇効果[32ビート]",
     "name": "ビジュアルレーン2人にスキル成功率上昇効果"
+  },
+  "ef-skill_success_rate_up-3-target-self-20": {
+    "description": "自身に3段階スキル成功率上昇効果[20ビート]",
+    "name": "自身にスキル成功率上昇効果"
   },
   "ef-skill_success_rate_up-3-target-self-21": {
     "description": "自身に3段階スキル成功率上昇効果[21ビート]",
@@ -31863,12 +32159,20 @@
     "description": "全員に4段階スキル成功率上昇効果[35ビート]",
     "name": "全員にスキル成功率上昇効果"
   },
+  "ef-skill_success_rate_up-4-target-all-37": {
+    "description": "全員に4段階スキル成功率上昇効果[37ビート]",
+    "name": "全員にスキル成功率上昇効果"
+  },
   "ef-skill_success_rate_up-4-target-all-38": {
     "description": "全員に4段階スキル成功率上昇効果[38ビート]",
     "name": "全員にスキル成功率上昇効果"
   },
   "ef-skill_success_rate_up-4-target-all-39": {
     "description": "全員に4段階スキル成功率上昇効果[39ビート]",
+    "name": "全員にスキル成功率上昇効果"
+  },
+  "ef-skill_success_rate_up-4-target-all-40": {
+    "description": "全員に4段階スキル成功率上昇効果[40ビート]",
     "name": "全員にスキル成功率上昇効果"
   },
   "ef-skill_success_rate_up-4-target-all-43": {
@@ -33659,6 +33963,10 @@
     "description": "自身に4段階SPスキルスコア追加効果",
     "name": "自身にSPスキルスコア追加効果"
   },
+  "ef-special_score_multiplier_add-4-target-trigger-999": {
+    "description": "対象1人に4段階SPスキルスコア追加効果",
+    "name": "対象にSPスキルスコア追加効果"
+  },
   "ef-special_score_multiplier_add-4-target-visual-2-999": {
     "description": "ビジュアルタイプ2人に4段階SPスキルスコア追加効果",
     "name": "ビジュアルタイプ2人にSPスキルスコア追加効果"
@@ -33667,6 +33975,10 @@
     "description": "スコアラータイプ2人に5段階SPスキルスコア追加効果",
     "name": "スコアラータイプ2人にSPスキルスコア追加効果"
   },
+  "ef-special_score_multiplier_add-5-target-trigger-999": {
+    "description": "対象1人に5段階SPスキルスコア追加効果",
+    "name": "対象にSPスキルスコア追加効果"
+  },
   "ef-special_score_multiplier_add-5-target-visual-2-999": {
     "description": "ビジュアルタイプ2人に5段階SPスキルスコア追加効果",
     "name": "ビジュアルタイプ2人にSPスキルスコア追加効果"
@@ -33674,6 +33986,10 @@
   "ef-special_score_multiplier_add-6-target-character_type-1-2-999": {
     "description": "スコアラータイプ2人に6段階SPスキルスコア追加効果",
     "name": "スコアラータイプ2人にSPスキルスコア追加効果"
+  },
+  "ef-special_score_multiplier_add-6-target-trigger-999": {
+    "description": "対象1人に6段階SPスキルスコア追加効果",
+    "name": "対象にSPスキルスコア追加効果"
   },
   "ef-special_score_multiplier_add-7-target-character_type-1-2-999": {
     "description": "スコアラータイプ2人に7段階SPスキルスコア追加効果",
@@ -36859,13 +37175,25 @@
     "description": "ダンスタイプ1人の強化効果をSPスキル前に移動",
     "name": "ダンスタイプ1人の強化効果をSPスキル前に移動"
   },
+  "ef-strength_effect_value_decrease-2-target-opponent_character_type-1-2": {
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人の強化効果を2段階低下",
+    "name": "相手のスコアラータイプ2人の強化効果を低下"
+  },
   "ef-strength_effect_value_decrease-2-target-opponent_vocal-2": {
     "description": "[ライブバトルのみ]相手のボーカルタイプ2人の強化効果を2段階低下",
     "name": "相手のボーカルタイプ2人の強化効果を低下"
   },
+  "ef-strength_effect_value_decrease-3-target-opponent_character_type-1-2": {
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人の強化効果を3段階低下",
+    "name": "相手のスコアラータイプ2人の強化効果を低下"
+  },
   "ef-strength_effect_value_decrease-3-target-opponent_vocal-2": {
     "description": "[ライブバトルのみ]相手のボーカルタイプ2人の強化効果を3段階低下",
     "name": "相手のボーカルタイプ2人の強化効果を低下"
+  },
+  "ef-strength_effect_value_decrease-4-target-opponent_character_type-1-2": {
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人の強化効果を4段階低下",
+    "name": "相手のスコアラータイプ2人の強化効果を低下"
   },
   "ef-strength_effect_value_increase-1-target-all": {
     "description": "全員の強化効果を1段階増強",
@@ -38195,6 +38523,10 @@
     "description": "ダンスが高い2人に5段階テンションUP効果[38ビート]",
     "name": "ダンスが高い2人にテンションUP効果"
   },
+  "ef-tension_up-5-target-self-23": {
+    "description": "自身に5段階テンションUP効果[23ビート]",
+    "name": "自身にテンションUP効果"
+  },
   "ef-tension_up-5-target-self-26": {
     "description": "自身に5段階テンションUP効果[26ビート]",
     "name": "自身にテンションUP効果"
@@ -38417,6 +38749,10 @@
   },
   "ef-tension_up-6-target-self-42": {
     "description": "自身に6段階テンションUP効果[42ビート]",
+    "name": "自身にテンションUP効果"
+  },
+  "ef-tension_up-6-target-self-43": {
+    "description": "自身に6段階テンションUP効果[43ビート]",
     "name": "自身にテンションUP効果"
   },
   "ef-tension_up-6-target-self-44": {
@@ -41186,6 +41522,10 @@
   "ef-visual_up-5-target-neighbor-90": {
     "description": "隣接するアイドルに5段階ビジュアル上昇効果[90ビート]",
     "name": "隣接するアイドルにビジュアル上昇効果"
+  },
+  "ef-visual_up-5-target-self-21": {
+    "description": "自身に5段階ビジュアル上昇効果[21ビート]",
+    "name": "自身にビジュアル上昇効果"
   },
   "ef-visual_up-5-target-self-22": {
     "description": "自身に5段階ビジュアル上昇効果[22ビート]",

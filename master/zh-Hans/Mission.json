@@ -879,6 +879,26 @@
     "name": "本次活动中生成GRADE A以上的舞台",
     "shortDescription": "本次活动中生成GRADE A以上的舞台"
   },
+  "event-dream-26-10-dream_area_generate_count": {
+    "longDescription": "本次活动中生成{threshold}次",
+    "name": "本次活动中生成{threshold}次",
+    "shortDescription": "本次活动中生成{threshold}次"
+  },
+  "event-dream-26-10-dream_quest_clear_count": {
+    "longDescription": "本次活动中完成{threshold}次演唱会",
+    "name": "本次活动中完成{threshold}次演唱会",
+    "shortDescription": "本次活动中完成{threshold}次演唱会"
+  },
+  "event-dream-26-10-dream_quest_clear_difficulty_level_achievement": {
+    "longDescription": "本次活动中完成难度Lv{threshold}以上",
+    "name": "本次活动中完成难度Lv{threshold}以上",
+    "shortDescription": "本次活动中完成难度Lv{threshold}以上"
+  },
+  "event-dream-26-10-dream_season_dream_max_grade_a": {
+    "longDescription": "本次活动中生成GRADE A以上的舞台",
+    "name": "本次活动中生成GRADE A以上的舞台",
+    "shortDescription": "本次活动中生成GRADE A以上的舞台"
+  },
   "event-love-23-0514-limited-mission_love-end_costume-sp": {
     "longDescription": "通关TRUE END吧。",
     "name": "通关TRUE END",
@@ -920,9 +940,9 @@
     "shortDescription": "【每日】拍摄一之濑怜{threshold}次"
   },
   "event-love-23-0514-normal-mission_lesson-boost_count": {
-    "longDescription": "使用1次恋爱技能跳过饮料吧。",
-    "name": "使用1次如果恋跳过饮料",
-    "shortDescription": "使用1次如果恋跳过饮料"
+    "longDescription": "使用1次若恋跳过饮料吧。",
+    "name": "使用1次若恋跳过饮料",
+    "shortDescription": "使用1次若恋跳过饮料"
   },
   "event-love-23-0514-normal-mission_login_count": {
     "longDescription": "完成{threshold}次登录任务吧。",
@@ -945,9 +965,9 @@
     "shortDescription": "通关TRUE结局\n【追加奖励】特别照片将发放至礼物"
   },
   "event-love-23-0514-normal-mission_love-level_count": {
-    "longDescription": "恋爱Lv达到{threshold}。",
-    "name": "如果恋达到Lv{threshold}",
-    "shortDescription": "如果恋达到Lv{threshold}"
+    "longDescription": "若恋Lv达到{threshold}。",
+    "name": "若恋达到Lv{threshold}",
+    "shortDescription": "若恋达到Lv{threshold}"
   },
   "event-love-23-0514-normal-mission_present_count": {
     "longDescription": "赠送{threshold}次礼物。",
@@ -995,9 +1015,9 @@
     "shortDescription": "游玩第8话"
   },
   "event-love-23-0514-normal-mission_story_first-play": {
-    "longDescription": "游玩《如果恋爱 怜篇》。",
-    "name": "初次游玩 如果恋 怜篇",
-    "shortDescription": "初次游玩 如果恋 怜篇"
+    "longDescription": "游玩《若恋 怜篇》。",
+    "name": "初次游玩 若恋 怜篇",
+    "shortDescription": "初次游玩 若恋 怜篇"
   },
   "event-love-23-1114-limited-mission_love-end_costume-sp": {
     "longDescription": "通关TRUE END吧。",
@@ -1040,9 +1060,9 @@
     "shortDescription": "【每日】拍摄伊吹渚{threshold}次"
   },
   "event-love-23-1114-normal-mission_lesson-boost_count": {
-    "longDescription": "使用1次恋爱技能跳过饮料吧。",
-    "name": "使用1次如果恋跳过饮料",
-    "shortDescription": "使用1次如果恋跳过饮料"
+    "longDescription": "使用1次若恋跳过饮料吧。",
+    "name": "使用1次若恋跳过饮料",
+    "shortDescription": "使用1次若恋跳过饮料"
   },
   "event-love-23-1114-normal-mission_login_count": {
     "longDescription": "完成{threshold}次登录任务吧。",
@@ -1065,9 +1085,9 @@
     "shortDescription": "通关TRUE结局\n【追加奖励】特别照片将发放至礼物"
   },
   "event-love-23-1114-normal-mission_love-level_count": {
-    "longDescription": "恋爱Lv达到{threshold}。",
-    "name": "如果恋达到Lv{threshold}",
-    "shortDescription": "如果恋达到Lv{threshold}"
+    "longDescription": "若恋Lv达到{threshold}。",
+    "name": "若恋达到Lv{threshold}",
+    "shortDescription": "若恋达到Lv{threshold}"
   },
   "event-love-23-1114-normal-mission_present_count": {
     "longDescription": "赠送{threshold}次礼物。",
@@ -1115,9 +1135,9 @@
     "shortDescription": "游玩第8话"
   },
   "event-love-23-1114-normal-mission_story_first-play": {
-    "longDescription": "游玩《如果恋爱 渚篇》。",
-    "name": "初次游玩 如果恋 渚篇",
-    "shortDescription": "初次游玩 如果恋 渚篇"
+    "longDescription": "游玩《若恋 渚篇》。",
+    "name": "初次游玩 若恋 渚篇",
+    "shortDescription": "初次游玩 若恋 渚篇"
   },
   "event-love-24-0517-limited-mission_love-end_costume-sp": {
     "longDescription": "通关TRUE END吧。",
@@ -1160,9 +1180,9 @@
     "shortDescription": "【每日】拍摄早坂芽衣{threshold}次"
   },
   "event-love-24-0517-normal-mission_lesson-boost_count": {
-    "longDescription": "使用1次恋爱技能跳过饮料吧。",
-    "name": "使用1次如果恋跳过饮料",
-    "shortDescription": "使用1次如果恋跳过饮料"
+    "longDescription": "使用1次若恋跳过饮料吧。",
+    "name": "使用1次若恋跳过饮料",
+    "shortDescription": "使用1次若恋跳过饮料"
   },
   "event-love-24-0517-normal-mission_login_count": {
     "longDescription": "完成{threshold}次登录任务吧。",
@@ -1185,9 +1205,9 @@
     "shortDescription": "通关TRUE结局\n【追加奖励】特别照片将发放至礼物"
   },
   "event-love-24-0517-normal-mission_love-level_count": {
-    "longDescription": "恋爱Lv达到{threshold}。",
-    "name": "如果恋达到Lv{threshold}",
-    "shortDescription": "如果恋达到Lv{threshold}"
+    "longDescription": "若恋Lv达到{threshold}。",
+    "name": "若恋达到Lv{threshold}",
+    "shortDescription": "若恋达到Lv{threshold}"
   },
   "event-love-24-0517-normal-mission_present_count": {
     "longDescription": "赠送{threshold}次礼物。",
@@ -1235,9 +1255,9 @@
     "shortDescription": "游玩第8话"
   },
   "event-love-24-0517-normal-mission_story_first-play": {
-    "longDescription": "游玩《如果恋爱 芽衣篇》。",
-    "name": "初次游玩 如果恋 芽衣篇",
-    "shortDescription": "初次游玩 如果恋 芽衣篇"
+    "longDescription": "游玩《若恋 芽衣篇》。",
+    "name": "初次游玩 若恋 芽衣篇",
+    "shortDescription": "初次游玩 若恋 芽衣篇"
   },
   "event-love-24-1114-limited-mission_love-end_costume-sp": {
     "longDescription": "通关TRUE END吧。",
@@ -1280,9 +1300,9 @@
     "shortDescription": "【每日】为铃村优拍摄{threshold}次"
   },
   "event-love-24-1114-normal-mission_lesson-boost_count": {
-    "longDescription": "使用1次恋爱技能跳过饮料吧。",
-    "name": "使用1次如果恋跳过饮料",
-    "shortDescription": "使用1次如果恋跳过饮料"
+    "longDescription": "使用1次若恋跳过饮料吧。",
+    "name": "使用1次若恋跳过饮料",
+    "shortDescription": "使用1次若恋跳过饮料"
   },
   "event-love-24-1114-normal-mission_login_count": {
     "longDescription": "完成{threshold}次登录任务吧。",
@@ -1305,9 +1325,9 @@
     "shortDescription": "通关TRUE结局\n【追加奖励】特别照片将发放至礼物"
   },
   "event-love-24-1114-normal-mission_love-level_count": {
-    "longDescription": "恋爱Lv达到{threshold}。",
-    "name": "如果恋达到Lv{threshold}",
-    "shortDescription": "如果恋达到Lv{threshold}"
+    "longDescription": "若恋Lv达到{threshold}。",
+    "name": "若恋达到Lv{threshold}",
+    "shortDescription": "若恋达到Lv{threshold}"
   },
   "event-love-24-1114-normal-mission_present_count": {
     "longDescription": "赠送{threshold}次礼物。",
@@ -1355,9 +1375,9 @@
     "shortDescription": "游玩第8话"
   },
   "event-love-24-1114-normal-mission_story_first-play": {
-    "longDescription": "游玩《如果恋爱 优篇》。",
-    "name": "初次游玩 如果恋 优篇",
-    "shortDescription": "初次游玩 如果恋 优篇"
+    "longDescription": "游玩《若恋 优篇》。",
+    "name": "初次游玩 若恋 优篇",
+    "shortDescription": "初次游玩 若恋 优篇"
   },
   "event-love-25-0426-limited-mission_love-end_emb-sp-01": {
     "longDescription": "通关瑠依GOOD END。",
@@ -1535,9 +1555,9 @@
     "shortDescription": "【每日】拍摄神崎莉央{threshold}次"
   },
   "event-love-26-0313-normal-mission_lesson-boost_count": {
-    "longDescription": "使用1次恋爱技能跳过饮料吧。",
-    "name": "使用1次如果恋跳过饮料",
-    "shortDescription": "使用1次如果恋跳过饮料"
+    "longDescription": "使用1次若恋跳过饮料吧。",
+    "name": "使用1次若恋跳过饮料",
+    "shortDescription": "使用1次若恋跳过饮料"
   },
   "event-love-26-0313-normal-mission_login_count": {
     "longDescription": "完成{threshold}次登录任务吧。",
@@ -1560,9 +1580,9 @@
     "shortDescription": "通关TRUE结局\n【追加奖励】特别照片将发放至礼物"
   },
   "event-love-26-0313-normal-mission_love-level_count": {
-    "longDescription": "恋爱Lv达到{threshold}。",
-    "name": "如果恋达到Lv{threshold}",
-    "shortDescription": "如果恋达到Lv{threshold}"
+    "longDescription": "若恋Lv达到{threshold}。",
+    "name": "若恋达到Lv{threshold}",
+    "shortDescription": "若恋达到Lv{threshold}"
   },
   "event-love-26-0313-normal-mission_present_count": {
     "longDescription": "赠送{threshold}次礼物。",
@@ -1610,9 +1630,9 @@
     "shortDescription": "游玩第8话"
   },
   "event-love-26-0313-normal-mission_story_first-play": {
-    "longDescription": "游玩《如果恋爱 莉央篇》。",
-    "name": "初次游玩 如果恋 莉央篇",
-    "shortDescription": "初次游玩 如果恋 莉央篇"
+    "longDescription": "游玩《若恋 莉央篇》。",
+    "name": "初次游玩 若恋 莉央篇",
+    "shortDescription": "初次游玩 若恋 莉央篇"
   },
   "event-mini-backside-23-0214-backside_final_score_achievement-1": {
     "longDescription": "正式演出的演唱会得分达到{threshold}。",
@@ -6085,6 +6105,46 @@
     "shortDescription": "拍照{threshold}次"
   },
   "event-ms-idoly-pride-day-mission-26-0920-quest-daily-clear-count": {
+    "longDescription": "完成{threshold}次每日演唱会。",
+    "name": "通关每日演唱会{threshold}次",
+    "shortDescription": "通关每日演唱会{threshold}次"
+  },
+  "event-ms-idoly-pride-day-mission-26-0930-login": {
+    "longDescription": "登录1次吧。",
+    "name": "登录1次",
+    "shortDescription": "登录1次"
+  },
+  "event-ms-idoly-pride-day-mission-26-0930-mission_clear_count": {
+    "longDescription": "完成所有活动任务吧。",
+    "name": "完成所有活动任务",
+    "shortDescription": "完成所有活动任务"
+  },
+  "event-ms-idoly-pride-day-mission-26-0930-photo_shoot_count": {
+    "longDescription": "进行{threshold}次照片拍摄吧。",
+    "name": "拍照{threshold}次",
+    "shortDescription": "拍照{threshold}次"
+  },
+  "event-ms-idoly-pride-day-mission-26-0930-quest-daily-clear-count": {
+    "longDescription": "完成{threshold}次每日演唱会。",
+    "name": "通关每日演唱会{threshold}次",
+    "shortDescription": "通关每日演唱会{threshold}次"
+  },
+  "event-ms-idoly-pride-day-mission-26-1010-login": {
+    "longDescription": "登录1次吧。",
+    "name": "登录1次",
+    "shortDescription": "登录1次"
+  },
+  "event-ms-idoly-pride-day-mission-26-1010-mission_clear_count": {
+    "longDescription": "完成所有活动任务吧。",
+    "name": "完成所有活动任务",
+    "shortDescription": "完成所有活动任务"
+  },
+  "event-ms-idoly-pride-day-mission-26-1010-photo_shoot_count": {
+    "longDescription": "进行{threshold}次照片拍摄吧。",
+    "name": "拍照{threshold}次",
+    "shortDescription": "拍照{threshold}次"
+  },
+  "event-ms-idoly-pride-day-mission-26-1010-quest-daily-clear-count": {
     "longDescription": "完成{threshold}次每日演唱会。",
     "name": "通关每日演唱会{threshold}次",
     "shortDescription": "通关每日演唱会{threshold}次"
@@ -12464,6 +12524,46 @@
     "name": "完成{threshold}个活动任务",
     "shortDescription": "完成{threshold}个活动任务"
   },
+  "event-ms-spr-26-1010-00-character_quest_all_clear_count": {
+    "longDescription": "使用月光风暴的成员\n累计完成演唱会{threshold}次吧。",
+    "name": "使用月光风暴成员累计通关{threshold}次演唱会",
+    "shortDescription": "使用月光风暴成员累计通关{threshold}次演唱会"
+  },
+  "event-ms-spr-26-1010-00-character_start_activity_fan_event_count": {
+    "longDescription": "以月光风暴的成员\n实施{threshold}次粉丝活动吧。",
+    "name": "使用月光风暴成员举办粉丝活动{threshold}次",
+    "shortDescription": "使用月光风暴成员举办粉丝活动{threshold}次"
+  },
+  "event-ms-spr-26-1010-00-character_start_activity_promotion_count": {
+    "longDescription": "以月光风暴的成员\n实施{threshold}次宣传吧。",
+    "name": "使用月光风暴成员进行宣传{threshold}次",
+    "shortDescription": "使用月光风暴成员进行宣传{threshold}次"
+  },
+  "event-ms-spr-26-1010-00-character_start_activity_refreshment_count": {
+    "longDescription": "以月光风暴的成员\n实施{threshold}次放松吧。",
+    "name": "使用月光风暴成员进行休息{threshold}次",
+    "shortDescription": "使用月光风暴成员进行休息{threshold}次"
+  },
+  "event-ms-spr-26-1010-00-company_character_use_obtain_enjoy_point_item_count": {
+    "longDescription": "向月光风暴的成员\n赠送{threshold}次礼物吧。",
+    "name": "向月光风暴成员赠送礼物{threshold}次",
+    "shortDescription": "向月光风暴成员赠送礼物{threshold}次"
+  },
+  "event-ms-spr-26-1010-00-excursion_clear_count": {
+    "longDescription": "和月光风暴的成员\n外出{threshold}次吧。",
+    "name": "与月光风暴的成员外出{threshold}次",
+    "shortDescription": "与月光风暴的成员外出{threshold}次"
+  },
+  "event-ms-spr-26-1010-00-login_count": {
+    "longDescription": "登录{threshold}次。",
+    "name": "登录{threshold}次",
+    "shortDescription": "登录{threshold}次"
+  },
+  "event-ms-spr-26-1010-01-mission_clear_count": {
+    "longDescription": "完成{threshold}个活动任务吧。",
+    "name": "完成{threshold}个活动任务",
+    "shortDescription": "完成{threshold}个活动任务"
+  },
   "event-ms-thanks-22-0413-00-00-accessory_enhance_count": {
     "longDescription": "进行{threshold}次饰品合成吧。",
     "name": "配饰合成{threshold}次",
@@ -16130,6 +16230,26 @@
     "shortDescription": "冲洗照片{threshold}次"
   },
   "event-shelf-26-0918-photo-save-1": {
+    "longDescription": "保存照片{threshold}次吧。",
+    "name": "保存照片{threshold}次",
+    "shortDescription": "保存照片{threshold}次"
+  },
+  "event-shelf-26-1002-photo-album-complete-1": {
+    "longDescription": "完成{threshold}个活动的相册吧。",
+    "name": "完成相册",
+    "shortDescription": "完成{threshold}个活动的相册"
+  },
+  "event-shelf-26-1002-photo-album-creating-1": {
+    "longDescription": "冲洗相册{threshold}次吧。",
+    "name": "显影相册",
+    "shortDescription": "显影相册{threshold}次"
+  },
+  "event-shelf-26-1002-photo-creating-1": {
+    "longDescription": "冲洗照片{threshold}次。",
+    "name": "显影照片{threshold}次",
+    "shortDescription": "冲洗照片{threshold}次"
+  },
+  "event-shelf-26-1002-photo-save-1": {
     "longDescription": "保存照片{threshold}次吧。",
     "name": "保存照片{threshold}次",
     "shortDescription": "保存照片{threshold}次"

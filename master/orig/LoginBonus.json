@@ -630,6 +630,10 @@
     "description": "7日間の特別なログインボーナス",
     "name": "おでかけ"
   },
+  "login_bonus-campaign02-26-1004-01": {
+    "description": "7日間の特別なログインボーナス",
+    "name": "おでかけ"
+  },
   "login_bonus-normal-01": {
     "description": "毎日もらえるログインボーナス",
     "name": "デイリー"

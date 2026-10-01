@@ -751,6 +751,14 @@
     "description": "おでかけシリーズ開催記念の特別な名刺デコレーション",
     "name": "おでかけシリーズ特別(TRINITYAiLE)"
   },
+  "deco-shop-pack-26-0926": {
+    "description": "沙季の誕生日を記念した名刺デコレーション",
+    "name": "沙季誕生日"
+  },
+  "deco-shop-pack-26-1002": {
+    "description": "おでかけシリーズ開催記念の特別な名刺デコレーション",
+    "name": "おでかけシリーズ特別(月のテンペスト)"
+  },
   "deco-shop-pack2-24-0103": {
     "description": "遙子の誕生日を記念した名刺デコレーション",
     "name": "遙子誕生日"
@@ -1341,6 +1349,10 @@
   "deco_full_gift-26-0918-01": {
     "description": "おでかけシリーズ開催記念の名刺デコレーション",
     "name": "おでかけシリーズ(TRINITYAiLE)"
+  },
+  "deco_full_gift-26-1002-01": {
+    "description": "おでかけシリーズ開催記念の名刺デコレーション",
+    "name": "おでかけシリーズ(月のテンペスト)"
   },
   "deco_full_shop-26-0310-01": {
     "description": "アイプラ感謝祭の特別な名刺デコレーション",

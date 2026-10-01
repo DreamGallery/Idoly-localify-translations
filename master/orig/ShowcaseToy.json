@@ -259,6 +259,10 @@
     "description": "白石沙季のビッグ缶バッジです。",
     "name": "ビッグ缶バッジ 白石沙季"
   },
+  "toy-goods-bigbuttonbadge_char-ski-birthday-2026": {
+    "description": "白石沙季のビッグ缶バッジです。",
+    "name": "ビッグ缶バッジ 白石沙季"
+  },
   "toy-goods-bigbuttonbadge_char-skr-birthday-2025": {
     "description": "川咲さくらのビッグ缶バッジです。",
     "name": "ビッグ缶バッジ 川咲さくら"
@@ -535,6 +539,10 @@
     "description": "長瀬琴乃の缶バッジです。",
     "name": "缶バッジ 長瀬琴乃「wonderful day for 琴乃」"
   },
+  "toy-goods-buttonbadge_card-ktn-05-casl-04": {
+    "description": "長瀬琴乃の缶バッジです。",
+    "name": "缶バッジ 長瀬琴乃「心安らぐ星空の休日」"
+  },
   "toy-goods-buttonbadge_card-ktn-05-fest-02": {
     "description": "長瀬琴乃の缶バッジです。",
     "name": "缶バッジ 長瀬琴乃「私達ノ未来」"
@@ -562,6 +570,10 @@
   "toy-goods-buttonbadge_card-mei-05-birt-03": {
     "description": "早坂芽衣の缶バッジです。",
     "name": "缶バッジ 早坂芽衣「dear precious 芽衣」"
+  },
+  "toy-goods-buttonbadge_card-mei-05-casl-04": {
+    "description": "早坂芽衣の缶バッジです。",
+    "name": "缶バッジ 早坂芽衣「にゃん！と楽しい休日」"
   },
   "toy-goods-buttonbadge_card-mei-05-fest-02": {
     "description": "早坂芽衣の缶バッジです。",
@@ -646,6 +658,10 @@
   "toy-goods-buttonbadge_card-ngs-05-birt-03": {
     "description": "伊吹渚の缶バッジです。",
     "name": "缶バッジ 伊吹渚「dear precious 渚」"
+  },
+  "toy-goods-buttonbadge_card-ngs-05-casl-04": {
+    "description": "伊吹渚の缶バッジです。",
+    "name": "缶バッジ 伊吹渚「桃コーデで弾ける休日」"
   },
   "toy-goods-buttonbadge_card-ngs-05-fest-02": {
     "description": "伊吹渚の缶バッジです。",
@@ -787,6 +803,14 @@
     "description": "白石沙季の缶バッジです。",
     "name": "缶バッジ 白石沙季「wonderful day for 沙季」"
   },
+  "toy-goods-buttonbadge_card-ski-05-birt-03": {
+    "description": "白石沙季の缶バッジです。",
+    "name": "缶バッジ 白石沙季「dear precious 沙季」"
+  },
+  "toy-goods-buttonbadge_card-ski-05-casl-04": {
+    "description": "白石沙季の缶バッジです。",
+    "name": "缶バッジ 白石沙季「浪漫息づく麗らかな休日」"
+  },
   "toy-goods-buttonbadge_card-ski-05-fest-02": {
     "description": "白石沙季の缶バッジです。",
     "name": "缶バッジ 白石沙季「道照らす叡智のヒカリ」"
@@ -882,6 +906,10 @@
   "toy-goods-buttonbadge_card-suz-05-birt-03": {
     "description": "成宮すずの缶バッジです。",
     "name": "缶バッジ 成宮すず「dear precious すず」"
+  },
+  "toy-goods-buttonbadge_card-suz-05-casl-04": {
+    "description": "成宮すずの缶バッジです。",
+    "name": "缶バッジ 成宮すず「ElegantなLadyの休日」"
   },
   "toy-goods-buttonbadge_card-suz-05-fest-02": {
     "description": "成宮すずの缶バッジです。",
@@ -1611,6 +1639,10 @@
     "description": "長瀬琴乃のカードスタンドです。",
     "name": "カードスタンド 長瀬琴乃「wonderful day for 琴乃」"
   },
+  "toy-goods-chracrylicbord_card-ktn-05-casl-04": {
+    "description": "長瀬琴乃のカードスタンドです。",
+    "name": "カードスタンド 長瀬琴乃「心安らぐ星空の休日」"
+  },
   "toy-goods-chracrylicbord_card-ktn-05-fest-02": {
     "description": "長瀬琴乃のカードスタンドです。",
     "name": "カードスタンド 長瀬琴乃「私達ノ未来」"
@@ -1650,6 +1682,10 @@
   "toy-goods-chracrylicbord_card-mei-05-birt-03": {
     "description": "早坂芽衣のカードスタンドです。",
     "name": "カードスタンド 早坂芽衣「dear precious 芽衣」"
+  },
+  "toy-goods-chracrylicbord_card-mei-05-casl-04": {
+    "description": "早坂芽衣のカードスタンドです。",
+    "name": "カードスタンド 早坂芽衣「にゃん！と楽しい休日」"
   },
   "toy-goods-chracrylicbord_card-mei-05-fest-02": {
     "description": "早坂芽衣のカードスタンドです。",
@@ -1766,6 +1802,10 @@
   "toy-goods-chracrylicbord_card-ngs-05-birt-03": {
     "description": "伊吹渚のカードスタンドです。",
     "name": "カードスタンド 伊吹渚「dear precious 渚」"
+  },
+  "toy-goods-chracrylicbord_card-ngs-05-casl-04": {
+    "description": "伊吹渚のカードスタンドです。",
+    "name": "カードスタンド 伊吹渚「桃コーデで弾ける休日」"
   },
   "toy-goods-chracrylicbord_card-ngs-05-fest-02": {
     "description": "伊吹渚のカードスタンドです。",
@@ -1939,6 +1979,14 @@
     "description": "白石沙季のカードスタンドです。",
     "name": "カードスタンド 白石沙季「wonderful day for 沙季」"
   },
+  "toy-goods-chracrylicbord_card-ski-05-birt-03": {
+    "description": "白石沙季のカードスタンドです。",
+    "name": "カードスタンド 白石沙季「dear precious 沙季」"
+  },
+  "toy-goods-chracrylicbord_card-ski-05-casl-04": {
+    "description": "白石沙季のカードスタンドです。",
+    "name": "カードスタンド 白石沙季「浪漫息づく麗らかな休日」"
+  },
   "toy-goods-chracrylicbord_card-ski-05-fest-02": {
     "description": "白石沙季のカードスタンドです。",
     "name": "カードスタンド 白石沙季「道照らす叡智のヒカリ」"
@@ -2058,6 +2106,10 @@
   "toy-goods-chracrylicbord_card-suz-05-birt-03": {
     "description": "成宮すずのカードスタンドです。",
     "name": "カードスタンド 成宮すず「dear precious すず」"
+  },
+  "toy-goods-chracrylicbord_card-suz-05-casl-04": {
+    "description": "成宮すずのカードスタンドです。",
+    "name": "カードスタンド 成宮すず「ElegantなLadyの休日」"
   },
   "toy-goods-chracrylicbord_card-suz-05-fest-02": {
     "description": "成宮すずのカードスタンドです。",
@@ -2615,6 +2667,10 @@
     "description": "長瀬琴乃のミニキャラスタンドです。",
     "name": "ミニキャラスタンド 長瀬琴乃「wonderful day for 琴乃」"
   },
+  "toy-goods-chracrylicsd_card-ktn-05-casl-04": {
+    "description": "長瀬琴乃のミニキャラスタンドです。",
+    "name": "ミニキャラスタンド 長瀬琴乃「心安らぐ星空の休日」"
+  },
   "toy-goods-chracrylicsd_card-ktn-05-fest-02": {
     "description": "長瀬琴乃のミニキャラスタンドです。",
     "name": "ミニキャラスタンド 長瀬琴乃「私達ノ未来」"
@@ -2650,6 +2706,10 @@
   "toy-goods-chracrylicsd_card-mei-05-birt-03": {
     "description": "早坂芽衣のミニキャラスタンドです。",
     "name": "ミニキャラスタンド 早坂芽衣「dear precious 芽衣」"
+  },
+  "toy-goods-chracrylicsd_card-mei-05-casl-04": {
+    "description": "早坂芽衣のミニキャラスタンドです。",
+    "name": "ミニキャラスタンド 早坂芽衣「にゃん！と楽しい休日」"
   },
   "toy-goods-chracrylicsd_card-mei-05-fest-02": {
     "description": "早坂芽衣のミニキャラスタンドです。",
@@ -2750,6 +2810,10 @@
   "toy-goods-chracrylicsd_card-ngs-05-birt-03": {
     "description": "伊吹渚のミニキャラスタンドです。",
     "name": "ミニキャラスタンド 伊吹渚「dear precious 渚」"
+  },
+  "toy-goods-chracrylicsd_card-ngs-05-casl-04": {
+    "description": "伊吹渚のミニキャラスタンドです。",
+    "name": "ミニキャラスタンド 伊吹渚「桃コーデで弾ける休日」"
   },
   "toy-goods-chracrylicsd_card-ngs-05-fest-02": {
     "description": "伊吹渚のミニキャラスタンドです。",
@@ -2899,6 +2963,14 @@
     "description": "白石沙季のミニキャラスタンドです。",
     "name": "ミニキャラスタンド 白石沙季「wonderful day for 沙季」"
   },
+  "toy-goods-chracrylicsd_card-ski-05-birt-03": {
+    "description": "白石沙季のミニキャラスタンドです。",
+    "name": "ミニキャラスタンド 白石沙季「dear precious 沙季」"
+  },
+  "toy-goods-chracrylicsd_card-ski-05-casl-04": {
+    "description": "白石沙季のミニキャラスタンドです。",
+    "name": "ミニキャラスタンド 白石沙季「浪漫息づく麗らかな休日」"
+  },
   "toy-goods-chracrylicsd_card-ski-05-fest-02": {
     "description": "白石沙季のミニキャラスタンドです。",
     "name": "ミニキャラスタンド 白石沙季「道照らす叡智のヒカリ」"
@@ -3010,6 +3082,10 @@
   "toy-goods-chracrylicsd_card-suz-05-birt-03": {
     "description": "成宮すずのミニキャラスタンドです。",
     "name": "ミニキャラスタンド 成宮すず「dear precious すず」"
+  },
+  "toy-goods-chracrylicsd_card-suz-05-casl-04": {
+    "description": "成宮すずのミニキャラスタンドです。",
+    "name": "ミニキャラスタンド 成宮すず「ElegantなLadyの休日」"
   },
   "toy-goods-chracrylicsd_card-suz-05-fest-02": {
     "description": "成宮すずのミニキャラスタンドです。",
@@ -3507,6 +3583,10 @@
     "description": "白石沙季のプレートです。",
     "name": "誕生日プレート 白石沙季"
   },
+  "toy-goods-nameplate_char-ski-birthday-2026": {
+    "description": "白石沙季のプレートです。",
+    "name": "誕生日プレート 白石沙季"
+  },
   "toy-goods-nameplate_char-skr-01": {
     "description": "川咲さくらのプレートです。",
     "name": "プレート 川咲さくら"
@@ -3700,6 +3780,10 @@
     "name": "タペストリー 天動瑠依"
   },
   "toy-goods-tapestry_char-ski-birthday-2025": {
+    "description": "白石沙季のタペストリーです。",
+    "name": "タペストリー 白石沙季"
+  },
+  "toy-goods-tapestry_char-ski-birthday-2026": {
     "description": "白石沙季のタペストリーです。",
     "name": "タペストリー 白石沙季"
   },

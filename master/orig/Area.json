@@ -278,6 +278,11 @@
     "description": "デイリーライブ",
     "name": "スペシャル"
   },
+  "area-daily-sp-26-1002": {
+    "dailyRewardName": "スキルパウダー",
+    "description": "デイリーライブ",
+    "name": "スペシャル"
+  },
   "area-ex-tower-001": {
     "description": "月のテンペスト",
     "name": "月のテンペスト"

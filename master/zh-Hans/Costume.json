@@ -956,6 +956,9 @@
   "cos-ktn-casl-01": {
     "name": "休闲风格"
   },
+  "cos-ktn-casl-04": {
+    "name": "外出风格"
+  },
   "cos-ktn-circ-00": {
     "name": "竞速共鸣"
   },
@@ -1117,6 +1120,9 @@
   },
   "cos-mei-casl-02": {
     "name": "约会装扮"
+  },
+  "cos-mei-casl-04": {
+    "name": "外出风格"
   },
   "cos-mei-date-00": {
     "name": "纯白之洁"
@@ -1471,6 +1477,9 @@
   },
   "cos-ngs-casl-02": {
     "name": "约会装扮"
+  },
+  "cos-ngs-casl-04": {
+    "name": "外出风格"
   },
   "cos-ngs-date-00": {
     "name": "苍穹花蝶"
@@ -2027,6 +2036,9 @@
   "cos-ski-casl-01": {
     "name": "休闲风格"
   },
+  "cos-ski-casl-04": {
+    "name": "外出风格"
+  },
   "cos-ski-chsk-00": {
     "name": "相连之心Binary"
   },
@@ -2458,6 +2470,9 @@
   },
   "cos-suz-casl-01": {
     "name": "休闲风格"
+  },
+  "cos-suz-casl-04": {
+    "name": "外出风格"
   },
   "cos-suz-ggyt-00": {
     "name": "鱼鱼风格"

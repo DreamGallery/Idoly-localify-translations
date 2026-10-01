@@ -1364,6 +1364,9 @@
   "cd-birthday_emblem_ski-25-0926": {
     "description": "迎来沙季的生日"
   },
+  "cd-birthday_emblem_ski-26-0926": {
+    "description": "迎来沙季的生日"
+  },
   "cd-birthday_emblem_skr-23-0403": {
     "description": "迎来樱的生日"
   },
@@ -1659,6 +1662,9 @@
     "description": "迎来沙季的生日"
   },
   "cd-birthday_ski-25-0926": {
+    "description": "迎来沙季的生日"
+  },
+  "cd-birthday_ski-26-0926": {
     "description": "迎来沙季的生日"
   },
   "cd-birthday_skr-0403": {
@@ -2358,6 +2364,48 @@
     "description": "已持有"
   },
   "cd-cd-exchange-mini-tour_medal-22-0408-item-216-not": {
+    "description": "已持有"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-217-not": {
+    "description": "已持有"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-218-not": {
+    "description": "已持有"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-219-not": {
+    "description": "已持有"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-220-not": {
+    "description": "已持有"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-221-not": {
+    "description": "已持有"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-222-not": {
+    "description": "已持有"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-223-not": {
+    "description": "已持有"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-224-not": {
+    "description": "已持有"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-225-not": {
+    "description": "已持有"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-226-not": {
+    "description": "已持有"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-227-not": {
+    "description": "已持有"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-228-not": {
+    "description": "已持有"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-229-not": {
+    "description": "已持有"
+  },
+  "cd-cd-exchange-mini-tour_medal-22-0408-item-230-not": {
     "description": "已持有"
   },
   "cd-cd-story-read-st-eve-2209-contest-001-005": {
@@ -4770,73 +4818,73 @@
     "description": "奖励画面"
   },
   "cd-date-event-love-23-0514": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-23-0514-banner-end": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-23-0514-dokan-end": {
-    "description": "如果恋Dokan_关闭"
+    "description": "若恋Dokan_关闭"
   },
   "cd-date-event-love-23-0514-view": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-23-0515": {
-    "description": "如果恋第2天以后"
+    "description": "若恋第2天以后"
   },
   "cd-date-event-love-23-1114": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-23-1114-banner-end": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-23-1114-view": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-23-1115": {
-    "description": "如果恋第2天以后"
+    "description": "若恋第2天以后"
   },
   "cd-date-event-love-23-1215-banner": {
-    "description": "如果恋活动横幅_复刻"
+    "description": "若恋活动横幅_复刻"
   },
   "cd-date-event-love-24-0517": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-24-0517-banner-end": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-24-0517-view": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-24-0518": {
-    "description": "如果恋第2天以后"
+    "description": "若恋第2天以后"
   },
   "cd-date-event-love-24-0604-banner": {
-    "description": "如果恋活动横幅_复刻"
+    "description": "若恋活动横幅_复刻"
   },
   "cd-date-event-love-24-1114": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-24-1114-banner-end": {
-    "description": "如果恋横幅"
+    "description": "若恋横幅"
   },
   "cd-date-event-love-24-1114-cos": {
     "description": "用于附加周边"
   },
   "cd-date-event-love-24-1114-view": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-24-1115": {
-    "description": "如果恋第2天以后"
+    "description": "若恋第2天以后"
   },
   "cd-date-event-love-24-1209-banner": {
-    "description": "如果恋活动横幅_复刻"
+    "description": "若恋活动横幅_复刻"
   },
   "cd-date-event-love-24-1209-dokan": {
-    "description": "如果恋剧情道具"
+    "description": "若恋剧情道具"
   },
   "cd-date-event-love-25-0426": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-25-0426-banner": {
     "description": "大家来做横幅"
@@ -4848,115 +4896,124 @@
     "description": "兑换所道具显示"
   },
   "cd-date-event-love-25-0426-view": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-25-0515-banner": {
-    "description": "如果恋剧情道具(1860特例)"
+    "description": "若恋剧情道具(1860特例)"
   },
   "cd-date-event-love-25-0515-dokan": {
-    "description": "如果恋剧情道具(1860特例)"
+    "description": "若恋剧情道具(1860特例)"
+  },
+  "cd-date-event-love-25-0515-s-banner": {
+    "description": "若恋复刻_S横幅"
   },
   "cd-date-event-love-25-0601-banner": {
-    "description": "如果恋活动横幅_复刻"
+    "description": "若恋活动横幅_复刻"
   },
   "cd-date-event-love-25-0908-banner": {
-    "description": "如果恋活动横幅_复刻"
+    "description": "若恋活动横幅_复刻"
   },
   "cd-date-event-love-25-1211-banner": {
-    "description": "如果恋活动横幅_复刻"
+    "description": "若恋活动横幅_复刻"
   },
   "cd-date-event-love-25-1224-banner": {
     "description": "大家来做横幅_复刻"
   },
   "cd-date-event-love-26-0313": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-26-0313-banner-end": {
-    "description": "如果恋横幅"
+    "description": "若恋横幅"
   },
   "cd-date-event-love-26-0313-cos": {
     "description": "用于附加周边"
   },
   "cd-date-event-love-26-0313-view": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-love-26-0314": {
-    "description": "如果恋第2天以后"
+    "description": "若恋第2天以后"
   },
   "cd-date-event-love-26-0318-cos": {
     "description": "用于附加周边"
   },
   "cd-date-event-love-26-0407-banner": {
-    "description": "如果恋剧情横幅"
+    "description": "若恋剧情横幅"
   },
   "cd-date-event-love-26-0407-dokan": {
-    "description": "如果恋剧情道具"
+    "description": "若恋剧情道具"
+  },
+  "cd-date-event-love-26-0407-s-banner": {
+    "description": "若恋复刻_S横幅"
   },
   "cd-date-event-love-26-0901-banner": {
-    "description": "如果恋活动横幅_复刻"
+    "description": "若恋活动横幅_复刻"
   },
   "cd-date-event-love-26-0911-banner": {
-    "description": "如果恋活动横幅_复刻"
+    "description": "若恋活动横幅_复刻"
   },
   "cd-date-event-love-26-0921-banner": {
-    "description": "如果恋活动横幅_复刻"
+    "description": "若恋活动横幅_复刻"
+  },
+  "cd-date-event-love-26-1010-s-banner": {
+    "description": "若恋复刻_S横幅"
   },
   "cd-date-event-mission-love-23-0514-limited": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-mission-love-23-0514-limited-end": {
-    "description": "如果恋限定任务_称号关闭"
+    "description": "若恋限定任务_称号关闭"
   },
   "cd-date-event-mission-love-23-0514-limited-unlock": {
     "description": "5/15日后开放"
   },
   "cd-date-event-mission-love-23-0514-normal": {
-    "description": "如果恋常驻任务"
+    "description": "若恋常驻任务"
   },
   "cd-date-event-mission-love-23-0514-normal-card": {
     "description": "拥有偶像「如果触碰到你的手 一之濑怜」后开放"
   },
   "cd-date-event-mission-love-23-1114-limited": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-mission-love-23-1114-limited-end": {
-    "description": "如果恋限定任务_称号关闭"
+    "description": "若恋限定任务_称号关闭"
   },
   "cd-date-event-mission-love-23-1114-limited-unlock": {
     "description": "11/15日后开放"
   },
   "cd-date-event-mission-love-23-1114-normal": {
-    "description": "如果恋常驻任务"
+    "description": "若恋常驻任务"
   },
   "cd-date-event-mission-love-23-1114-normal-card": {
     "description": "拥有偶像「如果和青梅竹马恋爱 伊吹渚」后开放"
   },
   "cd-date-event-mission-love-24-0517-limited": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-mission-love-24-0517-limited-end": {
-    "description": "如果恋限定任务_称号关闭"
+    "description": "若恋限定任务_称号关闭"
   },
   "cd-date-event-mission-love-24-0517-limited-unlock": {
     "description": "11/15日后开放"
   },
   "cd-date-event-mission-love-24-0517-normal": {
-    "description": "如果恋常驻任务"
+    "description": "若恋常驻任务"
   },
   "cd-date-event-mission-love-24-0517-normal-card": {
     "description": "拥有偶像「如果谈一场夏日恋情 早坂芽衣」后开放"
   },
   "cd-date-event-mission-love-24-1114-limited": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-mission-love-24-1114-limited-end": {
-    "description": "如果恋限定任务称号关闭"
+    "description": "若恋限定任务称号关闭"
   },
   "cd-date-event-mission-love-24-1114-limited-unlock": {
     "description": "11/15日后开放"
   },
   "cd-date-event-mission-love-24-1114-normal": {
-    "description": "如果恋常驻任务"
+    "description": "若恋常驻任务"
   },
   "cd-date-event-mission-love-24-1114-normal-card": {
     "description": "拥有偶像「如果和艺人恋爱 铃村优」后开放"
@@ -4965,28 +5022,28 @@
     "description": "任务不显示"
   },
   "cd-date-event-mission-love-25-0426-limited": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-mission-love-25-0426-limited-end": {
-    "description": "如果恋限定任务_称号关闭"
+    "description": "若恋限定任务_称号关闭"
   },
   "cd-date-event-mission-love-25-0426-login": {
     "description": "任务不显示"
   },
   "cd-date-event-mission-love-25-0426-normal": {
-    "description": "如果恋常驻任务"
+    "description": "若恋常驻任务"
   },
   "cd-date-event-mission-love-25-0426-normal-mask": {
     "description": "任务不显示"
   },
   "cd-date-event-mission-love-26-0313-limited": {
-    "description": "如果恋限定任务"
+    "description": "若恋限定任务"
   },
   "cd-date-event-mission-love-26-0313-limited-unlock": {
     "description": "3/19日后开放"
   },
   "cd-date-event-mission-love-26-0313-normal": {
-    "description": "如果恋常驻任务"
+    "description": "若恋常驻任务"
   },
   "cd-date-event-mission-love-26-0313-normal-card": {
     "description": "拥有偶像「如果在职场恋爱 神崎莉央」后开放"
@@ -5864,6 +5921,12 @@
   "cd-dokan-broadcast-26-0916-01-pre": {
     "description": "IDOLY PRIDE直播前夕"
   },
+  "cd-dokan-broadcast-26-1001-01": {
+    "description": "IDOLY PRIDE直播中"
+  },
+  "cd-dokan-broadcast-26-1001-01-pre": {
+    "description": "IDOLY PRIDE直播前夕"
+  },
   "cd-dokan-campaign-22-0103": {
     "description": "2022新年"
   },
@@ -6198,6 +6261,9 @@
     "description": "想象训练最大生成GRADE A"
   },
   "cd-dream-26-09-season-max-grade-a": {
+    "description": "想象训练最大生成GRADE A"
+  },
+  "cd-dream-26-10-season-max-grade-a": {
     "description": "想象训练最大生成GRADE A"
   },
   "cd-dream-max-grade-a": {
@@ -23576,6 +23642,9 @@
   "cd-event_story-mission-26-0918": {
     "description": "相册任务显示"
   },
+  "cd-event_story-mission-26-1002": {
+    "description": "相册任务显示"
+  },
   "cd-ex-st-part-limited-01-open-230226": {
     "description": "期间限定剧情解锁"
   },
@@ -23868,6 +23937,9 @@
     "description": "迎来沙季的生日"
   },
   "cd-ex-story-part-birthday-ski-25-0926-open": {
+    "description": "迎来沙季的生日"
+  },
+  "cd-ex-story-part-birthday-ski-26-0926-open": {
     "description": "迎来沙季的生日"
   },
   "cd-ex-story-part-birthday-skr-23-0403-open": {
@@ -24641,6 +24713,9 @@
   "cd-exchange-dress-medal-26-0918": {
     "description": "复刻服装奖牌兑换所"
   },
+  "cd-exchange-dress-medal-26-1002": {
+    "description": "复刻服装奖牌兑换所"
+  },
   "cd-exchange-ever-beginner-dream-ticket-22-0328-01": {
     "description": "梦想券兑换所开放期间"
   },
@@ -25313,6 +25388,48 @@
   "cd-exchange-mini-tour_medal-22-0408-item-216": {
     "description": "判定是否拥有对应姿势"
   },
+  "cd-exchange-mini-tour_medal-22-0408-item-217": {
+    "description": "判定是否拥有对应姿势"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-218": {
+    "description": "判定是否拥有对应姿势"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-219": {
+    "description": "判定是否拥有对应姿势"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-220": {
+    "description": "判定是否拥有对应姿势"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-221": {
+    "description": "判定是否拥有对应姿势"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-222": {
+    "description": "判定是否拥有对应姿势"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-223": {
+    "description": "判定是否拥有对应姿势"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-224": {
+    "description": "判定是否拥有对应姿势"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-225": {
+    "description": "判定是否拥有对应姿势"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-226": {
+    "description": "判定是否拥有对应姿势"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-227": {
+    "description": "判定是否拥有对应姿势"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-228": {
+    "description": "判定是否拥有对应姿势"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-229": {
+    "description": "判定是否拥有对应姿势"
+  },
+  "cd-exchange-mini-tour_medal-22-0408-item-230": {
+    "description": "判定是否拥有对应姿势"
+  },
   "cd-exchange-mini-tour_medal-26-0731": {
     "description": "偶像活动任务结束后显示"
   },
@@ -25323,6 +25440,9 @@
     "description": "偶像活动任务结束后显示"
   },
   "cd-exchange-mini-tour_medal-26-0918": {
+    "description": "偶像活动任务结束后显示"
+  },
+  "cd-exchange-mini-tour_medal-26-1002": {
     "description": "偶像活动任务结束后显示"
   },
   "cd-exchange-newmiku-medal-25-0826": {
@@ -36308,6 +36428,9 @@
   "cd-ms-read-message-card-kor-05-xmas-00": {
     "description": "阅读消息后解锁"
   },
+  "cd-ms-read-message-card-ktn-05-casl-04": {
+    "description": "阅读消息后解锁"
+  },
   "cd-ms-read-message-card-ktn-05-circ-00": {
     "description": "阅读消息后解锁"
   },
@@ -36351,6 +36474,9 @@
     "description": "阅读消息后解锁"
   },
   "cd-ms-read-message-card-mei-05-casl-02": {
+    "description": "阅读消息后解锁"
+  },
+  "cd-ms-read-message-card-mei-05-casl-04": {
     "description": "阅读消息后解锁"
   },
   "cd-ms-read-message-card-mei-05-fest-00-01": {
@@ -36441,6 +36567,9 @@
     "description": "阅读消息后解锁"
   },
   "cd-ms-read-message-card-ngs-05-casl-02": {
+    "description": "阅读消息后解锁"
+  },
+  "cd-ms-read-message-card-ngs-05-casl-04": {
     "description": "阅读消息后解锁"
   },
   "cd-ms-read-message-card-ngs-05-fest-02": {
@@ -36623,6 +36752,9 @@
   "cd-ms-read-message-card-rui-05-yukt-00": {
     "description": "阅读消息后解锁"
   },
+  "cd-ms-read-message-card-ski-05-casl-04": {
+    "description": "阅读消息后解锁"
+  },
   "cd-ms-read-message-card-ski-05-chsk-00": {
     "description": "阅读消息后解锁"
   },
@@ -36765,6 +36897,9 @@
     "description": "阅读消息后解锁"
   },
   "cd-ms-read-message-card-suz-05-anml-00": {
+    "description": "阅读消息后解锁"
+  },
+  "cd-ms-read-message-card-suz-05-casl-04": {
     "description": "阅读消息后解锁"
   },
   "cd-ms-read-message-card-suz-05-fest-02": {
@@ -38249,26 +38384,74 @@
   "cd-possession-cos-kor-anni-00-not-26-0817": {
     "description": "未持有永恒挚友（fran）"
   },
+  "cd-possession-cos-ktn-anml-00-26-1002": {
+    "description": "拥有スイートレディキャット(长濑琴乃)"
+  },
+  "cd-possession-cos-ktn-anml-00-not-26-1002": {
+    "description": "未拥有スイートレディキャット(长濑琴乃)"
+  },
+  "cd-possession-cos-ktn-anni-00-26-1002": {
+    "description": "拥有エターニティーフレンド(长濑琴乃)"
+  },
+  "cd-possession-cos-ktn-anni-00-not-26-1002": {
+    "description": "未拥有エターニティーフレンド(长濑琴乃)"
+  },
   "cd-possession-cos-ktn-idol-04": {
     "description": "持有月之宝石（琴乃）"
   },
+  "cd-possession-cos-ktn-idol-04-26-1002": {
+    "description": "拥有ルナピエール(长濑琴乃)"
+  },
+  "cd-possession-cos-ktn-idol-04-not-26-1002": {
+    "description": "未持有月之皮耶尔（长濑琴乃）"
+  },
   "cd-possession-cos-ktn-mizg-02": {
+    "description": "拥有Soleil Hot Summer(长濑琴乃)"
+  },
+  "cd-possession-cos-ktn-mizg-02-26-1002": {
     "description": "拥有Soleil Hot Summer(长濑琴乃)"
   },
   "cd-possession-cos-ktn-mizg-02-not": {
     "description": "未拥有Soleil Hot Summer(长濑琴乃)"
   },
+  "cd-possession-cos-ktn-mizg-02-not-26-1002": {
+    "description": "未拥有Soleil Hot Summer(长濑琴乃)"
+  },
+  "cd-possession-cos-ktn-schl-01-26-1002": {
+    "description": "持有星见中学（长濑琴乃）"
+  },
+  "cd-possession-cos-ktn-schl-01-not-26-1002": {
+    "description": "未持有星见中学（长濑琴乃）"
+  },
   "cd-possession-cos-ktn-vlnt-00": {
     "description": "拥有心动巧克力"
+  },
+  "cd-possession-cos-ktn-vlnt-00-26-1002": {
+    "description": "持有心动巧克力（长濑琴乃）"
   },
   "cd-possession-cos-ktn-vlnt-00-not": {
     "description": "未拥有心动巧克力"
   },
+  "cd-possession-cos-ktn-vlnt-00-not-26-1002": {
+    "description": "未持有心动巧克力（长濑琴乃）"
+  },
   "cd-possession-cos-ktn-xmas-00": {
+    "description": "拥有圣诞与你(长濑琴乃)"
+  },
+  "cd-possession-cos-ktn-xmas-00-26-1002": {
     "description": "拥有圣诞与你(长濑琴乃)"
   },
   "cd-possession-cos-ktn-xmas-00-not": {
     "description": "未拥有圣诞与你(长濑琴乃)"
+  },
+  "cd-possession-cos-ktn-xmas-00-not-26-1002": {
+    "description": "未拥有圣诞与你(长濑琴乃)"
+  },
+  "cd-possession-cos-mei-anml-00-26-1002": {
+    "description": "持有甜美淑女猫（早坂芽衣）"
+  },
+  "cd-possession-cos-mei-anml-00-not-26-1002": {
+    "description": "未持有甜美淑女猫（早坂芽衣）"
   },
   "cd-possession-cos-mei-anni-00": {
     "description": "拥有Eternity Friend(早坂芽衣)"
@@ -38279,10 +38462,22 @@
   "cd-possession-cos-mei-idol-04": {
     "description": "拥有Luna Pierre（芽衣）"
   },
+  "cd-possession-cos-mei-idol-04-26-1002": {
+    "description": "持有月之皮耶尔（早坂芽衣）"
+  },
+  "cd-possession-cos-mei-idol-04-not-26-1002": {
+    "description": "未持有月之皮耶尔（早坂芽衣）"
+  },
   "cd-possession-cos-mei-newy-00": {
     "description": "拥有绚烂振袖・绯(早坂芽衣)"
   },
+  "cd-possession-cos-mei-newy-00-26-1002": {
+    "description": "拥有绚烂振袖・绯(早坂芽衣)"
+  },
   "cd-possession-cos-mei-newy-00-not": {
+    "description": "未拥有绚烂振袖・绯(早坂芽衣)"
+  },
+  "cd-possession-cos-mei-newy-00-not-26-1002": {
     "description": "未拥有绚烂振袖・绯(早坂芽衣)"
   },
   "cd-possession-cos-mhk-anni-00": {
@@ -38321,6 +38516,12 @@
   "cd-possession-cos-mna-mnab-00-not": {
     "description": "未持有Sing With You(长濑麻奈)"
   },
+  "cd-possession-cos-ngs-anml-00-26-1002": {
+    "description": "持有甜美淑女兔（伊吹渚）"
+  },
+  "cd-possession-cos-ngs-anml-00-not-26-1002": {
+    "description": "未持有甜美淑女兔（伊吹渚）"
+  },
   "cd-possession-cos-ngs-anni-00": {
     "description": "持有Eternity Friend(伊吹渚)"
   },
@@ -38330,17 +38531,41 @@
   "cd-possession-cos-ngs-idol-04": {
     "description": "持有Luna Pierre（渚）"
   },
+  "cd-possession-cos-ngs-idol-04-26-1002": {
+    "description": "持有月之皮耶尔（伊吹渚）"
+  },
+  "cd-possession-cos-ngs-idol-04-not-26-1002": {
+    "description": "未持有月之皮埃尔（伊吹渚）"
+  },
   "cd-possession-cos-ngs-newy-00": {
+    "description": "持有绚烂振袖・若叶(伊吹渚)"
+  },
+  "cd-possession-cos-ngs-newy-00-26-1002": {
     "description": "持有绚烂振袖・若叶(伊吹渚)"
   },
   "cd-possession-cos-ngs-newy-00-not": {
     "description": "未持有绚烂振袖・若叶(伊吹渚)"
   },
+  "cd-possession-cos-ngs-newy-00-not-26-1002": {
+    "description": "未持有绚烂振袖・若叶(伊吹渚)"
+  },
   "cd-possession-cos-ngs-pair-00": {
+    "description": "拥有喵喵魔法（伊吹渚）"
+  },
+  "cd-possession-cos-ngs-pair-00-26-1002": {
     "description": "拥有喵喵魔法（伊吹渚）"
   },
   "cd-possession-cos-ngs-pair-00-not": {
     "description": "未拥有喵喵魔法（伊吹渚）"
+  },
+  "cd-possession-cos-ngs-pair-00-not-26-1002": {
+    "description": "未拥有喵喵魔法（伊吹渚）"
+  },
+  "cd-possession-cos-ngs-schl-01-26-1002": {
+    "description": "持有星见中学（伊吹渚）"
+  },
+  "cd-possession-cos-ngs-schl-01-not-26-1002": {
+    "description": "未持有星见中学（伊吹渚）"
   },
   "cd-possession-cos-rei-anml-00": {
     "description": "拥有甜蜜淑女猫（一之濑怜）"
@@ -38567,6 +38792,12 @@
   "cd-possession-cos-rui-yuru-00-not-26-0918": {
     "description": "未持有 番红花的门扉（天动瑠依）"
   },
+  "cd-possession-cos-ski-anml-00-26-1002": {
+    "description": "持有甜蜜淑女兔（白石沙季）"
+  },
+  "cd-possession-cos-ski-anml-00-not-26-1002": {
+    "description": "未持有甜蜜淑女兔（白石沙季）"
+  },
   "cd-possession-cos-ski-anni-00": {
     "description": "持有 永恒挚友（白石沙季）"
   },
@@ -38575,6 +38806,12 @@
   },
   "cd-possession-cos-ski-idol-04": {
     "description": "持有 月之皮埃尔（沙季）"
+  },
+  "cd-possession-cos-ski-idol-04-26-1002": {
+    "description": "持有月之皮埃尔（白石沙季）"
+  },
+  "cd-possession-cos-ski-idol-04-not-26-1002": {
+    "description": "未持有月之皮埃尔（白石沙季）"
   },
   "cd-possession-cos-ski-mizg-01": {
     "description": "持有 月光恋夏（白石沙季）"
@@ -38585,8 +38822,14 @@
   "cd-possession-cos-ski-vlnt-00": {
     "description": "拥有心动巧克力"
   },
+  "cd-possession-cos-ski-vlnt-00-26-1002": {
+    "description": "持有心动巧克力（白石沙季）"
+  },
   "cd-possession-cos-ski-vlnt-00-not": {
     "description": "未拥有心动巧克力"
+  },
+  "cd-possession-cos-ski-vlnt-00-not-26-1002": {
+    "description": "未持有心动巧克力（白石沙季）"
   },
   "cd-possession-cos-skr-anni-00-26-0831": {
     "description": "持有 永恒挚友（川咲樱）"
@@ -38705,29 +38948,59 @@
   "cd-possession-cos-suz-idol-04": {
     "description": "持有月神皮埃尔（铃）"
   },
+  "cd-possession-cos-suz-idol-04-26-1002": {
+    "description": "持有月之皮埃尔（成宫铃）"
+  },
+  "cd-possession-cos-suz-idol-04-not-26-1002": {
+    "description": "未持有月之皮埃尔（成宫铃）"
+  },
   "cd-possession-cos-suz-mizg-02": {
+    "description": "持有太阳热夏（成宫铃）"
+  },
+  "cd-possession-cos-suz-mizg-02-26-1002": {
     "description": "持有太阳热夏（成宫铃）"
   },
   "cd-possession-cos-suz-mizg-02-not": {
     "description": "未持有太阳热夏（成宫铃）"
   },
+  "cd-possession-cos-suz-mizg-02-not-26-1002": {
+    "description": "未持有太阳热夏（成宫铃）"
+  },
   "cd-possession-cos-suz-newy-00": {
+    "description": "持有绚烂振袖・桃（成宫铃）"
+  },
+  "cd-possession-cos-suz-newy-00-26-1002": {
     "description": "持有绚烂振袖・桃（成宫铃）"
   },
   "cd-possession-cos-suz-newy-00-not": {
     "description": "未持有绚烂振袖・桃（成宫铃）"
   },
+  "cd-possession-cos-suz-newy-00-not-26-1002": {
+    "description": "未持有绚烂振袖・桃（成宫铃）"
+  },
   "cd-possession-cos-suz-pajm-00": {
+    "description": "持有睡衣派对（成宫铃）"
+  },
+  "cd-possession-cos-suz-pajm-00-26-1002": {
     "description": "持有睡衣派对（成宫铃）"
   },
   "cd-possession-cos-suz-pajm-00-not": {
     "description": "未持有睡衣派对（成宫铃）"
   },
+  "cd-possession-cos-suz-pajm-00-not-26-1002": {
+    "description": "未持有睡衣派对（成宫铃）"
+  },
   "cd-possession-cos-suz-vlnt-00": {
     "description": "拥有心动巧克力"
   },
+  "cd-possession-cos-suz-vlnt-00-26-1002": {
+    "description": "持有心动巧克力（成宫铃）"
+  },
   "cd-possession-cos-suz-vlnt-00-not": {
     "description": "未拥有心动巧克力"
+  },
+  "cd-possession-cos-suz-vlnt-00-not-26-1002": {
+    "description": "未持有心动巧克力(成宫铃)"
   },
   "cd-possession-cos-szk-anml-00": {
     "description": "持有甜美淑女猫（兵藤雫）"
@@ -45920,6 +46193,15 @@
   "cd-shelf-26-0918-story": {
     "description": "相册剧情显示"
   },
+  "cd-shelf-26-1002": {
+    "description": "相册举办期间"
+  },
+  "cd-shelf-26-1002-play": {
+    "description": "通关主线演唱会#4"
+  },
+  "cd-shelf-26-1002-story": {
+    "description": "相册剧情显示"
+  },
   "cd-shop-21-0731-close": {
     "description": "21−0731礼包下架"
   },
@@ -46299,13 +46581,13 @@
     "description": "GW纪念商店Mlv120控制"
   },
   "cd-shop-pack-24-0517": {
-    "description": "【公告】如果恋举办纪念商店"
+    "description": "【公告】若恋举办纪念商店"
   },
   "cd-shop-pack-24-0517-0531": {
-    "description": "如果恋举办纪念商店"
+    "description": "若恋举办纪念商店"
   },
   "cd-shop-pack-24-0517-0531-dokan": {
-    "description": "【重磅】如果恋举办纪念商店"
+    "description": "【重磅】若恋举办纪念商店"
   },
   "cd-shop-pack-24-0524": {
     "description": "【公告】高级惊喜商店"
@@ -46623,16 +46905,16 @@
     "description": "【重磅】瑠依生日商店"
   },
   "cd-shop-pack-24-1114": {
-    "description": "【公告】如果恋举办纪念商店"
+    "description": "【公告】若恋举办纪念商店"
   },
   "cd-shop-pack-24-1114-1127": {
-    "description": "如果恋举办纪念商店"
+    "description": "若恋举办纪念商店"
   },
   "cd-shop-pack-24-1114-1127-dokan": {
-    "description": "【重磅】如果恋举办纪念商店"
+    "description": "【重磅】若恋举办纪念商店"
   },
   "cd-shop-pack-24-1114-1127-mlv-120": {
-    "description": "如果恋爱举办纪念商店Mlv120控制"
+    "description": "若恋举办纪念商店Mlv120控制"
   },
   "cd-shop-pack-24-1122": {
     "description": "【公告】千纱生日商店"
@@ -47574,19 +47856,19 @@
     "description": "【重磅】怜生日商店"
   },
   "cd-shop-pack-26-0318": {
-    "description": "【公告】如果恋举办纪念商店"
+    "description": "【公告】若恋举办纪念商店"
   },
   "cd-shop-pack-26-0318-0331": {
-    "description": "如果恋举办纪念商店"
+    "description": "若恋举办纪念商店"
   },
   "cd-shop-pack-26-0318-0331-dokan": {
-    "description": "【重磅】如果恋举办纪念商店"
+    "description": "【重磅】若恋举办纪念商店"
   },
   "cd-shop-pack-26-0318-0331-dokan-free": {
-    "description": "【咚】Web限定 如果恋爱举办纪念商店"
+    "description": "【咚】Web限定 若恋举办纪念商店"
   },
   "cd-shop-pack-26-0318-0331-mlv-120": {
-    "description": "如果恋爱举办纪念商店Mlv120控制"
+    "description": "若恋举办纪念商店Mlv120控制"
   },
   "cd-shop-pack-26-0327": {
     "description": "【公告】偶像荣耀庆典纪念商店"
@@ -47873,6 +48155,15 @@
   "cd-shop-pack-26-0918-1001-dokan-free": {
     "description": "【咚】Web限定 外出系列举办纪念商店"
   },
+  "cd-shop-pack-26-0926": {
+    "description": "【公告】沙季生日商店"
+  },
+  "cd-shop-pack-26-0926-1003": {
+    "description": "沙季生日商店"
+  },
+  "cd-shop-pack-26-0926-1003-dokan": {
+    "description": "【超值】沙季生日商店"
+  },
   "cd-shop-pack1-23-0809": {
     "description": "【公告】上线777天纪念商店"
   },
@@ -47931,6 +48222,21 @@
     "description": "【咚】Web限定 外出系列举办纪念商店"
   },
   "cd-shop-pack2-26-0831-0917-mlv-120": {
+    "description": "外出系列举办纪念商店Mlv120控制"
+  },
+  "cd-shop-pack2-26-1002": {
+    "description": "【公告】外出系列举办纪念商店"
+  },
+  "cd-shop-pack2-26-1002-1020": {
+    "description": "外出系列举办纪念商店"
+  },
+  "cd-shop-pack2-26-1002-1020-dokan": {
+    "description": "【咚】外出系列举办纪念商店"
+  },
+  "cd-shop-pack2-26-1002-1020-dokan-free": {
+    "description": "【咚】Web限定 外出系列举办纪念商店"
+  },
+  "cd-shop-pack2-26-1002-1020-mlv-120": {
     "description": "外出系列举办纪念商店Mlv120控制"
   },
   "cd-shop-pack3-25-0212": {
@@ -48459,6 +48765,9 @@
     "description": "服装商店重磅&横幅期间"
   },
   "cd-shop_dress-shop-26-0918-1001": {
+    "description": "服装商店重磅&横幅期间"
+  },
+  "cd-shop_dress-shop-26-1002-1020": {
     "description": "服装商店重磅&横幅期间"
   },
   "cd-shop_ever-clear": {
@@ -49622,6 +49931,9 @@
   "cd-shop_special-shop-26-0918-1001-1": {
     "description": "相册胶片包期间"
   },
+  "cd-shop_special-shop-26-1002-1020-1": {
+    "description": "相册胶片包期间"
+  },
   "cd-shop_special-shop-banner-21-1125": {
     "description": "惊喜商店S横幅期间"
   },
@@ -50043,13 +50355,13 @@
     "description": "【爆】秋季特别商店第3弹"
   },
   "cd-special-shop-pack-23-1114": {
-    "description": "【公告】如果恋举办纪念特别商店"
+    "description": "【公告】若恋举办纪念特别商店"
   },
   "cd-special-shop-pack-23-1114-1120": {
-    "description": "如果恋举办纪念特别商店"
+    "description": "若恋举办纪念特别商店"
   },
   "cd-special-shop-pack-23-1114-1120-dokan": {
-    "description": "【爆】如果恋举办纪念特别商店"
+    "description": "【爆】若恋举办纪念特别商店"
   },
   "cd-special-shop-pack-23-1125": {
     "description": "【公告】圣诞全明星特别商店"
@@ -50211,13 +50523,13 @@
     "description": "【扭蛋】跃入夏日！Miracle Dive★5偶像1人确定券扭蛋"
   },
   "cd-special-shop-pack-24-0517": {
-    "description": "【公告】如果恋举办纪念特别商店"
+    "description": "【公告】若恋举办纪念特别商店"
   },
   "cd-special-shop-pack-24-0517-0530": {
-    "description": "如果恋举办纪念特别商店"
+    "description": "若恋举办纪念特别商店"
   },
   "cd-special-shop-pack-24-0517-0530-dokan": {
-    "description": "【爆】如果恋举办纪念特别商店"
+    "description": "【爆】若恋举办纪念特别商店"
   },
   "cd-special-shop-pack-24-0517-0530-gacha": {
     "description": "【扭蛋】倘若与你相恋～早坂芽衣篇～★5偶像1人确定券扭蛋"
@@ -50481,13 +50793,13 @@
     "description": "瑠依生日特别商店Mlv140控制"
   },
   "cd-special-shop-pack-24-1114": {
-    "description": "【公告】如果恋举办纪念特别商店"
+    "description": "【公告】若恋举办纪念特别商店"
   },
   "cd-special-shop-pack-24-1114-1127": {
-    "description": "如果恋举办纪念特别商店"
+    "description": "若恋举办纪念特别商店"
   },
   "cd-special-shop-pack-24-1114-1127-dokan": {
-    "description": "【爆】如果恋举办纪念特别商店"
+    "description": "【爆】若恋举办纪念特别商店"
   },
   "cd-special-shop-pack-24-1122": {
     "description": "【公告】千纱生日特别商店"
@@ -51441,13 +51753,13 @@
     "description": "感恩祭特别商店第2弹Mlv120控制"
   },
   "cd-special-shop-pack-26-0318": {
-    "description": "【公告】如果恋举办纪念特别商店"
+    "description": "【公告】若恋举办纪念特别商店"
   },
   "cd-special-shop-pack-26-0318-0323": {
-    "description": "如果恋举办纪念特别商店"
+    "description": "若恋举办纪念特别商店"
   },
   "cd-special-shop-pack-26-0318-0323-dokan": {
-    "description": "【爆】如果恋举办纪念特别商店"
+    "description": "【爆】若恋举办纪念特别商店"
   },
   "cd-special-shop-pack-26-0327": {
     "description": "【公告】IDOLY PRIDE庆典举办纪念特别商店"
@@ -51734,6 +52046,27 @@
   "cd-special-shop-pack-26-0918-1001-mlv-120": {
     "description": "外出系列举办纪念特别商店Mlv120控制"
   },
+  "cd-special-shop-pack-26-0926": {
+    "description": "【公告】沙季生日特别商店"
+  },
+  "cd-special-shop-pack-26-0926-1003": {
+    "description": "沙季生日特别商店"
+  },
+  "cd-special-shop-pack-26-0926-1003-dokan": {
+    "description": "【重磅】沙季生日特别商店"
+  },
+  "cd-special-shop-pack-26-1002": {
+    "description": "【公告】外出系列举办纪念特别商店"
+  },
+  "cd-special-shop-pack-26-1002-1020": {
+    "description": "外出系列举办纪念特别商店"
+  },
+  "cd-special-shop-pack-26-1002-1020-dokan": {
+    "description": "【咚】外出系列举办纪念特别商店"
+  },
+  "cd-special-shop-pack-26-1002-1020-mlv-120": {
+    "description": "外出系列举办纪念特别商店Mlv120控制"
+  },
   "cd-special-shop-pack2-0831-0917-02": {
     "description": "暖阳下的假日Ⅰ･Ⅱ1人★5确定10连扭蛋券商店"
   },
@@ -51913,6 +52246,12 @@
   },
   "cd-special-shop-pack2-26-0918-1001-02-dokan": {
     "description": "【爆】白翼小憩 1人★5确定10连抽卡券商店"
+  },
+  "cd-special-shop-pack2-26-1002-1020-02": {
+    "description": "月光下的weekendⅠ･Ⅱ 1人★5确定10连扭蛋券商店"
+  },
+  "cd-special-shop-pack2-26-1002-1020-02-dokan": {
+    "description": "【爆】月光下的weekendⅠ･Ⅱ 1人★5确定10连扭蛋券商店"
   },
   "cd-st-eve-2108-marathon-001": {
     "description": "通关1种关卡"
@@ -54002,6 +54341,36 @@
   "cd-st-main-cmn-03-01-56-view": {
     "description": "观看星空篇第55话"
   },
+  "cd-st-main-cmn-03-01-57-unlock": {
+    "description": "通关主线演唱会#26"
+  },
+  "cd-st-main-cmn-03-01-57-view": {
+    "description": "观看星空篇第56话"
+  },
+  "cd-st-main-cmn-03-01-58-unlock": {
+    "description": "通关主线演唱会#26"
+  },
+  "cd-st-main-cmn-03-01-58-view": {
+    "description": "观看星空篇第57话"
+  },
+  "cd-st-main-cmn-03-01-59-unlock": {
+    "description": "通关主线演唱会#26"
+  },
+  "cd-st-main-cmn-03-01-59-view": {
+    "description": "观看星空篇第58话"
+  },
+  "cd-st-main-cmn-03-01-60-unlock": {
+    "description": "通关主线演唱会#26"
+  },
+  "cd-st-main-cmn-03-01-60-view": {
+    "description": "观看星空篇第59话"
+  },
+  "cd-st-main-cmn-03-01-61-unlock": {
+    "description": "通关主线演唱会#26"
+  },
+  "cd-st-main-cmn-03-01-61-view": {
+    "description": "观看星空篇第60话"
+  },
   "cd-st-main-cmn-22-0922-1200": {
     "description": "22/09/22 12:00以后"
   },
@@ -55124,6 +55493,9 @@
   "cd-st-read-st-card-kor-05-xmas-00-03": {
     "description": "观看#3\n后解锁"
   },
+  "cd-st-read-st-card-ktn-05-casl-04-03": {
+    "description": "观看#3\n后解锁"
+  },
   "cd-st-read-st-card-ktn-05-circ-00-03": {
     "description": "观看#3\n后解锁"
   },
@@ -55167,6 +55539,9 @@
     "description": "观看#3\n后解锁"
   },
   "cd-st-read-st-card-mei-05-casl-02-03": {
+    "description": "观看#3\n后解锁"
+  },
+  "cd-st-read-st-card-mei-05-casl-04-03": {
     "description": "观看#3\n后解锁"
   },
   "cd-st-read-st-card-mei-05-fest-00-03": {
@@ -55284,6 +55659,9 @@
     "description": "观看#3\n后解锁"
   },
   "cd-st-read-st-card-ngs-05-casl-02-03": {
+    "description": "观看#3\n后解锁"
+  },
+  "cd-st-read-st-card-ngs-05-casl-04-03": {
     "description": "观看#3\n后解锁"
   },
   "cd-st-read-st-card-ngs-05-fest-02-03": {
@@ -55472,6 +55850,9 @@
   "cd-st-read-st-card-rui-05-yukt-00-03": {
     "description": "观看#3\n后解锁"
   },
+  "cd-st-read-st-card-ski-05-casl-04-03": {
+    "description": "观看#3\n后解锁"
+  },
   "cd-st-read-st-card-ski-05-chsk-00-03": {
     "description": "观看#3\n后解锁"
   },
@@ -55623,6 +56004,9 @@
     "description": "观看#3\n后解锁"
   },
   "cd-st-read-st-card-suz-05-anml-00-03": {
+    "description": "观看#3\n后解锁"
+  },
+  "cd-st-read-st-card-suz-05-casl-04-03": {
     "description": "观看#3\n后解锁"
   },
   "cd-st-read-st-card-suz-05-fest-02-03": {
@@ -56886,10 +57270,10 @@
     "description": "雪未来联动倒计时"
   },
   "cd-time-countdown-24-0515": {
-    "description": "如果恋爱倒计时1"
+    "description": "若恋倒计时1"
   },
   "cd-time-countdown-24-0516": {
-    "description": "如果恋爱倒计时2"
+    "description": "若恋倒计时2"
   },
   "cd-time-countdown-24-0618": {
     "description": "3周年倒计时1"
@@ -56925,10 +57309,10 @@
     "description": "倒计时2"
   },
   "cd-time-countdown-24-1112": {
-    "description": "如果恋爱倒计时1"
+    "description": "若恋倒计时1"
   },
   "cd-time-countdown-24-1113": {
-    "description": "如果恋爱倒计时2"
+    "description": "若恋倒计时2"
   },
   "cd-time-countdown-24-1221": {
     "description": "倒计时1"
@@ -56973,10 +57357,10 @@
     "description": "倒计时3"
   },
   "cd-time-countdown-26-0316": {
-    "description": "如果恋爱倒计时1"
+    "description": "若恋倒计时1"
   },
   "cd-time-countdown-26-0317": {
-    "description": "如果恋爱倒计时2"
+    "description": "若恋倒计时2"
   },
   "cd-time-countdown-26-0618": {
     "description": "倒计时1"
@@ -57153,6 +57537,9 @@
     "description": "特别每日演唱会举办期间"
   },
   "cd-time-daily-sp-26-0918-26-1001": {
+    "description": "特别每日演唱会举办期间"
+  },
+  "cd-time-daily-sp-26-1002-26-1021": {
     "description": "特别每日演唱会举办期间"
   },
   "cd-time-diary-21-1009": {
@@ -57450,6 +57837,9 @@
     "description": "形象训练任务"
   },
   "cd-time-dream-26-09": {
+    "description": "形象训练任务"
+  },
+  "cd-time-dream-26-10": {
     "description": "形象训练任务"
   },
   "cd-time-dress-shop-fix-2504-key-get": {
@@ -57774,6 +58164,12 @@
     "description": "外出任务"
   },
   "cd-time-event-ms-spr-26-0926-1002-mlv20": {
+    "description": "外出任务"
+  },
+  "cd-time-event-ms-spr-26-1010-1016": {
+    "description": "外出任务"
+  },
+  "cd-time-event-ms-spr-26-1010-1016-mlv20": {
     "description": "外出任务"
   },
   "cd-time-event-ms-story-shooting-24-0304-0311-unlock": {
@@ -58451,6 +58847,9 @@
   "cd-time-exchange-gacha_point-26-1001-1031": {
     "description": "期间设定_兑换所10月"
   },
+  "cd-time-exchange-gacha_point-26-1101-1130": {
+    "description": "期间设定_兑换所11月"
+  },
   "cd-time-exchange-idle_medal-21-0624-0731": {
     "description": "期间设定_兑换所6-7月"
   },
@@ -58643,6 +59042,9 @@
   "cd-time-exchange-idle_medal-26-1001-1031": {
     "description": "期间设定_兑换所10月"
   },
+  "cd-time-exchange-idle_medal-26-1101-1130": {
+    "description": "期间设定_兑换所11月"
+  },
   "cd-time-exchange-idol_medal-21-0630-0831": {
     "description": "泳装服装交换期间"
   },
@@ -58789,6 +59191,9 @@
   },
   "cd-time-exchange-league_medal-26-1001-1031": {
     "description": "期间设定_兑换所10月"
+  },
+  "cd-time-exchange-league_medal-26-1101-1130": {
+    "description": "期间设定_兑换所11月"
   },
   "cd-time-exchange-limit-cos": {
     "description": "持有兑换所的3件泳装"
@@ -59045,6 +59450,9 @@
   "cd-time-exchange-pvp_medal-26-1001-1031": {
     "description": "期间设定_兑换所10月"
   },
+  "cd-time-exchange-pvp_medal-26-1101-1130": {
+    "description": "期间设定_兑换所11月"
+  },
   "cd-time-exchange-situation-illust-23-0624": {
     "description": "期间：★5情境插画兑换所"
   },
@@ -59104,6 +59512,15 @@
   },
   "cd-time-gacha-all-star-01-26-0918-banner-end": {
     "description": "横幅期间结束条件：期间：白翼小憩 1人★5确定免费券扭蛋"
+  },
+  "cd-time-gacha-all-star-01-26-1002": {
+    "description": "期间：月光下的weekendⅠ･Ⅱ 1人★5确定免费扭蛋券扭蛋"
+  },
+  "cd-time-gacha-all-star-01-26-1002-banner": {
+    "description": "横幅期间：期间：月光下的weekendⅠ･Ⅱ 1人★5确定免费扭蛋券扭蛋"
+  },
+  "cd-time-gacha-all-star-01-26-1002-banner-end": {
+    "description": "横幅期间结束条件：期间：月光下的weekendⅠ･Ⅱ 1人★5确定免费扭蛋券扭蛋"
   },
   "cd-time-gacha-beginner-21-0816": {
     "description": "游戏开始后72小时限定"
@@ -59768,6 +60185,12 @@
   "cd-time-gacha-birthday-26-0913-banner": {
     "description": "期间：铃生日扭蛋2026_横幅"
   },
+  "cd-time-gacha-birthday-26-0926": {
+    "description": "期间：沙季生日扭蛋2026"
+  },
+  "cd-time-gacha-birthday-26-0926-banner": {
+    "description": "期间：沙季生日扭蛋2026_横幅"
+  },
   "cd-time-gacha-birthday-hair-23-0707": {
     "description": "套装发型"
   },
@@ -59958,6 +60381,9 @@
     "description": "套装发型"
   },
   "cd-time-gacha-birthday-hair-26-0913": {
+    "description": "套装发型"
+  },
+  "cd-time-gacha-birthday-hair-26-0926": {
     "description": "套装发型"
   },
   "cd-time-gacha-continuous-22-0624": {
@@ -60752,6 +61178,27 @@
   "cd-time-gacha-excursion-01-26-0918-free-open": {
     "description": "期间限定扭蛋免费10连的首次"
   },
+  "cd-time-gacha-excursion-01-26-1002": {
+    "description": "期间：月光下的weekendⅠ精选扭蛋"
+  },
+  "cd-time-gacha-excursion-01-26-1002-banner": {
+    "description": "期间：月光下的weekendⅠ精选扭蛋横幅"
+  },
+  "cd-time-gacha-excursion-01-26-1002-dokan": {
+    "description": "期间：月光下的weekendⅠ精选扭蛋咚"
+  },
+  "cd-time-gacha-excursion-01-26-1002-free": {
+    "description": "期间：The Black Lily Ⅱ-免费10连举办期间"
+  },
+  "cd-time-gacha-excursion-01-26-1002-free-banner": {
+    "description": "期间限定扭蛋免费10连的首次份_横幅"
+  },
+  "cd-time-gacha-excursion-01-26-1002-free-check": {
+    "description": "期间限定扭蛋免费10连的首次抽取了吗"
+  },
+  "cd-time-gacha-excursion-01-26-1002-free-open": {
+    "description": "期间限定扭蛋免费10连的首次"
+  },
   "cd-time-gacha-excursion-02-26-0731": {
     "description": "期间：黑百合们的off time Ⅱ精选扭蛋"
   },
@@ -60794,6 +61241,27 @@
   "cd-time-gacha-excursion-02-26-0831-free-open": {
     "description": "期间限定扭蛋免费10连的首次"
   },
+  "cd-time-gacha-excursion-02-26-1002": {
+    "description": "期间：月光下的weekendⅡ精选扭蛋"
+  },
+  "cd-time-gacha-excursion-02-26-1002-banner": {
+    "description": "期间：月光下的weekendⅡ精选扭蛋横幅"
+  },
+  "cd-time-gacha-excursion-02-26-1002-dokan": {
+    "description": "期间：月光下的weekendⅡ精选扭蛋咚"
+  },
+  "cd-time-gacha-excursion-02-26-1002-free": {
+    "description": "期间：The Black Lily Ⅱ-免费10连举办期间"
+  },
+  "cd-time-gacha-excursion-02-26-1002-free-banner": {
+    "description": "期间限定扭蛋免费10连的首次份_横幅"
+  },
+  "cd-time-gacha-excursion-02-26-1002-free-check": {
+    "description": "期间限定扭蛋免费10连的首次抽取了吗"
+  },
+  "cd-time-gacha-excursion-02-26-1002-free-open": {
+    "description": "期间限定扭蛋免费10连的首次"
+  },
   "cd-time-gacha-fes-21-0928": {
     "description": "期间：IDOLY PRIDE庆典"
   },
@@ -60833,11 +61301,17 @@
   "cd-time-gacha-fixed-01-26-0918": {
     "description": "期间：白翼小憩精选扭蛋"
   },
+  "cd-time-gacha-fixed-01-26-1002": {
+    "description": "期间：月光下的weekendⅠ精选扭蛋"
+  },
   "cd-time-gacha-fixed-02-26-0731": {
     "description": "期间：黑百合们的off time Ⅱ精选扭蛋"
   },
   "cd-time-gacha-fixed-02-26-0831": {
     "description": "期间：暖阳下的假日Ⅱ精选扭蛋"
+  },
+  "cd-time-gacha-fixed-02-26-1002": {
+    "description": "期间：月光下的weekendⅡ精选扭蛋"
   },
   "cd-time-gacha-fixed-22-0101": {
     "description": "期间：新春★5偶像1人确定10连扭蛋"
@@ -61980,10 +62454,10 @@
     "description": "横幅期间结束条件：期间：★5偶像1人确定精选扭蛋"
   },
   "cd-time-gacha-fixed-25-0902": {
-    "description": "期间：【复刻】如果恋爱~伊吹渚篇~"
+    "description": "期间：【复刻】若恋~伊吹渚篇~"
   },
   "cd-time-gacha-fixed-25-0902-banner": {
-    "description": "期间：【复刻】如果恋爱~伊吹渚篇~_横幅"
+    "description": "期间：【复刻】若恋~伊吹渚篇~_横幅"
   },
   "cd-time-gacha-fixed-25-0904": {
     "description": "期间：★5偶像1人确定精选扭蛋"
@@ -62327,6 +62801,15 @@
   "cd-time-gacha-fixed-26-0913-banner-end": {
     "description": "横幅期间结束条件：期间：★5偶像1人确定精选扭蛋"
   },
+  "cd-time-gacha-fixed-26-0926": {
+    "description": "期间：★5偶像1人确定精选扭蛋"
+  },
+  "cd-time-gacha-fixed-26-0926-banner": {
+    "description": "横幅期间：期间：★5偶像1人确定精选扭蛋"
+  },
+  "cd-time-gacha-fixed-26-0926-banner-end": {
+    "description": "横幅期间结束条件：期间：★5偶像1人确定精选扭蛋"
+  },
   "cd-time-gacha-fixed-selection-01-26-0618": {
     "description": "期间：复刻生日全明星1人★5确定扭蛋"
   },
@@ -62448,13 +62931,13 @@
     "description": "横幅期间结束条件：期间：1人★5确定自选扭蛋"
   },
   "cd-time-gacha-fixed-selection-23-1116": {
-    "description": "期间：如果恋举办纪念1人★5确定伊吹渚自选扭蛋"
+    "description": "期间：若恋举办纪念1人★5确定伊吹渚自选扭蛋"
   },
   "cd-time-gacha-fixed-selection-23-1116-banner": {
-    "description": "横幅期间：期间：如果恋举办纪念1人★5确定伊吹渚自选扭蛋"
+    "description": "横幅期间：期间：若恋举办纪念1人★5确定伊吹渚自选扭蛋"
   },
   "cd-time-gacha-fixed-selection-23-1116-banner-end": {
-    "description": "横幅期间结束条件：期间：如果恋举办纪念1人★5确定伊吹渚自选扭蛋"
+    "description": "横幅期间结束条件：期间：若恋举办纪念1人★5确定伊吹渚自选扭蛋"
   },
   "cd-time-gacha-fixed-selection-23-1123": {
     "description": "期间：1人★5确定自选扭蛋"
@@ -62526,13 +63009,13 @@
     "description": "横幅期间结束条件：期间：1人★5确定自选扭蛋"
   },
   "cd-time-gacha-fixed-selection-24-0519": {
-    "description": "期间：如果恋爱举办纪念1人★5确定早坂芽衣自选扭蛋"
+    "description": "期间：若恋举办纪念1人★5确定早坂芽衣自选扭蛋"
   },
   "cd-time-gacha-fixed-selection-24-0519-banner": {
-    "description": "横幅期间：期间：如果恋爱举办纪念1人★5确定早坂芽衣自选扭蛋"
+    "description": "横幅期间：期间：若恋举办纪念1人★5确定早坂芽衣自选扭蛋"
   },
   "cd-time-gacha-fixed-selection-24-0519-banner-end": {
-    "description": "横幅期间结束条件：期间：如果恋爱举办纪念1人★5确定早坂芽衣自选扭蛋"
+    "description": "横幅期间结束条件：期间：若恋举办纪念1人★5确定早坂芽衣自选扭蛋"
   },
   "cd-time-gacha-fixed-selection-24-0707": {
     "description": "期间：3周年纪念 生日全明星1人★5确定扭蛋"
@@ -63956,6 +64439,12 @@
   "cd-time-gacha-free-ticket-1s-26-0920": {
     "description": "免费扭蛋券"
   },
+  "cd-time-gacha-free-ticket-1s-26-0930": {
+    "description": "免费扭蛋券"
+  },
+  "cd-time-gacha-free-ticket-1s-26-1010": {
+    "description": "免费扭蛋券"
+  },
   "cd-time-gacha-fs-select-22-0628": {
     "description": "期间：可选偶像荣耀祭典扭蛋"
   },
@@ -64358,10 +64847,16 @@
   "cd-time-gacha-lm-set-bloom-01-26-0918-free-ticket-1s": {
     "description": "持有专用扭蛋券"
   },
+  "cd-time-gacha-lm-set-bloom-01-26-1002-free-ticket-1s": {
+    "description": "持有专用扭蛋券"
+  },
   "cd-time-gacha-lm-set-bloom-02-26-0731-free-ticket-1s": {
     "description": "持有专用扭蛋券"
   },
   "cd-time-gacha-lm-set-bloom-02-26-0831-free-ticket-1s": {
+    "description": "持有专用扭蛋券"
+  },
+  "cd-time-gacha-lm-set-bloom-02-26-1002-free-ticket-1s": {
     "description": "持有专用扭蛋券"
   },
   "cd-time-gacha-lm-set-bloom-21-1130": {
@@ -65961,10 +66456,10 @@
     "description": "期间：如果与你坠入爱河～伊吹渚篇～_横幅"
   },
   "cd-time-gacha-pick-set-bloom-23-1215": {
-    "description": "期间：【复刻】如果恋～一之濑怜篇～"
+    "description": "期间：【复刻】若恋～一之濑怜篇～"
   },
   "cd-time-gacha-pick-set-bloom-23-1215-dokan-end": {
-    "description": "期间：【复刻】如果恋～一之濑怜篇～"
+    "description": "期间：【复刻】若恋～一之濑怜篇～"
   },
   "cd-time-gacha-pick-set-bloom-24-0115": {
     "description": "期间：辉光水滴、满溢的思念"
@@ -66042,7 +66537,7 @@
     "description": "期间：如果与你坠入爱河～早坂芽衣篇～_横幅"
   },
   "cd-time-gacha-pick-set-bloom-24-0604": {
-    "description": "期间：【复刻】如果恋爱~伊吹渚篇~"
+    "description": "期间：【复刻】若恋~伊吹渚篇~"
   },
   "cd-time-gacha-pick-set-bloom-24-0607": {
     "description": "期间：苍之追怀"
@@ -66099,10 +66594,10 @@
     "description": "期间：如果与你坠入爱河~铃村优篇~_横幅"
   },
   "cd-time-gacha-pick-set-bloom-24-1210": {
-    "description": "期间：【复刻】如果恋爱~早坂芽衣篇~"
+    "description": "期间：【复刻】若恋~早坂芽衣篇~"
   },
   "cd-time-gacha-pick-set-bloom-24-1210-banner": {
-    "description": "期间：【复刻】如果恋～早坂芽衣篇～_横幅"
+    "description": "期间：【复刻】若恋～早坂芽衣篇～_横幅"
   },
   "cd-time-gacha-pick-set-bloom-25-0115": {
     "description": "期间：热带幸福"
@@ -66135,10 +66630,10 @@
     "description": "期间：隐藏寂寞的五月雨_横幅"
   },
   "cd-time-gacha-pick-set-bloom-25-0515": {
-    "description": "期间：【复刻】如果恋～铃村优篇～"
+    "description": "期间：【复刻】若恋～铃村优篇～"
   },
   "cd-time-gacha-pick-set-bloom-25-0515-banner": {
-    "description": "期间：【复刻】如果恋～铃村优篇～_横幅"
+    "description": "期间：【复刻】若恋～铃村优篇～_横幅"
   },
   "cd-time-gacha-pick-set-bloom-25-0518": {
     "description": "期间：引以为傲的棋子"
@@ -66147,10 +66642,10 @@
     "description": "期间：引以为傲的棋子_横幅"
   },
   "cd-time-gacha-pick-set-bloom-25-0601": {
-    "description": "期间：【复刻】如果恋～一之濑怜篇～"
+    "description": "期间：【复刻】若恋～一之濑怜篇～"
   },
   "cd-time-gacha-pick-set-bloom-25-0601-banner": {
-    "description": "期间：【复刻】如果恋～一之濑怜篇～_横幅"
+    "description": "期间：【复刻】若恋～一之濑怜篇～_横幅"
   },
   "cd-time-gacha-pick-set-bloom-25-0718": {
     "description": "期间：将燃烧的思念注入拳中"
@@ -66183,10 +66678,10 @@
     "description": "期间：炸裂！弹丸发球！！_横幅"
   },
   "cd-time-gacha-pick-set-bloom-25-1211": {
-    "description": "期间：【复刻】如果恋爱~早坂芽衣篇~"
+    "description": "期间：【复刻】若恋~早坂芽衣篇~"
   },
   "cd-time-gacha-pick-set-bloom-25-1211-banner": {
-    "description": "期间：【复刻】如果恋～早坂芽衣篇～_横幅"
+    "description": "期间：【复刻】若恋～早坂芽衣篇～_横幅"
   },
   "cd-time-gacha-pick-set-bloom-26-0115": {
     "description": "期间：回响之音的记忆"
@@ -66213,10 +66708,10 @@
     "description": "期间：如果与你坠入爱河~神崎莉央篇~_横幅"
   },
   "cd-time-gacha-pick-set-bloom-26-0407": {
-    "description": "期间：【复刻】如果恋～铃村优篇～"
+    "description": "期间：【复刻】若恋～铃村优篇～"
   },
   "cd-time-gacha-pick-set-bloom-26-0407-banner": {
-    "description": "期间：【复刻】如果恋～铃村优篇～_横幅"
+    "description": "期间：【复刻】若恋～铃村优篇～_横幅"
   },
   "cd-time-gacha-pick-set-bloom-26-0417": {
     "description": "期间：The Mad Tea Party"
@@ -67971,10 +68466,10 @@
     "description": "横幅期间结束条件：麻奈生日纪念锁定扭蛋"
   },
   "cd-time-gacha-rev-rockon-01-24-1115-banner": {
-    "description": "横幅期间：1人★5确定锁定扭蛋 如果恋ver"
+    "description": "横幅期间：1人★5确定锁定扭蛋 若恋ver"
   },
   "cd-time-gacha-rev-rockon-01-24-1115-banner-end": {
-    "description": "横幅期间结束条件：1人★5确定锁定扭蛋 如果恋ver"
+    "description": "横幅期间结束条件：1人★5确定锁定扭蛋 若恋ver"
   },
   "cd-time-gacha-rev-rockon-01-24-1218-banner": {
     "description": "横幅期间：LizNoir番外篇完结纪念锁定"
@@ -68079,10 +68574,10 @@
     "description": "期间：可选★5偶像扭蛋TRINITYAiLE ver_横幅"
   },
   "cd-time-gacha-rev-select-01-23-1116": {
-    "description": "期间：如果恋举办纪念可选★5伊吹渚扭蛋"
+    "description": "期间：若恋举办纪念可选★5伊吹渚扭蛋"
   },
   "cd-time-gacha-rev-select-01-23-1116-banner": {
-    "description": "期间：如果恋举办纪念可选★5伊吹渚扭蛋_横幅"
+    "description": "期间：若恋举办纪念可选★5伊吹渚扭蛋_横幅"
   },
   "cd-time-gacha-rev-select-01-23-1201": {
     "description": "期间：可选★5复刻扭蛋"
@@ -68205,7 +68700,7 @@
     "description": "期间：可选★5偶像扭蛋"
   },
   "cd-time-gacha-rev-select-01-24-0519": {
-    "description": "期间：如果恋爱举办纪念可选★5早坂芽衣扭蛋"
+    "description": "期间：若恋举办纪念可选★5早坂芽衣扭蛋"
   },
   "cd-time-gacha-rev-select-01-24-0530": {
     "description": "期间：即将3周年纪念可选★5偶像扭蛋"
@@ -68631,6 +69126,12 @@
     "description": "期间：可选★5偶像扭蛋 TRINITYAiLE ver."
   },
   "cd-time-gacha-rev-select-01-26-0920-banner": {
+    "description": "横幅期间结束条件：SUNNY PEACE2STEP"
+  },
+  "cd-time-gacha-rev-select-01-26-1004": {
+    "description": "期间：可选★5偶像扭蛋 月光风暴 ver."
+  },
+  "cd-time-gacha-rev-select-01-26-1004-banner": {
     "description": "横幅期间结束条件：SUNNY PEACE2STEP"
   },
   "cd-time-gacha-rev-select-24-1130": {
@@ -69479,6 +69980,21 @@
   "cd-time-gacha-rev-step-rockon-26-0920-2nd-banner": {
     "description": "横幅期间：外出发布纪念 1人★5确定 2STEP扭蛋"
   },
+  "cd-time-gacha-rev-step-rockon-26-1004-1st": {
+    "description": "期间：1人★5确定2STEP扭蛋 月光风暴 ver."
+  },
+  "cd-time-gacha-rev-step-rockon-26-1004-1st-banner": {
+    "description": "横幅期间：外出发布纪念 1人★5确定 2STEP扭蛋"
+  },
+  "cd-time-gacha-rev-step-rockon-26-1004-1st-banner-end": {
+    "description": "横幅结束条件：外出发布纪念 1人★5确定 2STEP扭蛋"
+  },
+  "cd-time-gacha-rev-step-rockon-26-1004-2nd": {
+    "description": "期间：1人★5确定复刻2STEP扭蛋"
+  },
+  "cd-time-gacha-rev-step-rockon-26-1004-2nd-banner": {
+    "description": "横幅期间：外出发布纪念 1人★5确定 2STEP扭蛋"
+  },
   "cd-time-gacha-select-01-21-1206": {
     "description": "期间：可选★5增益扭蛋"
   },
@@ -69735,7 +70251,7 @@
     "description": "期间：可选★5主唱扭蛋"
   },
   "cd-time-gacha-select-01-24-1115": {
-    "description": "期间：如果恋举办纪念 可选★5偶像扭蛋"
+    "description": "期间：若恋举办纪念 可选★5偶像扭蛋"
   },
   "cd-time-gacha-select-01-24-1123-banner": {
     "description": "横幅期间：锁定"
@@ -69881,6 +70397,9 @@
   "cd-time-gacha-select-01-26-0825": {
     "description": "期间：可选★5主唱扭蛋"
   },
+  "cd-time-gacha-select-01-26-0928": {
+    "description": "期间：可选★5视觉扭蛋"
+  },
   "cd-time-gacha-select-birthday-01-26-0707": {
     "description": "期间：【复刻】可选芽衣生日扭蛋"
   },
@@ -69892,6 +70411,9 @@
   },
   "cd-time-gacha-select-birthday-01-26-0913": {
     "description": "期间：【复刻】可选铃生日扭蛋"
+  },
+  "cd-time-gacha-select-birthday-01-26-0926": {
+    "description": "期间：【复刻】可选沙季生日扭蛋"
   },
   "cd-time-gift-21-0624-0627": {
     "description": "每周任务的补填用"
@@ -70104,6 +70626,9 @@
     "description": "GVG_S横幅 开始后3天"
   },
   "cd-time-gvg-26-0915-0917_s-banner": {
+    "description": "GVG_S横幅 开始后3天"
+  },
+  "cd-time-gvg-26-1015-1017_s-banner": {
     "description": "GVG_S横幅 开始后3天"
   },
   "cd-time-home-after-12": {
@@ -70560,10 +71085,10 @@
     "description": "GW纪念养成应援登录奖励领取期间"
   },
   "cd-time-login-23-0514-0520": {
-    "description": "如果恋爱登录奖励期间"
+    "description": "若恋登录奖励期间"
   },
   "cd-time-login-23-0514-0527": {
-    "description": "如果恋爱登录奖励领取期间"
+    "description": "若恋登录奖励领取期间"
   },
   "cd-time-login-23-0531-0604": {
     "description": "即将2周年纪念特别登录奖励期间"
@@ -70662,10 +71187,10 @@
     "description": "秋季第3弹登录奖励领取期间"
   },
   "cd-time-login-23-1114-1120": {
-    "description": "如果恋爱登录奖励期间"
+    "description": "若恋登录奖励期间"
   },
   "cd-time-login-23-1114-1127": {
-    "description": "如果恋爱登录奖励领取期间"
+    "description": "若恋登录奖励领取期间"
   },
   "cd-time-login-23-1125-1220": {
     "description": "回归登录奖励期间"
@@ -70764,10 +71289,10 @@
     "description": "GW登录奖励领取期间"
   },
   "cd-time-login-24-0517-0523": {
-    "description": "如果恋爱登录奖励期间"
+    "description": "若恋登录奖励期间"
   },
   "cd-time-login-24-0517-0530": {
-    "description": "如果恋爱登录奖励领取期间"
+    "description": "若恋登录奖励领取期间"
   },
   "cd-time-login-24-0529-0602": {
     "description": "即将3周年\n纪念特别登录奖励期间"
@@ -70989,10 +71514,10 @@
     "description": "IDOLY PRIDE感谢祭登录奖励领取期间"
   },
   "cd-time-login-26-0319-0325": {
-    "description": "如果恋举办纪念登录奖励登录期间"
+    "description": "若恋举办纪念登录奖励登录期间"
   },
   "cd-time-login-26-0319-0401": {
-    "description": "如果恋举办纪念登录奖励领取期间"
+    "description": "若恋举办纪念登录奖励领取期间"
   },
   "cd-time-login-26-0328-0403": {
     "description": "Fes举办纪念登录奖励登录期间"
@@ -71037,10 +71562,10 @@
     "description": "夏日登录奖励领取期间"
   },
   "cd-time-login02-24-1114-1120": {
-    "description": "如果恋爱登录奖励期间"
+    "description": "若恋登录奖励期间"
   },
   "cd-time-login02-24-1114-1127": {
-    "description": "如果恋爱登录奖励领取期间"
+    "description": "若恋登录奖励领取期间"
   },
   "cd-time-login02-24-1209-1215": {
     "description": "联动登录奖励期间"
@@ -71255,6 +71780,12 @@
   "cd-time-login02-26-0920-1003": {
     "description": "外出登录奖励领取期间"
   },
+  "cd-time-login02-26-1004-1010": {
+    "description": "外出登录奖励期间"
+  },
+  "cd-time-login02-26-1004-1017": {
+    "description": "外出登录奖励领取期间"
+  },
   "cd-time-market-discount-day": {
     "description": "逢10之日"
   },
@@ -71459,6 +71990,12 @@
   "cd-time-market-discount-day-26-0920": {
     "description": "逢10之日"
   },
+  "cd-time-market-discount-day-26-0930": {
+    "description": "逢10之日"
+  },
+  "cd-time-market-discount-day-26-1010": {
+    "description": "逢10之日"
+  },
   "cd-time-market-phase-001-close": {
     "description": "市场关闭"
   },
@@ -71657,6 +72194,9 @@
   "cd-time-medal-buttonbadge-birthday-26-0913": {
     "description": "期间：铃生日扭蛋2026徽章兑换"
   },
+  "cd-time-medal-buttonbadge-birthday-26-0926": {
+    "description": "期间：沙季生日扭蛋2026徽章交换"
+  },
   "cd-time-medal-buttonbadge-fs-set-bloom-24-0626": {
     "description": "期间：IDOLY PRIDE庆典 The MOON Ⅰ徽章交换"
   },
@@ -71815,6 +72355,9 @@
   },
   "cd-time-medal-buttonbadge-lm-set-bloom-26-0918": {
     "description": "期间：白翼小憩精选扭蛋徽章交换"
+  },
+  "cd-time-medal-buttonbadge-lm-set-bloom-26-1002": {
+    "description": "期间：月光下的weekendⅠ精选扭蛋徽章交换"
   },
   "cd-time-mirrativ-close-21-0731-0801": {
     "description": "mirrativ通知"
@@ -74055,6 +74598,9 @@
     "description": "PVP_S横幅 开始后3天"
   },
   "cd-time-pvp-26-0924-0926_s-banner": {
+    "description": "PVP_S横幅 开始后3天"
+  },
+  "cd-time-pvp-26-1004-1006_s-banner": {
     "description": "PVP_S横幅 开始后3天"
   },
   "cd-time-questionnaire-21-0702-0709_s-banner": {

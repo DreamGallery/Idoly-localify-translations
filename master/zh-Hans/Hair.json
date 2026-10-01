@@ -1121,6 +1121,9 @@
   "hair-ktn-casl-01": {
     "name": "休闲风格"
   },
+  "hair-ktn-casl-04": {
+    "name": "外出风格"
+  },
   "hair-ktn-circ-00": {
     "name": "竞速共鸣"
   },
@@ -1309,6 +1312,9 @@
   },
   "hair-mei-casl-02": {
     "name": "约会装扮"
+  },
+  "hair-mei-casl-04": {
+    "name": "外出风格"
   },
   "hair-mei-date-00": {
     "name": "纯白之洁"
@@ -1741,6 +1747,9 @@
   },
   "hair-ngs-casl-02": {
     "name": "约会装扮"
+  },
+  "hair-ngs-casl-04": {
+    "name": "外出风格"
   },
   "hair-ngs-date-00": {
     "name": "苍穹花蝶"
@@ -2414,6 +2423,9 @@
   "hair-ski-casl-01": {
     "name": "休闲风格"
   },
+  "hair-ski-casl-04": {
+    "name": "外出风格"
+  },
   "hair-ski-chsk-00": {
     "name": "相连之心Binary"
   },
@@ -2443,6 +2455,18 @@
   },
   "hair-ski-hair-23": {
     "name": "生日帽"
+  },
+  "hair-ski-hair-30": {
+    "name": "自然波波头"
+  },
+  "hair-ski-hair-31": {
+    "name": "迷你帽"
+  },
+  "hair-ski-hair-32": {
+    "name": "生日缎带"
+  },
+  "hair-ski-hair-33": {
+    "name": "圆框眼镜"
   },
   "hair-ski-hair-40": {
     "name": "梦幻发箍"
@@ -2914,6 +2938,9 @@
   },
   "hair-suz-casl-01": {
     "name": "休闲风格"
+  },
+  "hair-suz-casl-04": {
+    "name": "外出风格"
   },
   "hair-suz-ggyt-00": {
     "name": "鱼鱼风格"

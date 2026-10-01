@@ -167,6 +167,9 @@
   "event-dream-26-09": {
     "name": "イベントミッション"
   },
+  "event-dream-26-10": {
+    "name": "イベントミッション"
+  },
   "event-duty-25-0115": {
     "name": "アイドル活動ミッション"
   },
@@ -629,6 +632,9 @@
   "event-shelf-26-0918": {
     "name": "フォトアルバム"
   },
+  "event-shelf-26-1002": {
+    "name": "フォトアルバム"
+  },
   "event-tour-21-0630": {
     "name": "イベントミッション"
   },
@@ -962,6 +968,12 @@
   "event_idoly-pride-day-mission-26-0920": {
     "name": "本日限定！0のつく日はアイプラの日！"
   },
+  "event_idoly-pride-day-mission-26-0930": {
+    "name": "本日限定！0のつく日はアイプラの日！"
+  },
+  "event_idoly-pride-day-mission-26-1010": {
+    "name": "本日限定！0のつく日はアイプラの日！"
+  },
   "event_live-mission-23-0503": {
     "name": "ライブミッション"
   },
@@ -1143,6 +1155,9 @@
     "name": "おでかけミッション"
   },
   "event_spr-mission-26-0926": {
+    "name": "おでかけミッション"
+  },
+  "event_spr-mission-26-1010": {
     "name": "おでかけミッション"
   },
   "event_story-mission-23-0619": {

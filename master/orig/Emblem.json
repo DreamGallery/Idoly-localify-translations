@@ -2463,6 +2463,10 @@
     "description": "沙季の誕生日を迎える",
     "name": "【誕生日】白石沙季"
   },
+  "emb-birthday_ski-06": {
+    "description": "沙季の誕生日を迎える",
+    "name": "【誕生日】白石沙季"
+  },
   "emb-birthday_skr-03": {
     "description": "さくらの誕生日を迎える",
     "name": "【誕生日】川咲さくら"
@@ -3154,6 +3158,14 @@
   "emb-gvg-season-063-top010": {
     "description": "ユニオンライブシーズン63 で10位以内獲得",
     "name": "ユニオンシーズン63 TOP10"
+  },
+  "emb-gvg-season-064-top001": {
+    "description": "ユニオンライブシーズン64 で1位獲得",
+    "name": "ユニオンシーズン64 No.1"
+  },
+  "emb-gvg-season-064-top010": {
+    "description": "ユニオンライブシーズン64 で10位以内獲得",
+    "name": "ユニオンシーズン64 TOP10"
   },
   "emb-highscore-15-0": {
     "description": "ハイスコアライブ「lumière」で100位以内獲得"
@@ -4754,6 +4766,18 @@
   "emb-pvp-season-181-top100": {
     "description": "VENUSバトルシーズン181で100位以内獲得",
     "name": "VENUSシーズン181 TOP100"
+  },
+  "emb-pvp-season-182-top001": {
+    "description": "VENUSバトルシーズン182で1位獲得",
+    "name": "VENUSシーズン182 No.1"
+  },
+  "emb-pvp-season-182-top010": {
+    "description": "VENUSバトルシーズン182で10位以内獲得",
+    "name": "VENUSシーズン182 TOP10"
+  },
+  "emb-pvp-season-182-top100": {
+    "description": "VENUSバトルシーズン182で100位以内獲得",
+    "name": "VENUSシーズン182 TOP100"
   },
   "emb-serial_cd-23-1206-moon-limited": {
     "description": "Question 初回生産限定盤特典"

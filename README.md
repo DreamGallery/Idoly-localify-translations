@@ -7,7 +7,8 @@
 | 路径 | 内容 |
 | --- | --- |
 | `story/ai/` | 现有 AI 剧情译文 CSV，按剧情类别、角色和章节分类 |
-| `story/human/` | 人工翻译目录，后续根据翻译工作流创建子目录 |
+| `story/human/`、`story/reviewed/` | Viewer 完成的人工翻译、校对 CSV |
+| `records/` | Viewer 完成轨道、版本与产物路径记录 |
 | `master/orig/` | MasterDB 文本原文，按表、记录和字段保存 |
 | `master/zh-Hans/` | 对应的简体中文译文 |
 | `master/overrides.json` | 已有的定向译文修订规则 |
@@ -25,4 +26,4 @@
 
 `glossary/extracted/candidates.json` 是术语候选，`evidence/` 保存对应证据，`coverage-gaps.json` 记录尚未确认的原文，`decisions.json` 用于后续审阅，`manifest.json` 记录来源和摘要。
 
-原始剧情 TXT 由 [Hoshimi-Adv](https://github.com/DreamGallery/Hoshimi-Adv) 保存。本仓库当前保存翻译源文件；正式资源发布流程将在翻译工作流确定后添加。`upstream.json` 是来源记录，插件更新地址使用的 `manifest.json` 将由发布流程另外生成。
+原始剧情 TXT 由 [Hoshimi-Adv](https://github.com/DreamGallery/Hoshimi-Adv) 保存。本仓库保存翻译源文件，并提供每天北京时间23点执行及手动触发的[更新发布工作流](docs/releases.md)。运行器配置完成后启用；人工正式稿会校验原文版本后优先合入。`upstream.json` 是来源记录，插件更新地址使用的 `manifest.json` 将由发布流程另外生成。

@@ -473,6 +473,13 @@
     "description": "1日1回",
     "name": "1回ガチャ - 有償デイリー"
   },
+  "btn-01-gacha-birthday-26-0926": {
+    "name": "1回ガチャ - ダイヤ"
+  },
+  "btn-01-gacha-birthday-26-0926-daily": {
+    "description": "1日1回",
+    "name": "1回ガチャ - 有償デイリー"
+  },
   "btn-01-gacha-continuous": {
     "name": "引き放題ガシャ - ダイヤ"
   },
@@ -588,6 +595,13 @@
     "description": "1日1回",
     "name": "1回ガチャ - 有償デイリー"
   },
+  "btn-01-gacha-excursion-01-26-1002": {
+    "name": "1回ガチャ - ダイヤ"
+  },
+  "btn-01-gacha-excursion-01-26-1002-daily": {
+    "description": "1日1回",
+    "name": "1回ガチャ - 有償デイリー"
+  },
   "btn-01-gacha-excursion-02-26-0731": {
     "name": "1回ガチャ - ダイヤ"
   },
@@ -599,6 +613,13 @@
     "name": "1回ガチャ - ダイヤ"
   },
   "btn-01-gacha-excursion-02-26-0831-daily": {
+    "description": "1日1回",
+    "name": "1回ガチャ - 有償デイリー"
+  },
+  "btn-01-gacha-excursion-02-26-1002": {
+    "name": "1回ガチャ - ダイヤ"
+  },
+  "btn-01-gacha-excursion-02-26-1002-daily": {
     "description": "1日1回",
     "name": "1回ガチャ - 有償デイリー"
   },
@@ -945,6 +966,14 @@
     "name": "10連チケットガチャ"
   },
   "btn-01-gacha-free-ticket-1s-26-0920": {
+    "description": "10連チケットガチャ",
+    "name": "10連チケットガチャ"
+  },
+  "btn-01-gacha-free-ticket-1s-26-0930": {
+    "description": "10連チケットガチャ",
+    "name": "10連チケットガチャ"
+  },
+  "btn-01-gacha-free-ticket-1s-26-1010": {
     "description": "10連チケットガチャ",
     "name": "10連チケットガチャ"
   },
@@ -3958,6 +3987,13 @@
     "description": "1日1回",
     "name": "1回ガチャ - チケット"
   },
+  "btn-01-gacha-rev-select-01-26-1004": {
+    "name": "1回ガチャ - ダイヤ"
+  },
+  "btn-01-gacha-rev-select-01-26-1004-daily": {
+    "description": "1日1回",
+    "name": "1回ガチャ - チケット"
+  },
   "btn-01-gacha-select-01-21-1206": {
     "name": "1回ガチャ - ダイヤ"
   },
@@ -4301,6 +4337,13 @@
     "description": "1日1回",
     "name": "1回ガチャ - チケット"
   },
+  "btn-01-gacha-select-01-26-0928": {
+    "name": "1回ガチャ - ダイヤ"
+  },
+  "btn-01-gacha-select-01-26-0928-daily": {
+    "description": "1日1回",
+    "name": "1回ガチャ - チケット"
+  },
   "btn-01-gacha-select-birthday-01-26-0707": {
     "name": "1回ガチャ - ダイヤ"
   },
@@ -4326,6 +4369,13 @@
     "name": "1回ガチャ - ダイヤ"
   },
   "btn-01-gacha-select-birthday-01-26-0913-daily": {
+    "description": "1日1回",
+    "name": "1回ガチャ - チケット"
+  },
+  "btn-01-gacha-select-birthday-01-26-0926": {
+    "name": "1回ガチャ - ダイヤ"
+  },
+  "btn-01-gacha-select-birthday-01-26-0926-daily": {
     "description": "1日1回",
     "name": "1回ガチャ - チケット"
   },
@@ -4374,6 +4424,10 @@
     "name": "確定枠"
   },
   "btn-10-gacha-all-star-01-26-0918-total": {
+    "description": "おでかけシリーズ1人確定！",
+    "name": "確定枠"
+  },
+  "btn-10-gacha-all-star-01-26-1002-total": {
     "description": "おでかけシリーズ1人確定！",
     "name": "確定枠"
   },
@@ -4757,6 +4811,10 @@
     "description": "1回分お得!!",
     "name": "10回ガチャ - ダイヤ"
   },
+  "btn-10-gacha-birthday-26-0926": {
+    "description": "1回分お得!!",
+    "name": "10回ガチャ - ダイヤ"
+  },
   "btn-10-gacha-dream-21-1224": {
     "description": "★5契約書付き",
     "name": "★5契約書付き"
@@ -4961,6 +5019,14 @@
     "description": "初回10連無料",
     "name": "10回ガシャ - ダイヤ"
   },
+  "btn-10-gacha-excursion-01-26-1002": {
+    "description": "1回分お得!!",
+    "name": "10回ガチャ - ダイヤ"
+  },
+  "btn-10-gacha-excursion-01-26-1002-free": {
+    "description": "初回10連無料",
+    "name": "10回ガシャ - ダイヤ"
+  },
   "btn-10-gacha-excursion-02-26-0731": {
     "description": "1回分お得!!",
     "name": "10回ガチャ - ダイヤ"
@@ -4974,6 +5040,14 @@
     "name": "10回ガチャ - ダイヤ"
   },
   "btn-10-gacha-excursion-02-26-0831-free": {
+    "description": "初回10連無料",
+    "name": "10回ガシャ - ダイヤ"
+  },
+  "btn-10-gacha-excursion-02-26-1002": {
+    "description": "1回分お得!!",
+    "name": "10回ガチャ - ダイヤ"
+  },
+  "btn-10-gacha-excursion-02-26-1002-free": {
     "description": "初回10連無料",
     "name": "10回ガシャ - ダイヤ"
   },
@@ -5005,11 +5079,19 @@
     "description": "1回限定",
     "name": "確定枠"
   },
+  "btn-10-gacha-fixed-01-26-1002-total-ticket": {
+    "description": "1回限定",
+    "name": "確定枠"
+  },
   "btn-10-gacha-fixed-02-26-0731-total-ticket": {
     "description": "1回限定",
     "name": "確定枠"
   },
   "btn-10-gacha-fixed-02-26-0831-total-ticket": {
+    "description": "1回限定",
+    "name": "確定枠"
+  },
+  "btn-10-gacha-fixed-02-26-1002-total-ticket": {
     "description": "1回限定",
     "name": "確定枠"
   },
@@ -5858,6 +5940,10 @@
     "name": "確定枠"
   },
   "btn-10-gacha-fixed-26-0913-total": {
+    "description": "【有償】1回限定★5アイドル1人確定",
+    "name": "確定枠"
+  },
+  "btn-10-gacha-fixed-26-0926-total": {
     "description": "【有償】1回限定★5アイドル1人確定",
     "name": "確定枠"
   },
@@ -9261,6 +9347,10 @@
     "description": "1回分お得!!",
     "name": "10回ガチャ - ダイヤ"
   },
+  "btn-10-gacha-rev-select-01-26-1004": {
+    "description": "1回分お得!!",
+    "name": "10回ガチャ - ダイヤ"
+  },
   "btn-10-gacha-rev-step-rockon-24-0319-1st": {
     "description": "【有償】1回限定1人★5確定2STEP",
     "name": "確定枠"
@@ -9661,6 +9751,14 @@
     "description": "【有償】1回限定1人★5確定2STEP",
     "name": "確定枠"
   },
+  "btn-10-gacha-rev-step-rockon-26-1004-1st": {
+    "description": "【有償】1回限定1人★5確定2STEP",
+    "name": "確定枠"
+  },
+  "btn-10-gacha-rev-step-rockon-26-1004-2nd": {
+    "description": "【有償】1回限定1人★5確定2STEP",
+    "name": "確定枠"
+  },
   "btn-10-gacha-select-01-21-1206": {
     "description": "1回分お得!!",
     "name": "10回ガチャ - ダイヤ"
@@ -10009,6 +10107,10 @@
     "description": "1回分お得!!",
     "name": "10回ガチャ - ダイヤ"
   },
+  "btn-10-gacha-select-01-26-0928": {
+    "description": "1回分お得!!",
+    "name": "10回ガチャ - ダイヤ"
+  },
   "btn-10-gacha-select-birthday-01-26-0707": {
     "description": "1回分お得!!",
     "name": "10回ガチャ - ダイヤ"
@@ -10022,6 +10124,10 @@
     "name": "10回ガチャ - ダイヤ"
   },
   "btn-10-gacha-select-birthday-01-26-0913": {
+    "description": "1回分お得!!",
+    "name": "10回ガチャ - ダイヤ"
+  },
+  "btn-10-gacha-select-birthday-01-26-0926": {
     "description": "1回分お得!!",
     "name": "10回ガチャ - ダイヤ"
   },
@@ -10294,6 +10400,9 @@
   "ticket-01-gacha-birthday-26-0913": {
     "name": "1回ガチャ - チケット"
   },
+  "ticket-01-gacha-birthday-26-0926": {
+    "name": "1回ガチャ - チケット"
+  },
   "ticket-01-gacha-excursion-01-26-0731": {
     "name": "1回ガチャ - チケット"
   },
@@ -10306,10 +10415,16 @@
   "ticket-01-gacha-excursion-01-26-0918": {
     "name": "1回ガチャ - チケット"
   },
+  "ticket-01-gacha-excursion-01-26-1002": {
+    "name": "1回ガチャ - チケット"
+  },
   "ticket-01-gacha-excursion-02-26-0731": {
     "name": "1回ガチャ - チケット"
   },
   "ticket-01-gacha-excursion-02-26-0831": {
+    "name": "1回ガチャ - チケット"
+  },
+  "ticket-01-gacha-excursion-02-26-1002": {
     "name": "1回ガチャ - チケット"
   },
   "ticket-01-gacha-fes-21-0928": {
@@ -12241,6 +12356,9 @@
   "ticket-01-gacha-rev-select-01-26-0920": {
     "name": "1回ガチャ - チケット"
   },
+  "ticket-01-gacha-rev-select-01-26-1004": {
+    "name": "1回ガチャ - チケット"
+  },
   "ticket-01-gacha-select-01-21-1206": {
     "name": "1回ガチャ - チケット"
   },
@@ -12388,6 +12506,9 @@
   "ticket-01-gacha-select-01-26-0825": {
     "name": "1回ガチャ - チケット"
   },
+  "ticket-01-gacha-select-01-26-0928": {
+    "name": "1回ガチャ - チケット"
+  },
   "ticket-01-gacha-select-birthday-01-26-0707": {
     "name": "1回ガチャ - チケット"
   },
@@ -12398,6 +12519,9 @@
     "name": "1回ガチャ - チケット"
   },
   "ticket-01-gacha-select-birthday-01-26-0913": {
+    "name": "1回ガチャ - チケット"
+  },
+  "ticket-01-gacha-select-birthday-01-26-0926": {
     "name": "1回ガチャ - チケット"
   },
   "ticket-01-gacha-ticket-21-0624-01-r5": {

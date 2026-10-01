@@ -1,0 +1,85 @@
+name: Verified localization releases
+on:
+  schedule:
+    - cron: '0 15 * * *' # Asia/Shanghai 23:00
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Prepare and validate assets without publishing
+        type: boolean
+        default: true
+      no_translate:
+        description: Disable model calls (new incomplete content blocks publication)
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: idoly-localization-release
+  cancel-in-progress: false
+jobs:
+  release:
+    if: vars.RELEASE_ENABLED == 'true'
+    runs-on: [self-hosted, Linux, X64]
+    environment: localization-release
+    timeout-minutes: 180
+    env:
+      IDOLY_RUNNER_CONFIG: ${{ vars.IDOLY_RUNNER_CONFIG }}
+    steps:
+      - name: Check runner configuration
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -n "$IDOLY_RUNNER_CONFIG" && test -f "$IDOLY_RUNNER_CONFIG"
+      # Code comes only from trusted private repositories; optionally pin a commit. Public Issues,
+      # PR heads, artifact scripts and CSV fields are never executed on this runner.
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+        with:
+          path: translations-data
+          persist-credentials: false
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          repository: DreamGallery/Idoly-localify
+          ref: ${{ vars.IDOLY_SOURCE_REF || 'main' }}
+          token: ${{ secrets.CODE_READ_TOKEN }}
+          path: Idoly-localify
+          persist-credentials: false
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          repository: DreamGallery/HoshimiToolkit
+          ref: ${{ vars.TOOLKIT_REF || 'main' }}
+          token: ${{ secrets.CODE_READ_TOKEN }}
+          path: HoshimiToolkit
+          persist-credentials: false
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          repository: DreamGallery/Hoshimi_Teleprompter
+          ref: ${{ vars.TRANSLATOR_REF || 'main' }}
+          token: ${{ secrets.CODE_READ_TOKEN }}
+          path: Hoshimi_Teleprompter
+          persist-credentials: false
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          repository: DreamGallery/Hoshimi-Adv
+          path: Hoshimi-Adv
+          persist-credentials: false
+      - name: Fetch changes, validate collaboration and publish complete assets
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.RELEASE_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DRY_RUN: ${{ inputs.dry_run || false }}
+          NO_TRANSLATE: ${{ inputs.no_translate || false }}
+        run: |
+          set -euo pipefail
+          flags=()
+          [[ "$DRY_RUN" == true ]] && flags+=(--dry-run)
+          [[ "$NO_TRANSLATE" == true ]] && flags+=(--no-translate)
+          python3 Idoly-localify/tools/release_translations.py --config "$IDOLY_RUNNER_CONFIG" \
+            --repository "$GITHUB_REPOSITORY" \
+            --repository-dir "$GITHUB_WORKSPACE/translations-data" \
+            --project "$GITHUB_WORKSPACE/Idoly-localify" \
+            --adv-dir "$GITHUB_WORKSPACE/Hoshimi-Adv" \
+            --toolkit-dir "$GITHUB_WORKSPACE/HoshimiToolkit" \
+            --translator-dir "$GITHUB_WORKSPACE/Hoshimi_Teleprompter" \
+            "${flags[@]}"

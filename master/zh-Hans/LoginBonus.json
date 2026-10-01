@@ -225,7 +225,7 @@
   },
   "login_bonus-campaign-23-0514-01": {
     "description": "7天的特别登录奖励",
-    "name": "如果恋"
+    "name": "若恋"
   },
   "login_bonus-campaign-23-0531-01": {
     "description": "5天的特别登录奖励",
@@ -293,7 +293,7 @@
   },
   "login_bonus-campaign-23-1114-01": {
     "description": "7天的特别登录奖励",
-    "name": "如果恋"
+    "name": "若恋"
   },
   "login_bonus-campaign-23-1125-01": {
     "description": "3天的特别登录奖励",
@@ -352,7 +352,7 @@
   },
   "login_bonus-campaign-24-0517-01": {
     "description": "7天的特别登录奖励",
-    "name": "如果恋"
+    "name": "若恋"
   },
   "login_bonus-campaign-24-0529-01": {
     "description": "5天的特别登录奖励",
@@ -479,7 +479,7 @@
   },
   "login_bonus-campaign-26-0319-01": {
     "description": "7天的特别登录奖励",
-    "name": "如果恋"
+    "name": "若恋"
   },
   "login_bonus-campaign-26-0328-01": {
     "description": "7天的特别登录奖励",
@@ -491,7 +491,7 @@
   },
   "login_bonus-campaign02-24-1114-01": {
     "description": "7天的特别登录奖励",
-    "name": "如果恋"
+    "name": "若恋"
   },
   "login_bonus-campaign02-24-1209-01": {
     "description": "7天的特别登录奖励",
@@ -627,6 +627,10 @@
     "name": "外出"
   },
   "login_bonus-campaign02-26-0920-01": {
+    "description": "7天的特别登录奖励",
+    "name": "外出"
+  },
+  "login_bonus-campaign02-26-1004-01": {
     "description": "7天的特别登录奖励",
     "name": "外出"
   },

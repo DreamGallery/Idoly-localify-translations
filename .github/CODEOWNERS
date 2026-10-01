@@ -1,0 +1,4 @@
+# Require the repository owner to review changes to runner-control files.
+/.github/ @DreamGallery
+/scripts/ @DreamGallery
+/docs/ @DreamGallery

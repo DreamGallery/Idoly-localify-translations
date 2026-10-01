@@ -956,6 +956,9 @@
   "cos-ktn-casl-01": {
     "name": "カジュアルスタイル"
   },
+  "cos-ktn-casl-04": {
+    "name": "おでかけスタイル"
+  },
   "cos-ktn-circ-00": {
     "name": "レーシングレゾナンス"
   },
@@ -1117,6 +1120,9 @@
   },
   "cos-mei-casl-02": {
     "name": "デートスタイル"
+  },
+  "cos-mei-casl-04": {
+    "name": "おでかけスタイル"
   },
   "cos-mei-date-00": {
     "name": "ピュア・ホワイト"
@@ -1471,6 +1477,9 @@
   },
   "cos-ngs-casl-02": {
     "name": "デートスタイル"
+  },
+  "cos-ngs-casl-04": {
+    "name": "おでかけスタイル"
   },
   "cos-ngs-date-00": {
     "name": "蒼穹花蝶"
@@ -2027,6 +2036,9 @@
   "cos-ski-casl-01": {
     "name": "カジュアルスタイル"
   },
+  "cos-ski-casl-04": {
+    "name": "おでかけスタイル"
+  },
   "cos-ski-chsk-00": {
     "name": "つながる心Binary"
   },
@@ -2458,6 +2470,9 @@
   },
   "cos-suz-casl-01": {
     "name": "カジュアルスタイル"
+  },
+  "cos-suz-casl-04": {
+    "name": "おでかけスタイル"
   },
   "cos-suz-ggyt-00": {
     "name": "魚魚っとスタイル"

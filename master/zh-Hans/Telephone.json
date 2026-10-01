@@ -263,6 +263,9 @@
   "tel-card-kor-05-xmas-00": {
     "name": "「甜蜜奢华」"
   },
+  "tel-card-ktn-05-casl-04": {
+    "name": "「心安神宁的星空假日」"
+  },
   "tel-card-ktn-05-circ-00": {
     "name": "「回切双人舞」"
   },
@@ -298,6 +301,9 @@
   },
   "tel-card-mei-05-casl-02": {
     "name": "《如果谈一场夏日恋爱》"
+  },
+  "tel-card-mei-05-casl-04": {
+    "name": "「喵！愉快的假日」"
   },
   "tel-card-mei-05-fest-00": {
     "name": "「与一位偶像的相遇」"
@@ -370,6 +376,9 @@
   },
   "tel-card-ngs-05-casl-02": {
     "name": "《如果和青梅竹马恋爱的话》"
+  },
+  "tel-card-ngs-05-casl-04": {
+    "name": "「桃色穿搭的欢跃假日」"
   },
   "tel-card-ngs-05-fest-02": {
     "name": "「照亮友人的光」"
@@ -542,6 +551,9 @@
   "tel-card-rui-05-yukt-00": {
     "name": "「藏热于清凉的音色」"
   },
+  "tel-card-ski-05-casl-04": {
+    "name": "「浪漫萦绕的明媚假日」"
+  },
   "tel-card-ski-05-chsk-00": {
     "name": "「加深羁绊的姐妹舞台」"
   },
@@ -676,6 +688,9 @@
   },
   "tel-card-suz-05-anml-00": {
     "name": "「收获满满的镜头」"
+  },
+  "tel-card-suz-05-casl-04": {
+    "name": "「ElegantなLadyの休日」"
   },
   "tel-card-suz-05-fest-02": {
     "name": "「我们的骄傲」"
@@ -1028,6 +1043,9 @@
   "tel-hbd-ski-25-0926": {
     "name": "稍微熬夜一下"
   },
+  "tel-hbd-ski-26-0926": {
+    "name": "务必回礼"
+  },
   "tel-hbd-skr-22-0403": {
     "name": "传达到吧——！"
   },
@@ -1107,19 +1125,19 @@
     "name": "我的性格"
   },
   "tel-message-love-mei-24-0517": {
-    "name": "《如果恋》TRUE END"
+    "name": "《若恋》TRUE END"
   },
   "tel-message-love-ngs-23-1114": {
-    "name": "《如果恋》TRUE END"
+    "name": "《若恋》TRUE END"
   },
   "tel-message-love-rei-23-0514": {
-    "name": "《如果恋》TRUE END"
+    "name": "《若恋》TRUE END"
   },
   "tel-message-love-yu-24-1114": {
-    "name": "《如果恋》TRUE END"
+    "name": "《若恋》TRUE END"
   },
   "tel-message-love-yu-26-0318": {
-    "name": "《如果恋》TRUE END"
+    "name": "《若恋》TRUE END"
   },
   "tel-message-story-ai-000-003": {
     "name": "自然的表情是什么？"

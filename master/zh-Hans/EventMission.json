@@ -167,6 +167,9 @@
   "event-dream-26-09": {
     "name": "活动任务"
   },
+  "event-dream-26-10": {
+    "name": "活动任务"
+  },
   "event-duty-25-0115": {
     "name": "偶像活动任务"
   },
@@ -294,40 +297,40 @@
     "name": "留言任务"
   },
   "event-love-23-0514-limited": {
-    "name": "如果恋爱每日"
+    "name": "若恋每日"
   },
   "event-love-23-0514-normal": {
-    "name": "如果恋爱课题"
+    "name": "若恋课题"
   },
   "event-love-23-0514-normal-card": {
-    "name": "如果恋爱课题"
+    "name": "若恋课题"
   },
   "event-love-23-1114-limited": {
-    "name": "如果恋爱每日"
+    "name": "若恋每日"
   },
   "event-love-23-1114-normal": {
-    "name": "如果恋爱课题"
+    "name": "若恋课题"
   },
   "event-love-23-1114-normal-card": {
-    "name": "如果恋爱课题"
+    "name": "若恋课题"
   },
   "event-love-24-0517-limited": {
-    "name": "如果恋爱每日"
+    "name": "若恋每日"
   },
   "event-love-24-0517-normal": {
-    "name": "如果恋爱课题"
+    "name": "若恋课题"
   },
   "event-love-24-0517-normal-card": {
-    "name": "如果恋爱课题"
+    "name": "若恋课题"
   },
   "event-love-24-1114-limited": {
-    "name": "如果恋爱每日"
+    "name": "若恋每日"
   },
   "event-love-24-1114-normal": {
-    "name": "如果恋爱课题"
+    "name": "若恋课题"
   },
   "event-love-24-1114-normal-card": {
-    "name": "如果恋爱课题"
+    "name": "若恋课题"
   },
   "event-love-25-0426-limited": {
     "name": "魅魔×魔法日常"
@@ -336,13 +339,13 @@
     "name": "魅魔×魔法课题"
   },
   "event-love-26-0313-limited": {
-    "name": "如果恋爱首次限定课题"
+    "name": "若恋首次限定课题"
   },
   "event-love-26-0313-normal": {
-    "name": "如果恋爱课题"
+    "name": "若恋课题"
   },
   "event-love-26-0313-normal-card": {
-    "name": "如果恋爱课题"
+    "name": "若恋课题"
   },
   "event-marathon-21-0930": {
     "name": "活动任务"
@@ -627,6 +630,9 @@
     "name": "相册"
   },
   "event-shelf-26-0918": {
+    "name": "相册"
+  },
+  "event-shelf-26-1002": {
     "name": "相册"
   },
   "event-tour-21-0630": {
@@ -962,6 +968,12 @@
   "event_idoly-pride-day-mission-26-0920": {
     "name": "今日限定！逢0之日是IDOLY PRIDE日！"
   },
+  "event_idoly-pride-day-mission-26-0930": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
+  "event_idoly-pride-day-mission-26-1010": {
+    "name": "今日限定！逢0之日是IDOLY PRIDE日！"
+  },
   "event_live-mission-23-0503": {
     "name": "演唱会任务"
   },
@@ -1143,6 +1155,9 @@
     "name": "外出任务"
   },
   "event_spr-mission-26-0926": {
+    "name": "外出任务"
+  },
+  "event_spr-mission-26-1010": {
     "name": "外出任务"
   },
   "event_story-mission-23-0619": {

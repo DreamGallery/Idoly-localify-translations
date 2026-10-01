@@ -1121,6 +1121,9 @@
   "hair-ktn-casl-01": {
     "name": "カジュアルスタイル"
   },
+  "hair-ktn-casl-04": {
+    "name": "おでかけスタイル"
+  },
   "hair-ktn-circ-00": {
     "name": "レーシングレゾナンス"
   },
@@ -1309,6 +1312,9 @@
   },
   "hair-mei-casl-02": {
     "name": "デートスタイル"
+  },
+  "hair-mei-casl-04": {
+    "name": "おでかけスタイル"
   },
   "hair-mei-date-00": {
     "name": "ピュア・ホワイト"
@@ -1741,6 +1747,9 @@
   },
   "hair-ngs-casl-02": {
     "name": "デートスタイル"
+  },
+  "hair-ngs-casl-04": {
+    "name": "おでかけスタイル"
   },
   "hair-ngs-date-00": {
     "name": "蒼穹花蝶"
@@ -2414,6 +2423,9 @@
   "hair-ski-casl-01": {
     "name": "カジュアルスタイル"
   },
+  "hair-ski-casl-04": {
+    "name": "おでかけスタイル"
+  },
   "hair-ski-chsk-00": {
     "name": "つながる心Binary"
   },
@@ -2443,6 +2455,18 @@
   },
   "hair-ski-hair-23": {
     "name": "バースデーハット"
+  },
+  "hair-ski-hair-30": {
+    "name": "ナチュラルボブ"
+  },
+  "hair-ski-hair-31": {
+    "name": "ミニハット"
+  },
+  "hair-ski-hair-32": {
+    "name": "バースデーリボン"
+  },
+  "hair-ski-hair-33": {
+    "name": "ラウンドメガネ"
   },
   "hair-ski-hair-40": {
     "name": "ドリームカチューシャ"
@@ -2914,6 +2938,9 @@
   },
   "hair-suz-casl-01": {
     "name": "カジュアルスタイル"
+  },
+  "hair-suz-casl-04": {
+    "name": "おでかけスタイル"
   },
   "hair-suz-ggyt-00": {
     "name": "魚魚っとスタイル"

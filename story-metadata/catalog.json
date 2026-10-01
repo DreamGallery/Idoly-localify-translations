@@ -1055,6 +1055,27 @@
         }
       ]
     },
+    "st-birthday-branch-ski-26-0926": {
+      "name": "白石沙季 誕生日2026",
+      "adv_play_types": [
+        6
+      ],
+      "assets": [],
+      "categories": [
+        "extra"
+      ],
+      "references": [
+        {
+          "category": "extra",
+          "table": "ExtraStory",
+          "extra_id": "ex-story-part-birthday-01-ski-0926",
+          "part_id": "ex-story-part-birthday-01",
+          "part_type": 1,
+          "episode": 6,
+          "asset_id": "hbd_2026"
+        }
+      ]
+    },
     "st-birthday-branch-skr-24-0403": {
       "name": "川咲さくら 誕生日2024",
       "adv_play_types": [
@@ -10085,6 +10106,75 @@
         }
       ]
     },
+    "st-card-ktn-05-casl-04-01": {
+      "name": "私と\nデートして\n下さい！",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_ktn_15_01"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-ktn-05-casl-04",
+          "episode": 1,
+          "character_id": "char-ktn",
+          "character_code": "ktn",
+          "character_name": "長瀬琴乃"
+        }
+      ]
+    },
+    "st-card-ktn-05-casl-04-02": {
+      "name": "凄く\nほっとしてる",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_ktn_15_02"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-ktn-05-casl-04",
+          "episode": 2,
+          "character_id": "char-ktn",
+          "character_code": "ktn",
+          "character_name": "長瀬琴乃"
+        }
+      ]
+    },
+    "st-card-ktn-05-casl-04-03": {
+      "name": "当てはまっ\nちゃう！？",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_ktn_15_03"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-ktn-05-casl-04",
+          "episode": 3,
+          "character_id": "char-ktn",
+          "character_code": "ktn",
+          "character_name": "長瀬琴乃"
+        }
+      ]
+    },
     "st-card-ktn-05-circ-00-01": {
       "name": "新しい扉",
       "adv_play_types": [
@@ -11389,6 +11479,75 @@
           "category": "card",
           "table": "Card",
           "card_id": "card-mei-05-casl-02",
+          "episode": 3,
+          "character_id": "char-mei",
+          "character_code": "mei",
+          "character_name": "早坂芽衣"
+        }
+      ]
+    },
+    "st-card-mei-05-casl-04-01": {
+      "name": "デートだ、\nデート！",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_mei_15_01"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-mei-05-casl-04",
+          "episode": 1,
+          "character_id": "char-mei",
+          "character_code": "mei",
+          "character_name": "早坂芽衣"
+        }
+      ]
+    },
+    "st-card-mei-05-casl-04-02": {
+      "name": "い～っぱい\n遊びたく\nなっちゃった",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_mei_15_02"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-mei-05-casl-04",
+          "episode": 2,
+          "character_id": "char-mei",
+          "character_code": "mei",
+          "character_name": "早坂芽衣"
+        }
+      ]
+    },
+    "st-card-mei-05-casl-04-03": {
+      "name": "芽衣のことも\n撫でて～",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_mei_15_03"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-mei-05-casl-04",
           "episode": 3,
           "character_id": "char-mei",
           "character_code": "mei",
@@ -14770,6 +14929,75 @@
           "category": "card",
           "table": "Card",
           "card_id": "card-ngs-05-casl-02",
+          "episode": 3,
+          "character_id": "char-ngs",
+          "character_code": "ngs",
+          "character_name": "伊吹渚"
+        }
+      ]
+    },
+    "st-card-ngs-05-casl-04-01": {
+      "name": "ちょっと\n顔熱いかも",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_ngs_15_01"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-ngs-05-casl-04",
+          "episode": 1,
+          "character_id": "char-ngs",
+          "character_code": "ngs",
+          "character_name": "伊吹渚"
+        }
+      ]
+    },
+    "st-card-ngs-05-casl-04-02": {
+      "name": "とっても\n温かいですね",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_ngs_15_02"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-ngs-05-casl-04",
+          "episode": 2,
+          "character_id": "char-ngs",
+          "character_code": "ngs",
+          "character_name": "伊吹渚"
+        }
+      ]
+    },
+    "st-card-ngs-05-casl-04-03": {
+      "name": "あなたの\nことも\n照らします",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_ngs_15_03"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-ngs-05-casl-04",
           "episode": 3,
           "character_id": "char-ngs",
           "character_code": "ngs",
@@ -19814,6 +20042,144 @@
         }
       ]
     },
+    "st-card-ski-05-birt-03-01": {
+      "name": "早く降りて\n下さーい！",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_ski_54_01"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-ski-05-birt-03",
+          "episode": 1,
+          "character_id": "char-ski",
+          "character_code": "ski",
+          "character_name": "白石沙季"
+        }
+      ]
+    },
+    "st-card-ski-05-birt-03-02": {
+      "name": "お財布大丈夫\nなのかしら",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_ski_54_02"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-ski-05-birt-03",
+          "episode": 2,
+          "character_id": "char-ski",
+          "character_code": "ski",
+          "character_name": "白石沙季"
+        }
+      ]
+    },
+    "st-card-ski-05-birt-03-03": {
+      "name": "皆のことが\n大好きです",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_ski_54_03"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-ski-05-birt-03",
+          "episode": 3,
+          "character_id": "char-ski",
+          "character_code": "ski",
+          "character_name": "白石沙季"
+        }
+      ]
+    },
+    "st-card-ski-05-casl-04-01": {
+      "name": "一緒にオフを\n取りません\nか？",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_ski_14_01"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-ski-05-casl-04",
+          "episode": 1,
+          "character_id": "char-ski",
+          "character_code": "ski",
+          "character_name": "白石沙季"
+        }
+      ]
+    },
+    "st-card-ski-05-casl-04-02": {
+      "name": "浅草\n『ロック』",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_ski_14_02"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-ski-05-casl-04",
+          "episode": 2,
+          "character_id": "char-ski",
+          "character_code": "ski",
+          "character_name": "白石沙季"
+        }
+      ]
+    },
+    "st-card-ski-05-casl-04-03": {
+      "name": "白石沙季は\n輝き続けます",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_ski_14_03"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-ski-05-casl-04",
+          "episode": 3,
+          "character_id": "char-ski",
+          "character_code": "ski",
+          "character_name": "白石沙季"
+        }
+      ]
+    },
     "st-card-ski-05-chsk-00-01": {
       "name": "確かな成長と\n違和感",
       "adv_play_types": [
@@ -23809,6 +24175,75 @@
           "category": "card",
           "table": "Card",
           "card_id": "card-suz-05-birt-03",
+          "episode": 3,
+          "character_id": "char-suz",
+          "character_code": "suz",
+          "character_name": "成宮すず"
+        }
+      ]
+    },
+    "st-card-suz-05-casl-04-01": {
+      "name": "オーチュト\nレィリア～",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_suz_16_01"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-suz-05-casl-04",
+          "episode": 1,
+          "character_id": "char-suz",
+          "character_code": "suz",
+          "character_name": "成宮すず"
+        }
+      ]
+    },
+    "st-card-suz-05-casl-04-02": {
+      "name": "世界で一番\nElegant",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_suz_16_02"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-suz-05-casl-04",
+          "episode": 2,
+          "character_id": "char-suz",
+          "character_code": "suz",
+          "character_name": "成宮すず"
+        }
+      ]
+    },
+    "st-card-suz-05-casl-04-03": {
+      "name": "対等な大人の\nLady",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_suz_16_03"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-suz-05-casl-04",
           "episode": 3,
           "character_id": "char-suz",
           "character_code": "suz",
@@ -54608,6 +55043,120 @@
         }
       ]
     },
+    "st-main-cmn-03-01-57": {
+      "name": "未知なる\n才能を求めて",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_13_01"
+      ],
+      "categories": [
+        "main"
+      ],
+      "references": [
+        {
+          "category": "main",
+          "table": "StoryPart",
+          "part_id": "st-part-main-03",
+          "chapter": 1,
+          "episode": 57,
+          "asset_id": "main_04_13_01"
+        }
+      ]
+    },
+    "st-main-cmn-03-01-58": {
+      "name": "最強の\n審査員達",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_13_02"
+      ],
+      "categories": [
+        "main"
+      ],
+      "references": [
+        {
+          "category": "main",
+          "table": "StoryPart",
+          "part_id": "st-part-main-03",
+          "chapter": 1,
+          "episode": 58,
+          "asset_id": "main_04_13_02"
+        }
+      ]
+    },
+    "st-main-cmn-03-01-59": {
+      "name": "輝く原石",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_13_03"
+      ],
+      "categories": [
+        "main"
+      ],
+      "references": [
+        {
+          "category": "main",
+          "table": "StoryPart",
+          "part_id": "st-part-main-03",
+          "chapter": 1,
+          "episode": 59,
+          "asset_id": "main_04_13_03"
+        }
+      ]
+    },
+    "st-main-cmn-03-01-60": {
+      "name": "アメリカでの\nサプライズ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_13_04"
+      ],
+      "categories": [
+        "main"
+      ],
+      "references": [
+        {
+          "category": "main",
+          "table": "StoryPart",
+          "part_id": "st-part-main-03",
+          "chapter": 1,
+          "episode": 60,
+          "asset_id": "main_04_13_04"
+        }
+      ]
+    },
+    "st-main-cmn-03-01-61": {
+      "name": "世界への宣言",
+      "adv_play_types": [
+        1,
+        2,
+        1
+      ],
+      "assets": [
+        "adv-live-main-cmn-03-01-61",
+        "main_04_13_05_01",
+        "main_04_13_05_02"
+      ],
+      "categories": [
+        "main"
+      ],
+      "references": [
+        {
+          "category": "main",
+          "table": "StoryPart",
+          "part_id": "st-part-main-03",
+          "chapter": 1,
+          "episode": 61,
+          "asset_id": "main_04_13_05"
+        }
+      ]
+    },
     "st-original-cmn-01-01-01": {
       "name": "長瀬麻奈",
       "adv_play_types": [
@@ -64605,6 +65154,511 @@
       ],
       "categories": [],
       "references": []
+    },
+    "st-shelf-26-1002-001-001": {
+      "name": "沙季の大掃除",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2401_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-001-002": {
+      "name": "芽衣の猫探し",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2401_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-001-003": {
+      "name": "渚と\n大事な\nペンダント",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2401_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-001-004": {
+      "name": "すずの大暴れ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2401_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-001-005": {
+      "name": "琴乃と\n猫と\n修羅場",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2401_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-002-001": {
+      "name": "決戦前夜",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2406_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-002-002": {
+      "name": "漠然とした\nイメージ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2406_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-002-003": {
+      "name": "私の道",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2406_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-002-004": {
+      "name": "道を照らす\nアイドル",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2406_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-002-005": {
+      "name": "待ってるよ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2406_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-003-001": {
+      "name": "仲良し\nユニット\n決定戦",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2411_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-003-002": {
+      "name": "本物よりも\n本物の仲良し",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2411_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-003-003": {
+      "name": "こころの\n学校生活",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2411_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-003-004": {
+      "name": "天使と悪魔",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2411_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-003-005": {
+      "name": "最強の\nニコイチ",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2411_01_05_01",
+        "event_2411_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-004-001": {
+      "name": "『劇団★見』\n旗揚げ！",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2504_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-004-002": {
+      "name": "思い出の物語",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2504_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-004-003": {
+      "name": "アリスオーデ\nィション",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2504_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-004-004": {
+      "name": "始まった\n初公演",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2504_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-004-005": {
+      "name": "めでたし\nめでたし",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2504_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-005-001": {
+      "name": "星見プロ\n全国ツアー！",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2506_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-005-002": {
+      "name": "チーム\nリーダー\n愛ちゃん",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2506_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-005-003": {
+      "name": "お楽しみの\nくじ引き",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2506_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-005-004": {
+      "name": "とっても\n目立って\nました",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2506_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-005-005": {
+      "name": "世界一美しい\n星空",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2506_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-006-001": {
+      "name": "生徒会長、\n鈴村優",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2510_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-006-002": {
+      "name": "長瀬さん\nと\n琴乃ちゃん",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2510_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-006-003": {
+      "name": "出し物考案中",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2510_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-006-004": {
+      "name": "開店、\n猫耳メイド\nカフェ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2510_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-006-005": {
+      "name": "開演、シスタ\nーvs猫耳\n悪魔メイド",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2510_01_05_01",
+        "event_2510_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-007-001": {
+      "name": "あの時の\n約束",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2602_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-007-002": {
+      "name": "センターへの想い",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2602_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-007-003": {
+      "name": "伝えられた\n結果",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2602_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-007-004": {
+      "name": "しなやかな\n強さ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2602_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-007-005": {
+      "name": "ハッピー\nバレン\nタイン！",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2602_01_05_01",
+        "event_2602_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-008-001": {
+      "name": "アンサー\nソング",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2603_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-008-002": {
+      "name": "歌うように",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2603_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-008-003": {
+      "name": "長瀬麻奈と\nお姉ちゃん",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2603_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-008-004": {
+      "name": "寄り添う\n想いを大切に",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2603_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-008-005": {
+      "name": "大切な人への\n曲",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2603_01_05_01",
+        "event_2603_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-009-001": {
+      "name": "出掛けた先は",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2604_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-009-002": {
+      "name": "野生の野良\nアイドル？",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2604_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-009-003": {
+      "name": "よく\n分からない\nセンス",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2604_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-009-004": {
+      "name": "最強アイドル\nトーナメント",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2604_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1002-009-005": {
+      "name": "激闘！\nDJばぁば＆\nBEIJU",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2604_01_05_01",
+        "event_2604_01_05_02"
+      ],
+      "categories": [],
+      "references": []
     }
   },
   "assets": {
@@ -64717,6 +65771,9 @@
     ],
     "adv-live-main-cmn-03-01-53": [
       "st-main-cmn-03-01-53"
+    ],
+    "adv-live-main-cmn-03-01-61": [
+      "st-main-cmn-03-01-61"
     ],
     "bond_ai_01_01": [
       "st-company-bond-ai-01-01"
@@ -66452,6 +67509,15 @@
     "card_ktn_14_03": [
       "st-card-ktn-05-yukt-00-03"
     ],
+    "card_ktn_15_01": [
+      "st-card-ktn-05-casl-04-01"
+    ],
+    "card_ktn_15_02": [
+      "st-card-ktn-05-casl-04-02"
+    ],
+    "card_ktn_15_03": [
+      "st-card-ktn-05-casl-04-03"
+    ],
     "card_ktn_51_01": [
       "st-card-ktn-05-birt-00-01"
     ],
@@ -66604,6 +67670,15 @@
     ],
     "card_mei_14_03": [
       "st-card-mei-05-wdnc-00-03"
+    ],
+    "card_mei_15_01": [
+      "st-card-mei-05-casl-04-01"
+    ],
+    "card_mei_15_02": [
+      "st-card-mei-05-casl-04-02"
+    ],
+    "card_mei_15_03": [
+      "st-card-mei-05-casl-04-03"
     ],
     "card_mei_51_01": [
       "st-card-mei-05-birt-00-01"
@@ -67036,6 +68111,15 @@
     ],
     "card_ngs_14_03": [
       "st-card-ngs-05-link-00-03"
+    ],
+    "card_ngs_15_01": [
+      "st-card-ngs-05-casl-04-01"
+    ],
+    "card_ngs_15_02": [
+      "st-card-ngs-05-casl-04-02"
+    ],
+    "card_ngs_15_03": [
+      "st-card-ngs-05-casl-04-03"
     ],
     "card_ngs_51_01": [
       "st-card-ngs-05-birt-00-01"
@@ -67712,6 +68796,15 @@
     "card_ski_13_03": [
       "st-card-ski-05-ster-00-03"
     ],
+    "card_ski_14_01": [
+      "st-card-ski-05-casl-04-01"
+    ],
+    "card_ski_14_02": [
+      "st-card-ski-05-casl-04-02"
+    ],
+    "card_ski_14_03": [
+      "st-card-ski-05-casl-04-03"
+    ],
     "card_ski_51_01": [
       "st-card-ski-05-birt-00-01"
     ],
@@ -67738,6 +68831,15 @@
     ],
     "card_ski_53_03": [
       "st-card-ski-05-birt-02-03"
+    ],
+    "card_ski_54_01": [
+      "st-card-ski-05-birt-03-01"
+    ],
+    "card_ski_54_02": [
+      "st-card-ski-05-birt-03-02"
+    ],
+    "card_ski_54_03": [
+      "st-card-ski-05-birt-03-03"
     ],
     "card_skr_01_01": [
       "st-card-skr-05-idol-00-01"
@@ -68215,6 +69317,15 @@
     ],
     "card_suz_15_03": [
       "st-card-suz-05-wedd-00-03"
+    ],
+    "card_suz_16_01": [
+      "st-card-suz-05-casl-04-01"
+    ],
+    "card_suz_16_02": [
+      "st-card-suz-05-casl-04-02"
+    ],
+    "card_suz_16_03": [
+      "st-card-suz-05-casl-04-03"
     ],
     "card_suz_51_01": [
       "st-card-suz-05-birt-00-01"
@@ -69180,27 +70291,32 @@
     "event_2401_01_01": [
       "st-eve-2401-race-001",
       "st-shelf-24-0103-001-001",
-      "st-shelf-24-0612-005-001"
+      "st-shelf-24-0612-005-001",
+      "st-shelf-26-1002-001-001"
     ],
     "event_2401_01_02": [
       "st-eve-2401-race-002",
       "st-shelf-24-0103-001-002",
-      "st-shelf-24-0612-005-002"
+      "st-shelf-24-0612-005-002",
+      "st-shelf-26-1002-001-002"
     ],
     "event_2401_01_03": [
       "st-eve-2401-race-003",
       "st-shelf-24-0103-001-003",
-      "st-shelf-24-0612-005-003"
+      "st-shelf-24-0612-005-003",
+      "st-shelf-26-1002-001-003"
     ],
     "event_2401_01_04": [
       "st-eve-2401-race-004",
       "st-shelf-24-0103-001-004",
-      "st-shelf-24-0612-005-004"
+      "st-shelf-24-0612-005-004",
+      "st-shelf-26-1002-001-004"
     ],
     "event_2401_01_05": [
       "st-eve-2401-race-005",
       "st-shelf-24-0103-001-005",
-      "st-shelf-24-0612-005-005"
+      "st-shelf-24-0612-005-005",
+      "st-shelf-26-1002-001-005"
     ],
     "event_2401_02_01": [
       "st-ex-story-part-special-01-24-0103-newyear-01"
@@ -69354,31 +70470,36 @@
       "st-eve-2406-contest-001",
       "st-shelf-24-0626-001-001",
       "st-shelf-25-0527-003-001",
-      "st-shelf-26-0831-002-001"
+      "st-shelf-26-0831-002-001",
+      "st-shelf-26-1002-002-001"
     ],
     "event_2406_01_02": [
       "st-eve-2406-contest-002",
       "st-shelf-24-0626-001-002",
       "st-shelf-25-0527-003-002",
-      "st-shelf-26-0831-002-002"
+      "st-shelf-26-0831-002-002",
+      "st-shelf-26-1002-002-002"
     ],
     "event_2406_01_03": [
       "st-eve-2406-contest-003",
       "st-shelf-24-0626-001-003",
       "st-shelf-25-0527-003-003",
-      "st-shelf-26-0831-002-003"
+      "st-shelf-26-0831-002-003",
+      "st-shelf-26-1002-002-003"
     ],
     "event_2406_01_04": [
       "st-eve-2406-contest-004",
       "st-shelf-24-0626-001-004",
       "st-shelf-25-0527-003-004",
-      "st-shelf-26-0831-002-004"
+      "st-shelf-26-0831-002-004",
+      "st-shelf-26-1002-002-004"
     ],
     "event_2406_01_05": [
       "st-eve-2406-contest-005",
       "st-shelf-24-0626-001-005",
       "st-shelf-25-0527-003-005",
-      "st-shelf-26-0831-002-005"
+      "st-shelf-26-0831-002-005",
+      "st-shelf-26-1002-002-005"
     ],
     "event_2406_02_01": [
       "st-ex-story-part-anniversary-01-24-0624-01"
@@ -69530,42 +70651,48 @@
       "st-shelf-24-1028-001-001",
       "st-shelf-26-0731-006-001",
       "st-shelf-26-0820-003-001",
-      "st-shelf-26-0831-004-001"
+      "st-shelf-26-0831-004-001",
+      "st-shelf-26-1002-003-001"
     ],
     "event_2411_01_02": [
       "st-eve-2411-race-002",
       "st-shelf-24-1028-001-002",
       "st-shelf-26-0731-006-002",
       "st-shelf-26-0820-003-002",
-      "st-shelf-26-0831-004-002"
+      "st-shelf-26-0831-004-002",
+      "st-shelf-26-1002-003-002"
     ],
     "event_2411_01_03": [
       "st-eve-2411-race-003",
       "st-shelf-24-1028-001-003",
       "st-shelf-26-0731-006-003",
       "st-shelf-26-0820-003-003",
-      "st-shelf-26-0831-004-003"
+      "st-shelf-26-0831-004-003",
+      "st-shelf-26-1002-003-003"
     ],
     "event_2411_01_04": [
       "st-eve-2411-race-004",
       "st-shelf-24-1028-001-004",
       "st-shelf-26-0731-006-004",
       "st-shelf-26-0820-003-004",
-      "st-shelf-26-0831-004-004"
+      "st-shelf-26-0831-004-004",
+      "st-shelf-26-1002-003-004"
     ],
     "event_2411_01_05_01": [
       "st-eve-2411-race-005",
       "st-shelf-24-1028-001-005",
       "st-shelf-26-0731-006-005",
       "st-shelf-26-0820-003-005",
-      "st-shelf-26-0831-004-005"
+      "st-shelf-26-0831-004-005",
+      "st-shelf-26-1002-003-005"
     ],
     "event_2411_01_05_02": [
       "st-eve-2411-race-005",
       "st-shelf-24-1028-001-005",
       "st-shelf-26-0731-006-005",
       "st-shelf-26-0820-003-005",
-      "st-shelf-26-0831-004-005"
+      "st-shelf-26-0831-004-005",
+      "st-shelf-26-1002-003-005"
     ],
     "event_2412_01_01": [
       "st-eve-2412-contest-001",
@@ -69672,31 +70799,36 @@
       "st-eve-2504-marathon-raid-001",
       "st-shelf-25-0326-001-001",
       "st-shelf-26-0831-006-001",
-      "st-shelf-26-0918-004-001"
+      "st-shelf-26-0918-004-001",
+      "st-shelf-26-1002-004-001"
     ],
     "event_2504_01_02": [
       "st-eve-2504-marathon-raid-002",
       "st-shelf-25-0326-001-002",
       "st-shelf-26-0831-006-002",
-      "st-shelf-26-0918-004-002"
+      "st-shelf-26-0918-004-002",
+      "st-shelf-26-1002-004-002"
     ],
     "event_2504_01_03": [
       "st-eve-2504-marathon-raid-003",
       "st-shelf-25-0326-001-003",
       "st-shelf-26-0831-006-003",
-      "st-shelf-26-0918-004-003"
+      "st-shelf-26-0918-004-003",
+      "st-shelf-26-1002-004-003"
     ],
     "event_2504_01_04": [
       "st-eve-2504-marathon-raid-004",
       "st-shelf-25-0326-001-004",
       "st-shelf-26-0831-006-004",
-      "st-shelf-26-0918-004-004"
+      "st-shelf-26-0918-004-004",
+      "st-shelf-26-1002-004-004"
     ],
     "event_2504_01_05": [
       "st-eve-2504-marathon-raid-005",
       "st-shelf-25-0326-001-005",
       "st-shelf-26-0831-006-005",
-      "st-shelf-26-0918-004-005"
+      "st-shelf-26-0918-004-005",
+      "st-shelf-26-1002-004-005"
     ],
     "event_2504_02_01": [
       "st-shelf-25-0401-001-001"
@@ -69726,7 +70858,8 @@
       "st-shelf-26-0731-005-001",
       "st-shelf-26-0820-004-001",
       "st-shelf-26-0831-007-001",
-      "st-shelf-26-0918-005-001"
+      "st-shelf-26-0918-005-001",
+      "st-shelf-26-1002-005-001"
     ],
     "event_2506_01_02": [
       "st-eve-2507-race-002",
@@ -69735,7 +70868,8 @@
       "st-shelf-26-0731-005-002",
       "st-shelf-26-0820-004-002",
       "st-shelf-26-0831-007-002",
-      "st-shelf-26-0918-005-002"
+      "st-shelf-26-0918-005-002",
+      "st-shelf-26-1002-005-002"
     ],
     "event_2506_01_03": [
       "st-eve-2507-race-003",
@@ -69744,7 +70878,8 @@
       "st-shelf-26-0731-005-003",
       "st-shelf-26-0820-004-003",
       "st-shelf-26-0831-007-003",
-      "st-shelf-26-0918-005-003"
+      "st-shelf-26-0918-005-003",
+      "st-shelf-26-1002-005-003"
     ],
     "event_2506_01_04": [
       "st-eve-2507-race-004",
@@ -69753,7 +70888,8 @@
       "st-shelf-26-0731-005-004",
       "st-shelf-26-0820-004-004",
       "st-shelf-26-0831-007-004",
-      "st-shelf-26-0918-005-004"
+      "st-shelf-26-0918-005-004",
+      "st-shelf-26-1002-005-004"
     ],
     "event_2506_01_05": [
       "st-eve-2507-race-005",
@@ -69762,7 +70898,8 @@
       "st-shelf-26-0731-005-005",
       "st-shelf-26-0820-004-005",
       "st-shelf-26-0831-007-005",
-      "st-shelf-26-0918-005-005"
+      "st-shelf-26-0918-005-005",
+      "st-shelf-26-1002-005-005"
     ],
     "event_2506_03_01": [
       "st-ex-story-part-special-01-25-0624-aniv-01"
@@ -69852,28 +70989,32 @@
       "st-shelf-25-0927-001-001",
       "st-shelf-26-0527-004-001",
       "st-shelf-26-0731-004-001",
-      "st-shelf-26-0918-006-001"
+      "st-shelf-26-0918-006-001",
+      "st-shelf-26-1002-006-001"
     ],
     "event_2510_01_02": [
       "st-eve-2510-marathon-raid-002",
       "st-shelf-25-0927-001-002",
       "st-shelf-26-0527-004-002",
       "st-shelf-26-0731-004-002",
-      "st-shelf-26-0918-006-002"
+      "st-shelf-26-0918-006-002",
+      "st-shelf-26-1002-006-002"
     ],
     "event_2510_01_03": [
       "st-eve-2510-marathon-raid-003",
       "st-shelf-25-0927-001-003",
       "st-shelf-26-0527-004-003",
       "st-shelf-26-0731-004-003",
-      "st-shelf-26-0918-006-003"
+      "st-shelf-26-0918-006-003",
+      "st-shelf-26-1002-006-003"
     ],
     "event_2510_01_04": [
       "st-eve-2510-marathon-raid-004",
       "st-shelf-25-0927-001-004",
       "st-shelf-26-0527-004-004",
       "st-shelf-26-0731-004-004",
-      "st-shelf-26-0918-006-004"
+      "st-shelf-26-0918-006-004",
+      "st-shelf-26-1002-006-004"
     ],
     "event_2510_01_05": [
       "st-shelf-25-0927-001-005"
@@ -69882,13 +71023,15 @@
       "st-eve-2510-marathon-raid-005",
       "st-shelf-26-0527-004-005",
       "st-shelf-26-0731-004-005",
-      "st-shelf-26-0918-006-005"
+      "st-shelf-26-0918-006-005",
+      "st-shelf-26-1002-006-005"
     ],
     "event_2510_01_05_02": [
       "st-eve-2510-marathon-raid-005",
       "st-shelf-26-0527-004-005",
       "st-shelf-26-0731-004-005",
-      "st-shelf-26-0918-006-005"
+      "st-shelf-26-0918-006-005",
+      "st-shelf-26-1002-006-005"
     ],
     "event_2511_01_01": [
       "st-eve-2511-race-001",
@@ -69968,99 +71111,117 @@
     ],
     "event_2602_01_01": [
       "st-eve-2602-dice-001",
-      "st-shelf-26-0128-001-001"
+      "st-shelf-26-0128-001-001",
+      "st-shelf-26-1002-007-001"
     ],
     "event_2602_01_02": [
       "st-eve-2602-dice-002",
-      "st-shelf-26-0128-001-002"
+      "st-shelf-26-0128-001-002",
+      "st-shelf-26-1002-007-002"
     ],
     "event_2602_01_03": [
       "st-eve-2602-dice-003",
-      "st-shelf-26-0128-001-003"
+      "st-shelf-26-0128-001-003",
+      "st-shelf-26-1002-007-003"
     ],
     "event_2602_01_04": [
       "st-eve-2602-dice-004",
-      "st-shelf-26-0128-001-004"
+      "st-shelf-26-0128-001-004",
+      "st-shelf-26-1002-007-004"
     ],
     "event_2602_01_05_01": [
       "st-eve-2602-dice-005",
-      "st-shelf-26-0128-001-005"
+      "st-shelf-26-0128-001-005",
+      "st-shelf-26-1002-007-005"
     ],
     "event_2602_01_05_02": [
       "st-eve-2602-dice-005",
-      "st-shelf-26-0128-001-005"
+      "st-shelf-26-0128-001-005",
+      "st-shelf-26-1002-007-005"
     ],
     "event_2603_01_01": [
       "st-eve-2603-race-001",
       "st-shelf-26-0226-001-001",
       "st-shelf-26-0731-002-001",
-      "st-shelf-26-0831-008-001"
+      "st-shelf-26-0831-008-001",
+      "st-shelf-26-1002-008-001"
     ],
     "event_2603_01_02": [
       "st-eve-2603-race-002",
       "st-shelf-26-0226-001-002",
       "st-shelf-26-0731-002-002",
-      "st-shelf-26-0831-008-002"
+      "st-shelf-26-0831-008-002",
+      "st-shelf-26-1002-008-002"
     ],
     "event_2603_01_03": [
       "st-eve-2603-race-003",
       "st-shelf-26-0226-001-003",
       "st-shelf-26-0731-002-003",
-      "st-shelf-26-0831-008-003"
+      "st-shelf-26-0831-008-003",
+      "st-shelf-26-1002-008-003"
     ],
     "event_2603_01_04": [
       "st-eve-2603-race-004",
       "st-shelf-26-0226-001-004",
       "st-shelf-26-0731-002-004",
-      "st-shelf-26-0831-008-004"
+      "st-shelf-26-0831-008-004",
+      "st-shelf-26-1002-008-004"
     ],
     "event_2603_01_05_01": [
       "st-eve-2603-race-005",
       "st-shelf-26-0226-001-005",
       "st-shelf-26-0731-002-005",
-      "st-shelf-26-0831-008-005"
+      "st-shelf-26-0831-008-005",
+      "st-shelf-26-1002-008-005"
     ],
     "event_2603_01_05_02": [
       "st-eve-2603-race-005",
       "st-shelf-26-0226-001-005",
       "st-shelf-26-0731-002-005",
-      "st-shelf-26-0831-008-005"
+      "st-shelf-26-0831-008-005",
+      "st-shelf-26-1002-008-005"
     ],
     "event_2604_01_01": [
       "st-eve-2604-dice-001",
       "st-shelf-26-0327-001-001",
       "st-shelf-26-0731-001-001",
-      "st-shelf-26-0831-009-001"
+      "st-shelf-26-0831-009-001",
+      "st-shelf-26-1002-009-001"
     ],
     "event_2604_01_02": [
       "st-eve-2604-dice-002",
       "st-shelf-26-0327-001-002",
       "st-shelf-26-0731-001-002",
-      "st-shelf-26-0831-009-002"
+      "st-shelf-26-0831-009-002",
+      "st-shelf-26-1002-009-002"
     ],
     "event_2604_01_03": [
       "st-eve-2604-dice-003",
       "st-shelf-26-0327-001-003",
       "st-shelf-26-0731-001-003",
-      "st-shelf-26-0831-009-003"
+      "st-shelf-26-0831-009-003",
+      "st-shelf-26-1002-009-003"
     ],
     "event_2604_01_04": [
       "st-eve-2604-dice-004",
       "st-shelf-26-0327-001-004",
       "st-shelf-26-0731-001-004",
-      "st-shelf-26-0831-009-004"
+      "st-shelf-26-0831-009-004",
+      "st-shelf-26-1002-009-004"
     ],
     "event_2604_01_05_01": [
       "st-eve-2604-dice-005",
       "st-shelf-26-0327-001-005",
       "st-shelf-26-0731-001-005",
-      "st-shelf-26-0831-009-005"
+      "st-shelf-26-0831-009-005",
+      "st-shelf-26-1002-009-005"
     ],
     "event_2604_01_05_02": [
       "st-eve-2604-dice-005",
       "st-shelf-26-0327-001-005",
       "st-shelf-26-0731-001-005",
-      "st-shelf-26-0831-009-005"
+      "st-shelf-26-0831-009-005",
+      "st-shelf-26-1002-009-005"
     ],
     "event_2604_02_01": [
       "st-ex-story-part-special-01-26-0401-april-01"
@@ -72259,6 +73420,24 @@
     ],
     "main_04_12_01": [
       "st-main-cmn-03-01-56"
+    ],
+    "main_04_13_01": [
+      "st-main-cmn-03-01-57"
+    ],
+    "main_04_13_02": [
+      "st-main-cmn-03-01-58"
+    ],
+    "main_04_13_03": [
+      "st-main-cmn-03-01-59"
+    ],
+    "main_04_13_04": [
+      "st-main-cmn-03-01-60"
+    ],
+    "main_04_13_05_01": [
+      "st-main-cmn-03-01-61"
+    ],
+    "main_04_13_05_02": [
+      "st-main-cmn-03-01-61"
     ]
   }
 }

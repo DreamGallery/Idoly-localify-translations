@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "relation": "LoveStoryEpisode.loveId == Emblem.assetId",
+  "source_sha256": {
+    "LoveStoryEpisode": "e2d4af864735077e5f196c189464622eeb1a59ce772ed72ca1d838e622648a60",
+    "Emblem": "3e4bf0ab5e014af83cda21a159d019b43638baca613ede15ec7e1f6b5f555d53"
+  },
+  "groups": {
+    "love-23-0514": {
+      "emblem_id": "emb-love-23-0514-true",
+      "asset_id": "love-23-0514",
+      "original_name": "「もし恋 ~もしも君と恋をしたら~ 一ノ瀬怜編」"
+    },
+    "love-23-1114": {
+      "emblem_id": "emb-love-23-1114-true",
+      "asset_id": "love-23-1114",
+      "original_name": "「もし恋 ~もしも君と恋をしたら~ 伊吹渚編」"
+    },
+    "love-24-0517": {
+      "emblem_id": "emb-love-24-0517-true",
+      "asset_id": "love-24-0517",
+      "original_name": "「もし恋 ~もしも君と恋をしたら~ 早坂芽衣編」"
+    },
+    "love-24-1114": {
+      "emblem_id": "emb-love-24-1114-true",
+      "asset_id": "love-24-1114",
+      "original_name": "「もし恋 ~もしも君と恋をしたら~ 鈴村優編」"
+    }
+  }
+}

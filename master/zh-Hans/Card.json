@@ -762,6 +762,11 @@
     "name": "wonderful day for 琴乃",
     "obtainMessage": "姐姐果然，\n就是偶像呢"
   },
+  "card-ktn-05-casl-04": {
+    "description": "我理想的类型，是待在一起能让人放松、感觉舒服的人\n就像家人一样……咦，那不就是",
+    "name": "心安神宁的星空假日",
+    "obtainMessage": "请和我，约会吧！"
+  },
   "card-ktn-05-circ-00": {
     "description": "拍摄和演唱会有着不同的紧张感和成就感\r\n我自己在塑造角色的过程中，感觉能表现的东西也变多了",
     "name": "回切双人骑",
@@ -874,6 +879,11 @@
     "description": "芽衣是不是也和游戏里的芽衣有着同样的心情呢",
     "name": "如果谈了一场盛夏之恋",
     "obtainMessage": "咦？脸\n开始发烫了……"
+  },
+  "card-mei-05-casl-04": {
+    "description": "喵～，滚来滚去～\n再多摸摸芽衣嘛～",
+    "name": "喵！快乐假日",
+    "obtainMessage": "再多摸摸\n芽衣嘛～"
   },
   "card-mei-05-fest-00": {
     "description": "公主抱……吗\n……要是被麻奈酱发现了，会不会生气呢？",
@@ -1183,6 +1193,11 @@
     "description": "这个场景里主角害羞的样子也\r\n很可爱，我很喜欢呢，嘿嘿",
     "name": "如果和青梅竹马恋爱的话",
     "obtainMessage": "虽说是在游戏里，\n居然会变成这种氛围"
+  },
+  "card-ngs-05-casl-04": {
+    "description": "来，和我把手叠在一起。像用手掌整个轻轻包住一样\n温柔地，温柔地，好吗？",
+    "name": "桃色穿搭的欢跃假日",
+    "obtainMessage": "经纪人的手，\n果然非常温暖呢"
   },
   "card-ngs-05-fest-02": {
     "description": "这次由我来照亮琴乃的道路\r\n为了让琴乃毫不犹豫、鼓起勇气\r\n迈出那一步\r\n为了能一起走过今后的路",
@@ -1677,6 +1692,16 @@
     "name": "wonderful day for 沙季",
     "obtainMessage": "太开心了，忍不住想炫耀呢"
   },
+  "card-ski-05-birt-03": {
+    "description": "琴乃酱、渚酱、铃酱、芽衣酱\n——我也最喜欢大家了！",
+    "name": "dear precious 沙季",
+    "obtainMessage": "我也最喜欢大家了！"
+  },
+  "card-ski-05-casl-04": {
+    "description": "要不要一起尝尝看？\n为了不给周围人添麻烦，停下来在路边吃是铁则，不过",
+    "name": "浪漫萦绕的明媚假日",
+    "obtainMessage": "嘴边沾到蜜了呢\n……好，擦掉了"
+  },
   "card-ski-05-chsk-00": {
     "description": "……哎呀？　千纱你害羞了？\n曲子一结束就恢复平时的样子了呢……呵呵\n能两个人一起唱真的太好了\n今后也……一直一起加油吧，千纱",
     "name": "羁绊渐深的姐妹舞台",
@@ -2028,6 +2053,11 @@
     "description": "从今往后，我也会继续闪耀。与无可替代的重要之人一起\n闪耀到连你也能看见的程度",
     "name": "dear precious 铃",
     "obtainMessage": "麻奈大人，\n谢谢您\n成为偶像"
+  },
+  "card-suz-05-casl-04": {
+    "description": "……唔，那、那么，就体谅你的心意，\n作为『对等的Lady』向你撒撒娇吧",
+    "name": "ElegantなLady的假日",
+    "obtainMessage": "软绵绵的，\n毛茸茸的，\n简直受不了啦～！"
   },
   "card-suz-05-fest-02": {
     "description": "就像你照亮了我一样\r\n我也要照亮你\r\n让你不再独自迷茫",
