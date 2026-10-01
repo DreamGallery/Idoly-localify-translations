@@ -2,6 +2,36 @@
 
 《IDOLY PRIDE／偶像荣耀》简体中文本地化文本仓库，用于保存译文、校对资料和通用词典。当前剧情内容以 AI 初译及少量定向修订为基础，仍需人工校对。
 
+## 安装插件
+
+因各种你懂的原因，插件源代码仓库暂时私有，如有需要可以提Issue申请添加访问权限。
+插件编译Target为Android ARM64。请前往 [Releases](https://github.com/DreamGallery/Idoly-localify-translations/releases)，下载 `idoly-localify-版本号.apk`。
+### Root：LSPosed／Vector
+
+1. 在已安装兼容 LSPosed／Vector 框架的设备上，安装插件 APK。
+2. 在框架管理器中启用插件，作用域勾选《IDOLY PRIDE》（`game.qualiarts.idolypride`）。
+3. 完全关闭游戏后重新启动；此方式使用原版游戏 APK。
+
+### 无 Root：LSPatch
+
+1. 准备原版游戏 APK 和插件 APK，在兼容的 LSPatch 中选择游戏，使用嵌入模块的修补方式加入插件。
+2. 游戏为拆分安装包时，需要同时处理 base 和设备所需的 split APK，并作为一组安装。
+3. 安装修补后的游戏并启动。首次从原版切换前请先确认账号已绑定；修补包签名不同，不能直接覆盖原版。
+
+### 更新文本与插件
+
+首次启动后，打开屏幕边缘的插件悬浮按钮，进入「详细设置 → 版本与更新」，点击「下载并更新文本」，完成后重启游戏。这里也可查看当前版本和检查更新。
+
+默认文本更新地址已内置；如需重新填写，使用：
+
+```text
+https://github.com/DreamGallery/Idoly-localify-translations/releases/latest/download/manifest.json
+```
+
+插件升级时，LSPosed／Vector 用户安装新版插件并重启游戏；LSPatch 内嵌用户需要用新版插件重新修补，并沿用相同的修补签名密钥以覆盖安装。文本热更新不会替换插件 APK。
+
+遇到漏翻或显示问题，可在插件中采集并导出文本，检查个人信息后，附在本仓库的 [Issues](https://github.com/DreamGallery/Idoly-localify-translations/issues) 中反馈。
+
 ## 目录
 
 | 路径 | 内容 |
@@ -26,4 +56,4 @@
 
 `glossary/extracted/candidates.json` 是术语候选，`evidence/` 保存对应证据，`coverage-gaps.json` 记录尚未确认的原文，`decisions.json` 用于后续审阅，`manifest.json` 记录来源和摘要。
 
-原始剧情 TXT 由 [Hoshimi-Adv](https://github.com/DreamGallery/Hoshimi-Adv) 保存。本仓库保存翻译源文件，并提供每天北京时间23点执行及手动触发的[更新发布工作流](docs/releases.md)。运行器配置完成后启用；人工正式稿会校验原文版本后优先合入。`upstream.json` 是来源记录，插件更新地址使用的 `manifest.json` 将由发布流程另外生成。
+原始剧情 TXT 由 [Hoshimi-Adv](https://github.com/DreamGallery/Hoshimi-Adv) 保存。本仓库提供每天北京时间 23:00 执行及手动触发的[更新发布工作流](docs/releases.md)，人工正式稿校验原文版本后优先合入。`upstream.json` 用于记录原文来源；插件使用的 `manifest.json` 由发布流程生成并附在 Release 中。

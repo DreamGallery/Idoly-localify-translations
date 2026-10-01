@@ -30,7 +30,7 @@
 
 工作流只有定时和手动触发器；此外，内建令牌产生的普通 push 不会触发后续工作流，避免递归发布，GitHub 文档说明见[工作流触发规则](https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/trigger-a-workflow)。本流程不调用 `workflow_dispatch` 或 `repository_dispatch`。
 
-API 地址必须是无用户名、密码、查询参数和 fragment 的 HTTPS URL；模型名称必须为单行文本。地址、模型与密钥统一在 `localization-release` 的 Secrets 中设置；手动运行仅保留 `dry_run` 和 `no_translate`，避免把服务配置写入公开的运行参数记录。环境配置优先于运行器本地 JSON 的兼容配置；工作流日志与摘要中的 Secret 值由 GitHub 脱敏。
+API 地址必须是无用户名、密码、查询参数和 fragment 的 HTTPS URL；模型名称必须为单行文本。地址、模型与密钥统一在 `localization-release` 的 Secrets 中设置；手动运行仅保留 `dry_run` 和 `no_translate`，避免把服务配置写入公开的运行参数记录。环境配置优先于运行器本地 JSON 的兼容配置；工作流不在日志、摘要或发布报告中输出 API 地址和模型名。
 
 本地配置示例（路径是示例，按运行器实际位置填写；此文件不提交）：
 
