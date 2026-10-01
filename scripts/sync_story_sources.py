@@ -55,7 +55,9 @@ def normalize_filename(value):
     return result
 
 
-def next_state(previous, receipt, source_commit, revision, filename=None):
+def next_state(previous, receipt, source_commit, revision, filename=None, story_id=None):
+    if filename is not None and story_id is not None:
+        raise ValueError('Choose either filename or story_id, not both')
     if previous and previous.get('schema_version') != 1:
         raise ValueError('Unsupported synchronization ledger')
     if revision < previous.get('resource_revision', 0):
@@ -83,6 +85,15 @@ def next_state(previous, receipt, source_commit, revision, filename=None):
             raise ValueError(f'Story filename {ascii(filename)} matched {len(matches)} current stories; '
                              'enter the exact adv_...txt or adv_...csv filename from Hoshimi-Adv')
         candidates.add(matches[0])
+    if story_id is not None:
+        story_id = normalize_filename(story_id)
+        if not re.fullmatch(r'adv_[a-z]+_(?:[A-Za-z0-9]+_)*[0-9]+', story_id):
+            raise ValueError('Use a story ID ending in a number, e.g. adv_card_ktn_15 or adv_event_2107')
+        matches = {stem for stem in inventory
+                   if stem.startswith(story_id + '_') and not stem.endswith('_short')}
+        if not matches:
+            raise ValueError(f'Story ID {ascii(story_id)} has no current non-short chapters')
+        candidates.update(matches)
     for stem in sorted(candidates):
         item = inventory[stem]
         prior = pending.get(stem, {})
@@ -125,7 +136,7 @@ def publish_data(root, paths, expected_head, message):
     return git(root, 'rev-parse', 'HEAD')
 
 
-def run(source, root, repository=TARGET_REPOSITORY, filename=None, apply=False):
+def run(source, root, repository=TARGET_REPOSITORY, filename=None, apply=False, story_id=None):
     source, root = Path(source).resolve(), Path(root).resolve()
     if repository != TARGET_REPOSITORY:
         raise ValueError('Unexpected task repository')
@@ -157,7 +168,7 @@ def run(source, root, repository=TARGET_REPOSITORY, filename=None, apply=False):
         writes['upstream.json'] = upstream_data
     ledger = migration.safe(root, root / STATE)
     previous = json.loads(ledger.read_text()) if ledger.exists() else {}
-    state = next_state(previous, receipt, source_commit, revision, filename)
+    state = next_state(previous, receipt, source_commit, revision, filename, story_id)
     ledger_data = encoded(state)
     if not ledger.exists() or ledger.read_bytes() != ledger_data:
         writes[STATE] = ledger_data
@@ -190,8 +201,11 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--source-repo', type=Path, required=True)
     parser.add_argument('--data-dir', type=Path, required=True)
-    parser.add_argument('--filename')
+    selection = parser.add_mutually_exclusive_group()
+    selection.add_argument('--filename')
+    selection.add_argument('--story-id', help='Create tasks for all chapters under this ID, excluding _short')
     parser.add_argument('--apply', action='store_true')
     args = parser.parse_args()
-    print(json.dumps(run(args.source_repo, args.data_dir, filename=args.filename, apply=args.apply),
+    print(json.dumps(run(args.source_repo, args.data_dir, filename=args.filename, apply=args.apply,
+                         story_id=args.story_id),
                      ensure_ascii=False, indent=2))

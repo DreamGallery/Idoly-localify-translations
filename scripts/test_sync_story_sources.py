@@ -49,6 +49,28 @@ class StateTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'adv_missing.csv.*matched 0'):
             sync.next_state({}, receipt(), '1' * 40, 1066, 'adv_missing.csv')
 
+    def test_batch_id_matches_all_chapters_but_not_short_or_neighbor_id(self):
+        data = receipt()
+        names = ['adv_card_ktn_15_01', 'adv_card_ktn_15_02', 'adv_card_ktn_15_03',
+                 'adv_card_ktn_15_01_short', 'adv_card_ktn_150_01', 'adv_card_ktn_16_01']
+        data['scripts'] = [{**data['scripts'][0], 'file_id': name,
+                            'csv_path': 'card/' + name + '.csv'} for name in names]
+        data['scripts'].append({**data['scripts'][0], 'file_id': 'adv_card_ktn_15_04',
+                                'status': 'retired'})
+        state = sync.next_state({}, data, '1' * 40, 1066, story_id='adv_card_ktn_15\u200e')
+        self.assertEqual(sorted(state['pending_tasks']), names[:3])
+        retry = sync.next_state(state, data, '1' * 40, 1066, story_id='adv_card_ktn_15')
+        self.assertEqual(retry, state)
+
+    def test_batch_rejects_empty_broad_unsafe_or_missing_id(self):
+        for value in ('', 'adv', 'adv_card', '../adv_group_01', 'adv_group_01*',
+                      'adv_group_01.csv', 'adv_group_99'):
+            with self.subTest(value=value), self.assertRaises(ValueError):
+                sync.next_state({}, receipt(), '1' * 40, 1066, story_id=value)
+        with self.assertRaisesRegex(ValueError, 'not both'):
+            sync.next_state({}, receipt(), '1' * 40, 1066,
+                            filename='adv_group_01.csv', story_id='adv_group_01')
+
     def test_pending_survives_retry_and_does_not_mutate_input(self):
         state = sync.next_state(self.baseline(), receipt('b' * 64), '2' * 40, 1067)
         before = copy.deepcopy(state)

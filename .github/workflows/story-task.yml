@@ -3,8 +3,12 @@ on:
   workflow_dispatch:
     inputs:
       filename:
-        description: Story filename (adv_...txt or adv_...csv)
-        required: true
+        description: 单个文件名（如 adv_card_ktn_15_02.csv，与剧情 ID 二选一）
+        required: false
+        type: string
+      story_id:
+        description: 批量剧情 ID（如 adv_card_ktn_15），包含全部小章节，排除 _short
+        required: false
         type: string
 permissions:
   contents: read
@@ -46,4 +50,14 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           STORY_FILENAME: ${{ inputs.filename }}
-        run: python3 translations/scripts/sync_story_sources.py --source-repo source --data-dir translations --filename "$STORY_FILENAME" --apply
+          STORY_ID: ${{ inputs.story_id }}
+        run: |
+          if [[ -n "$STORY_FILENAME" && -z "$STORY_ID" ]]; then
+            selector=(--filename "$STORY_FILENAME")
+          elif [[ -n "$STORY_ID" && -z "$STORY_FILENAME" ]]; then
+            selector=(--story-id "$STORY_ID")
+          else
+            echo '::error::请填写文件名或剧情 ID，且只能填写其中一个。'
+            exit 1
+          fi
+          python3 translations/scripts/sync_story_sources.py --source-repo source --data-dir translations "${selector[@]}" --apply
