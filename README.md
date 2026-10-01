@@ -4,7 +4,7 @@
 
 ## 安装插件
 
-因各种你懂的原因，插件源代码仓库暂时私有，如有需要可以提Issue申请添加访问权限。
+插件仍在开发中，总之你懂的，源代码仓库暂时私有，如有需要可以提Issue申请添加访问权限。
 插件编译Target为Android ARM64。请前往 [Releases](https://github.com/DreamGallery/Idoly-localify-translations/releases)，下载 `idoly-localify-版本号.apk`。
 ### Root：LSPosed／Vector
 
@@ -13,6 +13,8 @@
 3. 完全关闭游戏后重新启动；此方式使用原版游戏 APK。
 
 ### 无 Root：LSPatch
+
+可使用 [Idoly-Patcher](https://github.com/DreamGallery/Idoly-Patcher) 自动下载插件并修补自己提供的原版游戏 APK。准备文件、签名密钥和安装步骤见该仓库 README；也可按以下步骤手动修补。
 
 1. 准备原版游戏 APK 和插件 APK，在兼容的 LSPatch 中选择游戏，使用嵌入模块的修补方式加入插件。
 2. 游戏为拆分安装包时，需要同时处理 base 和设备所需的 split APK，并作为一组安装。
