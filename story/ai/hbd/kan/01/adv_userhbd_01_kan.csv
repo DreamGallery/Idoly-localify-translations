@@ -1,6 +1,6 @@
 id,name,text,trans
 4:title:1,,ユーザー誕生日01_kana,用户生日01_kana
-10:text:1,kana,あ\n{user}さーん,啊\n{user}先生～
+10:text:1,kana,あ\n{user}さーん,啊\n{user}～
 11:text:1,kana,ハッピーバースデー,生日快乐
 21:text:1,kana,お祝いに、一緒に写真\n撮ってもいいですか～？,为了庆祝，可以一起拍张照\n吗～？
 28:text:1,kana,『今日はスタッフさんの\nお誕生日をお祝いしたよ～』,『今天为工作人员\n庆祝了生日哦～』

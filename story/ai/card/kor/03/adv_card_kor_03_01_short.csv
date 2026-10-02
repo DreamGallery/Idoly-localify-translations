@@ -1,6 +1,6 @@
 id,name,text,trans
 3:title:1,,fran 1話 franの興味,fran 第1话 fran的兴趣
-6:text:1,fran,ああ、{user}さん,啊，{user}先生
+6:text:1,fran,ああ、{user}さん,啊，{user}
 10:text:1,fran,ちょっと聞きたいことがあるんですけど、いいですか,我有点事想问您，可以吗
 19:text:1,{user},は、はい。なんでしょう,好、好的。什么事呢
 28:text:1,fran,さっき、そこの角で、すずとすれ違ったんですけど,刚才，我在那边的拐角，和铃擦肩而过

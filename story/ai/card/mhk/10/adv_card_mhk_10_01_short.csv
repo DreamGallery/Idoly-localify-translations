@@ -1,6 +1,6 @@
 id,name,text,trans
 4:title:1,,miho 1話 自分の車を買うつもりなんです,miho 第1话 我打算买自己的车
-18:text:1,miho,{user}さん,{user}先生
+18:text:1,miho,{user}さん,{user}
 19:text:1,miho,ちょっとお願いしたいことがあるのですが、いいですか,我有点事想拜托你，可以吗
 24:text:1,{user},え、俺にですか！？,诶，找我吗！？
 25:text:1,{user},mihoさんが俺に頼み事なんて、めずらしいですね,miho小姐居然有事拜托我，真是少见呢

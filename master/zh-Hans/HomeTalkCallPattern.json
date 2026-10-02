@@ -172,7 +172,7 @@
     "managerCallText": "辛苦了"
   },
   "137": {
-    "characterArrivalText": "{user}先生\n我们来修行吧！\n来吧，请打坐！",
+    "characterArrivalText": "{user}\n我们来修行吧！\n来吧，请打坐！",
     "managerCallText": "辛苦了"
   },
   "138": {
@@ -180,7 +180,7 @@
     "managerCallText": "辛苦了"
   },
   "139": {
-    "characterArrivalText": "{user}先生\n您喜欢冰淇淋吗？",
+    "characterArrivalText": "{user}\n您喜欢冰淇淋吗？",
     "managerCallText": "辛苦了"
   },
   "14": {
@@ -188,7 +188,7 @@
     "managerCallText": "辛苦了"
   },
   "140": {
-    "characterArrivalText": "{user}先生\n我想到一个好企划了！",
+    "characterArrivalText": "{user}\n我想到一个好企划了！",
     "managerCallText": "辛苦了"
   },
   "141": {
@@ -196,7 +196,7 @@
     "managerCallText": "辛苦了"
   },
   "142": {
-    "characterArrivalText": "{user}先生，\n关于之前『星见朋友祭』的\n新组合，我想和您商量一下……",
+    "characterArrivalText": "{user}，\n关于之前『星见朋友祭』的\n新组合，我想和您商量一下……",
     "managerCallText": "辛苦了"
   },
   "143": {
@@ -204,7 +204,7 @@
     "managerCallText": "辛苦了"
   },
   "144": {
-    "characterArrivalText": "{user}先生，\n拜托了♪",
+    "characterArrivalText": "{user}，\n拜托了♪",
     "managerCallText": "辛苦了"
   },
   "145": {
@@ -220,7 +220,7 @@
     "managerCallText": "辛苦了"
   },
   "148": {
-    "characterArrivalText": "{user}先生…\n怎么办…心在舞台上\n太闪耀了，感觉快要把莉央小姐盖过去了…",
+    "characterArrivalText": "{user}…\n怎么办…心在舞台上\n太闪耀了，感觉快要把莉央小姐盖过去了…",
     "managerCallText": "辛苦了"
   },
   "149": {
@@ -232,11 +232,11 @@
     "managerCallText": "辛苦了"
   },
   "150": {
-    "characterArrivalText": "哎呀～没想到在演唱会上会犯那种错…我真是笨蛋呢～爱酱也是。{user}先生，真是抱歉呢～！",
+    "characterArrivalText": "哎呀～没想到在演唱会上会犯那种错…我真是笨蛋呢～爱酱也是。{user}，真是抱歉呢～！",
     "managerCallText": "辛苦了"
   },
   "151": {
-    "characterArrivalText": "我有个烦恼，只能找{user}先生商量～",
+    "characterArrivalText": "我有个烦恼，只能找{user}商量～",
     "managerCallText": "辛苦了"
   },
   "152": {
@@ -280,7 +280,7 @@
     "managerCallText": "辛苦了"
   },
   "161": {
-    "characterArrivalText": "啊，{user}先生。\n我有个商业上的事想商量，\n现在有时间吗？",
+    "characterArrivalText": "啊，{user}。\n我有个商业上的事想商量，\n现在有时间吗？",
     "managerCallText": "辛苦了"
   },
   "162": {
@@ -296,7 +296,7 @@
     "managerCallText": "辛苦了"
   },
   "165": {
-    "characterArrivalText": "{user}先生。\n能想想办法管管\n这事务所里的人吗…",
+    "characterArrivalText": "{user}。\n能想想办法管管\n这事务所里的人吗…",
     "managerCallText": "辛苦了"
   },
   "166": {
@@ -316,7 +316,7 @@
     "managerCallText": "辛苦了"
   },
   "17": {
-    "characterArrivalText": "{user}先生，\n如果要在王子和骑士之间选，\n您更憧憬哪一个呢？",
+    "characterArrivalText": "{user}，\n如果要在王子和骑士之间选，\n您更憧憬哪一个呢？",
     "managerCallText": "辛苦了"
   },
   "170": {
@@ -348,7 +348,7 @@
     "managerCallText": "辛苦了"
   },
   "177": {
-    "characterArrivalText": "事务所意外地挺干净的呢。\n我原本想象的是又脏又杂乱的感觉。这是{user}先生的品味吗？",
+    "characterArrivalText": "事务所意外地挺干净的呢。\n我原本想象的是又脏又杂乱的感觉。这是{user}的品味吗？",
     "managerCallText": "辛苦了"
   },
   "178": {
@@ -364,7 +364,7 @@
     "managerCallText": "辛苦了"
   },
   "180": {
-    "characterArrivalText": "{user}先生。\n你觉得我的弱点是什么呢？",
+    "characterArrivalText": "{user}。\n你觉得我的弱点是什么呢？",
     "managerCallText": "辛苦了"
   },
   "181": {
@@ -372,7 +372,7 @@
     "managerCallText": "辛苦了"
   },
   "182": {
-    "characterArrivalText": "{user}先生\n你喝酒吗？",
+    "characterArrivalText": "{user}\n你喝酒吗？",
     "managerCallText": "辛苦了"
   },
   "183": {
@@ -432,7 +432,7 @@
     "managerCallText": "辛苦了"
   },
   "196": {
-    "characterArrivalText": "{user}先生\n下次要不要一起\n敲太鼓？",
+    "characterArrivalText": "{user}\n下次要不要一起\n敲太鼓？",
     "managerCallText": "辛苦了"
   },
   "197": {
@@ -452,7 +452,7 @@
     "managerCallText": "辛苦了"
   },
   "20": {
-    "characterArrivalText": "{user}先生\n之前冲绳合宿的时候，\n我有件事很在意。",
+    "characterArrivalText": "{user}\n之前冲绳合宿的时候，\n我有件事很在意。",
     "managerCallText": "辛苦了"
   },
   "200": {
@@ -500,7 +500,7 @@
     "managerCallText": "辛苦了"
   },
   "210": {
-    "characterArrivalText": "如果{user}小姐\n是恋爱故事的女主角的话\n会是什么感觉呢～？",
+    "characterArrivalText": "如果{user}\n是恋爱故事的女主角的话\n会是什么感觉呢～？",
     "managerCallText": "辛苦了"
   },
   "211": {
@@ -508,7 +508,7 @@
     "managerCallText": "辛苦了"
   },
   "212": {
-    "characterArrivalText": "{user}小姐\n贴胶布的手法真熟练呢～\n谢谢啦！",
+    "characterArrivalText": "{user}\n贴胶布的手法真熟练呢～\n谢谢啦！",
     "managerCallText": "辛苦了"
   },
   "213": {
@@ -528,7 +528,7 @@
     "managerCallText": "辛苦了"
   },
   "217": {
-    "characterArrivalText": "{user}先生！\n{user}先生！\n有件超级开心的事情哦ー",
+    "characterArrivalText": "{user}！\n{user}！\n有件超级开心的事情哦ー",
     "managerCallText": "辛苦了"
   },
   "218": {
@@ -544,11 +544,11 @@
     "managerCallText": "辛苦了"
   },
   "220": {
-    "characterArrivalText": "{user}先生\n除了巧克力以外\n还有喜欢的甜食吗ー？",
+    "characterArrivalText": "{user}\n除了巧克力以外\n还有喜欢的甜食吗ー？",
     "managerCallText": "辛苦了"
   },
   "221": {
-    "characterArrivalText": "{user}先生\n有没有把吉他之类的乐器\n嘿的一声弄坏过？",
+    "characterArrivalText": "{user}\n有没有把吉他之类的乐器\n嘿的一声弄坏过？",
     "managerCallText": "辛苦了"
   },
   "222": {
@@ -556,7 +556,7 @@
     "managerCallText": "辛苦了"
   },
   "223": {
-    "characterArrivalText": "呐，{user}先生\n之前那个礼物，你有在用吗？",
+    "characterArrivalText": "呐，{user}\n之前那个礼物，你有在用吗？",
     "managerCallText": "辛苦了"
   },
   "224": {
@@ -592,7 +592,7 @@
     "managerCallText": "辛苦了"
   },
   "231": {
-    "characterArrivalText": "{user}小姐！\n我买来了\nミセド的新款甜甜圈～！",
+    "characterArrivalText": "{user}！\n我买来了\nミセド的新款甜甜圈～！",
     "managerCallText": "辛苦了"
   },
   "232": {
@@ -612,7 +612,7 @@
     "managerCallText": "辛苦了"
   },
   "236": {
-    "characterArrivalText": "说起来，{user}先生的笑容变得更熟练了吗？",
+    "characterArrivalText": "说起来，{user}的笑容变得更熟练了吗？",
     "managerCallText": "辛苦了"
   },
   "237": {
@@ -628,7 +628,7 @@
     "managerCallText": "辛苦了"
   },
   "24": {
-    "characterArrivalText": "{user}先生是我的心灵导师！",
+    "characterArrivalText": "{user}是我的心灵导师！",
     "managerCallText": "辛苦了"
   },
   "240": {
@@ -656,7 +656,7 @@
     "managerCallText": "辛苦了"
   },
   "246": {
-    "characterArrivalText": "哎呀，{user}先生\n辛苦了。课程告一段落，\n我正想吃便当呢……",
+    "characterArrivalText": "哎呀，{user}\n辛苦了。课程告一段落，\n我正想吃便当呢……",
     "managerCallText": "辛苦了"
   },
   "247": {
@@ -712,7 +712,7 @@
     "managerCallText": "辛苦了"
   },
   "259": {
-    "characterArrivalText": "其实我，好几次看到\n和长濑麻奈同行的\n{user}先生了。",
+    "characterArrivalText": "其实我，好几次看到\n和长濑麻奈同行的\n{user}了。",
     "managerCallText": "辛苦了"
   },
   "26": {
@@ -864,7 +864,7 @@
     "managerCallText": "辛苦了"
   },
   "293": {
-    "characterArrivalText": "{user}小姐\n可以偷偷和你商量一下吗…？",
+    "characterArrivalText": "{user}\n可以偷偷和你商量一下吗…？",
     "managerCallText": "辛苦了"
   },
   "294": {
@@ -876,7 +876,7 @@
     "managerCallText": "辛苦了"
   },
   "296": {
-    "characterArrivalText": "{user}小姐，新的工作\n是什么内容呢？",
+    "characterArrivalText": "{user}，新的工作\n是什么内容呢？",
     "managerCallText": "辛苦了"
   },
   "297": {
@@ -936,7 +936,7 @@
     "managerCallText": "辛苦了"
   },
   "309": {
-    "characterArrivalText": "{user}先生会看\n电视剧之类的吗？",
+    "characterArrivalText": "{user}会看\n电视剧之类的吗？",
     "managerCallText": "辛苦了"
   },
   "31": {
@@ -976,11 +976,11 @@
     "managerCallText": "辛苦了"
   },
   "318": {
-    "characterArrivalText": "{user}小姐\n还记得\nSUNNY PEACE号吗？",
+    "characterArrivalText": "{user}\n还记得\nSUNNY PEACE号吗？",
     "managerCallText": "辛苦了"
   },
   "319": {
-    "characterArrivalText": "{user}小姐\n难道你把没能穿上服装的事\n告诉别人了？",
+    "characterArrivalText": "{user}\n难道你把没能穿上服装的事\n告诉别人了？",
     "managerCallText": "辛苦了"
   },
   "32": {
@@ -1004,7 +1004,7 @@
     "managerCallText": "辛苦了"
   },
   "324": {
-    "characterArrivalText": "{user}先生！\n能让我现在立刻\n检查一下行李吗？",
+    "characterArrivalText": "{user}！\n能让我现在立刻\n检查一下行李吗？",
     "managerCallText": "辛苦了"
   },
   "325": {
@@ -1104,7 +1104,7 @@
     "managerCallText": "辛苦了"
   },
   "347": {
-    "characterArrivalText": "呐，{user}先生\n之前我们两个人一起去了\n和那孩子有渊源的地方吧。",
+    "characterArrivalText": "呐，{user}\n之前我们两个人一起去了\n和那孩子有渊源的地方吧。",
     "managerCallText": "辛苦了"
   },
   "348": {
@@ -1180,7 +1180,7 @@
     "managerCallText": "辛苦了"
   },
   "364": {
-    "characterArrivalText": "唉…心真是让人头疼…\n真是的…{user}先生\n今晚有空吗？",
+    "characterArrivalText": "唉…心真是让人头疼…\n真是的…{user}\n今晚有空吗？",
     "managerCallText": "辛苦了"
   },
   "365": {
@@ -1188,7 +1188,7 @@
     "managerCallText": "辛苦了"
   },
   "366": {
-    "characterArrivalText": "{user}先生，你还记得我们第一次说话时的事吗？",
+    "characterArrivalText": "{user}，你还记得我们第一次说话时的事吗？",
     "managerCallText": "辛苦了"
   },
   "367": {
@@ -1220,15 +1220,15 @@
     "managerCallText": "辛苦了"
   },
   "373": {
-    "characterArrivalText": "{user}先生\n我想到一个好主意！",
+    "characterArrivalText": "{user}\n我想到一个好主意！",
     "managerCallText": "辛苦了"
   },
   "374": {
-    "characterArrivalText": "经纪人先生\n就是那本刊登了\n泳装写真的杂志……",
+    "characterArrivalText": "经纪人\n就是那本刊登了\n泳装写真的杂志……",
     "managerCallText": "辛苦了"
   },
   "375": {
-    "characterArrivalText": "{user}先生\n对杯面很了解吗？\n我有点想请你给点建议。",
+    "characterArrivalText": "{user}\n对杯面很了解吗？\n我有点想请你给点建议。",
     "managerCallText": "辛苦了"
   },
   "376": {
@@ -1244,7 +1244,7 @@
     "managerCallText": "辛苦了"
   },
   "379": {
-    "characterArrivalText": "{user}先生\n您到几岁还相信\n圣诞老人的存在呢？",
+    "characterArrivalText": "{user}\n您到几岁还相信\n圣诞老人的存在呢？",
     "managerCallText": "辛苦了"
   },
   "38": {
@@ -1300,7 +1300,7 @@
     "managerCallText": "辛苦了"
   },
   "391": {
-    "characterArrivalText": "我看到{user}先生\n还去帮现场工作人员\n的忙了呢。",
+    "characterArrivalText": "我看到{user}\n还去帮现场工作人员\n的忙了呢。",
     "managerCallText": "辛苦了"
   },
   "392": {
@@ -1332,7 +1332,7 @@
     "managerCallText": "辛苦了"
   },
   "399": {
-    "characterArrivalText": "{user}先生。\n我变得比以往\n更加喜欢夏天了。",
+    "characterArrivalText": "{user}。\n我变得比以往\n更加喜欢夏天了。",
     "managerCallText": "辛苦了"
   },
   "4": {
@@ -1344,7 +1344,7 @@
     "managerCallText": "辛苦了"
   },
   "400": {
-    "characterArrivalText": "{user}先生，\n休息日都会\n做些什么呢？",
+    "characterArrivalText": "{user}，\n休息日都会\n做些什么呢？",
     "managerCallText": "辛苦了"
   },
   "401": {
@@ -1360,7 +1360,7 @@
     "managerCallText": "辛苦了"
   },
   "404": {
-    "characterArrivalText": "{user}先生\n最近，您有没有什么\n烦恼的事呢？",
+    "characterArrivalText": "{user}\n最近，您有没有什么\n烦恼的事呢？",
     "managerCallText": "辛苦了"
   },
   "405": {
@@ -1452,7 +1452,7 @@
     "managerCallText": "辛苦了"
   },
   "425": {
-    "characterArrivalText": "{user}先生！\n我啊，真的超级\n喜欢这套服装！",
+    "characterArrivalText": "{user}！\n我啊，真的超级\n喜欢这套服装！",
     "managerCallText": "辛苦了"
   },
   "426": {
@@ -1460,11 +1460,11 @@
     "managerCallText": "辛苦了"
   },
   "427": {
-    "characterArrivalText": "{user}先生\n您觉得观光中\n什么最重要呢？",
+    "characterArrivalText": "{user}\n您觉得观光中\n什么最重要呢？",
     "managerCallText": "辛苦了"
   },
   "428": {
-    "characterArrivalText": "{user}先生！\n上次真是谢谢您了！",
+    "characterArrivalText": "{user}！\n上次真是谢谢您了！",
     "managerCallText": "辛苦了"
   },
   "429": {
@@ -1484,7 +1484,7 @@
     "managerCallText": "辛苦了"
   },
   "432": {
-    "characterArrivalText": "{user}先生有把\n零食带去学校过\n吗？",
+    "characterArrivalText": "{user}有把\n零食带去学校过\n吗？",
     "managerCallText": "辛苦了"
   },
   "433": {
@@ -1528,15 +1528,15 @@
     "managerCallText": "辛苦了"
   },
   "442": {
-    "characterArrivalText": "辛苦了。\n{user}先生\n喜欢什么样的小饰品呢？",
+    "characterArrivalText": "辛苦了。\n{user}\n喜欢什么样的小饰品呢？",
     "managerCallText": "辛苦了"
   },
   "443": {
-    "characterArrivalText": "辛苦了！\n{user}先生\n您来得正好呢！",
+    "characterArrivalText": "辛苦了！\n{user}\n您来得正好呢！",
     "managerCallText": "辛苦了"
   },
   "444": {
-    "characterArrivalText": "{user}先生\n我正好想给您发消息\n呢！",
+    "characterArrivalText": "{user}\n我正好想给您发消息\n呢！",
     "managerCallText": "辛苦了"
   },
   "445": {
@@ -1544,7 +1544,7 @@
     "managerCallText": "辛苦了"
   },
   "446": {
-    "characterArrivalText": "{user}先生\n您还记得\n那个想尝试的清单吗？",
+    "characterArrivalText": "{user}\n您还记得\n那个想尝试的清单吗？",
     "managerCallText": "辛苦了"
   },
   "447": {
@@ -1568,7 +1568,7 @@
     "managerCallText": "辛苦了"
   },
   "451": {
-    "characterArrivalText": "{user}先生！\n你听优酱说了吗？",
+    "characterArrivalText": "{user}！\n你听优酱说了吗？",
     "managerCallText": "辛苦了"
   },
   "452": {
@@ -1608,7 +1608,7 @@
     "managerCallText": "辛苦了"
   },
   "460": {
-    "characterArrivalText": "{user}先生，\n您睡觉的时候\n都穿什么样的睡衣呢？",
+    "characterArrivalText": "{user}，\n您睡觉的时候\n都穿什么样的睡衣呢？",
     "managerCallText": "辛苦了"
   },
   "461": {
@@ -1616,7 +1616,7 @@
     "managerCallText": "辛苦了"
   },
   "462": {
-    "characterArrivalText": "{user}先生\n有进步了吗？",
+    "characterArrivalText": "{user}\n有进步了吗？",
     "managerCallText": "辛苦了"
   },
   "463": {
@@ -1652,7 +1652,7 @@
     "managerCallText": "辛苦了"
   },
   "470": {
-    "characterArrivalText": "{user}先生，\n我有礼物要送给你！",
+    "characterArrivalText": "{user}，\n我有礼物要送给你！",
     "managerCallText": "辛苦了"
   },
   "471": {
@@ -1676,7 +1676,7 @@
     "managerCallText": "辛苦了"
   },
   "476": {
-    "characterArrivalText": "{user}先生，\n你喜欢《爱丽丝梦游仙境》\n吗？",
+    "characterArrivalText": "{user}，\n你喜欢《爱丽丝梦游仙境》\n吗？",
     "managerCallText": "辛苦了"
   },
   "477": {
@@ -1708,7 +1708,7 @@
     "managerCallText": "辛苦了"
   },
   "483": {
-    "characterArrivalText": "哇，吓你一跳！\n{user}先生！",
+    "characterArrivalText": "哇，吓你一跳！\n{user}！",
     "managerCallText": "辛苦了"
   },
   "484": {
@@ -1716,7 +1716,7 @@
     "managerCallText": "辛苦了"
   },
   "485": {
-    "characterArrivalText": "{user}先生\n我写给麻奈大人的\n粉丝信…您读了吗？",
+    "characterArrivalText": "{user}\n我写给麻奈大人的\n粉丝信…您读了吗？",
     "managerCallText": "辛苦了"
   },
   "486": {
@@ -1740,7 +1740,7 @@
     "managerCallText": "辛苦了"
   },
   "490": {
-    "characterArrivalText": "{user}先生\n请听我说！",
+    "characterArrivalText": "{user}\n请听我说！",
     "managerCallText": "辛苦了"
   },
   "491": {
@@ -1748,15 +1748,15 @@
     "managerCallText": "辛苦了"
   },
   "492": {
-    "characterArrivalText": "哎呀，{user}先生。昨天的演唱会，让您看到了我难堪的样子。嘛、嘛，智者千虑必有一失嘛！",
+    "characterArrivalText": "哎呀，{user}。昨天的演唱会，让您看到了我难堪的样子。嘛、嘛，智者千虑必有一失嘛！",
     "managerCallText": "辛苦了"
   },
   "493": {
-    "characterArrivalText": "{user}先生。\n请听我说。昨天的握手会\n有一半左右的人都叫我铃\n喵…",
+    "characterArrivalText": "{user}。\n请听我说。昨天的握手会\n有一半左右的人都叫我铃\n喵…",
     "managerCallText": "辛苦了"
   },
   "494": {
-    "characterArrivalText": "唉…难道就不能\n从这里想办法成长起来吗…\n{user}先生怎么看？",
+    "characterArrivalText": "唉…难道就不能\n从这里想办法成长起来吗…\n{user}怎么看？",
     "managerCallText": "辛苦了"
   },
   "495": {
@@ -1776,7 +1776,7 @@
     "managerCallText": "辛苦了"
   },
   "499": {
-    "characterArrivalText": "{user}先生！！\n您看起来很闲呢！\n快来帮我！！",
+    "characterArrivalText": "{user}！！\n您看起来很闲呢！\n快来帮我！！",
     "managerCallText": "辛苦了"
   },
   "5": {
@@ -1788,7 +1788,7 @@
     "managerCallText": "辛苦了"
   },
   "500": {
-    "characterArrivalText": "好、好不甘心…\n竟然必须把这种事拜托{user}先生…？",
+    "characterArrivalText": "好、好不甘心…\n竟然必须把这种事拜托{user}…？",
     "managerCallText": "辛苦了"
   },
   "501": {
@@ -1796,7 +1796,7 @@
     "managerCallText": "辛苦了"
   },
   "502": {
-    "characterArrivalText": "{user}先生！\n这是怎么回事？\n明明是我个人的封面拍摄，\n却没有服装啊！",
+    "characterArrivalText": "{user}！\n这是怎么回事？\n明明是我个人的封面拍摄，\n却没有服装啊！",
     "managerCallText": "辛苦了"
   },
   "503": {
@@ -1804,7 +1804,7 @@
     "managerCallText": "辛苦了"
   },
   "504": {
-    "characterArrivalText": "向{user}先生提问…\n糯米团子，你吃过\n…吗？",
+    "characterArrivalText": "向{user}提问…\n糯米团子，你吃过\n…吗？",
     "managerCallText": "辛苦了"
   },
   "505": {
@@ -1816,15 +1816,15 @@
     "managerCallText": "辛苦了"
   },
   "507": {
-    "characterArrivalText": "{user}先生\n上次钓鱼，怎么样？",
+    "characterArrivalText": "{user}\n上次钓鱼，怎么样？",
     "managerCallText": "辛苦了"
   },
   "508": {
-    "characterArrivalText": "{user}小姐，\n垂耳兔和普通兔耳……\n你喜欢哪种？",
+    "characterArrivalText": "{user}，\n垂耳兔和普通兔耳……\n你喜欢哪种？",
     "managerCallText": "辛苦了"
   },
   "509": {
-    "characterArrivalText": "{user}小姐，\n我有件事想拜托你，\n可以说出来吗？",
+    "characterArrivalText": "{user}，\n我有件事想拜托你，\n可以说出来吗？",
     "managerCallText": "辛苦了"
   },
   "51": {
@@ -1848,7 +1848,7 @@
     "managerCallText": "辛苦了"
   },
   "514": {
-    "characterArrivalText": "{user}先生\n醒来之后还会\n记得做过的梦吗…？",
+    "characterArrivalText": "{user}\n醒来之后还会\n记得做过的梦吗…？",
     "managerCallText": "辛苦了"
   },
   "515": {
@@ -1916,15 +1916,15 @@
     "managerCallText": "辛苦了"
   },
   "53": {
-    "characterArrivalText": "{user}先生，\n童话里有没有你\n特别喜欢的东西呢？",
+    "characterArrivalText": "{user}，\n童话里有没有你\n特别喜欢的东西呢？",
     "managerCallText": "辛苦了"
   },
   "530": {
-    "characterArrivalText": "{user}先生，今天也\n麻烦你陪同现场和参加商谈\n了。",
+    "characterArrivalText": "{user}，今天也\n麻烦你陪同现场和参加商谈\n了。",
     "managerCallText": "辛苦了"
   },
   "531": {
-    "characterArrivalText": "喂{user}先生！\n『就这样』相关的工作，\n请多多去谈业务！",
+    "characterArrivalText": "喂{user}！\n『就这样』相关的工作，\n请多多去谈业务！",
     "managerCallText": "辛苦了"
   },
   "532": {
@@ -1940,7 +1940,7 @@
     "managerCallText": "辛苦了"
   },
   "535": {
-    "characterArrivalText": "我啊，很担心\n{user}先生。为什么那种谎话\n你总是马上就信了呢……",
+    "characterArrivalText": "我啊，很担心\n{user}。为什么那种谎话\n你总是马上就信了呢……",
     "managerCallText": "辛苦了"
   },
   "536": {
@@ -1952,7 +1952,7 @@
     "managerCallText": "辛苦了"
   },
   "538": {
-    "characterArrivalText": "{user}先生，\n能稍微听一下\n我的烦恼吗？",
+    "characterArrivalText": "{user}，\n能稍微听一下\n我的烦恼吗？",
     "managerCallText": "辛苦了"
   },
   "539": {
@@ -1960,7 +1960,7 @@
     "managerCallText": "辛苦了"
   },
   "54": {
-    "characterArrivalText": "{user}先生，\n要不要一起去买衣服？",
+    "characterArrivalText": "{user}，\n要不要一起去买衣服？",
     "managerCallText": "辛苦了"
   },
   "540": {
@@ -1968,7 +1968,7 @@
     "managerCallText": "辛苦了"
   },
   "541": {
-    "characterArrivalText": "{user}先生，\n你的脸色看起来有点疲惫呢",
+    "characterArrivalText": "{user}，\n你的脸色看起来有点疲惫呢",
     "managerCallText": "辛苦了"
   },
   "542": {
@@ -1984,7 +1984,7 @@
     "managerCallText": "辛苦了"
   },
   "545": {
-    "characterArrivalText": "{user}先生\n工作的时候确实\n表情很不错呢。",
+    "characterArrivalText": "{user}\n工作的时候确实\n表情很不错呢。",
     "managerCallText": "辛苦了"
   },
   "546": {
@@ -2052,7 +2052,7 @@
     "managerCallText": "辛苦了"
   },
   "58": {
-    "characterArrivalText": "{user}先生，\n巡演期间我可是\n多次对你搞了恶作剧哦。",
+    "characterArrivalText": "{user}，\n巡演期间我可是\n多次对你搞了恶作剧哦。",
     "managerCallText": "辛苦了"
   },
   "59": {
@@ -2064,7 +2064,7 @@
     "managerCallText": "辛苦了"
   },
   "60": {
-    "characterArrivalText": "{user}先生，\n你有想过\n遇见不可思议的存在吗？",
+    "characterArrivalText": "{user}，\n你有想过\n遇见不可思议的存在吗？",
     "managerCallText": "辛苦了"
   },
   "61": {
@@ -2104,7 +2104,7 @@
     "managerCallText": "辛苦了"
   },
   "7": {
-    "characterArrivalText": "哼哼哼♪\n{user}先生，辛苦了！",
+    "characterArrivalText": "哼哼哼♪\n{user}，辛苦了！",
     "managerCallText": "辛苦了"
   },
   "70": {
@@ -2116,7 +2116,7 @@
     "managerCallText": "辛苦了"
   },
   "72": {
-    "characterArrivalText": "{user}先生\n我，感觉自己已经\n没法再变得更好了…\n说实话…我快要气馁了。",
+    "characterArrivalText": "{user}\n我，感觉自己已经\n没法再变得更好了…\n说实话…我快要气馁了。",
     "managerCallText": "辛苦了"
   },
   "73": {
@@ -2132,7 +2132,7 @@
     "managerCallText": "辛苦了"
   },
   "76": {
-    "characterArrivalText": "感觉不管什么事\n都能跟{user}先生说呢…",
+    "characterArrivalText": "感觉不管什么事\n都能跟{user}说呢…",
     "managerCallText": "辛苦了"
   },
   "77": {
@@ -2148,7 +2148,7 @@
     "managerCallText": "辛苦了"
   },
   "8": {
-    "characterArrivalText": "我想问一下\n{user}先生的房间，有在打扫吗？",
+    "characterArrivalText": "我想问一下\n{user}的房间，有在打扫吗？",
     "managerCallText": "辛苦了"
   },
   "80": {
@@ -2192,7 +2192,7 @@
     "managerCallText": "辛苦了"
   },
   "9": {
-    "characterArrivalText": "肚子好饿～\n{user}先生，你已经吃过饭了吗？",
+    "characterArrivalText": "肚子好饿～\n{user}，你已经吃过饭了吗？",
     "managerCallText": "辛苦了"
   },
   "90": {
