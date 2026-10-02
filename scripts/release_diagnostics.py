@@ -17,9 +17,11 @@ PATTERNS = {
     'source_changed': 'Notice source changed while translating',
     'placeholder_mismatch': 'placeholder',
     'missing_translation_ids': 'missing translation',
+    'protected_markers_changed': 'Protected notice markers changed, duplicated or reordered',
 }
 STAGES = {'translate-notice', 'translate-master', 'translate-story', 'notice-pages',
-          'notice-index', 'master-fetch', 'master-export', 'master-tag', 'octo', 'story-catalog'}
+          'notice-index', 'master-fetch', 'master-export', 'master-tag', 'octo', 'story-catalog',
+          'translate-notice-retry-1', 'translate-notice-retry-2'}
 
 
 def classify(text):
@@ -30,6 +32,7 @@ def classify(text):
     batches = re.findall(r'Notice batch failed \((ValueError|RuntimeError|TimeoutError|TypeError|KeyError)\)', text)
     counts.update({'batch_' + key: value for key, value in Counter(batches).items()})
     summary = re.findall(r'Notice: (\d+) new strings, (\d+) JSON values updated, (\d+)', text)
+    summary += re.findall(r'Notice protected retry: (\d+) new, (\d+) applied, (\d+) pending', text)
     return {'signals': counts, 'translation_counts': list(map(int, summary[-1])) if summary else None}
 
 
