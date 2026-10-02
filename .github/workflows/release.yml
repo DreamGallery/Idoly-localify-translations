@@ -103,3 +103,6 @@ jobs:
             --toolkit-dir "$GITHUB_WORKSPACE/HoshimiToolkit" \
             --translator-dir "$GITHUB_WORKSPACE/Hoshimi_Teleprompter" \
             "${flags[@]}"
+      - name: Show safe release failure diagnostics
+        if: failure()
+        run: python3 translations-data/scripts/release_diagnostics.py --config "$IDOLY_RUNNER_CONFIG"

@@ -9,6 +9,9 @@ jobs:
     runs-on: [self-hosted, Linux, X64]
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - name: Inspect available build tools
         shell: bash
         run: |
@@ -35,3 +38,7 @@ jobs:
           df -Pk "$RUNNER_TEMP" | tail -1 | awk '{print "Free disk KiB: "$4}'
           test ! -f /.dockerenv || echo "Container runner: yes"
           echo "Runner check completed. No credentials were read or changed."
+      - name: Show safe diagnostics from the last release
+        env:
+          IDOLY_RUNNER_CONFIG: ${{ vars.IDOLY_RUNNER_CONFIG }}
+        run: python3 scripts/release_diagnostics.py --config "$IDOLY_RUNNER_CONFIG"
