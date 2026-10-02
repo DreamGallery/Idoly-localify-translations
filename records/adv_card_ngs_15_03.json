@@ -18,13 +18,13 @@
     "timestamp": "2026-10-02T08:07:54Z"
   },
   "proofread": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
     "operator_qq": "",
     "operator_github": "sky-yixuan",
     "display_id": "sky-yixuan",
-    "timestamp": "2026-10-02T13:12:03Z",
+    "timestamp": "2026-10-02T19:50:25Z",
     "display_source": "github"
   },
   "artifacts": {
@@ -42,10 +42,10 @@
       "operator_github": "sky-yixuan",
       "display_id": "sky-yixuan",
       "display_source": "github",
-      "timestamp": "2026-10-02T13:12:03Z"
+      "timestamp": "2026-10-02T19:50:25Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-02T13:12:03Z"
+    "updated_at": "2026-10-02T19:50:25Z"
   }
 }
