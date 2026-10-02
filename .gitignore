@@ -46,3 +46,8 @@ private/
 signing.json
 runner.json
 !*.example.json
+node_modules/
+.wrangler/
+.dev.vars
+.dev.vars.*
+wrangler.local.jsonc

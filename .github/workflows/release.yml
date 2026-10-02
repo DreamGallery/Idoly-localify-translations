@@ -1,7 +1,6 @@
 name: Verified localization releases
+run-name: ${{ inputs.schedule_key && format('Scheduled localization release {0}', inputs.schedule_key) || 'Verified localization releases' }}
 on:
-  schedule:
-    - cron: '0 15 * * *' # Asia/Shanghai 23:00
   workflow_dispatch:
     inputs:
       dry_run:
@@ -12,6 +11,10 @@ on:
         description: Disable model calls (new incomplete content blocks publication)
         type: boolean
         default: false
+      schedule_key:
+        description: 外部定时触发标识（手动运行留空）
+        type: string
+        required: false
 permissions:
   contents: read
 concurrency:
@@ -48,32 +51,32 @@ jobs:
           PY
       # Code comes only from trusted repositories; optionally pin a commit. Public Issues,
       # PR heads, artifact scripts and CSV fields are never executed on this runner.
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+      - uses: actions/checkout@v4
         with:
           path: translations-data
           persist-credentials: false
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - uses: actions/checkout@v4
         with:
           repository: DreamGallery/Idoly-localify
           ref: ${{ vars.IDOLY_SOURCE_REF || 'main' }}
           ssh-key: ${{ secrets.SOURCE_DEPLOY_KEY }}
           path: Idoly-localify
           persist-credentials: false
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - uses: actions/checkout@v4
         with:
           repository: DreamGallery/HoshimiToolkit
           ref: ${{ vars.TOOLKIT_REF || 'main' }}
           ssh-key: ${{ secrets.TOOLKIT_DEPLOY_KEY }}
           path: HoshimiToolkit
           persist-credentials: false
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - uses: actions/checkout@v4
         with:
           repository: DreamGallery/Hoshimi_Teleprompter
           ref: ${{ vars.TRANSLATOR_REF || 'main' }}
           ssh-key: ${{ secrets.TRANSLATOR_DEPLOY_KEY }}
           path: Hoshimi_Teleprompter
           persist-credentials: false
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - uses: actions/checkout@v4
         with:
           repository: DreamGallery/Hoshimi-Adv
           path: Hoshimi-Adv

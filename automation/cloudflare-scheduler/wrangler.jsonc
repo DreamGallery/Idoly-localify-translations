@@ -1,0 +1,10 @@
+{
+  "name": "idoly-localization-scheduler",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-09-28",
+  "workers_dev": false,
+  "preview_urls": false,
+  "triggers": { "crons": ["0 15 * * *"] },
+  "vars": { "DRY_RUN": "false" },
+  "observability": { "enabled": true }
+}

@@ -13,25 +13,25 @@ jobs:
     environment: localization-release
     timeout-minutes: 90
     steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - uses: actions/checkout@v4
         with:
           path: translations-data
           persist-credentials: false
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - uses: actions/checkout@v4
         with:
           repository: DreamGallery/Idoly-localify
           ref: ${{ vars.IDOLY_SOURCE_REF || 'main' }}
           ssh-key: ${{ secrets.SOURCE_DEPLOY_KEY }}
           path: Idoly-localify
           persist-credentials: false
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - uses: actions/checkout@v4
         with:
           repository: DreamGallery/HoshimiToolkit
           ref: ${{ vars.TOOLKIT_REF || 'main' }}
           ssh-key: ${{ secrets.TOOLKIT_DEPLOY_KEY }}
           path: HoshimiToolkit
           persist-credentials: false
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - uses: actions/checkout@v4
         with:
           repository: DreamGallery/Hoshimi_Teleprompter
           ref: ${{ vars.TRANSLATOR_REF || 'main' }}

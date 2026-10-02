@@ -1,6 +1,6 @@
 # 自动更新与协作校对
 
-所有 GitHub Actions 都在本仓库；插件源码与配套工具仓库不运行 Actions。工作流每天北京时间 23:00（UTC 15:00）运行，也可在 Actions 手动启动。首次手动运行默认 `dry_run=true`：会抓取、校验并生成完整包，但不提交译文、不上传或发布。模型调用仍可能发生；同时选择 `no_translate` 可关闭，存在待译内容时会阻止发布。
+所有发布 GitHub Actions 都在本仓库；插件源码与配套工具仓库不运行 Actions。独立 [Cloudflare 触发器](../automation/cloudflare-scheduler/README.md) 每天北京时间 23:00（UTC 15:00）调用发布工作流，也可在 Actions 手动启动。GitHub 自带的 `schedule` 已移除，避免重复触发。首次手动运行默认 `dry_run=true`：会抓取、校验并生成完整包，但不提交译文、不上传或发布。模型调用仍可能发生；同时选择 `no_translate` 可关闭，存在待译内容时会阻止发布。
 
 ## 一次性配置
 
@@ -28,9 +28,9 @@
 
 三个部署公钥分别登记在对应代码仓库，关闭写入权限，不复用密钥。所有 checkout 均设置 `persist-credentials: false`。发布步骤使用本公开仓库内建 `github.token`，job 仅授予 `contents: write`，无需个人访问令牌。主分支规则需允许此工作流提交已验证的数据；不允许时会安全失败，不强推。workflow 的分支条件与 environment 部署分支规则都限制 `main`。
 
-工作流只有定时和手动触发器；此外，内建令牌产生的普通 push 不会触发后续工作流，避免递归发布，GitHub 文档说明见[工作流触发规则](https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/trigger-a-workflow)。本流程不调用 `workflow_dispatch` 或 `repository_dispatch`。
+发布工作流只接收 `workflow_dispatch`，由 Cloudflare 定时或维护者手动调用。Cloudflare 的专用令牌只需本仓库 Actions 读写权限，保存在 Worker Secret 中；发布工作流自身不递归触发其他任务。内建令牌产生的普通 push 不会触发后续工作流，见[工作流触发规则](https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/trigger-a-workflow)。
 
-API 地址必须是无用户名、密码、查询参数和 fragment 的 HTTPS URL；模型名称必须为单行文本。地址、模型与密钥统一在 `localization-release` 的 Secrets 中设置；手动运行仅保留 `dry_run` 和 `no_translate`，避免把服务配置写入公开的运行参数记录。环境配置优先于运行器本地 JSON 的兼容配置；工作流不在日志、摘要或发布报告中输出 API 地址和模型名。
+API 地址必须是无用户名、密码、查询参数和 fragment 的 HTTPS URL；模型名称必须为单行文本。地址、模型与密钥统一在 `localization-release` 的 Secrets 中设置；手动运行提供 `dry_run`、`no_translate` 和外部触发标识 `schedule_key`（人工操作留空），不接受服务配置参数。环境配置优先于运行器本地 JSON 的兼容配置；工作流不在日志、摘要或发布报告中输出 API 地址和模型名。
 
 本地配置示例（路径是示例，按运行器实际位置填写；此文件不提交）：
 
