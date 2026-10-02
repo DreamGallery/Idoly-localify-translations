@@ -18,13 +18,14 @@
     "timestamp": "2026-10-02T08:07:54Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_qq": "",
     "operator_github": "sky-yixuan",
     "display_id": "sky-yixuan",
-    "timestamp": "2026-10-02T13:11:56Z"
+    "timestamp": "2026-10-02T13:12:03Z",
+    "display_source": "github"
   },
   "artifacts": {
     "translation_csv": {
@@ -34,9 +35,17 @@
       "display_id": "sky-yixuan",
       "display_source": "github",
       "timestamp": "2026-10-02T08:07:54Z"
+    },
+    "proofread_csv": {
+      "path": "story/reviewed/card/ngs/15/adv_card_ngs_15_03.csv",
+      "operator_qq": "",
+      "operator_github": "sky-yixuan",
+      "display_id": "sky-yixuan",
+      "display_source": "github",
+      "timestamp": "2026-10-02T13:12:03Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-02T13:11:56Z"
+    "updated_at": "2026-10-02T13:12:03Z"
   }
 }
