@@ -85,7 +85,7 @@ Viewer 正式稿优先级为 `story/reviewed`、`story/human`、`story/ai`。人
 
 已完成校对的 `story/reviewed` 标题通过 Story 记录对应的剧情资源 ID 关联，只在同条记录原文 `name` 与标题或话数后标题一致时覆盖发布工作区的 MasterDB 译文。同一条记录有多个不同校对标题会阻止发布。`story/human` 正文优先于 AI，但未校对标题不覆盖 MasterDB。完成记录仍有空译文时会阻止发布。人工稿不会回写机器剧情目录；MasterDB 的人工标题覆盖也只用于编译产物。
 
-完整验证后，仅同步机器剧情 CSV、MasterDB 原文和机器译文、公告等明确数据白名单；保留 `story/human`、`story/reviewed`、`records`。推送前检查默认分支还是开始时的 commit，出现并发更新则停止，绝不 force push。数据提交成功才发布，未变则不提交。输出协议为 schema 2：`manifest.json` 引用固定版本 `text-update.zip`，ZIP 内路径与 `files` 键精确一致，每个文件及整包都有 SHA-256。ZIP 排序、时间戳与权限固定，同内容不会生成新的版本。
+完整验证后，仅同步机器剧情 CSV、MasterDB 原文和机器译文、公告等明确数据白名单；保留 `story/human`、`story/reviewed`、`records`。构建前同步最新人工协作结果；构建期间若又有人工稿、校对稿或完成记录提交，会复用本轮机器译文，重新导入人工层、覆盖校对标题并编译剧情与 MasterDB，最多尝试三轮。生成文件在临时 Git 工作目录内提交，推送竞争失败不会污染输入，也不会强推。公告、MasterDB、术语或 AI 原稿本身同时发生修改时，需要从最新数据重新执行完整抓取和校验，不直接覆盖。数据提交成功才发布；无文件可提交时也会检查分支，避免发布过期快照。输出协议为 schema 2：`manifest.json` 引用固定版本 `text-update.zip`，ZIP 内路径与 `files` 键精确一致，每个文件及整包都有 SHA-256。ZIP 排序、时间戳与权限固定，同内容不会生成新的版本。
 
 Release 先建 draft，上传完整附件后才公开；失败的 draft 可安全重试，已上传同名附件必须摘要相同，差异会停止。APK 仅在 Gradle `versionName` 对应的 `v版本号` release 尚未发布时构建并发布，采用持久 release 签名，标记 `latest=false`。日常文本 release 标记 latest。
 
