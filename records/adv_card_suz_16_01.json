@@ -18,13 +18,14 @@
     "timestamp": "2026-10-04T03:56:25Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_qq": "",
     "operator_github": "sky-yixuan",
     "display_id": "sky-yixuan",
-    "timestamp": "2026-10-04T11:16:49Z"
+    "timestamp": "2026-10-04T11:17:04Z",
+    "display_source": "github"
   },
   "artifacts": {
     "translation_csv": {
@@ -34,9 +35,17 @@
       "display_id": "furude627",
       "display_source": "github",
       "timestamp": "2026-10-04T03:56:25Z"
+    },
+    "proofread_csv": {
+      "path": "story/reviewed/card/suz/16/adv_card_suz_16_01.csv",
+      "operator_qq": "",
+      "operator_github": "sky-yixuan",
+      "display_id": "sky-yixuan",
+      "display_source": "github",
+      "timestamp": "2026-10-04T11:17:04Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-04T11:16:49Z"
+    "updated_at": "2026-10-04T11:17:04Z"
   }
 }
