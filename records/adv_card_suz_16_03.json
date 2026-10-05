@@ -18,14 +18,14 @@
     "timestamp": "2026-10-05T10:00:04Z"
   },
   "proofread": {
-    "revision": 2,
+    "revision": 3,
     "draft_revision": 0,
     "state": "完成",
     "operator_qq": "",
     "operator_github": "furude627",
     "display_id": "furude627",
     "display_source": "github",
-    "timestamp": "2026-10-05T10:01:10Z"
+    "timestamp": "2026-10-05T10:01:44Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -42,10 +42,10 @@
       "operator_github": "furude627",
       "display_id": "furude627",
       "display_source": "github",
-      "timestamp": "2026-10-05T10:01:10Z"
+      "timestamp": "2026-10-05T10:01:44Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-05T10:01:10Z"
+    "updated_at": "2026-10-05T10:01:44Z"
   }
 }
