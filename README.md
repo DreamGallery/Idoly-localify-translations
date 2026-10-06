@@ -2,10 +2,12 @@
 
 《IDOLY PRIDE／偶像荣耀》简体中文本地化文本仓库，用于保存译文、校对资料和通用词典。当前剧情内容以 AI 初译及少量定向修订为基础，仍需人工校对。
 
+> ### [下载最新文本和插件并查看更新说明 →](https://github.com/DreamGallery/Idoly-localify-translations/releases/tag/latest)
+
 ## 安装插件
 
 插件仍在开发中，总之你懂的，源代码仓库暂时私有，如有需要可以提Issue申请添加访问权限。
-插件编译Target为Android ARM64。请前往 [Releases](https://github.com/DreamGallery/Idoly-localify-translations/releases)，下载 `idoly-localify-版本号.apk`。
+插件编译Target为Android ARM64。请前往[最新发布](https://github.com/DreamGallery/Idoly-localify-translations/releases/tag/latest)，下载 `idoly-localify-版本号.apk`。
 ### Root：LSPosed／Vector
 
 1. 在已安装兼容 LSPosed／Vector 框架的设备上，安装插件 APK。

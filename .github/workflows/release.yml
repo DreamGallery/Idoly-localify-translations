@@ -16,7 +16,7 @@ on:
         type: string
         required: false
       text_releases_to_keep:
-        description: 保留的文本版本数（留空用仓库设置，默认 5；0 关闭清理）
+        description: 保留的文本版本数（留空用仓库设置，默认 3；0 关闭清理）
         type: string
         required: false
 permissions:
@@ -125,7 +125,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           TEXT_TAG: ${{ steps.publish.outputs.text_tag }}
-          KEEP_TEXT_RELEASES: ${{ inputs.text_releases_to_keep || vars.TEXT_RELEASES_TO_KEEP || '5' }}
+          KEEP_TEXT_RELEASES: ${{ inputs.text_releases_to_keep || vars.TEXT_RELEASES_TO_KEEP || '3' }}
         run: |
           python3 Idoly-localify/tools/release_followup.py cleanup \
             --repository "$GITHUB_REPOSITORY" --current-tag "$TEXT_TAG" \

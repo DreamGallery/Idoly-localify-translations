@@ -27,7 +27,7 @@
 - `RELEASE_ENABLED`：完成预检后设为 `true` 才允许定时或手动正式发布。未开启时，仍可在 `main` 手动运行 `dry_run=true`，不会提交数据或发布。
 - 可选 `IDOLY_SOURCE_REF`、`TOOLKIT_REF`、`TRANSLATOR_REF`：默认各代码仓库的 `main`；需要冻结工具版本时设置完整 commit SHA。这些分支仅由可信维护者更新。
 - `PATCHER_REPOSITORY`：修补仓库，默认 `DreamGallery/Idoly-Patcher`。
-- `TEXT_RELEASES_TO_KEEP`：保留的历史文本版本数，默认 `5`；`0` 关闭清理。手动参数 `text_releases_to_keep` 可覆盖本次设置。
+- `TEXT_RELEASES_TO_KEEP`：保留的历史文本版本数，默认 `3`；`0` 关闭清理。手动参数 `text_releases_to_keep` 可覆盖本次设置。
 
 三个部署公钥分别登记在对应代码仓库，关闭写入权限，不复用密钥。所有 checkout 均设置 `persist-credentials: false`。本仓库的数据提交、发布和旧版本清理使用内建 `github.token`，job 仅授予 `contents: write`。跨仓库触发 Patcher 使用上述专用 PAT。主分支规则需允许此工作流提交已验证的数据；不允许时会安全失败，不强推。workflow 的分支条件与 environment 部署分支规则都限制 `main`。
 
@@ -104,7 +104,7 @@ Viewer 正式稿优先级为 `story/reviewed`、`story/human`、`story/ai`。人
 
 需要支持 schema 2 ZIP、HTTPS 重定向及 MasterDB 更新的插件版本。文本包只含字典、公告、剧情 TXT 和已验证的 `master-blobs.bin`；源码、构建缓存、账号、日志和签名文件不上传。已发布插件版本缺少对应 APK 时明确停止，不静默跳过。
 
-固定页更新成功后才清理旧文本：默认保留最近 5 个已发布文本版本，并额外保护本轮版本、GitHub Latest 及固定页 manifest 引用的版本。仅删除符合 `text-<16位摘要>` 命名且附件恰为 manifest 和文本 ZIP 的 Release 及其对应标签；插件、草稿、固定 `latest` 和其他附件不参与清理。删除中断的标签记录在运行器缓存，下次只续清该记录，标签已改变则停止。`dry_run` 不执行清理。
+固定页更新成功后才清理旧文本：默认保留最近 3 个已发布文本版本，并额外保护本轮版本、GitHub Latest 及固定页 manifest 引用的版本。仅删除符合 `text-<16位摘要>` 命名且附件恰为 manifest 和文本 ZIP 的 Release 及其对应标签；插件、草稿、固定 `latest` 和其他附件不参与清理。删除中断的标签记录在运行器缓存，下次只续清该记录，标签已改变则停止。`dry_run` 不执行清理。
 
 本地人工运行数据出口：
 
