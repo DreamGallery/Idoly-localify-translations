@@ -1,5 +1,96 @@
 {
-  "pending_tasks": {},
+  "pending_tasks": {
+    "adv_love_2505_01_01": {
+      "csv_path": "love/2505/01/adv_love_2505_01_01.csv",
+      "source_changed": false,
+      "source_sha256": "7e0c20522620056ac9041d836eab5198ca909f0e8e8ea59c7c6d41788b9788d6"
+    },
+    "adv_love_2505_02_01": {
+      "csv_path": "love/2505/02/adv_love_2505_02_01.csv",
+      "source_changed": false,
+      "source_sha256": "c1b9b3df014bb15934601bfbd78a2c5c4ef6628fd89513f8c029fdc317227b8e"
+    },
+    "adv_love_2505_03_01": {
+      "csv_path": "love/2505/03/adv_love_2505_03_01.csv",
+      "source_changed": false,
+      "source_sha256": "ff50e5fcb83d811c7c1525c7b8b650bf0038d53863f658c6952ba13bcae6ff74"
+    },
+    "adv_love_2505_03_02": {
+      "csv_path": "love/2505/03/adv_love_2505_03_02.csv",
+      "source_changed": false,
+      "source_sha256": "fbc105bd05a0e3b8ed8d6accd4e6b06994c1e41889bdbe0ada59712b48c8883f"
+    },
+    "adv_love_2505_04_01": {
+      "csv_path": "love/2505/04/adv_love_2505_04_01.csv",
+      "source_changed": false,
+      "source_sha256": "780afd3fda4df2211fc006c21e9df995d63aec04e2023ae16dceca3905e4905b"
+    },
+    "adv_love_2505_04_02": {
+      "csv_path": "love/2505/04/adv_love_2505_04_02.csv",
+      "source_changed": false,
+      "source_sha256": "febdba965c03266a4ff6ef726abb1b83b713ccc1698899d1822bf1e58d110f67"
+    },
+    "adv_love_2505_04_03": {
+      "csv_path": "love/2505/04/adv_love_2505_04_03.csv",
+      "source_changed": false,
+      "source_sha256": "531cf6582f8fd26782e9ae5bef1c7e2818e73410478caf0156d32a2b37b236dd"
+    },
+    "adv_love_2505_04_04": {
+      "csv_path": "love/2505/04/adv_love_2505_04_04.csv",
+      "source_changed": false,
+      "source_sha256": "893398bf3f0ed011ba40f616544b418daf0c23c995a548dc18a6e6498786241a"
+    },
+    "adv_love_2505_05_01": {
+      "csv_path": "love/2505/05/adv_love_2505_05_01.csv",
+      "source_changed": false,
+      "source_sha256": "092b3f84f598c3fb67844b257e37111e6b92b2d73292ded42da774aa8501c4ba"
+    },
+    "adv_love_2505_05_02": {
+      "csv_path": "love/2505/05/adv_love_2505_05_02.csv",
+      "source_changed": false,
+      "source_sha256": "cdf61887dca682495abdcdff461bf75b9e9eb2d00815757f8d38d3f391654b77"
+    },
+    "adv_love_2505_05_03": {
+      "csv_path": "love/2505/05/adv_love_2505_05_03.csv",
+      "source_changed": false,
+      "source_sha256": "d716664e7c3bfc06dfcc6187ebf640fc1d3861b1124f41e120c5ce70d27d8f75"
+    },
+    "adv_love_2505_05_04": {
+      "csv_path": "love/2505/05/adv_love_2505_05_04.csv",
+      "source_changed": false,
+      "source_sha256": "35697ad7573f7f6f9fe08cee1d3ac54ab54fcfa33b3daf3ed0d596065e0de99e"
+    },
+    "adv_love_2505_05_05": {
+      "csv_path": "love/2505/05/adv_love_2505_05_05.csv",
+      "source_changed": false,
+      "source_sha256": "13f81517d0ae28716f35a3a750570f9099eec2e6b4d11820920a70d580e37a5f"
+    },
+    "adv_love_2505_05_06": {
+      "csv_path": "love/2505/05/adv_love_2505_05_06.csv",
+      "source_changed": false,
+      "source_sha256": "edc4615f20ac7671b11393407b1056e40511d7b25e0ed7bff5a825b5eb6261a8"
+    },
+    "adv_love_2505_05_07": {
+      "csv_path": "love/2505/05/adv_love_2505_05_07.csv",
+      "source_changed": false,
+      "source_sha256": "ea5b627052611e7e3120e8a1b149a05e3f8d8359345be2ab48fd5687ea984537"
+    },
+    "adv_love_2505_05_08": {
+      "csv_path": "love/2505/05/adv_love_2505_05_08.csv",
+      "source_changed": false,
+      "source_sha256": "823b71e828708f72caba01086fa08dac922ddf083096d9378c39d6d945a7d2ed"
+    },
+    "adv_love_2505_05_09": {
+      "csv_path": "love/2505/05/adv_love_2505_05_09.csv",
+      "source_changed": false,
+      "source_sha256": "63148cf285dab8805560e217946ce2f7bc2f61c57041af73ee5c056460b79823"
+    },
+    "adv_love_2505_05_10": {
+      "csv_path": "love/2505/05/adv_love_2505_05_10.csv",
+      "source_changed": false,
+      "source_sha256": "56cda11ea9de8f4204867a2973cee46dac356cef959492f7c401b52ddd2bb9d6"
+    }
+  },
   "resource_revision": 1066,
   "schema_version": 1,
   "scripts": {
