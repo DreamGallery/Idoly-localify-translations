@@ -1,56 +1,5 @@
 {
-  "pending_tasks": {
-    "adv_love_2603_01_01": {
-      "csv_path": "love/2603/01/adv_love_2603_01_01.csv",
-      "source_changed": false,
-      "source_sha256": "f7e26b5ca8c4110498294f9960cb3389be604f003d338206676425d5edae1491"
-    },
-    "adv_love_2603_02_01": {
-      "csv_path": "love/2603/02/adv_love_2603_02_01.csv",
-      "source_changed": false,
-      "source_sha256": "d735ac7f8dd5da9193acff5bbc981486394a952853dc5c08f2887fabb29d7529"
-    },
-    "adv_love_2603_03_01": {
-      "csv_path": "love/2603/03/adv_love_2603_03_01.csv",
-      "source_changed": false,
-      "source_sha256": "85613d06f7d9adf506fb0fef3a0ddc7319efee1c0591d338dd70c629e3f4a2bc"
-    },
-    "adv_love_2603_04_01": {
-      "csv_path": "love/2603/04/adv_love_2603_04_01.csv",
-      "source_changed": false,
-      "source_sha256": "d97459b74cff61a5b47379dc57abee080dcd403f8ec82e164c29745308a31c1e"
-    },
-    "adv_love_2603_05_01": {
-      "csv_path": "love/2603/05/adv_love_2603_05_01.csv",
-      "source_changed": false,
-      "source_sha256": "7a4ca61adc9cbbb064be399bd02cb54d97a06e3bc753948035351e93827eb43b"
-    },
-    "adv_love_2603_06_01": {
-      "csv_path": "love/2603/06/adv_love_2603_06_01.csv",
-      "source_changed": false,
-      "source_sha256": "2729451c8016749f472ceba5449df472b5825d5e63d6c8a1045bcaa58005e00f"
-    },
-    "adv_love_2603_07_01": {
-      "csv_path": "love/2603/07/adv_love_2603_07_01.csv",
-      "source_changed": false,
-      "source_sha256": "7be73c16fda704c17c543b16304f0a19781cbbd1fb69ba4fbdbe513b1c368faf"
-    },
-    "adv_love_2603_08_01": {
-      "csv_path": "love/2603/08/adv_love_2603_08_01.csv",
-      "source_changed": false,
-      "source_sha256": "f91ff2a525719e00d4969a0ee26dbf42b4f4523dad6713e6f7f783bec0b755bd"
-    },
-    "adv_love_2603_08_02": {
-      "csv_path": "love/2603/08/adv_love_2603_08_02.csv",
-      "source_changed": false,
-      "source_sha256": "d08aea059f750bc39f46bce9fe0068a9dc34e5395963b6489c688204e9f61461"
-    },
-    "adv_love_2603_08_03": {
-      "csv_path": "love/2603/08/adv_love_2603_08_03.csv",
-      "source_changed": false,
-      "source_sha256": "f998cab16f3642d2c2cc609083e7a0d35c2fde5ac2fc2e3c4ecb2ce8871cbacc"
-    }
-  },
+  "pending_tasks": {},
   "resource_revision": 1066,
   "schema_version": 1,
   "scripts": {
