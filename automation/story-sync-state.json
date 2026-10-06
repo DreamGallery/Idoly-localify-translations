@@ -1,11 +1,5 @@
 {
-  "pending_tasks": {
-    "adv_love_2603_01_01": {
-      "csv_path": "love/2603/01/adv_love_2603_01_01.csv",
-      "source_changed": false,
-      "source_sha256": "f7e26b5ca8c4110498294f9960cb3389be604f003d338206676425d5edae1491"
-    }
-  },
+  "pending_tasks": {},
   "resource_revision": 1066,
   "schema_version": 1,
   "scripts": {
