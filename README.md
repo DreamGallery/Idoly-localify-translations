@@ -27,7 +27,7 @@
 默认文本更新地址已内置；如需重新填写，使用：
 
 ```text
-https://github.com/DreamGallery/Idoly-localify-translations/releases/latest/download/manifest.json
+https://github.com/DreamGallery/Idoly-localify-translations/releases/download/latest/manifest.json
 ```
 
 插件升级时，LSPosed／Vector 用户安装新版插件并重启游戏；LSPatch 内嵌用户需要用新版插件重新修补，并沿用相同的修补签名密钥以覆盖安装。文本热更新不会替换插件 APK。

@@ -1,10 +1,10 @@
 {
   "aab-ai-05-kait-00": {
-    "levels[0].description": "宣传获得的金币提升1.0%",
-    "levels[1].description": "宣传获得的金币提升1.5%",
-    "levels[2].description": "宣传获得的金币提升2.0%",
-    "levels[3].description": "宣传获得的金币提升3.0%",
-    "name": "金币提升"
+    "levels[0].description": "宣传获得的代币提升1.0%",
+    "levels[1].description": "宣传获得的代币提升1.5%",
+    "levels[2].description": "宣传获得的代币提升2.0%",
+    "levels[3].description": "宣传获得的代币提升3.0%",
+    "name": "代币提升"
   },
   "aab-fan_event_manager_exp_up": {
     "levels[0].description": "粉丝活动获得的经纪人经验值提升10.0%",
@@ -23,11 +23,11 @@
     "name": "经纪人经验值提升【粉丝活动】"
   },
   "aab-ktn-04-casl-00": {
-    "levels[0].description": "宣传获得的金币提升1.0%",
-    "levels[1].description": "宣传获得的金币提升1.5%",
-    "levels[2].description": "宣传获得的金币提升2.0%",
-    "levels[3].description": "宣传获得的金币提升3.0%",
-    "name": "金币提升"
+    "levels[0].description": "宣传获得的代币提升1.0%",
+    "levels[1].description": "宣传获得的代币提升1.5%",
+    "levels[2].description": "宣传获得的代币提升2.0%",
+    "levels[3].description": "宣传获得的代币提升3.0%",
+    "name": "代币提升"
   },
   "aab-ktn-05-mizg-01": {
     "levels[0].description": "粉丝活动获得的经纪人经验值提升10.0%",
@@ -46,13 +46,13 @@
     "name": "课程碎片提升【自主训练】"
   },
   "aab-lesson_gold_up": {
-    "levels[0].description": "自主训练的获得金币提升3.5%",
-    "levels[1].description": "自主训练的获得金币提升4.0%",
-    "levels[2].description": "自主训练的获得金币提升4.5%",
-    "levels[3].description": "自主训练的获得金币提升5.5%",
-    "levels[4].description": "自主训练的获得金币提升6.5%",
-    "levels[5].description": "自主训练的获得金币提升7.5%",
-    "name": "金币提升【自主训练】"
+    "levels[0].description": "自主训练的获得代币提升3.5%",
+    "levels[1].description": "自主训练的获得代币提升4.0%",
+    "levels[2].description": "自主训练的获得代币提升4.5%",
+    "levels[3].description": "自主训练的获得代币提升5.5%",
+    "levels[4].description": "自主训练的获得代币提升6.5%",
+    "levels[5].description": "自主训练的获得代币提升7.5%",
+    "name": "代币提升【自主训练】"
   },
   "aab-lesson_manager_exp_up": {
     "levels[0].description": "自主训练的获得经纪人经验值提升1.0%",
@@ -87,13 +87,13 @@
     "name": "饰品提升"
   },
   "aab-promotion_gold_up": {
-    "levels[0].description": "宣传获得的金币提升1.0%",
-    "levels[1].description": "宣传获得的金币提升1.5%",
-    "levels[2].description": "宣传获得的金币提升2.0%",
-    "levels[3].description": "宣传获得的金币提升3.0%",
-    "levels[4].description": "宣传的获得金币提升4.0%",
-    "levels[5].description": "宣传的获得金币提升5.0%",
-    "name": "金币提升"
+    "levels[0].description": "宣传获得的代币提升1.0%",
+    "levels[1].description": "宣传获得的代币提升1.5%",
+    "levels[2].description": "宣传获得的代币提升2.0%",
+    "levels[3].description": "宣传获得的代币提升3.0%",
+    "levels[4].description": "宣传的获得代币提升4.0%",
+    "levels[5].description": "宣传的获得代币提升5.0%",
+    "name": "代币提升"
   },
   "aab-promotion_manager_exp_up": {
     "levels[0].description": "宣传获得的经纪人经验值提升4.0%",
@@ -158,11 +158,11 @@
     "name": "体力回复提升"
   },
   "aab-szk-04-casl-00": {
-    "levels[0].description": "宣传获得的金币提升1.0%",
-    "levels[1].description": "宣传获得的金币提升1.5%",
-    "levels[2].description": "宣传获得的金币提升2.0%",
-    "levels[3].description": "宣传获得的金币提升3.0%",
-    "name": "金币提升"
+    "levels[0].description": "宣传获得的代币提升1.0%",
+    "levels[1].description": "宣传获得的代币提升1.5%",
+    "levels[2].description": "宣传获得的代币提升2.0%",
+    "levels[3].description": "宣传获得的代币提升3.0%",
+    "name": "代币提升"
   },
   "aab-szk-05-idol-00": {
     "levels[0].description": "宣传获得的经纪人经验值提升4.0%",

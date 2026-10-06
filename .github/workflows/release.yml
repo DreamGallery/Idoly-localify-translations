@@ -15,6 +15,10 @@ on:
         description: 外部定时触发标识（手动运行留空）
         type: string
         required: false
+      text_releases_to_keep:
+        description: 保留的文本版本数（留空用仓库设置，默认 5；0 关闭清理）
+        type: string
+        required: false
 permissions:
   contents: read
 concurrency:
@@ -81,7 +85,10 @@ jobs:
           repository: DreamGallery/Hoshimi-Adv
           path: Hoshimi-Adv
           persist-credentials: false
+      - name: Check translation data files
+        run: python3 translations-data/scripts/check_release_data.py translations-data
       - name: Fetch changes, validate collaboration and publish complete assets
+        id: publish
         shell: bash
         env:
           GH_TOKEN: ${{ github.token }}
@@ -103,6 +110,26 @@ jobs:
             --toolkit-dir "$GITHUB_WORKSPACE/HoshimiToolkit" \
             --translator-dir "$GITHUB_WORKSPACE/Hoshimi_Teleprompter" \
             "${flags[@]}"
+      - name: Trigger patcher for the published plugin
+        if: ${{ always() && steps.publish.outputs.plugin_tag != '' && !inputs.dry_run }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PATCHER_DISPATCH_TOKEN: ${{ secrets.PATCHER_DISPATCH_TOKEN }}
+          PLUGIN_TAG: ${{ steps.publish.outputs.plugin_tag }}
+          PATCHER_REPOSITORY: ${{ vars.PATCHER_REPOSITORY || 'DreamGallery/Idoly-Patcher' }}
+        run: |
+          python3 Idoly-localify/tools/release_followup.py dispatch \
+            --repository "$GITHUB_REPOSITORY" --target "$PATCHER_REPOSITORY" --tag "$PLUGIN_TAG"
+      - name: Remove superseded text releases and their tags
+        if: ${{ always() && steps.publish.outputs.text_tag != '' && !inputs.dry_run }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TEXT_TAG: ${{ steps.publish.outputs.text_tag }}
+          KEEP_TEXT_RELEASES: ${{ inputs.text_releases_to_keep || vars.TEXT_RELEASES_TO_KEEP || '5' }}
+        run: |
+          python3 Idoly-localify/tools/release_followup.py cleanup \
+            --repository "$GITHUB_REPOSITORY" --current-tag "$TEXT_TAG" \
+            --keep "$KEEP_TEXT_RELEASES" --config "$IDOLY_RUNNER_CONFIG" --apply
       - name: Show safe release failure diagnostics
         if: failure()
         run: python3 translations-data/scripts/release_diagnostics.py --config "$IDOLY_RUNNER_CONFIG"

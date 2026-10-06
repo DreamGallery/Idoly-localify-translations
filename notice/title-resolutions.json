@@ -827,6 +827,15 @@
       "review_method": "assistant",
       "translation": "情人节登录奖励开启！"
     },
+    "フォトアルバム開催！": {
+      "candidates": {
+        "/notice/ddfb4b7a659339fc7b938f46b366665ef588056f93287b77494e719f49d27f56/index.html": "相册活动举办！",
+        "/notice/ed87e6017d4cf624422de15eb00761294c3e91db015ab85f81953741beaed6d8/index.html": "照片相册举办！"
+      },
+      "reason": "同一公告标题在不同期活动中含有不同机器译文；列表沿用当前设备已显示的照片相册举办！，保留各页面正文译文。",
+      "review_method": "assistant",
+      "translation": "照片相册举办！"
+    },
     "プレミアムガチャ更新！ヘアスタイルが新登場！": {
       "candidates": {
         "/notice/05ca8e3cbd3952b6d747b8f8d1e0e69c59c897e7ac6100837e0d5feba7a1c021/index.html": "高级扭蛋更新！发型全新登场！",

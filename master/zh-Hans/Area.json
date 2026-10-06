@@ -4,9 +4,9 @@
     "name": "高分演唱会"
   },
   "area-daily-001": {
-    "dailyRewardName": "金币",
+    "dailyRewardName": "代币",
     "description": "每日演唱会",
-    "name": "金币"
+    "name": "代币"
   },
   "area-daily-002": {
     "dailyRewardName": "课程碎片",

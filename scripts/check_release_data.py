@@ -8,7 +8,7 @@ from pathlib import Path
 def check(root):
     total = 0
     for directory in ('story/ai', 'story/human', 'story/reviewed', 'story/drafts', 'records',
-                      'automation', 'archive',
+                      'archive',
                       'master', 'notice', 'ui', 'legal', 'glossary', 'story-metadata'):
         base = root / directory
         for path in base.rglob('*'):
@@ -27,6 +27,12 @@ def check(root):
                     for row in reader:
                         if None in row or None in row.values(): raise ValueError(f'Malformed CSV: {path}')
             total += 1
+    state = root / 'automation/story-sync-state.json'
+    if state.is_symlink():
+        raise ValueError('Symlinked story sync state')
+    if state.is_file():
+        json.loads(state.read_text(encoding='utf-8'))
+        total += 1
     return total
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)

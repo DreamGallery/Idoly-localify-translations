@@ -7040,24 +7040,24 @@
     "shortDescription": "拍照{threshold}次"
   },
   "event-ms-normal-21-0804-00-point_gold_amount-14100000": {
-    "longDescription": "获得金币{threshold}。",
-    "name": "获得金币{threshold}",
-    "shortDescription": "获得金币{threshold}"
+    "longDescription": "获得代币{threshold}。",
+    "name": "获得代币{threshold}",
+    "shortDescription": "获得代币{threshold}"
   },
   "event-ms-normal-21-0804-00-point_gold_amount-5320000": {
-    "longDescription": "获得金币{threshold}。",
-    "name": "获得金币{threshold}",
-    "shortDescription": "获得金币{threshold}"
+    "longDescription": "获得代币{threshold}。",
+    "name": "获得代币{threshold}",
+    "shortDescription": "获得代币{threshold}"
   },
   "event-ms-normal-21-0804-00-point_gold_amount-636000": {
-    "longDescription": "获得金币{threshold}。",
-    "name": "获得金币{threshold}",
-    "shortDescription": "获得金币{threshold}"
+    "longDescription": "获得代币{threshold}。",
+    "name": "获得代币{threshold}",
+    "shortDescription": "获得代币{threshold}"
   },
   "event-ms-normal-21-0804-00-point_gold_amount-9350000": {
-    "longDescription": "获得金币{threshold}。",
-    "name": "获得金币{threshold}",
-    "shortDescription": "获得金币{threshold}"
+    "longDescription": "获得代币{threshold}。",
+    "name": "获得代币{threshold}",
+    "shortDescription": "获得代币{threshold}"
   },
   "event-ms-normal-21-0804-00-quest_qt-area_clear_count-10": {
     "longDescription": "完成{threshold}次高分演唱会。",
@@ -27010,9 +27010,9 @@
     "shortDescription": "经纪人Lv达到{threshold}"
   },
   "ms-company-growth-point_gold_amount-001": {
-    "longDescription": "累计获得{threshold}枚金币。",
-    "name": "累计获得金币{threshold}枚",
-    "shortDescription": "累计获得金币{threshold}枚"
+    "longDescription": "累计获得{threshold}枚代币。",
+    "name": "累计获得代币{threshold}枚",
+    "shortDescription": "累计获得代币{threshold}枚"
   },
   "ms-company-growth-staff_train_total_count-001": {
     "longDescription": "进行{threshold}次员工培训。",
@@ -32725,9 +32725,9 @@
     "shortDescription": "通过拍摄获得{threshold}张照片"
   },
   "ms-normal-point_gold_total_amount": {
-    "longDescription": "累计获得{threshold}金币吧。",
-    "name": "累计获得{threshold}金币",
-    "shortDescription": "累计获得{threshold}金币"
+    "longDescription": "累计获得{threshold}代币吧。",
+    "name": "累计获得{threshold}代币",
+    "shortDescription": "累计获得{threshold}代币"
   },
   "ms-normal-post_profile_to_twitter": {
     "longDescription": "在Twitter上发布名片{threshold}次吧。",

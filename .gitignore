@@ -29,6 +29,7 @@ master-tag.pb
 *.p12
 *.apk
 *.apks
+*.xapk
 *.aab
 *.db
 *.sqlite
