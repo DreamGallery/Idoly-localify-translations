@@ -7,7 +7,9 @@
 ## 安装插件
 
 插件仍在开发中，总之你懂的，源代码仓库暂时私有，如有需要可以提Issue申请添加访问权限。
+虽然可能官方应该不会管，但还请自己承担使用风险。
 插件编译Target为Android ARM64。请前往[最新发布](https://github.com/DreamGallery/Idoly-localify-translations/releases/tag/latest)，下载 `idoly-localify-版本号.apk`。
+
 ### Root：LSPosed／Vector
 
 1. 在已安装兼容 LSPosed／Vector 框架的设备上，安装插件 APK。
@@ -21,6 +23,8 @@
 1. 准备原版游戏 APK 和插件 APK，在兼容的 LSPatch 中选择游戏，使用嵌入模块的修补方式加入插件。
 2. 游戏为拆分安装包时，需要同时处理 base 和设备所需的 split APK，并作为一组安装。
 3. 安装修补后的游戏并启动。首次从原版切换前请先确认账号已绑定；修补包签名不同，不能直接覆盖原版。
+
+仓库已提供自动触发并修补后的[最新游戏安装包](https://github.com/DreamGallery/Idoly-Patcher/releases)，原始XAPK文件来自网络，通过工作流验证Play Store分发包的开发者签名，请酌情下载使用。
 
 ### 更新文本与插件
 
@@ -60,4 +64,4 @@ https://github.com/DreamGallery/Idoly-localify-translations/releases/download/la
 
 `glossary/extracted/candidates.json` 是术语候选，`evidence/` 保存对应证据，`coverage-gaps.json` 记录尚未确认的原文，`decisions.json` 用于后续审阅，`manifest.json` 记录来源和摘要。
 
-原始剧情 TXT 由 [Hoshimi-Adv](https://github.com/DreamGallery/Hoshimi-Adv) 保存。本仓库提供每天北京时间 23:00 执行及手动触发的[更新发布工作流](docs/releases.md)，人工正式稿校验原文版本后优先合入。`upstream.json` 用于记录原文来源；插件使用的 `manifest.json` 由发布流程生成并附在 Release 中。
+原始剧情 TXT 保存在 [Hoshimi-Adv](https://github.com/DreamGallery/Hoshimi-Adv)。本仓库提供每天北京时间 23:00 执行及手动触发的[更新发布工作流](docs/releases.md)，人工正式稿校验原文版本后优先合入。`upstream.json` 用于记录原文来源；插件使用的 `manifest.json` 由发布流程生成并附在 Release 中。
