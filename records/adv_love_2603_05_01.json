@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "file_id": "adv_love_2603_05_01",
+  "batch": "",
+  "category": "event",
+  "force_complete": {
+    "translation": false,
+    "proofread": false
+  },
+  "translation": {
+    "revision": 1,
+    "draft_revision": 0,
+    "state": "完成",
+    "operator_qq": "",
+    "operator_github": "sky-yixuan",
+    "display_id": "sky-yixuan",
+    "display_source": "github",
+    "timestamp": "2026-10-06T17:07:08Z"
+  },
+  "proofread": {
+    "revision": 0,
+    "draft_revision": 0
+  },
+  "artifacts": {
+    "translation_csv": {
+      "path": "story/human/love/2603/05/adv_love_2603_05_01.csv",
+      "operator_qq": "",
+      "operator_github": "sky-yixuan",
+      "display_id": "sky-yixuan",
+      "display_source": "github",
+      "timestamp": "2026-10-06T17:07:08Z"
+    }
+  },
+  "github": {
+    "updated_at": "2026-10-06T17:07:08Z"
+  }
+}
