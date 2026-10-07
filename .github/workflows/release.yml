@@ -57,7 +57,17 @@ jobs:
       # PR heads, artifact scripts and CSV fields are never executed on this runner.
       - uses: actions/checkout@v4
         with:
-          path: translations-data
+          ref: main
+          fetch-depth: 0
+          path: translations-main
+          persist-credentials: false
+      # This checkout is data only. Its resolved HEAD is the batch cutoff and is
+      # never refreshed during the run; all executable scripts come from main.
+      - uses: actions/checkout@v4
+        with:
+          ref: collaboration
+          fetch-depth: 0
+          path: collaboration-data
           persist-credentials: false
       - uses: actions/checkout@v4
         with:
@@ -86,7 +96,7 @@ jobs:
           path: Hoshimi-Adv
           persist-credentials: false
       - name: Check translation data files
-        run: python3 translations-data/scripts/check_release_data.py translations-data
+        run: python3 translations-main/scripts/check_release_data.py collaboration-data
       - name: Fetch changes, validate collaboration and publish complete assets
         id: publish
         shell: bash
@@ -104,7 +114,8 @@ jobs:
           [[ "$NO_TRANSLATE" == true ]] && flags+=(--no-translate)
           python3 Idoly-localify/tools/release_translations.py --config "$IDOLY_RUNNER_CONFIG" \
             --repository "$GITHUB_REPOSITORY" \
-            --repository-dir "$GITHUB_WORKSPACE/translations-data" \
+            --repository-dir "$GITHUB_WORKSPACE/translations-main" \
+            --collaboration-dir "$GITHUB_WORKSPACE/collaboration-data" \
             --project "$GITHUB_WORKSPACE/Idoly-localify" \
             --adv-dir "$GITHUB_WORKSPACE/Hoshimi-Adv" \
             --toolkit-dir "$GITHUB_WORKSPACE/HoshimiToolkit" \
@@ -132,4 +143,4 @@ jobs:
             --keep "$KEEP_TEXT_RELEASES" --config "$IDOLY_RUNNER_CONFIG" --apply
       - name: Show safe release failure diagnostics
         if: failure()
-        run: python3 translations-data/scripts/release_diagnostics.py --config "$IDOLY_RUNNER_CONFIG"
+        run: python3 translations-main/scripts/release_diagnostics.py --config "$IDOLY_RUNNER_CONFIG"

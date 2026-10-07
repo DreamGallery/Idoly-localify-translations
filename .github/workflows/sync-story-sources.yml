@@ -1,6 +1,11 @@
 name: Sync original stories and create tasks
 on:
   workflow_dispatch:
+    inputs:
+      skip_tasks:
+        description: 仅同步原文和草稿，保留待创建任务，不修改 Issues
+        type: boolean
+        default: false
 permissions:
   contents: read
 concurrency:
@@ -29,6 +34,11 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
+          path: trusted
+          persist-credentials: false
+      - uses: actions/checkout@v4
+        with:
+          ref: collaboration
           path: translations
           persist-credentials: false
       - uses: actions/checkout@v4
@@ -40,4 +50,10 @@ jobs:
       - name: Validate, migrate, commit data and reconcile task Issues
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python3 translations/scripts/sync_story_sources.py --source-repo source --data-dir translations --apply
+          SKIP_TASKS: ${{ inputs.skip_tasks }}
+        run: |
+          options=()
+          if [[ "$SKIP_TASKS" == "true" ]]; then
+            options+=(--skip-tasks)
+          fi
+          python3 trusted/scripts/sync_story_sources.py --source-repo source --data-dir translations --branch collaboration "${options[@]}" --apply

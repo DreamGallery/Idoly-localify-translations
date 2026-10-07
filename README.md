@@ -64,4 +64,4 @@ https://github.com/DreamGallery/Idoly-localify-translations/releases/download/la
 
 `glossary/extracted/candidates.json` 是术语候选，`evidence/` 保存对应证据，`coverage-gaps.json` 记录尚未确认的原文，`decisions.json` 用于后续审阅，`manifest.json` 记录来源和摘要。
 
-原始剧情 TXT 保存在 [Hoshimi-Adv](https://github.com/DreamGallery/Hoshimi-Adv)。本仓库提供每天北京时间 23:00 执行及手动触发的[更新发布工作流](docs/releases.md)，人工正式稿校验原文版本后优先合入。`upstream.json` 用于记录原文来源；插件使用的 `manifest.json` 由发布流程生成并附在 Release 中。
+原始剧情 TXT 保存在 [Hoshimi-Adv](https://github.com/DreamGallery/Hoshimi-Adv)。本仓库提供每天北京时间 23:00 执行及手动触发的[更新发布工作流](docs/releases.md)，协作稿保存到 `collaboration`，发布前固定快照，将通过校验的正式稿汇总为一条提交进入 `main`，再发布文本。`upstream.json` 用于记录原文来源；插件使用的 `manifest.json` 由发布流程生成并附在 Release 中。

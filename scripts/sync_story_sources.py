@@ -17,6 +17,8 @@ import story_migration as migration
 import story_tasks as tasks
 
 STATE = 'automation/story-sync-state.json'
+MANIFEST = 'automation/story-sources.json'
+DATA_BRANCH = 'collaboration'
 SOURCE_REPOSITORY = 'DreamGallery/Hoshimi-Adv'
 TARGET_REPOSITORY = 'DreamGallery/Idoly-localify-translations'
 
@@ -110,17 +112,19 @@ def next_state(previous, receipt, source_commit, revision, filename=None, story_
             'scripts': inventory, 'pending_tasks': pending}
 
 
-def publish_data(root, paths, expected_head, message):
+def publish_data(root, paths, expected_head, message, branch=DATA_BRANCH):
+    if branch != DATA_BRANCH:
+        raise ValueError('Story synchronization may only write the collaboration branch')
     paths = sorted(set(paths))
     for path in paths:
         parts = PurePosixPath(path).parts
         if ('..' in parts or PurePosixPath(path).is_absolute() or
-                not (path in (STATE, 'upstream.json') or
+                not (path in (STATE, MANIFEST, 'upstream.json') or
                      path.startswith(('story/', 'records/', 'archive/')))):
             raise ValueError('Unexpected synchronization output path')
     if git(root, 'rev-parse', 'HEAD') != expected_head:
         raise ValueError('Local branch changed during synchronization')
-    git(root, 'fetch', 'origin', 'main')
+    git(root, 'fetch', 'origin', branch)
     if git(root, 'rev-parse', 'FETCH_HEAD') != expected_head:
         raise ValueError('Translation branch advanced; retry without overwriting user edits')
     if not paths:
@@ -132,14 +136,18 @@ def publish_data(root, paths, expected_head, message):
     git(root, '-c', 'user.name=Idoly localization bot',
         '-c', 'user.email=41898282+github-actions[bot]@users.noreply.github.com',
         'commit', '-m', message)
-    git(root, 'push', 'origin', 'HEAD:refs/heads/main')
+    # A non-force push closes the race after the explicit head check as well.
+    git(root, 'push', 'origin', 'HEAD:refs/heads/' + branch)
     return git(root, 'rev-parse', 'HEAD')
 
 
-def run(source, root, repository=TARGET_REPOSITORY, filename=None, apply=False, story_id=None):
+def run(source, root, repository=TARGET_REPOSITORY, filename=None, apply=False, story_id=None,
+        branch=DATA_BRANCH, skip_tasks=False):
     source, root = Path(source).resolve(), Path(root).resolve()
     if repository != TARGET_REPOSITORY:
         raise ValueError('Unexpected task repository')
+    if branch != DATA_BRANCH:
+        raise ValueError('Story synchronization may only write the collaboration branch')
     if apply and git(root, 'status', '--porcelain'):
         raise ValueError('Translation checkout must be clean before synchronization')
     expected = git(root, 'rev-parse', 'HEAD')
@@ -169,30 +177,47 @@ def run(source, root, repository=TARGET_REPOSITORY, filename=None, apply=False, 
     ledger = migration.safe(root, root / STATE)
     previous = json.loads(ledger.read_text()) if ledger.exists() else {}
     state = next_state(previous, receipt, source_commit, revision, filename, story_id)
+    manifest = {'schema_version': 1, 'source_repository': SOURCE_REPOSITORY,
+                'source_commit': source_commit, 'scripts': {}}
+    for stem, item in state['scripts'].items():
+        raw_path = 'Resource/' + stem + '.txt'
+        # Worker uses this pinned path; reject layouts it cannot resolve.
+        raw = migration.safe(source, source / raw_path)
+        if not raw.is_file() or migration.digest(raw.read_bytes()) != item['source_sha256']:
+            raise ValueError('Source script must be available at ' + raw_path)
+        manifest['scripts'][stem] = {**item, 'raw_path': raw_path}
+    manifest_path = migration.safe(root, root / MANIFEST)
+    manifest_data = encoded(manifest)
+    if not manifest_path.exists() or manifest_path.read_bytes() != manifest_data:
+        writes[MANIFEST] = manifest_data
     ledger_data = encoded(state)
     if not ledger.exists() or ledger.read_bytes() != ledger_data:
         writes[STATE] = ledger_data
     selected = {stem: {'id': stem, 'path': 'story/ai/' + item['csv_path'],
-                        'source_sha256': item['source_sha256']}
+                        'source_sha256': item['source_sha256'], 'source_commit': source_commit,
+                        'raw_path': manifest['scripts'][stem]['raw_path'], 'data_branch': branch}
                 for stem, item in state['pending_tasks'].items() if stem in state['scripts']}
     changed = {stem for stem, item in state['pending_tasks'].items() if item['source_changed']}
     paths = sorted(set(writes) | deletes)
     report = {'source_commit': source_commit, 'resource_revision': revision,
               'changed_files': len(paths), 'pending_tasks': len(selected),
               'retired_scripts': [s['file_id'] for s in receipt['scripts'] if s['status'] == 'retired'],
-              'applied': apply}
+              'applied': apply, 'data_branch': branch, 'tasks_skipped': skip_tasks}
     if not apply:
         report['task_files'] = sorted(selected)
         return report
     migration.apply(root, writes, deletes)
-    expected = publish_data(root, paths, expected, 'Synchronize original stories and migrate translation drafts')
+    expected = publish_data(root, paths, expected, 'Synchronize original stories and migrate translation drafts', branch)
+    if skip_tasks:
+        report.update(commit=expected, tasks=[])
+        return report
     # A failure here deliberately leaves the already-pushed ledger intact.
     results = tasks.synchronize(tasks.GitHub(repository), selected, True, changed) if selected else []
     if selected:
         for stem in selected:
             del state['pending_tasks'][stem]
         migration.atomic_write(ledger, encoded(state))
-        expected = publish_data(root, [STATE], expected, 'Record synchronized story tasks')
+        expected = publish_data(root, [STATE], expected, 'Record synchronized story tasks', branch)
     report.update(commit=expected, tasks=results)
     return report
 
@@ -205,7 +230,9 @@ if __name__ == '__main__':
     selection.add_argument('--filename')
     selection.add_argument('--story-id', help='Create tasks for all chapters under this ID, excluding _short')
     parser.add_argument('--apply', action='store_true')
+    parser.add_argument('--branch', default=DATA_BRANCH, choices=[DATA_BRANCH])
+    parser.add_argument('--skip-tasks', action='store_true', help='Save source data and pending ledger without Issue API writes')
     args = parser.parse_args()
     print(json.dumps(run(args.source_repo, args.data_dir, filename=args.filename, apply=args.apply,
-                         story_id=args.story_id),
+                         story_id=args.story_id, branch=args.branch, skip_tasks=args.skip_tasks),
                      ensure_ascii=False, indent=2))

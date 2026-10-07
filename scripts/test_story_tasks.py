@@ -1,4 +1,5 @@
 import csv
+import json
 import importlib.util
 from pathlib import Path
 import tempfile
@@ -32,7 +33,7 @@ class Fake:
 
 class StoryTaskTests(unittest.TestCase):
     def setUp(self):
-        self.story = {'id': 'adv_hbd_ai_2026', 'path': 'story/ai/hbd/ai/adv_hbd_ai_2026.csv', 'source_sha256': 'a' * 64}
+        self.story = {'id': 'adv_hbd_ai_2026', 'path': 'story/ai/hbd/ai/adv_hbd_ai_2026.csv', 'source_sha256': 'a' * 64, 'source_commit': '1' * 40}
     def test_unicode_group_path_preserved(self):
         story = {**self.story, 'path': 'story/ai/group/サニーピース/ⅢX/a.csv'}
         self.assertIn('story/reviewed/group/サニーピース/ⅢX/a.csv', tasks.task_body(story))
@@ -43,6 +44,15 @@ class StoryTaskTests(unittest.TestCase):
         self.assertIn('<!-- proofread_path: story/reviewed/hbd/ai/adv_hbd_ai_2026.csv -->', body)
         self.assertIn('<!-- tr::待认领 -->', body)
         self.assertIn('<!-- pr::待认领 -->', body)
+        self.assertIn('/Hoshimi-Adv/blob/' + '1' * 40 + '/Resource/', body)
+        self.assertIn('/Idoly-localify-translations/blob/collaboration/', body)
+        self.assertNotIn('/blob/main/', body)
+        self.assertIn('<!-- source_commit: ' + '1' * 40 + ' -->', body)
+    def test_unpinned_or_wrong_branch_task_metadata_rejected(self):
+        for value in ({'source_commit': 'main'}, {'source_commit': ''},
+                      {'data_branch': 'main'}, {'raw_path': '../private.txt'}):
+            with self.subTest(value=value), self.assertRaisesRegex(ValueError, 'pinned'):
+                tasks.task_body({**self.story, **value})
     def test_new_issue_has_pending_translation_label(self):
         self.assertEqual(tasks.plan(self.story)['payload']['labels'], ['待翻译'])
     def test_existing_label_is_not_overwritten(self):
@@ -99,6 +109,12 @@ class StoryTaskTests(unittest.TestCase):
     def test_inventory_uses_metadata_and_skips_empty_scripts(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
+            manifest = root / 'automation/story-sources.json'
+            manifest.parent.mkdir()
+            manifest.write_text(json.dumps({'schema_version': 1, 'source_repository': 'DreamGallery/Hoshimi-Adv',
+                                            'source_commit': '1' * 40, 'scripts': {self.story['id']: {
+                                                'csv_path': self.story['path'].removeprefix('story/ai/'),
+                                                'source_sha256': 'a' * 64}}}))
             path = root / self.story['path']
             path.parent.mkdir(parents=True)
             rows = [['1:title:title', '', '原文', '译文'], ['info', self.story['id'] + '.txt', 'a' * 64, ''], ['译者', '', '', '']]

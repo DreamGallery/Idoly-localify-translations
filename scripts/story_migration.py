@@ -160,6 +160,8 @@ def plan(source_dir, csv_dir, translations_dir):
         if body and path.stem not in incoming:
             raise ValueError(f'Incomplete CSV snapshot: {path.stem}')
     layers = {layer: inventory(root, 'story/' + layer) for layer in LAYERS}
+    manifest_path = safe(root, root / 'automation/story-sources.json')
+    manifest = json.loads(manifest_path.read_text()) if manifest_path.exists() else {}
     writes, deletes, reports = {}, set(), []
     def write(path, data):
         safe(root, root / path)
@@ -169,6 +171,7 @@ def plan(source_dir, csv_dir, translations_dir):
         raw = path.read_bytes()
         dest = 'archive/backups/' + sha + '/' + digest(raw) + '/' + path.relative_to(root).as_posix()
         write(dest, raw)
+        return dest
     for stem, (source_csv, current) in incoming.items():
         rel = source_csv.relative_to(csv_dir).as_posix()
         if stem not in originals:
@@ -185,26 +188,28 @@ def plan(source_dir, csv_dir, translations_dir):
         changed = bool(old_hashes - {sha})
         previous = layers['ai'].get(stem)
         status = 'source_changed' if changed else 'new' if not existing else 'path_changed' if any(p.relative_to(root).as_posix() != 'story/' + k + '/' + rel for k, (p, _) in existing.items()) else 'unchanged'
-        losses, rebased = {}, {}
+        losses, rebased, archived, conflicts = {}, {}, {}, []
         for layer, (path, rows) in existing.items():
             rebased[layer], losses[layer] = rebase(rows, current)
             if changed or status == 'path_changed':
-                archive(path, rows[-2]['text'])
+                archived[layer] = archive(path, rows[-2]['text'])
         if 'ai' not in rebased:
             rebased['ai'] = [{**r, 'trans': ''} for r in current]
         if changed:
             for formal, draft in [('human', 'drafts/translation'), ('reviewed', 'drafts/proofread')]:
                 if formal in rebased:
-                    # Prefer an existing working draft; fill blanks only when no conflict.
+                    # Existing working drafts include intentional blank edits.
                     if draft not in rebased:
                         rebased[draft] = rebased[formal]
                     else:
                         for a, b in zip(rebased[draft][:-2], rebased[formal][:-2]):
-                            if not a['trans']:
-                                a['trans'] = b['trans']
-                            elif b['trans'] and a['trans'] != b['trans']:
-                                a['trans'] = ''
-                                losses.setdefault(draft, []).append(a['id'])
+                            if b['trans'] and a['trans'] != b['trans']:
+                                # Unpublished work is authoritative within its draft.
+                                # Keep both alternatives in the confirmation record.
+                                conflicts.append({'row_id': a['id'], 'draft_layer': draft,
+                                                  'draft_translation': a['trans'],
+                                                  'formal_layer': formal,
+                                                  'formal_translation': b['trans']})
                     del rebased[formal]
         for layer, rows in rebased.items():
             write('story/' + layer + '/' + rel, encode_csv(rows))
@@ -213,11 +218,13 @@ def plan(source_dir, csv_dir, translations_dir):
             if layer not in rebased or relative != 'story/' + layer + '/' + rel:
                 deletes.add(relative)
         record_path = safe(root, root / 'records' / (stem + '.json'))
-        if record_path.exists() and (changed or status == 'path_changed'):
-            record = json.loads(record_path.read_text(encoding='utf-8'))
+        if changed or (record_path.exists() and status == 'path_changed'):
+            record = (json.loads(record_path.read_text(encoding='utf-8')) if record_path.exists()
+                      else {'schema_version': 1, 'file_id': stem})
             if record.get('file_id') != stem:
                 raise ValueError(f'Record identity mismatch: {stem}')
-            archive(record_path, previous[1][-2]['text'] if previous else sorted(old_hashes)[0])
+            if record_path.exists():
+                archive(record_path, previous[1][-2]['text'] if previous else sorted(old_hashes)[0])
             artifacts = record.setdefault('artifacts', {})
             for track, formal in [('translation', 'human'), ('proofread', 'reviewed')]:
                 draft = 'drafts/' + track
@@ -236,7 +243,26 @@ def plan(source_dir, csv_dir, translations_dir):
             if changed:
                 artifacts.pop('proofread_txt', None)
                 record.pop('direct_machine_proofread', None)
-                record['source_change'] = {'status': 'needs-confirmation', 'previous_source_sha256': sorted(old_hashes), 'source_sha256': sha}
+                record.pop('source_confirmation', None)
+                previous_sources = []
+                old_source = manifest.get('scripts', {}).get(stem, {})
+                if old_source.get('source_sha256') in old_hashes and manifest.get('source_commit'):
+                    previous_sources.append({'source_repository': manifest['source_repository'],
+                                             'source_commit': manifest['source_commit'],
+                                             'raw_path': old_source.get('raw_path', 'Resource/' + stem + '.txt'),
+                                             'source_sha256': old_source['source_sha256']})
+                # Keep prior unresolved recovery information across repeated upstream
+                # changes; each archived record also retains its complete history.
+                prior_change = record.get('source_change')
+                if prior_change:
+                    record.setdefault('source_change_history', []).append(prior_change)
+                record['source_change'] = {
+                    'status': 'needs-confirmation', 'previous_source_sha256': sorted(old_hashes),
+                    'source_sha256': sha, 'archived_artifacts': archived,
+                    'conflicts': conflicts, 'previous_sources': previous_sources,
+                    'lost_translations': {
+                        layer: [dict(row) for row in existing[layer][1][:-2] if row['id'] in lost]
+                        for layer, lost in losses.items() if lost}}
             write(record_path.relative_to(root).as_posix(), (json.dumps(record, ensure_ascii=False, indent=2) + '\n').encode())
         reports.append({'file_id': stem, 'csv_path': rel, 'status': status, 'source_sha256': sha,
                         'previous_source_sha256': previous[1][-2]['text'] if previous else None,

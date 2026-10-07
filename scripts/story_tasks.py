@@ -11,6 +11,8 @@ from urllib.parse import quote
 STEM = re.compile(r'adv_[A-Za-z0-9_-]+\Z')
 REPOSITORY = re.compile(r'[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+\Z')
 HASH = re.compile(r'[a-f0-9]{64}\Z')
+COMMIT = re.compile(r'[a-f0-9]{40}\Z')
+DATA_BRANCH = 'collaboration'
 PATH = re.compile(r'[\w./-]+\Z')
 FIELDS = ['id', 'name', 'text', 'trans']
 STATES = ('待认领', '进行中', '完成')
@@ -48,6 +50,14 @@ def read_story(path, root):
 
 def stories(root, filenames=None):
     root = Path(root)
+    manifest_path = root / 'automation/story-sources.json'
+    if manifest_path.is_symlink():
+        raise ValueError('Symlinked source manifest')
+    manifest = json.loads(manifest_path.read_text())
+    if (manifest.get('schema_version') != 1 or
+            manifest.get('source_repository') != 'DreamGallery/Hoshimi-Adv' or
+            not COMMIT.fullmatch(manifest.get('source_commit', ''))):
+        raise ValueError('Invalid pinned source manifest')
     inventory = {}
     for path in sorted((root / 'story/ai').rglob('*.csv')):
         story = read_story(path, root)
@@ -55,6 +65,16 @@ def stories(root, filenames=None):
             continue
         if story['id'] in inventory:
             raise ValueError(f'Duplicate story ID: {story["id"]}')
+        source = manifest.get('scripts', {}).get(story['id'])
+        # Retired scripts remain archived in the data checkout, not in task selection.
+        if source is None:
+            continue
+        if (source.get('source_sha256') != story['source_sha256'] or
+                'story/ai/' + source.get('csv_path', '') != story['path']):
+            raise ValueError('Pinned source manifest does not match story CSV')
+        story.update(source_commit=manifest['source_commit'],
+                     raw_path=source.get('raw_path', 'Resource/' + story['id'] + '.txt'),
+                     data_branch=DATA_BRANCH)
         inventory[story['id']] = story
     if filenames is None:
         return inventory
@@ -87,14 +107,20 @@ def set_marker(body, name, value):
 
 def task_body(story, body=''):
     path = story['path']
+    source_commit = story.get('source_commit', '')
+    raw_path = story.get('raw_path', 'Resource/' + story['id'] + '.txt')
+    data_branch = story.get('data_branch', DATA_BRANCH)
     if (not STEM.fullmatch(story['id']) or not HASH.fullmatch(story['source_sha256']) or
             not path.startswith('story/ai/') or not PATH.fullmatch(path) or
             any(part in ('', '.', '..') for part in path.split('/'))):
         raise ValueError('Invalid task story metadata')
+    if (not COMMIT.fullmatch(source_commit) or raw_path != 'Resource/' + story['id'] + '.txt'
+            or data_branch != DATA_BRANCH):
+        raise ValueError('Invalid pinned task source metadata')
     description = ('<!-- story-task-description:start -->\n'
                    '剧情翻译与校对任务。请在协作网站领取任务、保存草稿并提交完成结果。\n\n'
-                   f'[查看原文](https://github.com/DreamGallery/Hoshimi-Adv/blob/main/Resource/{story["id"]}.txt)'
-                   f' · [查看初译](https://github.com/DreamGallery/Idoly-localify-translations/blob/main/{quote(path, safe="/")})\n'
+                   f'[查看原文](https://github.com/DreamGallery/Hoshimi-Adv/blob/{source_commit}/{raw_path})'
+                   f' · [查看初译](https://github.com/DreamGallery/Idoly-localify-translations/blob/{data_branch}/{quote(path, safe="/")})\n'
                    '<!-- story-task-description:end -->')
     pattern = r'<!-- story-task-description:start -->.*?<!-- story-task-description:end -->'
     if '<!-- story-task-description:start -->' in body:
@@ -104,7 +130,8 @@ def task_body(story, body=''):
     values = {'raw_path': 'raw_txt/' + story['id'] + '.txt', 'ai_path': path,
               'translated_path': path.replace('story/ai/', 'story/human/', 1),
               'proofread_path': path.replace('story/ai/', 'story/reviewed/', 1),
-              'source_sha256': story['source_sha256']}
+              'source_sha256': story['source_sha256'], 'source_commit': source_commit,
+              'source_raw_path': raw_path, 'data_branch': data_branch}
     for name, value in values.items():
         body = set_marker(body, name, value)
     for role in ('tr', 'pr'):

@@ -114,7 +114,7 @@ class MigrationTests(unittest.TestCase):
         m.apply(self.repo, writes, deletes)
         self.assertTrue(old.exists())
 
-    def test_conflicting_draft_cleared_and_archived(self):
+    def test_conflicting_draft_preserved_and_archived(self):
         old = self.snapshot('[title title=test]\n')
         old[0]['trans'] = '正式'
         self.layer('human', old)
@@ -122,13 +122,56 @@ class MigrationTests(unittest.TestCase):
         self.layer('drafts/translation', draft)
         self.snapshot('[wait]\n[title title=test]\n')
         _, writes, deletes = self.plan(); m.apply(self.repo, writes, deletes)
-        self.assertEqual(m.read_csv(self.repo/'story/drafts/translation'/self.rel)[0]['trans'], '')
+        self.assertEqual(m.read_csv(self.repo/'story/drafts/translation'/self.rel)[0]['trans'], '草稿')
+        record = json.loads((self.repo/'records'/(self.stem+'.json')).read_text())
+        self.assertEqual(record['source_change']['status'], 'needs-confirmation')
+        conflict = record['source_change']['conflicts'][0]
+        self.assertEqual(conflict['draft_translation'], '草稿')
+        self.assertEqual(conflict['formal_translation'], '正式')
+        for layer, archived in record['source_change']['archived_artifacts'].items():
+            self.assertEqual(m.read_csv(self.repo/archived)[0]['trans'], '草稿' if layer.startswith('drafts/') else '正式')
+        self.assertEqual(record['artifacts']['translation_draft']['path'], 'story/drafts/translation/'+self.rel)
 
     def test_same_hash_malformed_body_rejected(self):
         rows = self.snapshot('[title title=test]\n')
         rows[0]['text'] = 'tampered'
         self.layer('ai', rows)
         with self.assertRaisesRegex(ValueError, 'declared source hash'): self.plan()
+
+    def test_unpublished_blank_and_lost_draft_have_recovery_records(self):
+        old = self.snapshot('[title title=keep]\n[message name=a text=removed]\n')
+        old[0]['trans'], old[1]['trans'] = '正式', '原译'
+        self.layer('reviewed', old)
+        draft = [dict(row) for row in old]
+        draft[0]['trans'], draft[1]['trans'] = '', '未发布'
+        self.layer('drafts/proofread', draft)
+        manifest = self.repo / 'automation/story-sources.json'
+        manifest.parent.mkdir()
+        manifest.write_text(json.dumps({'source_repository': 'DreamGallery/Hoshimi-Adv',
+                                       'source_commit': 'a' * 40,
+                                       'scripts': {self.stem: {'source_sha256': old[-2]['text']}}}))
+        self.snapshot('[wait]\n[title title=keep]\n')
+        _, writes, deletes = self.plan()
+        m.apply(self.repo, writes, deletes)
+        self.assertEqual(m.read_csv(self.repo/'story/drafts/proofread'/self.rel)[0]['trans'], '')
+        record_path = self.repo/'records'/(self.stem+'.json')
+        record = json.loads(record_path.read_text())
+        change = record['source_change']
+        self.assertEqual(change['conflicts'][0]['draft_translation'], '')
+        self.assertEqual(change['lost_translations']['drafts/proofread'][0]['trans'], '未发布')
+        self.assertEqual(change['previous_sources'][0]['source_commit'], 'a' * 40)
+        self.assertEqual(change['previous_sources'][0]['raw_path'], 'Resource/'+self.stem+'.txt')
+        self.assertEqual(record['force_complete'], {'translation': False, 'proofread': False})
+        record['source_change']['status'] = 'confirmed'
+        record['source_confirmation'] = {'source_sha256': change['source_sha256']}
+        record_path.write_text(json.dumps(record))
+        self.snapshot('[wait]\n[wait]\n[title title=keep]\n')
+        _, writes, deletes = self.plan()
+        m.apply(self.repo, writes, deletes)
+        updated = json.loads(record_path.read_text())
+        self.assertEqual(updated['source_change']['status'], 'needs-confirmation')
+        self.assertNotIn('source_confirmation', updated)
+        self.assertEqual(updated['source_change_history'][0]['lost_translations'], change['lost_translations'])
 
     def test_source_translation_never_imported(self):
         old = self.snapshot('[title title=old]\n')
