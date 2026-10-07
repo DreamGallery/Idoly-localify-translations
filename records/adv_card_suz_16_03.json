@@ -1,51 +1,20 @@
 {
-  "schema_version": 1,
-  "file_id": "adv_card_suz_16_03",
-  "batch": "",
-  "category": "card",
-  "force_complete": {
-    "translation": false,
-    "proofread": false
-  },
-  "translation": {
-    "revision": 1,
-    "draft_revision": 0,
-    "state": "完成",
-    "operator_qq": "",
-    "operator_github": "furude627",
-    "display_id": "furude627",
-    "display_source": "github",
-    "timestamp": "2026-10-05T10:00:04Z"
-  },
-  "proofread": {
-    "revision": 3,
-    "draft_revision": 0,
-    "state": "完成",
-    "operator_qq": "",
-    "operator_github": "furude627",
-    "display_id": "furude627",
-    "display_source": "github",
-    "timestamp": "2026-10-05T10:01:44Z"
-  },
   "artifacts": {
-    "translation_csv": {
-      "path": "story/human/card/suz/16/adv_card_suz_16_03.csv",
-      "operator_qq": "",
-      "operator_github": "furude627",
-      "display_id": "furude627",
-      "display_source": "github",
-      "timestamp": "2026-10-05T10:00:04Z"
-    },
     "proofread_csv": {
-      "path": "story/reviewed/card/suz/16/adv_card_suz_16_03.csv",
-      "operator_qq": "",
-      "operator_github": "furude627",
-      "display_id": "furude627",
-      "display_source": "github",
-      "timestamp": "2026-10-05T10:01:44Z"
+      "path": "story/reviewed/card/suz/16/adv_card_suz_16_03.csv"
+    },
+    "translation_csv": {
+      "path": "story/human/card/suz/16/adv_card_suz_16_03.csv"
     }
   },
-  "github": {
-    "updated_at": "2026-10-05T10:01:44Z"
+  "file_id": "adv_card_suz_16_03",
+  "proofread": {
+    "revision": 3,
+    "state": "完成"
+  },
+  "schema_version": 1,
+  "translation": {
+    "revision": 1,
+    "state": "完成"
   }
 }

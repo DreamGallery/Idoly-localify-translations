@@ -1,51 +1,20 @@
 {
-  "schema_version": 1,
-  "file_id": "adv_love_2603_08_03",
-  "batch": "",
-  "category": "event",
-  "force_complete": {
-    "translation": false,
-    "proofread": false
-  },
-  "translation": {
-    "revision": 1,
-    "draft_revision": 0,
-    "state": "完成",
-    "operator_qq": "",
-    "operator_github": "sky-yixuan",
-    "display_id": "sky-yixuan",
-    "display_source": "github",
-    "timestamp": "2026-10-06T17:45:41Z"
-  },
-  "proofread": {
-    "revision": 1,
-    "draft_revision": 0,
-    "state": "完成",
-    "operator_qq": "",
-    "operator_github": "sky-yixuan",
-    "display_id": "sky-yixuan",
-    "timestamp": "2026-10-06T17:46:58Z",
-    "display_source": "github"
-  },
   "artifacts": {
-    "translation_csv": {
-      "path": "story/human/love/2603/08/adv_love_2603_08_03.csv",
-      "operator_qq": "",
-      "operator_github": "sky-yixuan",
-      "display_id": "sky-yixuan",
-      "display_source": "github",
-      "timestamp": "2026-10-06T17:45:41Z"
-    },
     "proofread_csv": {
-      "path": "story/reviewed/love/2603/08/adv_love_2603_08_03.csv",
-      "operator_qq": "",
-      "operator_github": "sky-yixuan",
-      "display_id": "sky-yixuan",
-      "display_source": "github",
-      "timestamp": "2026-10-06T17:46:58Z"
+      "path": "story/reviewed/love/2603/08/adv_love_2603_08_03.csv"
+    },
+    "translation_csv": {
+      "path": "story/human/love/2603/08/adv_love_2603_08_03.csv"
     }
   },
-  "github": {
-    "updated_at": "2026-10-06T17:46:58Z"
+  "file_id": "adv_love_2603_08_03",
+  "proofread": {
+    "revision": 1,
+    "state": "完成"
+  },
+  "schema_version": 1,
+  "translation": {
+    "revision": 1,
+    "state": "完成"
   }
 }

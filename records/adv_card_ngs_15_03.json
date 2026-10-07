@@ -1,51 +1,20 @@
 {
-  "schema_version": 1,
-  "file_id": "adv_card_ngs_15_03",
-  "batch": "",
-  "category": "card",
-  "force_complete": {
-    "translation": false,
-    "proofread": false
-  },
-  "translation": {
-    "revision": 1,
-    "draft_revision": 0,
-    "state": "完成",
-    "operator_qq": "",
-    "operator_github": "sky-yixuan",
-    "display_id": "sky-yixuan",
-    "display_source": "github",
-    "timestamp": "2026-10-02T08:07:54Z"
-  },
-  "proofread": {
-    "revision": 2,
-    "draft_revision": 0,
-    "state": "完成",
-    "operator_qq": "",
-    "operator_github": "sky-yixuan",
-    "display_id": "sky-yixuan",
-    "timestamp": "2026-10-02T19:50:25Z",
-    "display_source": "github"
-  },
   "artifacts": {
-    "translation_csv": {
-      "path": "story/human/card/ngs/15/adv_card_ngs_15_03.csv",
-      "operator_qq": "",
-      "operator_github": "sky-yixuan",
-      "display_id": "sky-yixuan",
-      "display_source": "github",
-      "timestamp": "2026-10-02T08:07:54Z"
-    },
     "proofread_csv": {
-      "path": "story/reviewed/card/ngs/15/adv_card_ngs_15_03.csv",
-      "operator_qq": "",
-      "operator_github": "sky-yixuan",
-      "display_id": "sky-yixuan",
-      "display_source": "github",
-      "timestamp": "2026-10-02T19:50:25Z"
+      "path": "story/reviewed/card/ngs/15/adv_card_ngs_15_03.csv"
+    },
+    "translation_csv": {
+      "path": "story/human/card/ngs/15/adv_card_ngs_15_03.csv"
     }
   },
-  "github": {
-    "updated_at": "2026-10-02T19:50:25Z"
+  "file_id": "adv_card_ngs_15_03",
+  "proofread": {
+    "revision": 2,
+    "state": "完成"
+  },
+  "schema_version": 1,
+  "translation": {
+    "revision": 1,
+    "state": "完成"
   }
 }
