@@ -4601,6 +4601,26 @@
       "raw_path": "Resource/adv_card_mna_53_03.txt",
       "source_sha256": "11b4aebae26e4bf09547aa4ab41bf63998fd69990dc52cad3839f6665ffe748a"
     },
+    "adv_card_mna_54_01": {
+      "csv_path": "card/mna/54/adv_card_mna_54_01.csv",
+      "raw_path": "Resource/adv_card_mna_54_01.txt",
+      "source_sha256": "ef82969d421b3d16e2640123f47cb1f2666c28171e93229c34c2eb147278eb83"
+    },
+    "adv_card_mna_54_01_short": {
+      "csv_path": "card/mna/54/adv_card_mna_54_01_short.csv",
+      "raw_path": "Resource/adv_card_mna_54_01_short.txt",
+      "source_sha256": "57b646b9d431d8ec8eeca4dabbff5043332ac5cbce38d3e1a6b757bfddfbec1a"
+    },
+    "adv_card_mna_54_02": {
+      "csv_path": "card/mna/54/adv_card_mna_54_02.csv",
+      "raw_path": "Resource/adv_card_mna_54_02.txt",
+      "source_sha256": "a4e3663d7bdcd7ce45129eea204f68485f4af1fefac430c9f95981ef459c57f5"
+    },
+    "adv_card_mna_54_03": {
+      "csv_path": "card/mna/54/adv_card_mna_54_03.csv",
+      "raw_path": "Resource/adv_card_mna_54_03.txt",
+      "source_sha256": "a5849a30a39c7039f27df8cd8722645fc04c7a3892b15fa24b6d4dafbaa2db70"
+    },
     "adv_card_ngs_01_01": {
       "csv_path": "card/ngs/01/adv_card_ngs_01_01.csv",
       "raw_path": "Resource/adv_card_ngs_01_01.txt",
@@ -13166,6 +13186,21 @@
       "raw_path": "Resource/adv_hbd_06_mhk_03.txt",
       "source_sha256": "bd827b6f19140dc4b6e3cdad0b8c9b152766446af9d0c144da1b5892c0964e49"
     },
+    "adv_hbd_06_mna_01": {
+      "csv_path": "hbd/mna/06/adv_hbd_06_mna_01.csv",
+      "raw_path": "Resource/adv_hbd_06_mna_01.txt",
+      "source_sha256": "65508c13383be814d34edc7315db3e0ddbf120d6ebaa064d057e50c9f615a731"
+    },
+    "adv_hbd_06_mna_02": {
+      "csv_path": "hbd/mna/06/adv_hbd_06_mna_02.csv",
+      "raw_path": "Resource/adv_hbd_06_mna_02.txt",
+      "source_sha256": "50cc0773f0d440cbd38aba22f1351ab59c587f80e2a7d52c35fdf5029b4814e1"
+    },
+    "adv_hbd_06_mna_03": {
+      "csv_path": "hbd/mna/06/adv_hbd_06_mna_03.csv",
+      "raw_path": "Resource/adv_hbd_06_mna_03.txt",
+      "source_sha256": "174d8f895766dc97c4b2bcb24d28652e279c9ae00fcd14c3fe043f2e4e564ac7"
+    },
     "adv_hbd_06_ngs_01": {
       "csv_path": "hbd/ngs/06/adv_hbd_06_ngs_01.csv",
       "raw_path": "Resource/adv_hbd_06_ngs_01.txt",
@@ -15337,6 +15372,6 @@
       "source_sha256": "133b6c40d6c451431b775f40418caa82274a234440feb256dcb7c890f5ed5b11"
     }
   },
-  "source_commit": "78400146b903f1e28aa25f52b4ea245d46204620",
+  "source_commit": "251322d59d99d3feec6cfdb737daf964fb9ee085",
   "source_repository": "DreamGallery/Hoshimi-Adv"
 }
