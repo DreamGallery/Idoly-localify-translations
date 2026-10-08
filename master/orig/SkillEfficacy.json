@@ -3719,6 +3719,30 @@
     "description": "ボーカルが高い1人にAスキルスコア上昇超化効果[34ビート]",
     "name": "ボーカルが高い1人にAスキルスコア上昇超化効果"
   },
+  "ef-add_effect_value_audience_amount_increase-10-target-center-32": {
+    "description": "センターに集目超化効果[32ビート]",
+    "name": "センターに集目超化"
+  },
+  "ef-add_effect_value_audience_amount_increase-10-target-center-35": {
+    "description": "センターに集目超化効果[35ビート]",
+    "name": "センターに集目超化"
+  },
+  "ef-add_effect_value_audience_amount_increase-10-target-center-38": {
+    "description": "センターに集目超化効果[38ビート]",
+    "name": "センターに集目超化"
+  },
+  "ef-add_effect_value_audience_amount_increase-10-target-center-41": {
+    "description": "センターに集目超化効果[41ビート]",
+    "name": "センターに集目超化"
+  },
+  "ef-add_effect_value_audience_amount_increase-10-target-center-45": {
+    "description": "センターに集目超化効果[45ビート]",
+    "name": "センターに集目超化"
+  },
+  "ef-add_effect_value_audience_amount_increase-10-target-center-49": {
+    "description": "センターに集目超化効果[49ビート]",
+    "name": "センターに集目超化"
+  },
   "ef-add_effect_value_audience_amount_increase-10-target-character_type-1-1-16": {
     "description": "スコアラータイプ1人に集目超化効果[16ビート]",
     "name": "スコアラータイプ1人に集目超化"
@@ -5611,8 +5635,16 @@
     "description": "ビジュアルタイプ2人に6段階の集目効果[51ビート]",
     "name": "ビジュアルタイプ2人に集目効果"
   },
+  "ef-audience_amount_increase-7-target-center-21": {
+    "description": "センターに7段階の集目効果[21ビート]",
+    "name": "センターに集目効果"
+  },
   "ef-audience_amount_increase-7-target-center-24": {
     "description": "センターに7段階の集目効果[24ビート]",
+    "name": "センターに集目効果"
+  },
+  "ef-audience_amount_increase-7-target-center-25": {
+    "description": "センターに7段階の集目効果[25ビート]",
     "name": "センターに集目効果"
   },
   "ef-audience_amount_increase-7-target-center-26": {
@@ -22547,8 +22579,16 @@
     "description": "ボーカルタイプ2人に10段階ボーカルブースト上限解放効果[16ビート]",
     "name": "ボーカルタイプ2人にボーカルブースト上限解放"
   },
+  "ef-limit_break_vocal_boost-10-target-vocal-2-18": {
+    "description": "ボーカルタイプ2人に10段階ボーカルブースト上限解放効果[18ビート]",
+    "name": "ボーカルタイプ2人にボーカルブースト上限解放"
+  },
   "ef-limit_break_vocal_boost-10-target-vocal-2-20": {
     "description": "ボーカルタイプ2人に10段階ボーカルブースト上限解放効果[20ビート]",
+    "name": "ボーカルタイプ2人にボーカルブースト上限解放"
+  },
+  "ef-limit_break_vocal_boost-10-target-vocal-2-21": {
+    "description": "ボーカルタイプ2人に10段階ボーカルブースト上限解放効果[21ビート]",
     "name": "ボーカルタイプ2人にボーカルブースト上限解放"
   },
   "ef-limit_break_vocal_boost-10-target-vocal-2-24": {
@@ -38435,6 +38475,18 @@
     "description": "全員に5段階テンションUP効果[47ビート]",
     "name": "全員にテンションUP効果"
   },
+  "ef-tension_up-5-target-center-21": {
+    "description": "センターに5段階テンションUP効果[21ビート]",
+    "name": "センターにテンションUP効果"
+  },
+  "ef-tension_up-5-target-center-25": {
+    "description": "センターに5段階テンションUP効果[25ビート]",
+    "name": "センターにテンションUP効果"
+  },
+  "ef-tension_up-5-target-center-29": {
+    "description": "センターに5段階テンションUP効果[29ビート]",
+    "name": "センターにテンションUP効果"
+  },
   "ef-tension_up-5-target-character_type-1-1-27": {
     "description": "スコアラータイプ1人に5段階テンションUP効果[27ビート]",
     "name": "スコアラータイプ1人にテンションUP効果"
@@ -38646,6 +38698,18 @@
   "ef-tension_up-6-target-all-52": {
     "description": "全員に6段階テンションUP効果[52ビート]",
     "name": "全員にテンションUP効果"
+  },
+  "ef-tension_up-6-target-center-29": {
+    "description": "センターに6段階テンションUP効果[29ビート]",
+    "name": "センターにテンションUP効果"
+  },
+  "ef-tension_up-6-target-center-33": {
+    "description": "センターに6段階テンションUP効果[33ビート]",
+    "name": "センターにテンションUP効果"
+  },
+  "ef-tension_up-6-target-center-37": {
+    "description": "センターに6段階テンションUP効果[37ビート]",
+    "name": "センターにテンションUP効果"
   },
   "ef-tension_up-6-target-character_type-1-1-22": {
     "description": "スコアラータイプ1人に6段階テンションUP効果[22ビート]",
@@ -43047,6 +43111,18 @@
     "description": "ボーカルタイプ1人に3段階ボーカルブースト効果[28ビート]",
     "name": "ボーカルタイプ1人にボーカルブースト効果"
   },
+  "ef-vocal_boost-3-target-vocal-2-18": {
+    "description": "ボーカルタイプ2人に3段階ボーカルブースト効果[18ビート]",
+    "name": "ボーカルタイプ2人にボーカルブースト効果"
+  },
+  "ef-vocal_boost-3-target-vocal-2-21": {
+    "description": "ボーカルタイプ2人に3段階ボーカルブースト効果[21ビート]",
+    "name": "ボーカルタイプ2人にボーカルブースト効果"
+  },
+  "ef-vocal_boost-3-target-vocal-2-24": {
+    "description": "ボーカルタイプ2人に3段階ボーカルブースト効果[24ビート]",
+    "name": "ボーカルタイプ2人にボーカルブースト効果"
+  },
   "ef-vocal_boost-4-target-all-37": {
     "description": "全員に4段階ボーカルブースト効果[37ビート]",
     "name": "全員にボーカルブースト効果"
@@ -43141,6 +43217,18 @@
   },
   "ef-vocal_boost-4-target-vocal-2-23": {
     "description": "ボーカルタイプ2人に4段階ボーカルブースト効果[23ビート]",
+    "name": "ボーカルタイプ2人にボーカルブースト効果"
+  },
+  "ef-vocal_boost-4-target-vocal-2-24": {
+    "description": "ボーカルタイプ2人に4段階ボーカルブースト効果[24ビート]",
+    "name": "ボーカルタイプ2人にボーカルブースト効果"
+  },
+  "ef-vocal_boost-4-target-vocal-2-28": {
+    "description": "ボーカルタイプ2人に4段階ボーカルブースト効果[28ビート]",
+    "name": "ボーカルタイプ2人にボーカルブースト効果"
+  },
+  "ef-vocal_boost-4-target-vocal-2-32": {
+    "description": "ボーカルタイプ2人に4段階ボーカルブースト効果[32ビート]",
     "name": "ボーカルタイプ2人にボーカルブースト効果"
   },
   "ef-vocal_boost-4-target-vocal-2-36": {

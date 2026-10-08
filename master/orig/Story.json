@@ -253,6 +253,14 @@
   "st-birthday-branch-mna-25-1009": {
     "name": "長瀬麻奈 誕生日2025"
   },
+  "st-birthday-branch-mna-26-1009": {
+    "branchCautionText": "後で再度選択可能です",
+    "branchChoices[0].text": "感謝の手紙",
+    "branchChoices[1].text": "数量限定★魚魚っとさんカレー",
+    "branchChoices[2].text": "手作りした俺のカレー",
+    "branchFirstText": "今日は麻奈の誕生日だな\n何をプレゼントしよう？",
+    "name": "長瀬麻奈 誕生日2026"
+  },
   "st-birthday-branch-ngs-23-0803": {
     "branchCautionText": "後で再度選択可能です",
     "branchChoices[0].text": "恋愛小説",
@@ -2132,6 +2140,15 @@
   },
   "st-card-mna-05-birt-02-02": {
     "name": "お揃いの\nネックレス"
+  },
+  "st-card-mna-05-birt-03-01": {
+    "name": "あの時の\n学園祭"
+  },
+  "st-card-mna-05-birt-03-02": {
+    "name": "写真展の\n看板"
+  },
+  "st-card-mna-05-birt-03-03": {
+    "name": "一杯\n思い出して\nよね"
   },
   "st-card-mna-05-fest-00-01": {
     "name": "突然のプレゼント"

@@ -211,6 +211,10 @@
     "description": "長瀬麻奈のビッグ缶バッジです。",
     "name": "ビッグ缶バッジ 長瀬麻奈"
   },
+  "toy-goods-bigbuttonbadge_char-mna-birthday-2026": {
+    "description": "長瀬麻奈のビッグ缶バッジです。",
+    "name": "ビッグ缶バッジ 長瀬麻奈"
+  },
   "toy-goods-bigbuttonbadge_char-ngs-birthday-2024": {
     "description": "伊吹渚のビッグ缶バッジです。",
     "name": "ビッグ缶バッジ 伊吹渚"
@@ -630,6 +634,10 @@
   "toy-goods-buttonbadge_card-mna-05-birt-02": {
     "description": "長瀬麻奈の缶バッジです。",
     "name": "缶バッジ 長瀬麻奈「在りし日の幸せバースデー」"
+  },
+  "toy-goods-buttonbadge_card-mna-05-birt-03": {
+    "description": "長瀬麻奈の缶バッジです。",
+    "name": "缶バッジ 長瀬麻奈「軌跡たどるバースデー」"
   },
   "toy-goods-buttonbadge_card-mna-05-link-00": {
     "description": "長瀬麻奈の缶バッジです。",
@@ -1763,6 +1771,10 @@
     "description": "長瀬麻奈のカードスタンドです。",
     "name": "カードスタンド 長瀬麻奈「在りし日の幸せバースデー」"
   },
+  "toy-goods-chracrylicbord_card-mna-05-birt-03": {
+    "description": "長瀬麻奈のカードスタンドです。",
+    "name": "カードスタンド 長瀬麻奈「軌跡たどるバースデー」"
+  },
   "toy-goods-chracrylicbord_card-mna-05-link-00": {
     "description": "長瀬麻奈のカードスタンドです。",
     "name": "カードスタンド 長瀬麻奈「絆が繋ぐ姉妹の奇跡」"
@@ -2779,6 +2791,10 @@
     "description": "長瀬麻奈のミニキャラスタンドです。",
     "name": "ミニキャラスタンド 長瀬麻奈「在りし日の幸せバースデー」"
   },
+  "toy-goods-chracrylicsd_card-mna-05-birt-03": {
+    "description": "長瀬麻奈のミニキャラスタンドです。",
+    "name": "ミニキャラスタンド 長瀬麻奈「軌跡たどるバースデー」"
+  },
   "toy-goods-chracrylicsd_card-mna-05-link-00": {
     "description": "長瀬麻奈のミニキャラスタンドです。",
     "name": "ミニキャラスタンド 長瀬麻奈「絆が繋ぐ姉妹の奇跡」"
@@ -3515,6 +3531,10 @@
     "description": "長瀬麻奈のプレートです。",
     "name": "誕生日プレート 長瀬麻奈"
   },
+  "toy-goods-nameplate_char-mna-birthday-2026": {
+    "description": "長瀬麻奈のプレートです。",
+    "name": "誕生日プレート 長瀬麻奈"
+  },
   "toy-goods-nameplate_char-ngs-01": {
     "description": "伊吹渚のプレートです。",
     "name": "プレート 伊吹渚"
@@ -3752,6 +3772,10 @@
     "name": "タペストリー miho"
   },
   "toy-goods-tapestry_char-mna-birthday-2025": {
+    "description": "長瀬麻奈のタペストリーです。",
+    "name": "タペストリー 長瀬麻奈"
+  },
+  "toy-goods-tapestry_char-mna-birthday-2026": {
     "description": "長瀬麻奈のタペストリーです。",
     "name": "タペストリー 長瀬麻奈"
   },

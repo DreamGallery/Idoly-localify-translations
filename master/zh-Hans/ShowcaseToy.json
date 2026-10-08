@@ -211,6 +211,10 @@
     "description": "长濑麻奈的超大徽章。",
     "name": "超大徽章 长濑麻奈"
   },
+  "toy-goods-bigbuttonbadge_char-mna-birthday-2026": {
+    "description": "长濑麻奈的超大徽章。",
+    "name": "超大徽章 长濑麻奈"
+  },
   "toy-goods-bigbuttonbadge_char-ngs-birthday-2024": {
     "description": "伊吹渚的大徽章。",
     "name": "大徽章 伊吹渚"
@@ -630,6 +634,10 @@
   "toy-goods-buttonbadge_card-mna-05-birt-02": {
     "description": "长濑麻奈的徽章。",
     "name": "徽章 长濑麻奈「昔日幸福的生日」"
+  },
+  "toy-goods-buttonbadge_card-mna-05-birt-03": {
+    "description": "长濑麻奈的徽章。",
+    "name": "徽章 长濑麻奈「轨迹追溯生日」"
   },
   "toy-goods-buttonbadge_card-mna-05-link-00": {
     "description": "长濑麻奈的徽章。",
@@ -1763,6 +1771,10 @@
     "description": "长濑麻奈的卡牌立牌。",
     "name": "卡牌立牌 长濑麻奈「昔日幸福的生日」"
   },
+  "toy-goods-chracrylicbord_card-mna-05-birt-03": {
+    "description": "长濑麻奈的卡牌立牌。",
+    "name": "卡牌立牌 长濑麻奈「轨迹追溯生日」"
+  },
   "toy-goods-chracrylicbord_card-mna-05-link-00": {
     "description": "长濑麻奈的卡牌立牌。",
     "name": "卡牌立牌 长濑麻奈「羁绊相连的姐妹奇迹」"
@@ -2779,6 +2791,10 @@
     "description": "长濑麻奈的迷你角色立牌。",
     "name": "迷你角色立牌 长濑麻奈「昔日幸福的生日」"
   },
+  "toy-goods-chracrylicsd_card-mna-05-birt-03": {
+    "description": "长濑麻奈的迷你角色立牌。",
+    "name": "迷你角色立牌 长濑麻奈「轨迹追溯生日」"
+  },
   "toy-goods-chracrylicsd_card-mna-05-link-00": {
     "description": "长濑麻奈的迷你角色立牌。",
     "name": "迷你角色立牌 长濑麻奈「羁绊相连的姐妹奇迹」"
@@ -3515,6 +3531,10 @@
     "description": "长濑麻奈的餐盘。",
     "name": "生日餐盘 长濑麻奈"
   },
+  "toy-goods-nameplate_char-mna-birthday-2026": {
+    "description": "长濑麻奈的餐盘。",
+    "name": "生日餐盘 长濑麻奈"
+  },
   "toy-goods-nameplate_char-ngs-01": {
     "description": "伊吹渚的餐盘。",
     "name": "餐盘 伊吹渚"
@@ -3752,6 +3772,10 @@
     "name": "挂毯 miho"
   },
   "toy-goods-tapestry_char-mna-birthday-2025": {
+    "description": "长濑麻奈的挂毯。",
+    "name": "挂毯 长濑麻奈"
+  },
+  "toy-goods-tapestry_char-mna-birthday-2026": {
     "description": "长濑麻奈的挂毯。",
     "name": "挂毯 长濑麻奈"
   },

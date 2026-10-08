@@ -2376,5 +2376,10 @@
     "description": "派对玩得很开心哦～\n今天真的非常感谢\n从经纪人那里收到了最棒的圣诞礼物呢",
     "name": "我们的平安夜",
     "obtainMessage": "TRINITYAiLE三人正玩得开心呢～"
+  },
+  "card-mna-05-birt-03": {
+    "description": "无论多么忙碌，无论星见Production变得多大\n唯独这一天，你要好好想起我哦",
+    "name": "追寻轨迹的生日",
+    "obtainMessage": "唯独这一天，\n你要好好\n想起我哦"
   }
 }

@@ -698,6 +698,36 @@
         }
       ]
     },
+    "st-birthday-branch-mna-26-1009": {
+      "name": "長瀬麻奈 誕生日2026",
+      "adv_play_types": [
+        6
+      ],
+      "assets": [],
+      "categories": [
+        "extra"
+      ],
+      "references": [
+        {
+          "category": "extra",
+          "table": "ExtraStory",
+          "extra_id": "ex-story-part-birthday-01-mna-1009",
+          "part_id": "ex-story-part-birthday-01",
+          "part_type": 1,
+          "episode": 3,
+          "asset_id": "hbd_2026"
+        },
+        {
+          "category": "extra",
+          "table": "ExtraStory",
+          "extra_id": "ex-story-part-birthday-01-mna-1009",
+          "part_id": "ex-story-part-birthday-01",
+          "part_type": 1,
+          "episode": 6,
+          "asset_id": "hbd_2026"
+        }
+      ]
+    },
     "st-birthday-branch-ngs-23-0803": {
       "name": "伊吹渚 誕生日2023",
       "adv_play_types": [
@@ -13825,6 +13855,75 @@
           "category": "card",
           "table": "Card",
           "card_id": "card-mna-05-birt-02",
+          "episode": 3,
+          "character_id": "char-mna",
+          "character_code": "mna",
+          "character_name": "長瀬麻奈"
+        }
+      ]
+    },
+    "st-card-mna-05-birt-03-01": {
+      "name": "あの時の\n学園祭",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_mna_54_01"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-mna-05-birt-03",
+          "episode": 1,
+          "character_id": "char-mna",
+          "character_code": "mna",
+          "character_name": "長瀬麻奈"
+        }
+      ]
+    },
+    "st-card-mna-05-birt-03-02": {
+      "name": "写真展の\n看板",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_mna_54_02"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-mna-05-birt-03",
+          "episode": 2,
+          "character_id": "char-mna",
+          "character_code": "mna",
+          "character_name": "長瀬麻奈"
+        }
+      ]
+    },
+    "st-card-mna-05-birt-03-03": {
+      "name": "一杯\n思い出して\nよね",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_mna_54_03"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-mna-05-birt-03",
           "episode": 3,
           "character_id": "char-mna",
           "character_code": "mna",
@@ -67985,6 +68084,15 @@
     ],
     "card_mna_53_03": [
       "st-card-mna-05-birt-02-03"
+    ],
+    "card_mna_54_01": [
+      "st-card-mna-05-birt-03-01"
+    ],
+    "card_mna_54_02": [
+      "st-card-mna-05-birt-03-02"
+    ],
+    "card_mna_54_03": [
+      "st-card-mna-05-birt-03-03"
     ],
     "card_ngs_01_01": [
       "st-card-ngs-05-idol-00-01"

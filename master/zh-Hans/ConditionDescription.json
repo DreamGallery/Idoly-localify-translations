@@ -1304,6 +1304,9 @@
   "cd-birthday_emblem_mna-25-1009": {
     "description": "迎来麻奈的生日"
   },
+  "cd-birthday_emblem_mna-26-1009": {
+    "description": "迎来麻奈的生日"
+  },
   "cd-birthday_emblem_ngs-23-0803": {
     "description": "迎来渚的生日"
   },
@@ -1563,6 +1566,9 @@
     "description": "迎来麻奈的生日"
   },
   "cd-birthday_mna-25-1009": {
+    "description": "迎来麻奈的生日"
+  },
+  "cd-birthday_mna-26-1009": {
     "description": "迎来麻奈的生日"
   },
   "cd-birthday_ngs-0803": {
@@ -4955,6 +4961,9 @@
   "cd-date-event-love-26-0921-banner": {
     "description": "若恋活动横幅_复刻"
   },
+  "cd-date-event-love-26-1010-banner": {
+    "description": "若恋活动横幅_复刻"
+  },
   "cd-date-event-love-26-1010-s-banner": {
     "description": "若恋复刻_S横幅"
   },
@@ -5038,6 +5047,9 @@
   },
   "cd-date-event-mission-love-26-0313-limited": {
     "description": "若恋限定任务"
+  },
+  "cd-date-event-mission-love-26-0313-limited-end": {
+    "description": "若恋限定任务称号关闭"
   },
   "cd-date-event-mission-love-26-0313-limited-unlock": {
     "description": "3/19日后开放"
@@ -23883,6 +23895,9 @@
     "description": "迎来麻奈的生日"
   },
   "cd-ex-story-part-birthday-mna-25-1009-open": {
+    "description": "迎来麻奈的生日"
+  },
+  "cd-ex-story-part-birthday-mna-26-1009-open": {
     "description": "迎来麻奈的生日"
   },
   "cd-ex-story-part-birthday-ngs-23-0803-open": {
@@ -48164,6 +48179,15 @@
   "cd-shop-pack-26-0926-1003-dokan": {
     "description": "【超值】沙季生日商店"
   },
+  "cd-shop-pack-26-1009": {
+    "description": "【公告】麻奈生日商店"
+  },
+  "cd-shop-pack-26-1009-1016": {
+    "description": "麻奈生日商店"
+  },
+  "cd-shop-pack-26-1009-1016-dokan": {
+    "description": "【超值】麻奈生日商店"
+  },
   "cd-shop-pack1-23-0809": {
     "description": "【公告】上线777天纪念商店"
   },
@@ -52066,6 +52090,15 @@
   },
   "cd-special-shop-pack-26-1002-1020-mlv-120": {
     "description": "外出系列举办纪念特别商店Mlv120控制"
+  },
+  "cd-special-shop-pack-26-1009": {
+    "description": "【公告】麻奈生日特别商店"
+  },
+  "cd-special-shop-pack-26-1009-1016": {
+    "description": "麻奈生日特别商店"
+  },
+  "cd-special-shop-pack-26-1009-1016-dokan": {
+    "description": "【爆】麻奈生日特别商店"
   },
   "cd-special-shop-pack2-0831-0917-02": {
     "description": "暖阳下的假日Ⅰ･Ⅱ1人★5确定10连扭蛋券商店"
@@ -60386,6 +60419,9 @@
   "cd-time-gacha-birthday-hair-26-0926": {
     "description": "套装发型"
   },
+  "cd-time-gacha-birthday-hair-26-1009": {
+    "description": "套装发型"
+  },
   "cd-time-gacha-continuous-22-0624": {
     "description": "无限抽卡显示条件"
   },
@@ -62808,6 +62844,15 @@
     "description": "横幅期间：期间：★5偶像1人确定精选扭蛋"
   },
   "cd-time-gacha-fixed-26-0926-banner-end": {
+    "description": "横幅期间结束条件：期间：★5偶像1人确定精选扭蛋"
+  },
+  "cd-time-gacha-fixed-26-1009": {
+    "description": "期间：★5偶像1人确定精选扭蛋"
+  },
+  "cd-time-gacha-fixed-26-1009-banner": {
+    "description": "横幅期间：期间：★5偶像1人确定精选扭蛋"
+  },
+  "cd-time-gacha-fixed-26-1009-banner-end": {
     "description": "横幅期间结束条件：期间：★5偶像1人确定精选扭蛋"
   },
   "cd-time-gacha-fixed-selection-01-26-0618": {
@@ -68191,6 +68236,9 @@
   },
   "cd-time-gacha-rev-birthday-26-0619": {
     "description": "期间：【复刻】葵生日扭蛋"
+  },
+  "cd-time-gacha-rev-birthday-26-1009": {
+    "description": "期间：【复刻】麻奈生日扭蛋"
   },
   "cd-time-gacha-rev-dream-23-0624": {
     "description": "期间：2周年纪念复刻梦幻礼物扭蛋"
@@ -74603,6 +74651,9 @@
   "cd-time-pvp-26-1004-1006_s-banner": {
     "description": "PVP_S横幅 开始后3天"
   },
+  "cd-time-pvp-26-1014-1016_s-banner": {
+    "description": "PVP_S横幅 开始后3天"
+  },
   "cd-time-questionnaire-21-0702-0709_s-banner": {
     "description": "问卷期间"
   },
@@ -76501,5 +76552,17 @@
   },
   "ms-limited-login-ex-tower-005-sp-26-0503-003-login": {
     "description": "三丽鸥角色联动举办纪念EX塔003对象"
+  },
+  "cd-time-gacha-birthday-26-1009": {
+    "description": "期间：麻奈生日扭蛋2026"
+  },
+  "cd-time-gacha-birthday-26-1009-banner": {
+    "description": "期间：麻奈生日扭蛋2026_横幅"
+  },
+  "cd-time-medal-buttonbadge-birthday-26-1009": {
+    "description": "期间：麻奈生日扭蛋2026徽章交换"
+  },
+  "cd-time-period-2700-end-01": {
+    "description": "关闭对应：period-2700"
   }
 }

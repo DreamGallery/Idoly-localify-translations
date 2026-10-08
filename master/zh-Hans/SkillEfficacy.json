@@ -5611,9 +5611,17 @@
     "description": "赋予视觉类型2人6阶段集目效果[51拍]",
     "name": "为2名视觉类型赋予集目效果"
   },
+  "ef-audience_amount_increase-7-target-center-21": {
+    "name": "赋予中心集目效果",
+    "description": "对中心赋予7阶段集目效果[21拍]"
+  },
   "ef-audience_amount_increase-7-target-center-24": {
     "description": "对中心赋予7阶段集目效果[24拍]",
     "name": "赋予中心集目效果"
+  },
+  "ef-audience_amount_increase-7-target-center-25": {
+    "name": "赋予中心集目效果",
+    "description": "对中心赋予7阶段集目效果[25拍]"
   },
   "ef-audience_amount_increase-7-target-center-26": {
     "description": "对中心赋予7阶段集目效果[26拍]",
@@ -22547,9 +22555,17 @@
     "description": "为2名声乐类型角色赋予10阶段声乐提升上限解放效果[16节拍]",
     "name": "为2名声乐类型角色赋予声乐提升上限解放"
   },
+  "ef-limit_break_vocal_boost-10-target-vocal-2-18": {
+    "name": "为2名声乐类型角色赋予声乐提升上限解放",
+    "description": "对2名主唱类型赋予10阶段主唱提升上限解放效果[18拍]"
+  },
   "ef-limit_break_vocal_boost-10-target-vocal-2-20": {
     "description": "为2名歌唱类型角色解锁10段歌唱提升上限效果[20节拍]",
     "name": "为2名声乐类型角色赋予声乐提升上限解放"
+  },
+  "ef-limit_break_vocal_boost-10-target-vocal-2-21": {
+    "name": "为2名声乐类型角色赋予声乐提升上限解放",
+    "description": "对2名主唱类型赋予10阶段主唱提升上限解放效果[21拍]"
   },
   "ef-limit_break_vocal_boost-10-target-vocal-2-24": {
     "description": "为2名歌唱类型角色解锁10段歌唱提升上限效果[24节拍]",
@@ -38435,6 +38451,18 @@
     "description": "全员获得5阶段情绪UP效果[47拍]",
     "name": "全体提升情绪效果"
   },
+  "ef-tension_up-5-target-center-21": {
+    "name": "使中心位提升情绪效果",
+    "description": "对中心赋予5阶段情绪UP效果[21拍]"
+  },
+  "ef-tension_up-5-target-center-25": {
+    "name": "使中心位提升情绪效果",
+    "description": "对中心赋予5阶段情绪UP效果[25拍]"
+  },
+  "ef-tension_up-5-target-center-29": {
+    "name": "使中心位提升情绪效果",
+    "description": "对中心赋予5阶段情绪UP效果[29拍]"
+  },
   "ef-tension_up-5-target-character_type-1-1-27": {
     "description": "1名得分手类型获得5阶段情绪UP效果[27拍]",
     "name": "对1名得分手类型提升情绪效果"
@@ -38646,6 +38674,18 @@
   "ef-tension_up-6-target-all-52": {
     "description": "全员获得6阶段情绪UP效果[52拍]",
     "name": "全体提升情绪效果"
+  },
+  "ef-tension_up-6-target-center-29": {
+    "name": "使中心位提升情绪效果",
+    "description": "对中心赋予6阶段情绪UP效果[29拍]"
+  },
+  "ef-tension_up-6-target-center-33": {
+    "name": "使中心位提升情绪效果",
+    "description": "对中心赋予6阶段情绪UP效果[33拍]"
+  },
+  "ef-tension_up-6-target-center-37": {
+    "name": "使中心位提升情绪效果",
+    "description": "对中心赋予6阶段情绪UP效果[37拍]"
   },
   "ef-tension_up-6-target-character_type-1-1-22": {
     "description": "得分类型1人获得6阶段情绪UP效果[22拍]",
@@ -43047,6 +43087,18 @@
     "description": "对1名声乐类型赋予3阶段声乐提升效果[28拍]",
     "name": "对歌唱类型的1人赋予歌唱提升效果"
   },
+  "ef-vocal_boost-3-target-vocal-2-18": {
+    "name": "对2名歌唱类型角色赋予歌唱提升效果",
+    "description": "为2名歌唱类型角色赋予3阶段歌唱提升效果[18拍]"
+  },
+  "ef-vocal_boost-3-target-vocal-2-21": {
+    "name": "对2名歌唱类型角色赋予歌唱提升效果",
+    "description": "为2名歌唱类型角色赋予3阶段歌唱提升效果[21拍]"
+  },
+  "ef-vocal_boost-3-target-vocal-2-24": {
+    "name": "对2名歌唱类型角色赋予歌唱提升效果",
+    "description": "为2名歌唱类型角色赋予3阶段歌唱提升效果[24拍]"
+  },
   "ef-vocal_boost-4-target-all-37": {
     "description": "对全员赋予4阶段声乐提升效果[37拍]",
     "name": "对全员赋予歌唱提升效果"
@@ -43142,6 +43194,18 @@
   "ef-vocal_boost-4-target-vocal-2-23": {
     "description": "对2名歌唱类型角色赋予4阶段歌唱提升效果[23拍]",
     "name": "对2名歌唱类型角色赋予歌唱提升效果"
+  },
+  "ef-vocal_boost-4-target-vocal-2-24": {
+    "name": "对2名歌唱类型角色赋予歌唱提升效果",
+    "description": "为2名歌唱类型角色赋予4阶段歌唱提升效果[24拍]"
+  },
+  "ef-vocal_boost-4-target-vocal-2-28": {
+    "name": "对2名歌唱类型角色赋予歌唱提升效果",
+    "description": "为2名歌唱类型角色赋予4阶段歌唱提升效果[28拍]"
+  },
+  "ef-vocal_boost-4-target-vocal-2-32": {
+    "name": "对2名歌唱类型角色赋予歌唱提升效果",
+    "description": "为2名歌唱类型角色赋予4阶段歌唱提升效果[32拍]"
   },
   "ef-vocal_boost-4-target-vocal-2-36": {
     "description": "对2名歌唱类型角色赋予4阶段歌唱提升效果[36拍]",
@@ -46886,5 +46950,29 @@
   "ef-weakness_effect_reflection-1-target-self-43": {
     "description": "自身获得减益效果反射[43节拍]",
     "name": "自身获得下降效果反射"
+  },
+  "ef-add_effect_value_audience_amount_increase-10-target-center-32": {
+    "description": "赋予中心集目超化效果[32拍]",
+    "name": "赋予中心集目超化"
+  },
+  "ef-add_effect_value_audience_amount_increase-10-target-center-35": {
+    "description": "赋予中心集目超化效果[35拍]",
+    "name": "赋予中心集目超化"
+  },
+  "ef-add_effect_value_audience_amount_increase-10-target-center-38": {
+    "description": "赋予中心集目超化效果[38拍]",
+    "name": "赋予中心集目超化"
+  },
+  "ef-add_effect_value_audience_amount_increase-10-target-center-41": {
+    "description": "赋予中心集目超化效果[41拍]",
+    "name": "赋予中心集目超化"
+  },
+  "ef-add_effect_value_audience_amount_increase-10-target-center-45": {
+    "description": "对中心赋予集目超化效果[45拍]",
+    "name": "赋予中心集目超化"
+  },
+  "ef-add_effect_value_audience_amount_increase-10-target-center-49": {
+    "description": "对中心赋予集目超化效果[49拍]",
+    "name": "赋予中心集目超化"
   }
 }

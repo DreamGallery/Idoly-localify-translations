@@ -480,6 +480,13 @@
     "description": "每日1次",
     "name": "1次扭蛋 - 有偿每日"
   },
+  "btn-01-gacha-birthday-26-1009": {
+    "name": "1次扭蛋 - 钻石"
+  },
+  "btn-01-gacha-birthday-26-1009-daily": {
+    "description": "每日1次",
+    "name": "1次扭蛋 - 有偿每日"
+  },
   "btn-01-gacha-continuous": {
     "name": "无限抽扭蛋 - 钻石"
   },
@@ -3245,6 +3252,13 @@
     "description": "每日1次",
     "name": "1次扭蛋 - 有偿每日"
   },
+  "btn-01-gacha-rev-birthday-26-1009": {
+    "name": "1次扭蛋 - 钻石"
+  },
+  "btn-01-gacha-rev-birthday-26-1009-daily": {
+    "description": "每日1次",
+    "name": "1次扭蛋 - 有偿每日"
+  },
   "btn-01-gacha-rev-limited-21-1225": {
     "name": "1次扭蛋 - 钻石"
   },
@@ -4815,6 +4829,10 @@
     "description": "1次超值!!",
     "name": "10连抽卡 - 钻石"
   },
+  "btn-10-gacha-birthday-26-1009": {
+    "description": "1次超值!!",
+    "name": "10连抽卡 - 钻石"
+  },
   "btn-10-gacha-dream-21-1224": {
     "description": "附带★5契约书",
     "name": "附带★5契约书"
@@ -5944,6 +5962,10 @@
     "name": "确定名额"
   },
   "btn-10-gacha-fixed-26-0926-total": {
+    "description": "【有偿】限1次★5偶像1人确定",
+    "name": "确定名额"
+  },
+  "btn-10-gacha-fixed-26-1009-total": {
     "description": "【有偿】限1次★5偶像1人确定",
     "name": "确定名额"
   },
@@ -8751,6 +8773,10 @@
     "description": "1次超值!!",
     "name": "10连抽卡 - 钻石"
   },
+  "btn-10-gacha-rev-birthday-26-1009": {
+    "description": "1次超值!!",
+    "name": "10连抽卡 - 钻石"
+  },
   "btn-10-gacha-rev-dream-23-0624": {
     "description": "附赠★5限定契约书2nd",
     "name": "附赠★5限定契约书2nd"
@@ -10403,6 +10429,9 @@
   "ticket-01-gacha-birthday-26-0926": {
     "name": "1次扭蛋 - 券"
   },
+  "ticket-01-gacha-birthday-26-1009": {
+    "name": "1次扭蛋 - 券"
+  },
   "ticket-01-gacha-excursion-01-26-0731": {
     "name": "1次扭蛋 - 券"
   },
@@ -12036,6 +12065,9 @@
     "name": "1次扭蛋 - 券"
   },
   "ticket-01-gacha-rev-birthday-26-0619": {
+    "name": "1次扭蛋 - 券"
+  },
+  "ticket-01-gacha-rev-birthday-26-1009": {
     "name": "1次扭蛋 - 券"
   },
   "ticket-01-gacha-rev-limited-21-1225": {

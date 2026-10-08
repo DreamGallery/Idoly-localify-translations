@@ -2395,6 +2395,10 @@
     "description": "麻奈の誕生日を迎える",
     "name": "【誕生日】長瀬麻奈"
   },
+  "emb-birthday_mna-06": {
+    "description": "麻奈の誕生日を迎える",
+    "name": "【誕生日】長瀬麻奈"
+  },
   "emb-birthday_ngs-03": {
     "description": "渚の誕生日を迎える",
     "name": "【誕生日】伊吹渚"
@@ -4778,6 +4782,18 @@
   "emb-pvp-season-182-top100": {
     "description": "VENUSバトルシーズン182で100位以内獲得",
     "name": "VENUSシーズン182 TOP100"
+  },
+  "emb-pvp-season-183-top001": {
+    "description": "VENUSバトルシーズン183で1位獲得",
+    "name": "VENUSシーズン183 No.1"
+  },
+  "emb-pvp-season-183-top010": {
+    "description": "VENUSバトルシーズン183で10位以内獲得",
+    "name": "VENUSシーズン183 TOP10"
+  },
+  "emb-pvp-season-183-top100": {
+    "description": "VENUSバトルシーズン183で100位以内獲得",
+    "name": "VENUSシーズン183 TOP100"
   },
   "emb-serial_cd-23-1206-moon-limited": {
     "description": "Question 初回生産限定盤特典"

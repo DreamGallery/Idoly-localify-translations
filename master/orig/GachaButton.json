@@ -480,6 +480,13 @@
     "description": "1日1回",
     "name": "1回ガチャ - 有償デイリー"
   },
+  "btn-01-gacha-birthday-26-1009": {
+    "name": "1回ガチャ - ダイヤ"
+  },
+  "btn-01-gacha-birthday-26-1009-daily": {
+    "description": "1日1回",
+    "name": "1回ガチャ - 有償デイリー"
+  },
   "btn-01-gacha-continuous": {
     "name": "引き放題ガシャ - ダイヤ"
   },
@@ -3245,6 +3252,13 @@
     "description": "1日1回",
     "name": "1回ガチャ - 有償デイリー"
   },
+  "btn-01-gacha-rev-birthday-26-1009": {
+    "name": "1回ガチャ - ダイヤ"
+  },
+  "btn-01-gacha-rev-birthday-26-1009-daily": {
+    "description": "1日1回",
+    "name": "1回ガチャ - 有償デイリー"
+  },
   "btn-01-gacha-rev-limited-21-1225": {
     "name": "1回ガチャ - ダイヤ"
   },
@@ -4815,6 +4829,10 @@
     "description": "1回分お得!!",
     "name": "10回ガチャ - ダイヤ"
   },
+  "btn-10-gacha-birthday-26-1009": {
+    "description": "1回分お得!!",
+    "name": "10回ガチャ - ダイヤ"
+  },
   "btn-10-gacha-dream-21-1224": {
     "description": "★5契約書付き",
     "name": "★5契約書付き"
@@ -5944,6 +5962,10 @@
     "name": "確定枠"
   },
   "btn-10-gacha-fixed-26-0926-total": {
+    "description": "【有償】1回限定★5アイドル1人確定",
+    "name": "確定枠"
+  },
+  "btn-10-gacha-fixed-26-1009-total": {
     "description": "【有償】1回限定★5アイドル1人確定",
     "name": "確定枠"
   },
@@ -8751,6 +8773,10 @@
     "description": "1回分お得!!",
     "name": "10回ガチャ - ダイヤ"
   },
+  "btn-10-gacha-rev-birthday-26-1009": {
+    "description": "1回分お得!!",
+    "name": "10回ガチャ - ダイヤ"
+  },
   "btn-10-gacha-rev-dream-23-0624": {
     "description": "★5限定契約書2nd付き",
     "name": "★5限定契約書2nd付き"
@@ -10403,6 +10429,9 @@
   "ticket-01-gacha-birthday-26-0926": {
     "name": "1回ガチャ - チケット"
   },
+  "ticket-01-gacha-birthday-26-1009": {
+    "name": "1回ガチャ - チケット"
+  },
   "ticket-01-gacha-excursion-01-26-0731": {
     "name": "1回ガチャ - チケット"
   },
@@ -12036,6 +12065,9 @@
     "name": "1回ガチャ - チケット"
   },
   "ticket-01-gacha-rev-birthday-26-0619": {
+    "name": "1回ガチャ - チケット"
+  },
+  "ticket-01-gacha-rev-birthday-26-1009": {
     "name": "1回ガチャ - チケット"
   },
   "ticket-01-gacha-rev-limited-21-1225": {
