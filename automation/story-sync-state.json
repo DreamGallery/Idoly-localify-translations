@@ -1,41 +1,5 @@
 {
-  "pending_tasks": {
-    "adv_card_mna_54_01": {
-      "csv_path": "card/mna/54/adv_card_mna_54_01.csv",
-      "source_changed": false,
-      "source_sha256": "ef82969d421b3d16e2640123f47cb1f2666c28171e93229c34c2eb147278eb83"
-    },
-    "adv_card_mna_54_01_short": {
-      "csv_path": "card/mna/54/adv_card_mna_54_01_short.csv",
-      "source_changed": false,
-      "source_sha256": "57b646b9d431d8ec8eeca4dabbff5043332ac5cbce38d3e1a6b757bfddfbec1a"
-    },
-    "adv_card_mna_54_02": {
-      "csv_path": "card/mna/54/adv_card_mna_54_02.csv",
-      "source_changed": false,
-      "source_sha256": "a4e3663d7bdcd7ce45129eea204f68485f4af1fefac430c9f95981ef459c57f5"
-    },
-    "adv_card_mna_54_03": {
-      "csv_path": "card/mna/54/adv_card_mna_54_03.csv",
-      "source_changed": false,
-      "source_sha256": "a5849a30a39c7039f27df8cd8722645fc04c7a3892b15fa24b6d4dafbaa2db70"
-    },
-    "adv_hbd_06_mna_01": {
-      "csv_path": "hbd/mna/06/adv_hbd_06_mna_01.csv",
-      "source_changed": false,
-      "source_sha256": "65508c13383be814d34edc7315db3e0ddbf120d6ebaa064d057e50c9f615a731"
-    },
-    "adv_hbd_06_mna_02": {
-      "csv_path": "hbd/mna/06/adv_hbd_06_mna_02.csv",
-      "source_changed": false,
-      "source_sha256": "50cc0773f0d440cbd38aba22f1351ab59c587f80e2a7d52c35fdf5029b4814e1"
-    },
-    "adv_hbd_06_mna_03": {
-      "csv_path": "hbd/mna/06/adv_hbd_06_mna_03.csv",
-      "source_changed": false,
-      "source_sha256": "174d8f895766dc97c4b2bcb24d28652e279c9ae00fcd14c3fe043f2e4e564ac7"
-    }
-  },
+  "pending_tasks": {},
   "resource_revision": 1071,
   "schema_version": 1,
   "scripts": {
