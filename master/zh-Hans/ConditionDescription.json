@@ -60224,6 +60224,12 @@
   "cd-time-gacha-birthday-26-0926-banner": {
     "description": "期间：沙季生日扭蛋2026_横幅"
   },
+  "cd-time-gacha-birthday-26-1009": {
+    "description": "期间：麻奈生日扭蛋2026"
+  },
+  "cd-time-gacha-birthday-26-1009-banner": {
+    "description": "期间：麻奈生日扭蛋2026_横幅"
+  },
   "cd-time-gacha-birthday-hair-23-0707": {
     "description": "套装发型"
   },
@@ -72245,6 +72251,9 @@
   "cd-time-medal-buttonbadge-birthday-26-0926": {
     "description": "期间：沙季生日扭蛋2026徽章交换"
   },
+  "cd-time-medal-buttonbadge-birthday-26-1009": {
+    "description": "期间：麻奈生日扭蛋2026徽章交换"
+  },
   "cd-time-medal-buttonbadge-fs-set-bloom-24-0626": {
     "description": "期间：IDOLY PRIDE庆典 The MOON Ⅰ徽章交换"
   },
@@ -73942,6 +73951,9 @@
   },
   "cd-time-period-2660-end-01": {
     "description": "关闭对应：period-2660"
+  },
+  "cd-time-period-2700-end-01": {
+    "description": "关闭对应：period-2700"
   },
   "cd-time-photo-aj-00-01": {
     "description": "期间：展示空间"
@@ -76552,17 +76564,5 @@
   },
   "ms-limited-login-ex-tower-005-sp-26-0503-003-login": {
     "description": "三丽鸥角色联动举办纪念EX塔003对象"
-  },
-  "cd-time-gacha-birthday-26-1009": {
-    "description": "期间：麻奈生日扭蛋2026"
-  },
-  "cd-time-gacha-birthday-26-1009-banner": {
-    "description": "期间：麻奈生日扭蛋2026_横幅"
-  },
-  "cd-time-medal-buttonbadge-birthday-26-1009": {
-    "description": "期间：麻奈生日扭蛋2026徽章交换"
-  },
-  "cd-time-period-2700-end-01": {
-    "description": "关闭对应：period-2700"
   }
 }

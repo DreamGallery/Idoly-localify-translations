@@ -2141,6 +2141,15 @@
   "st-card-mna-05-birt-02-02": {
     "name": "成对的\n项链"
   },
+  "st-card-mna-05-birt-03-01": {
+    "name": "那时的\n学园祭"
+  },
+  "st-card-mna-05-birt-03-02": {
+    "name": "摄影展的\n展板"
+  },
+  "st-card-mna-05-birt-03-03": {
+    "name": "一杯\n回想起来\n吧"
+  },
   "st-card-mna-05-fest-00-01": {
     "name": "突然的礼物"
   },
@@ -11369,14 +11378,5 @@
   "st-shelf-26-1002-009-005": {
     "description": "决赛。与DJ婆婆率领的『BEIJU』之战终于开始。对手似乎连DJ是什么都不太清楚，但面对其深不可测的实力，三人赌上BIG4的尊严迎战。",
     "name": "激战！\nDJ婆婆＆\nBEIJU"
-  },
-  "st-card-mna-05-birt-03-01": {
-    "name": "那时的\n学园祭"
-  },
-  "st-card-mna-05-birt-03-02": {
-    "name": "摄影展的\n展板"
-  },
-  "st-card-mna-05-birt-03-03": {
-    "name": "一杯\n回想起来\n吧"
   }
 }

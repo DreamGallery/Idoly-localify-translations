@@ -4783,6 +4783,18 @@
     "description": "在VENUS对战第182赛季获得前100名",
     "name": "VENUS第182赛季 TOP100"
   },
+  "emb-pvp-season-183-top001": {
+    "description": "在VENUS战斗赛季183中获得第1名",
+    "name": "VENUS赛季183 No.1"
+  },
+  "emb-pvp-season-183-top010": {
+    "description": "在VENUS战斗赛季183中获得前10名",
+    "name": "VENUS赛季183 TOP10"
+  },
+  "emb-pvp-season-183-top100": {
+    "description": "在VENUS战斗赛季183中获得前100名",
+    "name": "VENUS赛季183 TOP100"
+  },
   "emb-serial_cd-23-1206-moon-limited": {
     "description": "Question 初回生产限定盘特典"
   },
@@ -4939,17 +4951,5 @@
   "emb-zepp-sapporo-01": {
     "description": "“全国巡回演唱会举办纪念任务”",
     "name": "全国巡演 in Sapporo"
-  },
-  "emb-pvp-season-183-top001": {
-    "description": "在VENUS战斗赛季183中获得第1名",
-    "name": "VENUS赛季183 No.1"
-  },
-  "emb-pvp-season-183-top010": {
-    "description": "在VENUS战斗赛季183中获得前10名",
-    "name": "VENUS赛季183 TOP10"
-  },
-  "emb-pvp-season-183-top100": {
-    "description": "在VENUS战斗赛季183中获得前100名",
-    "name": "VENUS赛季183 TOP100"
   }
 }
