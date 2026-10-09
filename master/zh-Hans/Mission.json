@@ -2075,9 +2075,9 @@
     "shortDescription": "使用SUNNY PEACE成员进行宣传{threshold}次"
   },
   "event-ms-am-25-1010-00-character_start_activity_refreshment_count": {
-    "longDescription": "使用SUNNY PEACE的成员\n进行{threshold}次休息。",
-    "name": "让SUNNY PEACE的成员进行{threshold}次放松",
-    "shortDescription": "让SUNNY PEACE的成员进行{threshold}次放松"
+    "longDescription": "使用SUNNY PEACE的成员\n进行{threshold}次恢复体力。",
+    "name": "让SUNNY PEACE的成员进行{threshold}次恢复体力",
+    "shortDescription": "让SUNNY PEACE的成员进行{threshold}次恢复体力"
   },
   "event-ms-am-25-1010-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向SUNNY PEACE的成员\n赠送{threshold}次礼物。",
@@ -2115,9 +2115,9 @@
     "shortDescription": "让LizNoir的成员进行{threshold}次宣传"
   },
   "event-ms-am-25-1031-00-character_start_activity_refreshment_count": {
-    "longDescription": "与LizNoir成员\n进行{threshold}次放松吧。",
-    "name": "让LizNoir的成员进行{threshold}次放松",
-    "shortDescription": "让LizNoir的成员进行{threshold}次放松"
+    "longDescription": "与LizNoir成员\n进行{threshold}次恢复体力吧。",
+    "name": "让LizNoir的成员进行{threshold}次恢复体力",
+    "shortDescription": "让LizNoir的成员进行{threshold}次恢复体力"
   },
   "event-ms-am-25-1031-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "给LizNoir成员\n赠送{threshold}次礼物吧。",
@@ -2155,9 +2155,9 @@
     "shortDescription": "让LizNoir的成员进行{threshold}次宣传"
   },
   "event-ms-am-26-0808-00-character_start_activity_refreshment_count": {
-    "longDescription": "与LizNoir成员\n进行{threshold}次放松吧。",
-    "name": "使用LizNoir成员进行刷新\n{threshold}次",
-    "shortDescription": "让LizNoir的成员进行{threshold}次放松"
+    "longDescription": "与LizNoir成员\n进行{threshold}次恢复体力吧。",
+    "name": "使用LizNoir成员进行恢复体力\n{threshold}次",
+    "shortDescription": "让LizNoir的成员进行{threshold}次恢复体力"
   },
   "event-ms-am-26-0808-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "给LizNoir成员\n赠送{threshold}次礼物吧。",
@@ -2385,9 +2385,9 @@
     "shortDescription": "使用瑠依、心、莉央、怜、堇进行宣传{threshold}次"
   },
   "event-ms-clb-25-1129-00-character_start_activity_refreshment_count": {
-    "longDescription": "使用瑠依、心、莉央、怜、堇\n进行休息{threshold}次吧。",
-    "name": "使用瑠依、心、莉央、怜、堇进行休息{threshold}次",
-    "shortDescription": "使用瑠依、心、莉央、怜、堇进行休息{threshold}次"
+    "longDescription": "使用瑠依、心、莉央、怜、堇\n进行恢复体力{threshold}次吧。",
+    "name": "使用瑠依、心、莉央、怜、堇进行恢复体力{threshold}次",
+    "shortDescription": "使用瑠依、心、莉央、怜、堇进行恢复体力{threshold}次"
   },
   "event-ms-clb-25-1129-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向瑠依、心、莉央、怜、堇\n赠送礼物{threshold}次吧。",
@@ -2435,9 +2435,9 @@
     "shortDescription": "雫、心、kana、瑠依进行宣传{threshold}次"
   },
   "event-ms-clb-26-0429-00-character_start_activity_refreshment_count": {
-    "longDescription": "使用雫、心、kana、瑠依\n进行{threshold}次休息。",
-    "name": "雫、心、kana、瑠依进行放松{threshold}次",
-    "shortDescription": "雫、心、kana、瑠依进行放松{threshold}次"
+    "longDescription": "使用雫、心、kana、瑠依\n进行{threshold}次恢复体力。",
+    "name": "雫、心、kana、瑠依进行恢复体力{threshold}次",
+    "shortDescription": "雫、心、kana、瑠依进行恢复体力{threshold}次"
   },
   "event-ms-clb-26-0429-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向雫、心、kana、瑠依\n赠送{threshold}次礼物。",
@@ -2785,9 +2785,9 @@
     "shortDescription": "使用月光风暴成员进行宣传{threshold}次"
   },
   "event-ms-duty-25-0115-01-character_start_activity_refreshment_count": {
-    "longDescription": "让月光风暴的成员\n进行{threshold}次放松吧。",
-    "name": "使用月光风暴成员进行放松{threshold}次",
-    "shortDescription": "使用月光风暴成员进行放松{threshold}次"
+    "longDescription": "让月光风暴的成员\n进行{threshold}次恢复体力吧。",
+    "name": "使用月光风暴成员进行恢复体力{threshold}次",
+    "shortDescription": "使用月光风暴成员进行恢复体力{threshold}次"
   },
   "event-ms-duty-25-0115-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向月光风暴的成员\n赠送{threshold}次礼物吧。",
@@ -2855,9 +2855,9 @@
     "shortDescription": "使用SUNNY PEACE成员进行宣传{threshold}次"
   },
   "event-ms-duty-25-0206-01-character_start_activity_refreshment_count": {
-    "longDescription": "让SUNNY PEACE的成员\n进行{threshold}次放松吧。",
-    "name": "使用SUNNY PEACE成员进行放松{threshold}次",
-    "shortDescription": "使用SUNNY PEACE成员进行放松{threshold}次"
+    "longDescription": "让SUNNY PEACE的成员\n进行{threshold}次恢复体力吧。",
+    "name": "使用SUNNY PEACE成员进行恢复体力{threshold}次",
+    "shortDescription": "使用SUNNY PEACE成员进行恢复体力{threshold}次"
   },
   "event-ms-duty-25-0206-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向SUNNY PEACE的成员\n赠送{threshold}次礼物。",
@@ -2925,9 +2925,9 @@
     "shortDescription": "使用TRINITYAiLE成员进行宣传{threshold}次"
   },
   "event-ms-duty-25-0318-01-character_start_activity_refreshment_count": {
-    "longDescription": "让TRINITYAiLE的成员\n进行{threshold}次放松吧。",
-    "name": "让TRINITYAiLE的成员进行{threshold}次放松",
-    "shortDescription": "让TRINITYAiLE的成员进行{threshold}次放松"
+    "longDescription": "让TRINITYAiLE的成员\n进行{threshold}次恢复体力吧。",
+    "name": "让TRINITYAiLE的成员进行{threshold}次恢复体力",
+    "shortDescription": "让TRINITYAiLE的成员进行{threshold}次恢复体力"
   },
   "event-ms-duty-25-0318-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向TRINITYAiLE的成员\n赠送{threshold}次礼物吧。",
@@ -2995,9 +2995,9 @@
     "shortDescription": "让LizNoir的成员进行{threshold}次宣传"
   },
   "event-ms-duty-25-0405-01-character_start_activity_refreshment_count": {
-    "longDescription": "使用LizNoir成员\n进行{threshold}次放松。",
-    "name": "让LizNoir的成员进行{threshold}次放松",
-    "shortDescription": "让LizNoir的成员进行{threshold}次放松"
+    "longDescription": "使用LizNoir成员\n进行{threshold}次恢复体力。",
+    "name": "让LizNoir的成员进行{threshold}次恢复体力",
+    "shortDescription": "让LizNoir的成员进行{threshold}次恢复体力"
   },
   "event-ms-duty-25-0405-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "给LizNoir成员\n赠送{threshold}次礼物吧。",
@@ -3065,9 +3065,9 @@
     "shortDescription": "让IIIX的成员进行{threshold}次宣传"
   },
   "event-ms-duty-25-0518-01-character_start_activity_refreshment_count": {
-    "longDescription": "使用IIIX成员\n进行{threshold}次放松。",
-    "name": "让IIIX的成员进行{threshold}次放松",
-    "shortDescription": "让IIIX的成员进行{threshold}次放松"
+    "longDescription": "使用IIIX成员\n进行{threshold}次恢复体力。",
+    "name": "让IIIX的成员进行{threshold}次恢复体力",
+    "shortDescription": "让IIIX的成员进行{threshold}次恢复体力"
   },
   "event-ms-duty-25-0518-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向IIIX成员\n赠送{threshold}次礼物。",
@@ -3130,9 +3130,9 @@
     "shortDescription": "进行宣传{threshold}次"
   },
   "event-ms-duty-25-0624-01-character_start_activity_refreshment_count": {
-    "longDescription": "进行{threshold}次放松。",
-    "name": "进行放松{threshold}次",
-    "shortDescription": "进行放松{threshold}次"
+    "longDescription": "进行{threshold}次恢复体力。",
+    "name": "进行恢复体力{threshold}次",
+    "shortDescription": "进行恢复体力{threshold}次"
   },
   "event-ms-duty-25-0624-01-company_use_obtain_enjoy_point_item_total_count": {
     "longDescription": "赠送{threshold}次礼物吧。",
@@ -3205,9 +3205,9 @@
     "shortDescription": "让LizNoir的成员进行{threshold}次宣传"
   },
   "event-ms-duty-25-0718-01-character_start_activity_refreshment_count": {
-    "longDescription": "与LizNoir成员\n进行{threshold}次放松吧。",
-    "name": "让LizNoir的成员进行{threshold}次放松",
-    "shortDescription": "让LizNoir的成员进行{threshold}次放松"
+    "longDescription": "与LizNoir成员\n进行{threshold}次恢复体力吧。",
+    "name": "让LizNoir的成员进行{threshold}次恢复体力",
+    "shortDescription": "让LizNoir的成员进行{threshold}次恢复体力"
   },
   "event-ms-duty-25-0718-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "给LizNoir成员\n赠送{threshold}次礼物吧。",
@@ -3275,9 +3275,9 @@
     "shortDescription": "使用SUNNY PEACE成员进行宣传{threshold}次"
   },
   "event-ms-duty-25-0815-01-character_start_activity_refreshment_count": {
-    "longDescription": "使用SUNNY PEACE的成员\n进行{threshold}次休息。",
-    "name": "让SUNNY PEACE的成员进行{threshold}次放松",
-    "shortDescription": "让SUNNY PEACE的成员进行{threshold}次放松"
+    "longDescription": "使用SUNNY PEACE的成员\n进行{threshold}次恢复体力。",
+    "name": "让SUNNY PEACE的成员进行{threshold}次恢复体力",
+    "shortDescription": "让SUNNY PEACE的成员进行{threshold}次恢复体力"
   },
   "event-ms-duty-25-0815-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向SUNNY PEACE的成员\n赠送{threshold}次礼物。",
@@ -3340,9 +3340,9 @@
     "shortDescription": "进行宣传{threshold}次"
   },
   "event-ms-duty-25-0917-01-character_start_activity_refreshment_count": {
-    "longDescription": "进行{threshold}次放松吧。",
-    "name": "进行放松{threshold}次",
-    "shortDescription": "进行放松{threshold}次"
+    "longDescription": "进行{threshold}次恢复体力吧。",
+    "name": "进行恢复体力{threshold}次",
+    "shortDescription": "进行恢复体力{threshold}次"
   },
   "event-ms-duty-25-0917-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "赠送{threshold}次礼物吧。",
@@ -3420,9 +3420,9 @@
     "shortDescription": "让LizNoir的成员进行{threshold}次宣传"
   },
   "event-ms-duty-25-1017-01-character_start_activity_refreshment_count": {
-    "longDescription": "与LizNoir成员\n进行{threshold}次放松吧。",
-    "name": "让LizNoir的成员进行{threshold}次放松",
-    "shortDescription": "让LizNoir的成员进行{threshold}次放松"
+    "longDescription": "与LizNoir成员\n进行{threshold}次恢复体力吧。",
+    "name": "让LizNoir的成员进行{threshold}次恢复体力",
+    "shortDescription": "让LizNoir的成员进行{threshold}次恢复体力"
   },
   "event-ms-duty-25-1017-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "给LizNoir成员\n赠送{threshold}次礼物吧。",
@@ -3485,9 +3485,9 @@
     "shortDescription": "使用IIIX成员进行宣传{threshold}次"
   },
   "event-ms-duty-25-1119-01-character_start_activity_refreshment_count": {
-    "longDescription": "使用IIIX的成员\n进行{threshold}次放松吧。",
-    "name": "使用IIIX成员进行放松{threshold}次",
-    "shortDescription": "使用IIIX成员进行放松{threshold}次"
+    "longDescription": "使用IIIX的成员\n进行{threshold}次恢复体力吧。",
+    "name": "使用IIIX成员进行恢复体力{threshold}次",
+    "shortDescription": "使用IIIX成员进行恢复体力{threshold}次"
   },
   "event-ms-duty-25-1119-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向IIIX成员\n赠送{threshold}次礼物。",
@@ -3555,9 +3555,9 @@
     "shortDescription": "使用TRINITYAiLE成员进行宣传{threshold}次"
   },
   "event-ms-duty-26-0115-01-character_start_activity_refreshment_count": {
-    "longDescription": "使用TRINITYAiLE的成员\n进行{threshold}次放松吧。",
-    "name": "使用TRINITYAiLE成员进行放松{threshold}次",
-    "shortDescription": "使用TRINITYAiLE成员进行放松{threshold}次"
+    "longDescription": "使用TRINITYAiLE的成员\n进行{threshold}次恢复体力吧。",
+    "name": "使用TRINITYAiLE成员进行恢复体力{threshold}次",
+    "shortDescription": "使用TRINITYAiLE成员进行恢复体力{threshold}次"
   },
   "event-ms-duty-26-0115-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向TRINITYAiLE的成员\n赠送{threshold}次礼物吧。",
@@ -3625,9 +3625,9 @@
     "shortDescription": "进行宣传{threshold}次"
   },
   "event-ms-duty-26-0217-01-character_start_activity_refreshment_count": {
-    "longDescription": "进行{threshold}次放松吧。",
-    "name": "进行休息{threshold}次",
-    "shortDescription": "进行休息{threshold}次"
+    "longDescription": "进行{threshold}次恢复体力吧。",
+    "name": "进行恢复体力{threshold}次",
+    "shortDescription": "进行恢复体力{threshold}次"
   },
   "event-ms-duty-26-0217-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "赠送{threshold}次礼物吧。",
@@ -3695,9 +3695,9 @@
     "shortDescription": "使用月光风暴成员进行宣传{threshold}次"
   },
   "event-ms-duty-26-0310-01-character_start_activity_refreshment_count": {
-    "longDescription": "以月光风暴的成员\n实施{threshold}次放松吧。",
-    "name": "使用月光风暴成员进行休息{threshold}次",
-    "shortDescription": "使用月光风暴成员进行休息{threshold}次"
+    "longDescription": "以月光风暴的成员\n实施{threshold}次恢复体力吧。",
+    "name": "使用月光风暴成员进行恢复体力{threshold}次",
+    "shortDescription": "使用月光风暴成员进行恢复体力{threshold}次"
   },
   "event-ms-duty-26-0310-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向月光风暴的成员\n赠送{threshold}次礼物吧。",
@@ -3765,9 +3765,9 @@
     "shortDescription": "使用SUNNY PEACE成员进行宣传{threshold}次"
   },
   "event-ms-duty-26-0417-01-character_start_activity_refreshment_count": {
-    "longDescription": "使用SUNNY PEACE的成员\n进行{threshold}次休息。",
-    "name": "让SUNNY PEACE的成员进行{threshold}次放松",
-    "shortDescription": "让SUNNY PEACE的成员进行{threshold}次放松"
+    "longDescription": "使用SUNNY PEACE的成员\n进行{threshold}次恢复体力。",
+    "name": "让SUNNY PEACE的成员进行{threshold}次恢复体力",
+    "shortDescription": "让SUNNY PEACE的成员进行{threshold}次恢复体力"
   },
   "event-ms-duty-26-0417-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向SUNNY PEACE的成员\n赠送{threshold}次礼物。",
@@ -3835,9 +3835,9 @@
     "shortDescription": "使用IIIX成员进行宣传{threshold}次"
   },
   "event-ms-duty-26-0519-01-character_start_activity_refreshment_count": {
-    "longDescription": "使用IIIX的成员\n进行{threshold}次放松吧。",
-    "name": "使用IIIX成员进行放松{threshold}次",
-    "shortDescription": "使用IIIX成员进行放松{threshold}次"
+    "longDescription": "使用IIIX的成员\n进行{threshold}次恢复体力吧。",
+    "name": "使用IIIX成员进行恢复体力{threshold}次",
+    "shortDescription": "使用IIIX成员进行恢复体力{threshold}次"
   },
   "event-ms-duty-26-0519-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向IIIX成员\n赠送{threshold}次礼物。",
@@ -3905,9 +3905,9 @@
     "shortDescription": "使用月光风暴成员进行宣传{threshold}次"
   },
   "event-ms-duty-26-0605-01-character_start_activity_refreshment_count": {
-    "longDescription": "以月光风暴的成员\n实施{threshold}次放松吧。",
-    "name": "使用月光风暴成员进行休息{threshold}次",
-    "shortDescription": "使用月光风暴成员进行休息{threshold}次"
+    "longDescription": "以月光风暴的成员\n实施{threshold}次恢复体力吧。",
+    "name": "使用月光风暴成员进行恢复体力{threshold}次",
+    "shortDescription": "使用月光风暴成员进行恢复体力{threshold}次"
   },
   "event-ms-duty-26-0605-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向月光风暴的成员\n赠送{threshold}次礼物吧。",
@@ -3975,9 +3975,9 @@
     "shortDescription": "使用月光风暴成员进行宣传{threshold}次"
   },
   "event-ms-duty-26-0718-01-character_start_activity_refreshment_count": {
-    "longDescription": "以月光风暴的成员\n实施{threshold}次放松吧。",
-    "name": "使用月光风暴成员进行休息{threshold}次",
-    "shortDescription": "使用月光风暴成员进行休息{threshold}次"
+    "longDescription": "以月光风暴的成员\n实施{threshold}次恢复体力吧。",
+    "name": "使用月光风暴成员进行恢复体力{threshold}次",
+    "shortDescription": "使用月光风暴成员进行恢复体力{threshold}次"
   },
   "event-ms-duty-26-0718-01-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向月光风暴的成员\n赠送{threshold}次礼物吧。",
@@ -4250,9 +4250,9 @@
     "shortDescription": "使用雫、铃、琴乃、樱、优进行宣传{threshold}次"
   },
   "event-ms-fes-25-0329-00-character_start_activity_refreshment_count": {
-    "longDescription": "用雫、铃、琴乃、樱、优\n实施{threshold}次放松吧。",
-    "name": "用雫、铃、琴乃、樱、优进行{threshold}次放松",
-    "shortDescription": "用雫、铃、琴乃、樱、优进行{threshold}次放松"
+    "longDescription": "用雫、铃、琴乃、樱、优\n实施{threshold}次恢复体力吧。",
+    "name": "用雫、铃、琴乃、樱、优进行{threshold}次恢复体力",
+    "shortDescription": "用雫、铃、琴乃、樱、优进行{threshold}次恢复体力"
   },
   "event-ms-fes-25-0329-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "送给雫、铃、琴乃、樱、优\n{threshold}次礼物吧。",
@@ -4295,9 +4295,9 @@
     "shortDescription": "使用IIIX成员进行宣传{threshold}次"
   },
   "event-ms-fes-25-0730-00-character_start_activity_refreshment_count": {
-    "longDescription": "使用IIIX的成员进行{threshold}次放松吧。",
-    "name": "使用IIIX成员进行放松{threshold}次",
-    "shortDescription": "使用IIIX成员进行放松{threshold}次"
+    "longDescription": "使用IIIX的成员进行{threshold}次恢复体力吧。",
+    "name": "使用IIIX成员进行恢复体力{threshold}次",
+    "shortDescription": "使用IIIX成员进行恢复体力{threshold}次"
   },
   "event-ms-fes-25-0730-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向IIIX的成员赠送{threshold}次礼物吧。",
@@ -4335,9 +4335,9 @@
     "shortDescription": "用优、瑠依、琴乃、渚\n进行{threshold}次宣传"
   },
   "event-ms-fes-25-0929-00-character_start_activity_refreshment_count": {
-    "longDescription": "与优、瑠依、琴乃、渚\n进行{threshold}次放松吧。",
-    "name": "用优、瑠依、琴乃、渚\n进行{threshold}次放松",
-    "shortDescription": "用优、瑠依、琴乃、渚\n进行{threshold}次放松"
+    "longDescription": "与优、瑠依、琴乃、渚\n进行{threshold}次恢复体力吧。",
+    "name": "用优、瑠依、琴乃、渚\n进行{threshold}次恢复体力",
+    "shortDescription": "用优、瑠依、琴乃、渚\n进行{threshold}次恢复体力"
   },
   "event-ms-fes-25-0929-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向优、瑠依、琴乃、渚\n赠送{threshold}次礼物吧。",
@@ -4380,9 +4380,9 @@
     "shortDescription": "用遥子、雫、千纱\n进行{threshold}次宣传"
   },
   "event-ms-fes-25-1227-00-character_start_activity_refreshment_count": {
-    "longDescription": "使用遥子、雫、千纱\n进行{threshold}次休息。",
-    "name": "与遥子、雫、千纱一起\n进行{threshold}次放松",
-    "shortDescription": "与遥子、雫、千纱一起\n进行{threshold}次放松"
+    "longDescription": "使用遥子、雫、千纱\n进行{threshold}次恢复体力。",
+    "name": "与遥子、雫、千纱一起\n进行{threshold}次恢复体力",
+    "shortDescription": "与遥子、雫、千纱一起\n进行{threshold}次恢复体力"
   },
   "event-ms-fes-25-1227-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向遥子、雫、千纱\n赠送{threshold}次礼物。",
@@ -4420,9 +4420,9 @@
     "shortDescription": "与怜、葵、芽衣、沙季一起\n进行{threshold}次宣传"
   },
   "event-ms-fes-26-0329-00-character_start_activity_refreshment_count": {
-    "longDescription": "使用怜、葵、芽衣、沙季\n进行{threshold}次休息。",
-    "name": "与怜、葵、芽衣、沙季一起\n进行{threshold}次放松",
-    "shortDescription": "与怜、葵、芽衣、沙季一起\n进行{threshold}次放松"
+    "longDescription": "使用怜、葵、芽衣、沙季\n进行{threshold}次恢复体力。",
+    "name": "与怜、葵、芽衣、沙季一起\n进行{threshold}次恢复体力",
+    "shortDescription": "与怜、葵、芽衣、沙季一起\n进行{threshold}次恢复体力"
   },
   "event-ms-fes-26-0329-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向怜、葵、芽衣、沙季\n赠送{threshold}次礼物吧。",
@@ -4645,9 +4645,9 @@
     "shortDescription": "使用瑠依、千纱、堇、渚中的任意一位进行宣传{threshold}次"
   },
   "event-ms-gw-25-0506-00-character_start_activity_refreshment_count": {
-    "longDescription": "使用瑠依、千纱、堇、渚中的任意一人\n进行{threshold}次休息。",
-    "name": "使用瑠依、千纱、堇、渚中的任意一位进行休息{threshold}次",
-    "shortDescription": "使用瑠依、千纱、堇、渚中的任意一位进行休息{threshold}次"
+    "longDescription": "使用瑠依、千纱、堇、渚中的任意一人\n进行{threshold}次恢复体力。",
+    "name": "使用瑠依、千纱、堇、渚中的任意一位进行恢复体力{threshold}次",
+    "shortDescription": "使用瑠依、千纱、堇、渚中的任意一位进行恢复体力{threshold}次"
   },
   "event-ms-gw-25-0506-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向瑠依、千纱、堇、渚中的任意一人\n赠送{threshold}次礼物。",
@@ -4685,9 +4685,9 @@
     "shortDescription": "用怜、芽衣、千纱、沙季进行{threshold}次宣传"
   },
   "event-ms-hruh-25-0227-00-character_start_activity_refreshment_count": {
-    "longDescription": "用怜、芽衣、千纱、沙季\n进行{threshold}次放松吧。",
-    "name": "用怜、芽衣、千纱、沙季进行{threshold}次放松",
-    "shortDescription": "用怜、芽衣、千纱、沙季进行{threshold}次放松"
+    "longDescription": "用怜、芽衣、千纱、沙季\n进行{threshold}次恢复体力吧。",
+    "name": "用怜、芽衣、千纱、沙季进行{threshold}次恢复体力",
+    "shortDescription": "用怜、芽衣、千纱、沙季进行{threshold}次恢复体力"
   },
   "event-ms-hruh-25-0227-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向怜、芽衣、千纱、沙季赠送{threshold}次礼物吧。",
@@ -6570,9 +6570,9 @@
     "shortDescription": "使用月光风暴成员进行宣传{threshold}次"
   },
   "event-ms-miku-25-0830-00-character_start_activity_refreshment_count": {
-    "longDescription": "以月光风暴的成员\n实施{threshold}次放松吧。",
-    "name": "使用月光风暴成员进行休息{threshold}次",
-    "shortDescription": "使用月光风暴成员进行休息{threshold}次"
+    "longDescription": "以月光风暴的成员\n实施{threshold}次恢复体力吧。",
+    "name": "使用月光风暴成员进行恢复体力{threshold}次",
+    "shortDescription": "使用月光风暴成员进行恢复体力{threshold}次"
   },
   "event-ms-miku-25-0830-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向月光风暴的成员\n赠送{threshold}次礼物吧。",
@@ -12380,9 +12380,9 @@
     "shortDescription": "使用TRINITYAiLE成员进行宣传{threshold}次"
   },
   "event-ms-spr-26-0411-00-character_start_activity_refreshment_count": {
-    "longDescription": "让TRINITYAiLE的成员\n进行{threshold}次放松吧。",
-    "name": "让TRINITYAiLE的成员进行{threshold}次放松",
-    "shortDescription": "让TRINITYAiLE的成员进行{threshold}次放松"
+    "longDescription": "让TRINITYAiLE的成员\n进行{threshold}次恢复体力吧。",
+    "name": "让TRINITYAiLE的成员进行{threshold}次恢复体力",
+    "shortDescription": "让TRINITYAiLE的成员进行{threshold}次恢复体力"
   },
   "event-ms-spr-26-0411-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向TRINITYAiLE的成员\n赠送{threshold}次礼物吧。",
@@ -12420,9 +12420,9 @@
     "shortDescription": "使用IIIX成员进行宣传{threshold}次"
   },
   "event-ms-spr-26-0826-00-character_start_activity_refreshment_count": {
-    "longDescription": "使用IIIX的成员\n进行{threshold}次放松吧。",
-    "name": "使用IIIX成员\n进行{threshold}次放松",
-    "shortDescription": "使用IIIX成员进行放松{threshold}次"
+    "longDescription": "使用IIIX的成员\n进行{threshold}次恢复体力吧。",
+    "name": "使用IIIX成员\n进行{threshold}次恢复体力",
+    "shortDescription": "使用IIIX成员进行恢复体力{threshold}次"
   },
   "event-ms-spr-26-0826-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向IIIX成员\n赠送{threshold}次礼物。",
@@ -12460,9 +12460,9 @@
     "shortDescription": "使用SUNNY PEACE成员进行宣传{threshold}次"
   },
   "event-ms-spr-26-0909-00-character_start_activity_refreshment_count": {
-    "longDescription": "使用SUNNY PEACE的成员\n进行{threshold}次休息。",
-    "name": "让SUNNY PEACE的成员进行{threshold}次放松",
-    "shortDescription": "让SUNNY PEACE的成员进行{threshold}次放松"
+    "longDescription": "使用SUNNY PEACE的成员\n进行{threshold}次恢复体力。",
+    "name": "让SUNNY PEACE的成员进行{threshold}次恢复体力",
+    "shortDescription": "让SUNNY PEACE的成员进行{threshold}次恢复体力"
   },
   "event-ms-spr-26-0909-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向SUNNY PEACE的成员\n赠送{threshold}次礼物。",
@@ -12500,9 +12500,9 @@
     "shortDescription": "使用TRINITYAiLE成员进行宣传{threshold}次"
   },
   "event-ms-spr-26-0926-00-character_start_activity_refreshment_count": {
-    "longDescription": "使用TRINITYAiLE的成员\n进行{threshold}次放松吧。",
-    "name": "使用TRINITYAiLE成员进行放松{threshold}次",
-    "shortDescription": "使用TRINITYAiLE成员进行放松{threshold}次"
+    "longDescription": "使用TRINITYAiLE的成员\n进行{threshold}次恢复体力吧。",
+    "name": "使用TRINITYAiLE成员进行恢复体力{threshold}次",
+    "shortDescription": "使用TRINITYAiLE成员进行恢复体力{threshold}次"
   },
   "event-ms-spr-26-0926-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向TRINITYAiLE的成员\n赠送{threshold}次礼物吧。",
@@ -12540,9 +12540,9 @@
     "shortDescription": "使用月光风暴成员进行宣传{threshold}次"
   },
   "event-ms-spr-26-1010-00-character_start_activity_refreshment_count": {
-    "longDescription": "以月光风暴的成员\n实施{threshold}次放松吧。",
-    "name": "使用月光风暴成员进行休息{threshold}次",
-    "shortDescription": "使用月光风暴成员进行休息{threshold}次"
+    "longDescription": "以月光风暴的成员\n实施{threshold}次恢复体力吧。",
+    "name": "使用月光风暴成员进行恢复体力{threshold}次",
+    "shortDescription": "使用月光风暴成员进行恢复体力{threshold}次"
   },
   "event-ms-spr-26-1010-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向月光风暴的成员\n赠送{threshold}次礼物吧。",
@@ -12730,9 +12730,9 @@
     "shortDescription": "使用怜、渚进行宣传{threshold}次"
   },
   "event-ms-verysoon-25-0528-00-character_start_activity_refreshment_count": {
-    "longDescription": "使用怜、渚进行放松{threshold}次吧。",
-    "name": "使用怜、渚进行放松{threshold}次",
-    "shortDescription": "使用怜、渚进行放松{threshold}次"
+    "longDescription": "使用怜、渚进行恢复体力{threshold}次吧。",
+    "name": "使用怜、渚进行恢复体力{threshold}次",
+    "shortDescription": "使用怜、渚进行恢复体力{threshold}次"
   },
   "event-ms-verysoon-25-0528-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "送给怜、渚{threshold}次礼物吧。",
@@ -12770,9 +12770,9 @@
     "shortDescription": "使用遥子、爱进行{threshold}次宣传"
   },
   "event-ms-verysoon-26-0530-00-character_start_activity_refreshment_count": {
-    "longDescription": "与遥子、爱一起\n进行{threshold}次放松吧。",
-    "name": "使用遥子、爱进行{threshold}次放松",
-    "shortDescription": "使用遥子、爱进行{threshold}次放松"
+    "longDescription": "与遥子、爱一起\n进行{threshold}次恢复体力吧。",
+    "name": "使用遥子、爱进行{threshold}次恢复体力",
+    "shortDescription": "使用遥子、爱进行{threshold}次恢复体力"
   },
   "event-ms-verysoon-26-0530-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向遥子、爱\n赠送{threshold}次礼物吧。",
@@ -12950,9 +12950,9 @@
     "shortDescription": "使用SUNNY PEACE成员进行宣传{threshold}次"
   },
   "event-ms-vlnt-25-0131-00-character_start_activity_refreshment_count": {
-    "longDescription": "使用SUNNY PEACE成员进行放松{threshold}次",
-    "name": "使用SUNNY PEACE成员进行放松{threshold}次",
-    "shortDescription": "使用SUNNY PEACE成员进行放松{threshold}次"
+    "longDescription": "使用SUNNY PEACE成员进行恢复体力{threshold}次",
+    "name": "使用SUNNY PEACE成员进行恢复体力{threshold}次",
+    "shortDescription": "使用SUNNY PEACE成员进行恢复体力{threshold}次"
   },
   "event-ms-vlnt-25-0131-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向SUNNY PEACE的成员赠送{threshold}次礼物",
@@ -13000,9 +13000,9 @@
     "shortDescription": "使用月光风暴成员进行宣传{threshold}次"
   },
   "event-ms-vlnt-26-0130-00-character_start_activity_refreshment_count": {
-    "longDescription": "让月光风暴的成员\n进行{threshold}次放松吧。",
-    "name": "使用月光风暴成员进行放松{threshold}次",
-    "shortDescription": "使用月光风暴成员进行放松{threshold}次"
+    "longDescription": "让月光风暴的成员\n进行{threshold}次恢复体力吧。",
+    "name": "使用月光风暴成员进行恢复体力{threshold}次",
+    "shortDescription": "使用月光风暴成员进行恢复体力{threshold}次"
   },
   "event-ms-vlnt-26-0130-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向月光风暴的成员\n赠送{threshold}次礼物吧。",
@@ -13145,9 +13145,9 @@
     "shortDescription": "让LizNoir的成员进行{threshold}次宣传"
   },
   "event-ms-xmas-24-1227-00-character_start_activity_refreshment_count": {
-    "longDescription": "让LizNoir的成员进行{threshold}次放松",
-    "name": "让LizNoir的成员进行{threshold}次放松",
-    "shortDescription": "让LizNoir的成员进行{threshold}次放松"
+    "longDescription": "让LizNoir的成员进行{threshold}次恢复体力",
+    "name": "让LizNoir的成员进行{threshold}次恢复体力",
+    "shortDescription": "让LizNoir的成员进行{threshold}次恢复体力"
   },
   "event-ms-xmas-24-1227-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向LizNoir的成员赠送{threshold}次礼物",
@@ -13195,9 +13195,9 @@
     "shortDescription": "使用IIIX成员进行宣传{threshold}次"
   },
   "event-ms-xmas-25-0702-00-character_start_activity_refreshment_count": {
-    "longDescription": "使用IIIX的成员进行{threshold}次放松吧。",
-    "name": "使用IIIX成员进行放松{threshold}次",
-    "shortDescription": "使用IIIX成员进行放松{threshold}次"
+    "longDescription": "使用IIIX的成员进行{threshold}次恢复体力吧。",
+    "name": "使用IIIX成员进行恢复体力{threshold}次",
+    "shortDescription": "使用IIIX成员进行恢复体力{threshold}次"
   },
   "event-ms-xmas-25-0702-00-company_character_use_obtain_enjoy_point_item_count": {
     "longDescription": "向IIIX的成员赠送{threshold}次礼物吧。",
@@ -24435,104 +24435,104 @@
     "shortDescription": "用优执行{threshold}次粉丝活动"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-ai-001": {
-    "longDescription": "使用爱执行{threshold}次放松。",
-    "name": "用爱执行{threshold}次刷新",
-    "shortDescription": "用爱执行{threshold}次刷新"
+    "longDescription": "使用爱执行{threshold}次恢复体力。",
+    "name": "用爱执行{threshold}次恢复体力",
+    "shortDescription": "用爱执行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-aoi-001": {
-    "longDescription": "使用葵执行{threshold}次放松。",
-    "name": "用葵执行{threshold}次刷新",
-    "shortDescription": "用葵执行{threshold}次刷新"
+    "longDescription": "使用葵执行{threshold}次恢复体力。",
+    "name": "用葵执行{threshold}次恢复体力",
+    "shortDescription": "用葵执行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-chs-001": {
-    "longDescription": "使用千纱执行{threshold}次放松。",
-    "name": "用千纱执行{threshold}次刷新",
-    "shortDescription": "用千纱执行{threshold}次刷新"
+    "longDescription": "使用千纱执行{threshold}次恢复体力。",
+    "name": "用千纱执行{threshold}次恢复体力",
+    "shortDescription": "用千纱执行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-hrk-001": {
-    "longDescription": "使用遥子执行{threshold}次放松。",
-    "name": "用遥子进行{threshold}次刷新",
-    "shortDescription": "用遥子进行{threshold}次刷新"
+    "longDescription": "使用遥子执行{threshold}次恢复体力。",
+    "name": "用遥子进行{threshold}次恢复体力",
+    "shortDescription": "用遥子进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-kan-001": {
-    "longDescription": "使用kana执行{threshold}次放松。",
-    "name": "用kana进行{threshold}次刷新",
-    "shortDescription": "用kana进行{threshold}次刷新"
+    "longDescription": "使用kana执行{threshold}次恢复体力。",
+    "name": "用kana进行{threshold}次恢复体力",
+    "shortDescription": "用kana进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-kkr-001": {
-    "longDescription": "使用心执行{threshold}次放松。",
-    "name": "用心进行{threshold}次刷新",
-    "shortDescription": "用心进行{threshold}次刷新"
+    "longDescription": "使用心执行{threshold}次恢复体力。",
+    "name": "用心进行{threshold}次恢复体力",
+    "shortDescription": "用心进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-kor-001": {
-    "longDescription": "使用fran执行{threshold}次放松。",
-    "name": "用fran进行{threshold}次刷新",
-    "shortDescription": "用fran进行{threshold}次刷新"
+    "longDescription": "使用fran执行{threshold}次恢复体力。",
+    "name": "用fran进行{threshold}次恢复体力",
+    "shortDescription": "用fran进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-ktn-001": {
-    "longDescription": "使用琴乃执行{threshold}次刷新。",
-    "name": "用琴乃进行{threshold}次刷新",
-    "shortDescription": "用琴乃进行{threshold}次刷新"
+    "longDescription": "使用琴乃执行{threshold}次恢复体力。",
+    "name": "用琴乃进行{threshold}次恢复体力",
+    "shortDescription": "用琴乃进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-mei-001": {
-    "longDescription": "使用芽衣执行{threshold}次刷新。",
-    "name": "用芽衣进行{threshold}次刷新",
-    "shortDescription": "用芽衣进行{threshold}次刷新"
+    "longDescription": "使用芽衣执行{threshold}次恢复体力。",
+    "name": "用芽衣进行{threshold}次恢复体力",
+    "shortDescription": "用芽衣进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-mhk-001": {
-    "longDescription": "使用miho执行{threshold}次刷新。",
-    "name": "用miho进行{threshold}次刷新",
-    "shortDescription": "用miho进行{threshold}次刷新"
+    "longDescription": "使用miho执行{threshold}次恢复体力。",
+    "name": "用miho进行{threshold}次恢复体力",
+    "shortDescription": "用miho进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-ngs-001": {
-    "longDescription": "使用渚执行{threshold}次刷新。",
-    "name": "用渚进行{threshold}次刷新",
-    "shortDescription": "用渚进行{threshold}次刷新"
+    "longDescription": "使用渚执行{threshold}次恢复体力。",
+    "name": "用渚进行{threshold}次恢复体力",
+    "shortDescription": "用渚进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-rei-001": {
-    "longDescription": "使用怜执行{threshold}次刷新。",
-    "name": "用怜进行{threshold}次刷新",
-    "shortDescription": "用怜进行{threshold}次刷新"
+    "longDescription": "使用怜执行{threshold}次恢复体力。",
+    "name": "用怜进行{threshold}次恢复体力",
+    "shortDescription": "用怜进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-rio-001": {
-    "longDescription": "使用莉央执行{threshold}次刷新。",
-    "name": "用莉央进行{threshold}次刷新",
-    "shortDescription": "用莉央进行{threshold}次刷新"
+    "longDescription": "使用莉央执行{threshold}次恢复体力。",
+    "name": "用莉央进行{threshold}次恢复体力",
+    "shortDescription": "用莉央进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-rui-001": {
-    "longDescription": "使用瑠依执行{threshold}次刷新。",
-    "name": "用瑠依进行{threshold}次刷新",
-    "shortDescription": "用瑠依进行{threshold}次刷新"
+    "longDescription": "使用瑠依执行{threshold}次恢复体力。",
+    "name": "用瑠依进行{threshold}次恢复体力",
+    "shortDescription": "用瑠依进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-ski-001": {
-    "longDescription": "使用沙季执行{threshold}次刷新。",
-    "name": "用沙季进行{threshold}次刷新",
-    "shortDescription": "用沙季进行{threshold}次刷新"
+    "longDescription": "使用沙季执行{threshold}次恢复体力。",
+    "name": "用沙季进行{threshold}次恢复体力",
+    "shortDescription": "用沙季进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-skr-001": {
-    "longDescription": "使用樱执行{threshold}次刷新。",
-    "name": "用樱进行{threshold}次刷新",
-    "shortDescription": "用樱进行{threshold}次刷新"
+    "longDescription": "使用樱执行{threshold}次恢复体力。",
+    "name": "用樱进行{threshold}次恢复体力",
+    "shortDescription": "用樱进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-smr-001": {
-    "longDescription": "使用堇执行{threshold}次刷新。",
-    "name": "用堇进行{threshold}次刷新",
-    "shortDescription": "用堇进行{threshold}次刷新"
+    "longDescription": "使用堇执行{threshold}次恢复体力。",
+    "name": "用堇进行{threshold}次恢复体力",
+    "shortDescription": "用堇进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-suz-001": {
-    "longDescription": "使用铃执行{threshold}次刷新。",
-    "name": "用铃进行{threshold}次刷新",
-    "shortDescription": "用铃进行{threshold}次刷新"
+    "longDescription": "使用铃执行{threshold}次恢复体力。",
+    "name": "用铃进行{threshold}次恢复体力",
+    "shortDescription": "用铃进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-szk-001": {
-    "longDescription": "使用雫执行{threshold}次刷新。",
-    "name": "用雫进行{threshold}次刷新",
-    "shortDescription": "用雫进行{threshold}次刷新"
+    "longDescription": "使用雫执行{threshold}次恢复体力。",
+    "name": "用雫进行{threshold}次恢复体力",
+    "shortDescription": "用雫进行{threshold}次恢复体力"
   },
   "ms-company-action-character_start_activity_refreshment_count-char-yu-001": {
-    "longDescription": "在优处执行{threshold}次刷新。",
-    "name": "用优进行{threshold}次刷新",
-    "shortDescription": "用优进行{threshold}次刷新"
+    "longDescription": "在优处执行{threshold}次恢复体力。",
+    "name": "用优进行{threshold}次恢复体力",
+    "shortDescription": "用优进行{threshold}次恢复体力"
   },
   "ms-company-area-AreaAllMainQuestClearCountAchievement-001": {
     "longDescription": "通关{threshold}次主线演唱会吧。",
