@@ -43,6 +43,20 @@ class MigrationTests(unittest.TestCase):
         receipt, writes, deletes = self.plan()
         self.assertEqual((writes, deletes, receipt['task_candidates']), ({}, set(), []))
 
+    def test_changed_short_preview_updates_ai_without_creating_collaboration_record(self):
+        self.stem += '_short'
+        self.rel = 'event/1/' + self.stem + '.csv'
+        old = self.snapshot('[message name=a text=old]\n')
+        old[0]['trans'] = '旧文'
+        self.layer('ai', old)
+        self.snapshot('[message name=a text=new]\n')
+        receipt, writes, deletes = self.plan()
+        self.assertEqual(receipt['source_changed'], [self.stem])
+        self.assertIn('story/ai/' + self.rel, writes)
+        self.assertFalse(any(path.startswith('records/') for path in writes))
+        m.apply(self.repo, writes, deletes)
+        self.assertFalse((self.repo / 'records' / (self.stem + '.json')).exists())
+
     def test_changed_archives_and_invalidates_records(self):
         old = self.snapshot('[message name=a text=keep]\n[message name=a text=old]\n')
         old[0]['trans'], old[1]['trans'] = '保留', '旧文'

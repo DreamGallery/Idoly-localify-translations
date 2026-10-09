@@ -19,6 +19,10 @@ STATES = ('待认领', '进行中', '完成')
 PENDING_LABEL = '待翻译'
 
 
+def is_short_story(stem):
+    return stem.endswith('_short')
+
+
 def read_story(path, root):
     if any(p.is_symlink() for p in (path, *path.parents) if p == root or root in p.parents):
         raise ValueError('Symlinked story data')
@@ -61,7 +65,7 @@ def stories(root, filenames=None):
     inventory = {}
     for path in sorted((root / 'story/ai').rglob('*.csv')):
         story = read_story(path, root)
-        if story is None:
+        if story is None or is_short_story(story['id']):
             continue
         if story['id'] in inventory:
             raise ValueError(f'Duplicate story ID: {story["id"]}')
@@ -82,6 +86,8 @@ def stories(root, filenames=None):
     for filename in filenames:
         # Accept source script names, CSV filenames, or exact repository CSV paths.
         value = filename.strip()
+        if is_short_story(Path(value).stem):
+            raise ValueError('Short preview scripts do not need collaboration tasks: ' + value)
         matches = [s for s in inventory.values() if value in
                    (s['id'], s['id'] + '.txt', s['id'] + '.csv', s['path'])]
         if len(matches) != 1:
@@ -106,6 +112,8 @@ def set_marker(body, name, value):
 
 
 def task_body(story, body=''):
+    if is_short_story(story['id']):
+        raise ValueError('Short preview scripts do not need collaboration tasks')
     path = story['path']
     source_commit = story.get('source_commit', '')
     raw_path = story.get('raw_path', 'Resource/' + story['id'] + '.txt')
@@ -220,6 +228,8 @@ class GitHub:
 
 
 def synchronize(client, selected, apply=False, changed_ids=()):
+    selected = {stem: story for stem, story in selected.items()
+                if not is_short_story(stem) and not is_short_story(story['id'])}
     if not selected:
         return []
     by_title = {}
@@ -275,7 +285,7 @@ def main():
             raise ValueError('Invalid changed source ID')
         changed = {s['file_id'] for s in candidates if s['status'] == 'source_changed'}
         if filenames is None and not args.all:
-            filenames = [s['file_id'] for s in candidates]
+            filenames = [s['file_id'] for s in candidates if not is_short_story(s['file_id'])]
     elif filenames is None and not args.all:
         parser.error('Select --files, --all, or --source-change-receipt')
     selected = stories(args.data_dir, filenames)

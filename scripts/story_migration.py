@@ -218,7 +218,7 @@ def plan(source_dir, csv_dir, translations_dir):
             if layer not in rebased or relative != 'story/' + layer + '/' + rel:
                 deletes.add(relative)
         record_path = safe(root, root / 'records' / (stem + '.json'))
-        if changed or (record_path.exists() and status == 'path_changed'):
+        if not stem.endswith('_short') and (changed or (record_path.exists() and status == 'path_changed')):
             record = (json.loads(record_path.read_text(encoding='utf-8')) if record_path.exists()
                       else {'schema_version': 1, 'file_id': stem})
             if record.get('file_id') != stem:

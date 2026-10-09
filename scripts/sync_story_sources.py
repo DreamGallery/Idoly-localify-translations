@@ -66,6 +66,9 @@ def next_state(previous, receipt, source_commit, revision, filename=None, story_
         raise ValueError('Source revision moved backwards; refusing downgrade')
     inventory = source_inventory(receipt)
     pending = copy.deepcopy(previous.get('pending_tasks', {}))
+    # Short previews remain in the source inventory, but never in the task queue,
+    # including entries saved by an older workflow before an interrupted retry.
+    pending = {stem: item for stem, item in pending.items() if not tasks.is_short_story(stem)}
     candidates = {item['file_id'] for item in receipt['task_candidates']}
     changed = set(receipt['source_changed'])
     old_inventory = previous.get('scripts', {})
@@ -86,17 +89,21 @@ def next_state(previous, receipt, source_commit, revision, filename=None, story_
         if len(matches) != 1:
             raise ValueError(f'Story filename {ascii(filename)} matched {len(matches)} current stories; '
                              'enter the exact adv_...txt or adv_...csv filename from Hoshimi-Adv')
+        if tasks.is_short_story(matches[0]):
+            raise ValueError('Short preview scripts do not need collaboration tasks: ' + matches[0])
         candidates.add(matches[0])
     if story_id is not None:
         story_id = normalize_filename(story_id)
         if not re.fullmatch(r'adv_[a-z]+_(?:[A-Za-z0-9]+_)*[0-9]+', story_id):
             raise ValueError('Use a story ID ending in a number, e.g. adv_card_ktn_15 or adv_event_2107')
         matches = {stem for stem in inventory
-                   if stem.startswith(story_id + '_') and not stem.endswith('_short')}
+                   if stem.startswith(story_id + '_') and not tasks.is_short_story(stem)}
         if not matches:
             raise ValueError(f'Story ID {ascii(story_id)} has no current non-short chapters')
         candidates.update(matches)
     for stem in sorted(candidates):
+        if tasks.is_short_story(stem):
+            continue
         item = inventory[stem]
         prior = pending.get(stem, {})
         pending[stem] = {**item, 'source_changed': stem in changed or prior.get('source_changed', False)}

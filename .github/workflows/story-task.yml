@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       filename:
-        description: 单个文件名（如 adv_card_ktn_15_02.csv，与剧情 ID 二选一）
+        description: 单个文件名（如 adv_card_ktn_15_02.csv，排除 _short，与剧情 ID 二选一）
         required: false
         type: string
       story_id:

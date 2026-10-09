@@ -72,6 +72,35 @@ class StateTests(unittest.TestCase):
             sync.next_state({}, receipt(), '1' * 40, 1066,
                             filename='adv_group_01.csv', story_id='adv_group_01')
 
+    def test_short_previews_never_enter_queue_even_from_old_pending_tasks(self):
+        short = 'adv_card_ktn_15_01_short'
+        previous = self.baseline()
+        previous['pending_tasks'][short] = {'source_sha256': 'a' * 64,
+                                            'csv_path': short + '.csv', 'source_changed': True}
+        original = copy.deepcopy(previous)
+        for status in ('new', 'source_changed', 'path_changed', 'unchanged'):
+            with self.subTest(status=status):
+                data = receipt(status='new')
+                item = {**data['scripts'][0], 'file_id': short, 'status': status,
+                        'source_sha256': 'b' * 64, 'csv_path': short + '.csv'}
+                data['scripts'].append(item)
+                data['task_candidates'].append(item)
+                data['source_changed'].append(short)
+                state = sync.next_state(previous, data, '2' * 40, 1067)
+                self.assertEqual(set(state['pending_tasks']), {'adv_group_01'})
+                self.assertIn(short, state['scripts'])
+                self.assertEqual(previous, original)
+
+    def test_manual_short_file_rejected_in_every_supported_format(self):
+        short = 'adv_card_ktn_15_01_short'
+        data = receipt()
+        data['scripts'] = [{**data['scripts'][0], 'file_id': short,
+                            'csv_path': 'card/' + short + '.csv'}]
+        for value in (short, short + '.txt', short + '.csv',
+                      'story/ai/card/' + short + '.csv\u200e'):
+            with self.subTest(value=value), self.assertRaisesRegex(ValueError, 'Short preview'):
+                sync.next_state({}, data, '1' * 40, 1066, filename=value)
+
     def test_pending_survives_retry_and_does_not_mutate_input(self):
         state = sync.next_state(self.baseline(), receipt('b' * 64), '2' * 40, 1067)
         before = copy.deepcopy(state)
@@ -206,6 +235,31 @@ class SyncIntegrationTests(unittest.TestCase):
                 sync.run(self.source, self.root, apply=True)
         remote_ledger = self.command('--git-dir', self.remote, 'show', 'collaboration:'+sync.STATE)
         self.assertIn(self.stem, json.loads(remote_ledger)['pending_tasks'])
+
+    def test_short_source_is_preserved_without_creating_a_task(self):
+        short = self.stem + '_short'
+        original = self.source / 'Resource' / (self.stem + '.txt')
+        raw = original.read_bytes()
+        original.rename(original.with_name(short + '.txt'))
+        csv = self.source / 'CSV' / self.relative
+        rows = sync.migration.read_csv(csv)
+        rows[-2]['name'] = short + '.txt'
+        csv.unlink()
+        short_csv = csv.with_name(short + '.csv')
+        short_csv.write_bytes(sync.migration.encode_csv(rows))
+        self.commit(self.source, 'short preview source')
+        with patch.object(sync.tasks, 'GitHub') as github, patch.object(sync.tasks, 'synchronize') as tasks:
+            result = sync.run(self.source, self.root, apply=True)
+            github.assert_not_called()
+            tasks.assert_not_called()
+        self.assertEqual(result['pending_tasks'], 0)
+        self.assertTrue((self.root / 'story/ai/test' / (short + '.csv')).is_file())
+        manifest = json.loads((self.root / sync.MANIFEST).read_text())
+        self.assertEqual(manifest['scripts'][short]['source_sha256'], sync.migration.digest(raw))
+        self.assertEqual(json.loads((self.root / sync.STATE).read_text())['pending_tasks'], {})
+        with patch.object(sync.tasks, 'GitHub') as github:
+            self.assertEqual(sync.run(self.source, self.root, apply=True)['changed_files'], 0)
+            github.assert_not_called()
 
     def test_nonforce_push_rejects_write_between_head_check_and_push(self):
         competitor = self.root.parent / 'competitor'

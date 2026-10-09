@@ -139,6 +139,37 @@ class StoryTaskTests(unittest.TestCase):
         self.assertIn(self.story['path'], result['payload']['body'])
     def test_empty_selection_never_calls_github(self):
         self.assertEqual(tasks.synchronize(None, {}, True), [])
+    def test_short_tasks_are_ignored_before_any_api_call(self):
+        short = {**self.story, 'id': self.story['id'] + '_short'}
+        self.assertEqual(tasks.synchronize(None, {short['id']: short}, True), [])
+        with self.assertRaisesRegex(ValueError, 'Short preview'):
+            tasks.plan(short)
+        client = Fake()
+        result = tasks.synchronize(client, {short['id']: short, self.story['id']: self.story}, True)
+        self.assertEqual([task['id'] for task in result], [self.story['id']])
+        self.assertEqual(len(client.writes), 1)
+    def test_inventory_excludes_short_but_not_regular_names_containing_short(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            inventory = {}
+            for stem in ('adv_card_ktn_15_01', 'adv_card_ktn_15_01_short', 'adv_short_01'):
+                path = root / 'story/ai/card' / (stem + '.csv')
+                path.parent.mkdir(parents=True, exist_ok=True)
+                with path.open('w', newline='') as f:
+                    writer = csv.writer(f)
+                    writer.writerow(tasks.FIELDS)
+                    writer.writerows([['1:text:1', '', '原文', '译文'],
+                                      ['info', stem + '.txt', 'a' * 64, ''], ['译者', '', '', '']])
+                inventory[stem] = {'csv_path': 'card/' + stem + '.csv', 'source_sha256': 'a' * 64}
+            manifest = root / 'automation/story-sources.json'
+            manifest.parent.mkdir()
+            manifest.write_text(json.dumps({'schema_version': 1, 'source_repository': 'DreamGallery/Hoshimi-Adv',
+                                            'source_commit': '1' * 40, 'scripts': inventory}))
+            self.assertEqual(set(tasks.stories(root)), {'adv_card_ktn_15_01', 'adv_short_01'})
+            for value in ('adv_card_ktn_15_01_short', 'adv_card_ktn_15_01_short.txt',
+                          'story/ai/card/adv_card_ktn_15_01_short.csv'):
+                with self.subTest(value=value), self.assertRaisesRegex(ValueError, 'Short preview'):
+                    tasks.stories(root, [value])
     def test_pagination_ignores_prs(self):
         class Paged(tasks.GitHub):
             def request(self, method, endpoint, payload=None):
