@@ -1,7 +1,8 @@
 {
   "assets": {
-    "manifest.json": "a8ab14ff4f26e16679a275a44e463f425bb9181bd8965e959f45a6e4a8f77c1f",
-    "text-update.zip": "8a2aa06684a4c94372037717c14338a2dc600e192e336d0551cac704a0e59d0e"
+    "idoly-localify-0.4.0.apk": "e3bc5844b580af879868ca0a715c27175ceeacc986edc83c91d8948bcce2bf0b",
+    "manifest.json": "db33cc8ab3eb27075eac638d5f6627e8716d723bad747875d1f3b0553e4cd874",
+    "text-update.zip": "a4592061e5cc0a97c46e5b327cf4e57126cd2eb1f19dc3de46ff0766b7ee37fb"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -3342,11 +3343,11 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "330526204899fd139cffb46b55e218c5639bff54fd3a285a9aed87c58fc16e84"
   },
-  "content_version": "cbbeebcaf5963cd7",
+  "content_version": "9715a98a3ea0bffc",
   "cutoff": "10cc690e1a4eeb6055e2f5b53bcab8942a158e75",
-  "main_parent": "0c8857498bb93188ec191d91a5a19fa643d71f2a",
-  "plugin_asset": null,
-  "plugin_version": "0.3.1",
+  "main_parent": "614578ecf13b9a1abb5a0ea7c30e819d8f4d915c",
+  "plugin_asset": "idoly-localify-0.4.0.apk",
+  "plugin_version": "0.4.0",
   "published_data": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
     "glossary/term-aliases.json": "ac2c3544502f1dc034e536fe6b8a249cd5b6d34bff0410190daae46ab92b8981",
@@ -3443,7 +3444,7 @@
     "master/orig/Telephone.json": "973b07a774ad94812ffb10b5b84ec70fe13383f02970fb9299af8855254dfaf8",
     "master/orig/Tutorial.json": "8fb74dcbbdc07bda227b69c8549e8eb2e2867d086bea359093148df8ee79bf14",
     "master/orig/Wording.json": "8014242df4ea16f4c66879e095cd5816747fe5c67bd4762358ba3e00500edbae",
-    "master/overrides.json": "068e8792cd33604ebb63ae99da595dc5c82476de1e95b523ac1f6fe178061ce2",
+    "master/overrides.json": "e3f758b99f4f6a281960df58178a1bc921f2cb0c888434f7751a65f5bfe36117",
     "master/retained-titles.json": "c80a09f974526b240ae9d63ff23ac535a03e945cff0062f9e7817e31d9cc3958",
     "master/zh-Hans/Accessory.json": "cbcc8ef559b5c77b14867c673ac9dcc31c2034ce7e4836e435f465f364b3f059",
     "master/zh-Hans/ActivityAbility.json": "ae1598d2e8fd33a96e7aa66f080a2974acc4774cdf38cc26ea84f274ef1582c4",
@@ -3499,7 +3500,7 @@
     "master/zh-Hans/MarathonQuest.json": "db16524523c2fc63382088e8f8d89f04d67de9a9440aa430ba8674ee2e57a1ef",
     "master/zh-Hans/Message.json": "d2b591ae4ece086c60fd095fda5749fbeeddd56819508448ebbbf5dbdbc705ae",
     "master/zh-Hans/MessageGroup.json": "88ccf58c13ca06249814246cd39573a282a48427815b511704e347508172563b",
-    "master/zh-Hans/Mission.json": "c3d810679a1fae7dc5f0eff0718c5239d00e8f3392e92da88d5623a9dad94b73",
+    "master/zh-Hans/Mission.json": "8169f5367c7b4d024c0553e5087939eacb55883cb0708f67731608b07c408d84",
     "master/zh-Hans/Music.json": "8ea6fefe2f030989d13d9adaee458f6f4bed0998fc21eb02e00400c1621bfd2e",
     "master/zh-Hans/PhotoAbility.json": "ad51de6cdd86f21cdf3808f8d8b84caaae7fac48370caf8bd060d8efb96a4032",
     "master/zh-Hans/PhotoActivity.json": "6c496ee67c4d3b4bf59b21d91b97d33b19150a924744232f1084455ea9d9905d",
@@ -6681,11 +6682,11 @@
     "story/reviewed/love/2603/08/adv_love_2603_08_01.csv": "300ee7221cc2dcbd6b29cc71f6a8a8dede13cae409ec622a66c631634cb0ed5f",
     "story/reviewed/love/2603/08/adv_love_2603_08_02.csv": "e9f39fe083d51e949bbb5a1c946edd93cc791a79477e5e5309418003df666772",
     "story/reviewed/love/2603/08/adv_love_2603_08_03.csv": "3a66c4b5552ef8c8c3a6f9cc8da4e0b39c98d9878269e56523aaebe0a68c61a0",
-    "ui/source.json": "c548e18f06c0578da569f2a5e1f24c429e0a9f0cfbabfd2c718ffd96c80b9ae4",
+    "ui/source.json": "02841fdc3beb6780245780eb3041adfa218a2c5942783fd395cae4d5829bae14",
     "ui/variants-source.json": "7cc8f9bfe0b4e36707e63c838b548e82603e33f539dc4599ca45129271ab67f7",
-    "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
+    "ui/zh-Hans.json": "9a9ff7207a2f57b3cf8d39d8a3b2699f88708e953a8232f9ff2246bf2d9b90e7",
     "upstream.json": "ab7031af40a7e92c7e9389a0dcd658260a2474923557f8e5810ab53cf666ad5f"
   },
   "schema_version": 1,
-  "text_version": "3d47a5a2857854f0"
+  "text_version": "182343a00937908c"
 }
