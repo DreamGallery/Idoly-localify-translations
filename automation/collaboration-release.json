@@ -1,8 +1,7 @@
 {
   "assets": {
-    "idoly-localify-0.4.0.apk": "e3bc5844b580af879868ca0a715c27175ceeacc986edc83c91d8948bcce2bf0b",
-    "manifest.json": "db33cc8ab3eb27075eac638d5f6627e8716d723bad747875d1f3b0553e4cd874",
-    "text-update.zip": "a4592061e5cc0a97c46e5b327cf4e57126cd2eb1f19dc3de46ff0766b7ee37fb"
+    "manifest.json": "8bd86adba385835bc7a9909d05287025b82259d15e6f2b1e88efa08dcb1ca3e1",
+    "text-update.zip": "11d7441c3e7c6244e41121965df6c519464b465f8c75f90e7f39c695b7495aee"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -3343,10 +3342,10 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "330526204899fd139cffb46b55e218c5639bff54fd3a285a9aed87c58fc16e84"
   },
-  "content_version": "9715a98a3ea0bffc",
+  "content_version": "af62d3ce7268f504",
   "cutoff": "10cc690e1a4eeb6055e2f5b53bcab8942a158e75",
-  "main_parent": "614578ecf13b9a1abb5a0ea7c30e819d8f4d915c",
-  "plugin_asset": "idoly-localify-0.4.0.apk",
+  "main_parent": "6e5fd548546006acd0ff12dd8e64cfc951e4e4bf",
+  "plugin_asset": null,
   "plugin_version": "0.4.0",
   "published_data": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -3536,9 +3535,9 @@
     "master/zh-Hans/Telephone.json": "206aef3d5c9644205e9cdbc06f9d77751d86b242a2cf4dce182b47afa54523f5",
     "master/zh-Hans/Tutorial.json": "a4b2b4ed60947c2c6582598954ebbbe6e47591f4509a7335bcfc065d93fc88dd",
     "master/zh-Hans/Wording.json": "1869e81adbacf086c53b4c7a9a284c08506333188b5211344b57617413c32f91",
-    "notice/source.json": "77539f31480d7d6d0cb8514aa9da7b69d24d16afb9025ce4c922a9d67e9c7f28",
+    "notice/source.json": "f71d7507d6771604085a4dcdd2b6173bdfd251193bd7104439f6d8aef092fb61",
     "notice/title-resolutions.json": "349413683f39400f82fe1946a95599d38c437e3b2a411bcab9ec7c5e4fb0c5ec",
-    "notice/zh-Hans.json": "2e4702689f16b86edc19f4b161e531d95f50d10a40fc711c19417c68fc7555a8",
+    "notice/zh-Hans.json": "d45dc25b29ce0f37b3a347317b404deaeb250dc521e1c25c12b36f97490587ef",
     "records/adv_card_ngs_15_01.json": "df80bf8153eeabd05f0703ffb70e69ae54c4103a8b6c268e77b76caf66a9a25d",
     "records/adv_card_ngs_15_02.json": "2d40dc7a2e21fc2d69961128682e848a425b5aa1b1cb018a0a685563cb54a22c",
     "records/adv_card_ngs_15_03.json": "b6fc9015fe26c53b50252bff7be1cc76ea00eb283a21815d2c162670ab22d614",
@@ -6688,5 +6687,5 @@
     "upstream.json": "ab7031af40a7e92c7e9389a0dcd658260a2474923557f8e5810ab53cf666ad5f"
   },
   "schema_version": 1,
-  "text_version": "182343a00937908c"
+  "text_version": "59ae7a40f2e211cb"
 }
