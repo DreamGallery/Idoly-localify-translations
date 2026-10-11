@@ -1,7 +1,8 @@
 {
   "assets": {
-    "manifest.json": "8bd86adba385835bc7a9909d05287025b82259d15e6f2b1e88efa08dcb1ca3e1",
-    "text-update.zip": "11d7441c3e7c6244e41121965df6c519464b465f8c75f90e7f39c695b7495aee"
+    "idoly-localify-0.4.1.apk": "95fb3a7580459ebb3421b305cfea1fb73e68224cfab170027fa516bc7fc2054c",
+    "manifest.json": "b73256154888e2a8e12f3351459e4dca88cf24590cb747bb5c264267218c2611",
+    "text-update.zip": "3c03d988b21cc58cc00e911abd7dfb2579ae0c287e0dc10239ba46f7f17465dd"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -3342,11 +3343,11 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "330526204899fd139cffb46b55e218c5639bff54fd3a285a9aed87c58fc16e84"
   },
-  "content_version": "af62d3ce7268f504",
+  "content_version": "d8505bed34b1abd1",
   "cutoff": "10cc690e1a4eeb6055e2f5b53bcab8942a158e75",
-  "main_parent": "6e5fd548546006acd0ff12dd8e64cfc951e4e4bf",
-  "plugin_asset": null,
-  "plugin_version": "0.4.0",
+  "main_parent": "fe4bfab96731edfeb4232b89751f2d85df6031b8",
+  "plugin_asset": "idoly-localify-0.4.1.apk",
+  "plugin_version": "0.4.1",
   "published_data": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
     "glossary/term-aliases.json": "ac2c3544502f1dc034e536fe6b8a249cd5b6d34bff0410190daae46ab92b8981",
@@ -3534,7 +3535,7 @@
     "master/zh-Hans/StoryPart.json": "7a1c4cdddddfaf2b0b741e08fa3b64e5c317154035c1757fab7ccf06b21652b8",
     "master/zh-Hans/Telephone.json": "206aef3d5c9644205e9cdbc06f9d77751d86b242a2cf4dce182b47afa54523f5",
     "master/zh-Hans/Tutorial.json": "a4b2b4ed60947c2c6582598954ebbbe6e47591f4509a7335bcfc065d93fc88dd",
-    "master/zh-Hans/Wording.json": "1869e81adbacf086c53b4c7a9a284c08506333188b5211344b57617413c32f91",
+    "master/zh-Hans/Wording.json": "364576376f92b6b8fbd96f99c03e9925998bf8d623dcb7cea37de762e7656742",
     "notice/source.json": "f71d7507d6771604085a4dcdd2b6173bdfd251193bd7104439f6d8aef092fb61",
     "notice/title-resolutions.json": "349413683f39400f82fe1946a95599d38c437e3b2a411bcab9ec7c5e4fb0c5ec",
     "notice/zh-Hans.json": "d45dc25b29ce0f37b3a347317b404deaeb250dc521e1c25c12b36f97490587ef",
@@ -6681,11 +6682,11 @@
     "story/reviewed/love/2603/08/adv_love_2603_08_01.csv": "300ee7221cc2dcbd6b29cc71f6a8a8dede13cae409ec622a66c631634cb0ed5f",
     "story/reviewed/love/2603/08/adv_love_2603_08_02.csv": "e9f39fe083d51e949bbb5a1c946edd93cc791a79477e5e5309418003df666772",
     "story/reviewed/love/2603/08/adv_love_2603_08_03.csv": "3a66c4b5552ef8c8c3a6f9cc8da4e0b39c98d9878269e56523aaebe0a68c61a0",
-    "ui/source.json": "02841fdc3beb6780245780eb3041adfa218a2c5942783fd395cae4d5829bae14",
+    "ui/source.json": "1e7e342f16d9cf90c7dfba494fd171f5b93b5176e38a62f64efc2df8515a1a74",
     "ui/variants-source.json": "7cc8f9bfe0b4e36707e63c838b548e82603e33f539dc4599ca45129271ab67f7",
-    "ui/zh-Hans.json": "9a9ff7207a2f57b3cf8d39d8a3b2699f88708e953a8232f9ff2246bf2d9b90e7",
+    "ui/zh-Hans.json": "9ae01ace18ae05a1b0c9754c14dcb1f90522522394d329d9cdedc6842bc86f83",
     "upstream.json": "ab7031af40a7e92c7e9389a0dcd658260a2474923557f8e5810ab53cf666ad5f"
   },
   "schema_version": 1,
-  "text_version": "59ae7a40f2e211cb"
+  "text_version": "4eb66d2e9d5f5742"
 }
