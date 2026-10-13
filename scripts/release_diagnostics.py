@@ -18,6 +18,21 @@ PATTERNS = {
     'placeholder_mismatch': 'placeholder',
     'missing_translation_ids': 'missing translation',
     'protected_markers_changed': 'Protected notice markers changed, duplicated or reordered',
+    'collector_locked': 'Collector account is locked;',
+    'collector_missing': 'No collector account;',
+    'collector_invalid': 'Invalid dedicated collector account cache',
+    'collector_creation_uncertain': 'Previous account creation has uncertain outcome;',
+    'collector_path_invalid': 'Collector account must stay in ignored Toolkit/cache',
+    'firebase_refresh_transport': 'Firebase refresh transport failed;',
+    'firebase_tokens_missing': 'Firebase response is missing tokens',
+    'firebase_expiry_invalid': 'Firebase response has invalid expiry',
+    'official_seed_transport': 'Official seed transport failed',
+    'official_seed_rejected': 'Official seed request failed',
+    'official_application_error': 'Official API returned an application error;',
+    'official_authentication_incomplete': 'Official authentication requires additional handling;',
+    'official_master_version_missing': 'Official Master.Get did not return a version',
+    'official_date_changed': 'Official Notice API returned DateChanged (1003);',
+    'official_recovery_exhausted': 'Official notice recovery limit reached',
 }
 STAGES = {'translate-notice', 'translate-master', 'translate-story', 'notice-pages',
           'notice-index', 'master-fetch', 'master-export', 'master-tag', 'octo', 'story-catalog',
@@ -29,6 +44,14 @@ def classify(text):
               if value.lower() in text.lower()}
     counts.update(Counter('http_' + code for code in re.findall(
         r'Translation API returned HTTP ([1-5][0-9]{2})\b', text)))
+    counts.update(Counter('firebase_' + operation + '_http_' + code
+                          for operation, code in re.findall(
+        r'Firebase (refresh|signup) rejected \(HTTP ([1-5][0-9]{2})\)', text)))
+    collector_errors = re.findall(
+        r'Notice collection failed \((_InactiveRpcError|_MultiThreadedRendezvous|'
+        r'ValueError|RuntimeError|TimeoutError|TypeError|KeyError|FileNotFoundError|'
+        r'PermissionError|ModuleNotFoundError|JSONDecodeError)\);', text)
+    counts.update({'collector_' + key: value for key, value in Counter(collector_errors).items()})
     batches = re.findall(r'Notice batch failed \((ValueError|RuntimeError|TimeoutError|TypeError|KeyError)\)', text)
     counts.update({'batch_' + key: value for key, value in Counter(batches).items()})
     summary = re.findall(r'Notice: (\d+) new strings, (\d+) JSON values updated, (\d+)', text)

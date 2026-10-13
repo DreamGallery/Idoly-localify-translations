@@ -12,3 +12,14 @@ class DiagnosticTests(unittest.TestCase):
                                              'batch_ValueError': 1})
         self.assertNotIn('secret123', json.dumps(result))
         self.assertNotIn('private.invalid', json.dumps(result))
+
+    def test_collector_errors_export_only_fixed_signals(self):
+        result = classify('Notice collection stopped: Firebase refresh rejected (HTTP 400)\n'
+                          'Notice collection failed (_InactiveRpcError); check input, session and network\n'
+                          'Notice collection stopped: Collector account is locked; inspect previous process\n'
+                          'refresh_token=private-token https://private.invalid/account\n'
+                          'Notice collection failed (private-account);\n')
+        self.assertEqual(result['signals'], {'firebase_refresh_http_400': 1,
+                                            'collector__InactiveRpcError': 1,
+                                            'collector_locked': 1})
+        self.assertNotIn('private', json.dumps(result))
