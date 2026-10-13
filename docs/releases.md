@@ -1,6 +1,6 @@
 # 自动更新与协作校对
 
-文本和插件发布 Actions 都在本仓库；插件源码与采集、翻译工具仓库不运行发布 Actions。独立 [Cloudflare 触发器](../automation/cloudflare-scheduler/README.md) 每天北京时间 23:00（UTC 15:00）调用发布工作流，也可在 Actions 手动启动。GitHub 自带的 `schedule` 已移除，避免重复触发。首次手动运行默认 `dry_run=true`：会抓取、校验并生成完整包，但不提交译文、不上传或发布。模型调用仍可能发生；同时选择 `no_translate` 可关闭，存在待译内容时会阻止发布。游戏 APK 修补由独立 [Idoly-Patcher](https://github.com/DreamGallery/Idoly-Patcher) 仓库承接。
+文本和插件发布 Actions 都在本仓库；插件源码与采集、翻译工具仓库不运行发布 Actions。独立 [Cloudflare 触发器](../automation/cloudflare-scheduler/README.md) 每天北京时间 00:20（前一日 UTC 16:20）调用发布工作流，也可在 Actions 手动启动。GitHub 自带的 `schedule` 已移除，避免重复触发。首次手动运行默认 `dry_run=true`：会抓取、校验并生成完整包，但不提交译文、不上传或发布。模型调用仍可能发生；同时选择 `no_translate` 可关闭，存在待译内容时会阻止发布。游戏 APK 修补由独立 [Idoly-Patcher](https://github.com/DreamGallery/Idoly-Patcher) 仓库承接。
 
 ## 一次性配置
 

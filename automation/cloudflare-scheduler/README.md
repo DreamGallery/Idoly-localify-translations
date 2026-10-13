@@ -1,6 +1,6 @@
 # Cloudflare 发布触发器
 
-独立 Worker `idoly-localization-scheduler`，每天北京时间 23:00（UTC 15:00）调用本仓库 `release.yml` 的手动入口。抓取、翻译、构建及发布仍在 GitHub 自托管运行器执行；Worker 不保存游戏账号、模型密钥或 APK 签名材料。
+独立 Worker `idoly-localization-scheduler`，每天北京时间 00:20（前一日 UTC 16:20）调用本仓库 `release.yml` 的手动入口。抓取、翻译、构建及发布仍在 GitHub 自托管运行器执行；Worker 不保存游戏账号、模型密钥或 APK 签名材料。
 
 ## 部署
 
