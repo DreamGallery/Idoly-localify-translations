@@ -24,6 +24,7 @@
 仓库 variables：
 
 - `IDOLY_RUNNER_CONFIG`：运行器本地 JSON 配置的绝对路径。
+- `IDOLY_APP_VERSION`：默认 `auto`，每轮从 Google Play 日服页面获取客户端版本，覆盖运行器旧配置；需要固定版本时填写具体版本号。自动获取失败会停止，不沿用过期缓存。
 - `RELEASE_ENABLED`：完成预检后设为 `true` 才允许定时或手动正式发布。未开启时，仍可在 `main` 手动运行 `dry_run=true`，不会提交数据或发布。
 - 可选 `IDOLY_SOURCE_REF`、`TOOLKIT_REF`、`TRANSLATOR_REF`：默认各代码仓库的 `main`；需要冻结工具版本时设置完整 commit SHA。这些分支仅由可信维护者更新。
 - `PATCHER_REPOSITORY`：修补仓库，默认 `DreamGallery/Idoly-Patcher`。
@@ -51,7 +52,7 @@ API 地址必须是无用户名、密码、查询参数和 fragment 的 HTTPS UR
   "signing_env_file": "/srv/idoly/config/signing.json",
   "android_home": "/srv/idoly/android-sdk",
   "java_home": "/usr/lib/jvm/java-17-openjdk-amd64",
-  "app_version": "6.0.2",
+  "app_version": "6.0.3",
   "initialize_collector_day": false
 }
 ```

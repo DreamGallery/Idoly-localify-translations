@@ -91,7 +91,7 @@ def configure(root: Path, toolkit: Path, encoded: str):
     value.update(work_dir=str(root/'cache/release'),toolkit_config=str(config/'toolkit.ini'),
         octo_settings=str(config/'octo-settings.json'),firebase_settings=str(config/'firebase-settings.json'),
         notice_account=str(config/'collector-account.json'),font_bundle=str(font),
-        signing_env_file=str(config/'signing.json'),app_version='6.0.2',initialize_collector_day=True)
+        signing_env_file=str(config/'signing.json'),app_version='6.0.3',initialize_collector_day=True)
     path = config / 'runner.json'
     write_private(path,json_bytes(value),preserve=True)
     return path, installation

@@ -95,6 +95,14 @@ jobs:
           repository: DreamGallery/Hoshimi-Adv
           path: Hoshimi-Adv
           persist-credentials: false
+      - name: Resolve game version from Google Play
+        id: game_version
+        env:
+          IDOLY_APP_VERSION: ${{ vars.IDOLY_APP_VERSION || 'auto' }}
+        run: |
+          version="$(python3 HoshimiToolkit/app_version.py --override "$IDOLY_APP_VERSION")"
+          printf 'version=%s\n' "$version" >> "$GITHUB_OUTPUT"
+          printf 'Game client version: %s\n' "$version"
       - name: Check translation data files
         run: python3 translations-main/scripts/check_release_data.py collaboration-data
       - name: Verify bundled runtime images
@@ -115,12 +123,14 @@ jobs:
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
           DRY_RUN: ${{ inputs.dry_run || false }}
           NO_TRANSLATE: ${{ inputs.no_translate || false }}
+          GAME_APP_VERSION: ${{ steps.game_version.outputs.version }}
         run: |
           set -euo pipefail
           flags=()
           [[ "$DRY_RUN" == true ]] && flags+=(--dry-run)
           [[ "$NO_TRANSLATE" == true ]] && flags+=(--no-translate)
           python3 Idoly-localify/tools/release_translations.py --config "$IDOLY_RUNNER_CONFIG" \
+            --app-version "$GAME_APP_VERSION" \
             --repository "$GITHUB_REPOSITORY" \
             --repository-dir "$GITHUB_WORKSPACE/translations-main" \
             --collaboration-dir "$GITHUB_WORKSPACE/collaboration-data" \
