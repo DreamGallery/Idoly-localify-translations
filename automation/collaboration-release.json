@@ -1,7 +1,7 @@
 {
   "assets": {
-    "manifest.json": "dc42ed745170cae4cd838e61fc8482d33b24299ededd50357e6fad64bbadbc92",
-    "text-update.zip": "1a2d40cf8f774d4155a5ec0391c978f79d7cab981e7ff8351b2f94872372ff24"
+    "manifest.json": "e8eab818af411dc3d582e45c07e7ae6c9890bd607cf383215d1e551dedf150d4",
+    "text-update.zip": "b2c273ac6354e8c2244d579693c4b238d92ad169c76e4f84fed174813d166722"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -3342,9 +3342,9 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "330526204899fd139cffb46b55e218c5639bff54fd3a285a9aed87c58fc16e84"
   },
-  "content_version": "e8009c63ec44e57f",
+  "content_version": "bca5d6148a597393",
   "cutoff": "10cc690e1a4eeb6055e2f5b53bcab8942a158e75",
-  "main_parent": "2c4dff3c49c584c34ba7357bc0c8c9c10db37b4c",
+  "main_parent": "a0a7acfd39994fe6ae615e84dde203103b000c09",
   "plugin_asset": null,
   "plugin_version": "0.4.1",
   "published_data": {
@@ -3535,9 +3535,9 @@
     "master/zh-Hans/Telephone.json": "206aef3d5c9644205e9cdbc06f9d77751d86b242a2cf4dce182b47afa54523f5",
     "master/zh-Hans/Tutorial.json": "a4b2b4ed60947c2c6582598954ebbbe6e47591f4509a7335bcfc065d93fc88dd",
     "master/zh-Hans/Wording.json": "364576376f92b6b8fbd96f99c03e9925998bf8d623dcb7cea37de762e7656742",
-    "notice/source.json": "d12fd00d29f7921d66f2180553b4126c11c69f2977984b1cde1d7f962acdce00",
+    "notice/source.json": "3a1716791db80930f0a8f97b0b99b2a9668d85c2915a59126f5b0168c9f05440",
     "notice/title-resolutions.json": "349413683f39400f82fe1946a95599d38c437e3b2a411bcab9ec7c5e4fb0c5ec",
-    "notice/zh-Hans.json": "54a05014fb85613f09acdc61385626f5c402ddd49378a7a75b3bbcdf4950e36f",
+    "notice/zh-Hans.json": "130c7c2aea70a407a54ee79f0955bed6e94d2610933ec42d95555760af621d8e",
     "records/adv_card_ngs_15_01.json": "df80bf8153eeabd05f0703ffb70e69ae54c4103a8b6c268e77b76caf66a9a25d",
     "records/adv_card_ngs_15_02.json": "2d40dc7a2e21fc2d69961128682e848a425b5aa1b1cb018a0a685563cb54a22c",
     "records/adv_card_ngs_15_03.json": "b6fc9015fe26c53b50252bff7be1cc76ea00eb283a21815d2c162670ab22d614",
@@ -6687,5 +6687,5 @@
     "upstream.json": "ab7031af40a7e92c7e9389a0dcd658260a2474923557f8e5810ab53cf666ad5f"
   },
   "schema_version": 1,
-  "text_version": "98e76abc0f4dba1e"
+  "text_version": "0b051efeb83426c0"
 }
