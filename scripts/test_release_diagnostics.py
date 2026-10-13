@@ -23,3 +23,11 @@ class DiagnosticTests(unittest.TestCase):
                                             'collector__InactiveRpcError': 1,
                                             'collector_locked': 1})
         self.assertNotIn('private', json.dumps(result))
+
+    def test_official_rpc_codes_are_reported_without_free_form_values(self):
+        result = classify('Notice collection stopped: Official RPC failed '
+                          '(status FAILED_PRECONDITION, application codes 1001,1002)\n'
+                          'Official RPC failed (status private-status, application codes private-token)\n')
+        self.assertEqual(result['signals'], {'official_rpc_FAILED_PRECONDITION': 1,
+                                            'official_app_1001': 1, 'official_app_1002': 1})
+        self.assertNotIn('private', json.dumps(result))

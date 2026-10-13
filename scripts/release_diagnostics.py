@@ -52,6 +52,14 @@ def classify(text):
         r'ValueError|RuntimeError|TimeoutError|TypeError|KeyError|FileNotFoundError|'
         r'PermissionError|ModuleNotFoundError|JSONDecodeError)\);', text)
     counts.update({'collector_' + key: value for key, value in Counter(collector_errors).items()})
+    rpc_errors = re.findall(
+        r'Official RPC failed \(status (OK|CANCELLED|UNKNOWN|INVALID_ARGUMENT|'
+        r'DEADLINE_EXCEEDED|NOT_FOUND|ALREADY_EXISTS|PERMISSION_DENIED|RESOURCE_EXHAUSTED|'
+        r'FAILED_PRECONDITION|ABORTED|OUT_OF_RANGE|UNIMPLEMENTED|INTERNAL|UNAVAILABLE|'
+        r'DATA_LOSS|UNAUTHENTICATED), application codes (none|[0-9]{1,5}(?:,[0-9]{1,5})*)\)', text)
+    counts.update(Counter('official_rpc_' + status for status, _ in rpc_errors))
+    counts.update(Counter('official_app_' + code for _, codes in rpc_errors
+                          for code in codes.split(',') if code != 'none'))
     batches = re.findall(r'Notice batch failed \((ValueError|RuntimeError|TimeoutError|TypeError|KeyError)\)', text)
     counts.update({'batch_' + key: value for key, value in Counter(batches).items()})
     summary = re.findall(r'Notice: (\d+) new strings, (\d+) JSON values updated, (\d+)', text)
