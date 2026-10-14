@@ -1,11 +1,10 @@
 {
   "assets": {
-    "card-stories.json": "dc56fd5527603b03b22a39157bd1d47ce5729995c7c72e3ece51fba181053f4d",
+    "card-stories.json": "474cbb40b71471541add569aad9a71f9d4374254dbcb51b608c0ca9d37c3cf60",
     "event-stories.json": "530b9a73b53abe1fe703c8ac2c80ce50a33dae82a64f16065a3e3024d2ed7ed7",
-    "idoly-localify-0.4.2.apk": "2cad27d993c2127e61acd325a004c762a38698442670e3fcf08e730908888830",
     "love-stories.json": "a837a0aba7146b79d5d39b489aba4716af862916ce47b5b8c854fa4eb7c0ae15",
-    "manifest.json": "396c07bd29677fe29c6084a1c4be5854bb3f79af11098d442eb973d5985e2211",
-    "text-update.zip": "7b62db9983a0987720d0f2b3d0b09bfb618561a895bf9c9ad6e7833ad5378275"
+    "manifest.json": "662ea8dfe529a0fd647dffdb87ff9e21d1c06e9387b4f3a61661e91a9b116d93",
+    "text-update.zip": "de2bf28736484a734d6a5d2e0fa153c5953396b617d2eab5ae995a408e141b48"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -210,7 +209,9 @@
     "records/adv_card_szk_14_01.json": "010d26843a745f916c8565b4c927254272a1bab196b1252eab638bd07db6ce8a",
     "records/adv_card_szk_14_02.json": "77cabae624ec65bc58de8b9f166267c242bff79ef8ae7995496364c768990d4a",
     "records/adv_card_szk_14_03.json": "a83b7878917de814cb30569ad47574da009c03b4ab2d38e501442cbf253edd0e",
-    "records/adv_card_szk_54_01.json": "27948932ee8d5b0840c8e5716892f8922477ecbc820f3e9dc708fe6fcdde46e8",
+    "records/adv_card_szk_54_01.json": "c3794feb9d76824655569dcba5e7d08647aed8e8df1a9370568e1921eac2c3ec",
+    "records/adv_card_szk_54_02.json": "4c622971aab3a4abec88cebe7c964633ee904005120442f68d2f44c4b87c2c18",
+    "records/adv_card_szk_54_03.json": "293804348af0e79652d82d5f021a54ea7074f6502eb0d9a7a567bcda578ea284",
     "records/adv_love_2603_01_01.json": "6067aa315b0866ddbe464b7af5e0df2d4cad9515c3a066a0b03a5111db427334",
     "records/adv_love_2603_02_01.json": "f93046a2bc1ad7d33dfbc3286d435641bf6a6978f1d9f9ba6fae0d2401e48b27",
     "records/adv_love_2603_03_01.json": "5eadb1ebc989d51089b31d0b83263c3606dd3d08f6793478324ebe31ec62e9be",
@@ -3323,6 +3324,8 @@
     "story/human/card/szk/14/adv_card_szk_14_02.csv": "aa02fba622b3ea3b2840e1ef9e961511ecd997a1c2d517a9eb835f36e0c45d66",
     "story/human/card/szk/14/adv_card_szk_14_03.csv": "44922746b71e026e1fdd9997ec09a2ba4f51aa852cb2d87b81b391bc639c53b5",
     "story/human/card/szk/54/adv_card_szk_54_01.csv": "7d22815f4ee702de5aec53d94b8ff3c9dd5d9608b22e151fbfed099cd0fcdd28",
+    "story/human/card/szk/54/adv_card_szk_54_02.csv": "61268a2d0a1b4e9ee8f2dfccbd244040fe1c434f7f21351a8370c2cefc65e2d7",
+    "story/human/card/szk/54/adv_card_szk_54_03.csv": "3201f1e9d77ca08b3e4a2c17243020d2a779d02de40d1a7acc72268bafb6703f",
     "story/human/love/2603/01/adv_love_2603_01_01.csv": "33c0f9b36a58dfb351e00b780e4a02dc369f566e2ab00196d91e911ea02ba939",
     "story/human/love/2603/02/adv_love_2603_02_01.csv": "e899a7552becfbf8517712d7cc83cfd74a24195ca881b86b770c715674be311c",
     "story/human/love/2603/03/adv_love_2603_03_01.csv": "a47c7fc81810e4bd2437199b48ae073ec23e71772d6c07a92dd39335cf49771c",
@@ -3345,7 +3348,9 @@
     "story/reviewed/card/szk/14/adv_card_szk_14_01.csv": "fa01a29bc3f19010177c37bd8716508ea22e2df91e2df9ceb61aa35e00cfd9ad",
     "story/reviewed/card/szk/14/adv_card_szk_14_02.csv": "31af525af2469c38cfa20a5acdcf73d44fafcc4337ec332c03a9c0d140678f63",
     "story/reviewed/card/szk/14/adv_card_szk_14_03.csv": "a91a4fe430dcb0eb4589765776f84ab5ecb8efab4cf7758cd0923b3b0edf5d00",
-    "story/reviewed/card/szk/54/adv_card_szk_54_01.csv": "26b10a71ffa86672f4ff50b319d525569fe1eced3fd34fb2f46ac899cf0d05d4",
+    "story/reviewed/card/szk/54/adv_card_szk_54_01.csv": "dff3740ce89a5ec9990a472627d7fa99c69e993e047b46bb0f78555e78272172",
+    "story/reviewed/card/szk/54/adv_card_szk_54_02.csv": "61578f2f830cb9fd99bb2a3f50c1f0996224a6abaa768a97d37d6651ca5088ea",
+    "story/reviewed/card/szk/54/adv_card_szk_54_03.csv": "d6508d8bfa50ce32f957b5001c902cbc186142b5e988a56d45b3387c06647863",
     "story/reviewed/love/2603/01/adv_love_2603_01_01.csv": "c6fe70ba25b3746055e14a6f259ab44ea13593a4c92a13af32a50318d741e0cf",
     "story/reviewed/love/2603/02/adv_love_2603_02_01.csv": "920f75353b918351987e0605fdfb2f9a3daa92f36edf3583be0303f53cb96945",
     "story/reviewed/love/2603/03/adv_love_2603_03_01.csv": "4c6633fc02b24a10cf6f84647dda92213b10ccd512df7d575cb4da72c5af6a2f",
@@ -3361,10 +3366,10 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "39f807eacc8fe02181fd103c0951a97f7550d4a036d880a91e5d17be6792b4b6"
   },
-  "content_version": "beed0f76d931593a",
-  "cutoff": "b32a8fe4e2e81cce3bbe1508a9291c6b3eaa4d95",
-  "main_parent": "1a82b588a8ce810a3da3010ad60f936052ed0885",
-  "plugin_asset": "idoly-localify-0.4.2.apk",
+  "content_version": "591de6faf264fa7e",
+  "cutoff": "65c6c9ac1cdfd8b7093605b0bf76fb761bb1f23c",
+  "main_parent": "0c489115377cddd761d8efea82aa92f54cfc733f",
+  "plugin_asset": null,
   "plugin_version": "0.4.2",
   "published_data": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -3569,7 +3574,9 @@
     "records/adv_card_szk_14_01.json": "010d26843a745f916c8565b4c927254272a1bab196b1252eab638bd07db6ce8a",
     "records/adv_card_szk_14_02.json": "77cabae624ec65bc58de8b9f166267c242bff79ef8ae7995496364c768990d4a",
     "records/adv_card_szk_14_03.json": "a83b7878917de814cb30569ad47574da009c03b4ab2d38e501442cbf253edd0e",
-    "records/adv_card_szk_54_01.json": "27948932ee8d5b0840c8e5716892f8922477ecbc820f3e9dc708fe6fcdde46e8",
+    "records/adv_card_szk_54_01.json": "c3794feb9d76824655569dcba5e7d08647aed8e8df1a9370568e1921eac2c3ec",
+    "records/adv_card_szk_54_02.json": "4c622971aab3a4abec88cebe7c964633ee904005120442f68d2f44c4b87c2c18",
+    "records/adv_card_szk_54_03.json": "293804348af0e79652d82d5f021a54ea7074f6502eb0d9a7a567bcda578ea284",
     "records/adv_love_2603_01_01.json": "6067aa315b0866ddbe464b7af5e0df2d4cad9515c3a066a0b03a5111db427334",
     "records/adv_love_2603_02_01.json": "f93046a2bc1ad7d33dfbc3286d435641bf6a6978f1d9f9ba6fae0d2401e48b27",
     "records/adv_love_2603_03_01.json": "5eadb1ebc989d51089b31d0b83263c3606dd3d08f6793478324ebe31ec62e9be",
@@ -6682,6 +6689,8 @@
     "story/human/card/szk/14/adv_card_szk_14_02.csv": "aa02fba622b3ea3b2840e1ef9e961511ecd997a1c2d517a9eb835f36e0c45d66",
     "story/human/card/szk/14/adv_card_szk_14_03.csv": "44922746b71e026e1fdd9997ec09a2ba4f51aa852cb2d87b81b391bc639c53b5",
     "story/human/card/szk/54/adv_card_szk_54_01.csv": "f3c40048ff0e98723f8dd22bd32d8aa12ba9e503c379c99f4319710f126ec0c2",
+    "story/human/card/szk/54/adv_card_szk_54_02.csv": "b02379559e678a5322876ea4c3aa99477d0a4c25f6d94a114e992bf06728efcb",
+    "story/human/card/szk/54/adv_card_szk_54_03.csv": "a8b48b9423e5180c9ec1cbd60b75b312b74910516085840411ab1f1c366d6dc2",
     "story/human/love/2603/01/adv_love_2603_01_01.csv": "33c0f9b36a58dfb351e00b780e4a02dc369f566e2ab00196d91e911ea02ba939",
     "story/human/love/2603/02/adv_love_2603_02_01.csv": "e899a7552becfbf8517712d7cc83cfd74a24195ca881b86b770c715674be311c",
     "story/human/love/2603/03/adv_love_2603_03_01.csv": "a47c7fc81810e4bd2437199b48ae073ec23e71772d6c07a92dd39335cf49771c",
@@ -6704,7 +6713,9 @@
     "story/reviewed/card/szk/14/adv_card_szk_14_01.csv": "fa01a29bc3f19010177c37bd8716508ea22e2df91e2df9ceb61aa35e00cfd9ad",
     "story/reviewed/card/szk/14/adv_card_szk_14_02.csv": "31af525af2469c38cfa20a5acdcf73d44fafcc4337ec332c03a9c0d140678f63",
     "story/reviewed/card/szk/14/adv_card_szk_14_03.csv": "a91a4fe430dcb0eb4589765776f84ab5ecb8efab4cf7758cd0923b3b0edf5d00",
-    "story/reviewed/card/szk/54/adv_card_szk_54_01.csv": "cb6813eed4913e095030a72f9f1526440988e9933bbe50dfb5639199b9b067ce",
+    "story/reviewed/card/szk/54/adv_card_szk_54_01.csv": "df70712807c584db51b19cc92332f5139bccf3cd1e05943d6224050736572d3d",
+    "story/reviewed/card/szk/54/adv_card_szk_54_02.csv": "acdfe5c23aaa6c29027a712ef27e33c51adfbfc0cc2c61239463232c25423306",
+    "story/reviewed/card/szk/54/adv_card_szk_54_03.csv": "c4c4ab638a84933bd8709ead755955d52f2e18873e9b6f29eb64a8e55d74c77b",
     "story/reviewed/love/2603/01/adv_love_2603_01_01.csv": "c6fe70ba25b3746055e14a6f259ab44ea13593a4c92a13af32a50318d741e0cf",
     "story/reviewed/love/2603/02/adv_love_2603_02_01.csv": "920f75353b918351987e0605fdfb2f9a3daa92f36edf3583be0303f53cb96945",
     "story/reviewed/love/2603/03/adv_love_2603_03_01.csv": "4c6633fc02b24a10cf6f84647dda92213b10ccd512df7d575cb4da72c5af6a2f",
@@ -6721,5 +6732,5 @@
     "upstream.json": "1e663942a9947c7f567fb09a5c7991f9f694ec43149d23624e8fca2f435adfee"
   },
   "schema_version": 1,
-  "text_version": "639b80f052296a79"
+  "text_version": "ddb30564261f79ec"
 }
