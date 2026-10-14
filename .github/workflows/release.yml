@@ -139,6 +139,11 @@ jobs:
             --toolkit-dir "$GITHUB_WORKSPACE/HoshimiToolkit" \
             --translator-dir "$GITHUB_WORKSPACE/Hoshimi_Teleprompter" \
             "${flags[@]}"
+      - name: Fill published machine translations into collaboration
+        if: ${{ !inputs.dry_run }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 translations-main/scripts/sync_machine_translations.py --repository-dir translations-main --apply
       - name: Trigger patcher for the published plugin
         if: ${{ always() && steps.publish.outputs.plugin_tag != '' && !inputs.dry_run }}
         env:

@@ -34,8 +34,9 @@ def safe(root, path):
     return path
 
 
-def read_csv(path):
-    with path.open(encoding='utf-8-sig', newline='') as stream:
+def parse_csv(data, filename):
+    path = Path(filename)
+    with io.StringIO(data.decode('utf-8-sig'), newline='') as stream:
         reader = csv.DictReader(stream, strict=True)
         if reader.fieldnames != COLUMNS:
             raise ValueError(f'Invalid CSV columns: {path.name}')
@@ -49,6 +50,10 @@ def read_csv(path):
     if rows[-2]['name'] != path.stem + '.txt' or not STEM.fullmatch(path.stem) or not HASH.fullmatch(rows[-2]['text']):
         raise ValueError(f'Invalid source metadata: {path.name}')
     return rows
+
+
+def read_csv(path):
+    return parse_csv(path.read_bytes(), path.name)
 
 
 def encode_csv(rows):

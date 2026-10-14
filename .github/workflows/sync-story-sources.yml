@@ -57,3 +57,7 @@ jobs:
             options+=(--skip-tasks)
           fi
           python3 trusted/scripts/sync_story_sources.py --source-repo source --data-dir translations --branch collaboration "${options[@]}" --apply
+      - name: Fill available published machine translations
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 trusted/scripts/sync_machine_translations.py --repository-dir trusted --apply
