@@ -8,24 +8,28 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
-    "draft_revision": 8
+    "revision": 1,
+    "draft_revision": 0,
+    "state": "完成",
+    "operator_github": "sky-yixuan",
+    "display_id": "sky-yixuan",
+    "display_source": "github",
+    "timestamp": "2026-10-14T13:51:09Z"
   },
   "proofread": {
     "revision": 0,
     "draft_revision": 0
   },
   "artifacts": {
-    "translation_draft": {
-      "path": "story/drafts/translation/card/szk/54/adv_card_szk_54_01.csv",
+    "translation_csv": {
+      "path": "story/human/card/szk/54/adv_card_szk_54_01.csv",
       "operator_github": "sky-yixuan",
       "display_id": "sky-yixuan",
       "display_source": "github",
-      "based_on_revision": 0,
-      "timestamp": "2026-10-14T13:50:59Z"
+      "timestamp": "2026-10-14T13:51:09Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-14T13:50:59Z"
+    "updated_at": "2026-10-14T13:51:09Z"
   }
 }
