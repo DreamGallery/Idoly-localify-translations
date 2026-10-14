@@ -2089,6 +2089,11 @@
     "howToGet": "「逢0之日是IDOLY PRIDE之日」限定礼物",
     "name": "免费10连扭蛋券"
   },
+  "item-gacha-free-ticket-1s-26-1020": {
+    "description": "可抽取1次10连扭蛋券扭蛋",
+    "howToGet": "「逢0之日是IDOLY PRIDE之日」限定礼物",
+    "name": "免费10连扭蛋券"
+  },
   "item-gacha-free-valentine-ticket-10s-25-0214": {
     "description": "可抽取1次SUNNY PEACE的礼物10连扭蛋券扭蛋",
     "howToGet": "来自SUNNY PEACE的礼物",
@@ -2583,6 +2588,11 @@
     "description": "可在生日徽章兑换所兑换徽章\n使用期限结束后将转换为代币\n对象扭蛋：「麻奈生日扭蛋2026」等",
     "howToGet": "扭蛋",
     "name": "生日徽章奖牌"
+  },
+  "item-gacha_medal-buttonbadge-birthday-26-1015": {
+    "howToGet": "扭蛋",
+    "name": "生日徽章奖牌",
+    "description": "可在生日徽章奖牌兑换所用徽章进行兑换\n使用期限结束后将转换为代币\n对象扭蛋：「雫生日扭蛋2026」等"
   },
   "item-gacha_medal-buttonbadge-fs-set-bloom-24-0626": {
     "description": "可在限定徽章奖牌兑换所兑换徽章\n使用期限结束后将转换为代币\n対象扭蛋：「IDOLY PRIDE FES The MOON Ⅰ」等",
@@ -3130,6 +3140,10 @@
   "item-gacha_point-birthday-26-1009": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
     "name": "麻奈生日扭蛋2026Pt"
+  },
+  "item-gacha_point-birthday-26-1015": {
+    "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
+    "name": "雫生日扭蛋2026Pt"
   },
   "item-gacha_point-excursion-01-26-0731": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
@@ -4838,6 +4852,10 @@
   "item-gacha_point-select-01-26-0928": {
     "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
     "name": "可选★5视觉扭蛋Pt"
+  },
+  "item-gacha_point-select-01-26-1015": {
+    "description": "可在对应扭蛋页面的「扭蛋Pt」中\n消耗扭蛋Pt获得偶像",
+    "name": "【复刻】可选雫生日扭蛋Pt"
   },
   "item-gacha_ticket": {
     "description": "有效期：获得后180天\n可抽取扭蛋",

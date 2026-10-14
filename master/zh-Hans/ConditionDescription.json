@@ -1421,6 +1421,9 @@
   "cd-birthday_emblem_szk-25-1015": {
     "description": "迎来雫的生日"
   },
+  "cd-birthday_emblem_szk-26-1015": {
+    "description": "迎来雫的生日"
+  },
   "cd-birthday_emblem_yu-23-0227": {
     "description": "迎来优的生日"
   },
@@ -1746,6 +1749,9 @@
     "description": "迎来雫的生日"
   },
   "cd-birthday_szk-25-1015": {
+    "description": "迎来雫的生日"
+  },
+  "cd-birthday_szk-26-1015": {
     "description": "迎来雫的生日"
   },
   "cd-birthday_yu-0227": {
@@ -4966,6 +4972,9 @@
   },
   "cd-date-event-love-26-1010-s-banner": {
     "description": "若恋复刻_S横幅"
+  },
+  "cd-date-event-love-26-1019-banner": {
+    "description": "大家来做横幅_复刻"
   },
   "cd-date-event-mission-love-23-0514-limited": {
     "description": "若恋限定任务"
@@ -24000,6 +24009,9 @@
     "description": "迎来雫的生日"
   },
   "cd-ex-story-part-birthday-szk-25-1015-open": {
+    "description": "迎来雫的生日"
+  },
+  "cd-ex-story-part-birthday-szk-26-1015-open": {
     "description": "迎来雫的生日"
   },
   "cd-ex-story-part-birthday-yu-23-0227-open": {
@@ -48188,6 +48200,15 @@
   "cd-shop-pack-26-1009-1016-dokan": {
     "description": "【超值】麻奈生日商店"
   },
+  "cd-shop-pack-26-1015": {
+    "description": "【公告】雫生日商店"
+  },
+  "cd-shop-pack-26-1015-1022": {
+    "description": "雫生日商店"
+  },
+  "cd-shop-pack-26-1015-1022-dokan": {
+    "description": "【超值】雫生日商店"
+  },
   "cd-shop-pack1-23-0809": {
     "description": "【公告】上线777天纪念商店"
   },
@@ -52099,6 +52120,15 @@
   },
   "cd-special-shop-pack-26-1009-1016-dokan": {
     "description": "【爆】麻奈生日特别商店"
+  },
+  "cd-special-shop-pack-26-1015": {
+    "description": "【公告】雫生日特别商店"
+  },
+  "cd-special-shop-pack-26-1015-1022": {
+    "description": "雫生日特别商店"
+  },
+  "cd-special-shop-pack-26-1015-1022-dokan": {
+    "description": "【爆】雫生日特别商店"
   },
   "cd-special-shop-pack2-0831-0917-02": {
     "description": "暖阳下的假日Ⅰ･Ⅱ1人★5确定10连扭蛋券商店"
@@ -60428,6 +60458,9 @@
   "cd-time-gacha-birthday-hair-26-1009": {
     "description": "套装发型"
   },
+  "cd-time-gacha-birthday-hair-26-1015": {
+    "description": "套装发型"
+  },
   "cd-time-gacha-continuous-22-0624": {
     "description": "无限抽卡显示条件"
   },
@@ -62861,6 +62894,15 @@
   "cd-time-gacha-fixed-26-1009-banner-end": {
     "description": "横幅期间结束条件：期间：★5偶像1人确定精选扭蛋"
   },
+  "cd-time-gacha-fixed-26-1015": {
+    "description": "期间：★5偶像1人确定精选扭蛋"
+  },
+  "cd-time-gacha-fixed-26-1015-banner": {
+    "description": "横幅期间：期间：★5偶像1人确定精选扭蛋"
+  },
+  "cd-time-gacha-fixed-26-1015-banner-end": {
+    "description": "横幅期间结束条件：期间：★5偶像1人确定精选扭蛋"
+  },
   "cd-time-gacha-fixed-selection-01-26-0618": {
     "description": "期间：复刻生日全明星1人★5确定扭蛋"
   },
@@ -64494,6 +64536,9 @@
     "description": "免费扭蛋券"
   },
   "cd-time-gacha-free-ticket-1s-26-1010": {
+    "description": "免费扭蛋券"
+  },
+  "cd-time-gacha-free-ticket-1s-26-1020": {
     "description": "免费扭蛋券"
   },
   "cd-time-gacha-fs-select-22-0628": {
@@ -72050,6 +72095,9 @@
   "cd-time-market-discount-day-26-1010": {
     "description": "逢10之日"
   },
+  "cd-time-market-discount-day-26-1020": {
+    "description": "逢10之日"
+  },
   "cd-time-market-phase-001-close": {
     "description": "市场关闭"
   },
@@ -76564,5 +76612,17 @@
   },
   "ms-limited-login-ex-tower-005-sp-26-0503-003-login": {
     "description": "三丽鸥角色联动举办纪念EX塔003对象"
+  },
+  "cd-time-gacha-birthday-26-1015": {
+    "description": "期间：雫生日扭蛋2026"
+  },
+  "cd-time-gacha-birthday-26-1015-banner": {
+    "description": "期间：雫生日扭蛋2026_横幅"
+  },
+  "cd-time-gacha-select-birthday-01-26-1015": {
+    "description": "期间：【复刻】可选雫生日扭蛋"
+  },
+  "cd-time-medal-buttonbadge-birthday-26-1015": {
+    "description": "期间：雫生日扭蛋2026徽章交换"
   }
 }

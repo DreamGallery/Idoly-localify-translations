@@ -5515,6 +5515,10 @@
     "description": "对自身赋予6阶段集目效果[21拍]",
     "name": "赋予自身集目效果"
   },
+  "ef-audience_amount_increase-6-target-self-22": {
+    "name": "赋予自身集目效果",
+    "description": "自身获得6阶段集目效果[22拍]"
+  },
   "ef-audience_amount_increase-6-target-self-24": {
     "description": "对自身赋予6阶段集目效果[24拍]",
     "name": "赋予自身集目效果"
@@ -19103,6 +19107,10 @@
     "description": "为自身附加6阶段舞蹈提升效果[20拍]",
     "name": "自身舞蹈提升效果"
   },
+  "ef-dance_up-6-target-self-22": {
+    "name": "自身舞蹈提升效果",
+    "description": "自身获得6阶段舞蹈提升效果[22拍]"
+  },
   "ef-dance_up-6-target-self-23": {
     "description": "为自身附加6阶段舞蹈提升效果[23拍]",
     "name": "自身舞蹈提升效果"
@@ -21575,9 +21583,17 @@
     "description": "自身获得5阶段集目上升上限解放效果[21拍]",
     "name": "自身集目上升上限解放"
   },
+  "ef-limit_break_audience_amount_increase-5-target-self-22": {
+    "name": "自身集目上升上限解放",
+    "description": "自身获得5阶段集目提升上限解放效果[22拍]"
+  },
   "ef-limit_break_audience_amount_increase-5-target-self-24": {
     "description": "自身获得5阶段集目上升上限解放效果[24拍]",
     "name": "自身集目上升上限解放"
+  },
+  "ef-limit_break_audience_amount_increase-5-target-self-26": {
+    "name": "自身集目上升上限解放",
+    "description": "自身获得5阶段集目提升上限解放效果[26拍]"
   },
   "ef-limit_break_audience_amount_increase-5-target-self-27": {
     "description": "自身获得5阶段集目上升上限解放效果[27拍]",
@@ -21591,6 +21607,10 @@
     "description": "自身获得5阶段集目上升上限解放效果[33拍]",
     "name": "自身集目上升上限解放"
   },
+  "ef-limit_break_audience_amount_increase-5-target-self-34": {
+    "name": "自身集目上升上限解放",
+    "description": "自身获得5阶段集目提升上限解放效果[34拍]"
+  },
   "ef-limit_break_audience_amount_increase-5-target-self-36": {
     "description": "自身获得5阶段集目上升上限解放效果[36拍]",
     "name": "自身集目上升上限解放"
@@ -21598,6 +21618,10 @@
   "ef-limit_break_audience_amount_increase-5-target-self-37": {
     "description": "自身获得5阶段集目上升上限解放效果[37拍]",
     "name": "自身集目上升上限解放"
+  },
+  "ef-limit_break_audience_amount_increase-5-target-self-39": {
+    "name": "自身集目上升上限解放",
+    "description": "自身获得5阶段集目提升上限解放效果[39拍]"
   },
   "ef-limit_break_audience_amount_increase-5-target-self-42": {
     "description": "自身获得5阶段集目上升上限解放效果[42拍]",

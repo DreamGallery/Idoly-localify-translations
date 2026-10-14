@@ -509,6 +509,14 @@
     "branchFirstText": "今日は雫の誕生日だな\n何をプレゼントしよう？",
     "name": "兵藤雫 誕生日2025"
   },
+  "st-birthday-branch-szk-26-1015": {
+    "branchCautionText": "後で再度選択可能です",
+    "branchChoices[0].text": "手作りのルアー",
+    "branchChoices[1].text": "手作りのぬいぐるみ",
+    "branchChoices[2].text": "三枝さんの足のサイズ情報",
+    "branchFirstText": "今日は雫の誕生日だな\n何をプレゼントしよう？",
+    "name": "兵藤雫 誕生日2026"
+  },
   "st-birthday-branch-yu-24-0227": {
     "branchCautionText": "後で再度選択可能です",
     "branchChoices[0].text": "高級お鍋出汁",
@@ -3661,6 +3669,15 @@
   },
   "st-card-szk-05-birt-02-03": {
     "name": "自慢\nしちゃおう\nかな"
+  },
+  "st-card-szk-05-birt-03-01": {
+    "name": "兵藤雫の\nサニピマニア"
+  },
+  "st-card-szk-05-birt-03-02": {
+    "name": "ただし\nメン限で"
+  },
+  "st-card-szk-05-birt-03-03": {
+    "name": "ずっと\n一緒だから"
   },
   "st-card-szk-05-casl-04-01": {
     "name": "一緒に釣りを\nする……！"

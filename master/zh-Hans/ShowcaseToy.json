@@ -303,6 +303,10 @@
     "description": "兵藤雫的大徽章。",
     "name": "大徽章 兵藤雫"
   },
+  "toy-goods-bigbuttonbadge_char-szk-birthday-2026": {
+    "description": "兵藤雫的大徽章。",
+    "name": "大徽章 兵藤雫"
+  },
   "toy-goods-bigbuttonbadge_char-yu-birthday-2025": {
     "description": "铃村优的大徽章。",
     "name": "大徽章 铃村优"
@@ -950,6 +954,10 @@
   "toy-goods-buttonbadge_card-szk-05-birt-02": {
     "description": "兵藤雫的徽章。",
     "name": "徽章 兵藤雫「wonderful day for 雫」"
+  },
+  "toy-goods-buttonbadge_card-szk-05-birt-03": {
+    "description": "兵藤雫的徽章。",
+    "name": "徽章 兵藤雫「dear precious 雫」"
   },
   "toy-goods-buttonbadge_card-szk-05-casl-04": {
     "description": "兵藤雫的徽章。",
@@ -2167,6 +2175,10 @@
     "description": "兵藤雫的卡牌立架。",
     "name": "卡牌立牌 兵藤雫「wonderful day for 雫」"
   },
+  "toy-goods-chracrylicbord_card-szk-05-birt-03": {
+    "description": "兵藤雫的卡牌立架。",
+    "name": "卡座 兵藤雫「dear precious 雫」"
+  },
   "toy-goods-chracrylicbord_card-szk-05-casl-04": {
     "description": "兵藤雫的卡牌立架。",
     "name": "卡牌立牌 兵藤雫「海风与回忆的假日」"
@@ -3143,6 +3155,10 @@
     "description": "兵藤雫的迷你角色立牌。",
     "name": "迷你角色立牌 兵藤雫「wonderful day for 雫」"
   },
+  "toy-goods-chracrylicsd_card-szk-05-birt-03": {
+    "description": "兵藤雫的迷你角色立牌。",
+    "name": "Q版立牌 兵藤雫「dear precious 雫」"
+  },
   "toy-goods-chracrylicsd_card-szk-05-casl-04": {
     "description": "兵藤雫的迷你角色立牌。",
     "name": "迷你角色立牌 兵藤雫「海风与回忆的假日」"
@@ -3659,6 +3675,10 @@
     "description": "兵藤雫的铭牌。",
     "name": "生日铭牌 兵藤雫"
   },
+  "toy-goods-nameplate_char-szk-birthday-2026": {
+    "description": "兵藤雫的铭牌。",
+    "name": "生日铭牌 兵藤雫"
+  },
   "toy-goods-nameplate_char-yu-01": {
     "description": "铃村优的铭牌。",
     "name": "铭牌 铃村优"
@@ -3828,6 +3848,10 @@
     "name": "挂毯 成宫铃"
   },
   "toy-goods-tapestry_char-szk-birthday-2025": {
+    "description": "兵藤雫的挂毯。",
+    "name": "挂毯 兵藤雫"
+  },
+  "toy-goods-tapestry_char-szk-birthday-2026": {
     "description": "兵藤雫的挂毯。",
     "name": "挂毯 兵藤雫"
   },

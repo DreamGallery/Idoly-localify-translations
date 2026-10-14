@@ -2177,6 +2177,11 @@
     "name": "wonderful day for 雫",
     "obtainMessage": "後でお姉ちゃんに、自慢しちゃおうかな"
   },
+  "card-szk-05-birt-03": {
+    "description": "みんなといると、\n楽しい思い出がどんどん増えていく\nみんな、いつも一緒にいてくれて、ありがとう",
+    "name": "dear precious 雫",
+    "obtainMessage": "みんなと過ごすこの時間が、\n最高のプレゼント"
+  },
   "card-szk-05-casl-04": {
     "description": "期待してて。\n今度は私が大物を釣り上げてみせるから\n誰も見たことのないような大物を……！",
     "name": "潮風と思い出の休日",

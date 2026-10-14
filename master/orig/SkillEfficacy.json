@@ -5515,6 +5515,10 @@
     "description": "自身に6段階の集目効果[21ビート]",
     "name": "自身に集目効果"
   },
+  "ef-audience_amount_increase-6-target-self-22": {
+    "description": "自身に6段階の集目効果[22ビート]",
+    "name": "自身に集目効果"
+  },
   "ef-audience_amount_increase-6-target-self-24": {
     "description": "自身に6段階の集目効果[24ビート]",
     "name": "自身に集目効果"
@@ -19103,6 +19107,10 @@
     "description": "自身に6段階ダンス上昇効果[20ビート]",
     "name": "自身にダンス上昇効果"
   },
+  "ef-dance_up-6-target-self-22": {
+    "description": "自身に6段階ダンス上昇効果[22ビート]",
+    "name": "自身にダンス上昇効果"
+  },
   "ef-dance_up-6-target-self-23": {
     "description": "自身に6段階ダンス上昇効果[23ビート]",
     "name": "自身にダンス上昇効果"
@@ -21575,8 +21583,16 @@
     "description": "自身に5段階集目上昇上限解放効果[21ビート]",
     "name": "自身に集目上昇上限解放"
   },
+  "ef-limit_break_audience_amount_increase-5-target-self-22": {
+    "description": "自身に5段階集目上昇上限解放効果[22ビート]",
+    "name": "自身に集目上昇上限解放"
+  },
   "ef-limit_break_audience_amount_increase-5-target-self-24": {
     "description": "自身に5段階集目上昇上限解放効果[24ビート]",
+    "name": "自身に集目上昇上限解放"
+  },
+  "ef-limit_break_audience_amount_increase-5-target-self-26": {
+    "description": "自身に5段階集目上昇上限解放効果[26ビート]",
     "name": "自身に集目上昇上限解放"
   },
   "ef-limit_break_audience_amount_increase-5-target-self-27": {
@@ -21591,12 +21607,20 @@
     "description": "自身に5段階集目上昇上限解放効果[33ビート]",
     "name": "自身に集目上昇上限解放"
   },
+  "ef-limit_break_audience_amount_increase-5-target-self-34": {
+    "description": "自身に5段階集目上昇上限解放効果[34ビート]",
+    "name": "自身に集目上昇上限解放"
+  },
   "ef-limit_break_audience_amount_increase-5-target-self-36": {
     "description": "自身に5段階集目上昇上限解放効果[36ビート]",
     "name": "自身に集目上昇上限解放"
   },
   "ef-limit_break_audience_amount_increase-5-target-self-37": {
     "description": "自身に5段階集目上昇上限解放効果[37ビート]",
+    "name": "自身に集目上昇上限解放"
+  },
+  "ef-limit_break_audience_amount_increase-5-target-self-39": {
+    "description": "自身に5段階集目上昇上限解放効果[39ビート]",
     "name": "自身に集目上昇上限解放"
   },
   "ef-limit_break_audience_amount_increase-5-target-self-42": {

@@ -487,6 +487,13 @@
     "description": "每日1次",
     "name": "1次扭蛋 - 有偿每日"
   },
+  "btn-01-gacha-birthday-26-1015": {
+    "name": "1次扭蛋 - 钻石"
+  },
+  "btn-01-gacha-birthday-26-1015-daily": {
+    "description": "每日1次",
+    "name": "1次扭蛋 - 有偿每日"
+  },
   "btn-01-gacha-continuous": {
     "name": "无限抽扭蛋 - 钻石"
   },
@@ -981,6 +988,10 @@
     "name": "10连券抽卡"
   },
   "btn-01-gacha-free-ticket-1s-26-1010": {
+    "description": "10连券抽卡",
+    "name": "10连券抽卡"
+  },
+  "btn-01-gacha-free-ticket-1s-26-1020": {
     "description": "10连券抽卡",
     "name": "10连券抽卡"
   },
@@ -4393,6 +4404,13 @@
     "description": "每日1次",
     "name": "1次扭蛋 - 券"
   },
+  "btn-01-gacha-select-birthday-01-26-1015": {
+    "name": "1次扭蛋 - 钻石"
+  },
+  "btn-01-gacha-select-birthday-01-26-1015-daily": {
+    "description": "每日1次",
+    "name": "1次扭蛋 - 券"
+  },
   "btn-1-gacha-fixed-24-0528-ticket": {
     "description": "限1次",
     "name": "确定名额"
@@ -4830,6 +4848,10 @@
     "name": "10连抽卡 - 钻石"
   },
   "btn-10-gacha-birthday-26-1009": {
+    "description": "1次超值!!",
+    "name": "10连抽卡 - 钻石"
+  },
+  "btn-10-gacha-birthday-26-1015": {
     "description": "1次超值!!",
     "name": "10连抽卡 - 钻石"
   },
@@ -5966,6 +5988,10 @@
     "name": "确定名额"
   },
   "btn-10-gacha-fixed-26-1009-total": {
+    "description": "【有偿】限1次★5偶像1人确定",
+    "name": "确定名额"
+  },
+  "btn-10-gacha-fixed-26-1015-total": {
     "description": "【有偿】限1次★5偶像1人确定",
     "name": "确定名额"
   },
@@ -10157,6 +10183,10 @@
     "description": "1次超值!!",
     "name": "10连抽卡 - 钻石"
   },
+  "btn-10-gacha-select-birthday-01-26-1015": {
+    "description": "1次超值!!",
+    "name": "10连抽卡 - 钻石"
+  },
   "btn-gacha-fixed-selection-26-0112": {
     "description": "【有偿】限1次★5偶像1人确定",
     "name": "确定名额"
@@ -10430,6 +10460,9 @@
     "name": "1次扭蛋 - 券"
   },
   "ticket-01-gacha-birthday-26-1009": {
+    "name": "1次扭蛋 - 券"
+  },
+  "ticket-01-gacha-birthday-26-1015": {
     "name": "1次扭蛋 - 券"
   },
   "ticket-01-gacha-excursion-01-26-0731": {
@@ -12554,6 +12587,9 @@
     "name": "1次扭蛋 - 券"
   },
   "ticket-01-gacha-select-birthday-01-26-0926": {
+    "name": "1次扭蛋 - 券"
+  },
+  "ticket-01-gacha-select-birthday-01-26-1015": {
     "name": "1次扭蛋 - 券"
   },
   "ticket-01-gacha-ticket-21-0624-01-r5": {

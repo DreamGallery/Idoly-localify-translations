@@ -3176,6 +3176,12 @@
   "hair-szk-hair-23": {
     "name": "生日帽"
   },
+  "hair-szk-hair-32": {
+    "name": "生日缎带"
+  },
+  "hair-szk-hair-33": {
+    "name": "圆框眼镜"
+  },
   "hair-szk-hair-40": {
     "name": "梦幻发箍"
   },
@@ -3439,5 +3445,11 @@
   },
   "hair-yuki-casl-00": {
     "name": "基础风格"
+  },
+  "hair-szk-hair-30": {
+    "name": "柔顺蓬松长狼尾"
+  },
+  "hair-szk-hair-31": {
+    "name": "少女风贝雷帽"
   }
 }

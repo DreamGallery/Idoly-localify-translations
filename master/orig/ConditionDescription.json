@@ -1421,6 +1421,9 @@
   "cd-birthday_emblem_szk-25-1015": {
     "description": "雫の誕生日を迎える"
   },
+  "cd-birthday_emblem_szk-26-1015": {
+    "description": "雫の誕生日を迎える"
+  },
   "cd-birthday_emblem_yu-23-0227": {
     "description": "優の誕生日を迎える"
   },
@@ -1746,6 +1749,9 @@
     "description": "雫の誕生日を迎える"
   },
   "cd-birthday_szk-25-1015": {
+    "description": "雫の誕生日を迎える"
+  },
+  "cd-birthday_szk-26-1015": {
     "description": "雫の誕生日を迎える"
   },
   "cd-birthday_yu-0227": {
@@ -4966,6 +4972,9 @@
   },
   "cd-date-event-love-26-1010-s-banner": {
     "description": "もし恋復刻_Sバナー"
+  },
+  "cd-date-event-love-26-1019-banner": {
+    "description": "みんつくバナー_復刻"
   },
   "cd-date-event-mission-love-23-0514-limited": {
     "description": "もし恋限定ミッション"
@@ -24000,6 +24009,9 @@
     "description": "雫の誕生日を迎える"
   },
   "cd-ex-story-part-birthday-szk-25-1015-open": {
+    "description": "雫の誕生日を迎える"
+  },
+  "cd-ex-story-part-birthday-szk-26-1015-open": {
     "description": "雫の誕生日を迎える"
   },
   "cd-ex-story-part-birthday-yu-23-0227-open": {
@@ -48188,6 +48200,15 @@
   "cd-shop-pack-26-1009-1016-dokan": {
     "description": "【ドカン】麻奈誕生日ショップ"
   },
+  "cd-shop-pack-26-1015": {
+    "description": "【お知らせ】雫誕生日ショップ"
+  },
+  "cd-shop-pack-26-1015-1022": {
+    "description": "雫誕生日ショップ"
+  },
+  "cd-shop-pack-26-1015-1022-dokan": {
+    "description": "【ドカン】雫誕生日ショップ"
+  },
   "cd-shop-pack1-23-0809": {
     "description": "【お知らせ】リリース777日記念ショップ"
   },
@@ -52099,6 +52120,15 @@
   },
   "cd-special-shop-pack-26-1009-1016-dokan": {
     "description": "【ドカン】麻奈誕生日特別ショップ"
+  },
+  "cd-special-shop-pack-26-1015": {
+    "description": "【お知らせ】雫誕生日特別ショップ"
+  },
+  "cd-special-shop-pack-26-1015-1022": {
+    "description": "雫誕生日特別ショップ"
+  },
+  "cd-special-shop-pack-26-1015-1022-dokan": {
+    "description": "【ドカン】雫誕生日特別ショップ"
   },
   "cd-special-shop-pack2-0831-0917-02": {
     "description": "陽だまりの休日Ⅰ･Ⅱ1人★5確定10連ガチャチケショップ"
@@ -60230,6 +60260,12 @@
   "cd-time-gacha-birthday-26-1009-banner": {
     "description": "期間：麻奈誕生日ガチャ2026_バナー"
   },
+  "cd-time-gacha-birthday-26-1015": {
+    "description": "期間：雫誕生日ガチャ2026"
+  },
+  "cd-time-gacha-birthday-26-1015-banner": {
+    "description": "期間：雫誕生日ガチャ2026_バナー"
+  },
   "cd-time-gacha-birthday-hair-23-0707": {
     "description": "セットヘアスタイル"
   },
@@ -60426,6 +60462,9 @@
     "description": "セットヘアスタイル"
   },
   "cd-time-gacha-birthday-hair-26-1009": {
+    "description": "セットヘアスタイル"
+  },
+  "cd-time-gacha-birthday-hair-26-1015": {
     "description": "セットヘアスタイル"
   },
   "cd-time-gacha-continuous-22-0624": {
@@ -62861,6 +62900,15 @@
   "cd-time-gacha-fixed-26-1009-banner-end": {
     "description": "バナー期間終了条件：期間：★5アイドル1人確定ピックアップガチャ"
   },
+  "cd-time-gacha-fixed-26-1015": {
+    "description": "期間：★5アイドル1人確定ピックアップガチャ"
+  },
+  "cd-time-gacha-fixed-26-1015-banner": {
+    "description": "バナー期間：期間：★5アイドル1人確定ピックアップガチャ"
+  },
+  "cd-time-gacha-fixed-26-1015-banner-end": {
+    "description": "バナー期間終了条件：期間：★5アイドル1人確定ピックアップガチャ"
+  },
   "cd-time-gacha-fixed-selection-01-26-0618": {
     "description": "期間：復刻誕生日オールスター1人★5確定ガチャ"
   },
@@ -64494,6 +64542,9 @@
     "description": "無料ガチャチケット"
   },
   "cd-time-gacha-free-ticket-1s-26-1010": {
+    "description": "無料ガチャチケット"
+  },
+  "cd-time-gacha-free-ticket-1s-26-1020": {
     "description": "無料ガチャチケット"
   },
   "cd-time-gacha-fs-select-22-0628": {
@@ -70469,6 +70520,9 @@
   "cd-time-gacha-select-birthday-01-26-0926": {
     "description": "期間：【復刻】選べる沙季誕生日ガチャ"
   },
+  "cd-time-gacha-select-birthday-01-26-1015": {
+    "description": "期間：【復刻】選べる雫誕生日ガチャ"
+  },
   "cd-time-gift-21-0624-0627": {
     "description": "ウィークリーミッションの補填用"
   },
@@ -72050,6 +72104,9 @@
   "cd-time-market-discount-day-26-1010": {
     "description": "10のつく日"
   },
+  "cd-time-market-discount-day-26-1020": {
+    "description": "10のつく日"
+  },
   "cd-time-market-phase-001-close": {
     "description": "マーケット閉じ"
   },
@@ -72253,6 +72310,9 @@
   },
   "cd-time-medal-buttonbadge-birthday-26-1009": {
     "description": "期間：麻奈誕生日ガチャ2026缶バッジ交換"
+  },
+  "cd-time-medal-buttonbadge-birthday-26-1015": {
+    "description": "期間：雫誕生日ガチャ2026缶バッジ交換"
   },
   "cd-time-medal-buttonbadge-fs-set-bloom-24-0626": {
     "description": "期間：アイプラフェス The MOON Ⅰ缶バッジ交換"

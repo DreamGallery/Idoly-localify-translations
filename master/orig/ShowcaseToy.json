@@ -303,6 +303,10 @@
     "description": "兵藤雫のビッグ缶バッジです。",
     "name": "ビッグ缶バッジ 兵藤雫"
   },
+  "toy-goods-bigbuttonbadge_char-szk-birthday-2026": {
+    "description": "兵藤雫のビッグ缶バッジです。",
+    "name": "ビッグ缶バッジ 兵藤雫"
+  },
   "toy-goods-bigbuttonbadge_char-yu-birthday-2025": {
     "description": "鈴村優のビッグ缶バッジです。",
     "name": "ビッグ缶バッジ 鈴村優"
@@ -950,6 +954,10 @@
   "toy-goods-buttonbadge_card-szk-05-birt-02": {
     "description": "兵藤雫の缶バッジです。",
     "name": "缶バッジ 兵藤雫「wonderful day for 雫」"
+  },
+  "toy-goods-buttonbadge_card-szk-05-birt-03": {
+    "description": "兵藤雫の缶バッジです。",
+    "name": "缶バッジ 兵藤雫「dear precious 雫」"
   },
   "toy-goods-buttonbadge_card-szk-05-casl-04": {
     "description": "兵藤雫の缶バッジです。",
@@ -2167,6 +2175,10 @@
     "description": "兵藤雫のカードスタンドです。",
     "name": "カードスタンド 兵藤雫「wonderful day for 雫」"
   },
+  "toy-goods-chracrylicbord_card-szk-05-birt-03": {
+    "description": "兵藤雫のカードスタンドです。",
+    "name": "カードスタンド 兵藤雫「dear precious 雫」"
+  },
   "toy-goods-chracrylicbord_card-szk-05-casl-04": {
     "description": "兵藤雫のカードスタンドです。",
     "name": "カードスタンド 兵藤雫「潮風と思い出の休日」"
@@ -3143,6 +3155,10 @@
     "description": "兵藤雫のミニキャラスタンドです。",
     "name": "ミニキャラスタンド 兵藤雫「wonderful day for 雫」"
   },
+  "toy-goods-chracrylicsd_card-szk-05-birt-03": {
+    "description": "兵藤雫のミニキャラスタンドです。",
+    "name": "ミニキャラスタンド 兵藤雫「dear precious 雫」"
+  },
   "toy-goods-chracrylicsd_card-szk-05-casl-04": {
     "description": "兵藤雫のミニキャラスタンドです。",
     "name": "ミニキャラスタンド 兵藤雫「潮風と思い出の休日」"
@@ -3659,6 +3675,10 @@
     "description": "兵藤雫のプレートです。",
     "name": "誕生日プレート 兵藤雫"
   },
+  "toy-goods-nameplate_char-szk-birthday-2026": {
+    "description": "兵藤雫のプレートです。",
+    "name": "誕生日プレート 兵藤雫"
+  },
   "toy-goods-nameplate_char-yu-01": {
     "description": "鈴村優のプレートです。",
     "name": "プレート 鈴村優"
@@ -3828,6 +3848,10 @@
     "name": "タペストリー 成宮すず"
   },
   "toy-goods-tapestry_char-szk-birthday-2025": {
+    "description": "兵藤雫のタペストリーです。",
+    "name": "タペストリー 兵藤雫"
+  },
+  "toy-goods-tapestry_char-szk-birthday-2026": {
     "description": "兵藤雫のタペストリーです。",
     "name": "タペストリー 兵藤雫"
   },

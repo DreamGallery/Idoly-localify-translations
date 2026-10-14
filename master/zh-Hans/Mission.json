@@ -6149,6 +6149,26 @@
     "name": "通关每日演唱会{threshold}次",
     "shortDescription": "通关每日演唱会{threshold}次"
   },
+  "event-ms-idoly-pride-day-mission-26-1020-login": {
+    "longDescription": "登录1次吧。",
+    "name": "登录1次",
+    "shortDescription": "登录1次"
+  },
+  "event-ms-idoly-pride-day-mission-26-1020-mission_clear_count": {
+    "longDescription": "完成所有活动任务吧。",
+    "name": "完成所有活动任务",
+    "shortDescription": "完成所有活动任务"
+  },
+  "event-ms-idoly-pride-day-mission-26-1020-photo_shoot_count": {
+    "longDescription": "进行{threshold}次照片拍摄吧。",
+    "name": "拍照{threshold}次",
+    "shortDescription": "拍照{threshold}次"
+  },
+  "event-ms-idoly-pride-day-mission-26-1020-quest-daily-clear-count": {
+    "longDescription": "完成{threshold}次每日演唱会。",
+    "name": "通关每日演唱会{threshold}次",
+    "shortDescription": "通关每日演唱会{threshold}次"
+  },
   "event-ms-live-23-0503-condition_clear-1": {
     "longDescription": "通关所有EX塔STAGE1。",
     "name": "通关所有EX塔STAGE1",
