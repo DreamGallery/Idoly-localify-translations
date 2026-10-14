@@ -511,10 +511,10 @@
   },
   "st-birthday-branch-szk-26-1015": {
     "branchCautionText": "之后可以再次选择",
-    "branchChoices[1].text": "手工玩偶",
-    "branchFirstText": "今天是雫的生日啊\n送什么礼物好呢？",
     "branchChoices[0].text": "手工鱼饵",
+    "branchChoices[1].text": "手工玩偶",
     "branchChoices[2].text": "三枝的脚的尺寸信息",
+    "branchFirstText": "今天是雫的生日啊\n送什么礼物好呢？",
     "name": "兵藤雫 生日2026"
   },
   "st-birthday-branch-yu-24-0227": {
@@ -3669,6 +3669,15 @@
   },
   "st-card-szk-05-birt-02-03": {
     "name": "要不要\n炫耀一下\n呢"
+  },
+  "st-card-szk-05-birt-03-01": {
+    "name": "兵藤雫的\nSUNNY PEACE狂热粉"
+  },
+  "st-card-szk-05-birt-03-02": {
+    "name": "不过是\n会员限定"
+  },
+  "st-card-szk-05-birt-03-03": {
+    "name": "因为一直\n在一起"
   },
   "st-card-szk-05-casl-04-01": {
     "name": "一起\n去钓鱼……！"
@@ -11386,14 +11395,5 @@
   "st-shelf-26-1002-009-005": {
     "description": "决赛。与DJ婆婆率领的『BEIJU』之战终于开始。对手似乎连DJ是什么都不太清楚，但面对其深不可测的实力，三人赌上BIG4的尊严迎战。",
     "name": "激战！\nDJ婆婆＆\nBEIJU"
-  },
-  "st-card-szk-05-birt-03-01": {
-    "name": "兵藤雫的\nSUNNY PEACE狂热粉"
-  },
-  "st-card-szk-05-birt-03-02": {
-    "name": "不过是\n会员限定"
-  },
-  "st-card-szk-05-birt-03-03": {
-    "name": "因为一直\n在一起"
   }
 }

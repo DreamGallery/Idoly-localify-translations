@@ -60260,6 +60260,12 @@
   "cd-time-gacha-birthday-26-1009-banner": {
     "description": "期间：麻奈生日扭蛋2026_横幅"
   },
+  "cd-time-gacha-birthday-26-1015": {
+    "description": "期间：雫生日扭蛋2026"
+  },
+  "cd-time-gacha-birthday-26-1015-banner": {
+    "description": "期间：雫生日扭蛋2026_横幅"
+  },
   "cd-time-gacha-birthday-hair-23-0707": {
     "description": "套装发型"
   },
@@ -70514,6 +70520,9 @@
   "cd-time-gacha-select-birthday-01-26-0926": {
     "description": "期间：【复刻】可选沙季生日扭蛋"
   },
+  "cd-time-gacha-select-birthday-01-26-1015": {
+    "description": "期间：【复刻】可选雫生日扭蛋"
+  },
   "cd-time-gift-21-0624-0627": {
     "description": "每周任务的补填用"
   },
@@ -72301,6 +72310,9 @@
   },
   "cd-time-medal-buttonbadge-birthday-26-1009": {
     "description": "期间：麻奈生日扭蛋2026徽章交换"
+  },
+  "cd-time-medal-buttonbadge-birthday-26-1015": {
+    "description": "期间：雫生日扭蛋2026徽章交换"
   },
   "cd-time-medal-buttonbadge-fs-set-bloom-24-0626": {
     "description": "期间：IDOLY PRIDE庆典 The MOON Ⅰ徽章交换"
@@ -76612,17 +76624,5 @@
   },
   "ms-limited-login-ex-tower-005-sp-26-0503-003-login": {
     "description": "三丽鸥角色联动举办纪念EX塔003对象"
-  },
-  "cd-time-gacha-birthday-26-1015": {
-    "description": "期间：雫生日扭蛋2026"
-  },
-  "cd-time-gacha-birthday-26-1015-banner": {
-    "description": "期间：雫生日扭蛋2026_横幅"
-  },
-  "cd-time-gacha-select-birthday-01-26-1015": {
-    "description": "期间：【复刻】可选雫生日扭蛋"
-  },
-  "cd-time-medal-buttonbadge-birthday-26-1015": {
-    "description": "期间：雫生日扭蛋2026徽章交换"
   }
 }

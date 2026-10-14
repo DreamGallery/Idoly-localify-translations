@@ -2177,6 +2177,11 @@
     "name": "wonderful day for 雫",
     "obtainMessage": "之后要不要向姐姐炫耀一下呢"
   },
+  "card-szk-05-birt-03": {
+    "description": "和大家在一起，\n快乐的回忆不断增多\n谢谢大家，一直陪伴着我",
+    "name": "dear precious 雫",
+    "obtainMessage": "和大家共度的这段时光，\n就是最棒的礼物"
+  },
   "card-szk-05-casl-04": {
     "description": "敬请期待。\n下次我会钓上一条大鱼给你看\n一条谁都没见过的大鱼……！",
     "name": "海风与回忆的假日",
@@ -2381,10 +2386,5 @@
     "description": "派对玩得很开心哦～\n今天真的非常感谢\n从经纪人那里收到了最棒的圣诞礼物呢",
     "name": "我们的平安夜",
     "obtainMessage": "TRINITYAiLE三人正玩得开心呢～"
-  },
-  "card-szk-05-birt-03": {
-    "description": "和大家在一起，\n快乐的回忆不断增多\n谢谢大家，一直陪伴着我",
-    "name": "dear precious 雫",
-    "obtainMessage": "和大家共度的这段时光，\n就是最棒的礼物"
   }
 }
