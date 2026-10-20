@@ -1,6 +1,11 @@
 name: Prepare self-hosted release runner
 on:
   workflow_dispatch:
+    inputs:
+      refresh_python_dependencies:
+        description: Update the Python lock for reviewed requirements changes
+        type: boolean
+        default: false
 permissions:
   contents: read
 concurrency:
@@ -39,7 +44,16 @@ jobs:
           path: Hoshimi_Teleprompter
           persist-credentials: false
       - name: Install isolated build dependencies
-        run: python3 translations-data/scripts/bootstrap_runtime.py --toolkit-dir "$GITHUB_WORKSPACE/HoshimiToolkit" --project "$GITHUB_WORKSPACE/Idoly-localify"
+        env:
+          REFRESH_PYTHON_DEPENDENCIES: ${{ inputs.refresh_python_dependencies }}
+        run: |
+          flags=()
+          if [[ "$REFRESH_PYTHON_DEPENDENCIES" == true ]]; then
+            flags+=(--refresh-python-dependencies)
+          fi
+          python3 translations-data/scripts/bootstrap_runtime.py \
+            --toolkit-dir "$GITHUB_WORKSPACE/HoshimiToolkit" --project "$GITHUB_WORKSPACE/Idoly-localify" \
+            "${flags[@]}"
       - name: Configure private runtime files
         id: configure
         env:

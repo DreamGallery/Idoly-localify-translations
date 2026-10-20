@@ -6,7 +6,9 @@
 
 运行器上线后，可手动运行 `Runner environment check` 检查环境，再运行 `Prepare self-hosted release runner` 安装依赖和配置。支持 Ubuntu/Linux x86_64、Python 3.12；依赖保存在运行器用户的 `~/.local/share/idoly-release/`，不需要 sudo。首次下载的工具版本和 Python 依赖摘要会锁定，重跑复用已有安装。
 
-引导任务还需要环境 Secret `BOOTSTRAP_PRIVATE_B64`：经维护者明确授权的私密配置包，包含游戏接口参数、专用采集账号及 APK 签名材料。它通过 `scripts/configure_runner.py` 写入权限为 `0600` 的本地文件；重跑保留已刷新的账号令牌，拒绝替换不同签名密钥。运行器保留独立字体包作为结构模板；发布时按插件源码的 `config/font-source.json` 重新生成并校验当前字体。不要把配置包、签名文件或日志提交到仓库。
+依赖文件有变化时，审阅后在同一准备工作流勾选 `refresh_python_dependencies`，或为脚本添加 `--refresh-python-dependencies`。工具优先保留兼容的已有版本，为新增依赖生成带哈希的锁定记录，并将旧记录保存在运行器的 `.agent-local/dependency-locks/`。现有锁文件校验不符时仍会停止。
+
+引导任务还需要环境 Secret `BOOTSTRAP_PRIVATE_B64`：经维护者明确授权的私密配置包，包含游戏接口参数、专用采集账号及 APK 签名材料。它通过 `scripts/configure_runner.py` 写入权限为 `0600` 的本地文件；重跑保留已刷新的账号令牌，拒绝替换不同签名密钥。运行器保留独立字体包作为结构模板；发布时按插件源码的 `config/font-source.json` 和 `config/love-font-source.json` 下载官方固定版本、生成并校验两份字体。下载与生成结果保存在发布工作目录的 `fonts/` 中。不要把配置包、签名文件或日志提交到仓库。
 
 引导成功后，将任务摘要显示的路径填入 `IDOLY_RUNNER_CONFIG`，先手动运行发布工作流，保持 `dry_run=true` 并选择 `no_translate=true` 做验证；有新待译内容时该验证会停止。验证通过再将 `RELEASE_ENABLED` 设为 `true`。
 

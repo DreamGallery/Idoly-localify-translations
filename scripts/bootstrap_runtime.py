@@ -33,10 +33,14 @@ API_REQUIREMENTS = ["grpcio==1.70.0", "protobuf==5.29.3", "pycryptodome==3.23.0"
                     "requests==2.32.5", "sqlcipher3-binary==0.6.0"]
 
 
-def atomic_json(path, value):
+def atomic_text(path, value):
     temporary = path.with_suffix(path.suffix + ".tmp")
-    temporary.write_text(json.dumps(value, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    temporary.write_text(value, encoding="utf-8")
     temporary.replace(path)
+
+
+def atomic_json(path, value):
+    atomic_text(path, json.dumps(value, indent=2, sort_keys=True) + "\n")
 
 
 def sha(path, algorithm="sha256"):
@@ -273,35 +277,62 @@ def run(command, **kwargs):
     subprocess.run([str(part) for part in command], check=True, **kwargs)
 
 
-def install_python(root, uv, toolkit, project, lock, lock_path):
+def lock_python_requirements(root, uv, text, lock, lock_path, *, refresh=False):
+    fingerprint = hashlib.sha256(text.encode()).hexdigest()
+    requirements = root / "requirements.lock"
+    if not requirements.exists() and lock.get("python_requirements_text"):
+        atomic_text(requirements, lock["python_requirements_text"])
+    changed = lock.get("python_requirements_input_sha256") != fingerprint
+    if requirements.exists():
+        if lock.get("python_requirements_lock_sha256") != sha(requirements):
+            raise ValueError("Python requirements lock checksum mismatch; restore the verified lock")
+        if changed and not refresh:
+            raise ValueError("Python dependency inputs changed; review and use --refresh-python-dependencies")
+    elif "python_requirements_lock_sha256" in lock:
+        raise ValueError("Locked Python requirements file is missing")
+    if not requirements.exists() or changed:
+        local = root / ".agent-local"
+        local.mkdir(exist_ok=True)
+        with tempfile.TemporaryDirectory(prefix="python-requirements-", dir=local) as directory:
+            stage = Path(directory)
+            source, output = stage / "requirements.in", stage / "requirements.lock"
+            source.write_text(text, encoding="utf-8")
+            if requirements.exists():
+                # uv reuses pins from its output file unless new inputs require a change.
+                shutil.copyfile(requirements, output)
+            run([uv, "pip", "compile", "--python", sys.executable, "--generate-hashes",
+                 "--no-emit-index-url", source, "-o", output], stdout=subprocess.DEVNULL)
+            resolved = output.read_text(encoding="utf-8")
+            updated = dict(lock, python_requirements_input_sha256=fingerprint,
+                           python_requirements_lock_sha256=sha(output),
+                           python_requirements_text=resolved)
+            if requirements.exists():
+                backup = local / "dependency-locks" / sha(requirements)
+                backup.mkdir(parents=True, exist_ok=True)
+                shutil.copyfile(requirements, backup / "requirements.lock")
+                atomic_json(backup / "bootstrap-lock.json", lock)
+            atomic_json(lock_path, updated)
+            try:
+                atomic_text(requirements, resolved)
+            except BaseException:
+                atomic_json(lock_path, lock)
+                raise
+            lock.update(updated)
+    return requirements
+
+
+def install_python(root, uv, toolkit, project, lock, lock_path, *, refresh=False):
     inputs = [toolkit / "requirements.txt", project / "tools/requirements-font.txt"]
     if any(not path.is_file() for path in inputs):
         raise ValueError("Toolkit/font requirements are missing")
     text = "\n".join(path.read_text() for path in inputs) + "\n" + "\n".join(API_REQUIREMENTS) + "\n"
-    fingerprint = hashlib.sha256(text.encode()).hexdigest()
-    requirements = root / "requirements.lock"
-    if not requirements.exists() and lock.get("python_requirements_text"):
-        requirements.write_text(lock["python_requirements_text"], encoding="utf-8")
-    if requirements.exists():
-        if lock.get("python_requirements_input_sha256") != fingerprint or lock.get("python_requirements_lock_sha256") != sha(requirements):
-            raise ValueError("Python dependency inputs/lock changed; review before replacing the runtime lock")
-    else:
-        if "python_requirements_lock_sha256" in lock:
-            raise ValueError("Locked Python requirements file is missing")
-        source = root / "requirements.in"
-        source.write_text(text, encoding="utf-8")
-        run([uv, "pip", "compile", "--python", sys.executable, "--generate-hashes",
-             "--no-emit-index-url", source, "-o", requirements], stdout=subprocess.DEVNULL)
-        lock["python_requirements_input_sha256"] = fingerprint
-        lock["python_requirements_lock_sha256"] = sha(requirements)
-        lock["python_requirements_text"] = requirements.read_text(encoding="utf-8")
-        atomic_json(lock_path, lock)
+    requirements = lock_python_requirements(root, uv, text, lock, lock_path, refresh=refresh)
     venv = root / "venv"
     if not (venv / "pyvenv.cfg").exists():
         run([uv, "venv", "--python", sys.executable, venv])
     python = venv / "bin/python"
     run([uv, "pip", "sync", "--python", python, "--require-hashes", requirements])
-    run([python, "-c", "import grpc, google.protobuf, Crypto, requests, UnityPy, fontTools; "
+    run([python, "-c", "import grpc, google.protobuf, Crypto, requests, UnityPy, fontTools, py7zr; "
          "from sqlcipher3 import dbapi2 as sql; c=sql.connect(':memory:'); "
          "assert c.execute('pragma cipher_version').fetchone(); "
          "print('Python API, resource, font and SQLCipher imports passed')"])
@@ -369,6 +400,8 @@ def main():
     parser.add_argument("--root", type=Path, default=Path.home() / ".local/share/idoly-release")
     parser.add_argument("--toolkit-dir", required=True, type=Path)
     parser.add_argument("--project", required=True, type=Path)
+    parser.add_argument("--refresh-python-dependencies", action="store_true",
+                        help="Resolve reviewed dependency changes, preserving compatible existing pins")
     args = parser.parse_args()
     if sys.platform != "linux" or platform.machine() not in ("x86_64", "AMD64") or sys.version_info[:2] != (3, 12):
         parser.error("Bootstrap requires Linux x86_64 and Python 3.12")
@@ -389,7 +422,8 @@ def main():
         if link.exists() or link.is_symlink():
             raise ValueError("Existing bootstrap executable path differs: " + name)
         link.symlink_to(source)
-    python = install_python(root, uv, args.toolkit_dir.resolve(), args.project.resolve(), lock, lock_path)
+    python = install_python(root, uv, args.toolkit_dir.resolve(), args.project.resolve(), lock, lock_path,
+                            refresh=args.refresh_python_dependencies)
     solis = install_solis(root, lock)
     run([python, "-c", "import sys; sys.path.insert(0,sys.argv[1]); "
          "import papi_grpc, papi_pb2, pmaster_pb2, ptransaction_pb2; print('Solis protocol imports passed')", solis])
