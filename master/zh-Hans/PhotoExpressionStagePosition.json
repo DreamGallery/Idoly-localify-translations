@@ -1,77 +1,77 @@
 {
-  "0": {
+  "bk1:[[\"stageId\",\"photo_studio-03-000-noon\"],[\"number\",1]]": {
     "name": "地点A"
   },
-  "1": {
+  "bk1:[[\"stageId\",\"photo_studio-03-000-noon\"],[\"number\",2]]": {
     "name": "地点B"
   },
-  "10": {
-    "name": "地点A"
-  },
-  "11": {
-    "name": "地点B"
-  },
-  "12": {
+  "bk1:[[\"stageId\",\"photo_studio-03-000-noon\"],[\"number\",3]]": {
     "name": "地点C"
   },
-  "13": {
+  "bk1:[[\"stageId\",\"photo_studio-04-001-noon\"],[\"number\",1]]": {
     "name": "地点A"
   },
-  "14": {
+  "bk1:[[\"stageId\",\"photo_studio-04-001-noon\"],[\"number\",2]]": {
     "name": "地点B"
   },
-  "15": {
+  "bk1:[[\"stageId\",\"photo_studio-04-001-noon\"],[\"number\",3]]": {
     "name": "地点C"
   },
-  "16": {
+  "bk1:[[\"stageId\",\"photo_studio-05-000-noon\"],[\"number\",1]]": {
     "name": "地点A"
   },
-  "17": {
+  "bk1:[[\"stageId\",\"photo_studio-06-000-noon\"],[\"number\",1]]": {
+    "name": "地点A"
+  },
+  "bk1:[[\"stageId\",\"photo_studio-06-000-noon\"],[\"number\",2]]": {
     "name": "地点B"
   },
-  "18": {
+  "bk1:[[\"stageId\",\"stage-photo-bedrock-00\"],[\"number\",1]]": {
     "name": "地点A"
   },
-  "19": {
+  "bk1:[[\"stageId\",\"stage-photo-expression-pool-00\"],[\"number\",1]]": {
     "name": "地点A"
   },
-  "2": {
+  "bk1:[[\"stageId\",\"stage-photo-expression-pool-00\"],[\"number\",2]]": {
+    "name": "地点B"
+  },
+  "bk1:[[\"stageId\",\"stage-photo-expression-pool-00\"],[\"number\",3]]": {
     "name": "地点C"
   },
-  "20": {
+  "bk1:[[\"stageId\",\"stage-photo-garden-02\"],[\"number\",1]]": {
+    "name": "地点A"
+  },
+  "bk1:[[\"stageId\",\"stage-photo-garden-02\"],[\"number\",2]]": {
     "name": "地点B"
   },
-  "21": {
-    "name": "地点A"
-  },
-  "22": {
-    "name": "地点B"
-  },
-  "23": {
-    "name": "地点A"
-  },
-  "24": {
-    "name": "地点A"
-  },
-  "3": {
-    "name": "地点A"
-  },
-  "4": {
-    "name": "地点B"
-  },
-  "5": {
+  "bk1:[[\"stageId\",\"stage-photo-garden-02\"],[\"number\",3]]": {
     "name": "地点C"
   },
-  "6": {
+  "bk1:[[\"stageId\",\"stage-photo-garden-02-03\"],[\"number\",1]]": {
     "name": "地点A"
   },
-  "7": {
-    "name": "地点A"
-  },
-  "8": {
+  "bk1:[[\"stageId\",\"stage-photo-garden-02-03\"],[\"number\",2]]": {
     "name": "地点B"
   },
-  "9": {
+  "bk1:[[\"stageId\",\"stage-photo-hillpark-00\"],[\"number\",1]]": {
+    "name": "地点A"
+  },
+  "bk1:[[\"stageId\",\"stage-photo-lesson-00\"],[\"number\",1]]": {
+    "name": "地点A"
+  },
+  "bk1:[[\"stageId\",\"stage-photo-lesson-00\"],[\"number\",2]]": {
+    "name": "地点B"
+  },
+  "bk1:[[\"stageId\",\"stage-photo-living-01\"],[\"number\",1]]": {
+    "name": "地点A"
+  },
+  "bk1:[[\"stageId\",\"stage-photo-living-01\"],[\"number\",2]]": {
+    "name": "地点B"
+  },
+  "bk1:[[\"stageId\",\"stage-photo-studio-02-000-noon\"],[\"number\",1]]": {
+    "name": "地点A"
+  },
+  "bk1:[[\"stageId\",\"stage-photo-themepark-00\"],[\"number\",1]]": {
     "name": "地点A"
   }
 }

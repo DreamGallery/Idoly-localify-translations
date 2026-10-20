@@ -1,14 +1,14 @@
 {
-  "1": {
+  "bk1:[[\"parameterType\",2]]": {
     "name": "ボイストレーナー"
   },
-  "2": {
+  "bk1:[[\"parameterType\",3]]": {
     "name": "スタイリスト"
   },
-  "3": {
+  "bk1:[[\"parameterType\",4]]": {
     "name": "フィジカルコーチ"
   },
-  "4": {
+  "bk1:[[\"parameterType\",5]]": {
     "name": "セラピスト"
   }
 }

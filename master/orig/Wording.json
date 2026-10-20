@@ -1,731 +1,731 @@
 {
-  "0": {
-    "word": "すべて"
-  },
-  "1": {
+  "bk1:[[\"key\",\"accessory.enhance.setting.button.ExcludeAllDeck\"]]": {
     "word": "標準"
   },
-  "10": {
-    "word": "上限突破しました"
+  "bk1:[[\"key\",\"accessory.enhance.setting.button.allUserAccessory\"]]": {
+    "word": "すべて"
   },
-  "100": {
-    "word": "髪型のみの提供となります。"
-  },
-  "101": {
-    "word": "髪型のみの提供となります。"
-  },
-  "102": {
-    "word": "マネージャー検索"
-  },
-  "103": {
-    "word": "コードを入力してダイヤをもらおう\nアイプラ始めるなら今がチャンス！\n▼招待コード\n{0}\n\nhttps://idolypride.page.link/tw_phcp\n\n※メインライブ#1クリアで入力可能\n#アイプラ"
-  },
-  "104": {
-    "word": "ショップメンテナンス中です"
-  },
-  "105": {
-    "word": "1日1回"
-  },
-  "106": {
-    "word": "\nダウンロードはこちらから\n▶︎https://idolypride.page.link/230120tw\n\n#引き放題ガチャ"
-  },
-  "107": {
-    "word": "＼ #アイプラ 引き放題ガチャ／\n\nいま新規でゲームを始めた全員が対象️！\n★5アイドル3人以上確定\n結果を投稿するとさらに10連ガチャが引ける！"
-  },
-  "108": {
-    "word": "衣装:{0}"
-  },
-  "109": {
-    "word": "ガチャPt、交換内容はガチャごとに異なります。\nすでに所持しているアイドルを交換した場合、開花Ptに変換されます。\n\n「開花Pt付きガチャ」の場合、ピックアップアイドルを交換した際にも開花Ptが付きます。\nピックアップアイドル以外のアイドルには開花Ptは付きません。"
-  },
-  "11": {
-    "word": "グループ移動後、14日間は反映停止状態となり、ランキングとVENUSランクの最速達成者の対象外となります。\n現在のグループで所持しているVENUSポイントはそのまま引き継ぎます。\n既に受け取り済みの達成者報酬は、再度受け取ることができません。\n反映停止状態の間も、VENUSポイントの獲得と減少は発生します。"
-  },
-  "110": {
-    "word": "セット\n報酬"
-  },
-  "111": {
-    "word": "初心者引き放題ガチャ"
-  },
-  "112": {
-    "word": "ヘアスタイル"
-  },
-  "113": {
-    "word": "※既に所持している場合プレミアムフォトメダル×1に変換"
-  },
-  "114": {
-    "word": "詳細"
-  },
-  "115": {
-    "word": "外部投稿でさらに10連無料！"
-  },
-  "116": {
-    "word": "アイテムはギフトに送られます。"
-  },
-  "117": {
-    "word": "アイテムはギフトに送られています。"
-  },
-  "118": {
-    "word": "次で獲得"
-  },
-  "119": {
-    "word": "アイドルを選択してください。 ({0}/{1})"
-  },
-  "12": {
-    "word": "全てのマネージャーは開始時期や人数に応じて\n「グループ」に振り分けられます。"
-  },
-  "120": {
-    "word": "本日勝利で"
-  },
-  "121": {
-    "word": "誰もいないようです"
-  },
-  "122": {
-    "word": "スキップアイテムを消費"
-  },
-  "123": {
-    "word": "成果"
-  },
-  "124": {
-    "word": "メッセPt："
-  },
-  "125": {
-    "word": "Ptが足りません"
-  },
-  "126": {
-    "word": "報酬マップ"
-  },
-  "127": {
-    "word": "対戦中"
-  },
-  "128": {
-    "word": "対戦中です"
-  },
-  "129": {
-    "word": "期間限定開催中！"
-  },
-  "13": {
-    "word": "最初に所属したグループの平均マネージャーLvを基準とし、移動先のグループの平均マネージャーLvが高ければ移動が可能です。\n条件を満たしていれば、いつでもグループの移動が可能です。\nグループを移動することで、ユニオン・ランキング・VENUSプログラムの要素に変更が発生します。"
-  },
-  "130": {
-    "word": "来場ファン数"
-  },
-  "131": {
-    "word": "ユニオンライブ"
-  },
-  "132": {
-    "word": "ライブ観戦"
-  },
-  "133": {
-    "word": "回分"
-  },
-  "134": {
-    "word": "スキル発動不可"
-  },
-  "135": {
-    "word": "CT中"
-  },
-  "136": {
-    "word": "使用回数上限"
-  },
-  "137": {
-    "word": "スキル失敗"
-  },
-  "138": {
-    "word": "スキル未習得"
-  },
-  "139": {
-    "word": "スタミナ不足"
-  },
-  "14": {
-    "word": "\nユニオンに関する注意点"
-  },
-  "146": {
-    "word": "スキル成功率"
-  },
-  "147": {
-    "word": "次回:M月d日"
-  },
-  "148": {
-    "word": "1エンドクリアで解放"
-  },
-  "149": {
-    "word": "セーブができるようになりました。"
-  },
-  "15": {
-    "word": "移動先グループのユニオンに所属となります。\n現在所属しているユニオンと同名のユニオンに自動で所属します。\nユニオンメダルは切り替え先グループにも持ち越されます。\nスタッフ育成のLvは切り替え先グループにも持ち越されます。\nユニオンライブ開催中はグループ移動ができません。"
-  },
-  "150": {
-    "word": "第{0}話解放"
-  },
-  "151": {
-    "word": "{0}LvがMAXになったため、{0}EXPは溜まりません。"
-  },
-  "152": {
-    "word": "「大事な場面」が分かるようになります。"
-  },
-  "153": {
-    "word": "ヒントLv1"
-  },
-  "154": {
-    "word": "「大事な選択肢」が分かるようになります。"
-  },
-  "155": {
-    "word": "ヒントLv2"
-  },
-  "156": {
-    "word": "{0}Lv{1}解放"
-  },
-  "157": {
-    "word": "デイリー"
-  },
-  "158": {
-    "word": "次のLvまで {0:N0}"
-  },
-  "159": {
-    "word": "ストーリー再生中のヒントLvを設定できます。"
-  },
-  "16": {
-    "word": "ランキングに関する注意点"
-  },
-  "160": {
-    "word": "「大事な場面」が分かります"
-  },
-  "161": {
-    "word": "「大事な選択肢」が分かります"
-  },
-  "162": {
-    "word": "※ヒントLvは{0}Lvによって解放されます。"
-  },
-  "163": {
-    "word": "ストーリー再生中の主人公のボイス設定ができます。"
-  },
-  "164": {
-    "word": "ストーリーを中断します。"
-  },
-  "165": {
-    "word": "中断する"
-  },
-  "166": {
-    "word": "中断しますか？"
-  },
-  "167": {
-    "word": "ストーリー再生中のヒントLvを設定できます。"
-  },
-  "168": {
-    "word": "{0}のメニューです"
-  },
-  "169": {
-    "word": "中断する"
-  },
-  "17": {
-    "word": "以下は移動先のグループのランキングに参加となります。\n・ファンイベント\n・ハイスコアライブ\n・VENUSバトル\nVENUSバトルは移動前の順位とスコアは全てリセットされます。\nプロフィールの過去最高順位は、現在の最高順位を引き継ぎます。"
-  },
-  "170": {
-    "word": "データ{0}をロードします。"
-  },
-  "171": {
-    "word": "データ{0}に上書きします。"
-  },
-  "172": {
-    "word": "一覧へ戻ると、中断データは削除されます。"
-  },
-  "173": {
-    "word": "話の一覧へ"
-  },
-  "174": {
-    "word": "ストーリーを1話からやり直します。"
-  },
-  "175": {
-    "word": "最初からプレイしますか？"
-  },
-  "179": {
-    "word": "マルチリンクス"
-  },
-  "18": {
-    "word": "VENUSプログラムに関する注意点"
-  },
-  "180": {
-    "word": "解放Pt：{0}"
-  },
-  "181": {
-    "word": "Kスタミナ"
-  },
-  "182": {
-    "word": "Lスタミナ"
-  },
-  "184": {
-    "word": "マルチリンクス"
-  },
-  "185": {
-    "word": "更新可能まで あと{0}秒"
-  },
-  "186": {
-    "word": "マルチリンクス"
-  },
-  "187": {
-    "word": "メダル交換"
-  },
-  "188": {
-    "word": "消費したポイント"
-  },
-  "189": {
-    "word": "ファンイベントが終了しました。\n確認に行きましょう！"
-  },
-  "19": {
-    "word": "・ファンイベントのコアファン率上昇効率UP"
-  },
-  "190": {
-    "word": "自主トレの報酬が上限に達しました。\n確認に行きましょう！"
-  },
-  "191": {
-    "word": "プロモーションが終了しました。\n確認に行きましょう！"
-  },
-  "192": {
-    "word": "リフレッシュが終了しました。\n確認に行きましょう！"
-  },
-  "193": {
-    "word": "{0}の報酬が上限に達しました。\n確認に行きましょう！"
-  },
-  "194": {
-    "word": "本日まだログインしていません。"
-  },
-  "195": {
-    "word": "おはようございます。\n本日のログインをお忘れなく！"
-  },
-  "196": {
-    "word": "レース特訓の報酬が上限に達しました。\n確認に行きましょう！"
-  },
-  "197": {
-    "word": "編成可能："
-  },
-  "198": {
-    "word": "指定した条件のフォトを一括で選択します。(最大300枚)"
-  },
-  "199": {
-    "word": "フォトを選択してください"
-  },
-  "2": {
+  "bk1:[[\"key\",\"accessory.enhance.setting.button.excludeLeagueDeck\"]]": {
     "word": "VENUSリーグ以外"
   },
-  "20": {
-    "word": "・プロモーションのファン数上昇量UP"
-  },
-  "200": {
-    "word": "イベント撮影パス"
-  },
-  "201": {
-    "word": "イベント撮影パスを所持していません"
-  },
-  "202": {
-    "word": "本日のイベント撮影パスを受け取りました。\n※イベント終了後に自動で売却されます。"
-  },
-  "203": {
-    "word": "イベント撮影パス入手"
-  },
-  "204": {
-    "word": "決定する"
-  },
-  "205": {
-    "word": "やめる"
-  },
-  "206": {
-    "word": "以下の設定で開始します。"
-  },
-  "207": {
-    "word": "鑑賞する"
-  },
-  "208": {
-    "word": "設定確認"
-  },
-  "209": {
-    "word": "イベント撮影パスを所持していません"
-  },
-  "21": {
-    "word": "・プロモーションの獲得コイン{0}%UP"
-  },
-  "210": {
-    "word": "SNS投稿"
-  },
-  "211": {
-    "word": "＼ 初音ミクコラボ第3弾×アイプラ写真判定 ／\nあなたのスコアはこちら ！\n水着衣装の初音ミクが登場する初回10連無料のコラボガチャ開催！\n今ならコラボ衣装がもらえる！\nhttps://idolypride.page.link/LZqk\n#初音ミク本気フォト"
-  },
-  "212": {
-    "word": "イベント撮影パスを消費して写真を提出します。"
-  },
-  "213": {
-    "word": "解放されたストーリーが表示されます"
-  },
-  "214": {
-    "word": "撮影解放チケットがありません"
-  },
-  "215": {
-    "word": "アイドルを選択してください。"
-  },
-  "216": {
-    "word": "撮影・鑑賞"
-  },
-  "217": {
-    "word": "※他マネージャーには表示されません。"
-  },
-  "218": {
-    "word": "よろしくお願い致します。\n\nhttps://idolypride.page.link/share\n#アイプラ名刺交換 #アイプラ"
-  },
-  "219": {
-    "word": "名刺を所持していません。"
-  },
-  "22": {
-    "word": "・リフレッシュ消費コイン{0}%OFF"
-  },
-  "220": {
-    "word": "レース進行度（{1}）"
-  },
-  "221": {
-    "word": "獲得しました"
-  },
-  "222": {
-    "word": "ルーレット報酬"
-  },
-  "223": {
-    "word": "ルーレットを回すことで獲得可能なアイテムです。"
-  },
-  "224": {
-    "word": "獲得可能アイテム"
-  },
-  "225": {
-    "word": "動画広告を見て最大{0}回プレイできます。"
-  },
-  "226": {
-    "word": "{0}/{1}回"
-  },
-  "227": {
-    "word": "アイテム選択"
-  },
-  "228": {
-    "word": "デザイン選択"
-  },
-  "229": {
-    "word": "アルバム現像"
-  },
-  "23": {
-    "word": "・プロモーションのレッスンピース獲得量{0}%UP"
-  },
-  "232": {
-    "word": "フォトアルバム"
-  },
-  "233": {
-    "word": "{1} 販売中！"
-  },
-  "234": {
-    "word": "条件を満たすと報酬を獲得できます。"
-  },
-  "235": {
-    "word": "次回更新までの残り回数　{0}回"
-  },
-  "236": {
-    "word": "このグッズケースを非公開にします。"
-  },
-  "237": {
-    "word": "ケースのBGMを設定できます。"
-  },
-  "238": {
-    "word": "配置されているグッズを全て収納します。"
-  },
-  "239": {
-    "word": "床"
-  },
-  "24": {
-    "word": "・プロモーションのアイテム獲得効率UP"
-  },
-  "240": {
-    "word": "壁(正面)"
-  },
-  "241": {
-    "word": "壁(左)"
-  },
-  "242": {
-    "word": "壁(右)"
-  },
-  "243": {
-    "word": "鑑賞に遷移できません"
-  },
-  "244": {
-    "word": "名刺タップでフレンドのグッズケースへ移動します。"
-  },
-  "245": {
-    "word": "グッズケース検索"
-  },
-  "246": {
-    "word": "グッズケースがありません"
-  },
-  "248": {
-    "word": "グッズを飾りましょう"
-  },
-  "249": {
-    "word": "グッズケース"
-  },
-  "25": {
-    "word": "アイテム獲得効率UP"
-  },
-  "250": {
-    "word": "グッズの表示を変更します。"
-  },
-  "251": {
-    "word": "プレビュー"
-  },
-  "252": {
-    "word": "続報をお待ちください"
-  },
-  "253": {
-    "word": "解放をお待ちください"
-  },
-  "254": {
-    "word": "グループやアイドルの過去を描いた物語"
-  },
-  "255": {
-    "word": "前のステージを鑑賞しましょう"
-  },
-  "256": {
-    "word": "最新エリアから"
-  },
-  "257": {
-    "word": "※ツアースタミナは{0}後に1追加されます。"
-  },
-  "258": {
-    "word": "定例ツアー"
-  },
-  "26": {
-    "word": "特別合宿"
-  },
-  "27": {
-    "word": "開花Pt確認"
-  },
-  "28": {
-    "word": "※レアリティ最大時"
-  },
-  "29": {
-    "word": "自主トレで入手可能です。"
-  },
-  "3": {
-    "word": "すべて(編成中のアクセサリを含む)"
-  },
-  "30": {
-    "word": "所属　{0}"
-  },
-  "31": {
-    "word": "撮影解放チケット"
-  },
-  "32": {
-    "word": "ストーリーの撮影を解放"
-  },
-  "34": {
-    "word": "スタッフ育成で使用"
-  },
-  "35": {
-    "word": "{0}のヘアスタイル"
-  },
-  "36": {
-    "word": "ホームから確認できます"
-  },
-  "37": {
-    "word": "ホームから確認できます"
-  },
-  "38": {
-    "word": "お気に入り衣装に設定しました"
-  },
-  "39": {
-    "word": "おまかせ設定が取り消されました"
-  },
-  "4": {
+  "bk1:[[\"key\",\"accessory.enhance.setting.sheet.ExcludeAllDeck\"]]": {
     "word": "標準(編成中のアクセサリを含まない)"
   },
-  "40": {
-    "word": "装備制限"
+  "bk1:[[\"key\",\"accessory.enhance.setting.sheet.allUserAccessory\"]]": {
+    "word": "すべて(編成中のアクセサリを含む)"
   },
-  "41": {
-    "word": "スタミナ追加"
-  },
-  "42": {
-    "word": "進捗"
-  },
-  "43": {
-    "word": "累計報酬 {0}/{1}"
-  },
-  "44": {
-    "word": "第{0}エリア"
-  },
-  "45": {
-    "word": "特別ストーリーマス"
-  },
-  "46": {
-    "word": "特別なストーリーを見ることができます。"
-  },
-  "47": {
-    "word": "ゴールマス"
-  },
-  "48": {
-    "word": "ピッタリ到着ボーナス!"
-  },
-  "49": {
-    "word": "バトルマス"
-  },
-  "5": {
+  "bk1:[[\"key\",\"accessory.enhance.setting.sheet.excludeLeagueDeck\"]]": {
     "word": "VENUSリーグ以外\n(VENUSリーグ編成中のアクセサリは含まない)"
   },
-  "50": {
-    "word": "ライブバトルをプレイします。"
-  },
-  "51": {
-    "word": "ライブをプレイします。"
-  },
-  "52": {
-    "word": "ライブマス"
-  },
-  "53": {
-    "word": "ライブをプレイします。"
-  },
-  "54": {
-    "word": "メダルを獲得できます。"
-  },
-  "55": {
-    "word": "コインを獲得できます。"
-  },
-  "56": {
-    "word": "{0}マス進む"
-  },
-  "57": {
-    "word": "{0}マス進みます。"
-  },
-  "58": {
-    "word": "ショップマス"
-  },
-  "59": {
-    "word": "コインでアイテムなどを購入できます。"
-  },
-  "6": {
+  "bk1:[[\"key\",\"accessory.limitBreak.sheet.description\"]]": {
     "word": "以下の素材を消費して上限突破を行います。"
   },
-  "60": {
-    "word": "ストーリーマス"
-  },
-  "61": {
-    "word": "ストーリーを見ることができます。"
-  },
-  "62": {
-    "word": "メダル交換所"
-  },
-  "63": {
-    "word": "スタミナ最大"
-  },
-  "64": {
-    "word": "進んだマス数に応じて翌日のログイン時に獲得できます。"
-  },
-  "65": {
-    "word": "ゴールマスのハイスコア 上位{0}名"
-  },
-  "66": {
-    "word": "所持コイン"
-  },
-  "67": {
-    "word": "コイン"
-  },
-  "68": {
-    "word": "コインでアイテムを購入します。"
-  },
-  "69": {
-    "word": "所持枠の上限に達しています。先に売却してください。"
-  },
-  "7": {
+  "bk1:[[\"key\",\"accessory.limitBreak.sheet.execute\"]]": {
     "word": "実行する"
   },
-  "70": {
-    "word": "ストーリー"
-  },
-  "72": {
-    "word": "{0}マス"
-  },
-  "73": {
-    "word": "すごろく"
-  },
-  "75": {
-    "word": "本日のイメトレマニュアルを受け取りました。\n※イベント終了後に自動で売却されます。"
-  },
-  "76": {
-    "word": "{0}件の報酬を獲得しました。"
-  },
-  "77": {
-    "word": "アイテム獲得"
-  },
-  "78": {
-    "word": "イベントが終了しました"
-  },
-  "79": {
-    "word": "Ptを消費してアイドル活動を実行します。"
-  },
-  "8": {
+  "bk1:[[\"key\",\"accessory.limitBreak.sheet.title\"]]": {
     "word": "アクセサリ上限突破"
   },
-  "80": {
-    "word": "挑戦する"
-  },
-  "81": {
-    "word": "実行確認"
-  },
-  "82": {
-    "word": "アイドル活動"
-  },
-  "83": {
-    "word": "実行する"
-  },
-  "84": {
-    "word": "必要アイテム"
-  },
-  "85": {
-    "word": "所持アイテム"
-  },
-  "86": {
-    "word": "ポイントが不足しています"
-  },
-  "87": {
-    "word": "累計獲得アイテム"
-  },
-  "88": {
-    "word": "すごろくイベント"
-  },
-  "89": {
-    "word": "イメージトレーニング"
-  },
-  "9": {
+  "bk1:[[\"key\",\"accessory.top.limitBreak\"]]": {
     "word": "上限突破"
   },
-  "90": {
+  "bk1:[[\"key\",\"accessory.top.limitBreak.done\"]]": {
+    "word": "上限突破しました"
+  },
+  "bk1:[[\"key\",\"account.top.group.move.label10\"]]": {
+    "word": "グループ移動後、14日間は反映停止状態となり、ランキングとVENUSランクの最速達成者の対象外となります。\n現在のグループで所持しているVENUSポイントはそのまま引き継ぎます。\n既に受け取り済みの達成者報酬は、再度受け取ることができません。\n反映停止状態の間も、VENUSポイントの獲得と減少は発生します。"
+  },
+  "bk1:[[\"key\",\"account.top.group.move.label3\"]]": {
+    "word": "全てのマネージャーは開始時期や人数に応じて\n「グループ」に振り分けられます。"
+  },
+  "bk1:[[\"key\",\"account.top.group.move.label4\"]]": {
+    "word": "最初に所属したグループの平均マネージャーLvを基準とし、移動先のグループの平均マネージャーLvが高ければ移動が可能です。\n条件を満たしていれば、いつでもグループの移動が可能です。\nグループを移動することで、ユニオン・ランキング・VENUSプログラムの要素に変更が発生します。"
+  },
+  "bk1:[[\"key\",\"account.top.group.move.label5\"]]": {
+    "word": "\nユニオンに関する注意点"
+  },
+  "bk1:[[\"key\",\"account.top.group.move.label6\"]]": {
+    "word": "移動先グループのユニオンに所属となります。\n現在所属しているユニオンと同名のユニオンに自動で所属します。\nユニオンメダルは切り替え先グループにも持ち越されます。\nスタッフ育成のLvは切り替え先グループにも持ち越されます。\nユニオンライブ開催中はグループ移動ができません。"
+  },
+  "bk1:[[\"key\",\"account.top.group.move.label7\"]]": {
+    "word": "ランキングに関する注意点"
+  },
+  "bk1:[[\"key\",\"account.top.group.move.label8\"]]": {
+    "word": "以下は移動先のグループのランキングに参加となります。\n・ファンイベント\n・ハイスコアライブ\n・VENUSバトル\nVENUSバトルは移動前の順位とスコアは全てリセットされます。\nプロフィールの過去最高順位は、現在の最高順位を引き継ぎます。"
+  },
+  "bk1:[[\"key\",\"account.top.group.move.label9\"]]": {
+    "word": "VENUSプログラムに関する注意点"
+  },
+  "bk1:[[\"key\",\"activity.campaign.effect.hover.coreFan\"]]": {
+    "word": "・ファンイベントのコアファン率上昇効率UP"
+  },
+  "bk1:[[\"key\",\"activity.campaign.effect.hover.fanCount\"]]": {
+    "word": "・プロモーションのファン数上昇量UP"
+  },
+  "bk1:[[\"key\",\"activity.campaign.effect.hover.gold\"]]": {
+    "word": "・プロモーションの獲得コイン{0}%UP"
+  },
+  "bk1:[[\"key\",\"activity.campaign.effect.hover.goldDown\"]]": {
+    "word": "・リフレッシュ消費コイン{0}%OFF"
+  },
+  "bk1:[[\"key\",\"activity.campaign.effect.hover.item\"]]": {
+    "word": "・プロモーションのレッスンピース獲得量{0}%UP"
+  },
+  "bk1:[[\"key\",\"activity.campaign.effect.hover.reward\"]]": {
+    "word": "・プロモーションのアイテム獲得効率UP"
+  },
+  "bk1:[[\"key\",\"activity.campaign.effect.reward\"]]": {
+    "word": "アイテム獲得効率UP"
+  },
+  "bk1:[[\"key\",\"backside.top.mini.smallTitle\"]]": {
+    "word": "特別合宿"
+  },
+  "bk1:[[\"key\",\"card.detail.limitBreak.point.sheet.title\"]]": {
+    "word": "開花Pt確認"
+  },
+  "bk1:[[\"key\",\"card.preview.maxAlert\"]]": {
+    "word": "※レアリティ最大時"
+  },
+  "bk1:[[\"key\",\"card.support.releaseItem.description\"]]": {
+    "word": "自主トレで入手可能です。"
+  },
+  "bk1:[[\"key\",\"chara.detail.team\"]]": {
+    "word": "所属　{0}"
+  },
+  "bk1:[[\"key\",\"common.activatePhotoShootingStoryTicket\"]]": {
+    "word": "撮影解放チケット"
+  },
+  "bk1:[[\"key\",\"common.activatePhotoShootingStoryTicket.description\"]]": {
+    "word": "ストーリーの撮影を解放"
+  },
+  "bk1:[[\"key\",\"common.guildMedal.description\"]]": {
+    "word": "スタッフ育成で使用"
+  },
+  "bk1:[[\"key\",\"common.hair.description.withCharacterName\"]]": {
+    "word": "{0}のヘアスタイル"
+  },
+  "bk1:[[\"key\",\"company.enjoy.hover.memory.still\"]]": {
+    "word": "ホームから確認できます"
+  },
+  "bk1:[[\"key\",\"company.toast.enjoy.memory.still\"]]": {
+    "word": "ホームから確認できます"
+  },
+  "bk1:[[\"key\",\"costume.chara.update\"]]": {
+    "word": "お気に入り衣装に設定しました"
+  },
+  "bk1:[[\"key\",\"deck.entrust.undo\"]]": {
+    "word": "おまかせ設定が取り消されました"
+  },
+  "bk1:[[\"key\",\"deck.photo.retouched\"]]": {
+    "word": "装備制限"
+  },
+  "bk1:[[\"key\",\"dice.addDice\"]]": {
+    "word": "スタミナ追加"
+  },
+  "bk1:[[\"key\",\"dice.main.button.daily.tomorrow\"]]": {
+    "word": "進捗"
+  },
+  "bk1:[[\"key\",\"dice.main.button.rewardExchange.progress\"]]": {
+    "word": "累計報酬 {0}/{1}"
+  },
+  "bk1:[[\"key\",\"dice.main.label.totalAreaCount\"]]": {
+    "word": "第{0}エリア"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.force.story\"]]": {
+    "word": "特別ストーリーマス"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.force.story.hover\"]]": {
+    "word": "特別なストーリーを見ることができます。"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.goal\"]]": {
+    "word": "ゴールマス"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.goal.justStop\"]]": {
+    "word": "ピッタリ到着ボーナス!"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.live.battle\"]]": {
+    "word": "バトルマス"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.live.battle.hover\"]]": {
+    "word": "ライブバトルをプレイします。"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.live.hover\"]]": {
+    "word": "ライブをプレイします。"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.live.score\"]]": {
+    "word": "ライブマス"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.live.score.hover\"]]": {
+    "word": "ライブをプレイします。"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.medal.hover\"]]": {
+    "word": "メダルを獲得できます。"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.money.hover\"]]": {
+    "word": "コインを獲得できます。"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.move\"]]": {
+    "word": "{0}マス進む"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.move.hover\"]]": {
+    "word": "{0}マス進みます。"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.shop\"]]": {
+    "word": "ショップマス"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.shop.hover\"]]": {
+    "word": "コインでアイテムなどを購入できます。"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.story\"]]": {
+    "word": "ストーリーマス"
+  },
+  "bk1:[[\"key\",\"dice.main.panel.story.hover\"]]": {
+    "word": "ストーリーを見ることができます。"
+  },
+  "bk1:[[\"key\",\"dice.main.shop.button\"]]": {
+    "word": "メダル交換所"
+  },
+  "bk1:[[\"key\",\"dice.maxDice\"]]": {
+    "word": "スタミナ最大"
+  },
+  "bk1:[[\"key\",\"dice.sheet.dailyReward.description\"]]": {
+    "word": "進んだマス数に応じて翌日のログイン時に獲得できます。"
+  },
+  "bk1:[[\"key\",\"dice.sheet.ranking.description\"]]": {
+    "word": "ゴールマスのハイスコア 上位{0}名"
+  },
+  "bk1:[[\"key\",\"dice.sheet.selectItem.ownedMedal\"]]": {
+    "word": "所持コイン"
+  },
+  "bk1:[[\"key\",\"dice.sheet.shop.Purchase.description\"]]": {
+    "word": "コインでアイテムを購入します。"
+  },
+  "bk1:[[\"key\",\"dice.sheet.shop.money\"]]": {
+    "word": "コイン"
+  },
+  "bk1:[[\"key\",\"dice.shop.description.purchase.max\"]]": {
+    "word": "所持枠の上限に達しています。先に売却してください。"
+  },
+  "bk1:[[\"key\",\"dice.story.title\"]]": {
+    "word": "ストーリー"
+  },
+  "bk1:[[\"key\",\"dice.top.button.sheet.progress\"]]": {
+    "word": "{0}マス"
+  },
+  "bk1:[[\"key\",\"dice.top.smallTitle\"]]": {
+    "word": "すごろく"
+  },
+  "bk1:[[\"key\",\"dream.top.receive.overlay.description\"]]": {
+    "word": "本日のイメトレマニュアルを受け取りました。\n※イベント終了後に自動で売却されます。"
+  },
+  "bk1:[[\"key\",\"duty.overlay.receive.all.count\"]]": {
+    "word": "{0}件の報酬を獲得しました。"
+  },
+  "bk1:[[\"key\",\"duty.overlay.receive.title\"]]": {
+    "word": "アイテム獲得"
+  },
+  "bk1:[[\"key\",\"duty.season.change\"]]": {
+    "word": "イベントが終了しました"
+  },
+  "bk1:[[\"key\",\"duty.sheet.description\"]]": {
+    "word": "Ptを消費してアイドル活動を実行します。"
+  },
+  "bk1:[[\"key\",\"duty.sheet.execute\"]]": {
+    "word": "挑戦する"
+  },
+  "bk1:[[\"key\",\"duty.sheet.title\"]]": {
+    "word": "実行確認"
+  },
+  "bk1:[[\"key\",\"duty.tab.button.activity\"]]": {
+    "word": "アイドル活動"
+  },
+  "bk1:[[\"key\",\"duty.tab.cell.buttonLabel\"]]": {
+    "word": "実行する"
+  },
+  "bk1:[[\"key\",\"duty.tab.cell.itemLabel\"]]": {
+    "word": "必要アイテム"
+  },
+  "bk1:[[\"key\",\"duty.tab.duty.ownedItem\"]]": {
+    "word": "所持アイテム"
+  },
+  "bk1:[[\"key\",\"duty.tab.duty.pointShortage\"]]": {
+    "word": "ポイントが不足しています"
+  },
+  "bk1:[[\"key\",\"duty.tab.duty.totalItem\"]]": {
+    "word": "累計獲得アイテム"
+  },
+  "bk1:[[\"key\",\"enum.liveCategory.Dice\"]]": {
+    "word": "すごろくイベント"
+  },
+  "bk1:[[\"key\",\"enum.liveCategory.Dream\"]]": {
+    "word": "イメージトレーニング"
+  },
+  "bk1:[[\"key\",\"enum.photoContestBaseEvaluationType.DirectionFront\"]]": {
     "word": "視線"
   },
-  "91": {
+  "bk1:[[\"key\",\"enum.photoContestBaseEvaluationType.DirectionSide\"]]": {
     "word": "視線"
   },
-  "92": {
+  "bk1:[[\"key\",\"enum.photoContestBaseEvaluationType.Pose\"]]": {
     "word": "シーン"
   },
-  "93": {
+  "bk1:[[\"key\",\"enum.photoContestBaseEvaluationType.Position\"]]": {
     "word": "位置"
   },
-  "94": {
+  "bk1:[[\"key\",\"enum.photoContestBaseEvaluationType.SizeFull\"]]": {
     "word": "大きさ"
   },
-  "95": {
+  "bk1:[[\"key\",\"enum.photoContestBaseEvaluationType.SizeUpper\"]]": {
     "word": "大きさ"
   },
-  "96": {
+  "bk1:[[\"key\",\"exchange.card.confirm.description\"]]": {
     "word": "{1}を{0}消費してアイドルを獲得します。"
   },
-  "97": {
+  "bk1:[[\"key\",\"exchange.confirm.sheet.description\"]]": {
     "word": "メダルやポイントなどを消費して交換を行います。"
   },
-  "98": {
+  "bk1:[[\"key\",\"featureLock.special.pvp\"]]": {
     "word": "VENUSバトル開催期間外です"
   },
-  "99": {
+  "bk1:[[\"key\",\"fittingRoom.hair.description.exchange.provideOnlyHair\"]]": {
     "word": "髪型のみの提供となります。"
+  },
+  "bk1:[[\"key\",\"fittingRoom.hair.description.provideOnlyHair\"]]": {
+    "word": "髪型のみの提供となります。"
+  },
+  "bk1:[[\"key\",\"fittingRoom.hair.description.shop.provideOnlyHair\"]]": {
+    "word": "髪型のみの提供となります。"
+  },
+  "bk1:[[\"key\",\"friend.search.title\"]]": {
+    "word": "マネージャー検索"
+  },
+  "bk1:[[\"key\",\"friend.top.invite.share.text\"]]": {
+    "word": "コードを入力してダイヤをもらおう\nアイプラ始めるなら今がチャンス！\n▼招待コード\n{0}\n\nhttps://idolypride.page.link/tw_phcp\n\n※メインライブ#1クリアで入力可能\n#アイプラ"
+  },
+  "bk1:[[\"key\",\"function.maintenance.toast.message\"]]": {
+    "word": "ショップメンテナンス中です"
+  },
+  "bk1:[[\"key\",\"gacha.button.appeal.drawableLimitCount\"]]": {
+    "word": "1日1回"
+  },
+  "bk1:[[\"key\",\"gacha.continuousGacha.share.tweet.template\"]]": {
+    "word": "\nダウンロードはこちらから\n▶︎https://idolypride.page.link/230120tw\n\n#引き放題ガチャ"
+  },
+  "bk1:[[\"key\",\"gacha.continuousGacha.share.tweet.template.title\"]]": {
+    "word": "＼ #アイプラ 引き放題ガチャ／\n\nいま新規でゲームを始めた全員が対象️！\n★5アイドル3人以上確定\n結果を投稿するとさらに10連ガチャが引ける！"
+  },
+  "bk1:[[\"key\",\"gacha.exchange.costume\"]]": {
+    "word": "衣装:{0}"
+  },
+  "bk1:[[\"key\",\"gacha.exchange.notice\"]]": {
+    "word": "ガチャPt、交換内容はガチャごとに異なります。\nすでに所持しているアイドルを交換した場合、開花Ptに変換されます。\n\n「開花Pt付きガチャ」の場合、ピックアップアイドルを交換した際にも開花Ptが付きます。\nピックアップアイドル以外のアイドルには開花Ptは付きません。"
+  },
+  "bk1:[[\"key\",\"gacha.normalGacha.bonusReward\"]]": {
+    "word": "セット\n報酬"
+  },
+  "bk1:[[\"key\",\"gacha.normalGacha.continueCondition\"]]": {
+    "word": "初心者引き放題ガチャ"
+  },
+  "bk1:[[\"key\",\"gacha.normalGacha.detail.probability.hair\"]]": {
+    "word": "ヘアスタイル"
+  },
+  "bk1:[[\"key\",\"gacha.normalGacha.detail.probability.idle\"]]": {
+    "word": "※既に所持している場合プレミアムフォトメダル×1に変換"
+  },
+  "bk1:[[\"key\",\"gacha.normalGacha.detail.probability.normal\"]]": {
+    "word": "詳細"
+  },
+  "bk1:[[\"key\",\"gacha.normalGacha.shareReward\"]]": {
+    "word": "外部投稿でさらに10連無料！"
+  },
+  "bk1:[[\"key\",\"gacha.normalGacha.stamp.confirm.gift\"]]": {
+    "word": "アイテムはギフトに送られます。"
+  },
+  "bk1:[[\"key\",\"gacha.normalGacha.stamp.effect.gift\"]]": {
+    "word": "アイテムはギフトに送られています。"
+  },
+  "bk1:[[\"key\",\"gacha.normalGacha.stamp.nextLabel\"]]": {
+    "word": "次で獲得"
+  },
+  "bk1:[[\"key\",\"gacha.pickupGacha.description\"]]": {
+    "word": "アイドルを選択してください。 ({0}/{1})"
+  },
+  "bk1:[[\"key\",\"guild.reward.description\"]]": {
+    "word": "本日勝利で"
+  },
+  "bk1:[[\"key\",\"home.activity.lesson.character.none.toast\"]]": {
+    "word": "誰もいないようです"
+  },
+  "bk1:[[\"key\",\"home.activity.lesson.rewardDialog.promote.boostItem\"]]": {
+    "word": "スキップアイテムを消費"
+  },
+  "bk1:[[\"key\",\"home.activity.lesson.rewardDialog.reward.title\"]]": {
+    "word": "成果"
+  },
+  "bk1:[[\"key\",\"ladder.event.point.label\"]]": {
+    "word": "メッセPt："
+  },
+  "bk1:[[\"key\",\"ladder.panel.disable.toast.pointShortage\"]]": {
+    "word": "Ptが足りません"
+  },
+  "bk1:[[\"key\",\"ladder.title\"]]": {
+    "word": "報酬マップ"
+  },
+  "bk1:[[\"key\",\"league.aggregating\"]]": {
+    "word": "対戦中"
+  },
+  "bk1:[[\"key\",\"league.aggregating.toast\"]]": {
+    "word": "対戦中です"
+  },
+  "bk1:[[\"key\",\"live.daily.balloon.limitedLive\"]]": {
+    "word": "期間限定開催中！"
+  },
+  "bk1:[[\"key\",\"live.outline.audienceCount\"]]": {
+    "word": "来場ファン数"
+  },
+  "bk1:[[\"key\",\"live.questDetailSheet.gvgDescription\"]]": {
+    "word": "ユニオンライブ"
+  },
+  "bk1:[[\"key\",\"live.result.previewSheet.title\"]]": {
+    "word": "ライブ観戦"
+  },
+  "bk1:[[\"key\",\"live.sheet.useStamina.multiply\"]]": {
+    "word": "回分"
+  },
+  "bk1:[[\"key\",\"live.skill.failReason.long.ban\"]]": {
+    "word": "スキル発動不可"
+  },
+  "bk1:[[\"key\",\"live.skill.failReason.long.coolTime\"]]": {
+    "word": "CT中"
+  },
+  "bk1:[[\"key\",\"live.skill.failReason.long.countLimit\"]]": {
+    "word": "使用回数上限"
+  },
+  "bk1:[[\"key\",\"live.skill.failReason.long.miss\"]]": {
+    "word": "スキル失敗"
+  },
+  "bk1:[[\"key\",\"live.skill.failReason.long.notHave\"]]": {
+    "word": "スキル未習得"
+  },
+  "bk1:[[\"key\",\"live.skill.failReason.long.stamina\"]]": {
+    "word": "スタミナ不足"
+  },
+  "bk1:[[\"key\",\"live.skillRate\"]]": {
+    "word": "スキル成功率"
+  },
+  "bk1:[[\"key\",\"live.top.pvp.nextSeason.format\"]]": {
+    "word": "次回:M月d日"
+  },
+  "bk1:[[\"key\",\"love.achievement.locked.toast\"]]": {
+    "word": "1エンドクリアで解放"
+  },
+  "bk1:[[\"key\",\"love.end.unlockSave.description\"]]": {
+    "word": "セーブができるようになりました。"
+  },
+  "bk1:[[\"key\",\"love.episode.release\"]]": {
+    "word": "第{0}話解放"
+  },
+  "bk1:[[\"key\",\"love.lesson.rewardDialog.reward.noExp\"]]": {
+    "word": "{0}LvがMAXになったため、{0}EXPは溜まりません。"
+  },
+  "bk1:[[\"key\",\"love.level.information.hover.lv1.description\"]]": {
+    "word": "「大事な場面」が分かるようになります。"
+  },
+  "bk1:[[\"key\",\"love.level.information.hover.lv1.title\"]]": {
+    "word": "ヒントLv1"
+  },
+  "bk1:[[\"key\",\"love.level.information.hover.lv2.description\"]]": {
+    "word": "「大事な選択肢」が分かるようになります。"
+  },
+  "bk1:[[\"key\",\"love.level.information.hover.lv2.title\"]]": {
+    "word": "ヒントLv2"
+  },
+  "bk1:[[\"key\",\"love.level.release\"]]": {
+    "word": "{0}Lv{1}解放"
+  },
+  "bk1:[[\"key\",\"love.mission.tab.button.limited\"]]": {
+    "word": "デイリー"
+  },
+  "bk1:[[\"key\",\"love.required.exp.label\"]]": {
+    "word": "次のLvまで {0:N0}"
+  },
+  "bk1:[[\"key\",\"love.setting.hintLv.description\"]]": {
+    "word": "ストーリー再生中のヒントLvを設定できます。"
+  },
+  "bk1:[[\"key\",\"love.setting.hintLv.lv1.description\"]]": {
+    "word": "「大事な場面」が分かります"
+  },
+  "bk1:[[\"key\",\"love.setting.hintLv.lv2.description\"]]": {
+    "word": "「大事な選択肢」が分かります"
+  },
+  "bk1:[[\"key\",\"love.setting.hintLv.notice\"]]": {
+    "word": "※ヒントLvは{0}Lvによって解放されます。"
+  },
+  "bk1:[[\"key\",\"love.setting.voice.description\"]]": {
+    "word": "ストーリー再生中の主人公のボイス設定ができます。"
+  },
+  "bk1:[[\"key\",\"love.sheet.adv.exit.description\"]]": {
+    "word": "ストーリーを中断します。"
+  },
+  "bk1:[[\"key\",\"love.sheet.adv.exit.execute\"]]": {
+    "word": "中断する"
+  },
+  "bk1:[[\"key\",\"love.sheet.adv.exit.title\"]]": {
+    "word": "中断しますか？"
+  },
+  "bk1:[[\"key\",\"love.sheet.adv.hint.description\"]]": {
+    "word": "ストーリー再生中のヒントLvを設定できます。"
+  },
+  "bk1:[[\"key\",\"love.sheet.adv.menu.description\"]]": {
+    "word": "{0}のメニューです"
+  },
+  "bk1:[[\"key\",\"love.sheet.adv.menu.exit\"]]": {
+    "word": "中断する"
+  },
+  "bk1:[[\"key\",\"love.sheet.load.description\"]]": {
+    "word": "データ{0}をロードします。"
+  },
+  "bk1:[[\"key\",\"love.sheet.overwrite.description\"]]": {
+    "word": "データ{0}に上書きします。"
+  },
+  "bk1:[[\"key\",\"love.sheet.playing.description\"]]": {
+    "word": "一覧へ戻ると、中断データは削除されます。"
+  },
+  "bk1:[[\"key\",\"love.sheet.playing.restart\"]]": {
+    "word": "話の一覧へ"
+  },
+  "bk1:[[\"key\",\"love.sheet.resetStory.description\"]]": {
+    "word": "ストーリーを1話からやり直します。"
+  },
+  "bk1:[[\"key\",\"love.sheet.resetStory.title\"]]": {
+    "word": "最初からプレイしますか？"
+  },
+  "bk1:[[\"key\",\"marathon.raid.mission.title.sub\"]]": {
+    "word": "マルチリンクス"
+  },
+  "bk1:[[\"key\",\"marathon.releasePointAmount\"]]": {
+    "word": "解放Pt：{0}"
+  },
+  "bk1:[[\"key\",\"marathon.sheet.staminaRecoveryItemSelect.kStamina.description\"]]": {
+    "word": "Kスタミナ"
+  },
+  "bk1:[[\"key\",\"marathon.sheet.staminaRecoveryItemSelect.lStamina.description\"]]": {
+    "word": "Lスタミナ"
+  },
+  "bk1:[[\"key\",\"marathon.top.raid.smallTitle\"]]": {
+    "word": "マルチリンクス"
+  },
+  "bk1:[[\"key\",\"marathon.top.raid.update.button.toast\"]]": {
+    "word": "更新可能まで あと{0}秒"
+  },
+  "bk1:[[\"key\",\"marathon.top.smallTitle\"]]": {
+    "word": "マルチリンクス"
+  },
+  "bk1:[[\"key\",\"mosaic.title\"]]": {
+    "word": "メダル交換"
+  },
+  "bk1:[[\"key\",\"mosaic.totalConsumption.countLabel\"]]": {
+    "word": "消費したポイント"
+  },
+  "bk1:[[\"key\",\"notification.activity.fanEvent.message\"]]": {
+    "word": "ファンイベントが終了しました。\n確認に行きましょう！"
+  },
+  "bk1:[[\"key\",\"notification.activity.lesson.message\"]]": {
+    "word": "自主トレの報酬が上限に達しました。\n確認に行きましょう！"
+  },
+  "bk1:[[\"key\",\"notification.activity.promotion.message\"]]": {
+    "word": "プロモーションが終了しました。\n確認に行きましょう！"
+  },
+  "bk1:[[\"key\",\"notification.activity.refresh.message\"]]": {
+    "word": "リフレッシュが終了しました。\n確認に行きましょう！"
+  },
+  "bk1:[[\"key\",\"notification.love.lesson.message\"]]": {
+    "word": "{0}の報酬が上限に達しました。\n確認に行きましょう！"
+  },
+  "bk1:[[\"key\",\"notification.noLogin.message\"]]": {
+    "word": "本日まだログインしていません。"
+  },
+  "bk1:[[\"key\",\"notification.noMorningLogin.message\"]]": {
+    "word": "おはようございます。\n本日のログインをお忘れなく！"
+  },
+  "bk1:[[\"key\",\"notification.race.activity.lesson.message\"]]": {
+    "word": "レース特訓の報酬が上限に達しました。\n確認に行きましょう！"
+  },
+  "bk1:[[\"key\",\"photo.detail.equipableCharacter\"]]": {
+    "word": "編成可能："
+  },
+  "bk1:[[\"key\",\"photo.sell.bulk.sheet.description\"]]": {
+    "word": "指定した条件のフォトを一括で選択します。(最大300枚)"
+  },
+  "bk1:[[\"key\",\"photo.sell.empty\"]]": {
+    "word": "フォトを選択してください"
+  },
+  "bk1:[[\"key\",\"photoContest.eventFilm\"]]": {
+    "word": "イベント撮影パス"
+  },
+  "bk1:[[\"key\",\"photoContest.photography.sheet.confirm.noItem\"]]": {
+    "word": "イベント撮影パスを所持していません"
+  },
+  "bk1:[[\"key\",\"photoContest.top.overlay.description\"]]": {
+    "word": "本日のイベント撮影パスを受け取りました。\n※イベント終了後に自動で売却されます。"
+  },
+  "bk1:[[\"key\",\"photoContest.top.overlay.title\"]]": {
+    "word": "イベント撮影パス入手"
+  },
+  "bk1:[[\"key\",\"photography.photo.execute\"]]": {
+    "word": "決定する"
+  },
+  "bk1:[[\"key\",\"photography.sheet.confirm.close\"]]": {
+    "word": "やめる"
+  },
+  "bk1:[[\"key\",\"photography.sheet.confirm.description\"]]": {
+    "word": "以下の設定で開始します。"
+  },
+  "bk1:[[\"key\",\"photography.sheet.confirm.preview\"]]": {
+    "word": "鑑賞する"
+  },
+  "bk1:[[\"key\",\"photography.sheet.confirm.title\"]]": {
+    "word": "設定確認"
+  },
+  "bk1:[[\"key\",\"photography.sheet.contest.exit.button.noFilm\"]]": {
+    "word": "イベント撮影パスを所持していません"
+  },
+  "bk1:[[\"key\",\"photography.sheet.contest.exit.button.share\"]]": {
+    "word": "SNS投稿"
+  },
+  "bk1:[[\"key\",\"photography.sheet.contest.exit.tweet.template\"]]": {
+    "word": "＼ 初音ミクコラボ第3弾×アイプラ写真判定 ／\nあなたのスコアはこちら ！\n水着衣装の初音ミクが登場する初回10連無料のコラボガチャ開催！\n今ならコラボ衣装がもらえる！\nhttps://idolypride.page.link/LZqk\n#初音ミク本気フォト"
+  },
+  "bk1:[[\"key\",\"photography.sheet.contest.submission.description\"]]": {
+    "word": "イベント撮影パスを消費して写真を提出します。"
+  },
+  "bk1:[[\"key\",\"photography.story.episode.empty.description\"]]": {
+    "word": "解放されたストーリーが表示されます"
+  },
+  "bk1:[[\"key\",\"photography.story.sheet.release.disable\"]]": {
+    "word": "撮影解放チケットがありません"
+  },
+  "bk1:[[\"key\",\"photography.top.list.description\"]]": {
+    "word": "アイドルを選択してください。"
+  },
+  "bk1:[[\"key\",\"photography.top.title\"]]": {
+    "word": "撮影・鑑賞"
+  },
+  "bk1:[[\"key\",\"profile.sheet.birthday.caution\"]]": {
+    "word": "※他マネージャーには表示されません。"
+  },
+  "bk1:[[\"key\",\"profile.sheet.twitter.tweet.template\"]]": {
+    "word": "よろしくお願い致します。\n\nhttps://idolypride.page.link/share\n#アイプラ名刺交換 #アイプラ"
+  },
+  "bk1:[[\"key\",\"profile.top.friend.noFriend\"]]": {
+    "word": "名刺を所持していません。"
+  },
+  "bk1:[[\"key\",\"race.overlay.ranking.description\"]]": {
+    "word": "レース進行度（{1}）"
+  },
+  "bk1:[[\"key\",\"roulette.overlay.description\"]]": {
+    "word": "獲得しました"
+  },
+  "bk1:[[\"key\",\"roulette.overlay.title\"]]": {
+    "word": "ルーレット報酬"
+  },
+  "bk1:[[\"key\",\"roulette.reward.sheet.description\"]]": {
+    "word": "ルーレットを回すことで獲得可能なアイテムです。"
+  },
+  "bk1:[[\"key\",\"roulette.reward.sheet.title\"]]": {
+    "word": "獲得可能アイテム"
+  },
+  "bk1:[[\"key\",\"roulette.top.description\"]]": {
+    "word": "動画広告を見て最大{0}回プレイできます。"
+  },
+  "bk1:[[\"key\",\"roulette.top.drawLabel\"]]": {
+    "word": "{0}/{1}回"
+  },
+  "bk1:[[\"key\",\"sheet.radioButtonSelectItem.title\"]]": {
+    "word": "アイテム選択"
+  },
+  "bk1:[[\"key\",\"shelf.home.tab.album.change.template.sheet.title\"]]": {
+    "word": "デザイン選択"
+  },
+  "bk1:[[\"key\",\"shelf.home.tab.album.get.button\"]]": {
+    "word": "アルバム現像"
+  },
+  "bk1:[[\"key\",\"shelf.top.smallTitle\"]]": {
+    "word": "フォトアルバム"
+  },
+  "bk1:[[\"key\",\"shop.common.remainingTime\"]]": {
+    "word": "{1} 販売中！"
+  },
+  "bk1:[[\"key\",\"shop.condition.description\"]]": {
+    "word": "条件を満たすと報酬を獲得できます。"
+  },
+  "bk1:[[\"key\",\"shop.sheet.marketResetConfirm.remainCount\"]]": {
+    "word": "次回更新までの残り回数　{0}回"
+  },
+  "bk1:[[\"key\",\"showcase.case.detail.sheet.private.description\"]]": {
+    "word": "このグッズケースを非公開にします。"
+  },
+  "bk1:[[\"key\",\"showcase.case.music.sheet.description\"]]": {
+    "word": "ケースのBGMを設定できます。"
+  },
+  "bk1:[[\"key\",\"showcase.customize.cleanup.confirm.sheet.description\"]]": {
+    "word": "配置されているグッズを全て収納します。"
+  },
+  "bk1:[[\"key\",\"showcase.customize.edit.side.floor\"]]": {
+    "word": "床"
+  },
+  "bk1:[[\"key\",\"showcase.customize.edit.side.wall.back\"]]": {
+    "word": "壁(正面)"
+  },
+  "bk1:[[\"key\",\"showcase.customize.edit.side.wall.left\"]]": {
+    "word": "壁(左)"
+  },
+  "bk1:[[\"key\",\"showcase.customize.edit.side.wall.right\"]]": {
+    "word": "壁(右)"
+  },
+  "bk1:[[\"key\",\"showcase.gallery.preview.cant.move.toast\"]]": {
+    "word": "鑑賞に遷移できません"
+  },
+  "bk1:[[\"key\",\"showcase.gallery.sheet.friendSearch.description\"]]": {
+    "word": "名刺タップでフレンドのグッズケースへ移動します。"
+  },
+  "bk1:[[\"key\",\"showcase.gallery.sheet.hashtagSearch.title\"]]": {
+    "word": "グッズケース検索"
+  },
+  "bk1:[[\"key\",\"showcase.gallery.sheet.idSearch.toast.empty\"]]": {
+    "word": "グッズケースがありません"
+  },
+  "bk1:[[\"key\",\"showcase.top.customize.description\"]]": {
+    "word": "グッズを飾りましょう"
+  },
+  "bk1:[[\"key\",\"showcase.top.title\"]]": {
+    "word": "グッズケース"
+  },
+  "bk1:[[\"key\",\"showcase.toy.filter.sheet.description\"]]": {
+    "word": "グッズの表示を変更します。"
+  },
+  "bk1:[[\"key\",\"showcase.toy.preview\"]]": {
+    "word": "プレビュー"
+  },
+  "bk1:[[\"key\",\"specialPhotography.top.activity.locked.toast\"]]": {
+    "word": "続報をお待ちください"
+  },
+  "bk1:[[\"key\",\"specialPhotography.top.live.locked.toast\"]]": {
+    "word": "解放をお待ちください"
+  },
+  "bk1:[[\"key\",\"story.top.group\"]]": {
+    "word": "グループやアイドルの過去を描いた物語"
+  },
+  "bk1:[[\"key\",\"theater.episode.disable.toast\"]]": {
+    "word": "前のステージを鑑賞しましょう"
+  },
+  "bk1:[[\"key\",\"tour.sheet.resume.area\"]]": {
+    "word": "最新エリアから"
+  },
+  "bk1:[[\"key\",\"tour.sheet.stamina.description\"]]": {
+    "word": "※ツアースタミナは{0}後に1追加されます。"
+  },
+  "bk1:[[\"key\",\"tour.top.smallTitle.miniTour\"]]": {
+    "word": "定例ツアー"
   }
 }

@@ -7,6 +7,10 @@ __pycache__/
 *.bak
 *.log
 .analysis/
+.agent-local/
+master/.master-key-migration-in-progress.json
+master/.master-export-in-progress.json
+master/.master-archive/
 cache/
 working/
 capture/

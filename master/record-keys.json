@@ -1,0 +1,135 @@
+{
+  "business_key_prefix": "bk1:",
+  "business_keys": {
+    "CardEvolutionMessage": [
+      {
+        "field": "cardId",
+        "type": "string"
+      },
+      {
+        "field": "evolutionLevel",
+        "type": "integer"
+      },
+      {
+        "field": "number",
+        "type": "integer"
+      }
+    ],
+    "ExcursionGazeReaction": [
+      {
+        "field": "characterId",
+        "type": "string"
+      },
+      {
+        "field": "excursionPlaceId",
+        "type": "string"
+      },
+      {
+        "field": "number",
+        "type": "integer"
+      }
+    ],
+    "ExerciseHint": [
+      {
+        "field": "exerciseId",
+        "type": "string"
+      }
+    ],
+    "GachaStamp": [
+      {
+        "field": "groupId",
+        "type": "string"
+      },
+      {
+        "field": "sheetNumber",
+        "type": "integer"
+      },
+      {
+        "field": "stampNumber",
+        "type": "integer"
+      }
+    ],
+    "HomeAction": [
+      {
+        "field": "homeActionId",
+        "type": "string"
+      }
+    ],
+    "HomeBackground": [
+      {
+        "field": "homeBackgroundId",
+        "type": "string"
+      }
+    ],
+    "HomeDramaPosition": [
+      {
+        "field": "homeDramaPositionId",
+        "type": "string"
+      }
+    ],
+    "HomeTalk": [
+      {
+        "field": "homeTalkId",
+        "type": "string"
+      }
+    ],
+    "HomeTalkCallPattern": [
+      {
+        "field": "characterId",
+        "type": "string"
+      },
+      {
+        "field": "patternId",
+        "type": "string"
+      }
+    ],
+    "MarathonBoxGachaSetting": [
+      {
+        "field": "marathonId",
+        "type": "string"
+      },
+      {
+        "field": "boxGachaId",
+        "type": "string"
+      }
+    ],
+    "PhotoExpressionStagePosition": [
+      {
+        "field": "stageId",
+        "type": "string"
+      },
+      {
+        "field": "number",
+        "type": "integer"
+      }
+    ],
+    "StaffTraining": [
+      {
+        "field": "parameterType",
+        "type": "enum"
+      }
+    ],
+    "StatusEffectName": [
+      {
+        "field": "statusEffectType",
+        "type": "enum"
+      }
+    ],
+    "Tutorial": [
+      {
+        "field": "type",
+        "type": "enum"
+      }
+    ],
+    "Wording": [
+      {
+        "field": "key",
+        "type": "string"
+      }
+    ]
+  },
+  "encoding": "compact-json-field-value-pairs",
+  "missing_json_fields": "error",
+  "schema_version": 1,
+  "standard_id": "required string or integer; str(value)"
+}

@@ -15,10 +15,10 @@
     "name": "梦幻可爱拍摄"
   },
   "stage-live-dome-00-00": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "左侧",
-    "cameraPositions[2].name": "右侧",
-    "cameraPositions[3].name": "看台",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "左侧",
+    "cameraPositions[key={\"index\":2}].name": "右侧",
+    "cameraPositions[key={\"index\":3}].name": "看台",
     "name": "公园竞技场武藏野"
   },
   "stage-live-dome-00-01": {
@@ -37,17 +37,17 @@
     "name": "国际巨蛋大阪"
   },
   "stage-live-dome-01-00": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "左侧",
-    "cameraPositions[2].name": "右侧",
-    "cameraPositions[3].name": "看台",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "左侧",
+    "cameraPositions[key={\"index\":2}].name": "右侧",
+    "cameraPositions[key={\"index\":3}].name": "看台",
     "name": "日本传统馆"
   },
   "stage-live-dome-01-01": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "左侧",
-    "cameraPositions[2].name": "右侧",
-    "cameraPositions[3].name": "看台",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "左侧",
+    "cameraPositions[key={\"index\":2}].name": "右侧",
+    "cameraPositions[key={\"index\":3}].name": "看台",
     "name": "大阪国际大厅"
   },
   "stage-live-dome-01-02": {
@@ -63,20 +63,20 @@
     "name": "新国立纪念竞技场"
   },
   "stage-live-dome-01-06": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "左侧",
-    "cameraPositions[2].name": "右侧",
-    "cameraPositions[3].name": "看台",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "左侧",
+    "cameraPositions[key={\"index\":2}].name": "右侧",
+    "cameraPositions[key={\"index\":3}].name": "看台",
     "name": "日本传统馆"
   },
   "stage-live-dome-02-00": {
     "name": "横滨花园大厅"
   },
   "stage-live-dome-02-01": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "左侧",
-    "cameraPositions[2].name": "右侧",
-    "cameraPositions[3].name": "看台",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "左侧",
+    "cameraPositions[key={\"index\":2}].name": "右侧",
+    "cameraPositions[key={\"index\":3}].name": "看台",
     "name": "前桥玻璃巨蛋"
   },
   "stage-live-dome-02-02": {
@@ -86,10 +86,10 @@
     "name": "调布大体育场"
   },
   "stage-live-dome-03-00": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "左侧",
-    "cameraPositions[2].name": "右侧",
-    "cameraPositions[3].name": "看台",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "左侧",
+    "cameraPositions[key={\"index\":2}].name": "右侧",
+    "cameraPositions[key={\"index\":3}].name": "看台",
     "name": "太平洋巨蛋"
   },
   "stage-live-dome-03-01": {
@@ -102,20 +102,20 @@
     "name": "札幌城市巨蛋"
   },
   "stage-live-dome-04-00": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "左侧",
-    "cameraPositions[2].name": "右侧",
-    "cameraPositions[3].name": "看台",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "左侧",
+    "cameraPositions[key={\"index\":2}].name": "右侧",
+    "cameraPositions[key={\"index\":3}].name": "看台",
     "name": "埼玉公园竞技场"
   },
   "stage-live-dome-04-01": {
     "name": "福冈绿色巨蛋"
   },
   "stage-live-dome-05-00": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "左侧",
-    "cameraPositions[2].name": "右侧",
-    "cameraPositions[3].name": "看台",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "左侧",
+    "cameraPositions[key={\"index\":2}].name": "右侧",
+    "cameraPositions[key={\"index\":3}].name": "看台",
     "name": "公园竞技场武藏野"
   },
   "stage-live-hall-00-00": {
@@ -206,11 +206,11 @@
     "name": "未来连接舞台"
   },
   "stage-live-unique-004-00": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "左侧",
-    "cameraPositions[2].name": "右侧",
-    "cameraPositions[3].name": "看台",
-    "cameraPositions[4].name": "后方",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "左侧",
+    "cameraPositions[key={\"index\":2}].name": "右侧",
+    "cameraPositions[key={\"index\":3}].name": "看台",
+    "cameraPositions[key={\"index\":4}].name": "后方",
     "name": "未来夏日舞台"
   },
   "stage-live-unique-01-00": {

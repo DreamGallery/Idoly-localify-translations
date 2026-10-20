@@ -1,13 +1,13 @@
 {
-  "schema_version": 1,
   "game": "IDOLY PRIDE",
+  "master": {
+    "master_tag_version": "a3d8af376646d2a0f73393933f7810c45c9dfeada124694c8af19ee7f12a402e",
+    "orig_snapshot_sha256": "9f49811a083b96918fd5bbf91c1b62cad3ca86247c7131aba64989221954f7dc",
+    "text_tables": 90
+  },
+  "schema_version": 1,
+  "snapshot_hash_format": "SHA-256 over UTF-8 lines sorted by filename: filename + NUL + file SHA-256 + LF",
   "story": {
-    "source_repository": "https://github.com/DreamGallery/Hoshimi-Adv",
-    "resource_revision": 1076,
-    "resource_files": 3486,
-    "translated_csv_files": 3086,
-    "text_fields": 197766,
-    "resource_snapshot_sha256": "4df2f4a3c9c8c429817d348f653978b7c983722f330125f7e09c7d61f33a0a00",
     "csv_columns": [
       "id",
       "name",
@@ -19,12 +19,12 @@
       "text",
       "choice",
       "narration"
-    ]
-  },
-  "master": {
-    "master_tag_version": "a3d8af376646d2a0f73393933f7810c45c9dfeada124694c8af19ee7f12a402e",
-    "text_tables": 90,
-    "orig_snapshot_sha256": "d3f9bdd5575d6a3f2f33c12d9d6ba1c8e0875b21b99747709f151551401d6134"
-  },
-  "snapshot_hash_format": "SHA-256 over UTF-8 lines sorted by filename: filename + NUL + file SHA-256 + LF"
+    ],
+    "resource_files": 3486,
+    "resource_revision": 1076,
+    "resource_snapshot_sha256": "4df2f4a3c9c8c429817d348f653978b7c983722f330125f7e09c7d61f33a0a00",
+    "source_repository": "https://github.com/DreamGallery/Hoshimi-Adv",
+    "text_fields": 197766,
+    "translated_csv_files": 3086
+  }
 }

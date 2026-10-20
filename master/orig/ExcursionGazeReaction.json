@@ -1,1022 +1,1022 @@
 {
-  "1": {
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
     "text": "水鉄砲で遊んでみよう"
   },
-  "10": {
-    "text": "砂浜に降りてみようか……"
-  },
-  "101": {
-    "text": "隣に座ってみようか……"
-  },
-  "102": {
-    "text": "見つめてみようか……"
-  },
-  "103": {
-    "text": "意外と暇だ"
-  },
-  "104": {
-    "text": "kanaさんが何か話したそうだ"
-  },
-  "106": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "107": {
-    "text": "こころと目が合った"
-  },
-  "108": {
-    "text": "水着を借りてこないと……"
-  },
-  "109": {
-    "text": "写真でも撮ろうか……"
-  },
-  "111": {
-    "text": "懐かしい星見の海だ"
-  },
-  "112": {
-    "text": "こころと目が合った"
-  },
-  "113": {
-    "text": "何をして遊ぼうか……"
-  },
-  "114": {
-    "text": "この服は……"
-  },
-  "115": {
-    "text": "水面が輝いている"
-  },
-  "117": {
-    "text": "何か買ってあげようか……"
-  },
-  "118": {
-    "text": "はぐれないよう気をつけよう"
-  },
-  "119": {
-    "text": "感じのいいお店だ"
-  },
-  "12": {
-    "text": "何か買ってあげようか……"
-  },
-  "120": {
-    "text": "一休みしていこうか……"
-  },
-  "122": {
-    "text": "隣に座ってみようか……"
-  },
-  "123": {
-    "text": "見つめてみようか……"
-  },
-  "124": {
-    "text": "意外と暇だ"
-  },
-  "125": {
-    "text": "こころが何か話したそうだ"
-  },
-  "127": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "128": {
-    "text": "何か要求されそうだ"
-  },
-  "129": {
-    "text": "イルカの浮き輪だ"
-  },
-  "13": {
-    "text": "どこか満足気だ"
-  },
-  "130": {
-    "text": "床が滑りやすそうだ"
-  },
-  "132": {
-    "text": "懐かしい星見の海だ"
-  },
-  "133": {
-    "text": "franさんと目が合った"
-  },
-  "134": {
-    "text": "何を話そう……"
-  },
-  "135": {
-    "text": "この服は……"
-  },
-  "136": {
-    "text": "何か落ちてる……？"
-  },
-  "138": {
-    "text": "奢ってほしそうな気配を感じる"
-  },
-  "139": {
-    "text": "出費が心配だ……"
-  },
-  "14": {
-    "text": "ダンベルでも買ってみようか……"
-  },
-  "140": {
-    "text": "目を合わせないようにしよう"
-  },
-  "141": {
-    "text": "一休みしていこうか……"
-  },
-  "143": {
-    "text": "隣に座ってみようか……"
-  },
-  "144": {
-    "text": "見つめてみようか……"
-  },
-  "145": {
-    "text": "チケット、高かったな……"
-  },
-  "146": {
-    "text": "もうすぐ、てっぺんにつきそうだ"
-  },
-  "148": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "149": {
-    "text": "なんだか恥ずかしそう……？"
-  },
-  "15": {
-    "text": "何かくれるみたいだ"
-  },
-  "150": {
-    "text": "羽織るものを借りてこようか……"
-  },
-  "151": {
-    "text": "意外と琴乃も楽しそう……？"
-  },
-  "153": {
-    "text": "琴乃の思い出の場所らしい"
-  },
-  "154": {
-    "text": "琴乃と目が合った"
-  },
-  "155": {
-    "text": "昔と変わらない光景だ"
-  },
-  "156": {
-    "text": "この服は……"
-  },
-  "157": {
-    "text": "綺麗な砂浜だ"
-  },
-  "159": {
-    "text": "何か買ってあげようか……"
-  },
-  "160": {
-    "text": "はぐれないよう気をつけよう"
-  },
-  "161": {
-    "text": "感じのいいお店だ"
-  },
-  "162": {
-    "text": "一休みしていこうか……"
-  },
-  "164": {
-    "text": "隣に座ってみようか……"
-  },
-  "165": {
-    "text": "見つめてみようか……"
-  },
-  "166": {
-    "text": "綺麗な夜景だ"
-  },
-  "167": {
-    "text": "琴乃が何か話したそうだ"
-  },
-  "169": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "17": {
-    "text": "隣に座ってみようか……"
-  },
-  "170": {
-    "text": "芽衣と目が合った"
-  },
-  "171": {
-    "text": "芽衣の視線を感じる"
-  },
-  "172": {
-    "text": "写真映えしそうな場所だ"
-  },
-  "174": {
-    "text": "砂浜に降りてみようか……"
-  },
-  "175": {
-    "text": "見つめてみようか……"
-  },
-  "176": {
-    "text": "遠くまでよく見える"
-  },
-  "177": {
-    "text": "この服は……"
-  },
-  "178": {
-    "text": "波打ち際が見える"
-  },
-  "18": {
-    "text": "見つめてみようか……"
-  },
-  "180": {
-    "text": "何か買ってあげようか……"
-  },
-  "181": {
-    "text": "お店からいい匂いがする"
-  },
-  "182": {
-    "text": "今日は何を買おう？"
-  },
-  "183": {
-    "text": "アイスをくれるみたいだ"
-  },
-  "185": {
-    "text": "隣に座ってみようか……"
-  },
-  "186": {
-    "text": "見つめてみようか……"
-  },
-  "187": {
-    "text": "景色でも見ようか……"
-  },
-  "188": {
-    "text": "もうすぐ、てっぺんにつきそうだ"
-  },
-  "19": {
-    "text": "綺麗な夜景だ"
-  },
-  "190": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "191": {
-    "text": "意外と楽しそう……？"
-  },
-  "192": {
-    "text": "mihoさんの視線を感じる"
-  },
-  "193": {
-    "text": "写真映えしそうな場所だ"
-  },
-  "195": {
-    "text": "懐かしい星見の海だ"
-  },
-  "196": {
-    "text": "嬉しそうかも……？"
-  },
-  "197": {
-    "text": "遠くまでよく見える"
-  },
-  "198": {
-    "text": "この服は……"
-  },
-  "199": {
-    "text": "波の音が心地いい"
-  },
-  "2": {
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
     "text": "どこか自慢げだ"
   },
-  "20": {
-    "text": "もうすぐ、てっぺんにつきそうだ"
-  },
-  "201": {
-    "text": "何か買ってみようか……"
-  },
-  "202": {
-    "text": "どこか嬉しそうだ"
-  },
-  "203": {
-    "text": "後、買うものは……"
-  },
-  "204": {
-    "text": "何かくれるみたいだ"
-  },
-  "206": {
-    "text": "隣に座ってみようか……"
-  },
-  "207": {
-    "text": "見つめてみようか……"
-  },
-  "208": {
-    "text": "綺麗な夜景だ"
-  },
-  "209": {
-    "text": "もうすぐ、てっぺんにつきそうだ"
-  },
-  "211": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "212": {
-    "text": "なんだか恥ずかしそう……？"
-  },
-  "213": {
-    "text": "渚は泳ぐ気満々みたいだ"
-  },
-  "214": {
-    "text": "撮影の練習をしよう"
-  },
-  "216": {
-    "text": "渚の思い出の場所らしい"
-  },
-  "217": {
-    "text": "渚と目が合った"
-  },
-  "218": {
-    "text": "波の音が心地いい"
-  },
-  "219": {
-    "text": "この服は……"
-  },
-  "22": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "220": {
-    "text": "少し歩きたい気分だ"
-  },
-  "222": {
-    "text": "何か買ってあげようか……"
-  },
-  "223": {
-    "text": "恋愛小説がほしいみたいだ"
-  },
-  "224": {
-    "text": "本屋の場所は……"
-  },
-  "225": {
-    "text": "何かくれるみたいだ"
-  },
-  "227": {
-    "text": "隣に座ってみようか……"
-  },
-  "228": {
-    "text": "見つめてみようか……"
-  },
-  "229": {
-    "text": "綺麗な夜景だ"
-  },
-  "23": {
-    "text": "葵と目が合った"
-  },
-  "230": {
-    "text": "渚が何か話したそうだ"
-  },
-  "232": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "233": {
-    "text": "怜と目が合った"
-  },
-  "234": {
-    "text": "怜の視線を感じる"
-  },
-  "235": {
-    "text": "床が滑りやすそうだ"
-  },
-  "237": {
-    "text": "懐かしい地元の海だ"
-  },
-  "238": {
-    "text": "見つめてみようか……"
-  },
-  "239": {
-    "text": "あれは……？"
-  },
-  "24": {
-    "text": "葵の視線を感じる"
-  },
-  "240": {
-    "text": "この服は……"
-  },
-  "241": {
-    "text": "波打ち際が見える"
-  },
-  "243": {
-    "text": "何か買ってあげようか……"
-  },
-  "244": {
-    "text": "何がほしいんだろう……？"
-  },
-  "245": {
-    "text": "明日のスケジュールは……"
-  },
-  "246": {
-    "text": "何かくれるみたいだ"
-  },
-  "248": {
-    "text": "隣に座ってみようか……"
-  },
-  "249": {
-    "text": "見つめてみようか……"
-  },
-  "25": {
-    "text": "床が滑りやすそうだ"
-  },
-  "250": {
-    "text": "景色でも見ようか……"
-  },
-  "251": {
-    "text": "怜がこちらを気にしてる……？"
-  },
-  "253": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "254": {
-    "text": "なんだか恥ずかしそう……？"
-  },
-  "255": {
-    "text": "あまり莉央さんを見るのも……？"
-  },
-  "256": {
-    "text": "床が滑りやすそうだ"
-  },
-  "258": {
-    "text": "懐かしい星見の海だ"
-  },
-  "259": {
-    "text": "何を話そう……？"
-  },
-  "260": {
-    "text": "昔と変わらない光景だ"
-  },
-  "261": {
-    "text": "この服は……"
-  },
-  "262": {
-    "text": "水面が輝いている"
-  },
-  "264": {
-    "text": "何か買ってあげようか……"
-  },
-  "265": {
-    "text": "莉央さんのほしそうなものは……"
-  },
-  "266": {
-    "text": "おもてなし出来てるだろうか"
-  },
-  "267": {
-    "text": "何かくれるみたいだ"
-  },
-  "269": {
-    "text": "隣に座ってみようか……"
-  },
-  "27": {
-    "text": "葵と散歩に来てみたが……"
-  },
-  "270": {
-    "text": "見つめてみようか……"
-  },
-  "271": {
-    "text": "そういえば二人きりだ"
-  },
-  "272": {
-    "text": "もうすぐ、てっぺんにつきそうだ"
-  },
-  "274": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "275": {
-    "text": "なんだか恥ずかしそう……？"
-  },
-  "276": {
-    "text": "瑠依の視線を感じる"
-  },
-  "277": {
-    "text": "床が滑りやすそうだ"
-  },
-  "279": {
-    "text": "懐かしい星見の海岸だ"
-  },
-  "28": {
-    "text": "葵と目が合った"
-  },
-  "280": {
-    "text": "見つめてみようか……"
-  },
-  "281": {
-    "text": "何か落ちてる気がする"
-  },
-  "282": {
-    "text": "この服は……"
-  },
-  "283": {
-    "text": "少し歩きたい気分だ"
-  },
-  "285": {
-    "text": "何か買ってあげようか……"
-  },
-  "286": {
-    "text": "甘い物が食べたそうだ"
-  },
-  "287": {
-    "text": "後、買うものは……"
-  },
-  "288": {
-    "text": "何かくれるみたいだ"
-  },
-  "29": {
-    "text": "波の音が心地いい"
-  },
-  "290": {
-    "text": "隣に座ってみようか……"
-  },
-  "291": {
-    "text": "見つめてみようか……"
-  },
-  "292": {
-    "text": "景色でも見ようか……"
-  },
-  "293": {
-    "text": "もうすぐ、てっぺんにつきそうだ"
-  },
-  "295": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "296": {
-    "text": "なんだか恥ずかしそう……？"
-  },
-  "297": {
-    "text": "泳ぐ前に準備をしないと"
-  },
-  "298": {
-    "text": "撮影の練習をしよう"
-  },
-  "3": {
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
     "text": "愛の視線を感じる"
   },
-  "30": {
-    "text": "この服は……"
-  },
-  "300": {
-    "text": "懐かしい地元の海だ"
-  },
-  "301": {
-    "text": "見つめてみようか……"
-  },
-  "302": {
-    "text": "穏やかな時間が流れている"
-  },
-  "303": {
-    "text": "この服は……"
-  },
-  "304": {
-    "text": "綺麗な砂浜だ"
-  },
-  "306": {
-    "text": "何か買ってあげようか……"
-  },
-  "307": {
-    "text": "隣のお店が気になる……"
-  },
-  "308": {
-    "text": "今日は何を買おう？"
-  },
-  "309": {
-    "text": "何かくれるみたいだ"
-  },
-  "31": {
-    "text": "砂浜に降りてみようか……"
-  },
-  "311": {
-    "text": "隣に座ってみようか……"
-  },
-  "312": {
-    "text": "見つめてみようか……"
-  },
-  "313": {
-    "text": "綺麗な夜景だ"
-  },
-  "314": {
-    "text": "もうすぐ、てっぺんにつきそうだ"
-  },
-  "316": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "317": {
-    "text": "さくらと目が合った"
-  },
-  "318": {
-    "text": "少し休もうか……？"
-  },
-  "319": {
-    "text": "写真でも撮ろうか……"
-  },
-  "321": {
-    "text": "昔のランニングコースだ"
-  },
-  "322": {
-    "text": "さくらと目が合った"
-  },
-  "323": {
-    "text": "懐かしい地元の海だ"
-  },
-  "324": {
-    "text": "この服は……"
-  },
-  "325": {
-    "text": "砂浜に降りてみようか……"
-  },
-  "327": {
-    "text": "何か買ってあげようか……"
-  },
-  "328": {
-    "text": "沢山食べて満足そうだ"
-  },
-  "329": {
-    "text": "後、買うものは……"
-  },
-  "33": {
-    "text": "何か買ってあげようか……"
-  },
-  "330": {
-    "text": "何かくれるみたいだ"
-  },
-  "332": {
-    "text": "隣に座ってみようか……"
-  },
-  "333": {
-    "text": "見つめてみようか……"
-  },
-  "334": {
-    "text": "綺麗な夜景だ"
-  },
-  "335": {
-    "text": "もうすぐ、てっぺんにつきそうだ"
-  },
-  "337": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "338": {
-    "text": "すみれと目が合った"
-  },
-  "339": {
-    "text": "広々としたプールだ"
-  },
-  "34": {
-    "text": "葵は……そばにいるようだ"
-  },
-  "340": {
-    "text": "写真映えしそうな場所だ"
-  },
-  "342": {
-    "text": "何をして遊ぼうか……"
-  },
-  "343": {
-    "text": "すみれと目が合った"
-  },
-  "344": {
-    "text": "灯台が見える"
-  },
-  "345": {
-    "text": "この服は……"
-  },
-  "346": {
-    "text": "波の音が心地いい"
-  },
-  "348": {
-    "text": "何か買ってあげようか……"
-  },
-  "349": {
-    "text": "わくわくしてるようだ"
-  },
-  "35": {
-    "text": "今日は何を買おう？"
-  },
-  "350": {
-    "text": "感じのいいお店だ"
-  },
-  "351": {
-    "text": "一休みしていこうか……"
-  },
-  "353": {
-    "text": "隣に座ってみようか……"
-  },
-  "354": {
-    "text": "見つめてみようか……"
-  },
-  "355": {
-    "text": "景色でも見ようか……"
-  },
-  "356": {
-    "text": "もうすぐ、てっぺんにつきそうだ"
-  },
-  "358": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "359": {
-    "text": "すずと目が合った"
-  },
-  "36": {
-    "text": "一休みしていこうか……"
-  },
-  "360": {
-    "text": "泳ぐ前に準備をしないと"
-  },
-  "361": {
-    "text": "写真映えしそうな場所だ"
-  },
-  "363": {
-    "text": "懐かしい地元の海岸だ"
-  },
-  "364": {
-    "text": "すずと目が合った"
-  },
-  "365": {
-    "text": "なんだかお腹が空いてきた"
-  },
-  "366": {
-    "text": "この服は……"
-  },
-  "367": {
-    "text": "何をして遊ぼうか……"
-  },
-  "369": {
-    "text": "何か買ってあげようか……"
-  },
-  "370": {
-    "text": "何か気にしてそう……？"
-  },
-  "371": {
-    "text": "今日は何を買おう？"
-  },
-  "372": {
-    "text": "何かくれるみたいだ"
-  },
-  "374": {
-    "text": "隣に座ってみようか……"
-  },
-  "375": {
-    "text": "見つめてみようか……"
-  },
-  "376": {
-    "text": "思ったより高い"
-  },
-  "377": {
-    "text": "もうすぐ、てっぺんにつきそうだ"
-  },
-  "379": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "38": {
-    "text": "隣に座ってみようか……"
-  },
-  "380": {
-    "text": "雫と目が合った"
-  },
-  "381": {
-    "text": "雫の視線を感じる"
-  },
-  "382": {
-    "text": "床が滑りやすそうだ"
-  },
-  "384": {
-    "text": "懐かしい地元の海だ"
-  },
-  "385": {
-    "text": "雫と目が合った"
-  },
-  "386": {
-    "text": "絶好の釣り日和だ"
-  },
-  "387": {
-    "text": "この服は……"
-  },
-  "388": {
-    "text": "波の音が心地いい"
-  },
-  "39": {
-    "text": "見つめてみようか……"
-  },
-  "390": {
-    "text": "何か買ってあげようか……"
-  },
-  "391": {
-    "text": "はぐれないよう気をつけよう"
-  },
-  "392": {
-    "text": "今日は何を買おう？"
-  },
-  "393": {
-    "text": "何かくれるみたいだ"
-  },
-  "395": {
-    "text": "隣に座ってみようか……"
-  },
-  "396": {
-    "text": "見つめてみようか……"
-  },
-  "397": {
-    "text": "綺麗な夜景だ"
-  },
-  "398": {
-    "text": "雫がこちらを気にしてる……？"
-  },
-  "4": {
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
     "text": "撮影の練習をしよう"
   },
-  "40": {
-    "text": "意外と暇だ"
-  },
-  "400": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "401": {
-    "text": "優と目が合った"
-  },
-  "402": {
-    "text": "優の視線を感じる"
-  },
-  "403": {
-    "text": "撮影の練習をしよう"
-  },
-  "405": {
-    "text": "懐かしい星見の海だ"
-  },
-  "406": {
-    "text": "見つめてみようか……"
-  },
-  "407": {
-    "text": "綺麗な景色だ"
-  },
-  "408": {
-    "text": "この服は……"
-  },
-  "409": {
-    "text": "波打ち際が見える"
-  },
-  "41": {
-    "text": "葵が何か話したそうだ"
-  },
-  "411": {
-    "text": "何か買ってあげようか……"
-  },
-  "412": {
-    "text": "なんだか嬉しそうだ"
-  },
-  "413": {
-    "text": "あの花は……"
-  },
-  "414": {
-    "text": "何かくれるみたいだ"
-  },
-  "416": {
-    "text": "隣に座ってみようか……"
-  },
-  "417": {
-    "text": "見つめてみようか……"
-  },
-  "418": {
-    "text": "綺麗な夜景だ"
-  },
-  "419": {
-    "text": "もうすぐ、てっぺんにつきそうだ"
-  },
-  "43": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "44": {
-    "text": "なんだか恥ずかしそう……？"
-  },
-  "45": {
-    "text": "千紗の視線を感じる"
-  },
-  "46": {
-    "text": "写真映えしそうな場所だ"
-  },
-  "48": {
-    "text": "懐かしい故郷の海だ"
-  },
-  "49": {
-    "text": "表情から成長を感じる"
-  },
-  "50": {
-    "text": "何か光ったような……"
-  },
-  "51": {
-    "text": "この服は……"
-  },
-  "52": {
-    "text": "綺麗な砂浜だ"
-  },
-  "54": {
-    "text": "何か買ってあげようか……"
-  },
-  "55": {
-    "text": "今日は何を買おう？"
-  },
-  "56": {
-    "text": "手芸用品を見に行こうか？"
-  },
-  "57": {
-    "text": "何かくれるみたいだ"
-  },
-  "59": {
-    "text": "隣に座ってみようか……"
-  },
-  "6": {
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
     "text": "海といえば……"
   },
-  "60": {
-    "text": "見つめてみようか……"
-  },
-  "61": {
-    "text": "綺麗な夜景だ"
-  },
-  "62": {
-    "text": "千紗が何か話したそうだ"
-  },
-  "64": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "65": {
-    "text": "遙子さんと目が合った"
-  },
-  "66": {
-    "text": "あそこにあるのは……？"
-  },
-  "67": {
-    "text": "撮影の練習をしよう"
-  },
-  "69": {
-    "text": "懐かしい地元の海岸だ"
-  },
-  "7": {
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
     "text": "表情から成長を感じる"
   },
-  "70": {
-    "text": "遙子さんと目が合った"
-  },
-  "71": {
-    "text": "なんだかお腹が空いてきた"
-  },
-  "72": {
-    "text": "この服は……"
-  },
-  "73": {
-    "text": "そういえば二人きりだ"
-  },
-  "75": {
-    "text": "何か買ってあげようか……"
-  },
-  "76": {
-    "text": "キャンプ用品を買いたいみたいだ"
-  },
-  "77": {
-    "text": "むこうのお店は……"
-  },
-  "78": {
-    "text": "何かくれるみたいだ"
-  },
-  "8": {
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
     "text": "綺麗な水面だ"
   },
-  "80": {
-    "text": "隣に座ってみようか……"
-  },
-  "81": {
-    "text": "見つめてみようか……"
-  },
-  "82": {
-    "text": "そういえば二人きりだ"
-  },
-  "83": {
-    "text": "もうすぐ、てっぺんにつきそうだ"
-  },
-  "85": {
-    "text": "水鉄砲で遊んでみよう"
-  },
-  "86": {
-    "text": "どこか不満げだ"
-  },
-  "87": {
-    "text": "ここでゆっくり出来そうだ"
-  },
-  "88": {
-    "text": "写真でも撮ろうか……"
-  },
-  "9": {
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
     "text": "この服は……"
   },
-  "90": {
-    "text": "何をして遊ぼう……"
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "砂浜に降りてみようか……"
   },
-  "91": {
-    "text": "見つめてみようか……"
-  },
-  "92": {
-    "text": "波の音が心地いい"
-  },
-  "93": {
-    "text": "この服は……"
-  },
-  "94": {
-    "text": "今、誰かいたような……？"
-  },
-  "96": {
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
     "text": "何か買ってあげようか……"
   },
-  "97": {
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "どこか満足気だ"
+  },
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "ダンベルでも買ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "何かくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "綺麗な夜景だ"
+  },
+  "bk1:[[\"characterId\",\"char-ai\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "もうすぐ、てっぺんにつきそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "葵と目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "葵の視線を感じる"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "床が滑りやすそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "葵と散歩に来てみたが……"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "葵と目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "波の音が心地いい"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "砂浜に降りてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "葵は……そばにいるようだ"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "今日は何を買おう？"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "一休みしていこうか……"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "意外と暇だ"
+  },
+  "bk1:[[\"characterId\",\"char-aoi\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "葵が何か話したそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "なんだか恥ずかしそう……？"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "千紗の視線を感じる"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "写真映えしそうな場所だ"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "懐かしい故郷の海だ"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "表情から成長を感じる"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "何か光ったような……"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "綺麗な砂浜だ"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "今日は何を買おう？"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "手芸用品を見に行こうか？"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "何かくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "綺麗な夜景だ"
+  },
+  "bk1:[[\"characterId\",\"char-chs\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "千紗が何か話したそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "遙子さんと目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "あそこにあるのは……？"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "撮影の練習をしよう"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "懐かしい地元の海岸だ"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "遙子さんと目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "なんだかお腹が空いてきた"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "そういえば二人きりだ"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "キャンプ用品を買いたいみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "むこうのお店は……"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "何かくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "そういえば二人きりだ"
+  },
+  "bk1:[[\"characterId\",\"char-hrk\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "もうすぐ、てっぺんにつきそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "どこか不満げだ"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "ここでゆっくり出来そうだ"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "写真でも撮ろうか……"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "何をして遊ぼう……"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "波の音が心地いい"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "今、誰かいたような……？"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
     "text": "甘い物が食べたそうだ"
   },
-  "98": {
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
     "text": "お店で休んでいこうか……"
   },
-  "99": {
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
     "text": "何かくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "意外と暇だ"
+  },
+  "bk1:[[\"characterId\",\"char-kan\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "kanaさんが何か話したそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "こころと目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "水着を借りてこないと……"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "写真でも撮ろうか……"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "懐かしい星見の海だ"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "こころと目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "何をして遊ぼうか……"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "水面が輝いている"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "はぐれないよう気をつけよう"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "感じのいいお店だ"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "一休みしていこうか……"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "意外と暇だ"
+  },
+  "bk1:[[\"characterId\",\"char-kkr\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "こころが何か話したそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "何か要求されそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "イルカの浮き輪だ"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "床が滑りやすそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "懐かしい星見の海だ"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "franさんと目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "何を話そう……"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "何か落ちてる……？"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "奢ってほしそうな気配を感じる"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "出費が心配だ……"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "目を合わせないようにしよう"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "一休みしていこうか……"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "チケット、高かったな……"
+  },
+  "bk1:[[\"characterId\",\"char-kor\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "もうすぐ、てっぺんにつきそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "なんだか恥ずかしそう……？"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "羽織るものを借りてこようか……"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "意外と琴乃も楽しそう……？"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "琴乃の思い出の場所らしい"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "琴乃と目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "昔と変わらない光景だ"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "綺麗な砂浜だ"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "はぐれないよう気をつけよう"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "感じのいいお店だ"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "一休みしていこうか……"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "綺麗な夜景だ"
+  },
+  "bk1:[[\"characterId\",\"char-ktn\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "琴乃が何か話したそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "芽衣と目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "芽衣の視線を感じる"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "写真映えしそうな場所だ"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "砂浜に降りてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "遠くまでよく見える"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "波打ち際が見える"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "お店からいい匂いがする"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "今日は何を買おう？"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "アイスをくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "景色でも見ようか……"
+  },
+  "bk1:[[\"characterId\",\"char-mei\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "もうすぐ、てっぺんにつきそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "意外と楽しそう……？"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "mihoさんの視線を感じる"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "写真映えしそうな場所だ"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "懐かしい星見の海だ"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "嬉しそうかも……？"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "遠くまでよく見える"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "波の音が心地いい"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "どこか嬉しそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "後、買うものは……"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "何かくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "綺麗な夜景だ"
+  },
+  "bk1:[[\"characterId\",\"char-mhk\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "もうすぐ、てっぺんにつきそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "なんだか恥ずかしそう……？"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "渚は泳ぐ気満々みたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "撮影の練習をしよう"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "渚の思い出の場所らしい"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "渚と目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "波の音が心地いい"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "少し歩きたい気分だ"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "恋愛小説がほしいみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "本屋の場所は……"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "何かくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "綺麗な夜景だ"
+  },
+  "bk1:[[\"characterId\",\"char-ngs\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "渚が何か話したそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "怜と目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "怜の視線を感じる"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "床が滑りやすそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "懐かしい地元の海だ"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "あれは……？"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "波打ち際が見える"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "何がほしいんだろう……？"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "明日のスケジュールは……"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "何かくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "景色でも見ようか……"
+  },
+  "bk1:[[\"characterId\",\"char-rei\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "怜がこちらを気にしてる……？"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "なんだか恥ずかしそう……？"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "あまり莉央さんを見るのも……？"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "床が滑りやすそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "懐かしい星見の海だ"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "何を話そう……？"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "昔と変わらない光景だ"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "水面が輝いている"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "莉央さんのほしそうなものは……"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "おもてなし出来てるだろうか"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "何かくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "そういえば二人きりだ"
+  },
+  "bk1:[[\"characterId\",\"char-rio\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "もうすぐ、てっぺんにつきそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "なんだか恥ずかしそう……？"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "瑠依の視線を感じる"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "床が滑りやすそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "懐かしい星見の海岸だ"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "何か落ちてる気がする"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "少し歩きたい気分だ"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "甘い物が食べたそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "後、買うものは……"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "何かくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "景色でも見ようか……"
+  },
+  "bk1:[[\"characterId\",\"char-rui\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "もうすぐ、てっぺんにつきそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "なんだか恥ずかしそう……？"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "泳ぐ前に準備をしないと"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "撮影の練習をしよう"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "懐かしい地元の海だ"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "穏やかな時間が流れている"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "綺麗な砂浜だ"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "隣のお店が気になる……"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "今日は何を買おう？"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "何かくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "綺麗な夜景だ"
+  },
+  "bk1:[[\"characterId\",\"char-ski\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "もうすぐ、てっぺんにつきそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "さくらと目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "少し休もうか……？"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "写真でも撮ろうか……"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "昔のランニングコースだ"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "さくらと目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "懐かしい地元の海だ"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "砂浜に降りてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "沢山食べて満足そうだ"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "後、買うものは……"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "何かくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "綺麗な夜景だ"
+  },
+  "bk1:[[\"characterId\",\"char-skr\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "もうすぐ、てっぺんにつきそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "すみれと目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "広々としたプールだ"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "写真映えしそうな場所だ"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "何をして遊ぼうか……"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "すみれと目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "灯台が見える"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "波の音が心地いい"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "わくわくしてるようだ"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "感じのいいお店だ"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "一休みしていこうか……"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "景色でも見ようか……"
+  },
+  "bk1:[[\"characterId\",\"char-smr\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "もうすぐ、てっぺんにつきそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "すずと目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "泳ぐ前に準備をしないと"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "写真映えしそうな場所だ"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "懐かしい地元の海岸だ"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "すずと目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "なんだかお腹が空いてきた"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "何をして遊ぼうか……"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "何か気にしてそう……？"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "今日は何を買おう？"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "何かくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "思ったより高い"
+  },
+  "bk1:[[\"characterId\",\"char-suz\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "もうすぐ、てっぺんにつきそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "雫と目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "雫の視線を感じる"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "床が滑りやすそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "懐かしい地元の海だ"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "雫と目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "絶好の釣り日和だ"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "波の音が心地いい"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "はぐれないよう気をつけよう"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "今日は何を買おう？"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "何かくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "綺麗な夜景だ"
+  },
+  "bk1:[[\"characterId\",\"char-szk\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "雫がこちらを気にしてる……？"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",1]]": {
+    "text": "水鉄砲で遊んでみよう"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",2]]": {
+    "text": "優と目が合った"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",3]]": {
+    "text": "優の視線を感じる"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-pool\"],[\"number\",4]]": {
+    "text": "撮影の練習をしよう"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",1]]": {
+    "text": "懐かしい星見の海だ"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",3]]": {
+    "text": "綺麗な景色だ"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",4]]": {
+    "text": "この服は……"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-seaside\"],[\"number\",5]]": {
+    "text": "波打ち際が見える"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",1]]": {
+    "text": "何か買ってあげようか……"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",2]]": {
+    "text": "なんだか嬉しそうだ"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",3]]": {
+    "text": "あの花は……"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-shopping\"],[\"number\",4]]": {
+    "text": "何かくれるみたいだ"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",1]]": {
+    "text": "隣に座ってみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",2]]": {
+    "text": "見つめてみようか……"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",3]]": {
+    "text": "綺麗な夜景だ"
+  },
+  "bk1:[[\"characterId\",\"char-yu\"],[\"excursionPlaceId\",\"ex-themepark\"],[\"number\",4]]": {
+    "text": "もうすぐ、てっぺんにつきそうだ"
   }
 }

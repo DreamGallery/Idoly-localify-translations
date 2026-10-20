@@ -1,0 +1,107 @@
+{
+  "encoding": "field[key=compact-json-object].field",
+  "nested_keys": {
+    "ActivityAbility.levels": [
+      {
+        "field": "level",
+        "type": "integer"
+      }
+    ],
+    "ActivityFanEvent.levels": [
+      {
+        "field": "level",
+        "type": "integer"
+      }
+    ],
+    "ActivityPromotion.levels": [
+      {
+        "field": "level",
+        "type": "integer"
+      }
+    ],
+    "ActivityRefresh.levels": [
+      {
+        "field": "level",
+        "type": "integer"
+      }
+    ],
+    "Character.activityFanEventWords": [
+      {
+        "field": "voiceAssetId",
+        "type": "string"
+      }
+    ],
+    "Character.loveInfos": [
+      {
+        "field": "loveId",
+        "type": "string"
+      }
+    ],
+    "CharacterGroup.mappings": [
+      {
+        "field": "characterId",
+        "type": "string"
+      }
+    ],
+    "ExerciseHint.contents": [
+      {
+        "field": "number",
+        "type": "integer"
+      }
+    ],
+    "HelpCategory.contents": [
+      {
+        "field": "helpContentId",
+        "type": "string"
+      }
+    ],
+    "HomeTalk.characterTalks": [
+      {
+        "field": "voiceAssetId",
+        "type": "string"
+      }
+    ],
+    "LiveAbility.levels": [
+      {
+        "field": "level",
+        "type": "integer"
+      }
+    ],
+    "Message.details": [
+      {
+        "field": "messageDetailId",
+        "type": "string"
+      }
+    ],
+    "Skill.levels": [
+      {
+        "field": "level",
+        "type": "integer"
+      }
+    ],
+    "Stage.cameraPositions": [
+      {
+        "field": "index",
+        "type": "integer"
+      }
+    ],
+    "Story.branchChoices": [
+      {
+        "field": "index",
+        "type": "integer"
+      }
+    ],
+    "Tutorial.stepInfo": [
+      {
+        "field": "step",
+        "type": "integer"
+      },
+      {
+        "field": "subStep",
+        "type": "integer"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "unlisted_arrays": "position with original-text guard"
+}

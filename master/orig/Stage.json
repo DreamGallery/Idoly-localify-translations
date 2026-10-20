@@ -15,10 +15,10 @@
     "name": "ゆめかわ撮影"
   },
   "stage-live-dome-00-00": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "下手",
-    "cameraPositions[2].name": "上手",
-    "cameraPositions[3].name": "スタンド",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "下手",
+    "cameraPositions[key={\"index\":2}].name": "上手",
+    "cameraPositions[key={\"index\":3}].name": "スタンド",
     "name": "パークアリーナ武蔵野"
   },
   "stage-live-dome-00-01": {
@@ -37,17 +37,17 @@
     "name": "国際ドーム大阪"
   },
   "stage-live-dome-01-00": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "下手",
-    "cameraPositions[2].name": "上手",
-    "cameraPositions[3].name": "スタンド",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "下手",
+    "cameraPositions[key={\"index\":2}].name": "上手",
+    "cameraPositions[key={\"index\":3}].name": "スタンド",
     "name": "日本伝統館"
   },
   "stage-live-dome-01-01": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "下手",
-    "cameraPositions[2].name": "上手",
-    "cameraPositions[3].name": "スタンド",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "下手",
+    "cameraPositions[key={\"index\":2}].name": "上手",
+    "cameraPositions[key={\"index\":3}].name": "スタンド",
     "name": "大阪国際ホール"
   },
   "stage-live-dome-01-02": {
@@ -63,20 +63,20 @@
     "name": "新国立記念競技場"
   },
   "stage-live-dome-01-06": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "下手",
-    "cameraPositions[2].name": "上手",
-    "cameraPositions[3].name": "スタンド",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "下手",
+    "cameraPositions[key={\"index\":2}].name": "上手",
+    "cameraPositions[key={\"index\":3}].name": "スタンド",
     "name": "日本伝統館"
   },
   "stage-live-dome-02-00": {
     "name": "横浜ガーデンホール"
   },
   "stage-live-dome-02-01": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "下手",
-    "cameraPositions[2].name": "上手",
-    "cameraPositions[3].name": "スタンド",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "下手",
+    "cameraPositions[key={\"index\":2}].name": "上手",
+    "cameraPositions[key={\"index\":3}].name": "スタンド",
     "name": "前橋グラスドーム"
   },
   "stage-live-dome-02-02": {
@@ -86,10 +86,10 @@
     "name": "調布ビッグスタジアム"
   },
   "stage-live-dome-03-00": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "下手",
-    "cameraPositions[2].name": "上手",
-    "cameraPositions[3].name": "スタンド",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "下手",
+    "cameraPositions[key={\"index\":2}].name": "上手",
+    "cameraPositions[key={\"index\":3}].name": "スタンド",
     "name": "パシフィックドーム"
   },
   "stage-live-dome-03-01": {
@@ -102,20 +102,20 @@
     "name": "シティドーム札幌"
   },
   "stage-live-dome-04-00": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "下手",
-    "cameraPositions[2].name": "上手",
-    "cameraPositions[3].name": "スタンド",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "下手",
+    "cameraPositions[key={\"index\":2}].name": "上手",
+    "cameraPositions[key={\"index\":3}].name": "スタンド",
     "name": "パークアリーナ埼玉"
   },
   "stage-live-dome-04-01": {
     "name": "グリーンドーム福岡"
   },
   "stage-live-dome-05-00": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "下手",
-    "cameraPositions[2].name": "上手",
-    "cameraPositions[3].name": "スタンド",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "下手",
+    "cameraPositions[key={\"index\":2}].name": "上手",
+    "cameraPositions[key={\"index\":3}].name": "スタンド",
     "name": "パークアリーナ武蔵野"
   },
   "stage-live-hall-00-00": {
@@ -206,11 +206,11 @@
     "name": "ミライコネクトステージ"
   },
   "stage-live-unique-004-00": {
-    "cameraPositions[0].name": "中央",
-    "cameraPositions[1].name": "下手",
-    "cameraPositions[2].name": "上手",
-    "cameraPositions[3].name": "スタンド",
-    "cameraPositions[4].name": "後ろ",
+    "cameraPositions[key={\"index\":0}].name": "中央",
+    "cameraPositions[key={\"index\":1}].name": "下手",
+    "cameraPositions[key={\"index\":2}].name": "上手",
+    "cameraPositions[key={\"index\":3}].name": "スタンド",
+    "cameraPositions[key={\"index\":4}].name": "後ろ",
     "name": "ミライサマーステージ"
   },
   "stage-live-unique-01-00": {
