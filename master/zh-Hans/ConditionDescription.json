@@ -54434,6 +54434,21 @@
   "cd-st-main-cmn-03-01-61-view": {
     "description": "观看星空篇第60话"
   },
+  "cd-st-main-cmn-03-01-62-unlock": {
+    "description": "通关主线演唱会#26"
+  },
+  "cd-st-main-cmn-03-01-63-unlock": {
+    "description": "通关主线演唱会#26"
+  },
+  "cd-st-main-cmn-03-01-64-unlock": {
+    "description": "通关主线演唱会#26"
+  },
+  "cd-st-main-cmn-03-01-65-unlock": {
+    "description": "通关主线演唱会#26"
+  },
+  "cd-st-main-cmn-03-01-66-unlock": {
+    "description": "通关主线演唱会#26"
+  },
   "cd-st-main-cmn-22-0922-1200": {
     "description": "22/09/22 12:00以后"
   },
@@ -57603,6 +57618,9 @@
     "description": "特别每日演唱会举办期间"
   },
   "cd-time-daily-sp-26-1002-26-1021": {
+    "description": "特别每日演唱会举办期间"
+  },
+  "cd-time-daily-sp-26-1022-27-0203": {
     "description": "特别每日演唱会举办期间"
   },
   "cd-time-diary-21-1009": {
@@ -64545,6 +64563,9 @@
     "description": "免费扭蛋券"
   },
   "cd-time-gacha-free-ticket-1s-26-1020": {
+    "description": "免费扭蛋券"
+  },
+  "cd-time-gacha-free-ticket-1s-26-1030": {
     "description": "免费扭蛋券"
   },
   "cd-time-gacha-fs-select-22-0628": {
@@ -72107,6 +72128,9 @@
   "cd-time-market-discount-day-26-1020": {
     "description": "逢10之日"
   },
+  "cd-time-market-discount-day-26-1030": {
+    "description": "逢10之日"
+  },
   "cd-time-market-phase-001-close": {
     "description": "市场关闭"
   },
@@ -74726,6 +74750,9 @@
   "cd-time-pvp-26-1014-1016_s-banner": {
     "description": "PVP_S横幅 开始后3天"
   },
+  "cd-time-pvp-26-1024-1026_s-banner": {
+    "description": "PVP_S横幅 开始后3天"
+  },
   "cd-time-questionnaire-21-0702-0709_s-banner": {
     "description": "问卷期间"
   },
@@ -76624,5 +76651,20 @@
   },
   "ms-limited-login-ex-tower-005-sp-26-0503-003-login": {
     "description": "三丽鸥角色联动举办纪念EX塔003对象"
+  },
+  "cd-st-main-cmn-03-01-62-view": {
+    "description": "观看星空篇第61话"
+  },
+  "cd-st-main-cmn-03-01-63-view": {
+    "description": "观看星空篇第62话"
+  },
+  "cd-st-main-cmn-03-01-64-view": {
+    "description": "观看星空篇第63话"
+  },
+  "cd-st-main-cmn-03-01-65-view": {
+    "description": "观看星空篇第64话"
+  },
+  "cd-st-main-cmn-03-01-66-view": {
+    "description": "观看星空篇第65话"
   }
 }

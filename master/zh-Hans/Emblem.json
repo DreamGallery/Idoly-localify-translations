@@ -4955,5 +4955,17 @@
   "emb-zepp-sapporo-01": {
     "description": "“全国巡回演唱会举办纪念任务”",
     "name": "全国巡演 in Sapporo"
+  },
+  "emb-pvp-season-184-top001": {
+    "description": "在VENUS对战第184赛季获得第1名",
+    "name": "VENUS第184赛季 No.1"
+  },
+  "emb-pvp-season-184-top010": {
+    "description": "在VENUS对战第184赛季获得前10名",
+    "name": "VENUS第184赛季 TOP10"
+  },
+  "emb-pvp-season-184-top100": {
+    "description": "在VENUS对战第184赛季获得前100名",
+    "name": "VENUS第184赛季 TOP100"
   }
 }

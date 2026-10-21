@@ -54434,6 +54434,36 @@
   "cd-st-main-cmn-03-01-61-view": {
     "description": "星空編60話を視聴"
   },
+  "cd-st-main-cmn-03-01-62-unlock": {
+    "description": "メインライブ#26をクリア"
+  },
+  "cd-st-main-cmn-03-01-62-view": {
+    "description": "星空編61話を視聴"
+  },
+  "cd-st-main-cmn-03-01-63-unlock": {
+    "description": "メインライブ#26をクリア"
+  },
+  "cd-st-main-cmn-03-01-63-view": {
+    "description": "星空編62話を視聴"
+  },
+  "cd-st-main-cmn-03-01-64-unlock": {
+    "description": "メインライブ#26をクリア"
+  },
+  "cd-st-main-cmn-03-01-64-view": {
+    "description": "星空編63話を視聴"
+  },
+  "cd-st-main-cmn-03-01-65-unlock": {
+    "description": "メインライブ#26をクリア"
+  },
+  "cd-st-main-cmn-03-01-65-view": {
+    "description": "星空編64話を視聴"
+  },
+  "cd-st-main-cmn-03-01-66-unlock": {
+    "description": "メインライブ#26をクリア"
+  },
+  "cd-st-main-cmn-03-01-66-view": {
+    "description": "星空編65話を視聴"
+  },
   "cd-st-main-cmn-22-0922-1200": {
     "description": "22/09/22 12:00以降"
   },
@@ -57603,6 +57633,9 @@
     "description": "スペシャルデイリーライブ開催期間"
   },
   "cd-time-daily-sp-26-1002-26-1021": {
+    "description": "スペシャルデイリーライブ開催期間"
+  },
+  "cd-time-daily-sp-26-1022-27-0203": {
     "description": "スペシャルデイリーライブ開催期間"
   },
   "cd-time-diary-21-1009": {
@@ -64545,6 +64578,9 @@
     "description": "無料ガチャチケット"
   },
   "cd-time-gacha-free-ticket-1s-26-1020": {
+    "description": "無料ガチャチケット"
+  },
+  "cd-time-gacha-free-ticket-1s-26-1030": {
     "description": "無料ガチャチケット"
   },
   "cd-time-gacha-fs-select-22-0628": {
@@ -72107,6 +72143,9 @@
   "cd-time-market-discount-day-26-1020": {
     "description": "10のつく日"
   },
+  "cd-time-market-discount-day-26-1030": {
+    "description": "10のつく日"
+  },
   "cd-time-market-phase-001-close": {
     "description": "マーケット閉じ"
   },
@@ -74724,6 +74763,9 @@
     "description": "PVP_Sバナー 開始から3日間"
   },
   "cd-time-pvp-26-1014-1016_s-banner": {
+    "description": "PVP_Sバナー 開始から3日間"
+  },
+  "cd-time-pvp-26-1024-1026_s-banner": {
     "description": "PVP_Sバナー 開始から3日間"
   },
   "cd-time-questionnaire-21-0702-0709_s-banner": {

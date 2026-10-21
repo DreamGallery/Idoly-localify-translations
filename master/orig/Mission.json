@@ -6169,6 +6169,26 @@
     "name": "デイリーライブ{threshold}回クリア",
     "shortDescription": "デイリーライブ{threshold}回クリア"
   },
+  "event-ms-idoly-pride-day-mission-26-1030-login": {
+    "longDescription": "ログインを1回しましょう。",
+    "name": "ログイン1回",
+    "shortDescription": "ログイン1回"
+  },
+  "event-ms-idoly-pride-day-mission-26-1030-mission_clear_count": {
+    "longDescription": "イベントミッションを全てクリアしましょう。",
+    "name": "イベントミッションを全てクリア",
+    "shortDescription": "イベントミッションを全てクリア"
+  },
+  "event-ms-idoly-pride-day-mission-26-1030-photo_shoot_count": {
+    "longDescription": "フォト撮影を{threshold}回しましょう。",
+    "name": "フォト撮影{threshold}回",
+    "shortDescription": "フォト撮影{threshold}回"
+  },
+  "event-ms-idoly-pride-day-mission-26-1030-quest-daily-clear-count": {
+    "longDescription": "デイリーライブを{threshold}回クリアしましょう。",
+    "name": "デイリーライブ{threshold}回クリア",
+    "shortDescription": "デイリーライブ{threshold}回クリア"
+  },
   "event-ms-live-23-0503-condition_clear-1": {
     "longDescription": "すべてのEXタワーSTAGE1クリアしましょう。",
     "name": "すべてのEXタワーSTAGE1クリア",
