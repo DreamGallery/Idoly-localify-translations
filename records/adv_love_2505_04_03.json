@@ -17,13 +17,13 @@
     "timestamp": "2026-10-22T07:18:30Z"
   },
   "proofread": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
     "operator_github": "sky-yixuan",
     "display_id": "sky-yixuan",
     "display_source": "github",
-    "timestamp": "2026-10-22T07:19:10Z"
+    "timestamp": "2026-10-22T17:33:40Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -38,10 +38,10 @@
       "operator_github": "sky-yixuan",
       "display_id": "sky-yixuan",
       "display_source": "github",
-      "timestamp": "2026-10-22T07:19:10Z"
+      "timestamp": "2026-10-22T17:33:40Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-22T07:19:10Z"
+    "updated_at": "2026-10-22T17:33:40Z"
   }
 }
