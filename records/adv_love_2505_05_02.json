@@ -18,7 +18,11 @@
   },
   "proofread": {
     "revision": 0,
-    "draft_revision": 0
+    "draft_revision": 0,
+    "state": "进行中",
+    "operator_github": "sky-yixuan",
+    "display_id": "sky-yixuan",
+    "timestamp": "2026-10-22T09:33:35Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -30,6 +34,6 @@
     }
   },
   "github": {
-    "updated_at": "2026-10-22T09:33:01Z"
+    "updated_at": "2026-10-22T09:33:35Z"
   }
 }
