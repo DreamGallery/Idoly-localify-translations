@@ -54437,17 +54437,32 @@
   "cd-st-main-cmn-03-01-62-unlock": {
     "description": "通关主线演唱会#26"
   },
+  "cd-st-main-cmn-03-01-62-view": {
+    "description": "观看星空篇第61话"
+  },
   "cd-st-main-cmn-03-01-63-unlock": {
     "description": "通关主线演唱会#26"
+  },
+  "cd-st-main-cmn-03-01-63-view": {
+    "description": "观看星空篇第62话"
   },
   "cd-st-main-cmn-03-01-64-unlock": {
     "description": "通关主线演唱会#26"
   },
+  "cd-st-main-cmn-03-01-64-view": {
+    "description": "观看星空篇第63话"
+  },
   "cd-st-main-cmn-03-01-65-unlock": {
     "description": "通关主线演唱会#26"
   },
+  "cd-st-main-cmn-03-01-65-view": {
+    "description": "观看星空篇第64话"
+  },
   "cd-st-main-cmn-03-01-66-unlock": {
     "description": "通关主线演唱会#26"
+  },
+  "cd-st-main-cmn-03-01-66-view": {
+    "description": "观看星空篇第65话"
   },
   "cd-st-main-cmn-22-0922-1200": {
     "description": "22/09/22 12:00以后"
@@ -76651,20 +76666,5 @@
   },
   "ms-limited-login-ex-tower-005-sp-26-0503-003-login": {
     "description": "三丽鸥角色联动举办纪念EX塔003对象"
-  },
-  "cd-st-main-cmn-03-01-62-view": {
-    "description": "观看星空篇第61话"
-  },
-  "cd-st-main-cmn-03-01-63-view": {
-    "description": "观看星空篇第62话"
-  },
-  "cd-st-main-cmn-03-01-64-view": {
-    "description": "观看星空篇第63话"
-  },
-  "cd-st-main-cmn-03-01-65-view": {
-    "description": "观看星空篇第64话"
-  },
-  "cd-st-main-cmn-03-01-66-view": {
-    "description": "观看星空篇第65话"
   }
 }
