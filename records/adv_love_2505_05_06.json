@@ -17,12 +17,13 @@
     "timestamp": "2026-10-22T18:43:34Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_github": "sky-yixuan",
     "display_id": "sky-yixuan",
-    "timestamp": "2026-10-22T18:44:04Z"
+    "timestamp": "2026-10-22T18:44:18Z",
+    "display_source": "github"
   },
   "artifacts": {
     "translation_csv": {
@@ -31,9 +32,16 @@
       "display_id": "sky-yixuan",
       "display_source": "github",
       "timestamp": "2026-10-22T18:43:34Z"
+    },
+    "proofread_csv": {
+      "path": "story/reviewed/love/2505/05/adv_love_2505_05_06.csv",
+      "operator_github": "sky-yixuan",
+      "display_id": "sky-yixuan",
+      "display_source": "github",
+      "timestamp": "2026-10-22T18:44:18Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-22T18:44:04Z"
+    "updated_at": "2026-10-22T18:44:18Z"
   }
 }
