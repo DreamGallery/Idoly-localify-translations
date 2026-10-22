@@ -1,0 +1,20 @@
+{
+  "artifacts": {
+    "proofread_csv": {
+      "path": "story/reviewed/love/2505/05/adv_love_2505_05_10.csv"
+    },
+    "translation_csv": {
+      "path": "story/human/love/2505/05/adv_love_2505_05_10.csv"
+    }
+  },
+  "file_id": "adv_love_2505_05_10",
+  "proofread": {
+    "revision": 1,
+    "state": "完成"
+  },
+  "schema_version": 1,
+  "translation": {
+    "revision": 1,
+    "state": "完成"
+  }
+}
