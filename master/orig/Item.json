@@ -2274,6 +2274,11 @@
     "howToGet": "プレミアムガチャに遷移",
     "name": "無料プレミアムガチャチケ"
   },
+  "item-gacha-premium-ticket-free-26-1024": {
+    "description": "プレミアムガチャを引くことができる",
+    "howToGet": "プレミアムガチャに遷移",
+    "name": "無料プレミアムガチャチケ"
+  },
   "item-gacha-ticket-rev-select-25-0624": {
     "description": "有効期限：入手後180日\n選べる★5アイドル復刻チケットガチャを引くことができる",
     "howToGet": "ショップなど",

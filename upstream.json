@@ -1,15 +1,15 @@
 {
   "game": "IDOLY PRIDE",
   "master": {
-    "master_tag_version": "c859670c77d881c550a7bcfc5ff99a139814e1d12192cb3058f7edacaf60e67b",
-    "orig_snapshot_sha256": "47f290694a49f732e668953b008509d82aa6c60624e64119c3bfe859107add04",
+    "master_tag_version": "1c9066ca59d3219f837f752e3909582feb3cddb5e0ead8cda097b484fe07d5ca",
+    "orig_snapshot_sha256": "98ec8ed6c293d5fb597c253bcadbf359f28626819581ad0094405ee1b3ac2698",
     "text_tables": 90
   },
   "schema_version": 1,
   "snapshot_hash_format": "SHA-256 over UTF-8 lines sorted by filename: filename + NUL + file SHA-256 + LF",
   "story": {
     "source_repository": "https://github.com/DreamGallery/Hoshimi-Adv",
-    "resource_revision": 1078,
+    "resource_revision": 1079,
     "resource_files": 3486,
     "translated_csv_files": 3086,
     "text_fields": 197766,

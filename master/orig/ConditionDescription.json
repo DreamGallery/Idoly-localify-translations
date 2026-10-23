@@ -67919,6 +67919,15 @@
   "cd-time-gacha-premium-26-0924-02": {
     "description": "期間：プレミアムガチャ_sバナーエンド"
   },
+  "cd-time-gacha-premium-26-1024": {
+    "description": "期間：プレミアムガチャ"
+  },
+  "cd-time-gacha-premium-26-1024-01": {
+    "description": "期間：プレミアムガチャ_sバナースタート"
+  },
+  "cd-time-gacha-premium-26-1024-02": {
+    "description": "期間：プレミアムガチャ_sバナーエンド"
+  },
   "cd-time-gacha-premium-shop-23-1024": {
     "description": "期間：特別プレミアムガチャチケパック"
   },
@@ -68046,6 +68055,9 @@
     "description": "期間：特別プレミアムガチャチケパック"
   },
   "cd-time-gacha-premium-shop-26-0924": {
+    "description": "期間：特別プレミアムガチャチケパック"
+  },
+  "cd-time-gacha-premium-shop-26-1024": {
     "description": "期間：特別プレミアムガチャチケパック"
   },
   "cd-time-gacha-premium-shop_top_premium-shop-pack-23-0624-01": {
@@ -74907,6 +74919,9 @@
     "description": "プレミアムパック期間"
   },
   "cd-time-shop-premium-26-0924-01": {
+    "description": "プレミアムパック期間"
+  },
+  "cd-time-shop-premium-26-1024-01": {
     "description": "プレミアムパック期間"
   },
   "cd-time-showcase-music-shop": {
