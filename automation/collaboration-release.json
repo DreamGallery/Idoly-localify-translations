@@ -3,8 +3,8 @@
     "card-stories.json": "474cbb40b71471541add569aad9a71f9d4374254dbcb51b608c0ca9d37c3cf60",
     "event-stories.json": "530b9a73b53abe1fe703c8ac2c80ce50a33dae82a64f16065a3e3024d2ed7ed7",
     "love-stories.json": "a837a0aba7146b79d5d39b489aba4716af862916ce47b5b8c854fa4eb7c0ae15",
-    "manifest.json": "1d41165dd621a63e369e9d8442fde6b455f1359ebf83c490f47fd1a947524881",
-    "text-update.zip": "d5842187be514c2e98541373fd4d7a0f941d7747492d1641e6fe22a67d5af208"
+    "manifest.json": "3daa8b1bea08bf0a6b8517ac2d8e2d501f5f85bb26ce7de00b840be7a2111c3f",
+    "text-update.zip": "97c3cd668209b6897a2cd0ec5a6c98e2846ceb064df8a9dc7c89944313cd2d77"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -215,7 +215,7 @@
     "records/adv_love_2505_01_01.json": "833a0c21b365cce3ed9d13262d861e9f0e25ba00825467d469fb89150491372a",
     "records/adv_love_2505_02_01.json": "17531735a287da92413de1d8856f6b554650a61f0d4eb2530ad578439581dd14",
     "records/adv_love_2505_03_01.json": "f922c5388bf777d0f8d333450e34aa72dce6ce2073b50d17e1c451d4e832c661",
-    "records/adv_love_2505_03_02.json": "36189ec26d12a8ab588f287efaed8ff039cf4c877dfe3f3031877c12e4db25b7",
+    "records/adv_love_2505_03_02.json": "5833b501b5e1126babc8a08cbce16562014f7314be8bc57813e7cecf1ef5652f",
     "records/adv_love_2505_04_01.json": "8f0e6700146a4cd16d2329f435df1fabd4f9cd3b0684a389d0521583d6a15ea7",
     "records/adv_love_2505_04_02.json": "f4eeba75776b94e9cf1d4d77a29c28cf343691259b9036318096705e4e4a85ce",
     "records/adv_love_2505_04_03.json": "084c04a0b3cd016425f95003be3930922f1bbc5000b4a27210bb4c253bfaa8ab",
@@ -3390,7 +3390,7 @@
     "story/reviewed/love/2505/01/adv_love_2505_01_01.csv": "05c6096dfbc03d40e11133f2dbc9c0f5250bef08bcbcd286313bd95c4b3f7485",
     "story/reviewed/love/2505/02/adv_love_2505_02_01.csv": "34616a605a612461c641d56fa28755ed63e548212c75f1053d82d05db6452bce",
     "story/reviewed/love/2505/03/adv_love_2505_03_01.csv": "20c7933672ecd58a152e92a1b6ebdcd1ba0012435ec9222f5c9079e5111a642e",
-    "story/reviewed/love/2505/03/adv_love_2505_03_02.csv": "947f8a90a13dbbe4a9466348857ddb290b9eeaea37ca0e65f4e952e0d7e9a8ee",
+    "story/reviewed/love/2505/03/adv_love_2505_03_02.csv": "20956453de7f618a2f51626de6b8103a487f3f42a1d33bcf6e8cf221836d4c27",
     "story/reviewed/love/2505/04/adv_love_2505_04_01.csv": "508960dfa11b1c412abf0d772a12aeca895173d34f0eeba9fba278232038d590",
     "story/reviewed/love/2505/04/adv_love_2505_04_02.csv": "2ff6d4a3908809bdd85f7e405b265d0845de9b49e683c949126a9bd014436a1a",
     "story/reviewed/love/2505/04/adv_love_2505_04_03.csv": "17fa96af463dc343a6aae71419b1253de4b805ea820041ad81d9689e77b178d8",
@@ -3420,9 +3420,9 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "dc1a25290af23052322013b314f5bfebc6e93aedc4cda76fb3a93a5f33347f44"
   },
-  "content_version": "3ae80cb2b952e007",
-  "cutoff": "b58a4153e881e38ada19b492b48dbbd9911f0e4f",
-  "main_parent": "36444e4859f7353c7405c8a3506d287896c0356f",
+  "content_version": "e9171768194e598e",
+  "cutoff": "eae3872a0ffe212a0d361575317cf2388af34ef3",
+  "main_parent": "a45c8b8da473c62cfeae6da212f401794fbc0164",
   "plugin_asset": null,
   "plugin_version": "0.4.3",
   "published_data": {
@@ -3615,9 +3615,9 @@
     "master/zh-Hans/Telephone.json": "b1e8f768579a9ccbeffbf772405e4044e72ee44c9d716bfe61c15fe911fea5ba",
     "master/zh-Hans/Tutorial.json": "8257c48b1522068271d5e1f059dd8df8127a74e3239af0879f7861070c5b5825",
     "master/zh-Hans/Wording.json": "7a5e640d1890738a992fa863be76f4acd62b3b3ff61c2b7b68b373735fd150e1",
-    "notice/source.json": "92a9690a615a693d440c6080a0c1a6074a60e0e9a92f4e9c8084209f777a9fa9",
+    "notice/source.json": "339bbdb6236a13d6fa8c09e90cb0e0146e25217e0dc9ea0ee6a95b6285cd2b41",
     "notice/title-resolutions.json": "349413683f39400f82fe1946a95599d38c437e3b2a411bcab9ec7c5e4fb0c5ec",
-    "notice/zh-Hans.json": "33d772fda828e2ab6116428fd1773dda1b3b8765f810a238208ff6e6dc961e6c",
+    "notice/zh-Hans.json": "2829b626b5ca9ca22d76a215637c658cc62eefe878138dd05f2b2e07a58c5f3f",
     "records/adv_card_ngs_15_01.json": "df80bf8153eeabd05f0703ffb70e69ae54c4103a8b6c268e77b76caf66a9a25d",
     "records/adv_card_ngs_15_02.json": "2d40dc7a2e21fc2d69961128682e848a425b5aa1b1cb018a0a685563cb54a22c",
     "records/adv_card_ngs_15_03.json": "b6fc9015fe26c53b50252bff7be1cc76ea00eb283a21815d2c162670ab22d614",
@@ -3636,7 +3636,7 @@
     "records/adv_love_2505_01_01.json": "833a0c21b365cce3ed9d13262d861e9f0e25ba00825467d469fb89150491372a",
     "records/adv_love_2505_02_01.json": "17531735a287da92413de1d8856f6b554650a61f0d4eb2530ad578439581dd14",
     "records/adv_love_2505_03_01.json": "f922c5388bf777d0f8d333450e34aa72dce6ce2073b50d17e1c451d4e832c661",
-    "records/adv_love_2505_03_02.json": "36189ec26d12a8ab588f287efaed8ff039cf4c877dfe3f3031877c12e4db25b7",
+    "records/adv_love_2505_03_02.json": "5833b501b5e1126babc8a08cbce16562014f7314be8bc57813e7cecf1ef5652f",
     "records/adv_love_2505_04_01.json": "8f0e6700146a4cd16d2329f435df1fabd4f9cd3b0684a389d0521583d6a15ea7",
     "records/adv_love_2505_04_02.json": "f4eeba75776b94e9cf1d4d77a29c28cf343691259b9036318096705e4e4a85ce",
     "records/adv_love_2505_04_03.json": "084c04a0b3cd016425f95003be3930922f1bbc5000b4a27210bb4c253bfaa8ab",
@@ -6811,7 +6811,7 @@
     "story/reviewed/love/2505/01/adv_love_2505_01_01.csv": "05c6096dfbc03d40e11133f2dbc9c0f5250bef08bcbcd286313bd95c4b3f7485",
     "story/reviewed/love/2505/02/adv_love_2505_02_01.csv": "34616a605a612461c641d56fa28755ed63e548212c75f1053d82d05db6452bce",
     "story/reviewed/love/2505/03/adv_love_2505_03_01.csv": "50379b26e82f08d52a7bcad7a32fdda4a7ec85eb9d206b9d786a69fb8fe6e690",
-    "story/reviewed/love/2505/03/adv_love_2505_03_02.csv": "947f8a90a13dbbe4a9466348857ddb290b9eeaea37ca0e65f4e952e0d7e9a8ee",
+    "story/reviewed/love/2505/03/adv_love_2505_03_02.csv": "3aa19ae342b0a50711e7809e5167f031871fba97e9ea92d658acf7458813ffc2",
     "story/reviewed/love/2505/04/adv_love_2505_04_01.csv": "508960dfa11b1c412abf0d772a12aeca895173d34f0eeba9fba278232038d590",
     "story/reviewed/love/2505/04/adv_love_2505_04_02.csv": "2ff6d4a3908809bdd85f7e405b265d0845de9b49e683c949126a9bd014436a1a",
     "story/reviewed/love/2505/04/adv_love_2505_04_03.csv": "11ee9fb6e044b5c65a22780ffe3753681aa7396ab6588c9e1a3244f7012692e9",
@@ -6842,5 +6842,5 @@
     "upstream.json": "6651ca6a326fec43c911e270a3e3de4ec542c978b6292e9da18958e8b9a1cc38"
   },
   "schema_version": 1,
-  "text_version": "52ea384da526c151"
+  "text_version": "b4c0c915fe040f06"
 }
