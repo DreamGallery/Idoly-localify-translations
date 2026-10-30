@@ -1,6 +1,6 @@
 {
   "pending_tasks": {},
-  "resource_revision": 1083,
+  "resource_revision": 1086,
   "schema_version": 1,
   "scripts": {
     "adv_bond_ai_01_01": {
@@ -12372,6 +12372,6 @@
       "source_sha256": "133b6c40d6c451431b775f40418caa82274a234440feb256dcb7c890f5ed5b11"
     }
   },
-  "source_commit": "f6137f66b57d556934614df027b6b815b69d5f19",
+  "source_commit": "a3ec21ed4f1ad498cb0f6bd4f070bb22b8197eec",
   "source_repository": "DreamGallery/Hoshimi-Adv"
 }
