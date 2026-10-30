@@ -15331,6 +15331,36 @@
       "raw_path": "Resource/adv_main_04_14_05.txt",
       "source_sha256": "fe2c1bf889c7a59ef791cd7aa71fab94233c878c1c193d97ecff979b25e5a624"
     },
+    "adv_main_04_15_01": {
+      "csv_path": "main/04/15/adv_main_04_15_01.csv",
+      "raw_path": "Resource/adv_main_04_15_01.txt",
+      "source_sha256": "2a3b4549af176247b042c7926c04cab2091fe0def99d202a6356c5e7f6267adf"
+    },
+    "adv_main_04_15_02": {
+      "csv_path": "main/04/15/adv_main_04_15_02.csv",
+      "raw_path": "Resource/adv_main_04_15_02.txt",
+      "source_sha256": "7a68446c354ce8fe96a34ac62f9b005b639fa3231249599f0ca252d3cfa66fad"
+    },
+    "adv_main_04_15_03": {
+      "csv_path": "main/04/15/adv_main_04_15_03.csv",
+      "raw_path": "Resource/adv_main_04_15_03.txt",
+      "source_sha256": "2a8f10c59480314aac7e5cbf06a08cab6b2591756f723e9c7dd5f5a206f7865f"
+    },
+    "adv_main_04_15_04": {
+      "csv_path": "main/04/15/adv_main_04_15_04.csv",
+      "raw_path": "Resource/adv_main_04_15_04.txt",
+      "source_sha256": "8f54851b68ccaac5315a5863fae074151ee958128d8b71fb083d371aa34bdfee"
+    },
+    "adv_main_04_15_05": {
+      "csv_path": "main/04/15/adv_main_04_15_05.csv",
+      "raw_path": "Resource/adv_main_04_15_05.txt",
+      "source_sha256": "cdcf8ef450b64ad588455f58ab0a76e034802da3831f9ced8518dd38a5391e61"
+    },
+    "adv_main_04_15_06": {
+      "csv_path": "main/04/15/adv_main_04_15_06.csv",
+      "raw_path": "Resource/adv_main_04_15_06.txt",
+      "source_sha256": "812c8c0fce01fc8ad481896f6582ee1a2fd66ea98a20d6311414c507b8d5d68e"
+    },
     "adv_userhbd_01_ai": {
       "csv_path": "hbd/ai/01/adv_userhbd_01_ai.csv",
       "raw_path": "Resource/adv_userhbd_01_ai.txt",
@@ -15432,6 +15462,6 @@
       "source_sha256": "133b6c40d6c451431b775f40418caa82274a234440feb256dcb7c890f5ed5b11"
     }
   },
-  "source_commit": "4f9e339d6bca946a02fa6aa2e4a52568fcec6e52",
+  "source_commit": "f6137f66b57d556934614df027b6b815b69d5f19",
   "source_repository": "DreamGallery/Hoshimi-Adv"
 }
