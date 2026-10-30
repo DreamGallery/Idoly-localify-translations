@@ -2,9 +2,10 @@
   "assets": {
     "card-stories.json": "474cbb40b71471541add569aad9a71f9d4374254dbcb51b608c0ca9d37c3cf60",
     "event-stories.json": "530b9a73b53abe1fe703c8ac2c80ce50a33dae82a64f16065a3e3024d2ed7ed7",
+    "idoly-localify-0.5.0.apk": "2122cb6307a0d5d17df35ed964a9294719bb3e71e83d9627de0348e7a669b393",
     "love-stories.json": "a837a0aba7146b79d5d39b489aba4716af862916ce47b5b8c854fa4eb7c0ae15",
-    "manifest.json": "056cc564487dc4ef00d5e672e74e2170b978d6530114628dd9910bcc22a9d79b",
-    "text-update.zip": "f12f33bf673ad59e90e45427fc7cd5ad3380cb5c3e1f2c0bb4c7c4709981aa63"
+    "manifest.json": "16b66bbe7eb3b8581cb3024c5201255034383f9f256699f04e06efb4d014e8dd",
+    "text-update.zip": "4aff39daae2ef32ff7f331d00f97b10c16d6d9f050d13d5d153d619d95ffe8ce"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -3429,11 +3430,11 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "5ce32cb61e14d63b59978680df305e0cbaed2f03438a6209480cd3079c8214e4"
   },
-  "content_version": "506822a3ebf18a44",
+  "content_version": "6b4931647fd76f89",
   "cutoff": "c67830d9decab0978c9e15816925b244abd2a468",
-  "main_parent": "a7b40c1d3df660c82f4decd2e3995df6fc839663",
-  "plugin_asset": null,
-  "plugin_version": "0.4.3",
+  "main_parent": "116d7113df64c2d01d8b2d9a89faee02877463c1",
+  "plugin_asset": "idoly-localify-0.5.0.apk",
+  "plugin_version": "0.5.0",
   "published_data": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
     "glossary/term-aliases.json": "ac2c3544502f1dc034e536fe6b8a249cd5b6d34bff0410190daae46ab92b8981",
@@ -3624,9 +3625,9 @@
     "master/zh-Hans/Telephone.json": "b1e8f768579a9ccbeffbf772405e4044e72ee44c9d716bfe61c15fe911fea5ba",
     "master/zh-Hans/Tutorial.json": "8257c48b1522068271d5e1f059dd8df8127a74e3239af0879f7861070c5b5825",
     "master/zh-Hans/Wording.json": "b15809c2859045e2c6060714b42400f6903561763ff585e5a10792e43ecca57d",
-    "notice/source.json": "e6acba45cd7c4d26fe8087fb898aa8219609725026f289f670077cf365a78b00",
+    "notice/source.json": "931523deb9b337d076ba088d8e44f92f452881cb3dc7054f712ece57c711be4f",
     "notice/title-resolutions.json": "349413683f39400f82fe1946a95599d38c437e3b2a411bcab9ec7c5e4fb0c5ec",
-    "notice/zh-Hans.json": "bd5befbd1c7cc10727148b12c51683a89e8a1aa82c3d6bb695d7829da40d086d",
+    "notice/zh-Hans.json": "661520c7189f4630ce050f012069ea1edc95709dc52f744e5cebb2c6a7073198",
     "records/adv_card_ngs_15_01.json": "df80bf8153eeabd05f0703ffb70e69ae54c4103a8b6c268e77b76caf66a9a25d",
     "records/adv_card_ngs_15_02.json": "2d40dc7a2e21fc2d69961128682e848a425b5aa1b1cb018a0a685563cb54a22c",
     "records/adv_card_ngs_15_03.json": "b6fc9015fe26c53b50252bff7be1cc76ea00eb283a21815d2c162670ab22d614",
@@ -6854,11 +6855,11 @@
     "story/reviewed/love/2603/08/adv_love_2603_08_02.csv": "e9f39fe083d51e949bbb5a1c946edd93cc791a79477e5e5309418003df666772",
     "story/reviewed/love/2603/08/adv_love_2603_08_03.csv": "3a66c4b5552ef8c8c3a6f9cc8da4e0b39c98d9878269e56523aaebe0a68c61a0",
     "story/reviewed/main/04/15/adv_main_04_15_01.csv": "723d561eae58828a7edb69d5054d8b0e9ff62dd8cfc634964dd64a431f4ebc59",
-    "ui/source.json": "1e7e342f16d9cf90c7dfba494fd171f5b93b5176e38a62f64efc2df8515a1a74",
+    "ui/source.json": "eae988377558c6cd90c6c6f683f21feb6a27d0578c4f60451e8125ddd09ef033",
     "ui/variants-source.json": "7cc8f9bfe0b4e36707e63c838b548e82603e33f539dc4599ca45129271ab67f7",
-    "ui/zh-Hans.json": "9ae01ace18ae05a1b0c9754c14dcb1f90522522394d329d9cdedc6842bc86f83",
+    "ui/zh-Hans.json": "ece3a1fcb8dfa123b0344bf574004365fa9221f474358a53f78e1ac6fb0858e8",
     "upstream.json": "365a22487df1e526a90ea138d7a8326ba6da4c096f90c2cce5dfd0a319406882"
   },
   "schema_version": 1,
-  "text_version": "58c1ca7ec1988532"
+  "text_version": "c9ca4ad21064e46a"
 }
