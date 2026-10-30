@@ -59,7 +59,7 @@ API 地址必须是无用户名、密码、查询参数和 fragment 的 HTTPS UR
 }
 ```
 
-`signing.json` 权限必须为 `0600`，包含 `IDOLY_KEYSTORE_FILE`、`IDOLY_KEYSTORE_PASSWORD`、`IDOLY_KEY_ALIAS`、`IDOLY_KEY_PASSWORD` 四个字符串。它作为 JSON 解析，不使用 shell `source`。保留同一个 keystore 才能让用户覆盖更新 APK。字体 bundle 按私有主项目字体构建说明生成；SolisClient 及其 protobuf/SQLCipher 依赖预先放在配置路径。公告使用已创建的专用 collector，不使用玩家账号、不自动创建账号；需要日初始化时默认停止并报告；已获授权的专用 collector 可在本地配置设置 `initialize_collector_day: true`，仅允许该账号的 Home.Login 日初始化。Octo 与 Firebase 配置留在本地配置目录，工作流不会把它们放入 release。
+`signing.json` 权限必须为 `0600`，包含 `IDOLY_KEYSTORE_FILE`、`IDOLY_KEYSTORE_PASSWORD`、`IDOLY_KEY_ALIAS`、`IDOLY_KEY_PASSWORD` 四个字符串。它作为 JSON 解析，不使用 shell `source`。保留同一个 keystore 才能让用户覆盖更新 APK。字体 bundle 按[主项目字体构建说明](https://github.com/DreamGallery/Idoly-localify/blob/main/docs/build.md)生成；SolisClient 及其 protobuf/SQLCipher 依赖预先放在配置路径。公告使用已创建的专用 collector，不使用玩家账号、不自动创建账号；需要日初始化时默认停止并报告；已获授权的专用 collector 可在本地配置设置 `initialize_collector_day: true`，仅允许该账号的 Home.Login 日初始化。Octo 与 Firebase 配置留在本地配置目录，工作流不会把它们放入 release。
 
 运行器先安装 Git、GitHub CLI、JDK 17、Android SDK 36、build-tools、NDK 26.3.11579264、CMake 3.22.1。Python 依赖可在三个代码仓库首次 checkout 后安装：
 

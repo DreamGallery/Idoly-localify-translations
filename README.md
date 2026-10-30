@@ -6,7 +6,7 @@
 
 ## 安装插件
 
-插件仍在开发中，总之你懂的，源代码仓库暂时私有，如有需要可以提Issue申请添加访问权限。
+插件仍在开发中 [Idoly-localify](https://github.com/DreamGallery/Idoly-localify)。
 虽然可能官方应该不会管，但还请自己承担使用风险。
 插件编译Target为Android ARM64。请前往[最新发布](https://github.com/DreamGallery/Idoly-localify-translations/releases/tag/latest)，下载 `idoly-localify-版本号.apk`。
 
