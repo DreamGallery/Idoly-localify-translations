@@ -2791,6 +2791,10 @@
     "description": "マルチリンクス「PRIDE貫く頂点への道標」",
     "name": "PRIDE貫く頂点への道標"
   },
+  "emb-eve-261030-1": {
+    "description": "すごろく「After Story ～輝きは海を越えて～」条件達成",
+    "name": "イベント称号"
+  },
   "emb-ex-tower-005-sp-24-0428-001": {
     "description": "GW記念EXタワーをクリア",
     "name": "GW記念EXタワー"
@@ -4810,6 +4814,18 @@
   "emb-pvp-season-184-top100": {
     "description": "VENUSバトルシーズン184で100位以内獲得",
     "name": "VENUSシーズン184 TOP100"
+  },
+  "emb-pvp-season-185-top001": {
+    "description": "VENUSバトルシーズン185で1位獲得",
+    "name": "VENUSシーズン185 No.1"
+  },
+  "emb-pvp-season-185-top010": {
+    "description": "VENUSバトルシーズン185で10位以内獲得",
+    "name": "VENUSシーズン185 TOP10"
+  },
+  "emb-pvp-season-185-top100": {
+    "description": "VENUSバトルシーズン185で100位以内獲得",
+    "name": "VENUSシーズン185 TOP100"
   },
   "emb-serial_cd-23-1206-moon-limited": {
     "description": "Question 初回生産限定盤特典"

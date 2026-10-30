@@ -11489,6 +11489,81 @@
     "name": "デイリーミッション「アクセサリ合成1回」を{threshold}回クリア",
     "shortDescription": "デイリーミッション「アクセサリ合成1回」を{threshold}回クリア"
   },
+  "event-ms-normal-26-1030-01-card_skill_level_up_count": {
+    "longDescription": "アイドルのスキル強化を{threshold}回しましょう。",
+    "name": "スキル強化{threshold}回",
+    "shortDescription": "スキル強化{threshold}回"
+  },
+  "event-ms-normal-26-1030-01-condition_clear-story-001": {
+    "longDescription": "イベントストーリー第1話を視聴しましょう。",
+    "name": "イベントストーリー第1話を視聴",
+    "shortDescription": "イベントストーリー第1話を視聴"
+  },
+  "event-ms-normal-26-1030-01-condition_clear-story-002": {
+    "longDescription": "イベントストーリー第2話を視聴しましょう。",
+    "name": "イベントストーリー第2話を視聴",
+    "shortDescription": "イベントストーリー第2話を視聴"
+  },
+  "event-ms-normal-26-1030-01-condition_clear-story-003": {
+    "longDescription": "イベントストーリー第3話を視聴しましょう。",
+    "name": "イベントストーリー第3話を視聴",
+    "shortDescription": "イベントストーリー第3話を視聴"
+  },
+  "event-ms-normal-26-1030-01-condition_clear-story-004": {
+    "longDescription": "イベントストーリー第4話を視聴しましょう。",
+    "name": "イベントストーリー第4話を視聴",
+    "shortDescription": "イベントストーリー第4話を視聴"
+  },
+  "event-ms-normal-26-1030-01-condition_clear-story-005": {
+    "longDescription": "イベントストーリー第5話を視聴しましょう。",
+    "name": "イベントストーリー第5話を視聴",
+    "shortDescription": "イベントストーリー第5話を視聴"
+  },
+  "event-ms-normal-26-1030-01-condition_clear-story-006": {
+    "longDescription": "イベントストーリー第6話を視聴しましょう。",
+    "name": "イベントストーリー第6話を視聴",
+    "shortDescription": "イベントストーリー第6話を視聴"
+  },
+  "event-ms-normal-26-1030-01-dice_area_clear_count": {
+    "longDescription": "すごろくで{threshold}エリアクリアしましょう。",
+    "name": "すごろくで{threshold}エリアクリア",
+    "shortDescription": "すごろくで{threshold}エリアクリア"
+  },
+  "event-ms-normal-26-1030-01-dice_panel_move_count": {
+    "longDescription": "すごろくで{threshold}マス進みましょう。",
+    "name": "すごろくで{threshold}マス進む",
+    "shortDescription": "すごろくで{threshold}マス進む"
+  },
+  "event-ms-normal-26-1030-01-market_exchange_count": {
+    "longDescription": "マーケットで{threshold}回アイテムを購入しましょう。",
+    "name": "マーケットで{threshold}回アイテム購入",
+    "shortDescription": "マーケットで{threshold}回アイテム購入"
+  },
+  "event-ms-normal-26-1030-01-photo_reroll_count": {
+    "longDescription": "フォトの振り直しを{threshold}回しましょう。",
+    "name": "フォトの振り直し{threshold}回",
+    "shortDescription": "フォトの振り直し{threshold}回"
+  },
+  "event-ms-normal-26-1030-01-photo_shoot_count": {
+    "longDescription": "フォト撮影を{threshold}回しましょう。",
+    "name": "フォト撮影{threshold}回",
+    "shortDescription": "フォト撮影{threshold}回"
+  },
+  "event-ms-normal-26-1030-01-quest_daily_clear_count": {
+    "longDescription": "デイリーライブを{threshold}回クリアしましょう。",
+    "name": "デイリーライブ{threshold}回クリア",
+    "shortDescription": "デイリーライブ{threshold}回クリア"
+  },
+  "event-ms-normal-26-1030-01-quest_pvp_play_count": {
+    "longDescription": "VENUSバトルに挑戦を{threshold}回しましょう。",
+    "name": "VENUSバトルに挑戦{threshold}回",
+    "shortDescription": "VENUSバトルに挑戦{threshold}回"
+  },
+  "event-ms-normal-26-1030-02-mission_clear_count": {
+    "longDescription": "デイリーミッション「アクセサリ合成1回」を\n{threshold}回クリアしましょう。",
+    "name": "デイリーミッション「アクセサリ合成1回」を{threshold}回クリア",
+    "shortDescription": "デイリーミッション「アクセサリ合成1回」を{threshold}回クリア"
+  },
   "event-ms-osip-24-0716-00-login_count": {
     "longDescription": "ログインを{threshold}回しましょう。",
     "name": "ログイン{threshold}回",
@@ -16293,6 +16368,56 @@
     "longDescription": "フォトを{threshold}回保存しましょう。",
     "name": "フォトを{threshold}回保存",
     "shortDescription": "フォトを{threshold}回保存"
+  },
+  "event-shelf-26-1030-photo-album-complete": {
+    "longDescription": "アルバムを完成させましょう。",
+    "name": "アルバムを完成させる",
+    "shortDescription": "アルバムを完成させる"
+  },
+  "event-shelf-26-1030-photo-album-creating": {
+    "longDescription": "アルバムを1回現像しましょう。",
+    "name": "アルバムを1回現像",
+    "shortDescription": "アルバムを1回現像"
+  },
+  "event-shelf-26-1030-photo-creating": {
+    "longDescription": "フォトを{threshold}回現像しましょう。",
+    "name": "フォトを{threshold}回の現像",
+    "shortDescription": "フォトを{threshold}回現像"
+  },
+  "event-shelf-26-1030-photo-save": {
+    "longDescription": "フォトを{threshold}回保存しましょう。",
+    "name": "フォトを{threshold}回保存",
+    "shortDescription": "フォトを{threshold}回保存"
+  },
+  "event-shelf-26-1030-story-001": {
+    "longDescription": "すごろくでイベントストーリー第1話を視聴しましょう。",
+    "name": "すごろくでイベントストーリー第1話を視聴",
+    "shortDescription": "すごろくでイベントストーリー第1話を視聴"
+  },
+  "event-shelf-26-1030-story-002": {
+    "longDescription": "すごろくでイベントストーリー第2話を視聴しましょう。",
+    "name": "すごろくでイベントストーリー第2話を視聴",
+    "shortDescription": "すごろくでイベントストーリー第2話を視聴"
+  },
+  "event-shelf-26-1030-story-003": {
+    "longDescription": "すごろくでイベントストーリー第3話を視聴しましょう。",
+    "name": "すごろくでイベントストーリー第3話を視聴",
+    "shortDescription": "すごろくでイベントストーリー第3話を視聴"
+  },
+  "event-shelf-26-1030-story-004": {
+    "longDescription": "すごろくでイベントストーリー第4話を視聴しましょう。",
+    "name": "すごろくでイベントストーリー第4話を視聴",
+    "shortDescription": "すごろくでイベントストーリー第4話を視聴"
+  },
+  "event-shelf-26-1030-story-005": {
+    "longDescription": "すごろくでイベントストーリー第5話を視聴しましょう。",
+    "name": "すごろくでイベントストーリー第5話を視聴",
+    "shortDescription": "すごろくでイベントストーリー第5話を視聴"
+  },
+  "event-shelf-26-1030-story-006": {
+    "longDescription": "すごろくでイベントストーリー第6話を視聴しましょう。",
+    "name": "すごろくでイベントストーリー第6話を視聴",
+    "shortDescription": "すごろくでイベントストーリー第6話を視聴"
   },
   "event_story-mission-23-0619-story-read-001-005": {
     "longDescription": "東京編1章1~5話を視聴しましょう。",

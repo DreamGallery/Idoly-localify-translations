@@ -38527,6 +38527,132 @@
         }
       ]
     },
+    "st-eve-2610-dice-001": {
+      "name": "我が道を\n往く獅子",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_15_01"
+      ],
+      "categories": [
+        "event"
+      ],
+      "references": [
+        {
+          "category": "event",
+          "table": "EventStory",
+          "event_id": "st-eve-2610-dice",
+          "episode": 1,
+          "asset_id": "main_04_15_01"
+        }
+      ]
+    },
+    "st-eve-2610-dice-002": {
+      "name": "未来へ\n羽ばたく翼",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_15_02"
+      ],
+      "categories": [
+        "event"
+      ],
+      "references": [
+        {
+          "category": "event",
+          "table": "EventStory",
+          "event_id": "st-eve-2610-dice",
+          "episode": 2,
+          "asset_id": "main_04_15_02"
+        }
+      ]
+    },
+    "st-eve-2610-dice-003": {
+      "name": "頂点で\n咲き誇る花",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_15_03"
+      ],
+      "categories": [
+        "event"
+      ],
+      "references": [
+        {
+          "category": "event",
+          "table": "EventStory",
+          "event_id": "st-eve-2610-dice",
+          "episode": 3,
+          "asset_id": "main_04_15_03"
+        }
+      ]
+    },
+    "st-eve-2610-dice-004": {
+      "name": "道を\n照らし出す月",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_15_04"
+      ],
+      "categories": [
+        "event"
+      ],
+      "references": [
+        {
+          "category": "event",
+          "table": "EventStory",
+          "event_id": "st-eve-2610-dice",
+          "episode": 4,
+          "asset_id": "main_04_15_04"
+        }
+      ]
+    },
+    "st-eve-2610-dice-005": {
+      "name": "世界を\n包み込む\n太陽",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_15_05"
+      ],
+      "categories": [
+        "event"
+      ],
+      "references": [
+        {
+          "category": "event",
+          "table": "EventStory",
+          "event_id": "st-eve-2610-dice",
+          "episode": 5,
+          "asset_id": "main_04_15_05"
+        }
+      ]
+    },
+    "st-eve-2610-dice-006": {
+      "name": "煌めく\n星々の\n集う場所",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_15_06"
+      ],
+      "categories": [
+        "event"
+      ],
+      "references": [
+        {
+          "category": "event",
+          "table": "EventStory",
+          "event_id": "st-eve-2610-dice",
+          "episode": 6,
+          "asset_id": "main_04_15_06"
+        }
+      ]
+    },
     "st-ex-story-part-anniversary-01-23-0624-01": {
       "name": "プロローグ",
       "adv_play_types": [
@@ -65958,6 +66084,1416 @@
       ],
       "categories": [],
       "references": []
+    },
+    "st-shelf-26-1030-001-001": {
+      "name": "我が道を\n往く獅子",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_15_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-001-002": {
+      "name": "未来へ\n羽ばたく翼",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_15_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-001-003": {
+      "name": "頂点で\n咲き誇る花",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_15_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-001-004": {
+      "name": "道を\n照らし出す月",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_15_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-001-005": {
+      "name": "世界を\n包み込む\n太陽",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_15_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-001-006": {
+      "name": "煌めく\n星々の\n集う場所",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "main_04_15_06"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-002-001": {
+      "name": "沙季の大掃除",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2401_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-002-002": {
+      "name": "芽衣の猫探し",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2401_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-002-003": {
+      "name": "渚と\n大事な\nペンダント",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2401_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-002-004": {
+      "name": "すずの大暴れ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2401_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-002-005": {
+      "name": "琴乃と\n猫と\n修羅場",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2401_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-003-001": {
+      "name": "サニピ初の\n全国ツアー",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2403_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-003-002": {
+      "name": "沖縄＆福岡",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2403_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-003-003": {
+      "name": "広島＆名古屋",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2403_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-003-004": {
+      "name": "仙台＆札幌",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2403_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-003-005": {
+      "name": "サニーピース\n＆みんな",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2403_01_05_01",
+        "event_2403_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-004-001": {
+      "name": "ⅢXの\n世界進出",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2404_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-004-002": {
+      "name": "思ってたのと\n違う",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2404_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-004-003": {
+      "name": "実力で\nぶちのめす",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2404_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-004-004": {
+      "name": "宣伝\nin カジノ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2404_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-004-005": {
+      "name": "ジャック\nポット！",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2404_01_05_01",
+        "event_2404_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-005-001": {
+      "name": "BIG4への\n道のり",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2405_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-005-002": {
+      "name": "いぇー、松P",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2405_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-005-003": {
+      "name": "変化も\n必要だと思う",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2405_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-005-004": {
+      "name": "見事なスライ\nディング土下\n座",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2405_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-005-005": {
+      "name": "その覚悟は\n出来てる？",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2405_01_05_01",
+        "event_2405_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-006-001": {
+      "name": "目指すは\n100連勝",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2311_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-006-002": {
+      "name": "負ける訳には\nいかない",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2311_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-006-003": {
+      "name": "挑戦か無謀か",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2311_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-006-004": {
+      "name": "限界なんて\n決めないで",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2311_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-006-005": {
+      "name": "三人でなら\nどこまでも",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2311_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-007-001": {
+      "name": "決戦前夜",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2406_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-007-002": {
+      "name": "漠然とした\nイメージ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2406_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-007-003": {
+      "name": "私の道",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2406_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-007-004": {
+      "name": "道を照らす\nアイドル",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2406_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-007-005": {
+      "name": "待ってるよ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2406_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-008-001": {
+      "name": "誰が雑魚\nアイドルよ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2407_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-008-002": {
+      "name": "一人でも\n平気だから",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2407_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-008-003": {
+      "name": "魚だけに、\nうおー",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2407_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-008-004": {
+      "name": "千紗はやりた\nいんでしょ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2407_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-008-005": {
+      "name": "サニーピース\n号、出航！！",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2407_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-009-001": {
+      "name": "リベンジ\n大作戦",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2408_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-009-002": {
+      "name": "顔では笑い、\n足を踏む",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2408_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-009-003": {
+      "name": "目算が\n全部パァ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2408_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-009-004": {
+      "name": "一致団結？　\n新曲作り",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2408_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-009-005": {
+      "name": "敵はやっぱり",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2408_01_05_01",
+        "event_2408_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-010-001": {
+      "name": "ぷりてぃー★\nエンジェル",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2409_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-010-002": {
+      "name": "キミィー\nナンダカ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2409_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-010-003": {
+      "name": "名優、鈴村\n久美子の娘",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2409_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-010-004": {
+      "name": "うち……\n降板します",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2409_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-010-005": {
+      "name": "恐ろしい\nモンスター",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2409_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-011-001": {
+      "name": "仲良し\nユニット\n決定戦",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2411_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-011-002": {
+      "name": "本物よりも\n本物の仲良し",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2411_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-011-003": {
+      "name": "こころの\n学校生活",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2411_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-011-004": {
+      "name": "天使と悪魔",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2411_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-011-005": {
+      "name": "最強の\nニコイチ",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2411_01_05_01",
+        "event_2411_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-012-001": {
+      "name": "お正月の\n生放送",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2501_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-012-002": {
+      "name": "トリエルに\n翼を授けよう",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2501_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-012-003": {
+      "name": "激辛料理\nガチ完食",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2501_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-012-004": {
+      "name": "すみれの\nマラソン\nチャレンジ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2501_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-012-005": {
+      "name": "アイドルの\nど根性",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2501_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-013-001": {
+      "name": "サニピ達の\nバレンタイン",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2502_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-013-002": {
+      "name": "秘密の\nチョコレート",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2502_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-013-003": {
+      "name": "とろける\nような青春",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2502_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-013-004": {
+      "name": "ドキドキ\n告白タイム",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2502_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-013-005": {
+      "name": "あなたに\nハッピー\nバレンタイン",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2502_01_05_01",
+        "event_2502_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-014-001": {
+      "name": "『劇団★見』\n旗揚げ！",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2504_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-014-002": {
+      "name": "思い出の物語",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2504_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-014-003": {
+      "name": "アリスオーデ\nィション",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2504_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-014-004": {
+      "name": "始まった\n初公演",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2504_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-014-005": {
+      "name": "めでたし\nめでたし",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2504_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-015-001": {
+      "name": "星見プロ\n全国ツアー！",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2506_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-015-002": {
+      "name": "チーム\nリーダー\n愛ちゃん",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2506_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-015-003": {
+      "name": "お楽しみの\nくじ引き",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2506_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-015-004": {
+      "name": "とっても\n目立って\nました",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2506_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-015-005": {
+      "name": "世界一美しい\n星空",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2506_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-016-001": {
+      "name": "ⅢXの\n共同生活",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2507_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-016-002": {
+      "name": "会いたかったよ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2507_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-016-003": {
+      "name": "久しぶりの\n再会",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2507_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-016-004": {
+      "name": "今すぐ辞める",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2507_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-016-005": {
+      "name": "ⅢXの解散",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2507_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-017-001": {
+      "name": "出資の条件",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2508_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-017-002": {
+      "name": "忘れない\nために",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2508_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-017-003": {
+      "name": "自分で責任\n取りなさい",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2508_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-017-004": {
+      "name": "獲物を狙う\n獅子",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2508_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-017-005": {
+      "name": "ⅢX、\n行くわよ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2508_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-018-001": {
+      "name": "生徒会長、\n鈴村優",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2510_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-018-002": {
+      "name": "長瀬さん\nと\n琴乃ちゃん",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2510_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-018-003": {
+      "name": "出し物考案中",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2510_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-018-004": {
+      "name": "開店、\n猫耳メイド\nカフェ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2510_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-018-005": {
+      "name": "開演、シスタ\nーvs猫耳\n悪魔メイド",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2510_01_05_01",
+        "event_2510_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-019-001": {
+      "name": "僕に\n仕切らせて\nほしい",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2511_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-019-002": {
+      "name": "ひらめきの\n温泉",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2511_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-019-003": {
+      "name": "リズノワ\nとの融合",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2511_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-019-004": {
+      "name": "ピッピッピ\nピッピー！",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2511_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-019-005": {
+      "name": "フェス\nティバルの\n始まりだよ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2511_01_05"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-020-001": {
+      "name": "ⅢX公式動画\nチャンネル",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2601_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-020-002": {
+      "name": "ドライブ\n行っちゃい\nましょ～！",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2601_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-020-003": {
+      "name": "ろくな動画が\n撮れてない！",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2601_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-020-004": {
+      "name": "仲良し三人組\nと友情破壊\nゲーム",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2601_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-020-005": {
+      "name": "全世界に\n生配信！",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2601_01_05_01",
+        "event_2601_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-021-001": {
+      "name": "あの時の\n約束",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2602_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-021-002": {
+      "name": "センターへの想い",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2602_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-021-003": {
+      "name": "伝えられた\n結果",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2602_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-021-004": {
+      "name": "しなやかな\n強さ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2602_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-021-005": {
+      "name": "ハッピー\nバレン\nタイン！",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2602_01_05_01",
+        "event_2602_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-022-001": {
+      "name": "アンサー\nソング",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2603_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-022-002": {
+      "name": "歌うように",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2603_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-022-003": {
+      "name": "長瀬麻奈と\nお姉ちゃん",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2603_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-022-004": {
+      "name": "寄り添う\n想いを大切に",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2603_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-022-005": {
+      "name": "大切な人への\n曲",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2603_01_05_01",
+        "event_2603_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-023-001": {
+      "name": "出掛けた先は",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2604_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-023-002": {
+      "name": "野生の野良\nアイドル？",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2604_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-023-003": {
+      "name": "よく\n分からない\nセンス",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2604_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-023-004": {
+      "name": "最強アイドル\nトーナメント",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2604_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-023-005": {
+      "name": "激闘！\nDJばぁば＆\nBEIJU",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2604_01_05_01",
+        "event_2604_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-024-001": {
+      "name": "恩返しは\n何度でも",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2606_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-024-002": {
+      "name": "成長こそ喜び",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2606_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-024-003": {
+      "name": "ラブ\nレター！？",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2606_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-024-004": {
+      "name": "準備は万端？",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2606_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-024-005": {
+      "name": "この曲で\n高みへ",
+      "adv_play_types": [
+        1,
+        1
+      ],
+      "assets": [
+        "event_2606_01_05_01",
+        "event_2606_01_05_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-025-001": {
+      "name": "合同練習\nの条件",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2607_01_01"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-025-002": {
+      "name": "五番勝負、\n開幕！",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2607_01_02"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-025-003": {
+      "name": "五番勝負\nの行方",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2607_01_03"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-025-004": {
+      "name": "チームワーク\nと\nサバイバル",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2607_01_04"
+      ],
+      "categories": [],
+      "references": []
+    },
+    "st-shelf-26-1030-025-005": {
+      "name": "世界一の\nアイドルに！",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "event_2607_01_05"
+      ],
+      "categories": [],
+      "references": []
     }
   },
   "assets": {
@@ -70563,27 +72099,32 @@
     "event_2311_01_01": [
       "st-eve-2311-marathon-raid-001",
       "st-shelf-24-0612-004-001",
-      "st-shelf-26-0918-001-001"
+      "st-shelf-26-0918-001-001",
+      "st-shelf-26-1030-006-001"
     ],
     "event_2311_01_02": [
       "st-eve-2311-marathon-raid-002",
       "st-shelf-24-0612-004-002",
-      "st-shelf-26-0918-001-002"
+      "st-shelf-26-0918-001-002",
+      "st-shelf-26-1030-006-002"
     ],
     "event_2311_01_03": [
       "st-eve-2311-marathon-raid-003",
       "st-shelf-24-0612-004-003",
-      "st-shelf-26-0918-001-003"
+      "st-shelf-26-0918-001-003",
+      "st-shelf-26-1030-006-003"
     ],
     "event_2311_01_04": [
       "st-eve-2311-marathon-raid-004",
       "st-shelf-24-0612-004-004",
-      "st-shelf-26-0918-001-004"
+      "st-shelf-26-0918-001-004",
+      "st-shelf-26-1030-006-004"
     ],
     "event_2311_01_05": [
       "st-eve-2311-marathon-raid-005",
       "st-shelf-24-0612-004-005",
-      "st-shelf-26-0918-001-005"
+      "st-shelf-26-0918-001-005",
+      "st-shelf-26-1030-006-005"
     ],
     "event_2312_01_01": [
       "st-eve-2312-contest-001",
@@ -70609,31 +72150,36 @@
       "st-eve-2401-race-001",
       "st-shelf-24-0103-001-001",
       "st-shelf-24-0612-005-001",
-      "st-shelf-26-1002-001-001"
+      "st-shelf-26-1002-001-001",
+      "st-shelf-26-1030-002-001"
     ],
     "event_2401_01_02": [
       "st-eve-2401-race-002",
       "st-shelf-24-0103-001-002",
       "st-shelf-24-0612-005-002",
-      "st-shelf-26-1002-001-002"
+      "st-shelf-26-1002-001-002",
+      "st-shelf-26-1030-002-002"
     ],
     "event_2401_01_03": [
       "st-eve-2401-race-003",
       "st-shelf-24-0103-001-003",
       "st-shelf-24-0612-005-003",
-      "st-shelf-26-1002-001-003"
+      "st-shelf-26-1002-001-003",
+      "st-shelf-26-1030-002-003"
     ],
     "event_2401_01_04": [
       "st-eve-2401-race-004",
       "st-shelf-24-0103-001-004",
       "st-shelf-24-0612-005-004",
-      "st-shelf-26-1002-001-004"
+      "st-shelf-26-1002-001-004",
+      "st-shelf-26-1030-002-004"
     ],
     "event_2401_01_05": [
       "st-eve-2401-race-005",
       "st-shelf-24-0103-001-005",
       "st-shelf-24-0612-005-005",
-      "st-shelf-26-1002-001-005"
+      "st-shelf-26-1002-001-005",
+      "st-shelf-26-1030-002-005"
     ],
     "event_2401_02_01": [
       "st-ex-story-part-special-01-24-0103-newyear-01"
@@ -70666,68 +72212,80 @@
     "event_2403_01_01": [
       "st-eve-2403-race-001",
       "st-shelf-24-0612-001-001",
-      "st-shelf-26-0831-001-001"
+      "st-shelf-26-0831-001-001",
+      "st-shelf-26-1030-003-001"
     ],
     "event_2403_01_02": [
       "st-eve-2403-race-002",
       "st-shelf-24-0612-001-002",
-      "st-shelf-26-0831-001-002"
+      "st-shelf-26-0831-001-002",
+      "st-shelf-26-1030-003-002"
     ],
     "event_2403_01_03": [
       "st-eve-2403-race-003",
       "st-shelf-24-0612-001-003",
-      "st-shelf-26-0831-001-003"
+      "st-shelf-26-0831-001-003",
+      "st-shelf-26-1030-003-003"
     ],
     "event_2403_01_04": [
       "st-eve-2403-race-004",
       "st-shelf-24-0612-001-004",
-      "st-shelf-26-0831-001-004"
+      "st-shelf-26-0831-001-004",
+      "st-shelf-26-1030-003-004"
     ],
     "event_2403_01_05_01": [
       "st-eve-2403-race-005",
       "st-shelf-24-0612-001-005",
-      "st-shelf-26-0831-001-005"
+      "st-shelf-26-0831-001-005",
+      "st-shelf-26-1030-003-005"
     ],
     "event_2403_01_05_02": [
       "st-eve-2403-race-005",
       "st-shelf-24-0612-001-005",
-      "st-shelf-26-0831-001-005"
+      "st-shelf-26-0831-001-005",
+      "st-shelf-26-1030-003-005"
     ],
     "event_2404_01_01": [
       "st-eve-2404-dice-001",
       "st-shelf-24-0612-002-001",
       "st-shelf-25-0527-001-001",
-      "st-shelf-26-0820-001-001"
+      "st-shelf-26-0820-001-001",
+      "st-shelf-26-1030-004-001"
     ],
     "event_2404_01_02": [
       "st-eve-2404-dice-002",
       "st-shelf-24-0612-002-002",
       "st-shelf-25-0527-001-002",
-      "st-shelf-26-0820-001-002"
+      "st-shelf-26-0820-001-002",
+      "st-shelf-26-1030-004-002"
     ],
     "event_2404_01_03": [
       "st-eve-2404-dice-003",
       "st-shelf-24-0612-002-003",
       "st-shelf-25-0527-001-003",
-      "st-shelf-26-0820-001-003"
+      "st-shelf-26-0820-001-003",
+      "st-shelf-26-1030-004-003"
     ],
     "event_2404_01_04": [
       "st-eve-2404-dice-004",
       "st-shelf-24-0612-002-004",
       "st-shelf-25-0527-001-004",
-      "st-shelf-26-0820-001-004"
+      "st-shelf-26-0820-001-004",
+      "st-shelf-26-1030-004-004"
     ],
     "event_2404_01_05_01": [
       "st-eve-2404-dice-005",
       "st-shelf-24-0612-002-005",
       "st-shelf-25-0527-001-005",
-      "st-shelf-26-0820-001-005"
+      "st-shelf-26-0820-001-005",
+      "st-shelf-26-1030-004-005"
     ],
     "event_2404_01_05_02": [
       "st-eve-2404-dice-005",
       "st-shelf-24-0612-002-005",
       "st-shelf-25-0527-001-005",
-      "st-shelf-26-0820-001-005"
+      "st-shelf-26-0820-001-005",
+      "st-shelf-26-1030-004-005"
     ],
     "event_2404_02_01": [
       "st-ex-story-part-special-01-24-0401-april-01"
@@ -70751,72 +72309,83 @@
       "st-eve-2405-race-001",
       "st-shelf-24-0612-003-001",
       "st-shelf-25-0527-002-001",
-      "st-shelf-26-0731-007-001"
+      "st-shelf-26-0731-007-001",
+      "st-shelf-26-1030-005-001"
     ],
     "event_2405_01_02": [
       "st-eve-2405-race-002",
       "st-shelf-24-0612-003-002",
       "st-shelf-25-0527-002-002",
-      "st-shelf-26-0731-007-002"
+      "st-shelf-26-0731-007-002",
+      "st-shelf-26-1030-005-002"
     ],
     "event_2405_01_03": [
       "st-eve-2405-race-003",
       "st-shelf-24-0612-003-003",
       "st-shelf-25-0527-002-003",
-      "st-shelf-26-0731-007-003"
+      "st-shelf-26-0731-007-003",
+      "st-shelf-26-1030-005-003"
     ],
     "event_2405_01_04": [
       "st-eve-2405-race-004",
       "st-shelf-24-0612-003-004",
       "st-shelf-25-0527-002-004",
-      "st-shelf-26-0731-007-004"
+      "st-shelf-26-0731-007-004",
+      "st-shelf-26-1030-005-004"
     ],
     "event_2405_01_05_01": [
       "st-eve-2405-race-005",
       "st-shelf-24-0612-003-005",
       "st-shelf-25-0527-002-005",
-      "st-shelf-26-0731-007-005"
+      "st-shelf-26-0731-007-005",
+      "st-shelf-26-1030-005-005"
     ],
     "event_2405_01_05_02": [
       "st-eve-2405-race-005",
       "st-shelf-24-0612-003-005",
       "st-shelf-25-0527-002-005",
-      "st-shelf-26-0731-007-005"
+      "st-shelf-26-0731-007-005",
+      "st-shelf-26-1030-005-005"
     ],
     "event_2406_01_01": [
       "st-eve-2406-contest-001",
       "st-shelf-24-0626-001-001",
       "st-shelf-25-0527-003-001",
       "st-shelf-26-0831-002-001",
-      "st-shelf-26-1002-002-001"
+      "st-shelf-26-1002-002-001",
+      "st-shelf-26-1030-007-001"
     ],
     "event_2406_01_02": [
       "st-eve-2406-contest-002",
       "st-shelf-24-0626-001-002",
       "st-shelf-25-0527-003-002",
       "st-shelf-26-0831-002-002",
-      "st-shelf-26-1002-002-002"
+      "st-shelf-26-1002-002-002",
+      "st-shelf-26-1030-007-002"
     ],
     "event_2406_01_03": [
       "st-eve-2406-contest-003",
       "st-shelf-24-0626-001-003",
       "st-shelf-25-0527-003-003",
       "st-shelf-26-0831-002-003",
-      "st-shelf-26-1002-002-003"
+      "st-shelf-26-1002-002-003",
+      "st-shelf-26-1030-007-003"
     ],
     "event_2406_01_04": [
       "st-eve-2406-contest-004",
       "st-shelf-24-0626-001-004",
       "st-shelf-25-0527-003-004",
       "st-shelf-26-0831-002-004",
-      "st-shelf-26-1002-002-004"
+      "st-shelf-26-1002-002-004",
+      "st-shelf-26-1030-007-004"
     ],
     "event_2406_01_05": [
       "st-eve-2406-contest-005",
       "st-shelf-24-0626-001-005",
       "st-shelf-25-0527-003-005",
       "st-shelf-26-0831-002-005",
-      "st-shelf-26-1002-002-005"
+      "st-shelf-26-1002-002-005",
+      "st-shelf-26-1030-007-005"
     ],
     "event_2406_02_01": [
       "st-ex-story-part-anniversary-01-24-0624-01"
@@ -70840,31 +72409,36 @@
       "st-eve-2407-dice-001",
       "st-shelf-24-0708-001-001",
       "st-shelf-25-0527-004-001",
-      "st-shelf-26-0831-003-001"
+      "st-shelf-26-0831-003-001",
+      "st-shelf-26-1030-008-001"
     ],
     "event_2407_01_02": [
       "st-eve-2407-dice-002",
       "st-shelf-24-0708-001-002",
       "st-shelf-25-0527-004-002",
-      "st-shelf-26-0831-003-002"
+      "st-shelf-26-0831-003-002",
+      "st-shelf-26-1030-008-002"
     ],
     "event_2407_01_03": [
       "st-eve-2407-dice-003",
       "st-shelf-24-0708-001-003",
       "st-shelf-25-0527-004-003",
-      "st-shelf-26-0831-003-003"
+      "st-shelf-26-0831-003-003",
+      "st-shelf-26-1030-008-003"
     ],
     "event_2407_01_04": [
       "st-eve-2407-dice-004",
       "st-shelf-24-0708-001-004",
       "st-shelf-25-0527-004-004",
-      "st-shelf-26-0831-003-004"
+      "st-shelf-26-0831-003-004",
+      "st-shelf-26-1030-008-004"
     ],
     "event_2407_01_05": [
       "st-eve-2407-dice-005",
       "st-shelf-24-0708-001-005",
       "st-shelf-25-0527-004-005",
-      "st-shelf-26-0831-003-005"
+      "st-shelf-26-0831-003-005",
+      "st-shelf-26-1030-008-005"
     ],
     "event_2407_02_01": [
       "st-ex-story-part-special-01-birthday-trip-2024-01"
@@ -70873,67 +72447,78 @@
       "st-eve-2408-race-001",
       "st-shelf-24-0727-001-001",
       "st-shelf-25-0527-005-001",
-      "st-shelf-26-0820-002-001"
+      "st-shelf-26-0820-002-001",
+      "st-shelf-26-1030-009-001"
     ],
     "event_2408_01_02": [
       "st-eve-2408-race-002",
       "st-shelf-24-0727-001-002",
       "st-shelf-25-0527-005-002",
-      "st-shelf-26-0820-002-002"
+      "st-shelf-26-0820-002-002",
+      "st-shelf-26-1030-009-002"
     ],
     "event_2408_01_03": [
       "st-eve-2408-race-003",
       "st-shelf-24-0727-001-003",
       "st-shelf-25-0527-005-003",
-      "st-shelf-26-0820-002-003"
+      "st-shelf-26-0820-002-003",
+      "st-shelf-26-1030-009-003"
     ],
     "event_2408_01_04": [
       "st-eve-2408-race-004",
       "st-shelf-24-0727-001-004",
       "st-shelf-25-0527-005-004",
-      "st-shelf-26-0820-002-004"
+      "st-shelf-26-0820-002-004",
+      "st-shelf-26-1030-009-004"
     ],
     "event_2408_01_05_01": [
       "st-eve-2408-race-005",
       "st-shelf-24-0727-001-005",
       "st-shelf-25-0527-005-005",
-      "st-shelf-26-0820-002-005"
+      "st-shelf-26-0820-002-005",
+      "st-shelf-26-1030-009-005"
     ],
     "event_2408_01_05_02": [
       "st-eve-2408-race-005",
       "st-shelf-24-0727-001-005",
       "st-shelf-25-0527-005-005",
-      "st-shelf-26-0820-002-005"
+      "st-shelf-26-0820-002-005",
+      "st-shelf-26-1030-009-005"
     ],
     "event_2409_01_01": [
       "st-eve-2409-marathon-raid-001",
       "st-shelf-24-0827-001-001",
       "st-shelf-25-0527-006-001",
-      "st-shelf-26-0918-002-001"
+      "st-shelf-26-0918-002-001",
+      "st-shelf-26-1030-010-001"
     ],
     "event_2409_01_02": [
       "st-eve-2409-marathon-raid-002",
       "st-shelf-24-0827-001-002",
       "st-shelf-25-0527-006-002",
-      "st-shelf-26-0918-002-002"
+      "st-shelf-26-0918-002-002",
+      "st-shelf-26-1030-010-002"
     ],
     "event_2409_01_03": [
       "st-eve-2409-marathon-raid-003",
       "st-shelf-24-0827-001-003",
       "st-shelf-25-0527-006-003",
-      "st-shelf-26-0918-002-003"
+      "st-shelf-26-0918-002-003",
+      "st-shelf-26-1030-010-003"
     ],
     "event_2409_01_04": [
       "st-eve-2409-marathon-raid-004",
       "st-shelf-24-0827-001-004",
       "st-shelf-25-0527-006-004",
-      "st-shelf-26-0918-002-004"
+      "st-shelf-26-0918-002-004",
+      "st-shelf-26-1030-010-004"
     ],
     "event_2409_01_05": [
       "st-eve-2409-marathon-raid-005",
       "st-shelf-24-0827-001-005",
       "st-shelf-25-0527-006-005",
-      "st-shelf-26-0918-002-005"
+      "st-shelf-26-0918-002-005",
+      "st-shelf-26-1030-010-005"
     ],
     "event_2409_02_01": [
       "st-ex-story-part-special-01-birthday-trip-2024-02"
@@ -70969,7 +72554,8 @@
       "st-shelf-26-0731-006-001",
       "st-shelf-26-0820-003-001",
       "st-shelf-26-0831-004-001",
-      "st-shelf-26-1002-003-001"
+      "st-shelf-26-1002-003-001",
+      "st-shelf-26-1030-011-001"
     ],
     "event_2411_01_02": [
       "st-eve-2411-race-002",
@@ -70977,7 +72563,8 @@
       "st-shelf-26-0731-006-002",
       "st-shelf-26-0820-003-002",
       "st-shelf-26-0831-004-002",
-      "st-shelf-26-1002-003-002"
+      "st-shelf-26-1002-003-002",
+      "st-shelf-26-1030-011-002"
     ],
     "event_2411_01_03": [
       "st-eve-2411-race-003",
@@ -70985,7 +72572,8 @@
       "st-shelf-26-0731-006-003",
       "st-shelf-26-0820-003-003",
       "st-shelf-26-0831-004-003",
-      "st-shelf-26-1002-003-003"
+      "st-shelf-26-1002-003-003",
+      "st-shelf-26-1030-011-003"
     ],
     "event_2411_01_04": [
       "st-eve-2411-race-004",
@@ -70993,7 +72581,8 @@
       "st-shelf-26-0731-006-004",
       "st-shelf-26-0820-003-004",
       "st-shelf-26-0831-004-004",
-      "st-shelf-26-1002-003-004"
+      "st-shelf-26-1002-003-004",
+      "st-shelf-26-1030-011-004"
     ],
     "event_2411_01_05_01": [
       "st-eve-2411-race-005",
@@ -71001,7 +72590,8 @@
       "st-shelf-26-0731-006-005",
       "st-shelf-26-0820-003-005",
       "st-shelf-26-0831-004-005",
-      "st-shelf-26-1002-003-005"
+      "st-shelf-26-1002-003-005",
+      "st-shelf-26-1030-011-005"
     ],
     "event_2411_01_05_02": [
       "st-eve-2411-race-005",
@@ -71009,7 +72599,8 @@
       "st-shelf-26-0731-006-005",
       "st-shelf-26-0820-003-005",
       "st-shelf-26-0831-004-005",
-      "st-shelf-26-1002-003-005"
+      "st-shelf-26-1002-003-005",
+      "st-shelf-26-1030-011-005"
     ],
     "event_2412_01_01": [
       "st-eve-2412-contest-001",
@@ -71041,27 +72632,32 @@
     "event_2501_01_01": [
       "st-eve-2501-race-001",
       "st-shelf-25-0104-001-001",
-      "st-shelf-26-0918-003-001"
+      "st-shelf-26-0918-003-001",
+      "st-shelf-26-1030-012-001"
     ],
     "event_2501_01_02": [
       "st-eve-2501-race-002",
       "st-shelf-25-0104-001-002",
-      "st-shelf-26-0918-003-002"
+      "st-shelf-26-0918-003-002",
+      "st-shelf-26-1030-012-002"
     ],
     "event_2501_01_03": [
       "st-eve-2501-race-003",
       "st-shelf-25-0104-001-003",
-      "st-shelf-26-0918-003-003"
+      "st-shelf-26-0918-003-003",
+      "st-shelf-26-1030-012-003"
     ],
     "event_2501_01_04": [
       "st-eve-2501-race-004",
       "st-shelf-25-0104-001-004",
-      "st-shelf-26-0918-003-004"
+      "st-shelf-26-0918-003-004",
+      "st-shelf-26-1030-012-004"
     ],
     "event_2501_01_05": [
       "st-eve-2501-race-005",
       "st-shelf-25-0104-001-005",
-      "st-shelf-26-0918-003-005"
+      "st-shelf-26-0918-003-005",
+      "st-shelf-26-1030-012-005"
     ],
     "event_2501_02_01": [
       "st-ex-story-part-special-01-25-0104-newyear-01"
@@ -71069,33 +72665,39 @@
     "event_2502_01_01": [
       "st-eve-2502-marathon-raid-001",
       "st-shelf-25-0128-001-001",
-      "st-shelf-26-0831-005-001"
+      "st-shelf-26-0831-005-001",
+      "st-shelf-26-1030-013-001"
     ],
     "event_2502_01_02": [
       "st-eve-2502-marathon-raid-002",
       "st-shelf-25-0128-001-002",
-      "st-shelf-26-0831-005-002"
+      "st-shelf-26-0831-005-002",
+      "st-shelf-26-1030-013-002"
     ],
     "event_2502_01_03": [
       "st-eve-2502-marathon-raid-003",
       "st-shelf-25-0128-001-003",
-      "st-shelf-26-0831-005-003"
+      "st-shelf-26-0831-005-003",
+      "st-shelf-26-1030-013-003"
     ],
     "event_2502_01_04": [
       "st-eve-2502-marathon-raid-004",
       "st-shelf-25-0128-001-004",
-      "st-shelf-26-0831-005-004"
+      "st-shelf-26-0831-005-004",
+      "st-shelf-26-1030-013-004"
     ],
     "event_2502_01_05": [
       "st-shelf-25-0128-001-005"
     ],
     "event_2502_01_05_01": [
       "st-eve-2502-marathon-raid-005",
-      "st-shelf-26-0831-005-005"
+      "st-shelf-26-0831-005-005",
+      "st-shelf-26-1030-013-005"
     ],
     "event_2502_01_05_02": [
       "st-eve-2502-marathon-raid-005",
-      "st-shelf-26-0831-005-005"
+      "st-shelf-26-0831-005-005",
+      "st-shelf-26-1030-013-005"
     ],
     "event_2502_02_01": [
       "st-ex-story-part-special-01-birthday-trip-2024-04"
@@ -71117,35 +72719,40 @@
       "st-shelf-25-0326-001-001",
       "st-shelf-26-0831-006-001",
       "st-shelf-26-0918-004-001",
-      "st-shelf-26-1002-004-001"
+      "st-shelf-26-1002-004-001",
+      "st-shelf-26-1030-014-001"
     ],
     "event_2504_01_02": [
       "st-eve-2504-marathon-raid-002",
       "st-shelf-25-0326-001-002",
       "st-shelf-26-0831-006-002",
       "st-shelf-26-0918-004-002",
-      "st-shelf-26-1002-004-002"
+      "st-shelf-26-1002-004-002",
+      "st-shelf-26-1030-014-002"
     ],
     "event_2504_01_03": [
       "st-eve-2504-marathon-raid-003",
       "st-shelf-25-0326-001-003",
       "st-shelf-26-0831-006-003",
       "st-shelf-26-0918-004-003",
-      "st-shelf-26-1002-004-003"
+      "st-shelf-26-1002-004-003",
+      "st-shelf-26-1030-014-003"
     ],
     "event_2504_01_04": [
       "st-eve-2504-marathon-raid-004",
       "st-shelf-25-0326-001-004",
       "st-shelf-26-0831-006-004",
       "st-shelf-26-0918-004-004",
-      "st-shelf-26-1002-004-004"
+      "st-shelf-26-1002-004-004",
+      "st-shelf-26-1030-014-004"
     ],
     "event_2504_01_05": [
       "st-eve-2504-marathon-raid-005",
       "st-shelf-25-0326-001-005",
       "st-shelf-26-0831-006-005",
       "st-shelf-26-0918-004-005",
-      "st-shelf-26-1002-004-005"
+      "st-shelf-26-1002-004-005",
+      "st-shelf-26-1030-014-005"
     ],
     "event_2504_02_01": [
       "st-shelf-25-0401-001-001"
@@ -71176,7 +72783,8 @@
       "st-shelf-26-0820-004-001",
       "st-shelf-26-0831-007-001",
       "st-shelf-26-0918-005-001",
-      "st-shelf-26-1002-005-001"
+      "st-shelf-26-1002-005-001",
+      "st-shelf-26-1030-015-001"
     ],
     "event_2506_01_02": [
       "st-eve-2507-race-002",
@@ -71186,7 +72794,8 @@
       "st-shelf-26-0820-004-002",
       "st-shelf-26-0831-007-002",
       "st-shelf-26-0918-005-002",
-      "st-shelf-26-1002-005-002"
+      "st-shelf-26-1002-005-002",
+      "st-shelf-26-1030-015-002"
     ],
     "event_2506_01_03": [
       "st-eve-2507-race-003",
@@ -71196,7 +72805,8 @@
       "st-shelf-26-0820-004-003",
       "st-shelf-26-0831-007-003",
       "st-shelf-26-0918-005-003",
-      "st-shelf-26-1002-005-003"
+      "st-shelf-26-1002-005-003",
+      "st-shelf-26-1030-015-003"
     ],
     "event_2506_01_04": [
       "st-eve-2507-race-004",
@@ -71206,7 +72816,8 @@
       "st-shelf-26-0820-004-004",
       "st-shelf-26-0831-007-004",
       "st-shelf-26-0918-005-004",
-      "st-shelf-26-1002-005-004"
+      "st-shelf-26-1002-005-004",
+      "st-shelf-26-1030-015-004"
     ],
     "event_2506_01_05": [
       "st-eve-2507-race-005",
@@ -71216,7 +72827,8 @@
       "st-shelf-26-0820-004-005",
       "st-shelf-26-0831-007-005",
       "st-shelf-26-0918-005-005",
-      "st-shelf-26-1002-005-005"
+      "st-shelf-26-1002-005-005",
+      "st-shelf-26-1030-015-005"
     ],
     "event_2506_03_01": [
       "st-ex-story-part-special-01-25-0624-aniv-01"
@@ -71225,61 +72837,71 @@
       "st-eve-2507-free-001",
       "st-shelf-25-0728-001-001",
       "st-shelf-26-0527-002-001",
-      "st-shelf-26-0820-005-001"
+      "st-shelf-26-0820-005-001",
+      "st-shelf-26-1030-016-001"
     ],
     "event_2507_01_02": [
       "st-eve-2507-free-002",
       "st-shelf-25-0728-001-002",
       "st-shelf-26-0527-002-002",
-      "st-shelf-26-0820-005-002"
+      "st-shelf-26-0820-005-002",
+      "st-shelf-26-1030-016-002"
     ],
     "event_2507_01_03": [
       "st-eve-2507-free-003",
       "st-shelf-25-0728-001-003",
       "st-shelf-26-0527-002-003",
-      "st-shelf-26-0820-005-003"
+      "st-shelf-26-0820-005-003",
+      "st-shelf-26-1030-016-003"
     ],
     "event_2507_01_04": [
       "st-eve-2507-free-004",
       "st-shelf-25-0728-001-004",
       "st-shelf-26-0527-002-004",
-      "st-shelf-26-0820-005-004"
+      "st-shelf-26-0820-005-004",
+      "st-shelf-26-1030-016-004"
     ],
     "event_2507_01_05": [
       "st-eve-2507-free-005",
       "st-shelf-25-0728-001-005",
       "st-shelf-26-0527-002-005",
-      "st-shelf-26-0820-005-005"
+      "st-shelf-26-0820-005-005",
+      "st-shelf-26-1030-016-005"
     ],
     "event_2508_01_01": [
       "st-eve-2508-free-001",
       "st-shelf-25-0728-002-001",
       "st-shelf-26-0527-003-001",
-      "st-shelf-26-0820-006-001"
+      "st-shelf-26-0820-006-001",
+      "st-shelf-26-1030-017-001"
     ],
     "event_2508_01_02": [
       "st-eve-2508-free-002",
       "st-shelf-25-0728-002-002",
       "st-shelf-26-0527-003-002",
-      "st-shelf-26-0820-006-002"
+      "st-shelf-26-0820-006-002",
+      "st-shelf-26-1030-017-002"
     ],
     "event_2508_01_03": [
       "st-eve-2508-free-003",
       "st-shelf-25-0728-002-003",
       "st-shelf-26-0527-003-003",
-      "st-shelf-26-0820-006-003"
+      "st-shelf-26-0820-006-003",
+      "st-shelf-26-1030-017-003"
     ],
     "event_2508_01_04": [
       "st-eve-2508-free-004",
       "st-shelf-25-0728-002-004",
       "st-shelf-26-0527-003-004",
-      "st-shelf-26-0820-006-004"
+      "st-shelf-26-0820-006-004",
+      "st-shelf-26-1030-017-004"
     ],
     "event_2508_01_05": [
       "st-eve-2508-free-005",
       "st-shelf-25-0728-002-005",
       "st-shelf-26-0527-003-005",
-      "st-shelf-26-0820-006-005"
+      "st-shelf-26-0820-006-005",
+      "st-shelf-26-1030-017-005"
     ],
     "event_2509_01_01": [
       "st-eve-2509-contest-001",
@@ -71307,7 +72929,8 @@
       "st-shelf-26-0527-004-001",
       "st-shelf-26-0731-004-001",
       "st-shelf-26-0918-006-001",
-      "st-shelf-26-1002-006-001"
+      "st-shelf-26-1002-006-001",
+      "st-shelf-26-1030-018-001"
     ],
     "event_2510_01_02": [
       "st-eve-2510-marathon-raid-002",
@@ -71315,7 +72938,8 @@
       "st-shelf-26-0527-004-002",
       "st-shelf-26-0731-004-002",
       "st-shelf-26-0918-006-002",
-      "st-shelf-26-1002-006-002"
+      "st-shelf-26-1002-006-002",
+      "st-shelf-26-1030-018-002"
     ],
     "event_2510_01_03": [
       "st-eve-2510-marathon-raid-003",
@@ -71323,7 +72947,8 @@
       "st-shelf-26-0527-004-003",
       "st-shelf-26-0731-004-003",
       "st-shelf-26-0918-006-003",
-      "st-shelf-26-1002-006-003"
+      "st-shelf-26-1002-006-003",
+      "st-shelf-26-1030-018-003"
     ],
     "event_2510_01_04": [
       "st-eve-2510-marathon-raid-004",
@@ -71331,7 +72956,8 @@
       "st-shelf-26-0527-004-004",
       "st-shelf-26-0731-004-004",
       "st-shelf-26-0918-006-004",
-      "st-shelf-26-1002-006-004"
+      "st-shelf-26-1002-006-004",
+      "st-shelf-26-1030-018-004"
     ],
     "event_2510_01_05": [
       "st-shelf-25-0927-001-005"
@@ -71341,44 +72967,51 @@
       "st-shelf-26-0527-004-005",
       "st-shelf-26-0731-004-005",
       "st-shelf-26-0918-006-005",
-      "st-shelf-26-1002-006-005"
+      "st-shelf-26-1002-006-005",
+      "st-shelf-26-1030-018-005"
     ],
     "event_2510_01_05_02": [
       "st-eve-2510-marathon-raid-005",
       "st-shelf-26-0527-004-005",
       "st-shelf-26-0731-004-005",
       "st-shelf-26-0918-006-005",
-      "st-shelf-26-1002-006-005"
+      "st-shelf-26-1002-006-005",
+      "st-shelf-26-1030-018-005"
     ],
     "event_2511_01_01": [
       "st-eve-2511-race-001",
       "st-shelf-25-1028-001-001",
       "st-shelf-26-0527-005-001",
-      "st-shelf-26-0731-003-001"
+      "st-shelf-26-0731-003-001",
+      "st-shelf-26-1030-019-001"
     ],
     "event_2511_01_02": [
       "st-eve-2511-race-002",
       "st-shelf-25-1028-001-002",
       "st-shelf-26-0527-005-002",
-      "st-shelf-26-0731-003-002"
+      "st-shelf-26-0731-003-002",
+      "st-shelf-26-1030-019-002"
     ],
     "event_2511_01_03": [
       "st-eve-2511-race-003",
       "st-shelf-25-1028-001-003",
       "st-shelf-26-0527-005-003",
-      "st-shelf-26-0731-003-003"
+      "st-shelf-26-0731-003-003",
+      "st-shelf-26-1030-019-003"
     ],
     "event_2511_01_04": [
       "st-eve-2511-race-004",
       "st-shelf-25-1028-001-004",
       "st-shelf-26-0527-005-004",
-      "st-shelf-26-0731-003-004"
+      "st-shelf-26-0731-003-004",
+      "st-shelf-26-1030-019-004"
     ],
     "event_2511_01_05": [
       "st-eve-2511-race-005",
       "st-shelf-25-1028-001-005",
       "st-shelf-26-0527-005-005",
-      "st-shelf-26-0731-003-005"
+      "st-shelf-26-0731-003-005",
+      "st-shelf-26-1030-019-005"
     ],
     "event_2512_01_01": [
       "st-eve-2512-dice-001",
@@ -71395,33 +73028,39 @@
     "event_2601_01_01": [
       "st-eve-2601-race-001",
       "st-shelf-26-0104-001-001",
-      "st-shelf-26-0820-007-001"
+      "st-shelf-26-0820-007-001",
+      "st-shelf-26-1030-020-001"
     ],
     "event_2601_01_02": [
       "st-eve-2601-race-002",
       "st-shelf-26-0104-001-002",
-      "st-shelf-26-0820-007-002"
+      "st-shelf-26-0820-007-002",
+      "st-shelf-26-1030-020-002"
     ],
     "event_2601_01_03": [
       "st-eve-2601-race-003",
       "st-shelf-26-0104-001-003",
-      "st-shelf-26-0820-007-003"
+      "st-shelf-26-0820-007-003",
+      "st-shelf-26-1030-020-003"
     ],
     "event_2601_01_04": [
       "st-eve-2601-race-004",
       "st-shelf-26-0104-001-004",
-      "st-shelf-26-0820-007-004"
+      "st-shelf-26-0820-007-004",
+      "st-shelf-26-1030-020-004"
     ],
     "event_2601_01_05": [
       "st-shelf-26-0104-001-005"
     ],
     "event_2601_01_05_01": [
       "st-eve-2601-race-005",
-      "st-shelf-26-0820-007-005"
+      "st-shelf-26-0820-007-005",
+      "st-shelf-26-1030-020-005"
     ],
     "event_2601_01_05_02": [
       "st-eve-2601-race-005",
-      "st-shelf-26-0820-007-005"
+      "st-shelf-26-0820-007-005",
+      "st-shelf-26-1030-020-005"
     ],
     "event_2601_02_01": [
       "st-ex-story-part-special-01-26-0104-newyear-01"
@@ -71429,116 +73068,134 @@
     "event_2602_01_01": [
       "st-eve-2602-dice-001",
       "st-shelf-26-0128-001-001",
-      "st-shelf-26-1002-007-001"
+      "st-shelf-26-1002-007-001",
+      "st-shelf-26-1030-021-001"
     ],
     "event_2602_01_02": [
       "st-eve-2602-dice-002",
       "st-shelf-26-0128-001-002",
-      "st-shelf-26-1002-007-002"
+      "st-shelf-26-1002-007-002",
+      "st-shelf-26-1030-021-002"
     ],
     "event_2602_01_03": [
       "st-eve-2602-dice-003",
       "st-shelf-26-0128-001-003",
-      "st-shelf-26-1002-007-003"
+      "st-shelf-26-1002-007-003",
+      "st-shelf-26-1030-021-003"
     ],
     "event_2602_01_04": [
       "st-eve-2602-dice-004",
       "st-shelf-26-0128-001-004",
-      "st-shelf-26-1002-007-004"
+      "st-shelf-26-1002-007-004",
+      "st-shelf-26-1030-021-004"
     ],
     "event_2602_01_05_01": [
       "st-eve-2602-dice-005",
       "st-shelf-26-0128-001-005",
-      "st-shelf-26-1002-007-005"
+      "st-shelf-26-1002-007-005",
+      "st-shelf-26-1030-021-005"
     ],
     "event_2602_01_05_02": [
       "st-eve-2602-dice-005",
       "st-shelf-26-0128-001-005",
-      "st-shelf-26-1002-007-005"
+      "st-shelf-26-1002-007-005",
+      "st-shelf-26-1030-021-005"
     ],
     "event_2603_01_01": [
       "st-eve-2603-race-001",
       "st-shelf-26-0226-001-001",
       "st-shelf-26-0731-002-001",
       "st-shelf-26-0831-008-001",
-      "st-shelf-26-1002-008-001"
+      "st-shelf-26-1002-008-001",
+      "st-shelf-26-1030-022-001"
     ],
     "event_2603_01_02": [
       "st-eve-2603-race-002",
       "st-shelf-26-0226-001-002",
       "st-shelf-26-0731-002-002",
       "st-shelf-26-0831-008-002",
-      "st-shelf-26-1002-008-002"
+      "st-shelf-26-1002-008-002",
+      "st-shelf-26-1030-022-002"
     ],
     "event_2603_01_03": [
       "st-eve-2603-race-003",
       "st-shelf-26-0226-001-003",
       "st-shelf-26-0731-002-003",
       "st-shelf-26-0831-008-003",
-      "st-shelf-26-1002-008-003"
+      "st-shelf-26-1002-008-003",
+      "st-shelf-26-1030-022-003"
     ],
     "event_2603_01_04": [
       "st-eve-2603-race-004",
       "st-shelf-26-0226-001-004",
       "st-shelf-26-0731-002-004",
       "st-shelf-26-0831-008-004",
-      "st-shelf-26-1002-008-004"
+      "st-shelf-26-1002-008-004",
+      "st-shelf-26-1030-022-004"
     ],
     "event_2603_01_05_01": [
       "st-eve-2603-race-005",
       "st-shelf-26-0226-001-005",
       "st-shelf-26-0731-002-005",
       "st-shelf-26-0831-008-005",
-      "st-shelf-26-1002-008-005"
+      "st-shelf-26-1002-008-005",
+      "st-shelf-26-1030-022-005"
     ],
     "event_2603_01_05_02": [
       "st-eve-2603-race-005",
       "st-shelf-26-0226-001-005",
       "st-shelf-26-0731-002-005",
       "st-shelf-26-0831-008-005",
-      "st-shelf-26-1002-008-005"
+      "st-shelf-26-1002-008-005",
+      "st-shelf-26-1030-022-005"
     ],
     "event_2604_01_01": [
       "st-eve-2604-dice-001",
       "st-shelf-26-0327-001-001",
       "st-shelf-26-0731-001-001",
       "st-shelf-26-0831-009-001",
-      "st-shelf-26-1002-009-001"
+      "st-shelf-26-1002-009-001",
+      "st-shelf-26-1030-023-001"
     ],
     "event_2604_01_02": [
       "st-eve-2604-dice-002",
       "st-shelf-26-0327-001-002",
       "st-shelf-26-0731-001-002",
       "st-shelf-26-0831-009-002",
-      "st-shelf-26-1002-009-002"
+      "st-shelf-26-1002-009-002",
+      "st-shelf-26-1030-023-002"
     ],
     "event_2604_01_03": [
       "st-eve-2604-dice-003",
       "st-shelf-26-0327-001-003",
       "st-shelf-26-0731-001-003",
       "st-shelf-26-0831-009-003",
-      "st-shelf-26-1002-009-003"
+      "st-shelf-26-1002-009-003",
+      "st-shelf-26-1030-023-003"
     ],
     "event_2604_01_04": [
       "st-eve-2604-dice-004",
       "st-shelf-26-0327-001-004",
       "st-shelf-26-0731-001-004",
       "st-shelf-26-0831-009-004",
-      "st-shelf-26-1002-009-004"
+      "st-shelf-26-1002-009-004",
+      "st-shelf-26-1030-023-004"
     ],
     "event_2604_01_05_01": [
       "st-eve-2604-dice-005",
       "st-shelf-26-0327-001-005",
       "st-shelf-26-0731-001-005",
       "st-shelf-26-0831-009-005",
-      "st-shelf-26-1002-009-005"
+      "st-shelf-26-1002-009-005",
+      "st-shelf-26-1030-023-005"
     ],
     "event_2604_01_05_02": [
       "st-eve-2604-dice-005",
       "st-shelf-26-0327-001-005",
       "st-shelf-26-0731-001-005",
       "st-shelf-26-0831-009-005",
-      "st-shelf-26-1002-009-005"
+      "st-shelf-26-1002-009-005",
+      "st-shelf-26-1030-023-005"
     ],
     "event_2604_02_01": [
       "st-ex-story-part-special-01-26-0401-april-01"
@@ -71573,32 +73230,38 @@
     "event_2606_01_01": [
       "st-eve-2606-dice-001",
       "st-shelf-26-0625-001-001",
-      "st-shelf-26-0918-007-001"
+      "st-shelf-26-0918-007-001",
+      "st-shelf-26-1030-024-001"
     ],
     "event_2606_01_02": [
       "st-eve-2606-dice-002",
       "st-shelf-26-0625-001-002",
-      "st-shelf-26-0918-007-002"
+      "st-shelf-26-0918-007-002",
+      "st-shelf-26-1030-024-002"
     ],
     "event_2606_01_03": [
       "st-eve-2606-dice-003",
       "st-shelf-26-0625-001-003",
-      "st-shelf-26-0918-007-003"
+      "st-shelf-26-0918-007-003",
+      "st-shelf-26-1030-024-003"
     ],
     "event_2606_01_04": [
       "st-eve-2606-dice-004",
       "st-shelf-26-0625-001-004",
-      "st-shelf-26-0918-007-004"
+      "st-shelf-26-0918-007-004",
+      "st-shelf-26-1030-024-004"
     ],
     "event_2606_01_05_01": [
       "st-eve-2606-dice-005",
       "st-shelf-26-0625-001-005",
-      "st-shelf-26-0918-007-005"
+      "st-shelf-26-0918-007-005",
+      "st-shelf-26-1030-024-005"
     ],
     "event_2606_01_05_02": [
       "st-eve-2606-dice-005",
       "st-shelf-26-0625-001-005",
-      "st-shelf-26-0918-007-005"
+      "st-shelf-26-0918-007-005",
+      "st-shelf-26-1030-024-005"
     ],
     "event_2606_03_01": [
       "st-ex-story-part-special-01-26-0624-aniv-01"
@@ -71606,27 +73269,32 @@
     "event_2607_01_01": [
       "st-eve-2607-marathon-raid-001",
       "st-shelf-26-0708-001-001",
-      "st-shelf-26-0831-010-001"
+      "st-shelf-26-0831-010-001",
+      "st-shelf-26-1030-025-001"
     ],
     "event_2607_01_02": [
       "st-eve-2607-marathon-raid-002",
       "st-shelf-26-0708-001-002",
-      "st-shelf-26-0831-010-002"
+      "st-shelf-26-0831-010-002",
+      "st-shelf-26-1030-025-002"
     ],
     "event_2607_01_03": [
       "st-eve-2607-marathon-raid-003",
       "st-shelf-26-0708-001-003",
-      "st-shelf-26-0831-010-003"
+      "st-shelf-26-0831-010-003",
+      "st-shelf-26-1030-025-003"
     ],
     "event_2607_01_04": [
       "st-eve-2607-marathon-raid-004",
       "st-shelf-26-0708-001-004",
-      "st-shelf-26-0831-010-004"
+      "st-shelf-26-0831-010-004",
+      "st-shelf-26-1030-025-004"
     ],
     "event_2607_01_05": [
       "st-eve-2607-marathon-raid-005",
       "st-shelf-26-0708-001-005",
-      "st-shelf-26-0831-010-005"
+      "st-shelf-26-0831-010-005",
+      "st-shelf-26-1030-025-005"
     ],
     "group_liz_01_01": [
       "st-group-liz-01-01-01",
@@ -73770,6 +75438,30 @@
     ],
     "main_04_14_05": [
       "st-main-cmn-03-01-66"
+    ],
+    "main_04_15_01": [
+      "st-eve-2610-dice-001",
+      "st-shelf-26-1030-001-001"
+    ],
+    "main_04_15_02": [
+      "st-eve-2610-dice-002",
+      "st-shelf-26-1030-001-002"
+    ],
+    "main_04_15_03": [
+      "st-eve-2610-dice-003",
+      "st-shelf-26-1030-001-003"
+    ],
+    "main_04_15_04": [
+      "st-eve-2610-dice-004",
+      "st-shelf-26-1030-001-004"
+    ],
+    "main_04_15_05": [
+      "st-eve-2610-dice-005",
+      "st-shelf-26-1030-001-005"
+    ],
+    "main_04_15_06": [
+      "st-eve-2610-dice-006",
+      "st-shelf-26-1030-001-006"
     ]
   }
 }

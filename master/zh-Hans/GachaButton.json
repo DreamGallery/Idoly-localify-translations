@@ -494,6 +494,9 @@
     "description": "每日1次",
     "name": "1次扭蛋 - 有偿每日"
   },
+  "btn-01-gacha-birthday-26-1030-01": {
+    "name": "1次扭蛋 - 钻石"
+  },
   "btn-01-gacha-continuous": {
     "name": "无限抽扭蛋 - 钻石"
   },
@@ -643,6 +646,9 @@
   "btn-01-gacha-fes-21-0928-daily": {
     "description": "每日1次",
     "name": "1次抽卡 - 券"
+  },
+  "btn-01-gacha-fes-26-1030-01": {
+    "name": "1次扭蛋 - 钻石"
   },
   "btn-01-gacha-fixed-25-0902": {
     "name": "1次扭蛋 - 钻石"
@@ -1381,6 +1387,15 @@
   "btn-01-gacha-limited-21-1031-daily": {
     "description": "每日1次",
     "name": "1次扭蛋 - 券"
+  },
+  "btn-01-gacha-limited-26-1030-01": {
+    "name": "1次扭蛋 - 钻石"
+  },
+  "btn-01-gacha-limited-26-1030-02": {
+    "name": "1次扭蛋 - 钻石"
+  },
+  "btn-01-gacha-link-26-1030-01": {
+    "name": "1次扭蛋 - 钻石"
   },
   "btn-01-gacha-lm-set-bloom-21-1130": {
     "name": "1次扭蛋 - 钻石"
@@ -2297,6 +2312,9 @@
     "name": "1次扭蛋 - 钻石"
   },
   "btn-01-gacha-normal-26-0718": {
+    "name": "1次扭蛋 - 钻石"
+  },
+  "btn-01-gacha-normal-26-1030-01": {
     "name": "1次扭蛋 - 钻石"
   },
   "btn-01-gacha-paid-21-0928-r5": {
@@ -4859,6 +4877,10 @@
     "description": "1次超值!!",
     "name": "10连抽卡 - 钻石"
   },
+  "btn-10-gacha-birthday-26-1030-01": {
+    "description": "1次超值!!",
+    "name": "10连抽卡 - 钻石"
+  },
   "btn-10-gacha-dream-21-1224": {
     "description": "附带★5契约书",
     "name": "附带★5契约书"
@@ -5098,6 +5120,10 @@
   "btn-10-gacha-fes-21-0928": {
     "description": "1次超值!!",
     "name": "10次扭蛋 - 钻石"
+  },
+  "btn-10-gacha-fes-26-1030-01": {
+    "description": "1次超值!!",
+    "name": "10连抽卡 - 钻石"
   },
   "btn-10-gacha-fes-dream-23-1226": {
     "description": "附带★5祭典契约书",
@@ -6835,6 +6861,18 @@
     "description": "1次超值!!",
     "name": "10连抽卡 - 钻石"
   },
+  "btn-10-gacha-limited-26-1030-01": {
+    "description": "1次超值!!",
+    "name": "10连抽卡 - 钻石"
+  },
+  "btn-10-gacha-limited-26-1030-02": {
+    "description": "1次超值!!",
+    "name": "10连抽卡 - 钻石"
+  },
+  "btn-10-gacha-link-26-1030-01": {
+    "description": "1次超值!!",
+    "name": "10连抽卡 - 钻石"
+  },
   "btn-10-gacha-lm-set-bloom-21-1130": {
     "description": "1次超值!!",
     "name": "10连抽卡 - 钻石"
@@ -7764,6 +7802,10 @@
     "name": "10连抽卡 - 钻石"
   },
   "btn-10-gacha-normal-26-0718": {
+    "description": "1次超值!!",
+    "name": "10连抽卡 - 钻石"
+  },
+  "btn-10-gacha-normal-26-1030-01": {
     "description": "1次超值!!",
     "name": "10连抽卡 - 钻石"
   },
@@ -10469,6 +10511,9 @@
   "ticket-01-gacha-birthday-26-1015": {
     "name": "1次扭蛋 - 券"
   },
+  "ticket-01-gacha-birthday-26-1030-01": {
+    "name": "1次扭蛋 - 券"
+  },
   "ticket-01-gacha-excursion-01-26-0731": {
     "name": "1次扭蛋 - 券"
   },
@@ -10495,6 +10540,9 @@
   },
   "ticket-01-gacha-fes-21-0928": {
     "name": "1次抽卡 - 券"
+  },
+  "ticket-01-gacha-fes-26-1030-01": {
+    "name": "1次扭蛋 - 券"
   },
   "ticket-01-gacha-fixed-25-0902": {
     "name": "1次扭蛋 - 券"
@@ -10794,6 +10842,15 @@
     "name": "1次抽卡 - 券"
   },
   "ticket-01-gacha-limited-21-1031": {
+    "name": "1次扭蛋 - 券"
+  },
+  "ticket-01-gacha-limited-26-1030-01": {
+    "name": "1次扭蛋 - 券"
+  },
+  "ticket-01-gacha-limited-26-1030-02": {
+    "name": "1次扭蛋 - 券"
+  },
+  "ticket-01-gacha-link-26-1030-01": {
     "name": "1次扭蛋 - 券"
   },
   "ticket-01-gacha-lm-set-bloom-21-1130": {
@@ -11379,6 +11436,9 @@
     "name": "1次扭蛋 - 券"
   },
   "ticket-01-gacha-normal-26-0718": {
+    "name": "1次扭蛋 - 券"
+  },
+  "ticket-01-gacha-normal-26-1030-01": {
     "name": "1次扭蛋 - 券"
   },
   "ticket-01-gacha-pick-set-bloom-21-1112": {

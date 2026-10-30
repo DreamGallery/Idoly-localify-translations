@@ -5675,6 +5675,12 @@
   "cd-dice-26-0731-play": {
     "description": "经纪人Lv20以上 且 主线演唱会#4通关"
   },
+  "cd-dice-26-1030-exchange": {
+    "description": "活动交换可能"
+  },
+  "cd-dice-26-1030-play": {
+    "description": "经纪人Lv20以上 且 主线演唱会#4通关"
+  },
   "cd-dice-play": {
     "description": "经纪人Lv20以上 且 主线演唱会#4通关"
   },
@@ -19430,6 +19436,2856 @@
   "cd-dream-ticket-26-0702-obtain-card-yu-05-ster-00": {
     "description": "指定偶像已加入"
   },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-arab-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-chna-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-fest-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-fest-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-kait-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-mizg-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-mizg-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-rock-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-tact-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-vlnt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-wedd-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ai-05-yukt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-arab-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-circ-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-fest-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-fest-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-kait-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-mizg-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-past-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-vlnt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-wdnc-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-wedd-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-aoi-05-yukt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-alic-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-chia-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-chsk-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-fest-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-fest-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-flow-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-maid-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-mizg-04": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-pajm-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-rock-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-seik-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-chs-05-yukt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-adlt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-chna-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-fest-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-idol-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-mizg-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-mnab-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-onep-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-pair-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-pajm-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-sail-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-vlnt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-wedd-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-hrk-05-xmas-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kan-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kan-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kan-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kan-05-buny-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kan-05-chia-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kan-05-chna-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kan-05-fest-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kan-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kan-05-idol-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kan-05-mizg-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kan-05-pair-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kan-05-poli-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kkr-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kkr-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kkr-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kkr-05-fest-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kkr-05-fest-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kkr-05-flow-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kkr-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kkr-05-mizg-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kkr-05-mizg-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kkr-05-newy-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kkr-05-pair-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kkr-05-seik-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kkr-05-vlnt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kor-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kor-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kor-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kor-05-buny-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kor-05-fest-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kor-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kor-05-idol-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kor-05-mizg-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kor-05-mizg-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kor-05-newy-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kor-05-nurs-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kor-05-poli-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kor-05-prem-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-kor-05-xmas-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-circ-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-fest-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-fest-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-fest-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-kiok-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-mizg-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-mizg-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-mnab-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-msic-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-newy-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-poli-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-prem-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-wedd-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ktn-05-yukt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-birt-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-casl-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-fest-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-fest-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-mizg-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-mizg-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-pair-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-prem-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-rock-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-vlnt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-wdnc-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-wedd-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mei-05-xmas-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-chna-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-circ-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-fest-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-idol-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-mizg-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-newy-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-pajm-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-poli-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-prem-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-wedd-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mhk-05-xmas-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-birt-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-fest-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-fest-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-fest-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-mizg-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-msic-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-prem-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-prem-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-prem-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-prem-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-vlnt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-mna-05-wedd-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-akma-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-birt-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-casl-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-fest-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-flow-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-frut-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-maid-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-mizg-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-mizg-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-prem-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-vlnt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-wedd-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-xmas-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ngs-05-yukt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-casl-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-chia-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-fest-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-fest-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-mizg-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-mizg-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-newy-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-onep-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-pair-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-prem-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-rock-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-sail-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-wdnc-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rei-05-wedd-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-birt-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-casl-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-fest-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-fest-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-fest-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-halw-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-kait-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-kiok-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-mizg-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-newy-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-pajm-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-past-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-prem-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rio-05-wedd-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-date-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-fest-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-fest-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-fest-04": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-idol-04": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-mizg-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-newy-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-prem-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-prem-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-prem-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-sucu-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-vlnt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-xmas-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-rui-05-yukt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-birt-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-chsk-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-fest-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-kifj-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-mizg-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-newy-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-onep-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-poli-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-ster-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-waso-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-ski-05-xmas-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-adlt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-anml-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-chia-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-chna-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-fest-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-fest-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-fest-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-idol-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-mizg-04": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-newy-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-prem-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-sail-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-vlnt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-skr-05-wedd-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-fest-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-fest-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-fest-04": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-frut-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-idol-04": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-jwel-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-magi-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-maid-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-mizg-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-mizg-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-newy-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-nurs-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-pajm-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-seik-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-smr-05-xmas-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-alic-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-angl-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-anml-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-birt-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-fest-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-mizg-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-msic-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-onep-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-pair-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-prem-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-seik-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-wedd-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-suz-05-xmas-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-alic-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-angl-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-birt-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-chna-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-mizg-03": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-pajm-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-prem-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-prem-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-rock-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-sail-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-yukt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-szk-05-yuru-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-birt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-birt-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-birt-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-casl-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-chna-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-fest-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-fest-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-fest-04": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-idol-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-idol-04": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-jwel-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-mizg-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-mizg-02": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-nurs-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-prem-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-ster-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-vlnt-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-wedd-01": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-card-yu-05-xmas-00": {
+    "description": "未持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ai-anml-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ai-idol-03": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ai-newy-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-aoi-anml-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-aoi-chna-01": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-aoi-fest-02": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-aoi-idol-03": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-aoi-mizg-02": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-aoi-newy-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-chs-anml-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-chs-idol-03": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-chs-idol-04": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-chs-mizg-03": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-chs-newy-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-chs-sucu-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-chs-vlnt-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-hrk-anml-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-hrk-anni-01": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-hrk-chia-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-hrk-fest-10": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-hrk-idol-04": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-hrk-mizg-03": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-hrk-msic-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-hrk-newy-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-kan-mizg-01": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-kan-newy-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-kan-xmas-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-kkr-anml-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-kkr-arab-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-kkr-chna-01": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-kkr-idol-03": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-kkr-kait-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-kkr-pajm-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-kkr-yukt-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-kor-anni-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-kor-anni-02": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ktn-anml-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ktn-anni-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ktn-anni-02": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ktn-idol-04": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ktn-mizg-02": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ktn-schl-01": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ktn-vlnt-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ktn-xmas-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-mei-anml-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-mei-idol-04": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-mei-newy-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-mhk-buny-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-mhk-mizg-02": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-mna-mnab-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ngs-anml-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ngs-idol-04": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ngs-newy-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ngs-pair-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ngs-schl-01": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rei-anml-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rei-anni-01": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rei-idol-03": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rei-idol-04": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rei-vlnt-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rio-anml-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rio-anni-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rio-anni-02": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rio-arab-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rio-chna-01": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rio-fest-02": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rio-idol-03": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rio-mizg-01": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rio-msic-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rio-yukt-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rui-anni-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rui-anni-02": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rui-idol-03": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rui-jwel-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rui-mizg-02": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rui-nurs-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rui-schl-01": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-rui-yuru-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ski-anml-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ski-idol-04": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-ski-vlnt-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-skr-anni-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-skr-anni-02": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-skr-fest-10": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-skr-flow-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-skr-idol-04": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-skr-mizg-03": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-skr-msic-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-smr-fest-02": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-smr-idol-03": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-smr-vlnt-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-suz-idol-04": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-suz-mizg-02": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-suz-newy-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-suz-pajm-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-suz-vlnt-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-szk-anml-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-szk-anni-01": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-szk-chia-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-szk-fest-10": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-szk-flow-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-szk-idol-03": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-szk-idol-04": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-szk-newy-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-szk-vlnt-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-yu-anni-01": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-yu-idol-03": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-cos-yu-newy-00": {
+    "description": "未持有服装"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-25-0128": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-25-0326-01": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-25-0326-02": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-25-1226-01": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-25-1226-02": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-26-0104": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-26-0128": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-26-0226": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-26-0327": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-26-0429-01": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-26-0429-02": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-26-0527": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-arab": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-countdown": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-daytime_moon": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-live-ktn": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-live-skr": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-magicgirl": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-school-festa": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-succubus": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-swimwear": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-thrx-fes": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-not_obtain-photo-pose-wedding": {
+    "description": "已持有"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ai-05-arab-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ai-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ai-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ai-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ai-05-kait-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ai-05-mizg-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ai-05-mizg-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ai-05-vlnt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ai-05-wedd-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-aoi-05-arab-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-aoi-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-aoi-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-aoi-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-aoi-05-kait-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-aoi-05-mizg-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-aoi-05-past-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-aoi-05-wedd-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-chs-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-chs-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-chs-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-chs-05-chia-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-chs-05-chsk-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-chs-05-mizg-04": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-chs-05-seik-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-hrk-05-adlt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-hrk-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-hrk-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-hrk-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-hrk-05-idol-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-hrk-05-mizg-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-hrk-05-mnab-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-hrk-05-pair-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-hrk-05-vlnt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-hrk-05-wedd-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-hrk-05-xmas-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kan-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kan-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kan-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kan-05-buny-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kan-05-idol-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kan-05-mizg-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kan-05-pair-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kan-05-poli-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kkr-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kkr-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kkr-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kkr-05-newy-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kkr-05-pair-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kkr-05-seik-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kkr-05-vlnt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kor-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kor-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kor-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kor-05-buny-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kor-05-mizg-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kor-05-mizg-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kor-05-newy-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kor-05-poli-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kor-05-prem-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-kor-05-xmas-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ktn-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ktn-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ktn-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ktn-05-kiok-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ktn-05-mizg-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ktn-05-mizg-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ktn-05-mnab-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ktn-05-msic-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ktn-05-newy-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ktn-05-prem-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ktn-05-wedd-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mei-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mei-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mei-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mei-05-birt-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mei-05-mizg-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mei-05-pair-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mei-05-prem-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mei-05-rock-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mei-05-vlnt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mei-05-wedd-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mei-05-xmas-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mhk-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mhk-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mhk-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mhk-05-idol-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mhk-05-mizg-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mhk-05-newy-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mhk-05-prem-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mhk-05-xmas-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mna-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mna-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mna-05-birt-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mna-05-mizg-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mna-05-prem-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mna-05-prem-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mna-05-prem-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mna-05-prem-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mna-05-vlnt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-mna-05-wedd-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ngs-05-akma-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ngs-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ngs-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ngs-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ngs-05-birt-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ngs-05-mizg-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ngs-05-prem-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ngs-05-vlnt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ngs-05-wedd-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ngs-05-xmas-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rei-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rei-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rei-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rei-05-mizg-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rei-05-mizg-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rei-05-newy-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rei-05-pair-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rei-05-prem-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rei-05-wedd-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rio-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rio-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rio-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rio-05-birt-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rio-05-kait-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rio-05-kiok-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rio-05-mizg-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rio-05-newy-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rio-05-past-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rio-05-prem-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rui-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rui-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rui-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rui-05-idol-04": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rui-05-newy-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rui-05-prem-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rui-05-prem-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rui-05-prem-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rui-05-sucu-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rui-05-vlnt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-rui-05-xmas-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ski-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ski-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ski-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ski-05-birt-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ski-05-chsk-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ski-05-newy-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-ski-05-xmas-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-skr-05-adlt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-skr-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-skr-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-skr-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-skr-05-chia-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-skr-05-idol-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-skr-05-mizg-04": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-skr-05-newy-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-skr-05-prem-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-skr-05-vlnt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-skr-05-wedd-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-smr-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-smr-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-smr-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-smr-05-jwel-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-smr-05-magi-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-smr-05-mizg-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-smr-05-newy-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-smr-05-nurs-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-smr-05-pajm-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-smr-05-xmas-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-suz-05-anml-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-suz-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-suz-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-suz-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-suz-05-birt-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-suz-05-msic-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-suz-05-onep-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-suz-05-pair-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-suz-05-prem-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-suz-05-xmas-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-szk-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-szk-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-szk-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-szk-05-birt-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-szk-05-mizg-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-szk-05-pajm-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-szk-05-prem-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-szk-05-prem-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-szk-05-yuru-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-yu-05-birt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-yu-05-birt-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-yu-05-birt-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-yu-05-idol-04": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-yu-05-jwel-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-yu-05-mizg-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-yu-05-mizg-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-yu-05-nurs-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-yu-05-prem-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-card-yu-05-xmas-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-25-0128": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-25-0326-01": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-25-0326-02": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-25-1226-01": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-25-1226-02": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-26-0104": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-26-0128": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-26-0226": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-26-0327": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-26-0429-01": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-26-0429-02": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-26-0527": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-arab": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-countdown": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-daytime_moon": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-live-ktn": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-live-skr": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-magicgirl": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-school-festa": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-succubus": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-swimwear": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-thrx-fes": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030-obtain-photo-pose-wedding": {
+    "description": "持有姿势"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ai-05-chna-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ai-05-fest-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ai-05-fest-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ai-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ai-05-rock-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ai-05-tact-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ai-05-yukt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-aoi-05-circ-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-aoi-05-fest-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-aoi-05-fest-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-aoi-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-aoi-05-vlnt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-aoi-05-wdnc-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-aoi-05-yukt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-chs-05-alic-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-chs-05-fest-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-chs-05-fest-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-chs-05-flow-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-chs-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-chs-05-maid-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-chs-05-pajm-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-chs-05-rock-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-chs-05-yukt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-hrk-05-chna-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-hrk-05-fest-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-hrk-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-hrk-05-onep-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-hrk-05-pajm-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-hrk-05-sail-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-kan-05-chia-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-kan-05-chna-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-kan-05-fest-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-kan-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-kkr-05-fest-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-kkr-05-fest-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-kkr-05-flow-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-kkr-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-kkr-05-mizg-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-kkr-05-mizg-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-kor-05-fest-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-kor-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-kor-05-idol-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-kor-05-nurs-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ktn-05-circ-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ktn-05-fest-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ktn-05-fest-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ktn-05-fest-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ktn-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ktn-05-poli-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ktn-05-yukt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mei-05-casl-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mei-05-fest-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mei-05-fest-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mei-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mei-05-mizg-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mei-05-wdnc-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mhk-05-chna-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mhk-05-circ-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mhk-05-fest-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mhk-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mhk-05-pajm-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mhk-05-poli-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mhk-05-wedd-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mna-05-fest-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mna-05-fest-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mna-05-fest-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mna-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-mna-05-msic-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ngs-05-casl-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ngs-05-fest-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ngs-05-flow-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ngs-05-frut-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ngs-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ngs-05-maid-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ngs-05-mizg-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ngs-05-yukt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rei-05-casl-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rei-05-chia-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rei-05-fest-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rei-05-fest-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rei-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rei-05-onep-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rei-05-rock-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rei-05-sail-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rei-05-wdnc-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rio-05-casl-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rio-05-fest-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rio-05-fest-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rio-05-fest-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rio-05-halw-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rio-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rio-05-pajm-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rio-05-wedd-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rui-05-date-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rui-05-fest-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rui-05-fest-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rui-05-fest-04": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rui-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rui-05-mizg-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-rui-05-yukt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ski-05-fest-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ski-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ski-05-kifj-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ski-05-mizg-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ski-05-onep-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ski-05-poli-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ski-05-ster-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-ski-05-waso-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-skr-05-anml-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-skr-05-chna-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-skr-05-fest-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-skr-05-fest-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-skr-05-fest-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-skr-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-skr-05-sail-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-smr-05-fest-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-smr-05-fest-03": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-smr-05-fest-04": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-smr-05-frut-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-smr-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-smr-05-idol-04": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-smr-05-maid-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-smr-05-mizg-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-smr-05-seik-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-suz-05-alic-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-suz-05-angl-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-suz-05-fest-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-suz-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-suz-05-mizg-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-suz-05-seik-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-suz-05-wedd-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-szk-05-alic-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-szk-05-angl-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-szk-05-chna-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-szk-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-szk-05-rock-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-szk-05-sail-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-szk-05-yukt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-yu-05-casl-02": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-yu-05-chna-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-yu-05-fest-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-yu-05-fest-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-yu-05-fest-04": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-yu-05-idol-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-yu-05-ster-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-yu-05-vlnt-00": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-card-yu-05-wedd-01": {
+    "description": "持有卡牌"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ai-anml-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ai-idol-03": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ai-newy-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-aoi-anml-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-aoi-chna-01": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-aoi-fest-02": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-aoi-idol-03": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-aoi-mizg-02": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-aoi-newy-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-chs-anml-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-chs-idol-03": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-chs-idol-04": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-chs-mizg-03": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-chs-newy-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-chs-sucu-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-chs-vlnt-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-hrk-anml-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-hrk-anni-01": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-hrk-chia-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-hrk-fest-10": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-hrk-idol-04": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-hrk-mizg-03": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-hrk-msic-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-hrk-newy-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-kan-mizg-01": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-kan-newy-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-kan-xmas-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-kkr-anml-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-kkr-arab-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-kkr-chna-01": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-kkr-idol-03": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-kkr-kait-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-kkr-pajm-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-kkr-yukt-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-kor-anni-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-kor-anni-02": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ktn-anml-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ktn-anni-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ktn-anni-02": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ktn-idol-04": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ktn-mizg-02": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ktn-schl-01": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ktn-vlnt-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ktn-xmas-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-mei-anml-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-mei-idol-04": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-mei-newy-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-mhk-buny-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-mhk-mizg-02": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-mna-mnab-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ngs-anml-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ngs-idol-04": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ngs-newy-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ngs-pair-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ngs-schl-01": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rei-anml-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rei-anni-01": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rei-idol-03": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rei-idol-04": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rei-vlnt-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rio-anml-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rio-anni-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rio-anni-02": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rio-arab-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rio-chna-01": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rio-fest-02": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rio-idol-03": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rio-mizg-01": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rio-msic-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rio-yukt-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rui-anni-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rui-anni-02": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rui-idol-03": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rui-jwel-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rui-mizg-02": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rui-nurs-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rui-schl-01": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-rui-yuru-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ski-anml-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ski-idol-04": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-ski-vlnt-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-skr-anni-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-skr-anni-02": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-skr-fest-10": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-skr-flow-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-skr-idol-04": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-skr-mizg-03": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-skr-msic-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-smr-fest-02": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-smr-idol-03": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-smr-vlnt-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-suz-idol-04": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-suz-mizg-02": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-suz-newy-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-suz-pajm-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-suz-vlnt-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-szk-anml-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-szk-anni-01": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-szk-chia-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-szk-fest-10": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-szk-flow-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-szk-idol-03": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-szk-idol-04": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-szk-newy-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-szk-vlnt-00": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-yu-anni-01": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-yu-idol-03": {
+    "description": "拥有服装"
+  },
+  "cd-dream-ticket-26-1030_obtain-cos-yu-newy-00": {
+    "description": "拥有服装"
+  },
   "cd-dream-ticket-rev-23-1224-obtain-card-ai-05-kait-00": {
     "description": "指定偶像已加入"
   },
@@ -20915,6 +23771,42 @@
   "cd-event-dice-26-0625-story-05-unlock": {
     "description": "通关第15区域"
   },
+  "cd-event-dice-26-1030-story-001": {
+    "description": "观看活动剧情第1话"
+  },
+  "cd-event-dice-26-1030-story-002": {
+    "description": "观看活动剧情第2话"
+  },
+  "cd-event-dice-26-1030-story-003": {
+    "description": "观看活动剧情第3话"
+  },
+  "cd-event-dice-26-1030-story-004": {
+    "description": "观看活动剧情第4话"
+  },
+  "cd-event-dice-26-1030-story-005": {
+    "description": "观看活动剧情第5话"
+  },
+  "cd-event-dice-26-1030-story-006": {
+    "description": "观看活动剧情第6话"
+  },
+  "cd-event-dice-26-1030-story-01-unlock": {
+    "description": "通关第0区域"
+  },
+  "cd-event-dice-26-1030-story-02-unlock": {
+    "description": "通关第3区域"
+  },
+  "cd-event-dice-26-1030-story-03-unlock": {
+    "description": "通关第5区域"
+  },
+  "cd-event-dice-26-1030-story-04-unlock": {
+    "description": "通关第10区域"
+  },
+  "cd-event-dice-26-1030-story-05-unlock": {
+    "description": "通关第15区域"
+  },
+  "cd-event-dice-26-1030-story-06-unlock": {
+    "description": "通关第20区域"
+  },
   "cd-event-exchange-0731-0818": {
     "description": "经纪人Lv40"
   },
@@ -22322,6 +25214,24 @@
   "cd-event-shelf-26-0708-story-005-unlock": {
     "description": "奖励画面"
   },
+  "cd-event-shelf-26-1030-story-001": {
+    "description": "观看活动剧情第1话"
+  },
+  "cd-event-shelf-26-1030-story-002": {
+    "description": "观看活动剧情第2话"
+  },
+  "cd-event-shelf-26-1030-story-003": {
+    "description": "观看活动剧情第3话"
+  },
+  "cd-event-shelf-26-1030-story-004": {
+    "description": "观看活动剧情第4话"
+  },
+  "cd-event-shelf-26-1030-story-005": {
+    "description": "观看活动剧情第5话"
+  },
+  "cd-event-shelf-26-1030-story-006": {
+    "description": "观看活动剧情第6话"
+  },
   "cd-event-story-01-23-0328": {
     "description": "活动剧情\n已读完「音色辉石编织的未来」第1话"
   },
@@ -22524,6 +25434,9 @@
     "description": "活动剧情"
   },
   "cd-event-story-26-0731": {
+    "description": "活动剧情可观看"
+  },
+  "cd-event-story-26-1030": {
     "description": "活动剧情可观看"
   },
   "cd-event-story-read-001": {
@@ -25078,6 +27991,30 @@
   },
   "cd-exchange-ever-dream-ticket-26-0702": {
     "description": "梦想券兑换所开放期间"
+  },
+  "cd-exchange-ever-dream-ticket-26-1030-01": {
+    "description": "★5契约书兑换所开放期间"
+  },
+  "cd-exchange-ever-dream-ticket-26-1030-02": {
+    "description": "★5契约书兑换所开放期间"
+  },
+  "cd-exchange-ever-dream-ticket-26-1030-03": {
+    "description": "★5契约书兑换所开放期间"
+  },
+  "cd-exchange-ever-dream-ticket-26-1030-04": {
+    "description": "★5契约书兑换所开放期间"
+  },
+  "cd-exchange-ever-dream-ticket-26-1030-05": {
+    "description": "★5契约书兑换所开放期间"
+  },
+  "cd-exchange-ever-dream-ticket-26-1030-06": {
+    "description": "★5契约书兑换所开放期间"
+  },
+  "cd-exchange-ever-dream-ticket-26-1030-07": {
+    "description": "★5契约书兑换所开放期间"
+  },
+  "cd-exchange-ever-dream-ticket-26-1030-08": {
+    "description": "★5契约书兑换所开放期间"
   },
   "cd-exchange-ever-dream-ticket-rev-23-1224-01": {
     "description": "梦想券兑换所开放期间"
@@ -27716,6 +30653,9 @@
   "cd-manager_level_gte-30-55": {
     "description": "经纪人Lv30-55"
   },
+  "cd-manager_level_gte-30-close": {
+    "description": "经纪人Lv30"
+  },
   "cd-manager_level_gte-31": {
     "description": "经纪人Lv31"
   },
@@ -27922,6 +30862,9 @@
   },
   "cd-manager_level_gte-60-69-ms-w-phase-003-present_add": {
     "description": "经纪人Lv60-69_ms_w-phase003(追加礼物)"
+  },
+  "cd-manager_level_gte-60-close": {
+    "description": "经纪人Lv60"
   },
   "cd-manager_level_gte-60-shopclose": {
     "description": "经纪人Lv60"
@@ -46229,6 +49172,15 @@
   "cd-shelf-26-1002-story": {
     "description": "相册剧情显示"
   },
+  "cd-shelf-26-1030": {
+    "description": "相册举办期间"
+  },
+  "cd-shelf-26-1030-play": {
+    "description": "经纪人Lv20以上 且 主线演唱会#4通关"
+  },
+  "cd-shelf-26-1030-story": {
+    "description": "相册剧情显示"
+  },
   "cd-shop-21-0731-close": {
     "description": "21−0731礼包下架"
   },
@@ -48458,10 +51410,19 @@
   "cd-shop_condition_liveclear-pack-02": {
     "description": "主线演唱会通关礼包2期间"
   },
+  "cd-shop_condition_liveclear-pack-02-close": {
+    "description": "主线演唱会通关礼包2期间"
+  },
   "cd-shop_condition_liveclear-pack-03": {
     "description": "主线演唱会通关礼包3期间"
   },
+  "cd-shop_condition_liveclear-pack-03-close": {
+    "description": "主线演唱会通关礼包3期间"
+  },
   "cd-shop_condition_venus-pack-01": {
+    "description": "VENUS塔通关礼包期间"
+  },
+  "cd-shop_condition_venus-pack-01-close": {
     "description": "VENUS塔通关礼包期间"
   },
   "cd-shop_dokan-shop-21-1112-01-01": {
@@ -48902,10 +51863,16 @@
   "cd-shop_normal-shop-23-0701": {
     "description": "商店变更开始"
   },
+  "cd-shop_normal-shop-23-0701-close": {
+    "description": "商店变更开始"
+  },
   "cd-shop_normal-shop-23-0701-mlv-50": {
     "description": "商店开启MLv50以上"
   },
   "cd-shop_normal-shop-23-0701-mlv-60": {
+    "description": "商店开启MLv60以上"
+  },
+  "cd-shop_normal-shop-23-0701-mlv-60-close": {
     "description": "商店开启MLv60以上"
   },
   "cd-shop_normal-shop-24-0701": {
@@ -48915,6 +51882,9 @@
     "description": "★5确定扭蛋第5弹礼包(7/1 00:00~)        "
   },
   "cd-shop_normal-shop-26-0701-6th-start": {
+    "description": "★5确定扭蛋第6弹礼包(7/1 00:00~)        "
+  },
+  "cd-shop_normal-shop-26-0701-6th-start-close": {
     "description": "★5确定扭蛋第6弹礼包(7/1 00:00~)        "
   },
   "cd-shop_not-buy-beginner-pack": {
@@ -49977,6 +52947,9 @@
     "description": "相册胶片包期间"
   },
   "cd-shop_special-shop-26-1002-1020-1": {
+    "description": "相册胶片包期间"
+  },
+  "cd-shop_special-shop-26-1030-1109-1": {
     "description": "相册胶片包期间"
   },
   "cd-shop_special-shop-banner-21-1125": {
@@ -57767,6 +60740,15 @@
   "cd-time-dice-26-0801-26-0817-mlv-20": {
     "description": "任务举办期间"
   },
+  "cd-time-dice-26-1030-26-1130": {
+    "description": "活动期间"
+  },
+  "cd-time-dice-26-1031-26-1207": {
+    "description": "登录任务举办期间"
+  },
+  "cd-time-dice-26-1031-26-1207-mlv-20": {
+    "description": "任务举办期间"
+  },
   "cd-time-dice-venus-25-1127-25-1221-mlv-20": {
     "description": "Venus Battle举办期间"
   },
@@ -57777,6 +60759,9 @@
     "description": "Venus Battle举办期间"
   },
   "cd-time-dice-venus-26-0625-26-0706-mlv-20": {
+    "description": "Venus Battle举办期间"
+  },
+  "cd-time-dice-venus-26-1030-26-1119-mlv-20": {
     "description": "Venus Battle举办期间"
   },
   "cd-time-dokan-lm-set-bloom-22-0103": {
@@ -60299,6 +63284,9 @@
   "cd-time-gacha-birthday-26-1015-banner": {
     "description": "期间：雫生日扭蛋2026_横幅"
   },
+  "cd-time-gacha-birthday-26-1030-01": {
+    "description": "期间：生日纪念扭蛋"
+  },
   "cd-time-gacha-birthday-hair-23-0707": {
     "description": "套装发型"
   },
@@ -61378,6 +64366,9 @@
   },
   "cd-time-gacha-fes-21-0928": {
     "description": "期间：IDOLY PRIDE庆典"
+  },
+  "cd-time-gacha-fes-26-1030-01": {
+    "description": "期间：庆典纪念扭蛋"
   },
   "cd-time-gacha-fes-dream-23-1226": {
     "description": "期间：2.5周年纪念庆典梦幻礼物扭蛋"
@@ -64967,6 +67958,15 @@
   "cd-time-gacha-limited-21-1031-1112": {
     "description": "热情小熊公告板隐藏对应"
   },
+  "cd-time-gacha-limited-26-1030-01": {
+    "description": "期间：限定纪念扭蛋Part1"
+  },
+  "cd-time-gacha-limited-26-1030-02": {
+    "description": "期间：限定纪念扭蛋Part2"
+  },
+  "cd-time-gacha-link-26-1030-01": {
+    "description": "期间：羁绊系列纪念扭蛋"
+  },
   "cd-time-gacha-lm-set-bloom--free-ticket-1s": {
     "description": "持有专用扭蛋券"
   },
@@ -66406,6 +69406,9 @@
   },
   "cd-time-gacha-normal-26-0718": {
     "description": "常驻扭蛋"
+  },
+  "cd-time-gacha-normal-26-1030-01": {
+    "description": "期间：纪念扭蛋"
   },
   "cd-time-gacha-pick-set-bloom-21-1112": {
     "description": "期间：招福狮子舞娘"
@@ -67927,6 +70930,9 @@
   },
   "cd-time-gacha-premium-26-1024-02": {
     "description": "期间：高级扭蛋_s横幅结束"
+  },
+  "cd-time-gacha-premium-26-1024-close": {
+    "description": "期间：高级扭蛋"
   },
   "cd-time-gacha-premium-shop-23-1024": {
     "description": "期间：特别高级扭蛋券包"
@@ -73061,6 +76067,9 @@
   "cd-time-music-moon-011-26-0128-showcase-music": {
     "description": "开始：Toki Meki Chocolate歌曲"
   },
+  "cd-time-music-mv-free-26-1030": {
+    "description": "MV免费解锁"
+  },
   "cd-time-music-sun-004-26-0708": {
     "description": "开始：Summer♡Holiday乐曲"
   },
@@ -74778,6 +77787,9 @@
     "description": "PVP_S横幅 开始后3天"
   },
   "cd-time-pvp-26-1024-1026_s-banner": {
+    "description": "PVP_S横幅 开始后3天"
+  },
+  "cd-time-pvp-26-1103-1105_s-banner": {
     "description": "PVP_S横幅 开始后3天"
   },
   "cd-time-questionnaire-21-0702-0709_s-banner": {

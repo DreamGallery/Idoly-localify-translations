@@ -183,6 +183,10 @@
     "description": "<仅限辅助类型>\n 将赋予的技能成功率提升效果增强{0}个阶段",
     "name": "与・技能成功率增强"
   },
+  "pab-affect_strength_effect_value_increase-special_score_multiplier_add_recipe_distribution-5": {
+    "description": "将赋予的SP技能分数追加效果增强{0}级",
+    "name": "赋予・SP分数追加效果增强"
+  },
   "pab-affect_strength_effect_value_increase-stamina_consumption_reduction_recipe_distribution-5-cd-support": {
     "description": "<仅限辅助类型>\n将赋予的消耗体力降低效果增强{0}个阶段",
     "name": "与・消费体力减增强化"

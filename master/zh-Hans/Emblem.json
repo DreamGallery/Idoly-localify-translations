@@ -2791,6 +2791,10 @@
     "description": "多联「贯彻PRIDE通往顶点的路标」",
     "name": "贯穿PRIDE的巅峰路标"
   },
+  "emb-eve-261030-1": {
+    "description": "达成双六「After Story ～光辉跨越海洋～」条件",
+    "name": "活动称号"
+  },
   "emb-ex-tower-005-sp-24-0428-001": {
     "description": "通关GW纪念EX塔",
     "name": "黄金周纪念EX塔"
@@ -4810,6 +4814,18 @@
   "emb-pvp-season-184-top100": {
     "description": "在VENUS对战第184赛季获得前100名",
     "name": "VENUS第184赛季 TOP100"
+  },
+  "emb-pvp-season-185-top001": {
+    "description": "VENUS对战赛季185获得第1名",
+    "name": "VENUS赛季185 No.1"
+  },
+  "emb-pvp-season-185-top010": {
+    "description": "VENUS对战赛季185获得前10名",
+    "name": "VENUS赛季185 TOP10"
+  },
+  "emb-pvp-season-185-top100": {
+    "description": "VENUS对战赛季185获得前100名",
+    "name": "VENUS赛季185 TOP100"
   },
   "emb-serial_cd-23-1206-moon-limited": {
     "description": "Question 初回生产限定盘特典"

@@ -183,6 +183,10 @@
     "description": "<サポータータイプのみ>\n 付与するスキル成功率上昇効果を{0}段階増強します",
     "name": "与・スキル成功率増強"
   },
+  "pab-affect_strength_effect_value_increase-special_score_multiplier_add_recipe_distribution-5": {
+    "description": "付与するSPスキルスコア追加効果を{0}段階増強します",
+    "name": "与・SPスコア追加効果増強"
+  },
   "pab-affect_strength_effect_value_increase-stamina_consumption_reduction_recipe_distribution-5-cd-support": {
     "description": "<サポータータイプのみ>\n付与する消費スタミナ低下効果を{0}段階増強します",
     "name": "与・消費スタ減増強"

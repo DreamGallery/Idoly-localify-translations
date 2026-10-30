@@ -303,7 +303,7 @@
     "word": "输入兑换码领取钻石\n想玩IDOLY PRIDE就趁现在！\n▼邀请码\n{0}\n\nhttps://idolypride.page.link/tw_phcp\n\n※通关主线演唱会#1后可输入\n#IDOLYPRIDE"
   },
   "bk1:[[\"key\",\"function.maintenance.toast.message\"]]": {
-    "word": "商店维护中"
+    "word": "正在维护中"
   },
   "bk1:[[\"key\",\"gacha.button.appeal.drawableLimitCount\"]]": {
     "word": "每日1次"

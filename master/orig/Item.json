@@ -589,6 +589,11 @@
     "howToGet": "すごろくイベント",
     "name": "すごろくコイン"
   },
+  "item-dice_gold-26-1030": {
+    "description": "マップ内のショップでアイテムを購入することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント",
+    "name": "すごろくコイン"
+  },
   "item-dice_medal-24-0404": {
     "description": "イベント報酬と交換することができます\nイベント終了後はコインに変換されます",
     "howToGet": "すごろくイベント",
@@ -659,6 +664,11 @@
     "howToGet": "すごろくイベント",
     "name": "すごろくメダル"
   },
+  "item-dice_medal-26-1030": {
+    "description": "イベント報酬と交換することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント",
+    "name": "すごろくメダル"
+  },
   "item-dice_stamina_recovery-24-0404": {
     "description": "すごろくスタミナを回復することができます\nイベント終了後はコインに変換されます",
     "howToGet": "すごろくイベント、ファンイベント、プロモーション など",
@@ -725,6 +735,11 @@
     "name": "すごろくキャンディ"
   },
   "item-dice_stamina_recovery-26-0731": {
+    "description": "すごろくスタミナを回復することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント、ファンイベント、プロモーション など",
+    "name": "すごろくキャンディ"
+  },
+  "item-dice_stamina_recovery-26-1030": {
     "description": "すごろくスタミナを回復することができます\nイベント終了後はコインに変換されます",
     "howToGet": "すごろくイベント、ファンイベント、プロモーション など",
     "name": "すごろくキャンディ"
@@ -1473,6 +1488,46 @@
     "description": "★5フェスアイドル交換所で好きな\nメンバーと交換できるチケット",
     "howToGet": "5周年記念フェスドリームギフトガチャ",
     "name": "★5フェス契約書"
+  },
+  "item-exchange-ticket-26-1030-01": {
+    "description": "限定★5アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "ギフト",
+    "name": "★5限定契約書"
+  },
+  "item-exchange-ticket-26-1030-02": {
+    "description": "フェス★5アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "ギフト",
+    "name": "★5フェス契約書"
+  },
+  "item-exchange-ticket-26-1030-03": {
+    "description": "絆シリーズ★5アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "ギフト",
+    "name": "絆シリーズ★5アイドル契約書"
+  },
+  "item-exchange-ticket-26-1030-04": {
+    "description": "★5アイドル交換所(メモリアル)で好きな\nメンバーと交換できるチケット",
+    "howToGet": "ギフト",
+    "name": "★5契約書"
+  },
+  "item-exchange-ticket-26-1030-05": {
+    "description": "★5誕生日アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "ギフト",
+    "name": "★5誕生日アイドル契約書"
+  },
+  "item-exchange-ticket-26-1030-06": {
+    "description": "★5シチュエーションイラスト交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "ギフト",
+    "name": "★5シチュエーションイラスト契約書"
+  },
+  "item-exchange-ticket-26-1030-07": {
+    "description": "復刻衣装メダル交換所で好きな\n衣装と交換できるメダル",
+    "howToGet": "ギフト",
+    "name": "復刻衣装メダル"
+  },
+  "item-exchange-ticket-26-1030-08": {
+    "description": "復刻ポーズメダル交換所で好きな\nポーズと交換できるメダル",
+    "howToGet": "ギフト",
+    "name": "復刻ポーズメダル"
   },
   "item-exchange-ticket-dream-25-1224-01": {
     "description": "★5アイドル交換所 Part1で好きな\nメンバーと交換できるチケット",
@@ -6222,6 +6277,11 @@
   },
   "item-photo_contest_create-26-1002": {
     "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、フォトアルバム、ショップなど",
+    "name": "イベント現像フィルム"
+  },
+  "item-photo_contest_create-26-1030": {
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる",
     "howToGet": "フォトオーディション、フォトアルバム、ショップなど",
     "name": "イベント現像フィルム"
   },

@@ -589,6 +589,11 @@
     "howToGet": "双六活动",
     "name": "双六代币"
   },
+  "item-dice_gold-26-1030": {
+    "description": "可在地图内的商店购买道具\n活动结束后将转换为代币",
+    "howToGet": "双六活动",
+    "name": "双六代币"
+  },
   "item-dice_medal-24-0404": {
     "description": "可用于兑换活动奖励\n活动结束后将转换为代币",
     "howToGet": "双六活动",
@@ -659,6 +664,11 @@
     "howToGet": "双六活动",
     "name": "双六奖牌"
   },
+  "item-dice_medal-26-1030": {
+    "description": "可用于兑换活动奖励\n活动结束后将转换为代币",
+    "howToGet": "双六活动",
+    "name": "双六奖牌"
+  },
   "item-dice_stamina_recovery-24-0404": {
     "description": "可恢复双六体力\n活动结束后将转换为代币",
     "howToGet": "双六活动、粉丝活动、宣传 等",
@@ -725,6 +735,11 @@
     "name": "双六糖果"
   },
   "item-dice_stamina_recovery-26-0731": {
+    "description": "可恢复双六体力\n活动结束后将转换为代币",
+    "howToGet": "双六活动、粉丝活动、宣传 等",
+    "name": "双六糖果"
+  },
+  "item-dice_stamina_recovery-26-1030": {
     "description": "可恢复双六体力\n活动结束后将转换为代币",
     "howToGet": "双六活动、粉丝活动、宣传 等",
     "name": "双六糖果"
@@ -1473,6 +1488,46 @@
     "description": "可在★5祭典偶像兑换所\n与喜欢的成员交换的券",
     "howToGet": "5周年纪念庆典梦想礼物扭蛋",
     "name": "★5祭典契约书"
+  },
+  "item-exchange-ticket-26-1030-01": {
+    "description": "可在限定★5偶像兑换所\n兑换心仪成员的票券",
+    "howToGet": "礼物",
+    "name": "★5限定契约书"
+  },
+  "item-exchange-ticket-26-1030-02": {
+    "description": "可在庆典★5偶像兑换所\n兑换心仪成员的票券",
+    "howToGet": "礼物",
+    "name": "★5祭典契约书"
+  },
+  "item-exchange-ticket-26-1030-03": {
+    "description": "可在羁绊系列★5偶像兑换所中\n与喜欢的成员交换的票券",
+    "howToGet": "礼物",
+    "name": "羁绊系列★5偶像契约书"
+  },
+  "item-exchange-ticket-26-1030-04": {
+    "description": "可在★5偶像兑换所（回忆）中\n与喜欢的成员交换的票券",
+    "howToGet": "礼物",
+    "name": "★5契约书"
+  },
+  "item-exchange-ticket-26-1030-05": {
+    "description": "可在★5生日偶像兑换所中\n与喜欢的成员交换的票券",
+    "howToGet": "礼物",
+    "name": "★5生日偶像契约书"
+  },
+  "item-exchange-ticket-26-1030-06": {
+    "description": "可在★5情境插画兑换所中\n与喜欢的成员交换的票券",
+    "howToGet": "礼物",
+    "name": "★5情境插画契约书"
+  },
+  "item-exchange-ticket-26-1030-07": {
+    "description": "可在复刻服装奖牌兑换所中\n与喜欢的服装交换的奖牌",
+    "howToGet": "礼物",
+    "name": "复刻服装奖牌"
+  },
+  "item-exchange-ticket-26-1030-08": {
+    "description": "可在复刻姿势奖牌兑换所中\n与喜欢的姿势交换的奖牌",
+    "howToGet": "礼物",
+    "name": "复刻姿势奖牌"
   },
   "item-exchange-ticket-dream-25-1224-01": {
     "description": "可在★5偶像兑换所 Part1与喜欢的\n成员交换的票券",
@@ -6222,6 +6277,11 @@
   },
   "item-photo_contest_create-26-1002": {
     "description": "可冲洗照片试镜的照片和照片相册的照片\n活动结束后将转换为代币",
+    "howToGet": "写真试镜、写真相册、商店等",
+    "name": "活动冲洗胶卷"
+  },
+  "item-photo_contest_create-26-1030": {
+    "description": "可冲洗照片试镜的照片或相册中的照片",
     "howToGet": "写真试镜、写真相册、商店等",
     "name": "活动冲洗胶卷"
   },

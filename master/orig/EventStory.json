@@ -229,5 +229,9 @@
   "st-eve-2607-marathon-raid": {
     "description": "PRIDE貫く頂点への道標",
     "name": "イベントストーリー"
+  },
+  "st-eve-2610-dice": {
+    "description": "After Story ～輝きは海を越えて～",
+    "name": "イベントストーリー"
   }
 }

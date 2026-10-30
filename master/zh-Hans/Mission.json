@@ -11489,6 +11489,81 @@
     "name": "通关每日任务“合成饰品1次”{threshold}次",
     "shortDescription": "通关每日任务“合成饰品1次”{threshold}次"
   },
+  "event-ms-normal-26-1030-01-card_skill_level_up_count": {
+    "longDescription": "进行{threshold}次偶像技能强化。",
+    "name": "技能强化{threshold}次",
+    "shortDescription": "技能强化{threshold}次"
+  },
+  "event-ms-normal-26-1030-01-condition_clear-story-001": {
+    "longDescription": "观看活动剧情第1话吧。",
+    "name": "观看活动剧情第1话",
+    "shortDescription": "观看活动剧情第1话"
+  },
+  "event-ms-normal-26-1030-01-condition_clear-story-002": {
+    "longDescription": "观看活动剧情第2话。",
+    "name": "观看活动剧情第2话",
+    "shortDescription": "观看活动剧情第2话"
+  },
+  "event-ms-normal-26-1030-01-condition_clear-story-003": {
+    "longDescription": "观看活动剧情第3话。",
+    "name": "观看活动剧情第3话",
+    "shortDescription": "观看活动剧情第3话"
+  },
+  "event-ms-normal-26-1030-01-condition_clear-story-004": {
+    "longDescription": "观看活动剧情第4话。",
+    "name": "观看活动剧情第4话",
+    "shortDescription": "观看活动剧情第4话"
+  },
+  "event-ms-normal-26-1030-01-condition_clear-story-005": {
+    "longDescription": "观看活动剧情第5话。",
+    "name": "观看活动剧情第5话",
+    "shortDescription": "观看活动剧情第5话"
+  },
+  "event-ms-normal-26-1030-01-condition_clear-story-006": {
+    "longDescription": "观看活动故事第6话。",
+    "name": "观看活动剧情第6话",
+    "shortDescription": "观看活动剧情第6话"
+  },
+  "event-ms-normal-26-1030-01-dice_area_clear_count": {
+    "longDescription": "在双六中通关{threshold}个区域。",
+    "name": "在双六中完成{threshold}个区域",
+    "shortDescription": "在双六中完成{threshold}个区域"
+  },
+  "event-ms-normal-26-1030-01-dice_panel_move_count": {
+    "longDescription": "在双六中前进{threshold}格。",
+    "name": "在双六中前进{threshold}格",
+    "shortDescription": "在双六中前进{threshold}格"
+  },
+  "event-ms-normal-26-1030-01-market_exchange_count": {
+    "longDescription": "在商店购买{threshold}次道具。",
+    "name": "在商店购买{threshold}次道具",
+    "shortDescription": "在商店购买{threshold}次道具"
+  },
+  "event-ms-normal-26-1030-01-photo_reroll_count": {
+    "longDescription": "重新抽取照片属性{threshold}次。",
+    "name": "重新拍摄照片{threshold}次",
+    "shortDescription": "重新拍摄照片{threshold}次"
+  },
+  "event-ms-normal-26-1030-01-photo_shoot_count": {
+    "longDescription": "进行{threshold}次照片拍摄吧。",
+    "name": "拍照{threshold}次",
+    "shortDescription": "拍照{threshold}次"
+  },
+  "event-ms-normal-26-1030-01-quest_daily_clear_count": {
+    "longDescription": "完成{threshold}次每日演唱会。",
+    "name": "通关每日演唱会{threshold}次",
+    "shortDescription": "通关每日演唱会{threshold}次"
+  },
+  "event-ms-normal-26-1030-01-quest_pvp_play_count": {
+    "longDescription": "挑战VENUS对战{threshold}次。",
+    "name": "挑战VENUS对战{threshold}次",
+    "shortDescription": "挑战VENUS对战{threshold}次"
+  },
+  "event-ms-normal-26-1030-02-mission_clear_count": {
+    "longDescription": "完成每日任务“合成饰品1次”\n{threshold}次。",
+    "name": "通关每日任务“合成饰品1次”{threshold}次",
+    "shortDescription": "通关每日任务“合成饰品1次”{threshold}次"
+  },
   "event-ms-osip-24-0716-00-login_count": {
     "longDescription": "登录{threshold}次。",
     "name": "登录{threshold}次",
@@ -16293,6 +16368,56 @@
     "longDescription": "保存照片{threshold}次吧。",
     "name": "保存照片{threshold}次",
     "shortDescription": "保存照片{threshold}次"
+  },
+  "event-shelf-26-1030-photo-album-complete": {
+    "longDescription": "完成相册。",
+    "name": "完成相册",
+    "shortDescription": "完成相册"
+  },
+  "event-shelf-26-1030-photo-album-creating": {
+    "longDescription": "冲洗相册1次。",
+    "name": "冲洗相册1次",
+    "shortDescription": "冲洗相册1次"
+  },
+  "event-shelf-26-1030-photo-creating": {
+    "longDescription": "冲洗照片{threshold}次。",
+    "name": "显影照片{threshold}次",
+    "shortDescription": "冲洗照片{threshold}次"
+  },
+  "event-shelf-26-1030-photo-save": {
+    "longDescription": "保存照片{threshold}次吧。",
+    "name": "保存照片{threshold}次",
+    "shortDescription": "保存照片{threshold}次"
+  },
+  "event-shelf-26-1030-story-001": {
+    "longDescription": "在双六中观看活动剧情第1话吧。",
+    "name": "在双六中观看活动剧情第1话",
+    "shortDescription": "在双六中观看活动剧情第1话"
+  },
+  "event-shelf-26-1030-story-002": {
+    "longDescription": "在双六中观看活动剧情第2话吧。",
+    "name": "在双六中观看活动剧情第2话",
+    "shortDescription": "在双六中观看活动剧情第2话"
+  },
+  "event-shelf-26-1030-story-003": {
+    "longDescription": "在双六中观看活动剧情第3话吧。",
+    "name": "在双六中观看活动剧情第3话",
+    "shortDescription": "在双六中观看活动剧情第3话"
+  },
+  "event-shelf-26-1030-story-004": {
+    "longDescription": "在双六中观看活动剧情第4话吧。",
+    "name": "在双六中观看活动剧情第4话",
+    "shortDescription": "在双六中观看活动剧情第4话"
+  },
+  "event-shelf-26-1030-story-005": {
+    "longDescription": "在双六中观看活动剧情第5话吧。",
+    "name": "在双六中观看活动剧情第5话",
+    "shortDescription": "在双六中观看活动剧情第5话"
+  },
+  "event-shelf-26-1030-story-006": {
+    "longDescription": "在双六中观看活动故事第6话。",
+    "name": "在双六中观看活动故事第6话",
+    "shortDescription": "在双六中观看活动故事第6话"
   },
   "event_story-mission-23-0619-story-read-001-005": {
     "longDescription": "观看东京篇第1章第1~5话。",
