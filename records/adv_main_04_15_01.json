@@ -18,7 +18,11 @@
   },
   "proofread": {
     "revision": 0,
-    "draft_revision": 0
+    "draft_revision": 0,
+    "state": "进行中",
+    "operator_github": "furude627",
+    "display_id": "furude627",
+    "timestamp": "2026-10-30T07:41:20Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -30,6 +34,6 @@
     }
   },
   "github": {
-    "updated_at": "2026-10-30T07:40:38Z"
+    "updated_at": "2026-10-30T07:41:20Z"
   }
 }
