@@ -17,12 +17,12 @@
     "timestamp": "2026-10-31T14:58:04Z"
   },
   "proofread": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
     "operator_github": "konokyrie",
     "display_id": "konokyrie",
-    "timestamp": "2026-10-31T17:42:27Z",
+    "timestamp": "2026-10-31T17:54:01Z",
     "display_source": "github"
   },
   "artifacts": {
@@ -38,10 +38,10 @@
       "operator_github": "konokyrie",
       "display_id": "konokyrie",
       "display_source": "github",
-      "timestamp": "2026-10-31T17:42:27Z"
+      "timestamp": "2026-10-31T17:54:01Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-31T17:42:27Z"
+    "updated_at": "2026-10-31T17:54:01Z"
   }
 }
