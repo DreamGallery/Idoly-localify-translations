@@ -1,13 +1,15 @@
 # 剧情协作任务
 
-任务 Issue 在 GitHub 中创建和管理。申请者获得本仓库编辑权限后，可在协作网站领取、保存草稿和提交翻译／校对结果；网站不负责发布任务。
+任务 Issue 在 GitHub 中创建和管理。申请者获得本仓库编辑权限后，可在协作网站领取、保存草稿和提交翻译／校对结果。
 
 ## 创建任务
 
 - 自动：`Hoshimi-Adv` 的 `Resource/`、`CSV/` 或 `revision` 更新后，触发本仓库 **Sync original stories and create tasks**。先校验、迁移并提交文本，再为新增或变更的剧情创建或更新 Issue。
-- 手动：本仓库 Actions → **Create story task by filename** → Run workflow，以下两项二选一：
+- 网页：在剧情编辑页点击「连接协作任务」。已有任务会直接连接；尚未建立任务时，可在弹窗中添加当前分组的缺失任务。创建请求由本仓库 Action 执行，已有任务及领取状态保留。
+- 手动：本仓库 Actions → **Create story task by filename** → Run workflow，以下三项任选一项：
   - `filename`：单个 `adv_…txt` 或 `adv_…csv` 文件名。
   - `story_id`：章节共同的剧情 ID，例如 `adv_card_ktn_15` 创建这张卡的全部小章节，`adv_event_2107` 创建该活动的全部章节，`adv_main_01` 创建主线第一大章的全部小章节。按下划线边界精确匹配，自动排除 `_short` 结尾的脚本，每个脚本一个 Issue。
+  - `filenames`：完整文件名组成的 JSON 数组，供网页按实际分组批量请求，最多 200 个，排除 `_short` 结尾的脚本。
 - 同一剧情复用同一个 Issue，包括已关闭的任务；原文变化时会重新打开。首次同步不会为已有、未变化的全部剧情批量开单。
 - 新创建的任务自动添加 `待翻译` 标签；重复运行不重置已有任务的标签或领取状态。
 

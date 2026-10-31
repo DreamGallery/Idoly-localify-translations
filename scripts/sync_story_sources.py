@@ -57,9 +57,14 @@ def normalize_filename(value):
     return result
 
 
-def next_state(previous, receipt, source_commit, revision, filename=None, story_id=None):
-    if filename is not None and story_id is not None:
-        raise ValueError('Choose either filename or story_id, not both')
+def next_state(previous, receipt, source_commit, revision, filename=None, story_id=None, filenames=None):
+    if sum(value is not None for value in (filename, story_id, filenames)) > 1:
+        raise ValueError('Choose one filename selection, not both or multiple selectors')
+    if filenames is not None:
+        if (not isinstance(filenames, list) or not 1 <= len(filenames) <= 200 or
+                any(not isinstance(value, str) or
+                    not re.fullmatch(r'adv_[A-Za-z0-9_]+\.(?:csv|txt)', value) for value in filenames)):
+            raise ValueError('filenames must contain 1 to 200 exact adv_...csv or adv_...txt filenames')
     if previous and previous.get('schema_version') != 1:
         raise ValueError('Unsupported synchronization ledger')
     if revision < previous.get('resource_revision', 0):
@@ -82,8 +87,8 @@ def next_state(previous, receipt, source_commit, revision, filename=None, story_
                 if old and old['source_sha256'] != entry['source_sha256']:
                     changed.add(stem)
     candidates.update(item['file_id'] for item in receipt['scripts'] if item['status'] == 'path_changed')
-    if filename is not None:
-        filename = normalize_filename(filename)
+    for requested in filenames if filenames is not None else ([filename] if filename is not None else []):
+        filename = normalize_filename(requested)
         matches = [stem for stem, item in inventory.items() if filename in
                    (stem, stem + '.txt', stem + '.csv', 'story/ai/' + item['csv_path'])]
         if len(matches) != 1:
@@ -149,7 +154,7 @@ def publish_data(root, paths, expected_head, message, branch=DATA_BRANCH):
 
 
 def run(source, root, repository=TARGET_REPOSITORY, filename=None, apply=False, story_id=None,
-        branch=DATA_BRANCH, skip_tasks=False):
+        branch=DATA_BRANCH, skip_tasks=False, filenames=None):
     source, root = Path(source).resolve(), Path(root).resolve()
     if repository != TARGET_REPOSITORY:
         raise ValueError('Unexpected task repository')
@@ -183,7 +188,7 @@ def run(source, root, repository=TARGET_REPOSITORY, filename=None, apply=False, 
         writes['upstream.json'] = upstream_data
     ledger = migration.safe(root, root / STATE)
     previous = json.loads(ledger.read_text()) if ledger.exists() else {}
-    state = next_state(previous, receipt, source_commit, revision, filename, story_id)
+    state = next_state(previous, receipt, source_commit, revision, filename, story_id, filenames)
     manifest = {'schema_version': 1, 'source_repository': SOURCE_REPOSITORY,
                 'source_commit': source_commit, 'scripts': {}}
     for stem, item in state['scripts'].items():
@@ -200,10 +205,12 @@ def run(source, root, repository=TARGET_REPOSITORY, filename=None, apply=False, 
     ledger_data = encoded(state)
     if not ledger.exists() or ledger.read_bytes() != ledger_data:
         writes[STATE] = ledger_data
+    requested_ids = {name.rsplit('.', 1)[0] for name in filenames} if filenames is not None else None
     selected = {stem: {'id': stem, 'path': 'story/ai/' + item['csv_path'],
                         'source_sha256': item['source_sha256'], 'source_commit': source_commit,
                         'raw_path': manifest['scripts'][stem]['raw_path'], 'data_branch': branch}
-                for stem, item in state['pending_tasks'].items() if stem in state['scripts']}
+                for stem, item in state['pending_tasks'].items() if stem in state['scripts']
+                and (requested_ids is None or stem in requested_ids)}
     changed = {stem for stem, item in state['pending_tasks'].items() if item['source_changed']}
     paths = sorted(set(writes) | deletes)
     report = {'source_commit': source_commit, 'resource_revision': revision,
@@ -236,10 +243,12 @@ if __name__ == '__main__':
     selection = parser.add_mutually_exclusive_group()
     selection.add_argument('--filename')
     selection.add_argument('--story-id', help='Create tasks for all chapters under this ID, excluding _short')
+    selection.add_argument('--filenames-json', type=json.loads, help='Exact chapter filenames as a JSON array')
     parser.add_argument('--apply', action='store_true')
     parser.add_argument('--branch', default=DATA_BRANCH, choices=[DATA_BRANCH])
     parser.add_argument('--skip-tasks', action='store_true', help='Save source data and pending ledger without Issue API writes')
     args = parser.parse_args()
     print(json.dumps(run(args.source_repo, args.data_dir, filename=args.filename, apply=args.apply,
-                         story_id=args.story_id, branch=args.branch, skip_tasks=args.skip_tasks),
+                         story_id=args.story_id, branch=args.branch, skip_tasks=args.skip_tasks,
+                         filenames=args.filenames_json),
                      ensure_ascii=False, indent=2))

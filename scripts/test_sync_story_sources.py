@@ -91,6 +91,33 @@ class StateTests(unittest.TestCase):
                 self.assertIn(short, state['scripts'])
                 self.assertEqual(previous, original)
 
+    def test_exact_file_batch_handles_mixed_prefix_groups_and_is_idempotent(self):
+        data = receipt()
+        names = ['adv_main_04_15_01', 'adv_event_2610_99_01', 'adv_main_04_16_01']
+        data['scripts'] = [{**data['scripts'][0], 'file_id': name,
+                            'csv_path': 'event/' + name + '.csv'} for name in names]
+        files = [names[0] + '.csv', names[1] + '.csv', names[0] + '.csv']
+        state = sync.next_state({}, data, '1' * 40, 1066, filenames=files)
+        self.assertEqual(set(state['pending_tasks']), set(names[:2]))
+        self.assertEqual(sync.next_state(state, data, '1' * 40, 1066, filenames=files), state)
+
+    def test_exact_batch_validation_never_partially_queues_unknown_or_short_files(self):
+        for files in ([], 'adv_group_01.csv', [1], ['../adv_group_01.csv'],
+                      ['adv_group_01.csv', 'adv_missing.csv'], ['adv_group_01.csv'] * 201):
+            before = self.baseline()
+            with self.subTest(files=files), self.assertRaises(ValueError):
+                sync.next_state(before, receipt(), '1' * 40, 1066, filenames=files)
+            self.assertEqual(before, self.baseline())
+        with self.assertRaises(ValueError):
+            sync.next_state({}, receipt(), '1' * 40, 1066,
+                            filename='adv_group_01.csv', filenames=['adv_group_01.csv'])
+        data = receipt()
+        data['scripts'].append({**data['scripts'][0], 'file_id': 'adv_group_01_short',
+                                'csv_path': 'group/adv_group_01_short.csv'})
+        with self.assertRaisesRegex(ValueError, 'Short preview'):
+            sync.next_state({}, data, '1' * 40, 1066,
+                            filenames=['adv_group_01.csv', 'adv_group_01_short.csv'])
+
     def test_manual_short_file_rejected_in_every_supported_format(self):
         short = 'adv_card_ktn_15_01_short'
         data = receipt()
@@ -235,6 +262,46 @@ class SyncIntegrationTests(unittest.TestCase):
                 sync.run(self.source, self.root, apply=True)
         remote_ledger = self.command('--git-dir', self.remote, 'show', 'collaboration:'+sync.STATE)
         self.assertIn(self.stem, json.loads(remote_ledger)['pending_tasks'])
+
+    def test_exact_batch_reuses_completed_tasks_without_writing_main(self):
+        from test_story_tasks import Fake
+        client = Fake()
+        with patch.object(sync.tasks, 'GitHub', return_value=client):
+            sync.run(self.source, self.root, apply=True, filenames=[self.stem + '.csv'])
+            self.assertEqual(len(client.existing), 1)
+            issue = client.existing[0]
+            issue['state'] = 'closed'
+            issue['body'] = issue['body'].replace('tr::待认领', 'tr:alice:完成')
+            issue['body'] = issue['body'].replace('pr::待认领', 'pr:bob:完成')
+            client.writes.clear()
+            result = sync.run(self.source, self.root, apply=True, filenames=[self.stem + '.csv'])
+        self.assertEqual(result['tasks'][0]['action'], 'skip')
+        self.assertEqual(client.writes, [])
+        self.assertEqual(issue['state'], 'closed')
+        self.assertIn('tr:alice:完成', issue['body'])
+        self.assertEqual(self.command('--git-dir', self.remote, 'rev-parse', 'main'), self.initial)
+
+    def test_exact_batch_leaves_other_pending_tasks_for_normal_synchronization(self):
+        from test_story_tasks import Fake
+        other = 'adv_test_02'
+        raw = (self.source / 'Resource' / (self.stem + '.txt')).read_bytes()
+        (self.source / 'Resource' / (other + '.txt')).write_bytes(raw)
+        rows = sync.migration.source_fields(raw.decode()) + [
+            {'id': 'info', 'name': other + '.txt', 'text': sync.migration.digest(raw), 'trans': ''},
+            {'id': '译者', 'name': '', 'text': '', 'trans': ''}]
+        (self.source / 'CSV' / 'test' / (other + '.csv')).write_bytes(sync.migration.encode_csv(rows))
+        self.commit(self.source, 'add story outside selected group')
+        client = Fake()
+        with patch.object(sync.tasks, 'GitHub', return_value=client):
+            result = sync.run(self.source, self.root, apply=True, filenames=[self.stem + '.csv'])
+            self.assertEqual([item['id'] for item in result['tasks']], [self.stem])
+            self.assertEqual([item['title'] for item in client.existing], [self.stem])
+            ledger = json.loads((self.root / sync.STATE).read_text())
+            self.assertEqual(set(ledger['pending_tasks']), {other})
+            self.assertIn(other, ledger['scripts'])
+            sync.run(self.source, self.root, apply=True)
+        self.assertEqual({item['title'] for item in client.existing}, {self.stem, other})
+        self.assertEqual(json.loads((self.root / sync.STATE).read_text())['pending_tasks'], {})
 
     def test_short_source_is_preserved_without_creating_a_task(self):
         short = self.stem + '_short'
