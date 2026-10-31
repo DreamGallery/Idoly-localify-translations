@@ -17,12 +17,12 @@
     "timestamp": "2026-10-31T13:54:10Z"
   },
   "proofread": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
     "operator_github": "yjinyu981-sudo",
     "display_id": "yjinyu981-sudo",
-    "timestamp": "2026-10-31T14:03:32Z",
+    "timestamp": "2026-10-31T14:05:20Z",
     "display_source": "github"
   },
   "artifacts": {
@@ -46,10 +46,10 @@
       "operator_github": "yjinyu981-sudo",
       "display_id": "yjinyu981-sudo",
       "display_source": "github",
-      "timestamp": "2026-10-31T14:03:32Z"
+      "timestamp": "2026-10-31T14:05:20Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-31T14:03:32Z"
+    "updated_at": "2026-10-31T14:05:20Z"
   }
 }
