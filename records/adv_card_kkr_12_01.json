@@ -17,12 +17,13 @@
     "timestamp": "2026-10-31T13:03:51Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_github": "q710038871-byte",
     "display_id": "q710038871-byte",
-    "timestamp": "2026-10-31T13:05:16Z"
+    "timestamp": "2026-10-31T13:05:49Z",
+    "display_source": "github"
   },
   "artifacts": {
     "translation_csv": {
@@ -31,9 +32,16 @@
       "display_id": "q710038871-byte",
       "display_source": "github",
       "timestamp": "2026-10-31T13:03:51Z"
+    },
+    "proofread_csv": {
+      "path": "story/reviewed/card/kkr/12/adv_card_kkr_12_01.csv",
+      "operator_github": "q710038871-byte",
+      "display_id": "q710038871-byte",
+      "display_source": "github",
+      "timestamp": "2026-10-31T13:05:49Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-31T13:05:16Z"
+    "updated_at": "2026-10-31T13:05:49Z"
   }
 }
