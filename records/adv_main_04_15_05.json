@@ -8,13 +8,13 @@
     "proofread": false
   },
   "translation": {
-    "revision": 1,
+    "revision": 2,
     "draft_revision": 0,
     "state": "完成",
-    "operator_github": "yjinyu981-sudo",
-    "display_id": "yjinyu981-sudo",
+    "operator_github": "konokyrie",
+    "display_id": "konokyrie",
     "display_source": "github",
-    "timestamp": "2026-10-31T17:26:50Z"
+    "timestamp": "2026-10-31T17:49:30Z"
   },
   "proofread": {
     "revision": 0,
@@ -23,13 +23,13 @@
   "artifacts": {
     "translation_csv": {
       "path": "story/human/main/04/15/adv_main_04_15_05.csv",
-      "operator_github": "yjinyu981-sudo",
-      "display_id": "yjinyu981-sudo",
+      "operator_github": "konokyrie",
+      "display_id": "konokyrie",
       "display_source": "github",
-      "timestamp": "2026-10-31T17:26:50Z"
+      "timestamp": "2026-10-31T17:49:30Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-31T17:26:50Z"
+    "updated_at": "2026-10-31T17:49:30Z"
   }
 }
