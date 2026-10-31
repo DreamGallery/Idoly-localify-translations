@@ -17,12 +17,13 @@
     "timestamp": "2026-10-31T14:58:04Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_github": "konokyrie",
     "display_id": "konokyrie",
-    "timestamp": "2026-10-31T17:32:05Z"
+    "timestamp": "2026-10-31T17:42:27Z",
+    "display_source": "github"
   },
   "artifacts": {
     "translation_csv": {
@@ -31,9 +32,16 @@
       "display_id": "yjinyu981-sudo",
       "display_source": "github",
       "timestamp": "2026-10-31T14:58:04Z"
+    },
+    "proofread_csv": {
+      "path": "story/reviewed/main/04/15/adv_main_04_15_06.csv",
+      "operator_github": "konokyrie",
+      "display_id": "konokyrie",
+      "display_source": "github",
+      "timestamp": "2026-10-31T17:42:27Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-31T17:32:05Z"
+    "updated_at": "2026-10-31T17:42:27Z"
   }
 }
