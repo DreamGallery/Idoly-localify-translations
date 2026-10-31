@@ -1,0 +1,13 @@
+{
+  "artifacts": {
+    "translation_csv": {
+      "path": "story/human/main/04/15/adv_main_04_15_06.csv"
+    }
+  },
+  "file_id": "adv_main_04_15_06",
+  "schema_version": 1,
+  "translation": {
+    "revision": 1,
+    "state": "完成"
+  }
+}
