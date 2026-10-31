@@ -9,7 +9,7 @@
   },
   "translation": {
     "revision": 2,
-    "draft_revision": 0,
+    "draft_revision": 1,
     "state": "完成",
     "operator_github": "yjinyu981-sudo",
     "display_id": "yjinyu981-sudo",
@@ -31,9 +31,17 @@
       "display_id": "yjinyu981-sudo",
       "display_source": "github",
       "timestamp": "2026-10-31T13:54:10Z"
+    },
+    "translation_draft": {
+      "path": "story/drafts/translation/main/04/15/adv_main_04_15_04.csv",
+      "operator_github": "yjinyu981-sudo",
+      "display_id": "yjinyu981-sudo",
+      "display_source": "github",
+      "based_on_revision": 2,
+      "timestamp": "2026-10-31T13:56:29Z"
     }
   },
   "github": {
-    "updated_at": "2026-10-31T13:54:10Z"
+    "updated_at": "2026-10-31T13:56:29Z"
   }
 }
