@@ -1,21 +1,5 @@
 {
-  "pending_tasks": {
-    "adv_card_ktn_14_01": {
-      "csv_path": "card/ktn/14/adv_card_ktn_14_01.csv",
-      "source_changed": false,
-      "source_sha256": "c892e16b0ba3d3851b32ab7a103ce456437f024d56679f0e8cc1b25a2c73a8de"
-    },
-    "adv_card_ktn_14_02": {
-      "csv_path": "card/ktn/14/adv_card_ktn_14_02.csv",
-      "source_changed": false,
-      "source_sha256": "d05c2d4f017b18734cc57492cd989c13fe4dbd95ffc7fb5ad6e6a4b4cef6e0a3"
-    },
-    "adv_card_ktn_14_03": {
-      "csv_path": "card/ktn/14/adv_card_ktn_14_03.csv",
-      "source_changed": false,
-      "source_sha256": "a943f97b1ef40dc93455e7bf461d5e80d07222c374c1c5796f58509ab2c4ed4d"
-    }
-  },
+  "pending_tasks": {},
   "resource_revision": 1087,
   "schema_version": 1,
   "scripts": {
