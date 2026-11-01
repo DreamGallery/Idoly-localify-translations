@@ -17,12 +17,13 @@
     "timestamp": "2026-11-01T06:03:22Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_github": "furude627",
     "display_id": "furude627",
-    "timestamp": "2026-11-01T06:04:26Z"
+    "timestamp": "2026-11-01T06:07:32Z",
+    "display_source": "github"
   },
   "artifacts": {
     "translation_csv": {
@@ -31,9 +32,16 @@
       "display_id": "furude627",
       "display_source": "github",
       "timestamp": "2026-11-01T06:03:22Z"
+    },
+    "proofread_csv": {
+      "path": "story/reviewed/card/suz/13/adv_card_suz_13_03.csv",
+      "operator_github": "furude627",
+      "display_id": "furude627",
+      "display_source": "github",
+      "timestamp": "2026-11-01T06:07:32Z"
     }
   },
   "github": {
-    "updated_at": "2026-11-01T06:04:26Z"
+    "updated_at": "2026-11-01T06:07:32Z"
   }
 }
