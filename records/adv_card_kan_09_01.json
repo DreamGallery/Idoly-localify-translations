@@ -8,24 +8,28 @@
     "proofread": false
   },
   "translation": {
-    "revision": 0,
-    "draft_revision": 1
+    "revision": 1,
+    "draft_revision": 0,
+    "state": "完成",
+    "operator_github": "Ex-fwm",
+    "display_id": "Ex-fwm",
+    "display_source": "github",
+    "timestamp": "2026-11-03T18:06:53Z"
   },
   "proofread": {
     "revision": 0,
     "draft_revision": 0
   },
   "artifacts": {
-    "translation_draft": {
-      "path": "story/drafts/translation/card/kan/09/adv_card_kan_09_01.csv",
+    "translation_csv": {
+      "path": "story/human/card/kan/09/adv_card_kan_09_01.csv",
       "operator_github": "Ex-fwm",
       "display_id": "Ex-fwm",
       "display_source": "github",
-      "based_on_revision": 0,
-      "timestamp": "2026-11-03T17:59:57Z"
+      "timestamp": "2026-11-03T18:06:53Z"
     }
   },
   "github": {
-    "updated_at": "2026-11-03T17:59:57Z"
+    "updated_at": "2026-11-03T18:06:53Z"
   }
 }
