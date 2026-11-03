@@ -1,6 +1,6 @@
 # 自动更新与协作校对
 
-文本和插件发布 Actions 都在本仓库；插件源码与采集、翻译工具仓库不运行发布 Actions。独立 [Cloudflare 触发器](../automation/cloudflare-scheduler/README.md) 每天北京时间 00:20（前一日 UTC 16:20）调用发布工作流，也可在 Actions 手动启动。GitHub 自带的 `schedule` 已移除，避免重复触发。首次手动运行默认 `dry_run=true`：会抓取、校验并生成完整包，但不提交译文、不上传或发布。模型调用仍可能发生；同时选择 `no_translate` 可关闭，存在待译内容时会阻止发布。游戏 APK 修补由独立 [Idoly-Patcher](https://github.com/DreamGallery/Idoly-Patcher) 仓库承接。
+文本和插件发布 Actions 都在本仓库：文本附件发布到本仓库，独立插件 APK 发布到 [Idoly-localify](https://github.com/DreamGallery/Idoly-localify/releases)。插件源码与采集、翻译工具仓库不运行发布 Actions。独立 [Cloudflare 触发器](../automation/cloudflare-scheduler/README.md) 每天北京时间 00:20（前一日 UTC 16:20）调用发布工作流，也可在 Actions 手动启动。GitHub 自带的 `schedule` 已移除，避免重复触发。首次手动运行默认 `dry_run=true`：会抓取、校验并生成完整包，但不提交译文、不上传或发布。模型调用仍可能发生；同时选择 `no_translate` 可关闭，存在待译内容时会阻止发布。游戏 APK 修补由独立 [Idoly-Patcher](https://github.com/DreamGallery/Idoly-Patcher) 仓库承接。
 
 ## 一次性配置
 
@@ -21,6 +21,7 @@
 - `TRANSLATOR_DEPLOY_KEY`：仅用于 `Hoshimi_Teleprompter` 的独立只读 SSH 部署私钥。
 - `OPENAI_API_KEY`：增量机器翻译 API 密钥。
 - `OPENAI_API_BASE`、`OPENAI_MODEL`：模型 API 地址与模型名称。引导和发布工作流均从此环境的 Secrets 读取；不要放入仓库 Variables 或手动运行参数。
+- `PLUGIN_RELEASE_TOKEN`：fine-grained PAT 仅选择 `DreamGallery/Idoly-localify`，授予 **Contents: Read and write**，用于插件 Release、附件、版本标签和 Latest 标记；到期后更新同名 Secret。
 - `PATCHER_DISPATCH_TOKEN`：联动修补包时需要。Fine-grained PAT 仅选择目标 Patcher 仓库，授予 **Actions: Read and write**；不需要 Contents 写入权限。
 
 仓库 variables：
@@ -32,9 +33,9 @@
 - `PATCHER_REPOSITORY`：修补仓库，默认 `DreamGallery/Idoly-Patcher`。
 - `TEXT_RELEASES_TO_KEEP`：保留的历史文本版本数，默认 `3`；`0` 关闭清理。手动参数 `text_releases_to_keep` 可覆盖本次设置。
 
-三个部署公钥分别登记在对应代码仓库，关闭写入权限，不复用密钥。所有 checkout 均设置 `persist-credentials: false`。本仓库的数据提交、发布和旧版本清理使用内建 `github.token`，job 仅授予 `contents: write`。跨仓库触发 Patcher 使用上述专用 PAT。主分支规则需允许此工作流提交已验证的数据；不允许时会安全失败，不强推。workflow 的分支条件与 environment 部署分支规则都限制 `main`。
+三个部署公钥分别登记在对应代码仓库，关闭写入权限，不复用密钥。所有 checkout 均设置 `persist-credentials: false`。本仓库的数据提交、文本发布和旧版本清理使用内建 `github.token`，job 仅授予 `contents: write`。插件发布时单独使用 `PLUGIN_RELEASE_TOKEN`，结束后恢复本仓库令牌；跨仓库触发 Patcher 使用上述专用 PAT。主分支规则需允许此工作流提交已验证的数据；不允许时会安全失败，不强推。workflow 的分支条件与 environment 部署分支规则都限制 `main`。
 
-发布工作流只接收 `workflow_dispatch`，由 Cloudflare 定时或维护者手动调用。Cloudflare 的专用令牌只需本仓库 Actions 读写权限，保存在 Worker Secret 中。新版插件发布成功后，显式调用 Patcher 的 `workflow_dispatch`，传入确切插件标签；纯文本更新不触发。即使随后文本发布失败，已成功发布的插件仍会触发修补。内建令牌创建的 Release 不能依靠普通事件自动启动另一工作流，见[工作流触发规则](https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/trigger-a-workflow)。联动失败可在 Patcher 手动选择该插件版本重试。
+发布工作流只接收 `workflow_dispatch`，由 Cloudflare 定时或维护者手动调用。Cloudflare 的专用令牌只需本仓库 Actions 读写权限，保存在 Worker Secret 中。新版插件在源码仓库发布成功后，显式调用 Patcher 的 `workflow_dispatch`，传入确切插件标签；纯文本更新不触发。即使随后文本发布失败，已成功发布的插件仍会触发修补。内建令牌创建的 Release 不能依靠普通事件自动启动另一工作流，见[工作流触发规则](https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/trigger-a-workflow)。联动失败可在 Patcher 手动选择该插件版本重试。
 
 API 地址必须是无用户名、密码、查询参数和 fragment 的 HTTPS URL；模型名称必须为单行文本。地址、模型与密钥统一在 `localization-release` 的 Secrets 中设置；手动运行提供 `dry_run`、`no_translate`、`text_releases_to_keep` 和外部触发标识 `schedule_key`（人工操作留空），不接受服务配置参数。环境配置优先于运行器本地 JSON 的兼容配置；工作流不在日志、摘要或发布报告中输出 API 地址和模型名。
 
@@ -97,21 +98,19 @@ Viewer 正式稿优先级为 `story/reviewed`、`story/human`、`story/ai`。人
 
 发布记录保存协作截止提交及附件摘要。截止后的协作编辑留到下一批，不重置协作分支。`main` 同时发生变化时停止并重新核对，不强推。文本包绑定确切的数据提交；发布失败优先从运行器的 `frozen-batches/` 恢复该批附件，保留此目录，避免使用后续编辑重建未完成的批次。输出协议为 schema 2：`manifest.json` 引用固定版本 `text-update.zip`，每个文件及整包都有 SHA-256。
 
-版本 Release 先建 draft，上传完整附件后才公开；构建产物还会检查默认关闭自动采集、无临时诊断资源，以及字体摘要与当前配置相符。失败的 draft 可安全重试，已上传同名附件必须摘要相同，差异会停止。APK 仅在 Gradle `versionName` 对应的 `v版本号` release 尚未发布时构建并发布，采用持久 release 签名，标记 `latest=false`。
+版本 Release 先建 draft，上传完整附件后才公开；构建产物还会检查默认关闭自动采集、无临时诊断资源，以及字体摘要与当前配置相符。失败的 draft 可安全重试，已上传同名附件必须摘要相同，差异会停止。APK 仅在源码仓库中 Gradle `versionName` 对应的 `v版本号` Release 尚未发布时构建，采用持久 release 签名。版本标签指向构建所用的源码提交，附件名为 `idoly-localify-版本号.apk`。
 
-文本先发布 `text-<内容摘要>` 版本，再核验并更新固定标签 `latest` 的附件和 Git 标签。`latest` 页面标记为 GitHub Latest，最上方展示最新正式插件的下载及更新说明链接。GitHub 只能指定一个 Latest；独立插件 Release 保留版本号，不与文本争夺该标记。
+插件和文本附件校验成功后，各仓库直接将对应版本标记为 GitHub Latest。文本版本使用 `text-<内容摘要>` 标签；每个版本只保留一份 Release，下载入口为各仓库的 `/releases/latest`。Patcher 从源码仓库读取确切的插件版本及其 SHA-256。
 
-固定页先更新 ZIP，最后更新 manifest；manifest 内仍指向不可变的 `text-<内容摘要>/text-update.zip`，避免更新期间清单与包跨版本混用。同内容不重复上传附件。GitHub 替换同名附件不是原子操作，切换瞬间可能短暂返回 404，稍后重试即可。仓库需关闭 Release immutability，才能持续替换 `latest` 附件及移动该标签；版本文本和插件附件不会被覆盖。
+manifest 始终指向对应版本的 `text-<内容摘要>/text-update.zip`，避免更新期间清单与包跨版本混用。切换 Latest 标记不会覆盖附件或移动版本标签；已发布版本的附件只接受摘要相同的重试。
 
 游戏更新地址：
 
-`https://github.com/DreamGallery/Idoly-localify-translations/releases/download/latest/manifest.json`
-
-旧地址 `/releases/latest/download/manifest.json` 继续兼容，固定页保持 GitHub Latest。
+`https://github.com/DreamGallery/Idoly-localify-translations/releases/latest/download/manifest.json`
 
 需要支持 schema 2 ZIP、HTTPS 重定向及 MasterDB 更新的插件版本。文本包只含字典、公告、剧情 TXT 和已验证的 `master-blobs.bin`；源码、构建缓存、账号、日志和签名文件不上传。已发布插件版本缺少对应 APK 时明确停止，不静默跳过。
 
-固定页更新成功后才清理旧文本：默认保留最近 3 个已发布文本版本，并额外保护本轮版本、GitHub Latest 及固定页 manifest 引用的版本。仅删除符合 `text-<16位摘要>` 命名且附件恰为 manifest 和文本 ZIP 的 Release 及其对应标签；插件、草稿、固定 `latest` 和其他附件不参与清理。删除中断的标签记录在运行器缓存，下次只续清该记录，标签已改变则停止。`dry_run` 不执行清理。
+Latest 标记更新成功后才清理旧文本：默认保留最近 3 个已发布文本版本，并额外保护本轮版本及 GitHub Latest。清理前核对 Latest 的 manifest 指向同一版本；仅删除符合 `text-<16位摘要>` 命名且附件为 manifest、文本 ZIP 及可选剧情目录的 Release 及其对应标签，插件、草稿和其他附件不参与清理。删除中断的标签记录在运行器缓存，下次只续清该记录，标签已改变则停止。`dry_run` 不执行清理。
 
 本地人工运行数据出口：
 

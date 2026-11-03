@@ -118,6 +118,7 @@ jobs:
         shell: bash
         env:
           GH_TOKEN: ${{ github.token }}
+          PLUGIN_RELEASE_TOKEN: ${{ secrets.PLUGIN_RELEASE_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_API_BASE: ${{ secrets.OPENAI_API_BASE }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
@@ -132,6 +133,7 @@ jobs:
           python3 Idoly-localify/tools/release_translations.py --config "$IDOLY_RUNNER_CONFIG" \
             --app-version "$GAME_APP_VERSION" \
             --repository "$GITHUB_REPOSITORY" \
+            --plugin-repository DreamGallery/Idoly-localify \
             --repository-dir "$GITHUB_WORKSPACE/translations-main" \
             --collaboration-dir "$GITHUB_WORKSPACE/collaboration-data" \
             --project "$GITHUB_WORKSPACE/Idoly-localify" \
@@ -153,7 +155,7 @@ jobs:
           PATCHER_REPOSITORY: ${{ vars.PATCHER_REPOSITORY || 'DreamGallery/Idoly-Patcher' }}
         run: |
           python3 Idoly-localify/tools/release_followup.py dispatch \
-            --repository "$GITHUB_REPOSITORY" --target "$PATCHER_REPOSITORY" --tag "$PLUGIN_TAG"
+            --repository DreamGallery/Idoly-localify --target "$PATCHER_REPOSITORY" --tag "$PLUGIN_TAG"
       - name: Remove superseded text releases and their tags
         if: ${{ always() && steps.publish.outputs.text_tag != '' && !inputs.dry_run }}
         env:

@@ -2,13 +2,13 @@
 
 《IDOLY PRIDE／偶像荣耀》简体中文本地化文本仓库，用于保存译文、校对资料和通用词典。当前剧情内容以 AI 初译及少量定向修订为基础，仍需人工校对。
 
-> ### [下载最新文本和插件并查看更新说明 →](https://github.com/DreamGallery/Idoly-localify-translations/releases/tag/latest)
+> [最新文本](https://github.com/DreamGallery/Idoly-localify-translations/releases/latest) · [最新插件与更新说明](https://github.com/DreamGallery/Idoly-localify/releases/latest)
 
 ## 安装插件
 
 插件仍在开发中 [Idoly-localify](https://github.com/DreamGallery/Idoly-localify)。
 虽然可能官方应该不会管，但还请自己承担使用风险。
-插件编译Target为Android ARM64。请前往[最新发布](https://github.com/DreamGallery/Idoly-localify-translations/releases/tag/latest)，下载 `idoly-localify-版本号.apk`。
+插件编译Target为Android ARM64。请前往[插件发布页](https://github.com/DreamGallery/Idoly-localify/releases/latest)，下载 `idoly-localify-版本号.apk`。本仓库的 Release 只提供文本。
 
 ### Root：LSPosed／Vector
 
@@ -33,7 +33,7 @@
 默认文本更新地址已内置；如需重新填写，使用：
 
 ```text
-https://github.com/DreamGallery/Idoly-localify-translations/releases/download/latest/manifest.json
+https://github.com/DreamGallery/Idoly-localify-translations/releases/latest/download/manifest.json
 ```
 
 插件升级时，LSPosed／Vector 用户安装新版插件并重启游戏；LSPatch 内嵌用户需要用新版插件重新修补，并沿用相同的修补签名密钥以覆盖安装。文本热更新不会替换插件 APK。
