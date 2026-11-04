@@ -3,8 +3,8 @@
     "card-stories.json": "932ec4b9d550715adae7ba60bf2101c2cce90b468547ae2b8bb49a7d8cccf2b7",
     "event-stories.json": "530b9a73b53abe1fe703c8ac2c80ce50a33dae82a64f16065a3e3024d2ed7ed7",
     "love-stories.json": "a837a0aba7146b79d5d39b489aba4716af862916ce47b5b8c854fa4eb7c0ae15",
-    "manifest.json": "e881a14e48c130dff5eda4e3c8c1316575dc3672244073975f8b7c68af81b318",
-    "text-update.zip": "a961f001587614ee0bd927b89e5dc3fdd981e094ce44c84a9d43fb9583936491"
+    "manifest.json": "bc93dd4d6cfca3c34761b06df02acfa74647e6588bf4f81c2629aee85df29571",
+    "text-update.zip": "9d96b0a5e622a2629d08cfd660a78ab6524958d31a3bad4946b1eb2aaf6d2ca1"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -197,6 +197,7 @@
     "notice/source.json": "66bda98ef7ce3860075b676e6c948c5055ccd9751c62160b6434e951397a8a1f",
     "notice/title-resolutions.json": "349413683f39400f82fe1946a95599d38c437e3b2a411bcab9ec7c5e4fb0c5ec",
     "notice/zh-Hans.json": "e5210d585a6d08f7aa2334f780f996df070d19469e4bc361a4baa3e84f58abee",
+    "records/adv_card_kan_09_01.json": "a25e2f8abb41cc30afd4d3665e2c5772e447c6ab8c25463c749f4f153e2412f4",
     "records/adv_card_kkr_12_01.json": "09038f46ec1db1359deafd75c503863d89c8ab98db19b965b6fb00c8186205f1",
     "records/adv_card_ngs_15_01.json": "df80bf8153eeabd05f0703ffb70e69ae54c4103a8b6c268e77b76caf66a9a25d",
     "records/adv_card_ngs_15_02.json": "2d40dc7a2e21fc2d69961128682e848a425b5aa1b1cb018a0a685563cb54a22c",
@@ -3345,6 +3346,7 @@
     "story/ai/main/04/15/adv_main_04_15_04.csv": "abb60e9dbd3a0d09a39786ade130fb434a20b3c9a01206e2a9c33c4b1e5640f3",
     "story/ai/main/04/15/adv_main_04_15_05.csv": "48b39f0ac4679f16fd07752627f9a60931c8109320cf210f1ff33a9518f49363",
     "story/ai/main/04/15/adv_main_04_15_06.csv": "18c85aa744a09ebb71ee908c5b86b6d56624057e8b68138e9b2708dc36ed2bc5",
+    "story/human/card/kan/09/adv_card_kan_09_01.csv": "44081c48d4cb18e749c8c3f2f0514b2d707b105a2c638d1ced2aaf4a0df04ad4",
     "story/human/card/kkr/12/adv_card_kkr_12_01.csv": "7e66377c14247ac07aa9a7e33c5ce6c71d4f082a875518a429cf2c7cb831a6e7",
     "story/human/card/ngs/15/adv_card_ngs_15_01.csv": "86a674fd26185aef7b434592faa849988d13734a9d735505e0f1b4bcd60abd13",
     "story/human/card/ngs/15/adv_card_ngs_15_02.csv": "b159dbde7890e54cee461a069c69b774164b4049b947dad6ed4516be32cde7bb",
@@ -3456,11 +3458,12 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "5ce32cb61e14d63b59978680df305e0cbaed2f03438a6209480cd3079c8214e4"
   },
-  "content_version": "1cc4b5dde7c9df23",
-  "cutoff": "74854057be5b2b1411758a8e4651c3cf85fc4d26",
-  "main_parent": "bdfb46424c00e30aed88b786a5977a5946db1cb9",
+  "content_version": "7e4ffc513030bf48",
+  "cutoff": "363c2756d25e1b01de01571f2bc116896636301f",
+  "main_parent": "e2f68f1f1278ca46ee7ed978bdc58ca05e51e4d5",
   "plugin_asset": null,
-  "plugin_version": "0.6.0",
+  "plugin_commit": "fb9f8b9fd916abcb85833f04c0fca4d06e79d074",
+  "plugin_version": "0.7.0",
   "published_data": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
     "glossary/term-aliases.json": "ac2c3544502f1dc034e536fe6b8a249cd5b6d34bff0410190daae46ab92b8981",
@@ -3654,6 +3657,7 @@
     "notice/source.json": "31a854dd6469a5f94b9428ac85efa7fe0330591249cba2291eede42854cef4d7",
     "notice/title-resolutions.json": "349413683f39400f82fe1946a95599d38c437e3b2a411bcab9ec7c5e4fb0c5ec",
     "notice/zh-Hans.json": "fc609d687d335d2909fcc9497db9bad5480e7ef50d111002c3d822aed059db5d",
+    "records/adv_card_kan_09_01.json": "a25e2f8abb41cc30afd4d3665e2c5772e447c6ab8c25463c749f4f153e2412f4",
     "records/adv_card_kkr_12_01.json": "09038f46ec1db1359deafd75c503863d89c8ab98db19b965b6fb00c8186205f1",
     "records/adv_card_ngs_15_01.json": "df80bf8153eeabd05f0703ffb70e69ae54c4103a8b6c268e77b76caf66a9a25d",
     "records/adv_card_ngs_15_02.json": "2d40dc7a2e21fc2d69961128682e848a425b5aa1b1cb018a0a685563cb54a22c",
@@ -6802,6 +6806,7 @@
     "story/ai/main/04/15/adv_main_04_15_04.csv": "abb60e9dbd3a0d09a39786ade130fb434a20b3c9a01206e2a9c33c4b1e5640f3",
     "story/ai/main/04/15/adv_main_04_15_05.csv": "48b39f0ac4679f16fd07752627f9a60931c8109320cf210f1ff33a9518f49363",
     "story/ai/main/04/15/adv_main_04_15_06.csv": "18c85aa744a09ebb71ee908c5b86b6d56624057e8b68138e9b2708dc36ed2bc5",
+    "story/human/card/kan/09/adv_card_kan_09_01.csv": "37c4b842a03b116d4a20d7c27079c1f328ae5625b4ee2515006a50a774260712",
     "story/human/card/kkr/12/adv_card_kkr_12_01.csv": "7e66377c14247ac07aa9a7e33c5ce6c71d4f082a875518a429cf2c7cb831a6e7",
     "story/human/card/ngs/15/adv_card_ngs_15_01.csv": "86a674fd26185aef7b434592faa849988d13734a9d735505e0f1b4bcd60abd13",
     "story/human/card/ngs/15/adv_card_ngs_15_02.csv": "b159dbde7890e54cee461a069c69b774164b4049b947dad6ed4516be32cde7bb",
@@ -6914,5 +6919,5 @@
     "upstream.json": "365a22487df1e526a90ea138d7a8326ba6da4c096f90c2cce5dfd0a319406882"
   },
   "schema_version": 1,
-  "text_version": "eaf1c365606f5587"
+  "text_version": "60a92768eab2f6b7"
 }
