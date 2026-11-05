@@ -3,8 +3,8 @@
     "card-stories.json": "932ec4b9d550715adae7ba60bf2101c2cce90b468547ae2b8bb49a7d8cccf2b7",
     "event-stories.json": "530b9a73b53abe1fe703c8ac2c80ce50a33dae82a64f16065a3e3024d2ed7ed7",
     "love-stories.json": "a837a0aba7146b79d5d39b489aba4716af862916ce47b5b8c854fa4eb7c0ae15",
-    "manifest.json": "bc93dd4d6cfca3c34761b06df02acfa74647e6588bf4f81c2629aee85df29571",
-    "text-update.zip": "9d96b0a5e622a2629d08cfd660a78ab6524958d31a3bad4946b1eb2aaf6d2ca1"
+    "manifest.json": "fc755664aa864b65fa78fb483ce765685ef916415f6bc7a67956369339ef3699",
+    "text-update.zip": "5604e59dff5716a38b89ee8a47e39288d00b7e322252a5be886d3e4a5524f8d6"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -3458,9 +3458,9 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "5ce32cb61e14d63b59978680df305e0cbaed2f03438a6209480cd3079c8214e4"
   },
-  "content_version": "7e4ffc513030bf48",
+  "content_version": "68cb29338cc4e827",
   "cutoff": "363c2756d25e1b01de01571f2bc116896636301f",
-  "main_parent": "e2f68f1f1278ca46ee7ed978bdc58ca05e51e4d5",
+  "main_parent": "4f131c4feccae02daac58c38c51eff65d70744c9",
   "plugin_asset": null,
   "plugin_commit": "fb9f8b9fd916abcb85833f04c0fca4d06e79d074",
   "plugin_version": "0.7.0",
@@ -6916,8 +6916,8 @@
     "ui/source.json": "eae988377558c6cd90c6c6f683f21feb6a27d0578c4f60451e8125ddd09ef033",
     "ui/variants-source.json": "7cc8f9bfe0b4e36707e63c838b548e82603e33f539dc4599ca45129271ab67f7",
     "ui/zh-Hans.json": "ece3a1fcb8dfa123b0344bf574004365fa9221f474358a53f78e1ac6fb0858e8",
-    "upstream.json": "365a22487df1e526a90ea138d7a8326ba6da4c096f90c2cce5dfd0a319406882"
+    "upstream.json": "b797b5beb8ee1f616bf118889c1677258b82a904e96559191f91a44d16a61256"
   },
   "schema_version": 1,
-  "text_version": "60a92768eab2f6b7"
+  "text_version": "e20f4d7f2b94b418"
 }
