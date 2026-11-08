@@ -3,8 +3,8 @@
     "card-stories.json": "932ec4b9d550715adae7ba60bf2101c2cce90b468547ae2b8bb49a7d8cccf2b7",
     "event-stories.json": "530b9a73b53abe1fe703c8ac2c80ce50a33dae82a64f16065a3e3024d2ed7ed7",
     "love-stories.json": "a837a0aba7146b79d5d39b489aba4716af862916ce47b5b8c854fa4eb7c0ae15",
-    "manifest.json": "fc755664aa864b65fa78fb483ce765685ef916415f6bc7a67956369339ef3699",
-    "text-update.zip": "5604e59dff5716a38b89ee8a47e39288d00b7e322252a5be886d3e4a5524f8d6"
+    "manifest.json": "09307318bb62aa53728daa3ab21fc2e806e620ab5788e939659d594e5ba58b94",
+    "text-update.zip": "5b377a7802d841d021a377f0b280d93e34d184c954f03ae6008d02c6bec7bfdc"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -199,6 +199,9 @@
     "notice/zh-Hans.json": "e5210d585a6d08f7aa2334f780f996df070d19469e4bc361a4baa3e84f58abee",
     "records/adv_card_kan_09_01.json": "a25e2f8abb41cc30afd4d3665e2c5772e447c6ab8c25463c749f4f153e2412f4",
     "records/adv_card_kkr_12_01.json": "09038f46ec1db1359deafd75c503863d89c8ab98db19b965b6fb00c8186205f1",
+    "records/adv_card_mna_54_01.json": "ae6982f33132a5e83b94202413ceb3b8fbb080e9f8b0ac0c9dcbb4f5d9e4c671",
+    "records/adv_card_mna_54_02.json": "c644272122e6b783da605766083dff4bc1acbf4fe84e28634fbf0a3e9fe103a2",
+    "records/adv_card_mna_54_03.json": "d186ef253c11561072a7dc29dafd4dd86694ccad7b4c567e63f538fcb0d70afc",
     "records/adv_card_ngs_15_01.json": "df80bf8153eeabd05f0703ffb70e69ae54c4103a8b6c268e77b76caf66a9a25d",
     "records/adv_card_ngs_15_02.json": "2d40dc7a2e21fc2d69961128682e848a425b5aa1b1cb018a0a685563cb54a22c",
     "records/adv_card_ngs_15_03.json": "b6fc9015fe26c53b50252bff7be1cc76ea00eb283a21815d2c162670ab22d614",
@@ -3348,6 +3351,9 @@
     "story/ai/main/04/15/adv_main_04_15_06.csv": "18c85aa744a09ebb71ee908c5b86b6d56624057e8b68138e9b2708dc36ed2bc5",
     "story/human/card/kan/09/adv_card_kan_09_01.csv": "44081c48d4cb18e749c8c3f2f0514b2d707b105a2c638d1ced2aaf4a0df04ad4",
     "story/human/card/kkr/12/adv_card_kkr_12_01.csv": "7e66377c14247ac07aa9a7e33c5ce6c71d4f082a875518a429cf2c7cb831a6e7",
+    "story/human/card/mna/54/adv_card_mna_54_01.csv": "581db40934bf323e496506b14178e20d2414857353a6396f13e832cf0d226e80",
+    "story/human/card/mna/54/adv_card_mna_54_02.csv": "9033d265a745bcfdd0a16a9b791e0dcb0a07dfb544c2b463a6a5b683aa3ca54a",
+    "story/human/card/mna/54/adv_card_mna_54_03.csv": "2daf57c0b398048810bf4a36fd227f6d96e9bee60d456a76de6f5cf57c41847a",
     "story/human/card/ngs/15/adv_card_ngs_15_01.csv": "86a674fd26185aef7b434592faa849988d13734a9d735505e0f1b4bcd60abd13",
     "story/human/card/ngs/15/adv_card_ngs_15_02.csv": "b159dbde7890e54cee461a069c69b774164b4049b947dad6ed4516be32cde7bb",
     "story/human/card/ngs/15/adv_card_ngs_15_03.csv": "733eab1051896c4f63e4ac607546d93c1ec32ffae85ed869073bbb918a97ef8b",
@@ -3458,9 +3464,9 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "5ce32cb61e14d63b59978680df305e0cbaed2f03438a6209480cd3079c8214e4"
   },
-  "content_version": "68cb29338cc4e827",
-  "cutoff": "363c2756d25e1b01de01571f2bc116896636301f",
-  "main_parent": "4f131c4feccae02daac58c38c51eff65d70744c9",
+  "content_version": "836b2c8384a413f2",
+  "cutoff": "f312c60f8f70408dfab10a42d607735d80edebdb",
+  "main_parent": "0846af6243e6f153f2f92c7169d3001f3edbf888",
   "plugin_asset": null,
   "plugin_commit": "fb9f8b9fd916abcb85833f04c0fca4d06e79d074",
   "plugin_version": "0.7.0",
@@ -3654,11 +3660,14 @@
     "master/zh-Hans/Telephone.json": "b1e8f768579a9ccbeffbf772405e4044e72ee44c9d716bfe61c15fe911fea5ba",
     "master/zh-Hans/Tutorial.json": "8257c48b1522068271d5e1f059dd8df8127a74e3239af0879f7861070c5b5825",
     "master/zh-Hans/Wording.json": "b15809c2859045e2c6060714b42400f6903561763ff585e5a10792e43ecca57d",
-    "notice/source.json": "31a854dd6469a5f94b9428ac85efa7fe0330591249cba2291eede42854cef4d7",
+    "notice/source.json": "6967a4a68781083ec2835a7efa8aa65f689131eae0398efe592ec8b091023114",
     "notice/title-resolutions.json": "349413683f39400f82fe1946a95599d38c437e3b2a411bcab9ec7c5e4fb0c5ec",
-    "notice/zh-Hans.json": "fc609d687d335d2909fcc9497db9bad5480e7ef50d111002c3d822aed059db5d",
+    "notice/zh-Hans.json": "1e8e3153e02900a3d8221fe3cbea5a8f967cbb9a155a2c0833150f068c5590ae",
     "records/adv_card_kan_09_01.json": "a25e2f8abb41cc30afd4d3665e2c5772e447c6ab8c25463c749f4f153e2412f4",
     "records/adv_card_kkr_12_01.json": "09038f46ec1db1359deafd75c503863d89c8ab98db19b965b6fb00c8186205f1",
+    "records/adv_card_mna_54_01.json": "ae6982f33132a5e83b94202413ceb3b8fbb080e9f8b0ac0c9dcbb4f5d9e4c671",
+    "records/adv_card_mna_54_02.json": "c644272122e6b783da605766083dff4bc1acbf4fe84e28634fbf0a3e9fe103a2",
+    "records/adv_card_mna_54_03.json": "d186ef253c11561072a7dc29dafd4dd86694ccad7b4c567e63f538fcb0d70afc",
     "records/adv_card_ngs_15_01.json": "df80bf8153eeabd05f0703ffb70e69ae54c4103a8b6c268e77b76caf66a9a25d",
     "records/adv_card_ngs_15_02.json": "2d40dc7a2e21fc2d69961128682e848a425b5aa1b1cb018a0a685563cb54a22c",
     "records/adv_card_ngs_15_03.json": "b6fc9015fe26c53b50252bff7be1cc76ea00eb283a21815d2c162670ab22d614",
@@ -6808,6 +6817,9 @@
     "story/ai/main/04/15/adv_main_04_15_06.csv": "18c85aa744a09ebb71ee908c5b86b6d56624057e8b68138e9b2708dc36ed2bc5",
     "story/human/card/kan/09/adv_card_kan_09_01.csv": "37c4b842a03b116d4a20d7c27079c1f328ae5625b4ee2515006a50a774260712",
     "story/human/card/kkr/12/adv_card_kkr_12_01.csv": "7e66377c14247ac07aa9a7e33c5ce6c71d4f082a875518a429cf2c7cb831a6e7",
+    "story/human/card/mna/54/adv_card_mna_54_01.csv": "d50982fef6ca66d61416b6914f859b14ad9080ae02118252bb37ddf463b23063",
+    "story/human/card/mna/54/adv_card_mna_54_02.csv": "de65184e7b981b359da9266209663115c39b05e08689715bb892fab2111f0e5f",
+    "story/human/card/mna/54/adv_card_mna_54_03.csv": "df8f5f78b94b85059e66f1968bc53aae92c2d83df041e721ce1438ae4b03748a",
     "story/human/card/ngs/15/adv_card_ngs_15_01.csv": "86a674fd26185aef7b434592faa849988d13734a9d735505e0f1b4bcd60abd13",
     "story/human/card/ngs/15/adv_card_ngs_15_02.csv": "b159dbde7890e54cee461a069c69b774164b4049b947dad6ed4516be32cde7bb",
     "story/human/card/ngs/15/adv_card_ngs_15_03.csv": "733eab1051896c4f63e4ac607546d93c1ec32ffae85ed869073bbb918a97ef8b",
@@ -6919,5 +6931,5 @@
     "upstream.json": "b797b5beb8ee1f616bf118889c1677258b82a904e96559191f91a44d16a61256"
   },
   "schema_version": 1,
-  "text_version": "e20f4d7f2b94b418"
+  "text_version": "4d37ecf4f300bc1f"
 }

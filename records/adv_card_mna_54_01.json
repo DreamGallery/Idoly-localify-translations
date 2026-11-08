@@ -1,0 +1,13 @@
+{
+  "artifacts": {
+    "translation_csv": {
+      "path": "story/human/card/mna/54/adv_card_mna_54_01.csv"
+    }
+  },
+  "file_id": "adv_card_mna_54_01",
+  "schema_version": 1,
+  "translation": {
+    "revision": 1,
+    "state": "完成"
+  }
+}
