@@ -1,10 +1,17 @@
 {
   "artifacts": {
+    "proofread_csv": {
+      "path": "story/reviewed/card/mna/54/adv_card_mna_54_02.csv"
+    },
     "translation_csv": {
       "path": "story/human/card/mna/54/adv_card_mna_54_02.csv"
     }
   },
   "file_id": "adv_card_mna_54_02",
+  "proofread": {
+    "revision": 1,
+    "state": "完成"
+  },
   "schema_version": 1,
   "translation": {
     "revision": 1,

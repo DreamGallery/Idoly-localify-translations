@@ -1,10 +1,10 @@
 {
   "assets": {
-    "card-stories.json": "932ec4b9d550715adae7ba60bf2101c2cce90b468547ae2b8bb49a7d8cccf2b7",
+    "card-stories.json": "6420909e41cf7db18c30057bcef206406998fb3734b5cc7569021e75078c0eb9",
     "event-stories.json": "530b9a73b53abe1fe703c8ac2c80ce50a33dae82a64f16065a3e3024d2ed7ed7",
     "love-stories.json": "a837a0aba7146b79d5d39b489aba4716af862916ce47b5b8c854fa4eb7c0ae15",
-    "manifest.json": "09307318bb62aa53728daa3ab21fc2e806e620ab5788e939659d594e5ba58b94",
-    "text-update.zip": "5b377a7802d841d021a377f0b280d93e34d184c954f03ae6008d02c6bec7bfdc"
+    "manifest.json": "f69271b6eb08d3c9e040bd76f38425bd3d2dbd1144e9142e751bcc3336cab1e5",
+    "text-update.zip": "8344d47815723bf500d7b52732000565166249ee36eda7e073a0a0de971feee9"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -199,9 +199,9 @@
     "notice/zh-Hans.json": "e5210d585a6d08f7aa2334f780f996df070d19469e4bc361a4baa3e84f58abee",
     "records/adv_card_kan_09_01.json": "a25e2f8abb41cc30afd4d3665e2c5772e447c6ab8c25463c749f4f153e2412f4",
     "records/adv_card_kkr_12_01.json": "09038f46ec1db1359deafd75c503863d89c8ab98db19b965b6fb00c8186205f1",
-    "records/adv_card_mna_54_01.json": "ae6982f33132a5e83b94202413ceb3b8fbb080e9f8b0ac0c9dcbb4f5d9e4c671",
-    "records/adv_card_mna_54_02.json": "c644272122e6b783da605766083dff4bc1acbf4fe84e28634fbf0a3e9fe103a2",
-    "records/adv_card_mna_54_03.json": "d186ef253c11561072a7dc29dafd4dd86694ccad7b4c567e63f538fcb0d70afc",
+    "records/adv_card_mna_54_01.json": "4607fd2ca9092db7d88c46c5bbd4c83072ba65abe689a209ea49fb444f59c94a",
+    "records/adv_card_mna_54_02.json": "eb825f1f5d425b9902623e81e88149a073253c42c2eb235d9ece1fd13a8b8c88",
+    "records/adv_card_mna_54_03.json": "3defd75aa744e2c46233e803b1981fd2ea8a2455667a8d2aaa41c3433505bf90",
     "records/adv_card_ngs_15_01.json": "df80bf8153eeabd05f0703ffb70e69ae54c4103a8b6c268e77b76caf66a9a25d",
     "records/adv_card_ngs_15_02.json": "2d40dc7a2e21fc2d69961128682e848a425b5aa1b1cb018a0a685563cb54a22c",
     "records/adv_card_ngs_15_03.json": "b6fc9015fe26c53b50252bff7be1cc76ea00eb283a21815d2c162670ab22d614",
@@ -3407,6 +3407,9 @@
     "story/human/main/04/15/adv_main_04_15_05.csv": "f68e1dcad5b6d3ce82d7e3ef70405105b06087129a7082c482c3b8b4711c2d20",
     "story/human/main/04/15/adv_main_04_15_06.csv": "f0eabfbf2ac55a880d39a597564c42574a6cf71d55fd1b8e129e2d4eb9916b8b",
     "story/reviewed/card/kkr/12/adv_card_kkr_12_01.csv": "ed237a0c0d332e82e930b45a4d0cc6bcd1303736daa353d774b1f4aa69b97fe0",
+    "story/reviewed/card/mna/54/adv_card_mna_54_01.csv": "f0db7d47237c34f9b6f207a460141f6b0781eea52fb7f5f5cd61a86b3526d738",
+    "story/reviewed/card/mna/54/adv_card_mna_54_02.csv": "36d3b5abb787ba91d5ace3162f46c1d7f650f427ba23405b64297fcd5a883e07",
+    "story/reviewed/card/mna/54/adv_card_mna_54_03.csv": "735aaec0a8959a925e8d38899265418ea7b3dcbd224a438cc83bc4172c183a57",
     "story/reviewed/card/ngs/15/adv_card_ngs_15_01.csv": "55dc9a5e154cae2f1570e226bfa354d7202a5142ff3256946e14ba5a14098095",
     "story/reviewed/card/ngs/15/adv_card_ngs_15_02.csv": "8f7ab05be19b9ee3336a943ebec3168f37236dc34930f5226c8a579b5cc24912",
     "story/reviewed/card/ngs/15/adv_card_ngs_15_03.csv": "49c6d7322735e32ed6ce8f0bfb9cf1574cfe9efac7ac3573183cc3bba501a196",
@@ -3464,11 +3467,11 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "5ce32cb61e14d63b59978680df305e0cbaed2f03438a6209480cd3079c8214e4"
   },
-  "content_version": "836b2c8384a413f2",
-  "cutoff": "f312c60f8f70408dfab10a42d607735d80edebdb",
-  "main_parent": "0846af6243e6f153f2f92c7169d3001f3edbf888",
+  "content_version": "86ef99efe77ab5b5",
+  "cutoff": "a5ab4e4fe276b8eabbfdc1fc341c13bef76f6f65",
+  "main_parent": "3b29fe2cb8e055028c059fb8836c70d2fd44bef0",
   "plugin_asset": null,
-  "plugin_commit": "fb9f8b9fd916abcb85833f04c0fca4d06e79d074",
+  "plugin_commit": "cc90b2211870638c4dbd3642f435cfe8b653199d",
   "plugin_version": "0.7.0",
   "published_data": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -3665,9 +3668,9 @@
     "notice/zh-Hans.json": "1e8e3153e02900a3d8221fe3cbea5a8f967cbb9a155a2c0833150f068c5590ae",
     "records/adv_card_kan_09_01.json": "a25e2f8abb41cc30afd4d3665e2c5772e447c6ab8c25463c749f4f153e2412f4",
     "records/adv_card_kkr_12_01.json": "09038f46ec1db1359deafd75c503863d89c8ab98db19b965b6fb00c8186205f1",
-    "records/adv_card_mna_54_01.json": "ae6982f33132a5e83b94202413ceb3b8fbb080e9f8b0ac0c9dcbb4f5d9e4c671",
-    "records/adv_card_mna_54_02.json": "c644272122e6b783da605766083dff4bc1acbf4fe84e28634fbf0a3e9fe103a2",
-    "records/adv_card_mna_54_03.json": "d186ef253c11561072a7dc29dafd4dd86694ccad7b4c567e63f538fcb0d70afc",
+    "records/adv_card_mna_54_01.json": "4607fd2ca9092db7d88c46c5bbd4c83072ba65abe689a209ea49fb444f59c94a",
+    "records/adv_card_mna_54_02.json": "eb825f1f5d425b9902623e81e88149a073253c42c2eb235d9ece1fd13a8b8c88",
+    "records/adv_card_mna_54_03.json": "3defd75aa744e2c46233e803b1981fd2ea8a2455667a8d2aaa41c3433505bf90",
     "records/adv_card_ngs_15_01.json": "df80bf8153eeabd05f0703ffb70e69ae54c4103a8b6c268e77b76caf66a9a25d",
     "records/adv_card_ngs_15_02.json": "2d40dc7a2e21fc2d69961128682e848a425b5aa1b1cb018a0a685563cb54a22c",
     "records/adv_card_ngs_15_03.json": "b6fc9015fe26c53b50252bff7be1cc76ea00eb283a21815d2c162670ab22d614",
@@ -6873,6 +6876,9 @@
     "story/human/main/04/15/adv_main_04_15_05.csv": "f68e1dcad5b6d3ce82d7e3ef70405105b06087129a7082c482c3b8b4711c2d20",
     "story/human/main/04/15/adv_main_04_15_06.csv": "f0eabfbf2ac55a880d39a597564c42574a6cf71d55fd1b8e129e2d4eb9916b8b",
     "story/reviewed/card/kkr/12/adv_card_kkr_12_01.csv": "ed237a0c0d332e82e930b45a4d0cc6bcd1303736daa353d774b1f4aa69b97fe0",
+    "story/reviewed/card/mna/54/adv_card_mna_54_01.csv": "1fc0bad27d3ada76992c0df12b639657be082053cd13fb40d7997795ca13345e",
+    "story/reviewed/card/mna/54/adv_card_mna_54_02.csv": "7196721a4ef6b153afe7845c2b0f763a60f2e084ec4095f58d2e36908bc45092",
+    "story/reviewed/card/mna/54/adv_card_mna_54_03.csv": "9b434ab2fe4be8becf505da558dadbbb063c41a489aecd01d32ce91d6dddc204",
     "story/reviewed/card/ngs/15/adv_card_ngs_15_01.csv": "55dc9a5e154cae2f1570e226bfa354d7202a5142ff3256946e14ba5a14098095",
     "story/reviewed/card/ngs/15/adv_card_ngs_15_02.csv": "8f7ab05be19b9ee3336a943ebec3168f37236dc34930f5226c8a579b5cc24912",
     "story/reviewed/card/ngs/15/adv_card_ngs_15_03.csv": "49c6d7322735e32ed6ce8f0bfb9cf1574cfe9efac7ac3573183cc3bba501a196",
@@ -6931,5 +6937,5 @@
     "upstream.json": "b797b5beb8ee1f616bf118889c1677258b82a904e96559191f91a44d16a61256"
   },
   "schema_version": 1,
-  "text_version": "4d37ecf4f300bc1f"
+  "text_version": "ff52c850b10b893c"
 }
