@@ -17,12 +17,13 @@
     "timestamp": "2026-11-08T12:57:28Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_github": "yjinyu981-sudo",
     "display_id": "yjinyu981-sudo",
-    "timestamp": "2026-11-09T14:44:11Z"
+    "timestamp": "2026-11-09T15:28:01Z",
+    "display_source": "github"
   },
   "artifacts": {
     "translation_csv": {
@@ -31,9 +32,16 @@
       "display_id": "lingjiang710",
       "display_source": "github",
       "timestamp": "2026-11-08T12:57:28Z"
+    },
+    "proofread_csv": {
+      "path": "story/reviewed/card/mna/54/adv_card_mna_54_02.csv",
+      "operator_github": "yjinyu981-sudo",
+      "display_id": "yjinyu981-sudo",
+      "display_source": "github",
+      "timestamp": "2026-11-09T15:28:01Z"
     }
   },
   "github": {
-    "updated_at": "2026-11-09T14:44:11Z"
+    "updated_at": "2026-11-09T15:28:01Z"
   }
 }
