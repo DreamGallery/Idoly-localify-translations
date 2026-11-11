@@ -18,7 +18,11 @@
   },
   "proofread": {
     "revision": 0,
-    "draft_revision": 0
+    "draft_revision": 0,
+    "state": "进行中",
+    "operator_github": "q710038871-byte",
+    "display_id": "q710038871-byte",
+    "timestamp": "2026-11-11T14:38:46Z"
   },
   "artifacts": {
     "translation_csv": {
@@ -30,6 +34,6 @@
     }
   },
   "github": {
-    "updated_at": "2026-11-11T14:36:59Z"
+    "updated_at": "2026-11-11T14:38:46Z"
   }
 }
