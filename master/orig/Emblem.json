@@ -4827,6 +4827,18 @@
     "description": "VENUSバトルシーズン185で100位以内獲得",
     "name": "VENUSシーズン185 TOP100"
   },
+  "emb-pvp-season-186-top001": {
+    "description": "VENUSバトルシーズン186で1位獲得",
+    "name": "VENUSシーズン186 No.1"
+  },
+  "emb-pvp-season-186-top010": {
+    "description": "VENUSバトルシーズン186で10位以内獲得",
+    "name": "VENUSシーズン186 TOP10"
+  },
+  "emb-pvp-season-186-top100": {
+    "description": "VENUSバトルシーズン186で100位以内獲得",
+    "name": "VENUSシーズン186 TOP100"
+  },
   "emb-serial_cd-23-1206-moon-limited": {
     "description": "Question 初回生産限定盤特典"
   },
