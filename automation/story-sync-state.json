@@ -1,21 +1,5 @@
 {
-  "pending_tasks": {
-    "adv_card_ski_13_01": {
-      "csv_path": "card/ski/13/adv_card_ski_13_01.csv",
-      "source_changed": false,
-      "source_sha256": "e231d2de469bc0f37ab383c55fa1f29d50000d66b9e48c13b42519f605e19f9d"
-    },
-    "adv_card_ski_13_02": {
-      "csv_path": "card/ski/13/adv_card_ski_13_02.csv",
-      "source_changed": false,
-      "source_sha256": "f2b725311b9c98845290efca930f63e775bf7529884fc37678a7e540bc9e26eb"
-    },
-    "adv_card_ski_13_03": {
-      "csv_path": "card/ski/13/adv_card_ski_13_03.csv",
-      "source_changed": false,
-      "source_sha256": "a0f97a5409d3b7b7408870eea7ff2444be630fc7f1fcf34cdeb97162186527d7"
-    }
-  },
+  "pending_tasks": {},
   "resource_revision": 1087,
   "schema_version": 1,
   "scripts": {
