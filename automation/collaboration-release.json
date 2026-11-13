@@ -1,10 +1,10 @@
 {
   "assets": {
-    "card-stories.json": "dfeef4cafe355e4434a17032cd24369f800c0598fd5c7f8660837a8b9c4492c6",
+    "card-stories.json": "cc400747d38cb91a3f9492e8122cb6f5d8f65ecf894d828419600a09b109cd08",
     "event-stories.json": "530b9a73b53abe1fe703c8ac2c80ce50a33dae82a64f16065a3e3024d2ed7ed7",
     "love-stories.json": "a837a0aba7146b79d5d39b489aba4716af862916ce47b5b8c854fa4eb7c0ae15",
-    "manifest.json": "f77322e735bcc889c56618fd7e66b219cc21695667a1356a8bbe15ced11b3ea3",
-    "text-update.zip": "aa20f4e1c4436b1c561cc9e27208e3d8567a567867acff04fd83c7d12f7131cc"
+    "manifest.json": "9c17591774305bad620a9a73d7e984d355471b14cffd6bc7631d6cc4dec1206a",
+    "text-update.zip": "b25702d7e575973731467e8ee5454a66a73e063bca2b7d497cf0f6fbaa743399"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -212,6 +212,7 @@
     "records/adv_card_rei_17_03.json": "c7300f64bb792dfe715ced25f831d93a98d38289999381ef7ff0536b2523ad18",
     "records/adv_card_ski_13_01.json": "dc153828c5a8037727d7b7b38741fd7dd076393267fb5dfc38b6121e9b575214",
     "records/adv_card_ski_13_02.json": "edde19db8dfed946613bbe5c3c0f9b303850dcb148cefb5f9745e3f0cc02cf7d",
+    "records/adv_card_ski_13_03.json": "5740e27e88c0ac0a80f3fb28fa8f0e99db5eca5e6e2e56c7ef74d3200c00eb8e",
     "records/adv_card_suz_13_01.json": "8226ca32feaa1cfd883a4e772bb4b7d8875a8b16fb65e52d3f3804b85457398e",
     "records/adv_card_suz_13_02.json": "8f2879fa664dba7f17714ca1b3dd8adac633445c86ca1d3074519fea8c47284e",
     "records/adv_card_suz_13_03.json": "e75d40b9506e907061ffbab4918af65ec2a3867db05fb452d49131346afa311d",
@@ -3368,6 +3369,7 @@
     "story/human/card/rei/17/adv_card_rei_17_03.csv": "35d7321f267c5a270f002914173c138f8c1be2266adc1e1ead5db5a01abee683",
     "story/human/card/ski/13/adv_card_ski_13_01.csv": "3784e28fed0ffff88469c3355c6ce57fe10583eb8cea6839dce835bacebbbd17",
     "story/human/card/ski/13/adv_card_ski_13_02.csv": "724e7ae3f96f5611e5e025b3fb63682a5a13d8e52e150f0d0b48938fed4518fb",
+    "story/human/card/ski/13/adv_card_ski_13_03.csv": "f21999c8648a21ff2980b164f43d516f08a7e8e3abdb6f915f90bf09e9c82e3a",
     "story/human/card/suz/13/adv_card_suz_13_01.csv": "b5aeaa192f7f751e7ab305a3fd2b526e11dee63544a457532991572aaf81cd55",
     "story/human/card/suz/13/adv_card_suz_13_02.csv": "415bcfe5a019419b30ef21bac142dfa20e2127718547f5aab7405a165dac5284",
     "story/human/card/suz/13/adv_card_suz_13_03.csv": "c958d510873e25789326ef6364d71ab586516cc08039be7659bb26c96aa208ba",
@@ -3428,6 +3430,7 @@
     "story/reviewed/card/rei/17/adv_card_rei_17_03.csv": "46df038fb94a4dc512ca9c5110ce76fc2dc42acf2f49cb3fbe52c9d288089def",
     "story/reviewed/card/ski/13/adv_card_ski_13_01.csv": "2b6b6d40b4c36a633e37c716b26afdd5795a641ff59c45bf2701419bd1573a68",
     "story/reviewed/card/ski/13/adv_card_ski_13_02.csv": "a4e7c7bac8f629b15d0df9a6cc46fcba4045c58f82c3042b595e2df538aaae35",
+    "story/reviewed/card/ski/13/adv_card_ski_13_03.csv": "ede8da52274c19a39a2a56c6b6536ad2cbe351b89b3b4c381837c2e44483f6ee",
     "story/reviewed/card/suz/13/adv_card_suz_13_01.csv": "1f48530e33a32420ee7b4abd4a90859fe8be17b4290d4cf3a1dc905942cd9d68",
     "story/reviewed/card/suz/13/adv_card_suz_13_02.csv": "e18d2728e2a7863dca6bc4227884cf284396d716e47adc62e3f9e1f4af4cf2a3",
     "story/reviewed/card/suz/13/adv_card_suz_13_03.csv": "98ef7d5d31202c83cb7861b338d443baa3d469ffc72890c6d2129468eb3793a7",
@@ -3479,9 +3482,9 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "5ce32cb61e14d63b59978680df305e0cbaed2f03438a6209480cd3079c8214e4"
   },
-  "content_version": "520eb8395ebc7413",
-  "cutoff": "009847ef7701c3b02fdf760baa0019241d78008d",
-  "main_parent": "316f66b7b4b7ff17a6f5c2f424a06b59ba41be85",
+  "content_version": "6c7fb560467f7de6",
+  "cutoff": "bdb69f5dd5412d6fdea1fda70c1e733adfd36f37",
+  "main_parent": "75b5f47a4501068d526b648fe44e969b9dfaf834",
   "plugin_asset": null,
   "plugin_commit": "cc90b2211870638c4dbd3642f435cfe8b653199d",
   "plugin_version": "0.7.0",
@@ -3605,7 +3608,7 @@
     "master/zh-Hans/CostumeType.json": "2cec87b1ec2196ec718cb1ce3415b3708d16732058d5d3c2b127cf195e4b9736",
     "master/zh-Hans/Decoration.json": "e13c9b87692bb5c7542ef425c614f9ce000c03bba26f191f991f456c43d3cb3c",
     "master/zh-Hans/DutyPoint.json": "737737e2053e0df12dea1831d4f01c7b53f2fdc6548d4e09b11de5c30915a412",
-    "master/zh-Hans/Emblem.json": "2bcfe7817c154ae969e59b7e8fb33cb4b47018f73de267506ed28862e89d5824",
+    "master/zh-Hans/Emblem.json": "64fba7c40204faed7438c1ccb717cdb44abbce5472bf2000d18136d5525f4556",
     "master/zh-Hans/EventMission.json": "4298b0583efdd0d5e54b96c338d9d1c470d09c3f03255aa52dbdc61c91d820dc",
     "master/zh-Hans/EventStory.json": "63952bcacdf8d480e54a1b757391b5b42f5a745a161e0a9c01a067df0b46c3ad",
     "master/zh-Hans/ExcursionGazeReaction.json": "c595487d9ecba8a7667d1eb014f81c7a9b8974ef76da766a10ee480849e314d3",
@@ -3693,6 +3696,7 @@
     "records/adv_card_rei_17_03.json": "c7300f64bb792dfe715ced25f831d93a98d38289999381ef7ff0536b2523ad18",
     "records/adv_card_ski_13_01.json": "dc153828c5a8037727d7b7b38741fd7dd076393267fb5dfc38b6121e9b575214",
     "records/adv_card_ski_13_02.json": "edde19db8dfed946613bbe5c3c0f9b303850dcb148cefb5f9745e3f0cc02cf7d",
+    "records/adv_card_ski_13_03.json": "5740e27e88c0ac0a80f3fb28fa8f0e99db5eca5e6e2e56c7ef74d3200c00eb8e",
     "records/adv_card_suz_13_01.json": "8226ca32feaa1cfd883a4e772bb4b7d8875a8b16fb65e52d3f3804b85457398e",
     "records/adv_card_suz_13_02.json": "8f2879fa664dba7f17714ca1b3dd8adac633445c86ca1d3074519fea8c47284e",
     "records/adv_card_suz_13_03.json": "e75d40b9506e907061ffbab4918af65ec2a3867db05fb452d49131346afa311d",
@@ -6849,6 +6853,7 @@
     "story/human/card/rei/17/adv_card_rei_17_03.csv": "35d7321f267c5a270f002914173c138f8c1be2266adc1e1ead5db5a01abee683",
     "story/human/card/ski/13/adv_card_ski_13_01.csv": "25f9e8b9df3c050a13c6190b93ec8276e158e96f74b46e0cfab5244f405ae0f4",
     "story/human/card/ski/13/adv_card_ski_13_02.csv": "4bb94e70f6f123c810446b36bacbb099d8137c170736a5e82b0577babce868b3",
+    "story/human/card/ski/13/adv_card_ski_13_03.csv": "f26a019ff335aee0455c1a1f009f1cb839388cbe7dd801c22ec606c8ed7b5d4b",
     "story/human/card/suz/13/adv_card_suz_13_01.csv": "b5aeaa192f7f751e7ab305a3fd2b526e11dee63544a457532991572aaf81cd55",
     "story/human/card/suz/13/adv_card_suz_13_02.csv": "415bcfe5a019419b30ef21bac142dfa20e2127718547f5aab7405a165dac5284",
     "story/human/card/suz/13/adv_card_suz_13_03.csv": "c958d510873e25789326ef6364d71ab586516cc08039be7659bb26c96aa208ba",
@@ -6909,6 +6914,7 @@
     "story/reviewed/card/rei/17/adv_card_rei_17_03.csv": "46df038fb94a4dc512ca9c5110ce76fc2dc42acf2f49cb3fbe52c9d288089def",
     "story/reviewed/card/ski/13/adv_card_ski_13_01.csv": "e48e4079d934b377e4970d0013d88b10729622b010818892d6466f32edae6aae",
     "story/reviewed/card/ski/13/adv_card_ski_13_02.csv": "8cf46328684f3900cb92f82fba1f6394e4603ec029091658309951d13fcfbd26",
+    "story/reviewed/card/ski/13/adv_card_ski_13_03.csv": "04e84553d954abf4d9a2ef0436437545dbabbe5a8325b6f5a03746dfff113552",
     "story/reviewed/card/suz/13/adv_card_suz_13_01.csv": "1f48530e33a32420ee7b4abd4a90859fe8be17b4290d4cf3a1dc905942cd9d68",
     "story/reviewed/card/suz/13/adv_card_suz_13_02.csv": "e18d2728e2a7863dca6bc4227884cf284396d716e47adc62e3f9e1f4af4cf2a3",
     "story/reviewed/card/suz/13/adv_card_suz_13_03.csv": "98ef7d5d31202c83cb7861b338d443baa3d469ffc72890c6d2129468eb3793a7",
@@ -6961,5 +6967,5 @@
     "upstream.json": "e067cced07a161ce7bdc7db1f16bf8f9e61eec2ab05d0b41c504ba50fecf4043"
   },
   "schema_version": 1,
-  "text_version": "9f5bce9d9b7df66e"
+  "text_version": "2b19c0ead7edc162"
 }
