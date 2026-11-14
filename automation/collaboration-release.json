@@ -3,8 +3,8 @@
     "card-stories.json": "cc400747d38cb91a3f9492e8122cb6f5d8f65ecf894d828419600a09b109cd08",
     "event-stories.json": "530b9a73b53abe1fe703c8ac2c80ce50a33dae82a64f16065a3e3024d2ed7ed7",
     "love-stories.json": "a837a0aba7146b79d5d39b489aba4716af862916ce47b5b8c854fa4eb7c0ae15",
-    "manifest.json": "9c17591774305bad620a9a73d7e984d355471b14cffd6bc7631d6cc4dec1206a",
-    "text-update.zip": "b25702d7e575973731467e8ee5454a66a73e063bca2b7d497cf0f6fbaa743399"
+    "manifest.json": "1ad1def726801355f4aa652ded189517dce55b7b6b84525cc3f743af78f0f4a0",
+    "text-update.zip": "c6ef73f3141b3daf18da59edc82e1c29e9230241973b6201900310b2e92233b0"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -3482,9 +3482,9 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "5ce32cb61e14d63b59978680df305e0cbaed2f03438a6209480cd3079c8214e4"
   },
-  "content_version": "6c7fb560467f7de6",
+  "content_version": "4990555da57fbf61",
   "cutoff": "bdb69f5dd5412d6fdea1fda70c1e733adfd36f37",
-  "main_parent": "75b5f47a4501068d526b648fe44e969b9dfaf834",
+  "main_parent": "4cfda4729b6a222aeab71a51a5119629f205ff61",
   "plugin_asset": null,
   "plugin_commit": "cc90b2211870638c4dbd3642f435cfe8b653199d",
   "plugin_version": "0.7.0",
@@ -3678,9 +3678,9 @@
     "master/zh-Hans/Telephone.json": "b1e8f768579a9ccbeffbf772405e4044e72ee44c9d716bfe61c15fe911fea5ba",
     "master/zh-Hans/Tutorial.json": "8257c48b1522068271d5e1f059dd8df8127a74e3239af0879f7861070c5b5825",
     "master/zh-Hans/Wording.json": "b15809c2859045e2c6060714b42400f6903561763ff585e5a10792e43ecca57d",
-    "notice/source.json": "78d95287e276143d1f2085326dab189b265da8c3d3a33169196153ef019e14b4",
+    "notice/source.json": "2b67aa3610b5b88102731487c5a0339096db2b8c2b136962b07d06643878d22f",
     "notice/title-resolutions.json": "349413683f39400f82fe1946a95599d38c437e3b2a411bcab9ec7c5e4fb0c5ec",
-    "notice/zh-Hans.json": "eedd25a799e339fcdfd924896487c3f9ce7d2b9722f31eef412ff00c5d91d4ba",
+    "notice/zh-Hans.json": "6862777e939290681a0b02dfd570d9d1292fc3010ae9ff3a72af7fc19a6fcd86",
     "records/adv_card_kan_09_01.json": "a25e2f8abb41cc30afd4d3665e2c5772e447c6ab8c25463c749f4f153e2412f4",
     "records/adv_card_kkr_12_01.json": "09038f46ec1db1359deafd75c503863d89c8ab98db19b965b6fb00c8186205f1",
     "records/adv_card_kkr_12_02.json": "3aeb2794bc769cd963cfb7d89de27e53b8c4361e31d4f933a21bbd3c1c218db3",
@@ -6967,5 +6967,5 @@
     "upstream.json": "e067cced07a161ce7bdc7db1f16bf8f9e61eec2ab05d0b41c504ba50fecf4043"
   },
   "schema_version": 1,
-  "text_version": "2b19c0ead7edc162"
+  "text_version": "03d7903d45e0cd25"
 }
