@@ -1047,6 +1047,10 @@
     "characterArrivalText": "和粉丝们一起，吃同样的\n蛋糕果然很难呢。",
     "managerCallText": "辛苦了"
   },
+  "bk1:[[\"characterId\",\"char-mna\"],[\"patternId\",\"call-pattern-card-mna-05-casl-04\"]]": {
+    "managerCallText": "辛苦了",
+    "characterArrivalText": "高中毕业后一定会\n比现在更忙吧。\n我也是，当然你也是…"
+  },
   "bk1:[[\"characterId\",\"char-mna\"],[\"patternId\",\"call-pattern-card-mna-05-fest-00\"]]": {
     "characterArrivalText": "其实呢，上次从游乐园回来的路上\n我一个人绕道去了别的地方。",
     "managerCallText": "辛苦了"

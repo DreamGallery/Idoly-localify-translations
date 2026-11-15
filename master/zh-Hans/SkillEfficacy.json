@@ -11923,6 +11923,10 @@
     "description": "使1名得分手类型的暴击系数提升6个阶段[65拍]",
     "name": "Score类型1人暴击系数提升效果"
   },
+  "ef-critical_bonus_permil_up-6-target-character_type-1-2-19": {
+    "name": "2名得分手类型获得暴击系数提升效果",
+    "description": "使2名得分手类型的暴击系数提升6阶段[19拍]"
+  },
   "ef-critical_bonus_permil_up-6-target-character_type-1-2-23": {
     "description": "使2名得分手类型的暴击系数提升6个阶段[23拍]",
     "name": "2名得分手类型获得暴击系数提升效果"
@@ -11938,6 +11942,10 @@
   "ef-critical_bonus_permil_up-6-target-character_type-1-2-26": {
     "description": "为2名得分手类型角色提升6阶段暴击系数效果[26拍]",
     "name": "2名得分手类型获得暴击系数提升效果"
+  },
+  "ef-critical_bonus_permil_up-6-target-character_type-1-2-27": {
+    "name": "2名得分手类型获得暴击系数提升效果",
+    "description": "使2名得分手类型的暴击系数提升6阶段[27拍]"
   },
   "ef-critical_bonus_permil_up-6-target-character_type-1-2-28": {
     "description": "为2名得分手类型角色提升6阶段暴击系数效果[28拍]",
@@ -20423,6 +20431,10 @@
     "description": "恢复1名得分手类型3200点体力",
     "name": "回复1名得分手类型的体力"
   },
+  "ef-fix_stamina_recovery-2000-target-character_type-1-2": {
+    "name": "回复2名得分手类型的体力",
+    "description": "恢复2名得分手类型2000点体力"
+  },
   "ef-fix_stamina_recovery-2000-target-self": {
     "description": "恢复自身2000点体力",
     "name": "恢复自身的体力"
@@ -20610,6 +20622,10 @@
   "ef-fix_stamina_recovery-2800-target-character_type-1-1": {
     "description": "恢复得分手类型1人2800点体力",
     "name": "回复1名得分手类型的体力"
+  },
+  "ef-fix_stamina_recovery-2800-target-character_type-1-2": {
+    "name": "回复2名得分手类型的体力",
+    "description": "恢复2名得分手类型2800点体力"
   },
   "ef-fix_stamina_recovery-2800-target-self": {
     "description": "恢复自身2800点体力",
@@ -25082,6 +25098,10 @@
   "ef-score_get_by_score_ratio-130-target-center": {
     "description": "获得中心位得分的13%的得分",
     "name": "获得对象所得分数的一定比例分数"
+  },
+  "ef-score_get_by_score_ratio-130-target-character_type-1-1": {
+    "name": "获得对象所得分数的一定比例分数",
+    "description": "获得1名得分手类型所获分数的13%分数"
   },
   "ef-score_get_by_score_ratio-130-target-self": {
     "description": "获得自身得分的13%的得分",
@@ -46998,5 +47018,49 @@
   "ef-weakness_effect_reflection-1-target-self-43": {
     "description": "自身获得减益效果反射[43节拍]",
     "name": "自身获得下降效果反射"
+  },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-27": {
+    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[27拍]",
+    "name": "使对方1名表现类型的体力消耗增加"
+  },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-31": {
+    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[31拍]",
+    "name": "使对方1名表现类型的体力消耗增加"
+  },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-35": {
+    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[35拍]",
+    "name": "使对方1名表现类型的体力消耗增加"
+  },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-39": {
+    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[39拍]",
+    "name": "使对方1名表现类型的体力消耗增加"
+  },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-44": {
+    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[44拍]",
+    "name": "使对方1名表现类型的体力消耗增加"
+  },
+  "ef-visual_down-6-target-opponent_visual-1-15": {
+    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低6个阶段[15拍]",
+    "name": "使对方1名视觉类型角色的视觉降低"
+  },
+  "ef-visual_down-6-target-opponent_visual-1-24": {
+    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低6个阶段[24拍]",
+    "name": "使对方1名视觉类型角色的视觉降低"
+  },
+  "ef-visual_down-7-target-opponent_visual-1-24": {
+    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低7个阶段[24拍]",
+    "name": "使对方1名视觉类型角色的视觉降低"
+  },
+  "ef-visual_down-7-target-opponent_visual-1-33": {
+    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低7个阶段[33拍]",
+    "name": "使对方1名视觉类型角色的视觉降低"
+  },
+  "ef-visual_down-8-target-opponent_visual-1-33": {
+    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低8个阶段[33拍]",
+    "name": "使对方1名视觉类型角色的视觉降低"
+  },
+  "ef-visual_down-8-target-opponent_visual-1-43": {
+    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低8个阶段[43拍]",
+    "name": "使对方1名视觉类型角色的视觉降低"
   }
 }

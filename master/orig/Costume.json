@@ -197,6 +197,9 @@
   "cos-aoi-kion-00": {
     "name": "桜が丘女子高等学校"
   },
+  "cos-aoi-link-01": {
+    "name": "リエルフレ"
+  },
   "cos-aoi-miku-00": {
     "name": "初音ミク：オリジナル"
   },
@@ -430,6 +433,9 @@
   },
   "cos-chs-vlnt-00": {
     "name": "ラブリーバレンタイン"
+  },
+  "cos-chs-wedd-00": {
+    "name": "スイート・ブライド"
   },
   "cos-chs-yukt-00": {
     "name": "ポワソンルージュ"
@@ -683,6 +689,9 @@
   "cos-kan-trng-00": {
     "name": "トレーニングウェア"
   },
+  "cos-kan-wedd-00": {
+    "name": "パーフェクト・ブライド"
+  },
   "cos-kan-xmas-00": {
     "name": "ヴェイユ・ド・ノエル"
   },
@@ -821,6 +830,9 @@
   "cos-kkr-vlnt-00": {
     "name": "ダークネスシンパサイザー"
   },
+  "cos-kkr-wedd-00": {
+    "name": "スイート・ブライド"
+  },
   "cos-kkr-yukt-00": {
     "name": "カルプ"
   },
@@ -887,6 +899,9 @@
   "cos-kor-kion-00": {
     "name": "桜が丘女子高等学校"
   },
+  "cos-kor-link-00": {
+    "name": "リエステラ"
+  },
   "cos-kor-miku-00": {
     "name": "初音ミク：オリジナル"
   },
@@ -928,6 +943,9 @@
   },
   "cos-kor-trng-00": {
     "name": "トレーニングウェア"
+  },
+  "cos-kor-wedd-00": {
+    "name": "セレスタル・ブライド"
   },
   "cos-kor-xmas-00": {
     "name": "ヴェイユ・ド・ノエル"
@@ -1286,6 +1304,9 @@
   "cos-mhk-kion-00": {
     "name": "桜が丘女子高等学校"
   },
+  "cos-mhk-link-00": {
+    "name": "リエステラ"
+  },
   "cos-mhk-miku-00": {
     "name": "初音ミク：オリジナル"
   },
@@ -1369,6 +1390,9 @@
   },
   "cos-mna-casl-03": {
     "name": "ニコイチスタイル"
+  },
+  "cos-mna-casl-04": {
+    "name": "おでかけスタイル"
   },
   "cos-mna-fest-00": {
     "name": "エターナルブリリアンス"
@@ -1661,6 +1685,9 @@
   "cos-rei-kion-00": {
     "name": "桜が丘女子高等学校"
   },
+  "cos-rei-link-01": {
+    "name": "リエルフレ"
+  },
   "cos-rei-miku-00": {
     "name": "初音ミク：オリジナル"
   },
@@ -1822,6 +1849,9 @@
   },
   "cos-rio-kion-00": {
     "name": "桜が丘女子高等学校"
+  },
+  "cos-rio-link-01": {
+    "name": "リエルフレ"
   },
   "cos-rio-miku-00": {
     "name": "初音ミク：オリジナル"
@@ -2003,6 +2033,9 @@
   "cos-rui-vlnt-00": {
     "name": "チョコラブキッス"
   },
+  "cos-rui-wedd-00": {
+    "name": "セレスタル・ブライド"
+  },
   "cos-rui-xmas-00": {
     "name": "ルミエール"
   },
@@ -2141,6 +2174,9 @@
   "cos-ski-waso-00": {
     "name": "ハートオブロック"
   },
+  "cos-ski-wedd-00": {
+    "name": "セレスタル・ブライド"
+  },
   "cos-ski-xmas-00": {
     "name": "クリスマスには君と"
   },
@@ -2218,6 +2254,9 @@
   },
   "cos-skr-kion-00": {
     "name": "桜が丘女子高等学校"
+  },
+  "cos-skr-link-01": {
+    "name": "リエルフレ"
   },
   "cos-skr-miku-00": {
     "name": "初音ミク：オリジナル"
@@ -2345,6 +2384,9 @@
   "cos-smr-kion-00": {
     "name": "桜が丘女子高等学校"
   },
+  "cos-smr-link-01": {
+    "name": "リエルフレ"
+  },
   "cos-smr-magi-00": {
     "name": "マジカルエレメント"
   },
@@ -2401,6 +2443,9 @@
   },
   "cos-smr-vlnt-00": {
     "name": "チョコラブキッス"
+  },
+  "cos-smr-wedd-00": {
+    "name": "パーフェクト・ブライド"
   },
   "cos-smr-xmas-00": {
     "name": "ルミエール"
@@ -2717,6 +2762,9 @@
   "cos-szk-vlnt-00": {
     "name": "ラブリーバレンタイン"
   },
+  "cos-szk-wedd-00": {
+    "name": "スイート・ブライド"
+  },
   "cos-szk-yukt-00": {
     "name": "ポワソンルージュ"
   },
@@ -2866,6 +2914,9 @@
   },
   "cos-yu-vlnt-00": {
     "name": "チョコラブキッス"
+  },
+  "cos-yu-wedd-00": {
+    "name": "パーフェクト・ブライド"
   },
   "cos-yu-wedd-01": {
     "name": "心恋白無垢"

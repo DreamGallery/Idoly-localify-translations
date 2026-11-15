@@ -58691,6 +58691,9 @@
   "cd-st-read-st-card-mna-05-birt-01-03": {
     "description": "观看#3\n后解锁"
   },
+  "cd-st-read-st-card-mna-05-casl-04-03": {
+    "description": "观看#3\n后解锁"
+  },
   "cd-st-read-st-card-mna-05-fest-00-03": {
     "description": "观看#3\n后解锁"
   },
@@ -79696,5 +79699,23 @@
   },
   "ms-limited-login-ex-tower-005-sp-26-0503-003-login": {
     "description": "三丽鸥角色联动举办纪念EX塔003对象"
+  },
+  "cd-photo_expression_shooting-2026-11-open-01": {
+    "description": "拍摄解锁"
+  },
+  "cd-time-banner-friend-close": {
+    "description": "邀请横幅显示条件"
+  },
+  "cd-time-music-hsm-018-26-1115": {
+    "description": "开始：Baton of Radiance乐曲"
+  },
+  "cd-time-music-hsm-018-26-1115-close": {
+    "description": "期间：Baton of Radiance乐曲"
+  },
+  "cd-time-music-hsm-018-26-1115-close-shoot": {
+    "description": "开始：Baton of Radiance乐曲"
+  },
+  "cd-time-music-hsm-018-26-1115-showcase-music": {
+    "description": "开始：Baton of Radiance乐曲"
   }
 }

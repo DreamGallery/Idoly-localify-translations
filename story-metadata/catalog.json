@@ -13952,6 +13952,75 @@
         }
       ]
     },
+    "st-card-mna-05-casl-04-01": {
+      "name": "明日は卒業式",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_mna_11_01"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-mna-05-casl-04",
+          "episode": 1,
+          "character_id": "char-mna",
+          "character_code": "mna",
+          "character_name": "長瀬麻奈"
+        }
+      ]
+    },
+    "st-card-mna-05-casl-04-02": {
+      "name": "五年後の\n長瀬麻奈へ",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_mna_11_02"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-mna-05-casl-04",
+          "episode": 2,
+          "character_id": "char-mna",
+          "character_code": "mna",
+          "character_name": "長瀬麻奈"
+        }
+      ]
+    },
+    "st-card-mna-05-casl-04-03": {
+      "name": "最高に\n輝かせるため",
+      "adv_play_types": [
+        1
+      ],
+      "assets": [
+        "card_mna_11_03"
+      ],
+      "categories": [
+        "card"
+      ],
+      "references": [
+        {
+          "category": "card",
+          "table": "Card",
+          "card_id": "card-mna-05-casl-04",
+          "episode": 3,
+          "character_id": "char-mna",
+          "character_code": "mna",
+          "character_name": "長瀬麻奈"
+        }
+      ]
+    },
     "st-card-mna-05-fest-00-01": {
       "name": "突然のプレゼント",
       "adv_play_types": [
@@ -69802,6 +69871,15 @@
     ],
     "card_mna_10_03": [
       "st-card-mna-05-snro-00-03"
+    ],
+    "card_mna_11_01": [
+      "st-card-mna-05-casl-04-01"
+    ],
+    "card_mna_11_02": [
+      "st-card-mna-05-casl-04-02"
+    ],
+    "card_mna_11_03": [
+      "st-card-mna-05-casl-04-03"
     ],
     "card_mna_52_01": [
       "st-card-mna-05-birt-01-01"

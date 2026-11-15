@@ -11923,6 +11923,10 @@
     "description": "スコアラータイプ1人に6段階クリティカル係数上昇効果[65ビート]",
     "name": "スコアラータイプ1人にクリティカル係数上昇効果"
   },
+  "ef-critical_bonus_permil_up-6-target-character_type-1-2-19": {
+    "description": "スコアラータイプ2人に6段階クリティカル係数上昇効果[19ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果"
+  },
   "ef-critical_bonus_permil_up-6-target-character_type-1-2-23": {
     "description": "スコアラータイプ2人に6段階クリティカル係数上昇効果[23ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果"
@@ -11937,6 +11941,10 @@
   },
   "ef-critical_bonus_permil_up-6-target-character_type-1-2-26": {
     "description": "スコアラータイプ2人に6段階クリティカル係数上昇効果[26ビート]",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果"
+  },
+  "ef-critical_bonus_permil_up-6-target-character_type-1-2-27": {
+    "description": "スコアラータイプ2人に6段階クリティカル係数上昇効果[27ビート]",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果"
   },
   "ef-critical_bonus_permil_up-6-target-character_type-1-2-28": {
@@ -20423,6 +20431,10 @@
     "description": "スコアラータイプ1人のスタミナを3200回復",
     "name": "スコアラータイプ1人のスタミナを回復"
   },
+  "ef-fix_stamina_recovery-2000-target-character_type-1-2": {
+    "description": "スコアラータイプ2人のスタミナを2000回復",
+    "name": "スコアラータイプ2人のスタミナを回復"
+  },
   "ef-fix_stamina_recovery-2000-target-self": {
     "description": "自身のスタミナを2000回復",
     "name": "自身のスタミナを回復"
@@ -20610,6 +20622,10 @@
   "ef-fix_stamina_recovery-2800-target-character_type-1-1": {
     "description": "スコアラータイプ1人のスタミナを2800回復",
     "name": "スコアラータイプ1人のスタミナを回復"
+  },
+  "ef-fix_stamina_recovery-2800-target-character_type-1-2": {
+    "description": "スコアラータイプ2人のスタミナを2800回復",
+    "name": "スコアラータイプ2人のスタミナを回復"
   },
   "ef-fix_stamina_recovery-2800-target-self": {
     "description": "自身のスタミナを2800回復",
@@ -25081,6 +25097,10 @@
   },
   "ef-score_get_by_score_ratio-130-target-center": {
     "description": "センターの獲得スコアの13%のスコア獲得",
+    "name": "対象獲得スコアの割合スコア獲得"
+  },
+  "ef-score_get_by_score_ratio-130-target-character_type-1-1": {
+    "description": "スコアラータイプ1人の獲得スコアの13%のスコア獲得",
     "name": "対象獲得スコアの割合スコア獲得"
   },
   "ef-score_get_by_score_ratio-130-target-self": {
@@ -34531,6 +34551,26 @@
     "description": "[ライブバトルのみ]同じレーンの相手に20段階スタミナ消費増加効果[45ビート]",
     "name": "同じレーンの相手にスタミナ消費増加効果"
   },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-27": {
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ1人に20段階スタミナ消費増加効果[27ビート]",
+    "name": "相手のビジュアルタイプ1人にスタミナ消費増加効果"
+  },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-31": {
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ1人に20段階スタミナ消費増加効果[31ビート]",
+    "name": "相手のビジュアルタイプ1人にスタミナ消費増加効果"
+  },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-35": {
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ1人に20段階スタミナ消費増加効果[35ビート]",
+    "name": "相手のビジュアルタイプ1人にスタミナ消費増加効果"
+  },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-39": {
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ1人に20段階スタミナ消費増加効果[39ビート]",
+    "name": "相手のビジュアルタイプ1人にスタミナ消費増加効果"
+  },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-44": {
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ1人に20段階スタミナ消費増加効果[44ビート]",
+    "name": "相手のビジュアルタイプ1人にスタミナ消費増加効果"
+  },
   "ef-stamina_consumption_increase-20-target-self-110": {
     "description": "自身に20段階スタミナ消費増加効果[110ビート]",
     "name": "自身にスタミナ消費増加効果"
@@ -40079,6 +40119,14 @@
     "description": "[ライブバトルのみ]相手のスタミナ70％以下の対象5人に6段階ビジュアル低下効果[36ビート]",
     "name": "相手のスタミナが70%以下の対象5人にビジュアル低下効果"
   },
+  "ef-visual_down-6-target-opponent_visual-1-15": {
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ1人に6段階ビジュアル低下効果[15ビート]",
+    "name": "相手のビジュアルタイプ1人にビジュアル低下効果"
+  },
+  "ef-visual_down-6-target-opponent_visual-1-24": {
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ1人に6段階ビジュアル低下効果[24ビート]",
+    "name": "相手のビジュアルタイプ1人にビジュアル低下効果"
+  },
   "ef-visual_down-6-target-opponent_visual-2-25": {
     "description": "[ライブバトルのみ]相手のビジュアルタイプ2人に6段階ビジュアル低下効果[25ビート]",
     "name": "相手のビジュアルタイプ2人にビジュアル低下効果"
@@ -40162,6 +40210,14 @@
   "ef-visual_down-7-target-opponent_same_position-50": {
     "description": "[ライブバトルのみ]同じレーンの相手に7段階ビジュアル低下効果[50ビート]",
     "name": "同じレーンの相手にビジュアル低下効果"
+  },
+  "ef-visual_down-7-target-opponent_visual-1-24": {
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ1人に7段階ビジュアル低下効果[24ビート]",
+    "name": "相手のビジュアルタイプ1人にビジュアル低下効果"
+  },
+  "ef-visual_down-7-target-opponent_visual-1-33": {
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ1人に7段階ビジュアル低下効果[33ビート]",
+    "name": "相手のビジュアルタイプ1人にビジュアル低下効果"
   },
   "ef-visual_down-7-target-opponent_visual-2-22": {
     "description": "[ライブバトルのみ]相手のビジュアルタイプ2人に7段階ビジュアル低下効果[22ビート]",
@@ -40250,6 +40306,14 @@
   "ef-visual_down-8-target-opponent_same_position-36": {
     "description": "[ライブバトルのみ]同じレーンの相手に8段階ビジュアル低下効果[36ビート]",
     "name": "同じレーンの相手にビジュアル低下効果"
+  },
+  "ef-visual_down-8-target-opponent_visual-1-33": {
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ1人に8段階ビジュアル低下効果[33ビート]",
+    "name": "相手のビジュアルタイプ1人にビジュアル低下効果"
+  },
+  "ef-visual_down-8-target-opponent_visual-1-43": {
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ1人に8段階ビジュアル低下効果[43ビート]",
+    "name": "相手のビジュアルタイプ1人にビジュアル低下効果"
   },
   "ef-visual_down-8-target-opponent_visual-2-34": {
     "description": "[ライブバトルのみ]相手のビジュアルタイプ2人に8段階ビジュアル低下効果[34ビート]",

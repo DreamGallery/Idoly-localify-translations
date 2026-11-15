@@ -197,6 +197,9 @@
   "cos-aoi-kion-00": {
     "name": "樱丘女子高等学校"
   },
+  "cos-aoi-link-01": {
+    "name": "莉耶尔芙蕾"
+  },
   "cos-aoi-miku-00": {
     "name": "初音未来：原创"
   },
@@ -430,6 +433,9 @@
   },
   "cos-chs-vlnt-00": {
     "name": "可爱情人节"
+  },
+  "cos-chs-wedd-00": {
+    "name": "甜蜜新娘"
   },
   "cos-chs-yukt-00": {
     "name": "红毒鱼"
@@ -683,6 +689,9 @@
   "cos-kan-trng-00": {
     "name": "运动服"
   },
+  "cos-kan-wedd-00": {
+    "name": "完美新娘"
+  },
   "cos-kan-xmas-00": {
     "name": "圣诞守夜"
   },
@@ -821,6 +830,9 @@
   "cos-kkr-vlnt-00": {
     "name": "暗黑共鸣者"
   },
+  "cos-kkr-wedd-00": {
+    "name": "甜蜜新娘"
+  },
   "cos-kkr-yukt-00": {
     "name": "卡尔普"
   },
@@ -887,6 +899,9 @@
   "cos-kor-kion-00": {
     "name": "樱丘女子高等学校"
   },
+  "cos-kor-link-00": {
+    "name": "莉耶丝黛拉"
+  },
   "cos-kor-miku-00": {
     "name": "初音未来：原创"
   },
@@ -928,6 +943,9 @@
   },
   "cos-kor-trng-00": {
     "name": "运动服"
+  },
+  "cos-kor-wedd-00": {
+    "name": "天界新娘"
   },
   "cos-kor-xmas-00": {
     "name": "圣诞守夜"
@@ -1286,6 +1304,9 @@
   "cos-mhk-kion-00": {
     "name": "樱丘女子高等学校"
   },
+  "cos-mhk-link-00": {
+    "name": "莉耶丝黛拉"
+  },
   "cos-mhk-miku-00": {
     "name": "初音未来：原创"
   },
@@ -1369,6 +1390,9 @@
   },
   "cos-mna-casl-03": {
     "name": "双人一体风格"
+  },
+  "cos-mna-casl-04": {
+    "name": "外出风格"
   },
   "cos-mna-fest-00": {
     "name": "永恒辉煌"
@@ -1661,6 +1685,9 @@
   "cos-rei-kion-00": {
     "name": "樱丘女子高等学校"
   },
+  "cos-rei-link-01": {
+    "name": "莉耶尔芙蕾"
+  },
   "cos-rei-miku-00": {
     "name": "初音未来：原创"
   },
@@ -1822,6 +1849,9 @@
   },
   "cos-rio-kion-00": {
     "name": "樱丘女子高等学校"
+  },
+  "cos-rio-link-01": {
+    "name": "莉耶尔芙蕾"
   },
   "cos-rio-miku-00": {
     "name": "初音未来：原创"
@@ -2003,6 +2033,9 @@
   "cos-rui-vlnt-00": {
     "name": "巧克力之吻"
   },
+  "cos-rui-wedd-00": {
+    "name": "天界新娘"
+  },
   "cos-rui-xmas-00": {
     "name": "Lumiere"
   },
@@ -2141,6 +2174,9 @@
   "cos-ski-waso-00": {
     "name": "心形摇滚"
   },
+  "cos-ski-wedd-00": {
+    "name": "天界新娘"
+  },
   "cos-ski-xmas-00": {
     "name": "圣诞节与你"
   },
@@ -2218,6 +2254,9 @@
   },
   "cos-skr-kion-00": {
     "name": "樱丘女子高等学校"
+  },
+  "cos-skr-link-01": {
+    "name": "莉耶尔芙蕾"
   },
   "cos-skr-miku-00": {
     "name": "初音未来：原创"
@@ -2345,6 +2384,9 @@
   "cos-smr-kion-00": {
     "name": "樱丘女子高等学校"
   },
+  "cos-smr-link-01": {
+    "name": "莉耶尔芙蕾"
+  },
   "cos-smr-magi-00": {
     "name": "魔法元素"
   },
@@ -2401,6 +2443,9 @@
   },
   "cos-smr-vlnt-00": {
     "name": "巧克力之吻"
+  },
+  "cos-smr-wedd-00": {
+    "name": "完美新娘"
   },
   "cos-smr-xmas-00": {
     "name": "Lumiere"
@@ -2717,6 +2762,9 @@
   "cos-szk-vlnt-00": {
     "name": "可爱情人节"
   },
+  "cos-szk-wedd-00": {
+    "name": "甜蜜新娘"
+  },
   "cos-szk-yukt-00": {
     "name": "红毒鱼"
   },
@@ -2866,6 +2914,9 @@
   },
   "cos-yu-vlnt-00": {
     "name": "巧克力之吻"
+  },
+  "cos-yu-wedd-00": {
+    "name": "完美新娘"
   },
   "cos-yu-wedd-01": {
     "name": "心恋白无垢"

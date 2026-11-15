@@ -1658,6 +1658,18 @@
     "managerText": "まぁ、難しいだろうな",
     "title": "輝き結ぶバースデー"
   },
+  "bk1:[[\"homeTalkId\",\"home-talk-card-mna-05-casl-04-talk-01\"]]": {
+    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-01\"}].text": "{user}くん\n今年の一月すっごく忙しそうに\nしてたでしょ？",
+    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-02\"}].text": "日曜日に制服で「学校に遅れるぞ」\nってうちに呼びに来るくらい\n曜日感覚もなくなっててさ。",
+    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-03\"}].text": "私のために頑張ってくれるのは\nすっごく嬉しいんだけど、もう少し\n自分を大事にしてほしいの。",
+    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-04\"}].text": "{user}くんには\nこれからも末永く\n私のそばにいてほしいから。",
+    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-05\"}].text": "天才アイドル長瀬麻奈の\nマネージャーが私よりも先に\n芸能界引退をするなんて…",
+    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-06\"}].text": "絶対に許さないからね！\n100歳を超えてもアイドルを\n続けられるといいな～、なんて。",
+    "choiceText": "何か心配なことがあるのか？",
+    "displayConditionDescription": "星の海で繋がる休日 長瀬麻奈\nストーリー3話を視聴",
+    "managerText": "何か心配なことがあるのか？",
+    "title": "星の海で繋がる休日"
+  },
   "bk1:[[\"homeTalkId\",\"home-talk-card-mna-05-fest-00-talk-01\"]]": {
     "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-fest-00_talk-01-01\"}].text": "駅前のカレー屋さんに寄って\n大盛りをたいらげました。\nトッピングはハンバーグ。",
     "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-fest-00_talk-01-02\"}].text": "やけ食いだよ、やけ食い。",
