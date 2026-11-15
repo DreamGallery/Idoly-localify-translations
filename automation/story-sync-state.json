@@ -1,6 +1,122 @@
 {
-  "pending_tasks": {},
-  "resource_revision": 1087,
+  "pending_tasks": {
+    "adv_bond_ai_01_09": {
+      "csv_path": "bond/ai/adv_bond_ai_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "17d301755bb4803af8b172d5d137d52d2d977eeb72071a3b32716b5aa4d042d1"
+    },
+    "adv_bond_aoi_01_09": {
+      "csv_path": "bond/aoi/adv_bond_aoi_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "50e2cd8385b245e4129038f18dbb8dd86bbe91b3809816e899e65e7828019174"
+    },
+    "adv_bond_chs_01_09": {
+      "csv_path": "bond/chs/adv_bond_chs_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "e5c479436e85046a3889f73a4913fb00c30aeaab6545b713182aa22c2874eeda"
+    },
+    "adv_bond_hrk_01_09": {
+      "csv_path": "bond/hrk/adv_bond_hrk_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "e2670a2150e888b90888ae4108f42262450e7e155b826c5ef8d00e2573e3dfa2"
+    },
+    "adv_bond_kan_01_09": {
+      "csv_path": "bond/kan/adv_bond_kan_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "03ae8f9e4ddecef067a6c3599f702b150573efc2146c027f3dce3e0c45afc715"
+    },
+    "adv_bond_kkr_01_09": {
+      "csv_path": "bond/kkr/adv_bond_kkr_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "ab195e1853d981258a2209c022af5925aff97a4a6f8a547a52932f6664938f0b"
+    },
+    "adv_bond_kor_01_09": {
+      "csv_path": "bond/kor/adv_bond_kor_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "1202c07981e64a82dfdf03c8c7e4b93e5ce6c904f7b46e661d24fedda60c4bab"
+    },
+    "adv_bond_ktn_01_09": {
+      "csv_path": "bond/ktn/adv_bond_ktn_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "ce6fc8a5fe20b5008f1d7a81372db3bbace49a793064569e2e78cd252951c6ec"
+    },
+    "adv_bond_mei_01_09": {
+      "csv_path": "bond/mei/adv_bond_mei_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "41e5951f978d65352abfd51c0f484158a89f7b9a37341ec1bf8f4a16a690cbc8"
+    },
+    "adv_bond_mhk_01_09": {
+      "csv_path": "bond/mhk/adv_bond_mhk_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "6b849eed72fcb428b299ac8fafdb8852cffbb035e8baeff3a77060000bdf6179"
+    },
+    "adv_bond_ngs_01_09": {
+      "csv_path": "bond/ngs/adv_bond_ngs_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "375ac29aad195455c31d25ea41e156ca2f491a5b9b219b7053ff1697ce866f64"
+    },
+    "adv_bond_rei_01_09": {
+      "csv_path": "bond/rei/adv_bond_rei_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "8873a7c9ae59a8734df640b576ea6ef660d3718838d4a89413eeef57f0cc77f7"
+    },
+    "adv_bond_rio_01_09": {
+      "csv_path": "bond/rio/adv_bond_rio_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "b2f26c85362548d68c00d380b5958ba88c18e8ce8981f70df012dee82bbb4d70"
+    },
+    "adv_bond_rui_01_09": {
+      "csv_path": "bond/rui/adv_bond_rui_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "32d411bd8c5d1d5d71e2491c1e9d72f58fc17e87486efe593cc704298e87a87d"
+    },
+    "adv_bond_ski_01_09": {
+      "csv_path": "bond/ski/adv_bond_ski_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "993d032bba96e49add4225585113eb1603e1684085ab4ad2fcff942b3ca1cc4a"
+    },
+    "adv_bond_skr_01_09": {
+      "csv_path": "bond/skr/adv_bond_skr_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "833a76f4e02e6a38490746ebb9b0e96f12a343319a50fee124dc3cf14365618d"
+    },
+    "adv_bond_smr_01_09": {
+      "csv_path": "bond/smr/adv_bond_smr_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "8876dbb46610f3153991680ae5efc539fe14cb43c6dbd6efe8304b9bb0e0197f"
+    },
+    "adv_bond_suz_01_09": {
+      "csv_path": "bond/suz/adv_bond_suz_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "45504ef98c85e3b35623dd39ebc7af65927c8d2099429d91a7b001f49338e77f"
+    },
+    "adv_bond_szk_01_09": {
+      "csv_path": "bond/szk/adv_bond_szk_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "9ca773b6664e000e66ac869996a3255b89d256bc86151ef2cb8c1628ba674f24"
+    },
+    "adv_bond_yu_01_09": {
+      "csv_path": "bond/yu/adv_bond_yu_01_09.csv",
+      "source_changed": false,
+      "source_sha256": "81ab50422a15be00dcd3d6d413a9b60b35fee161e484ccd8c3d37cec73de0b1c"
+    },
+    "adv_card_mna_11_01": {
+      "csv_path": "card/mna/11/adv_card_mna_11_01.csv",
+      "source_changed": false,
+      "source_sha256": "4b3a8fa825148e76488f0371bb9ae577b22e356b4505f248c39cf32892696917"
+    },
+    "adv_card_mna_11_02": {
+      "csv_path": "card/mna/11/adv_card_mna_11_02.csv",
+      "source_changed": false,
+      "source_sha256": "9e56757fe714bd8f6844e61968f40862ddc7ceed50fdd2c28224ff59ce3b2aff"
+    },
+    "adv_card_mna_11_03": {
+      "csv_path": "card/mna/11/adv_card_mna_11_03.csv",
+      "source_changed": false,
+      "source_sha256": "7c84676f318e0fc39de1bf5a7c5a618a2c83066e73e2346f2c497c7db4f1e178"
+    }
+  },
+  "resource_revision": 1097,
   "schema_version": 1,
   "scripts": {
     "adv_bond_ai_01_01": {
@@ -35,6 +151,10 @@
       "csv_path": "bond/ai/adv_bond_ai_01_08.csv",
       "source_sha256": "91c96e01accdd157928ee519fcc3f74d34ef270bcec7fda715b4f9dd24ade815"
     },
+    "adv_bond_ai_01_09": {
+      "csv_path": "bond/ai/adv_bond_ai_01_09.csv",
+      "source_sha256": "17d301755bb4803af8b172d5d137d52d2d977eeb72071a3b32716b5aa4d042d1"
+    },
     "adv_bond_aoi_01_01": {
       "csv_path": "bond/aoi/adv_bond_aoi_01_01.csv",
       "source_sha256": "671e0242669cea6f62e58192e810ae5faa15d5c3ecc2c2157b582d7ed2f59bd6"
@@ -66,6 +186,10 @@
     "adv_bond_aoi_01_08": {
       "csv_path": "bond/aoi/adv_bond_aoi_01_08.csv",
       "source_sha256": "bf91f369b34f07f69228a3cdcd1d19df23bee7521719c45aed37c5013e2cb489"
+    },
+    "adv_bond_aoi_01_09": {
+      "csv_path": "bond/aoi/adv_bond_aoi_01_09.csv",
+      "source_sha256": "50e2cd8385b245e4129038f18dbb8dd86bbe91b3809816e899e65e7828019174"
     },
     "adv_bond_chs_01_01": {
       "csv_path": "bond/chs/adv_bond_chs_01_01.csv",
@@ -99,6 +223,10 @@
       "csv_path": "bond/chs/adv_bond_chs_01_08.csv",
       "source_sha256": "2bb3b4ba1a5920178053f9d832da87e45780cf95724ae7ae5846f90b9d5b958c"
     },
+    "adv_bond_chs_01_09": {
+      "csv_path": "bond/chs/adv_bond_chs_01_09.csv",
+      "source_sha256": "e5c479436e85046a3889f73a4913fb00c30aeaab6545b713182aa22c2874eeda"
+    },
     "adv_bond_hrk_01_01": {
       "csv_path": "bond/hrk/adv_bond_hrk_01_01.csv",
       "source_sha256": "4389d2de68db9478f4ce82ea65eda6070ca4a39b463b4b4f2a434406a48724f4"
@@ -130,6 +258,10 @@
     "adv_bond_hrk_01_08": {
       "csv_path": "bond/hrk/adv_bond_hrk_01_08.csv",
       "source_sha256": "fb60bbe01a63de7600b703ea41e353d6071f6df1ebaa13f126aaf9bfe5996056"
+    },
+    "adv_bond_hrk_01_09": {
+      "csv_path": "bond/hrk/adv_bond_hrk_01_09.csv",
+      "source_sha256": "e2670a2150e888b90888ae4108f42262450e7e155b826c5ef8d00e2573e3dfa2"
     },
     "adv_bond_kan_01_01": {
       "csv_path": "bond/kan/adv_bond_kan_01_01.csv",
@@ -163,6 +295,10 @@
       "csv_path": "bond/kan/adv_bond_kan_01_08.csv",
       "source_sha256": "5bc8709136c9c6593baa7b978733765d915bc1a9d2c2e138f2a08103618c33db"
     },
+    "adv_bond_kan_01_09": {
+      "csv_path": "bond/kan/adv_bond_kan_01_09.csv",
+      "source_sha256": "03ae8f9e4ddecef067a6c3599f702b150573efc2146c027f3dce3e0c45afc715"
+    },
     "adv_bond_kkr_01_01": {
       "csv_path": "bond/kkr/adv_bond_kkr_01_01.csv",
       "source_sha256": "0fdfeb3b60c4a408fdb2ab6f8529ca2d50e8adfac9fe0a69d6659be86feea1c5"
@@ -194,6 +330,10 @@
     "adv_bond_kkr_01_08": {
       "csv_path": "bond/kkr/adv_bond_kkr_01_08.csv",
       "source_sha256": "f1c695b57ea1f3ce48b1c8bb222f924156346dd37d0878b8eb022f95402bb9e2"
+    },
+    "adv_bond_kkr_01_09": {
+      "csv_path": "bond/kkr/adv_bond_kkr_01_09.csv",
+      "source_sha256": "ab195e1853d981258a2209c022af5925aff97a4a6f8a547a52932f6664938f0b"
     },
     "adv_bond_kor_01_01": {
       "csv_path": "bond/kor/adv_bond_kor_01_01.csv",
@@ -227,6 +367,10 @@
       "csv_path": "bond/kor/adv_bond_kor_01_08.csv",
       "source_sha256": "a48154762ebb80ba187acda21ccad35401eeee53f52a938989ab1696850c876c"
     },
+    "adv_bond_kor_01_09": {
+      "csv_path": "bond/kor/adv_bond_kor_01_09.csv",
+      "source_sha256": "1202c07981e64a82dfdf03c8c7e4b93e5ce6c904f7b46e661d24fedda60c4bab"
+    },
     "adv_bond_ktn_01_01": {
       "csv_path": "bond/ktn/adv_bond_ktn_01_01.csv",
       "source_sha256": "0c53300cec897471add48c883ae817a479a1f966943cbcc7f7be28734f8ead56"
@@ -258,6 +402,10 @@
     "adv_bond_ktn_01_08": {
       "csv_path": "bond/ktn/adv_bond_ktn_01_08.csv",
       "source_sha256": "b8820f598f7e73575a2f326c93fc8e1dd85dbb5bc7a19393a64cecd874cf975e"
+    },
+    "adv_bond_ktn_01_09": {
+      "csv_path": "bond/ktn/adv_bond_ktn_01_09.csv",
+      "source_sha256": "ce6fc8a5fe20b5008f1d7a81372db3bbace49a793064569e2e78cd252951c6ec"
     },
     "adv_bond_mei_01_01": {
       "csv_path": "bond/mei/adv_bond_mei_01_01.csv",
@@ -291,6 +439,10 @@
       "csv_path": "bond/mei/adv_bond_mei_01_08.csv",
       "source_sha256": "2672da1a031239297d1f4b9aa47f2ebf128215ba8376f9cda01b0ed9b6b42ef3"
     },
+    "adv_bond_mei_01_09": {
+      "csv_path": "bond/mei/adv_bond_mei_01_09.csv",
+      "source_sha256": "41e5951f978d65352abfd51c0f484158a89f7b9a37341ec1bf8f4a16a690cbc8"
+    },
     "adv_bond_mhk_01_01": {
       "csv_path": "bond/mhk/adv_bond_mhk_01_01.csv",
       "source_sha256": "2165e188b1784b341da8d6cc8daec3ceb09ed4216f1803a6ece00ca401425107"
@@ -322,6 +474,10 @@
     "adv_bond_mhk_01_08": {
       "csv_path": "bond/mhk/adv_bond_mhk_01_08.csv",
       "source_sha256": "b39bc0b11de355ad94bdce39530d4251b6ad4e3791fbfe523c22af6709ebba4b"
+    },
+    "adv_bond_mhk_01_09": {
+      "csv_path": "bond/mhk/adv_bond_mhk_01_09.csv",
+      "source_sha256": "6b849eed72fcb428b299ac8fafdb8852cffbb035e8baeff3a77060000bdf6179"
     },
     "adv_bond_ngs_01_01": {
       "csv_path": "bond/ngs/adv_bond_ngs_01_01.csv",
@@ -355,6 +511,10 @@
       "csv_path": "bond/ngs/adv_bond_ngs_01_08.csv",
       "source_sha256": "3a08b47df2ff429789d53538274ba815c957d8d693a64a501db1051658bd195f"
     },
+    "adv_bond_ngs_01_09": {
+      "csv_path": "bond/ngs/adv_bond_ngs_01_09.csv",
+      "source_sha256": "375ac29aad195455c31d25ea41e156ca2f491a5b9b219b7053ff1697ce866f64"
+    },
     "adv_bond_rei_01_01": {
       "csv_path": "bond/rei/adv_bond_rei_01_01.csv",
       "source_sha256": "d06826bca89d348ef35aa5b8aa3c125dd69635e8c16ab61dbddc520572ba6fa4"
@@ -386,6 +546,10 @@
     "adv_bond_rei_01_08": {
       "csv_path": "bond/rei/adv_bond_rei_01_08.csv",
       "source_sha256": "f4d3936d3fc8ae059eb6c7e0da991c60468cde6cf457c5ecdd1949d8a4a6273f"
+    },
+    "adv_bond_rei_01_09": {
+      "csv_path": "bond/rei/adv_bond_rei_01_09.csv",
+      "source_sha256": "8873a7c9ae59a8734df640b576ea6ef660d3718838d4a89413eeef57f0cc77f7"
     },
     "adv_bond_rio_01_01": {
       "csv_path": "bond/rio/adv_bond_rio_01_01.csv",
@@ -419,6 +583,10 @@
       "csv_path": "bond/rio/adv_bond_rio_01_08.csv",
       "source_sha256": "3b07307e5ecc78726479dbb5a20e4cdf560b7a6dc2079e06c8ed263d651bcc78"
     },
+    "adv_bond_rio_01_09": {
+      "csv_path": "bond/rio/adv_bond_rio_01_09.csv",
+      "source_sha256": "b2f26c85362548d68c00d380b5958ba88c18e8ce8981f70df012dee82bbb4d70"
+    },
     "adv_bond_rui_01_01": {
       "csv_path": "bond/rui/adv_bond_rui_01_01.csv",
       "source_sha256": "a82623d756192a4be892166f48d38e80d2000c6f8ea9cdee53e04aa0e4d42d4a"
@@ -450,6 +618,10 @@
     "adv_bond_rui_01_08": {
       "csv_path": "bond/rui/adv_bond_rui_01_08.csv",
       "source_sha256": "d19bec2ccde715ab98a0a5aacd4750e419665cab5519609d95898f52737fa67e"
+    },
+    "adv_bond_rui_01_09": {
+      "csv_path": "bond/rui/adv_bond_rui_01_09.csv",
+      "source_sha256": "32d411bd8c5d1d5d71e2491c1e9d72f58fc17e87486efe593cc704298e87a87d"
     },
     "adv_bond_ski_01_01": {
       "csv_path": "bond/ski/adv_bond_ski_01_01.csv",
@@ -483,6 +655,10 @@
       "csv_path": "bond/ski/adv_bond_ski_01_08.csv",
       "source_sha256": "24254a916826fb3c0930cd1b9082c30d4d24d10b6973470db2b300e7200514b2"
     },
+    "adv_bond_ski_01_09": {
+      "csv_path": "bond/ski/adv_bond_ski_01_09.csv",
+      "source_sha256": "993d032bba96e49add4225585113eb1603e1684085ab4ad2fcff942b3ca1cc4a"
+    },
     "adv_bond_skr_01_01": {
       "csv_path": "bond/skr/adv_bond_skr_01_01.csv",
       "source_sha256": "2a82e852d1ef8941d6f66d18356f04df6dbe2b4c791d53759481bb8ad356488f"
@@ -514,6 +690,10 @@
     "adv_bond_skr_01_08": {
       "csv_path": "bond/skr/adv_bond_skr_01_08.csv",
       "source_sha256": "7634ef48f73f3954715808556b2e36e35881ea9738b8d75cb30d6eb5eba5f95d"
+    },
+    "adv_bond_skr_01_09": {
+      "csv_path": "bond/skr/adv_bond_skr_01_09.csv",
+      "source_sha256": "833a76f4e02e6a38490746ebb9b0e96f12a343319a50fee124dc3cf14365618d"
     },
     "adv_bond_smr_01_01": {
       "csv_path": "bond/smr/adv_bond_smr_01_01.csv",
@@ -547,6 +727,10 @@
       "csv_path": "bond/smr/adv_bond_smr_01_08.csv",
       "source_sha256": "af28d54fa70c5d02eb02cd2dd1f12c66dff07a09934fcd267755848243f51ee2"
     },
+    "adv_bond_smr_01_09": {
+      "csv_path": "bond/smr/adv_bond_smr_01_09.csv",
+      "source_sha256": "8876dbb46610f3153991680ae5efc539fe14cb43c6dbd6efe8304b9bb0e0197f"
+    },
     "adv_bond_suz_01_01": {
       "csv_path": "bond/suz/adv_bond_suz_01_01.csv",
       "source_sha256": "1c0c8dfd77eecd2e966174aac0b8d50a249ea3f6e4fe8ab165a90ae41f4bcd19"
@@ -578,6 +762,10 @@
     "adv_bond_suz_01_08": {
       "csv_path": "bond/suz/adv_bond_suz_01_08.csv",
       "source_sha256": "ab48e9e98d06b1907e67ca71a11a98ef30cd71acc6796499dc38a733cee838d6"
+    },
+    "adv_bond_suz_01_09": {
+      "csv_path": "bond/suz/adv_bond_suz_01_09.csv",
+      "source_sha256": "45504ef98c85e3b35623dd39ebc7af65927c8d2099429d91a7b001f49338e77f"
     },
     "adv_bond_szk_01_01": {
       "csv_path": "bond/szk/adv_bond_szk_01_01.csv",
@@ -611,6 +799,10 @@
       "csv_path": "bond/szk/adv_bond_szk_01_08.csv",
       "source_sha256": "b8d86cad91bb98f3af9d95ab41c918e403818972ffcfb5d06191a28ea5359bdf"
     },
+    "adv_bond_szk_01_09": {
+      "csv_path": "bond/szk/adv_bond_szk_01_09.csv",
+      "source_sha256": "9ca773b6664e000e66ac869996a3255b89d256bc86151ef2cb8c1628ba674f24"
+    },
     "adv_bond_yu_01_01": {
       "csv_path": "bond/yu/adv_bond_yu_01_01.csv",
       "source_sha256": "efaf4cd38ecf07f648850889f95370d7783bd89d2e977a4835a088407d910805"
@@ -642,6 +834,10 @@
     "adv_bond_yu_01_08": {
       "csv_path": "bond/yu/adv_bond_yu_01_08.csv",
       "source_sha256": "6b9108e14751199243369f91f64c3ec295bb45da8acc8cb9b25639c53247ecb8"
+    },
+    "adv_bond_yu_01_09": {
+      "csv_path": "bond/yu/adv_bond_yu_01_09.csv",
+      "source_sha256": "81ab50422a15be00dcd3d6d413a9b60b35fee161e484ccd8c3d37cec73de0b1c"
     },
     "adv_card_ai_01_01": {
       "csv_path": "card/ai/01/adv_card_ai_01_01.csv",
@@ -3650,6 +3846,18 @@
     "adv_card_mna_10_03": {
       "csv_path": "card/mna/10/adv_card_mna_10_03.csv",
       "source_sha256": "6405e5a8e59ff54824096b862d1404e29630afa07c64a4accf0d169f27d22931"
+    },
+    "adv_card_mna_11_01": {
+      "csv_path": "card/mna/11/adv_card_mna_11_01.csv",
+      "source_sha256": "4b3a8fa825148e76488f0371bb9ae577b22e356b4505f248c39cf32892696917"
+    },
+    "adv_card_mna_11_02": {
+      "csv_path": "card/mna/11/adv_card_mna_11_02.csv",
+      "source_sha256": "9e56757fe714bd8f6844e61968f40862ddc7ceed50fdd2c28224ff59ce3b2aff"
+    },
+    "adv_card_mna_11_03": {
+      "csv_path": "card/mna/11/adv_card_mna_11_03.csv",
+      "source_sha256": "7c84676f318e0fc39de1bf5a7c5a618a2c83066e73e2346f2c497c7db4f1e178"
     },
     "adv_card_mna_52_01": {
       "csv_path": "card/mna/52/adv_card_mna_52_01.csv",
@@ -12372,6 +12580,6 @@
       "source_sha256": "133b6c40d6c451431b775f40418caa82274a234440feb256dcb7c890f5ed5b11"
     }
   },
-  "source_commit": "1b480ac8126c935e80a2368caba62faa0c28fc9b",
+  "source_commit": "000cfc822ae31b75700710a253e133ab52717d7a",
   "source_repository": "DreamGallery/Hoshimi-Adv"
 }
