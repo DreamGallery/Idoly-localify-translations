@@ -11924,8 +11924,8 @@
     "name": "Score类型1人暴击系数提升效果"
   },
   "ef-critical_bonus_permil_up-6-target-character_type-1-2-19": {
-    "name": "2名得分手类型获得暴击系数提升效果",
-    "description": "使2名得分手类型的暴击系数提升6阶段[19拍]"
+    "description": "使2名得分手类型的暴击系数提升6阶段[19拍]",
+    "name": "2名得分手类型获得暴击系数提升效果"
   },
   "ef-critical_bonus_permil_up-6-target-character_type-1-2-23": {
     "description": "使2名得分手类型的暴击系数提升6个阶段[23拍]",
@@ -11944,8 +11944,8 @@
     "name": "2名得分手类型获得暴击系数提升效果"
   },
   "ef-critical_bonus_permil_up-6-target-character_type-1-2-27": {
-    "name": "2名得分手类型获得暴击系数提升效果",
-    "description": "使2名得分手类型的暴击系数提升6阶段[27拍]"
+    "description": "使2名得分手类型的暴击系数提升6阶段[27拍]",
+    "name": "2名得分手类型获得暴击系数提升效果"
   },
   "ef-critical_bonus_permil_up-6-target-character_type-1-2-28": {
     "description": "为2名得分手类型角色提升6阶段暴击系数效果[28拍]",
@@ -20432,8 +20432,8 @@
     "name": "回复1名得分手类型的体力"
   },
   "ef-fix_stamina_recovery-2000-target-character_type-1-2": {
-    "name": "回复2名得分手类型的体力",
-    "description": "恢复2名得分手类型2000点体力"
+    "description": "恢复2名得分手类型2000点体力",
+    "name": "回复2名得分手类型的体力"
   },
   "ef-fix_stamina_recovery-2000-target-self": {
     "description": "恢复自身2000点体力",
@@ -20624,8 +20624,8 @@
     "name": "回复1名得分手类型的体力"
   },
   "ef-fix_stamina_recovery-2800-target-character_type-1-2": {
-    "name": "回复2名得分手类型的体力",
-    "description": "恢复2名得分手类型2800点体力"
+    "description": "恢复2名得分手类型2800点体力",
+    "name": "回复2名得分手类型的体力"
   },
   "ef-fix_stamina_recovery-2800-target-self": {
     "description": "恢复自身2800点体力",
@@ -25100,8 +25100,8 @@
     "name": "获得对象所得分数的一定比例分数"
   },
   "ef-score_get_by_score_ratio-130-target-character_type-1-1": {
-    "name": "获得对象所得分数的一定比例分数",
-    "description": "获得1名得分手类型所获分数的13%分数"
+    "description": "获得1名得分手类型所获分数的13%分数",
+    "name": "获得对象所得分数的一定比例分数"
   },
   "ef-score_get_by_score_ratio-130-target-self": {
     "description": "获得自身得分的13%的得分",
@@ -34551,6 +34551,26 @@
     "description": "[仅限演唱会战斗]使同一赛道的对手增加20级体力消耗效果[45拍]",
     "name": "对同一路线的对手施加体力消耗增加效果"
   },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-27": {
+    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[27拍]",
+    "name": "使对方1名表现类型的体力消耗增加"
+  },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-31": {
+    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[31拍]",
+    "name": "使对方1名表现类型的体力消耗增加"
+  },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-35": {
+    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[35拍]",
+    "name": "使对方1名表现类型的体力消耗增加"
+  },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-39": {
+    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[39拍]",
+    "name": "使对方1名表现类型的体力消耗增加"
+  },
+  "ef-stamina_consumption_increase-20-target-opponent_visual-1-44": {
+    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[44拍]",
+    "name": "使对方1名表现类型的体力消耗增加"
+  },
   "ef-stamina_consumption_increase-20-target-self-110": {
     "description": "使自身增加20级体力消耗效果[110拍]",
     "name": "自身获得体力消耗增加效果"
@@ -40099,6 +40119,14 @@
     "description": "[仅限演唱会战斗]对敌方体力70%以下的5名对象施加6阶段视觉下降效果[36拍]",
     "name": "对对方体力70%以下的5名对象施加视觉下降效果"
   },
+  "ef-visual_down-6-target-opponent_visual-1-15": {
+    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低6个阶段[15拍]",
+    "name": "使对方1名视觉类型角色的视觉降低"
+  },
+  "ef-visual_down-6-target-opponent_visual-1-24": {
+    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低6个阶段[24拍]",
+    "name": "使对方1名视觉类型角色的视觉降低"
+  },
   "ef-visual_down-6-target-opponent_visual-2-25": {
     "description": "[仅限演唱会战斗]对敌方2名视觉类型对象施加6阶段视觉下降效果[25拍]",
     "name": "对敌方2名视觉类型角色造成视觉下降效果"
@@ -40182,6 +40210,14 @@
   "ef-visual_down-7-target-opponent_same_position-50": {
     "description": "[仅限演唱会战斗]对同一赛道的对手造成7阶段视觉下降效果[50节拍]",
     "name": "对同一赛道的对手造成视觉下降效果"
+  },
+  "ef-visual_down-7-target-opponent_visual-1-24": {
+    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低7个阶段[24拍]",
+    "name": "使对方1名视觉类型角色的视觉降低"
+  },
+  "ef-visual_down-7-target-opponent_visual-1-33": {
+    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低7个阶段[33拍]",
+    "name": "使对方1名视觉类型角色的视觉降低"
   },
   "ef-visual_down-7-target-opponent_visual-2-22": {
     "description": "[仅限演唱会战斗]对敌方2名视觉属性角色造成7阶段视觉下降效果[22节拍]",
@@ -40270,6 +40306,14 @@
   "ef-visual_down-8-target-opponent_same_position-36": {
     "description": "[仅限演唱会战斗]对同一站位的对手造成8阶段视觉下降效果[36拍]",
     "name": "对同一赛道的对手造成视觉下降效果"
+  },
+  "ef-visual_down-8-target-opponent_visual-1-33": {
+    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低8个阶段[33拍]",
+    "name": "使对方1名视觉类型角色的视觉降低"
+  },
+  "ef-visual_down-8-target-opponent_visual-1-43": {
+    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低8个阶段[43拍]",
+    "name": "使对方1名视觉类型角色的视觉降低"
   },
   "ef-visual_down-8-target-opponent_visual-2-34": {
     "description": "[仅限演唱会战斗]使对方2名视觉类型角色降低8级视觉效果[34拍]",
@@ -47018,49 +47062,5 @@
   "ef-weakness_effect_reflection-1-target-self-43": {
     "description": "自身获得减益效果反射[43节拍]",
     "name": "自身获得下降效果反射"
-  },
-  "ef-stamina_consumption_increase-20-target-opponent_visual-1-27": {
-    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[27拍]",
-    "name": "使对方1名表现类型的体力消耗增加"
-  },
-  "ef-stamina_consumption_increase-20-target-opponent_visual-1-31": {
-    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[31拍]",
-    "name": "使对方1名表现类型的体力消耗增加"
-  },
-  "ef-stamina_consumption_increase-20-target-opponent_visual-1-35": {
-    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[35拍]",
-    "name": "使对方1名表现类型的体力消耗增加"
-  },
-  "ef-stamina_consumption_increase-20-target-opponent_visual-1-39": {
-    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[39拍]",
-    "name": "使对方1名表现类型的体力消耗增加"
-  },
-  "ef-stamina_consumption_increase-20-target-opponent_visual-1-44": {
-    "description": "[仅限演唱会战斗]使对方1名表现类型的体力消耗增加20阶段[44拍]",
-    "name": "使对方1名表现类型的体力消耗增加"
-  },
-  "ef-visual_down-6-target-opponent_visual-1-15": {
-    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低6个阶段[15拍]",
-    "name": "使对方1名视觉类型角色的视觉降低"
-  },
-  "ef-visual_down-6-target-opponent_visual-1-24": {
-    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低6个阶段[24拍]",
-    "name": "使对方1名视觉类型角色的视觉降低"
-  },
-  "ef-visual_down-7-target-opponent_visual-1-24": {
-    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低7个阶段[24拍]",
-    "name": "使对方1名视觉类型角色的视觉降低"
-  },
-  "ef-visual_down-7-target-opponent_visual-1-33": {
-    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低7个阶段[33拍]",
-    "name": "使对方1名视觉类型角色的视觉降低"
-  },
-  "ef-visual_down-8-target-opponent_visual-1-33": {
-    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低8个阶段[33拍]",
-    "name": "使对方1名视觉类型角色的视觉降低"
-  },
-  "ef-visual_down-8-target-opponent_visual-1-43": {
-    "description": "[仅限演唱会战斗]使对方1名视觉类型角色的视觉降低8个阶段[43拍]",
-    "name": "使对方1名视觉类型角色的视觉降低"
   }
 }

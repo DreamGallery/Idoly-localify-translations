@@ -40364,6 +40364,9 @@
   "cd-photo-shooting-mv-020-unlock": {
     "description": "通关主线演唱会#7"
   },
+  "cd-photo_expression_shooting-2026-11-open-01": {
+    "description": "拍摄解锁"
+  },
   "cd-photo_expression_shooting-26-0310": {
     "description": "追加拍摄"
   },
@@ -60107,6 +60110,9 @@
   "cd-time-banner-dream-23-0329": {
     "description": "仅限既有用户且未抽过卡（横幅用）"
   },
+  "cd-time-banner-friend-close": {
+    "description": "邀请横幅显示条件"
+  },
   "cd-time-banner-goods-26-0810": {
     "description": "期间：5周年周边订购"
   },
@@ -75845,6 +75851,18 @@
   "cd-time-music-hsm-017-26-0831-showcase-music": {
     "description": "开始：MELODIES乐曲"
   },
+  "cd-time-music-hsm-018-26-1115": {
+    "description": "开始：Baton of Radiance乐曲"
+  },
+  "cd-time-music-hsm-018-26-1115-close": {
+    "description": "期间：Baton of Radiance乐曲"
+  },
+  "cd-time-music-hsm-018-26-1115-close-shoot": {
+    "description": "开始：Baton of Radiance乐曲"
+  },
+  "cd-time-music-hsm-018-26-1115-showcase-music": {
+    "description": "开始：Baton of Radiance乐曲"
+  },
   "cd-time-music-liz-003-23-0927": {
     "description": "开始：GIRI-GIRI borderless world乐曲"
   },
@@ -79699,23 +79717,5 @@
   },
   "ms-limited-login-ex-tower-005-sp-26-0503-003-login": {
     "description": "三丽鸥角色联动举办纪念EX塔003对象"
-  },
-  "cd-photo_expression_shooting-2026-11-open-01": {
-    "description": "拍摄解锁"
-  },
-  "cd-time-banner-friend-close": {
-    "description": "邀请横幅显示条件"
-  },
-  "cd-time-music-hsm-018-26-1115": {
-    "description": "开始：Baton of Radiance乐曲"
-  },
-  "cd-time-music-hsm-018-26-1115-close": {
-    "description": "期间：Baton of Radiance乐曲"
-  },
-  "cd-time-music-hsm-018-26-1115-close-shoot": {
-    "description": "开始：Baton of Radiance乐曲"
-  },
-  "cd-time-music-hsm-018-26-1115-showcase-music": {
-    "description": "开始：Baton of Radiance乐曲"
   }
 }

@@ -1658,6 +1658,18 @@
     "managerText": "嘛，大概很难吧",
     "title": "光辉相连的生日"
   },
+  "bk1:[[\"homeTalkId\",\"home-talk-card-mna-05-casl-04-talk-01\"]]": {
+    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-01\"}].text": "{user}\n今年一月你看起来\n特别忙吧？",
+    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-02\"}].text": "星期天还穿着制服跑来我家喊\n“要迟到了哦”，\n连星期几都搞不清了。",
+    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-03\"}].text": "你为我努力我很开心，\n但希望你能多\n珍惜自己一点。",
+    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-04\"}].text": "因为希望{user}\n今后也能长久地\n陪在我身边。",
+    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-05\"}].text": "天才偶像长濑麻奈的\n经纪人竟然比我先\n从演艺圈引退……",
+    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-06\"}].text": "绝对不会原谅你的！\n要是超过100岁还能继续当偶像\n就好了～什么的。",
+    "choiceText": "有什么担心的事吗？",
+    "displayConditionDescription": "在星之海相连的假日 长濑麻奈\n观看剧情第3话",
+    "managerText": "有什么担心的事吗？",
+    "title": "在星之海相连的假日"
+  },
   "bk1:[[\"homeTalkId\",\"home-talk-card-mna-05-fest-00-talk-01\"]]": {
     "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-fest-00_talk-01-01\"}].text": "我顺路去了车站前的咖喱店，\n吃光了一份大份的。\n配料是汉堡排。",
     "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-fest-00_talk-01-02\"}].text": "就是暴饮暴食啦，暴饮暴食。",
@@ -6419,17 +6431,5 @@
     "displayConditionDescription": "优：达到特定信赖度⑥",
     "managerText": "是啊。而且实力也跟得上。\n不过，优也很有魅力哦？",
     "title": "信赖度⑥"
-  },
-  "bk1:[[\"homeTalkId\",\"home-talk-card-mna-05-casl-04-talk-01\"]]": {
-    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-01\"}].text": "{user}\n今年一月你看起来\n特别忙吧？",
-    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-02\"}].text": "星期天还穿着制服跑来我家喊\n“要迟到了哦”，\n连星期几都搞不清了。",
-    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-03\"}].text": "你为我努力我很开心，\n但希望你能多\n珍惜自己一点。",
-    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-04\"}].text": "因为希望{user}\n今后也能长久地\n陪在我身边。",
-    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-05\"}].text": "天才偶像长濑麻奈的\n经纪人竟然比我先\n从演艺圈引退……",
-    "characterTalks[key={\"voiceAssetId\":\"sud_vo_home_mna-05-casl-04_talk-01-06\"}].text": "绝对不会原谅你的！\n要是超过100岁还能继续当偶像\n就好了～什么的。",
-    "choiceText": "有什么担心的事吗？",
-    "displayConditionDescription": "在星之海相连的假日 长濑麻奈\n观看剧情第3话",
-    "managerText": "有什么担心的事吗？",
-    "title": "在星之海相连的假日"
   }
 }

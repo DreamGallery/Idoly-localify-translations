@@ -1080,6 +1080,11 @@
     "name": "追寻轨迹的生日",
     "obtainMessage": "唯独这一天，\n你要好好\n想起我哦"
   },
+  "card-mna-05-casl-04": {
+    "description": "请务必保重身体，今后也一直\n多多关照长濑麻奈和星见Production的偶像们哦！",
+    "name": "在星之海相连的假日",
+    "obtainMessage": "……呐，可以牵手吗？"
+  },
   "card-mna-05-fest-00": {
     "description": "今天，希望你能握住我的手\n就像上次鬼屋时那样，紧紧地",
     "name": "只是，牵着手",
@@ -2386,10 +2391,5 @@
     "description": "派对玩得很开心哦～\n今天真的非常感谢\n从经纪人那里收到了最棒的圣诞礼物呢",
     "name": "我们的平安夜",
     "obtainMessage": "TRINITYAiLE三人正玩得开心呢～"
-  },
-  "card-mna-05-casl-04": {
-    "description": "请务必保重身体，今后也一直\n多多关照长濑麻奈和星见Production的偶像们哦！",
-    "name": "在星之海相连的假日",
-    "obtainMessage": "……呐，可以牵手吗？"
   }
 }
