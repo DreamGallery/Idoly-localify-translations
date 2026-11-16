@@ -1029,6 +1029,11 @@
     "howToGet": "事務所ランクLv.60達成",
     "name": "交流ストーリーEpisode8"
   },
+  "item-enjoy-story-bond-009": {
+    "description": "交流ストーリーEpisode9",
+    "howToGet": "事務所ランクLv.65達成",
+    "name": "交流ストーリーEpisode9"
+  },
   "item-exchange-2nd-anniversary-medal-23-0528": {
     "description": "2周年記念メダル交換所で様々なアイテムと交換できる\n交換所終了後はコインに変換されます",
     "howToGet": "ガチャ、ショップなど",

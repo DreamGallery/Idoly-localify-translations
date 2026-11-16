@@ -1029,6 +1029,11 @@
     "howToGet": "事务所等级Lv.60达成",
     "name": "交流剧情Episode8"
   },
+  "item-enjoy-story-bond-009": {
+    "description": "交流剧情Episode9",
+    "howToGet": "达成事务所等级Lv.65",
+    "name": "交流剧情Episode9"
+  },
   "item-exchange-2nd-anniversary-medal-23-0528": {
     "description": "可在2周年纪念奖牌兑换所兑换各种道具\n兑换所结束后将转换为代币",
     "howToGet": "扭蛋、商店等",

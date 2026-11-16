@@ -1,10 +1,12 @@
 {
   "assets": {
+    "bond-stories.json": "f3b0c44ecae36c68b21ece4bd98cde20266a0a6dc0703bc382c92ed277191442",
     "card-stories.json": "afa19d375eb35534216fd7123087c8a374cf1b11aef95299116bb8ea3d0bb86e",
     "event-stories.json": "530b9a73b53abe1fe703c8ac2c80ce50a33dae82a64f16065a3e3024d2ed7ed7",
+    "idoly-localify-0.7.1.apk": "7160c2a944ef1bcc049ad700fbf8009f6a70f58f016fe37e13fc7a4d42a93f9e",
     "love-stories.json": "a837a0aba7146b79d5d39b489aba4716af862916ce47b5b8c854fa4eb7c0ae15",
-    "manifest.json": "33eda7c929dea514cfa57701d3f258d91c1df9d01c8d0db25688367df95a7c11",
-    "text-update.zip": "96e7e89e842aced97810e65cb5faae3f838cb20a72f43b822fe07b607b6e6252"
+    "manifest.json": "902902cc8f0be216d51fc441776d3cd613e5be116d95129bf1b8e08743df6235",
+    "text-update.zip": "7b9500ebab9935b751971e994cb988eb1e2f15c9821cb31883c8646643017c18"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -3505,12 +3507,12 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "896fea3fbe774b214b92e97c980ba02270ff81e026f04fad75ce37086e27eb6a"
   },
-  "content_version": "87747fd08edd4571",
+  "content_version": "c1035527d2722805",
   "cutoff": "90df379000d9349864ab4bee8c4710db644f3701",
-  "main_parent": "eceb5930ada77f65d318911905af5f2b528558c8",
-  "plugin_asset": null,
-  "plugin_commit": "cc90b2211870638c4dbd3642f435cfe8b653199d",
-  "plugin_version": "0.7.0",
+  "main_parent": "6e92cc4bb9db0018fd399fea2b37c815eb53608d",
+  "plugin_asset": "idoly-localify-0.7.1.apk",
+  "plugin_commit": "6f7e3cecdf3c4b168f032c9b0b8119e2d5587037",
+  "plugin_version": "0.7.1",
   "published_data": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
     "glossary/term-aliases.json": "ac2c3544502f1dc034e536fe6b8a249cd5b6d34bff0410190daae46ab92b8981",
@@ -3533,7 +3535,7 @@
     "master/orig/CharacterGroup.json": "20129371196748319f845c9fabc20eabfbcea8a57cb2bd66a450a4695d276225",
     "master/orig/CompanyEnjoyHomeAction.json": "e7509e6d2de5f7234273562bbe59af0e7221400e0697e862f2dca6ebb2be2ab9",
     "master/orig/CompanyPoint.json": "c4dfeb812c598036a772bebe156b7de5fafb059012d93875abed22cbede6ab7a",
-    "master/orig/ConditionDescription.json": "a996fb14fe12256b0bbb92f8464589b3c5d481994481fd3c101b3be9cb355e02",
+    "master/orig/ConditionDescription.json": "284c284dbca63fdededc3e62845c6e40477270569810cdcdbbb5b0261e9b593a",
     "master/orig/Costume.json": "21d41dd97f365646b096dcc7b80081403cedff6bc71822ef9286c11cdb57b0a3",
     "master/orig/CostumeType.json": "f2247bac33bffc8578d4456ff9ab9dd455722fda3736d37bb0463a6909fbf903",
     "master/orig/Decoration.json": "7436ca065aa21dd7e0f2b19535ec7500ac10d1ffd6bcf998f4a92edd751eb96c",
@@ -3560,7 +3562,7 @@
     "master/orig/HomeDramaPosition.json": "e1812f593471681ebbb775113bcc5bffe575ff581ebc641b03a9af2f5a0360e4",
     "master/orig/HomeTalk.json": "e00f602291b427d06e4cd65805191cd32a4402962c1cb88939740bf2ebb82c83",
     "master/orig/HomeTalkCallPattern.json": "53610e042829c4f225b2427019ef3000fa7649e75c8cea6ff5d960c7803953bb",
-    "master/orig/Item.json": "9a5aadf27525cb2c524b25f6d58719ea28d65ee85fbf41356f96e031554312da",
+    "master/orig/Item.json": "6c13f87b72339d392231c2f04da329e64103b584dd6c4a1bba74b2e52fadcb04",
     "master/orig/LiveAbility.json": "63cb449719ef757b099b2f48e1842fb5c9cad80273df79b0cf54628d3781b3a7",
     "master/orig/LiveBonus.json": "554b7879086b882697eabc6afccb862353aa76b44885f991bb80bb4f5d4566c3",
     "master/orig/LiveTip.json": "c9acc2d5c78aa60fb8b613f06ccb2c45ea5389df2fd3d6b9a1298973819f7d92",
@@ -3603,7 +3605,7 @@
     "master/orig/StaffTraining.json": "db17c86483a0b80fbfc70f9c38ba6ec87201e1f4878978c2272034737514c8ee",
     "master/orig/Stage.json": "5eece5736ec2d76cf87e2b86fb07a2fb568a2cbac07ff2021e10a372720e29de",
     "master/orig/StatusEffectName.json": "7d936a554a9241c780ed980b7cd53941742fad42b49595924fcfe25b0b04568a",
-    "master/orig/Story.json": "f4cd44d22a69001998cef2636882b7b2f23259295e259770b7c9be53669c3a9c",
+    "master/orig/Story.json": "cf1bb54d69e781a51458ee2988b72102c142e678f56d0c7fb60d78c0ff3ed8c5",
     "master/orig/StoryPart.json": "5834669c544ccfd7fd3fb967af597cf0bdef57eefc6618c4a6d9c1d0ebeedd81",
     "master/orig/Telephone.json": "da1466f247a9dab1299a872f2eaff8155dbd8a75cd242236fffbd5eb58775d4a",
     "master/orig/Tutorial.json": "bed05a049751acb5d4bb03c9359ac92afd80d399b44c7c7d61c2d87af917a4e6",
@@ -3626,7 +3628,7 @@
     "master/zh-Hans/CharacterGroup.json": "89f6d88259ba14fef77b8dec956d85432826f90df4e12e9667609a62a85ddd17",
     "master/zh-Hans/CompanyEnjoyHomeAction.json": "2dcd75e1f6e452bd76040b95dd2f18f827534683b08dfe4c1f2c7059c616d535",
     "master/zh-Hans/CompanyPoint.json": "3692becd4dfdd16f4d97982c26d6f0d2f1eef24f4aea204d1860403f96200407",
-    "master/zh-Hans/ConditionDescription.json": "26df3787a63771f23b71d9e6a8889826dca230d878c28886d69d6fc337111323",
+    "master/zh-Hans/ConditionDescription.json": "34f0b8cec037e2b3dde86b9f28d7b70c1a3e63f47e1acdd8b2820953cd0a7933",
     "master/zh-Hans/Costume.json": "f4d3fdfea76313436051e6c3b00851fdae2a5c96a016680eb7652b043d81ff91",
     "master/zh-Hans/CostumeType.json": "2cec87b1ec2196ec718cb1ce3415b3708d16732058d5d3c2b127cf195e4b9736",
     "master/zh-Hans/Decoration.json": "e13c9b87692bb5c7542ef425c614f9ce000c03bba26f191f991f456c43d3cb3c",
@@ -3653,7 +3655,7 @@
     "master/zh-Hans/HomeDramaPosition.json": "a2efc425aeba8eca03dcfe4c97f024d6cfd648fc8147c311aafe245e06fd2330",
     "master/zh-Hans/HomeTalk.json": "7878e922bf8bb68de925e718b3af5ec0a2086d10e4e029230c802e6322e04d46",
     "master/zh-Hans/HomeTalkCallPattern.json": "b2e116e20d4ee0d09194da6c4287653c9d18ffabef23964a744925072966a6d2",
-    "master/zh-Hans/Item.json": "3c49e2b6463be29558f8fcd204819cf2861b442c8e92fde0791a40543f689a9a",
+    "master/zh-Hans/Item.json": "2e509acdef598f578c3d4c22cd018a3667d5f57b4c06d57b1ed5b27fa4380adb",
     "master/zh-Hans/LiveAbility.json": "8227f9d44d186ab5b94e15e8a7f12f36d74cd2102cfc6af6251b1e038b7b17ee",
     "master/zh-Hans/LiveBonus.json": "ad53680d05f9c38096728879cc690d47111a12c5e44c1387aa64e952a326b815",
     "master/zh-Hans/LiveTip.json": "c79cbe1650e2620bf579e3a0c3433aacc945a1500975b6949b49b11fd6537600",
@@ -3696,7 +3698,7 @@
     "master/zh-Hans/StaffTraining.json": "a628fcf3e9b15d23287e57ad339d8e1e5689baed5308527360369c3c6747fac7",
     "master/zh-Hans/Stage.json": "cba19c0a3c05fea77f4bbb7a1f49ceb029c7bea77a6757c7806d58b689a23c9a",
     "master/zh-Hans/StatusEffectName.json": "c671564218505943cab88342c6f10fd421af364d67edcbf0973eae19c94326aa",
-    "master/zh-Hans/Story.json": "d60f47dc394c54282b923ed87e0c8cf9e95dbe83ec29698f0ab15219f7b174d4",
+    "master/zh-Hans/Story.json": "e6adf9d7614497eedf6e75636fc3cd2a27ebee7da2e3505fe6fef26116cb95ef",
     "master/zh-Hans/StoryPart.json": "7a1c4cdddddfaf2b0b741e08fa3b64e5c317154035c1757fab7ccf06b21652b8",
     "master/zh-Hans/Telephone.json": "b1e8f768579a9ccbeffbf772405e4044e72ee44c9d716bfe61c15fe911fea5ba",
     "master/zh-Hans/Tutorial.json": "8257c48b1522068271d5e1f059dd8df8127a74e3239af0879f7861070c5b5825",
@@ -3766,7 +3768,7 @@
     "records/adv_main_04_15_04.json": "b62f8347fb54a42ecb1186e3db6df2fa091c80d9b6ff913215894e90fb2c1eaf",
     "records/adv_main_04_15_05.json": "771879a5f103f4af65c574d353e10345beb4f8b1be06662cdc2f83d698e8d047",
     "records/adv_main_04_15_06.json": "0c90efde58680a3cef2a3b555321e2d74264686347f1126db5e541203bfa73c1",
-    "story-metadata/catalog.json": "790f867a0d67f34959362b57aff09290f0e3cca99285ac95da1b39786d85bb29",
+    "story-metadata/catalog.json": "de0d0b0c51e3c62d8eba934166f4d724ebee97ed7bb6b20b99b3ccca32347917",
     "story-metadata/love-group-names.json": "e7ed7270c3536db820f3b0fedef5700aafbccb60155e0fe82b4301a10aa92e10",
     "story-metadata/overrides.json": "9a1fbb54c96579e0647091887d30c3497a67009feb0232cb24d8eae32654206c",
     "story/ai/bond/ai/adv_bond_ai_01_01.csv": "91bac82762dff559a219ff1e0f1060aa40a3a8e0d5a4824217da4fa8eeebb9ed",
@@ -7010,8 +7012,8 @@
     "ui/source.json": "eae988377558c6cd90c6c6f683f21feb6a27d0578c4f60451e8125ddd09ef033",
     "ui/variants-source.json": "7cc8f9bfe0b4e36707e63c838b548e82603e33f539dc4599ca45129271ab67f7",
     "ui/zh-Hans.json": "ece3a1fcb8dfa123b0344bf574004365fa9221f474358a53f78e1ac6fb0858e8",
-    "upstream.json": "af9fb64367f9313181430b153c704322ba5bae3a1ca6c1d9b10d1566a2827521"
+    "upstream.json": "57963ae20766d65dbd2a49f2d6f5206e20f1d7b0600ae373a4f068e37405c09c"
   },
   "schema_version": 1,
-  "text_version": "3545434d3954f058"
+  "text_version": "160e968eaafd88e7"
 }

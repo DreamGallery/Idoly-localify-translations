@@ -4018,6 +4018,9 @@
   "st-company-bond-ai-01-08": {
     "name": "中粗面\n在等着\n我们！"
   },
+  "st-company-bond-ai-01-09": {
+    "name": "在人生\n正中央\n抓住的梦想"
+  },
   "st-company-bond-aoi-01-01": {
     "name": "肌肉\n对吧？"
   },
@@ -4041,6 +4044,9 @@
   },
   "st-company-bond-aoi-01-08": {
     "name": "不舔冰淇淋的盖子"
+  },
+  "st-company-bond-aoi-01-09": {
+    "name": "我最喜欢的\n东西"
   },
   "st-company-bond-chs-01-01": {
     "name": "要不要再多喝点\n牛奶呢"
@@ -4066,6 +4072,9 @@
   "st-company-bond-chs-01-08": {
     "name": "加油，\n白石千纱！"
   },
+  "st-company-bond-chs-01-09": {
+    "name": "日积月累的\n自信"
+  },
   "st-company-bond-hrk-01-01": {
     "name": "遥子\n好为难！"
   },
@@ -4089,6 +4098,9 @@
   },
   "st-company-bond-hrk-01-08": {
     "name": "我是不是\n变胖了……？"
+  },
+  "st-company-bond-hrk-01-09": {
+    "name": "值得托付\n心意的姐姐"
   },
   "st-company-bond-kan-01-01": {
     "name": "不用的话\n不就亏了嘛"
@@ -4138,6 +4150,9 @@
   "st-company-bond-kkr-01-08": {
     "name": "请开开门啊——！"
   },
+  "st-company-bond-kkr-01-09": {
+    "name": "赤崎心的\n骄傲"
+  },
   "st-company-bond-kor-01-01": {
     "name": "为什么\n会知道我的本名"
   },
@@ -4186,6 +4201,9 @@
   "st-company-bond-ktn-01-08": {
     "name": "明明\n想让你\n看星星"
   },
+  "st-company-bond-ktn-01-09": {
+    "name": "找到的梦想"
+  },
   "st-company-bond-mei-01-01": {
     "name": "炸鸡"
   },
@@ -4209,6 +4227,9 @@
   },
   "st-company-bond-mei-01-08": {
     "name": "可能是约会？"
+  },
+  "st-company-bond-mei-01-09": {
+    "name": "想要传达的\n快乐"
   },
   "st-company-bond-mhk-01-01": {
     "name": "坏家伙们的\n毛病"
@@ -4258,6 +4279,9 @@
   "st-company-bond-ngs-01-08": {
     "name": "那可是我的憧憬啊！"
   },
+  "st-company-bond-ngs-01-09": {
+    "name": "前进的前方\n有未来"
+  },
   "st-company-bond-rei-01-01": {
     "name": "一之濑怜，\n完全复活！"
   },
@@ -4281,6 +4305,9 @@
   },
   "st-company-bond-rei-01-08": {
     "name": "城堡\n闪～亮～"
+  },
+  "st-company-bond-rei-01-09": {
+    "name": "在高台上传达\n感谢"
   },
   "st-company-bond-rio-01-01": {
     "name": "出道前的\n不久"
@@ -4306,6 +4333,9 @@
   "st-company-bond-rio-01-08": {
     "name": "上面可以吗……？"
   },
+  "st-company-bond-rio-01-09": {
+    "name": "成为你\n『最后的\n偶像』"
+  },
   "st-company-bond-rui-01-01": {
     "name": "真想找个\n地洞钻进去"
   },
@@ -4329,6 +4359,9 @@
   },
   "st-company-bond-rui-01-08": {
     "name": "明明应该\n没什么\n亏心事"
+  },
+  "st-company-bond-rui-01-09": {
+    "name": "坦率的\n告白"
   },
   "st-company-bond-ski-01-01": {
     "name": "全校集会"
@@ -4354,6 +4387,9 @@
   "st-company-bond-ski-01-08": {
     "name": "My墨水\n哦"
   },
+  "st-company-bond-ski-01-09": {
+    "name": "以只属于\n自己的光芒"
+  },
   "st-company-bond-skr-01-01": {
     "name": "快\n快点～！！"
   },
@@ -4377,6 +4413,9 @@
   },
   "st-company-bond-skr-01-08": {
     "name": "吓\n了一跳，\n对吧？"
+  },
+  "st-company-bond-skr-01-09": {
+    "name": "全新梦想的\n故事"
   },
   "st-company-bond-smr-01-01": {
     "name": "揉揉捏捏，\n搓搓揉揉，\n拉长～"
@@ -4402,6 +4441,9 @@
   "st-company-bond-smr-01-08": {
     "name": "我的\n哥哥\n是……！"
   },
+  "st-company-bond-smr-01-09": {
+    "name": "一直一直\n最喜欢你！"
+  },
   "st-company-bond-suz-01-01": {
     "name": "我的姐姐大人"
   },
@@ -4425,6 +4467,9 @@
   },
   "st-company-bond-suz-01-08": {
     "name": "最爱麻奈大人串烧"
+  },
+  "st-company-bond-suz-01-09": {
+    "name": "即使岁月\n流逝"
   },
   "st-company-bond-szk-01-01": {
     "name": "连小樱的\n幻听都有"
@@ -4450,6 +4495,9 @@
   "st-company-bond-szk-01-08": {
     "name": "耶，\n肌肉——！"
   },
+  "st-company-bond-szk-01-09": {
+    "name": "微笑被\n『光之波』\n所环绕"
+  },
   "st-company-bond-yu-01-01": {
     "name": "变回\n原来的\n瑠依酱"
   },
@@ -4470,6 +4518,9 @@
   },
   "st-company-bond-yu-01-07": {
     "name": "可别小看我的观察力"
+  },
+  "st-company-bond-yu-01-09": {
+    "name": "精心策划的\n『偶然』"
   },
   "st-eve-2107-tour-001": {
     "description": "优来到正在练习的SUNNY PEACE处，众人因野外演唱会的话题聊得热火朝天。这时樱出现，带来了SUNNY PEACE将出演在冲绳举办的演唱会活动的消息。",
