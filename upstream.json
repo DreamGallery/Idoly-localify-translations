@@ -1,8 +1,8 @@
 {
   "game": "IDOLY PRIDE",
   "master": {
-    "master_tag_version": "6b77e0d8a64b26d5bebd09a7c19a47f2dfad2af914c5160418aa2e7292e13a11",
-    "orig_snapshot_sha256": "44418a68a71f47e0e2e7bc014bf1867109b243d6d2f3d65b3b583776b040b5d8",
+    "master_tag_version": "4f82eaf8407e24e79db25dd0026e165898a9fc10542316bd6ee1723beb9dc914",
+    "orig_snapshot_sha256": "e5f172def0381045e91088b152f92493e3da0dc5e143f1f7eb3550193ab42de0",
     "text_tables": 90
   },
   "schema_version": 1,

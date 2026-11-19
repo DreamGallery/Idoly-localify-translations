@@ -62000,6 +62000,9 @@
   "cd-time-exchange-gacha_point-26-1101-1130": {
     "description": "期间设定_兑换所11月"
   },
+  "cd-time-exchange-gacha_point-26-1201-close": {
+    "description": "期间设定_兑换所11月"
+  },
   "cd-time-exchange-idle_medal-21-0624-0731": {
     "description": "期间设定_兑换所6-7月"
   },
@@ -62195,6 +62198,9 @@
   "cd-time-exchange-idle_medal-26-1101-1130": {
     "description": "期间设定_兑换所11月"
   },
+  "cd-time-exchange-idle_medal-26-1201-close": {
+    "description": "期间设定_兑换所11月"
+  },
   "cd-time-exchange-idol_medal-21-0630-0831": {
     "description": "泳装服装交换期间"
   },
@@ -62343,6 +62349,9 @@
     "description": "期间设定_兑换所10月"
   },
   "cd-time-exchange-league_medal-26-1101-1130": {
+    "description": "期间设定_兑换所11月"
+  },
+  "cd-time-exchange-league_medal-26-1201-close": {
     "description": "期间设定_兑换所11月"
   },
   "cd-time-exchange-limit-cos": {
@@ -62601,6 +62610,9 @@
     "description": "期间设定_兑换所10月"
   },
   "cd-time-exchange-pvp_medal-26-1101-1130": {
+    "description": "期间设定_兑换所11月"
+  },
+  "cd-time-exchange-pvp_medal-26-1201-close": {
     "description": "期间设定_兑换所11月"
   },
   "cd-time-exchange-situation-illust-23-0624": {
@@ -79777,5 +79789,8 @@
   },
   "ms-limited-login-ex-tower-005-sp-26-0503-003-login": {
     "description": "三丽鸥角色联动举办纪念EX塔003对象"
+  },
+  "cd-time-exchange-26-1201-close": {
+    "description": "兑换所关闭"
   }
 }

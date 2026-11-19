@@ -61805,6 +61805,9 @@
   "cd-time-event_xmas-21-1211_s-banner": {
     "description": "クリスマスミッション"
   },
+  "cd-time-exchange-26-1201-close": {
+    "description": "交換所クローズ"
+  },
   "cd-time-exchange-gacha_point-21-0624-0731": {
     "description": "期間設定_交換所6-7月"
   },
@@ -61998,6 +62001,9 @@
     "description": "期間設定_交換所10月"
   },
   "cd-time-exchange-gacha_point-26-1101-1130": {
+    "description": "期間設定_交換所11月"
+  },
+  "cd-time-exchange-gacha_point-26-1201-close": {
     "description": "期間設定_交換所11月"
   },
   "cd-time-exchange-idle_medal-21-0624-0731": {
@@ -62195,6 +62201,9 @@
   "cd-time-exchange-idle_medal-26-1101-1130": {
     "description": "期間設定_交換所11月"
   },
+  "cd-time-exchange-idle_medal-26-1201-close": {
+    "description": "期間設定_交換所11月"
+  },
   "cd-time-exchange-idol_medal-21-0630-0831": {
     "description": "水着衣装交換期間"
   },
@@ -62343,6 +62352,9 @@
     "description": "期間設定_交換所10月"
   },
   "cd-time-exchange-league_medal-26-1101-1130": {
+    "description": "期間設定_交換所11月"
+  },
+  "cd-time-exchange-league_medal-26-1201-close": {
     "description": "期間設定_交換所11月"
   },
   "cd-time-exchange-limit-cos": {
@@ -62601,6 +62613,9 @@
     "description": "期間設定_交換所10月"
   },
   "cd-time-exchange-pvp_medal-26-1101-1130": {
+    "description": "期間設定_交換所11月"
+  },
+  "cd-time-exchange-pvp_medal-26-1201-close": {
     "description": "期間設定_交換所11月"
   },
   "cd-time-exchange-situation-illust-23-0624": {
