@@ -4,7 +4,7 @@
     "card-stories.json": "afa19d375eb35534216fd7123087c8a374cf1b11aef95299116bb8ea3d0bb86e",
     "event-stories.json": "530b9a73b53abe1fe703c8ac2c80ce50a33dae82a64f16065a3e3024d2ed7ed7",
     "love-stories.json": "a837a0aba7146b79d5d39b489aba4716af862916ce47b5b8c854fa4eb7c0ae15",
-    "manifest.json": "1e7758b9cc17a1e71026ea30bb1ea00bc0e6f713ef151d0a34036693a8d46967",
+    "manifest.json": "673218bb1731a5faf9e2f949f21debe8589cb9a8caf6e96fbeb7f52c4c01643a",
     "text-update.zip": "054c44766f7e60a3564263f4c00d8b432b746dbfab69129c9fff7fd7a254fe81"
   },
   "collaboration_baseline": {
@@ -3508,7 +3508,7 @@
   },
   "content_version": "68461bd5e8901221",
   "cutoff": "90df379000d9349864ab4bee8c4710db644f3701",
-  "main_parent": "1fbf3a584e6f27b76674591f5913611deff0ce4c",
+  "main_parent": "96f225c9cf750dcd3cbf625a5ed4817ee7310f7c",
   "plugin_asset": null,
   "plugin_commit": "6f7e3cecdf3c4b168f032c9b0b8119e2d5587037",
   "plugin_version": "0.7.1",
@@ -3627,7 +3627,7 @@
     "master/zh-Hans/CharacterGroup.json": "89f6d88259ba14fef77b8dec956d85432826f90df4e12e9667609a62a85ddd17",
     "master/zh-Hans/CompanyEnjoyHomeAction.json": "2dcd75e1f6e452bd76040b95dd2f18f827534683b08dfe4c1f2c7059c616d535",
     "master/zh-Hans/CompanyPoint.json": "3692becd4dfdd16f4d97982c26d6f0d2f1eef24f4aea204d1860403f96200407",
-    "master/zh-Hans/ConditionDescription.json": "4a3a6f4a4f059b3e9ed8aeb0e831bb999b78df8f3dcccd15e5aa1b21abb4482d",
+    "master/zh-Hans/ConditionDescription.json": "8d41358ec18d18bb4b913423c8bf7348fb6da534b231449751b75310769e7720",
     "master/zh-Hans/Costume.json": "f4d3fdfea76313436051e6c3b00851fdae2a5c96a016680eb7652b043d81ff91",
     "master/zh-Hans/CostumeType.json": "2cec87b1ec2196ec718cb1ce3415b3708d16732058d5d3c2b127cf195e4b9736",
     "master/zh-Hans/Decoration.json": "e13c9b87692bb5c7542ef425c614f9ce000c03bba26f191f991f456c43d3cb3c",
@@ -7014,5 +7014,5 @@
     "upstream.json": "88c332b07de5daab23cafe1fe011ae0fe9189c06d4758d839fca733526a408db"
   },
   "schema_version": 1,
-  "text_version": "9ffaa73b0016ce63"
+  "text_version": "298118ad602fed24"
 }

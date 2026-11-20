@@ -61805,6 +61805,9 @@
   "cd-time-event_xmas-21-1211_s-banner": {
     "description": "圣诞节任务"
   },
+  "cd-time-exchange-26-1201-close": {
+    "description": "兑换所关闭"
+  },
   "cd-time-exchange-gacha_point-21-0624-0731": {
     "description": "期间设定_兑换所6-7月"
   },
@@ -79789,8 +79792,5 @@
   },
   "ms-limited-login-ex-tower-005-sp-26-0503-003-login": {
     "description": "三丽鸥角色联动举办纪念EX塔003对象"
-  },
-  "cd-time-exchange-26-1201-close": {
-    "description": "兑换所关闭"
   }
 }
