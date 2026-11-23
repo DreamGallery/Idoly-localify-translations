@@ -1,5 +1,21 @@
 {
-  "pending_tasks": {},
+  "pending_tasks": {
+    "adv_card_mei_11_01": {
+      "csv_path": "card/mei/11/adv_card_mei_11_01.csv",
+      "source_changed": false,
+      "source_sha256": "10d33c5279a02748fdfa8f09a2eccf1190217127e2b365f0ce0f1f4d483fe6f4"
+    },
+    "adv_card_mei_11_02": {
+      "csv_path": "card/mei/11/adv_card_mei_11_02.csv",
+      "source_changed": false,
+      "source_sha256": "8ede8d1b111609df1fffee5ea690a7e03203e495f848f55bea6a9a8095ec76c8"
+    },
+    "adv_card_mei_11_03": {
+      "csv_path": "card/mei/11/adv_card_mei_11_03.csv",
+      "source_changed": false,
+      "source_sha256": "df30f0f18a1a4048ac7a84fdfb660b7d5ea2daaccd12bb824cf62b70e18a8c41"
+    }
+  },
   "resource_revision": 1097,
   "schema_version": 1,
   "scripts": {
