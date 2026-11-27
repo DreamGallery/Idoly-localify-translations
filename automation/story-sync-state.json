@@ -1,21 +1,5 @@
 {
-  "pending_tasks": {
-    "adv_card_mei_12_01": {
-      "csv_path": "card/mei/12/adv_card_mei_12_01.csv",
-      "source_changed": false,
-      "source_sha256": "12dc5eeac03880bb4e33499351cda1f3ace3edacc36eb85b94a16056599da1c6"
-    },
-    "adv_card_mei_12_02": {
-      "csv_path": "card/mei/12/adv_card_mei_12_02.csv",
-      "source_changed": false,
-      "source_sha256": "7cb7409de1728c8811eb3fe3898a541d8d2e26e249aed4034da930fefb63bd83"
-    },
-    "adv_card_mei_12_03": {
-      "csv_path": "card/mei/12/adv_card_mei_12_03.csv",
-      "source_changed": false,
-      "source_sha256": "018d7245cfad031cc55596f262bae882680056d276e182e8078671a82d0bff1f"
-    }
-  },
+  "pending_tasks": {},
   "resource_revision": 1097,
   "schema_version": 1,
   "scripts": {
