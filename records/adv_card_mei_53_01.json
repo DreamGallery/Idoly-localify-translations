@@ -1,0 +1,20 @@
+{
+  "artifacts": {
+    "proofread_csv": {
+      "path": "story/reviewed/card/mei/53/adv_card_mei_53_01.csv"
+    },
+    "translation_csv": {
+      "path": "story/human/card/mei/53/adv_card_mei_53_01.csv"
+    }
+  },
+  "file_id": "adv_card_mei_53_01",
+  "proofread": {
+    "revision": 1,
+    "state": "完成"
+  },
+  "schema_version": 1,
+  "translation": {
+    "revision": 1,
+    "state": "完成"
+  }
+}
