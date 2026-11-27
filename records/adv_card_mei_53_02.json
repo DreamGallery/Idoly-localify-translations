@@ -17,12 +17,13 @@
     "timestamp": "2026-11-27T06:31:22Z"
   },
   "proofread": {
-    "revision": 0,
+    "revision": 1,
     "draft_revision": 0,
-    "state": "进行中",
+    "state": "完成",
     "operator_github": "furude627",
     "display_id": "furude627",
-    "timestamp": "2026-11-27T06:32:05Z"
+    "timestamp": "2026-11-27T06:41:12Z",
+    "display_source": "github"
   },
   "artifacts": {
     "translation_csv": {
@@ -31,9 +32,16 @@
       "display_id": "furude627",
       "display_source": "github",
       "timestamp": "2026-11-27T06:31:22Z"
+    },
+    "proofread_csv": {
+      "path": "story/reviewed/card/mei/53/adv_card_mei_53_02.csv",
+      "operator_github": "furude627",
+      "display_id": "furude627",
+      "display_source": "github",
+      "timestamp": "2026-11-27T06:41:12Z"
     }
   },
   "github": {
-    "updated_at": "2026-11-27T06:32:05Z"
+    "updated_at": "2026-11-27T06:41:12Z"
   }
 }
