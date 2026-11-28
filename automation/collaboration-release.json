@@ -1,11 +1,11 @@
 {
   "assets": {
     "bond-stories.json": "f3b0c44ecae36c68b21ece4bd98cde20266a0a6dc0703bc382c92ed277191442",
-    "card-stories.json": "6b98ec3c62b1ab891c4e575f4ddccc4e8da8d62b616511fcb336175c47879535",
+    "card-stories.json": "d4dc7a39724e3305d045f3653308b50633316ba44ec77bf8bee5c5ae0f820c92",
     "event-stories.json": "530b9a73b53abe1fe703c8ac2c80ce50a33dae82a64f16065a3e3024d2ed7ed7",
     "love-stories.json": "a837a0aba7146b79d5d39b489aba4716af862916ce47b5b8c854fa4eb7c0ae15",
-    "manifest.json": "58b127cc043bbec5dce0aaa4dc9abc0b8407c2852fe07ddc5e728ec2443a6857",
-    "text-update.zip": "f5a35f99ab6ff0d91749219f70a987b8181d2946c9b61bc97a2a717cd7a5a326"
+    "manifest.json": "287b787db94d6beefecdd8786ffc36e7a2db3875c00344bac193e91901142770",
+    "text-update.zip": "619d2e78a612635e778b928fb453fc9ee4e65308a9644c83c20bdecd4a45744c"
   },
   "collaboration_baseline": {
     "glossary/names.json": "f947f7be00366472b0a1a5b37f53eb0e4129922bbf3cfd7a40b11af21af5a36e",
@@ -205,6 +205,7 @@
     "records/adv_card_mei_11_01.json": "a32f7a7d977011cb446fe68c0b439f8fecef4f072938255edd669c73dd8b3a22",
     "records/adv_card_mei_11_02.json": "ae4560a56b7f2b6888141453f1b235da39f752ad7fe408104610770d7600562e",
     "records/adv_card_mei_11_03.json": "bdabd939cf3322ac394a63ff142e69e82c375c3ea0cdb893f5fd15e68e68440d",
+    "records/adv_card_mei_12_01.json": "e1dad85f80af47358d89a6db211df085462370bb5c609b011c4deb34872bfe8c",
     "records/adv_card_mei_53_01.json": "cc3a5b8304b2c4f758f420e5550e676d08bbc8e9a4f3a50e68802656fcd17119",
     "records/adv_card_mei_53_02.json": "7dff9adf1c1444abb8df21ed93e18f9bdc07b722f203433f627c3ff88aec4d6a",
     "records/adv_card_mei_53_03.json": "5dca2424c4780e94f59d51a0fd23856baef1b536ffcfd2e9b4eeace95d46e384",
@@ -3394,6 +3395,7 @@
     "story/human/card/mei/11/adv_card_mei_11_01.csv": "28b93d57c5036dbef132b988b5212922bfb8604131d7dab898fd68641e581a13",
     "story/human/card/mei/11/adv_card_mei_11_02.csv": "bddd0bf689ee5659ed190a24506be445953b016a94a2df455dccd664985bb44c",
     "story/human/card/mei/11/adv_card_mei_11_03.csv": "6a9c4c67e3315e63ff4d1d0f1dbfaa136adac9eae678af180f1f123ef400b160",
+    "story/human/card/mei/12/adv_card_mei_12_01.csv": "6b425ea3c4a5b720f2f82809e8929a56743947a72c3ec85f7d6cacacc1a7d05a",
     "story/human/card/mei/53/adv_card_mei_53_01.csv": "2460550c418cd01199898e98dc976b3229ac88591d04fa389da04ce375cedd47",
     "story/human/card/mei/53/adv_card_mei_53_02.csv": "445286f7878072cfa06feef86bddd788e833adb33f47b3e6701510690219ad27",
     "story/human/card/mei/53/adv_card_mei_53_03.csv": "c5f5086e8b53db7586fe9bd62b8b331204fb36d87cadfa9339c8f196e1cb71e7",
@@ -3464,6 +3466,7 @@
     "story/reviewed/card/mei/11/adv_card_mei_11_01.csv": "7795559a142ac41c37d287a5ea5710dd3be6f76efa96e1a365b8aeed61598672",
     "story/reviewed/card/mei/11/adv_card_mei_11_02.csv": "f6a5a77b1329cef302a32045761de31c1923c2607e6e4440286bf9ca5d05f994",
     "story/reviewed/card/mei/11/adv_card_mei_11_03.csv": "e8fd1fb65fd811c3b35a89ef25af56578cfdd6064121d100bfac344912f3e7d2",
+    "story/reviewed/card/mei/12/adv_card_mei_12_01.csv": "85ea5d525c7669d932ebf1f4fca59fa5aed6e5e66b4bf2d4d2c30b1167a1d813",
     "story/reviewed/card/mei/53/adv_card_mei_53_01.csv": "94deeae8c193054489ed2b1c9f7542e1e2500b9a5388c5d3857424910c14804e",
     "story/reviewed/card/mei/53/adv_card_mei_53_02.csv": "00ed935a1264362447c96639d687fe86a5a2a7254b85ab5fca3321daa9c398bb",
     "story/reviewed/card/mei/53/adv_card_mei_53_03.csv": "78a3bda723daf6ce54ebb65666254393485e66d142dc8f1000126ae097ab1ead",
@@ -3533,9 +3536,9 @@
     "ui/zh-Hans.json": "453d4cd43bfcbf8a27f31219b79bf5abb36637dde682fd807426cd0712ad7816",
     "upstream.json": "896fea3fbe774b214b92e97c980ba02270ff81e026f04fad75ce37086e27eb6a"
   },
-  "content_version": "70f3bf4c1cbcc168",
-  "cutoff": "389aaa830f7e5b35e337e11db901eb44c0ec1fc1",
-  "main_parent": "e61e20adf42ed97917a90ad5ce3e0dcbb05149a4",
+  "content_version": "0e8af1e4f00716fe",
+  "cutoff": "e673bbf8c7152461aa381f8222e5c1e67da64ef3",
+  "main_parent": "3b24ff974d2fa488a4273598bb73009f8ffd0344",
   "plugin_asset": null,
   "plugin_commit": "6f7e3cecdf3c4b168f032c9b0b8119e2d5587037",
   "plugin_version": "0.7.1",
@@ -3739,6 +3742,7 @@
     "records/adv_card_mei_11_01.json": "a32f7a7d977011cb446fe68c0b439f8fecef4f072938255edd669c73dd8b3a22",
     "records/adv_card_mei_11_02.json": "ae4560a56b7f2b6888141453f1b235da39f752ad7fe408104610770d7600562e",
     "records/adv_card_mei_11_03.json": "bdabd939cf3322ac394a63ff142e69e82c375c3ea0cdb893f5fd15e68e68440d",
+    "records/adv_card_mei_12_01.json": "e1dad85f80af47358d89a6db211df085462370bb5c609b011c4deb34872bfe8c",
     "records/adv_card_mei_53_01.json": "cc3a5b8304b2c4f758f420e5550e676d08bbc8e9a4f3a50e68802656fcd17119",
     "records/adv_card_mei_53_02.json": "7dff9adf1c1444abb8df21ed93e18f9bdc07b722f203433f627c3ff88aec4d6a",
     "records/adv_card_mei_53_03.json": "5dca2424c4780e94f59d51a0fd23856baef1b536ffcfd2e9b4eeace95d46e384",
@@ -6928,6 +6932,7 @@
     "story/human/card/mei/11/adv_card_mei_11_01.csv": "28b93d57c5036dbef132b988b5212922bfb8604131d7dab898fd68641e581a13",
     "story/human/card/mei/11/adv_card_mei_11_02.csv": "bddd0bf689ee5659ed190a24506be445953b016a94a2df455dccd664985bb44c",
     "story/human/card/mei/11/adv_card_mei_11_03.csv": "6a9c4c67e3315e63ff4d1d0f1dbfaa136adac9eae678af180f1f123ef400b160",
+    "story/human/card/mei/12/adv_card_mei_12_01.csv": "67e9d87fed6d9fa9ed6f664b808ac989d9063573bccb682cf5735f3e929ff4de",
     "story/human/card/mei/53/adv_card_mei_53_01.csv": "2460550c418cd01199898e98dc976b3229ac88591d04fa389da04ce375cedd47",
     "story/human/card/mei/53/adv_card_mei_53_02.csv": "445286f7878072cfa06feef86bddd788e833adb33f47b3e6701510690219ad27",
     "story/human/card/mei/53/adv_card_mei_53_03.csv": "c5f5086e8b53db7586fe9bd62b8b331204fb36d87cadfa9339c8f196e1cb71e7",
@@ -6998,6 +7003,7 @@
     "story/reviewed/card/mei/11/adv_card_mei_11_01.csv": "7795559a142ac41c37d287a5ea5710dd3be6f76efa96e1a365b8aeed61598672",
     "story/reviewed/card/mei/11/adv_card_mei_11_02.csv": "f6a5a77b1329cef302a32045761de31c1923c2607e6e4440286bf9ca5d05f994",
     "story/reviewed/card/mei/11/adv_card_mei_11_03.csv": "e8fd1fb65fd811c3b35a89ef25af56578cfdd6064121d100bfac344912f3e7d2",
+    "story/reviewed/card/mei/12/adv_card_mei_12_01.csv": "f331d0c0e51f80cf46e1c4163c624c2a28a618d7d292c6d58d9d2a21b6fe22df",
     "story/reviewed/card/mei/53/adv_card_mei_53_01.csv": "94deeae8c193054489ed2b1c9f7542e1e2500b9a5388c5d3857424910c14804e",
     "story/reviewed/card/mei/53/adv_card_mei_53_02.csv": "00ed935a1264362447c96639d687fe86a5a2a7254b85ab5fca3321daa9c398bb",
     "story/reviewed/card/mei/53/adv_card_mei_53_03.csv": "78a3bda723daf6ce54ebb65666254393485e66d142dc8f1000126ae097ab1ead",
@@ -7068,5 +7074,5 @@
     "upstream.json": "88c332b07de5daab23cafe1fe011ae0fe9189c06d4758d839fca733526a408db"
   },
   "schema_version": 1,
-  "text_version": "693b199f9f4c8253"
+  "text_version": "44457b64b09d3560"
 }
